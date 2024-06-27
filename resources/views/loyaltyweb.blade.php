@@ -14,8 +14,8 @@
 			<div class="col-lg-6 my-lg-auto">
 			<img src="images/case-studies/loyalty-web/header-logo.webp" class="img-fluid" alt="Loyalty Web Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white">Welcome To</h1>
-					<h1 class="span">Loyalty App</h1>
+					<h1 class="text-white">Shop Smarter, Earn More</h1>
+					<h1 class="span">Bonus Buddy</h1>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
@@ -34,7 +34,8 @@
 			<div class="col-lg-8">
 				<div class="common-heading">
 					<h2 class="text-center">About Bonus Buddy</h1>
-					<p class="text-center">Bonus Buddy is the premier application that offers reliable and attractive cashback deals for our esteemed customers. Our app is designed to provide a seamless and rewarding experience, ensuring that every purchase you make is more valuable. With Bonus Buddy, you can enjoy exclusive cashback offers, making your shopping experience not only enjoyable but also financially beneficial. Trust in Bonus Buddy to deliver the best deals and maximize your savings with every transaction.</p>
+					<p class="text-center">Bonus Buddy is meticulously designed to inspire trust and convenience. With a user-friendly interface, secure transactions, and transparent reward systems, it ensures a seamless and reliable shopping experience. Shop confidently, knowing Bonus Buddy prioritizes your satisfaction and security.
+					</p>
 				</div>
 			</div>
 		</div>
@@ -87,11 +88,12 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Idea</h2>
-					<p class="text-middle">Develop a comprehensive cashback rewards platform, Bonus Buddy, designed to offer users reliable and attractive cashback deals. The project will include a user-friendly mobile application and a responsive website. Key features will encompass personalized deal recommendations based on user preferences, seamless integration with popular e-commerce platforms, and real-time tracking of cashback earnings. Additionally, the platform will incorporate a robust feedback system, enabling users to rate and review deals, ensuring continuous improvement. The backend will leverage advanced data analytics to optimize deal offerings and enhance user engagement. Our goal is to provide a rewarding and efficient shopping experience, maximizing savings for our valuable customers.</p>
+					<p class="text-middle">Welcome to Bonus Buddy: Your go-to cashback rewards platform. Discover personalized deals, seamless integration with leading e-commerce platforms, and real-time cashback tracking. Rate and review deals to enhance your experience. Powered by advanced analytics, we're here to maximize your savings with every purchase
+					</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -103,12 +105,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Target Audience</h2>
-					<p class="text-middle">The primary target audience for the Bonus Buddy cashback rewards platform includes tech-savvy individuals and online shoppers who frequently make purchases across various e-commerce platforms. These users are likely to be aged between 18 to 45 years, comprising both men and women who value saving money and finding the best deals. They are digital natives or comfortable with technology, seeking convenience and efficiency in their shopping experiences. This audience includes college students, young professionals, and families looking to maximize their purchasing power. Additionally, small business owners and entrepreneurs who regularly buy supplies online will benefit from the cashback offers. By providing a seamless and rewarding shopping experience, Bonus Buddy aims to cater to a diverse group of users who are motivated by financial incentives and value-added services.</p>
+					<p class="text-middle">Introducing Bonus Buddy, your ultimate companion for smarter online shopping. Designed for tech enthusiasts and savvy shoppers aged 18-55, our platform offers instant cashback rewards on all your favorite e-commerce purchases. Whether you're a student stretching your dollar, a young professional hunting for deals, or a busy parent balancing budgets, Bonus Buddy simplifies savings with every click. Join a community where convenience meets cashback, making every online purchase more rewarding than ever.</p>
 				</div>
 			</div>	
 		</div>
@@ -123,11 +125,12 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Challenges</h2>
-					<p class="text-middle">Developing the Bonus Buddy cashback rewards platform involves several key challenges. Integrating seamlessly with multiple e-commerce platforms and ensuring accurate, real-time cashback tracking can be complex and technically demanding. Maintaining robust security to protect user data and comply with privacy regulations is critical. Additionally, attracting and retaining users in a competitive market requires effective marketing and continuous user engagement. Managing retailer partnerships and negotiating attractive deals is essential to provide valuable offers. Lastly, the platform must efficiently handle high transaction volumes, necessitating scalable infrastructure and optimal performance.</p>
+					<p class="text-middle">Bonus Buddy tackles complex challenges with ease. Seamlessly integrating with multiple e-commerce platforms, it ensures accurate, real-time cashback tracking while prioritizing robust security and user privacy. Through effective marketing and continuous engagement, Bonus Buddy attracts and retains users in a competitive market. Managing retailer partnerships to negotiate valuable deals, it efficiently handles high transaction volumes with scalable infrastructure for optimal performance."
+</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -139,12 +142,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Solution Delivered</h2>
-					<p class="text-middle">Bonus Buddy successfully addresses these challenges with a comprehensive approach. We developed robust integration modules to ensure seamless connectivity with multiple e-commerce platforms and real-time cashback tracking. Our platform incorporates advanced security measures to protect user data and comply with privacy regulations. Effective marketing strategies and user engagement initiatives have been implemented to attract and retain users. We established strong partnerships with retailers, securing attractive deals for our users. Additionally, our scalable infrastructure ensures efficient handling of high transaction volumes, providing a smooth and reliable user experience.</p>
+					<h2 class="mb30 txt-heading">Unveiling Bonus Buddy's Solution
+					</h2>
+					<p class="text-middle">At Bonus Buddy, we excel in addressing challenges through innovative solutions. Our platform features robust integration modules that seamlessly connect with multiple e-commerce platforms, offering real-time cashback tracking to maximize savings. Security is our top priority, with advanced measures ensuring user data protection and compliance with privacy regulations. Effective marketing strategies and engaging user initiatives foster a vibrant community of savvy shoppers. Partnering with leading retailers secures exclusive deals, enhancing the value of every transaction. Our scalable infrastructure guarantees smooth operations even during high transaction volumes, ensuring a reliable and seamless user experience. Join Bonus Buddy in revolutionizing smart shopping with unparalleled convenience and rewarding savings.
+					</p>
 				</div>
 			</div>
 		</div>
@@ -158,12 +163,16 @@
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Results/Impact</h2>
-					<p class="text-middle">The implementation of Bonus Buddy has led to significant positive outcomes. Users have experienced substantial savings through reliable cashback offers, enhancing their overall shopping satisfaction. The seamless integration with various e-commerce platforms has expanded our reach, attracting a growing user base. Our robust security measures have ensured user trust and data protection, leading to high retention rates. Strong retailer partnerships have resulted in exclusive deals, providing additional value to our users. The scalable infrastructure has supported a high volume of transactions smoothly, contributing to a consistent and reliable user experience. Overall, Bonus Buddy has successfully established itself as a trusted and valuable cashback rewards platform.</p>
+					<h2 class="mb30 txt-heading">Innovative Impact of Bonus Buddy: Redefining Savings and Trust
+					</h2>
+					<p class="text-middle">Since its inception, Bonus Buddy has transformed the landscape of cashback rewards with its innovative approach. By offering reliable cashback offers, users have experienced substantial savings, significantly enhancing their shopping satisfaction. The platform's seamless integration with a variety of e-commerce platforms has not only expanded its reach but also attracted a growing user base seeking effortless savings.
+<br>Central to its success is Bonus Buddy's commitment to robust security measures, ensuring user trust and safeguarding personal data, which has resulted in high retention rates <br>
+As a result, Bonus Buddy has firmly established itself as a trusted and invaluable companion for users looking to maximize savings and enjoy a secure, rewarding shopping experience.
+</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -175,12 +184,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Conclusion</h2>
-					<p class="text-middle">In conclusion, Bonus Buddy has emerged as a premier cashback rewards platform, delivering significant value and savings to its users. Through seamless integration with e-commerce platforms, advanced security measures, and strong retailer partnerships, we have created a reliable and user-friendly experience. Our effective marketing strategies and continuous engagement efforts have successfully attracted and retained a diverse user base. The platform’s scalable infrastructure ensures consistent performance, even with high transaction volumes. As a result, Bonus Buddy has built trust and loyalty among its users, establishing itself as a leading solution in the cashback rewards market. We remain committed to enhancing the platform and providing exceptional value to our customers.</p>
+					<h2 class="mb30 txt-heading">Bonus Buddy: Redefining Cashback Rewards <br>Conclusion</h2>
+					<p class="text-middle">Bonus Buddy has redefined cashback rewards by seamlessly integrating with e-commerce platforms, employing advanced security measures, and forging strong retailer partnerships. Our effective marketing strategies and continuous user engagement have fostered a diverse and loyal user base. With scalable infrastructure ensuring consistent performance, Bonus Buddy stands as a leader in delivering significant value and savings. We are committed to enhancing our platform and continuing to provide exceptional value to our customers, shaping the future of smart shopping.
+
+</p>
 				</div>
 			</div>
 		</div>
@@ -257,7 +268,7 @@
 	<div class="pt50">
 		<div class="row mt-4 mt-lg-0 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-12">
-				<img src="images/case-studies/loyalty-web/ui-ux.webp" alt="Loyalty Web UI/UX" class="img-fluid w-100">
+				<img src="images/case-studies/loyalty-web/ui-ux.webp" alt="Real Estate Web UI/UX" class="img-fluid w-100">
 			</div>
 		</div>
 	</div>
@@ -323,13 +334,13 @@
 				<p>Create, upload and manage all the content on the application and make run-time changes through simple and user-friendly content management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-01.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/admin-features-01.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/admin-features-03.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/admin-features-03.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">User Management</h5>
@@ -349,7 +360,7 @@
 				<p>Get notified with your customers' activities and statuses through the notification/alerts feature.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-02.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/admin-features-02.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -376,13 +387,13 @@
 				<p>A dynamic and diverse listing of properties, updated in real-time to reflect the latest market conditions.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">Properties Information</h5>

@@ -2838,7 +2838,7 @@
 	.real-estate-about h2, .real-estate-project-idea h2, .real-estate-target-audience h2, .real-estate-project-challanges h2, .real-estate-solutions-delivered h2,
 	.real-estate-results-impact h2, .real-estate-conclusion h2, .real-estate-design-process h2,  .real-estate-sketching h2, .real-estate-wireframe h2,
 	.real-estate-color h2, .real-estate-typography h2, .real-estate-features h2, .real-estate-sitemap h2, .real-estate-project-timeline h2, .real-estate-components h2,
-	.real-estate-visuals h2, .real-estate-project-timeline h2 {
+	.real-estate-visuals h2, .real-estate-project-timeline h2, .real-estate-goal h2 {
 		font-size: 80px;
 		line-height: 100px;
 	}

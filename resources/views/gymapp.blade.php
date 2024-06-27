@@ -37,7 +37,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/about-gym.webp" alt="Gym App" class="img-fluid">
+				<img src="images/case-studies/gym-app/about-Gym.webp" alt="Gym App" class="img-fluid">
 			</div>
 		</div>
 	</div>

@@ -13542,3 +13542,7 @@ footer h6 {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.gym-sitemap-web-img {
+    background: var(--black3-color);
+}

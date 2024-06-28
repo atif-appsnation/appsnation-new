@@ -6725,11 +6725,17 @@ html .pb140 {
 }
 
 .bg-gradient6 {
-    background: #e8fffc;
-    background: -moz-linear-gradient(top, #e8fffc 0%, #fff4f4 100%);
-    background: -webkit-linear-gradient(top, #e8fffc 0%, #fff4f4 100%);
-    background: linear-gradient(to bottom, #e8fffc 0%, #fff4f4 100%);
+    background: #e0f7f4;
+    background: -moz-linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%);
+    background: -webkit-linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%);
 }
+
+
+
+
+
+
 
 .bg-gradient7 {
     background: #ffe2e2;

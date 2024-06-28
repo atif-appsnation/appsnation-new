@@ -279,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													<li class="pt-4">
 														<a href="{{url('/education-and-human-resource')}}">
 															<div class="menu-item-img"> <img src="images/menu/education.webp" class="services-icons"> </div>
-															<div class="menu-item-title align-middle">Education and Human Resource</div>
+															<div class="menu-item-title align-middle">Education</div>
 														</a>
 													</li>
 												</ul>

@@ -625,79 +625,188 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-4 col-sm-6 col mt40 wow fadeInUp" data-wow-delay="0.2s">
-				<div class="isotope_item up-hor">
-					<div class="item-image">
-						<a href="{{url('/travel-agency-app')}}">
-							<img src="images/portfolio/travel-agency-app.webp" alt="Travel Agency App" class="img-fluid" />
-						</a>
+	</div>
+
+	<section class="container-fluid py-lg-5">
+		<ul class="nav nav-pills justify-content-center wow fadeInLeft" role="tablist">
+			<li class="nav-item">
+				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#web">Web</a>
+			</li>
+			<!-- <li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#mobile-apps">Mobile Apps</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#website">Website</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
+			</li> -->
+		</ul>
+		<div class="tab-content mt-5 wow fadeInRight">
+			<div id="app" class="tab-pane active"><br>
+				<div class="scrollHalf">
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto app-first-cs">
+							<img src="images/case-studies/travel-agency-app/header-phone.webp" class="img-fluid" alt="Travel Agency App" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
+							<img src="images/case-studies/travel-agency-app/header-logo.webp" alt="Travel Agency App" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Travel Agency App</h2>
+							<p class="pt-3 case-study-text">Travelicious excels as a top-tier travel agency, renowned for crafting exceptional journeys to destinations worldwide. They specialize in bespoke travel experiences that cater to adventurous spirits looking to explore the globe. With a focus on personalized service, they ensure every trip is memorable and seamlessly orchestrated.</p>
+							<a target="_blank" href="{{url('/travel-agency-app')}}" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
-					<div class="item-info-div shdo">
-						<h4>Travel Agency App</h4>
-						<p>iOS, Android</p>
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto app-second-cs">
+							<img src="images/case-studies/real-estate-app/header-phone.webp" class="img-fluid" alt="Real Estate App" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
+							<img src="images/case-studies/real-estate-app/header-logo.webp" alt="Real Estate App" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Real Estate App</h2>
+							<p class="pt-3 case-study-text">Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process. Our app combines detailed property listings, a convenient mortgage calculator, and map integration into a user-friendly interface that makes real estate decisions easier and more accessible.</p>
+							<a target="_blank" href="{{url('/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-sm-6 mt40 wow fadeInUp" data-wow-delay="0.4s">
-				<div class="isotope_item up-hor">
-					<div class="item-image">
-						<a href="{{url('/travel-agency-web')}}">
-							<img src="images/portfolio/travel-agency-web.webp" alt="Travel Agency Web" class="img-fluid" />
-						</a>
+			<div id="web" class="tab-pane fade"><br>
+				<div class="scrollHalf">
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto web-first-cs">
+							<img src="images/case-studies/travel-agency-web/header-web.webp" class="img-fluid" alt="Travel Agency App" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
+							<img src="images/case-studies/travel-agency-web/header-logo.webp" alt="Travel Agency Web" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Travel Agency web</h2>
+							<p class="pt-3 case-study-text">Travelicious excels as a top-tier travel agency, renowned for crafting exceptional journeys to destinations worldwide. They specialize in bespoke travel experiences that cater to adventurous spirits looking to explore the globe. With a focus on personalized service, they ensure every trip is memorable and seamlessly orchestrated.</p>
+							<a target="_blank" href="{{url('/travel-agency-web')}}" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
-					<div class="item-info-div shdo">
-						<h4>Travel Agency Web</h4>
-						<p>WordPress</p>
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto web-second-cs">
+							<img src="images/case-studies/real-estate-web/header-web.webp" class="img-fluid" alt="Real Estate App" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
+							<img src="images/case-studies/real-estate-web/header-logo.webp" alt="Real Estate Web" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Real Estate Web</h2>
+							<p class="pt-3 case-study-text">Avenue Is The Best Application Which Provides A Complete Guide For Purchasing And Selling Of Properties. Discover Avenue, the premier app for effortless property transactions. With a user-friendly interface, comprehensive listings, and powerful tools, we make buying and selling properties straightforward and efficient. Join us and navigate the real estate market with confidence and ease.</p>
+							<a target="_blank" href="{{url('/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-sm-6 mt40 wow fadeInUp" data-wow-delay="0.6s">
-				<div class="isotope_item up-hor">
-					<div class="item-image">
-						<img src="images/portfolio/habib-game-store.webp" alt="Habib Game Store" class="img-fluid" />
+			<!-- <div id="mobile-apps" class="tab-pane fade"><br>
+				<div class="scrollHalf">
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto mobile-app-first-cs">
+							<img src="images/case-study/vero-app.webp" class="img-fluid" alt="Verp App" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+							<img src="images/case-study/vero-logo.webp" alt="" class="icon-img" alt="Vero App Logo">
+							<h2 class="pt-3 case-study-heading">Vero App</h2>
+							<p class="pt-3 case-study-text">VERO is a hassle-free, one stop solution for your daily needs. Track what you want to buy, order food, or take a ride. Fit it all in a day with VERO!</p>
+							<a target="_blank" href="https://futurealiti.com/vero" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
-					<div class="item-info-div shdo">
-						<h4>Game App</h4>
-						<p>iOS, Android</p>
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto mobile-app-second-cs">
+							<img src="images/case-study/homestore-app.webp" class="img-fluid" alt="Home Store App" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Logo">
+							<h2 class="pt-3 case-study-heading">Home Store</h2>
+							<p class="pt-3 case-study-text">Order breakfast, lunch, or dinner, rate your favorite restaurants & track your order - one platform to curb your hunger.</p>
+							<a target="_blank" href="https://futurealiti.com/hom-store-app" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-sm-6 mt40 wow fadeInUp" data-wow-delay="0.8s">
-				<div class="isotope_item up-hor">
-					<div class="item-image">
-						<img src="images/portfolio/home-made.webp" alt="Home Made" class="img-fluid" />
+			<div id="website" class="tab-pane fade"><br>
+				<div class="scrollHalf">
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
+							<img src="images/case-study/homestore-web.webp" class="img-fluid" alt="Home Store Web" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Website">
+							<h2 class="pt-3 case-study-heading">Home Store Web</h2>
+							<p class="pt-3 case-study-text">An online store for buying our high quality cooking oils at best prices. Notch features that define the world’s best oil delivery app.</p>
+							<a target="_blank" href="https://futurealiti.com/hom-store-web" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
-					<div class="item-info-div shdo">
-						<h4>Food App</h4>
-						<p>iOS, Android</p>
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-second-cs">
+
+							<img src="images/case-study/erp-web.webp" class="img-fluid" alt="ERP Web" />
+
+							<img src="images/case-study/self_img.webp" class="imgResponsive" />
+
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+							<img src="images/case-study/erp-logo.webp" class="icon-img" alt="ERP Logo">
+							<h2 class="pt-3 case-study-heading">ERP</h2>
+							<p class="pt-3 case-study-text">Improve your day-to-day business operations with our ERP tool. Boost productivity, improve customer experience, and boost operational efficiency!</p>
+							<a target="_blank" href="https://futurealiti.com/erp" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<!-- <div class="col-lg-4 col-sm-6 mt40 wow fadeInUp" data-wow-delay="1s">
-				<div class="isotope_item up-hor">
-					<div class="item-image">
-						<img src="images/portfolio/homestore.webp" alt="Homestore" class="img-fluid" />
-					</div>
-					<div class="item-info-div shdo">
-						<h4>E-Commerce App</h4>
-						<p>iOS, Android</p>
+			<div id="design" class="tab-pane fade"><br>
+				<div class="scrollHalf">
+					<div class="scrollHalf__grupo row h-100" data-scroll>
+						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto design-first-cs">
+							<img src="images/case-study/evil-witch-design.webp" class="img-fluid evil-witch-design" alt="Evil Witch Design" />
+						</div>
+						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+							<img src="images/case-study/evil-witch-logo.webp" alt="Evil Witch Design" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Evil Witch</h2>
+							<p class="pt-3 case-study-text">After much effort, our team found a unique character idea covering the horror feel. It was crucial to converting ideas into reality, especially when it comes to character design from scratch.</p>
+							<a target="_blank" href="https://futurealiti.com/evil-witch" class="btn btn-naked text-uppercase pt-5">
+								<span class="btn-line btn-line-before"></span>
+								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
+								<span class="btn-line btn-line-after"></span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div> -->
-			<div class="col-lg-4 col-sm-6 mt40 wow fadeInUp" data-wow-delay="1.2s">
-				<div class="isotope_item up-hor">
-					<div class="item-image">
-						<img src="images/portfolio/car-gaming.webp" alt="Car Gaming" class="img-fluid" />
-					</div>
-					<div class="item-info-div shdo">
-						<h4>AR/VR App</h4>
-						<p>iOS, Android</p>
-					</div>
-				</div>
-			</div>
 		</div>
-	</div>
+	</section>
 </section>
 <!--End Portfolio-->
 

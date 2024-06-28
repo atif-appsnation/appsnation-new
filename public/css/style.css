@@ -1515,7 +1515,7 @@ a.play-video::after {
     position: relative;
 }
 
-.portfolio-section:before {
+/* .portfolio-section:before {
     content: "";
     background: url(images/shape/dot-pattern.webp);
     position: absolute;
@@ -1525,7 +1525,7 @@ a.play-video::after {
     top: 0;
     background-size: auto;
     background-repeat: repeat;
-}
+} */
 
 .isotope_item {
     position: relative;
@@ -13051,6 +13051,42 @@ footer h6 {
     font-size: 20px;
     line-height: 26px;
 } */
+
+/* Portfolio */
+
+.scrollHalf {
+	position: relative;
+	overflow: hidden;
+}
+
+.scrollHalf__grupo {
+	position: relative;
+	height: 100vh;
+}
+
+.scrollHalf__grupo__imagen {
+	overflow: hidden;
+}
+
+.scrollHalf__grupo__contenido {
+	padding: 3rem;
+}
+
+.scrollHalf__grupo[data-scroll="out"] {
+	opacity: 0;
+}
+
+.scrollHalf__grupo[data-scroll="in"] {
+	opacity: calc(var(--visible-y)*1.9);
+}
+
+.app-first-cs, .web-first-cs {
+    background-color: var(--purple-color);
+}
+
+.app-second-cs, .web-second-cs {
+    background-color: var(--brown-color);
+}
 
 /* Case Studies */
 

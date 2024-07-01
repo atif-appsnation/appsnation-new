@@ -1597,14 +1597,11 @@ class HomeController extends Controller
         return view(
             'loyaltyapps',
             [
-                
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
                 // 'data' => $data,
-
-
             ]
         );
     }
@@ -1620,14 +1617,11 @@ class HomeController extends Controller
         return view(
             'loyaltyweb',
             [
-                
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
                 // 'data' => $data,
-
-
             ]
         );
     }
@@ -1643,14 +1637,11 @@ class HomeController extends Controller
         return view(
             'gymapp',
             [
-                
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
                 // 'data' => $data,
-
-
             ]
         );
     }
@@ -1666,14 +1657,51 @@ class HomeController extends Controller
         return view(
             'gymweb',
             [
-                
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
                 // 'data' => $data,
+            ]
+        );
+    }
 
+    public function moverApps()
+    {
+        $metabank = Metabank::where('slug', 'moverApps')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'moverApps')->where('type', 'Meta')->get();
 
+        $metatag = Metatag::where('slug', 'moverApps')->get();
+        $metatitle = Metatitle::where('slug', 'moverApps')->get();
+
+        return view(
+            'moverapp',
+            [
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                // 'data' => $data,
+            ]
+        );
+    }
+
+    public function moverWeb()
+    {
+        $metabank = Metabank::where('slug', 'moverWeb')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'moverWeb')->where('type', 'Meta')->get();
+
+        $metatag = Metatag::where('slug', 'moverWeb')->get();
+        $metatitle = Metatitle::where('slug', 'moverWeb')->get();
+
+        return view(
+            'moverweb',
+            [
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                // 'data' => $data,
             ]
         );
     }

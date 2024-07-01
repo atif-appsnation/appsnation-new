@@ -382,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													</li>
 													
 													<li class="pt-4">
-														<a href="{{url('/mover-app')}}">
+														<a href="{{url('/moverapp')}}">
 															<div class="menu-item-img"> <img src="images/menu/mover-app.webp" class="services-icons"> </div>
 															<div class="menu-item-title align-middle">Mover App</div>
 														</a>

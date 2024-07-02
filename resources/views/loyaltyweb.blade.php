@@ -91,7 +91,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -103,7 +103,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -127,7 +127,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -139,16 +139,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Bonus Buddy: Your Ultimate Shopping Companion</h2>
 					<p class="text-middle">At Bonus Buddy, we're transforming how you shop with a focus on simplicity and security. Our app is regularly updated with new content and exciting rewards, making every visit worthwhile. We prioritize your privacy with top-notch encryption and strict data protection policies, ensuring your information is always safe.
-<br>Our cloud-based system efficiently manages high traffic, providing real-time updates on promotions and product availability across multiple retailers. This means you get the best deals and the latest information at your fingertips.
-<br>We also use smart technology to personalize your shopping experience, tailoring it to your preferences so you always find what you need quickly and easily.
-<br>Engagement is at the heart of what we do. Through strategic marketing and special incentives, we keep you coming back for more. Plus, we value your feedback and use it to continually improve our app.
-<br>Join Bonus Buddy for a smarter, safer, and more enjoyable shopping experience. Your ultimate shopping companion is here!</p>
+					<br>Our cloud-based system efficiently manages high traffic, providing real-time updates on promotions and product availability across multiple retailers. This means you get the best deals and the latest information at your fingertips.
+					<br>We also use smart technology to personalize your shopping experience, tailoring it to your preferences so you always find what you need quickly and easily.
+					<br>Engagement is at the heart of what we do. Through strategic marketing and special incentives, we keep you coming back for more. Plus, we value your feedback and use it to continually improve our app.
+					<br>Join Bonus Buddy for a smarter, safer, and more enjoyable shopping experience. Your ultimate shopping companion is here!</p>
 				</div>
 			</div>
 		</div>
@@ -167,7 +167,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -179,7 +179,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -261,7 +261,7 @@
 	<div class="pt50">
 		<div class="row mt-4 mt-lg-0 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-12">
-				<img src="images/case-studies/loyalty-web/ui-ux.webp" alt="Real Estate Web UI/UX" class="img-fluid w-100">
+				<img src="images/case-studies/loyalty-web/ui-ux.webp" alt="Loyalty Web UI/UX" class="img-fluid w-100">
 			</div>
 		</div>
 	</div>
@@ -327,13 +327,13 @@
 				<p>Create, upload and manage all the content on the application and make run-time changes through simple and user-friendly content management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-01.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/admin-features-01.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/admin-features-03.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/admin-features-03.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">User Management</h5>
@@ -353,7 +353,7 @@
 				<p>Get notified with your customers' activities and statuses through the notification/alerts feature.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-02.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/admin-features-02.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -380,13 +380,13 @@
 				<p>A dynamic and diverse listing of properties, updated in real-time to reflect the latest market conditions.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">Properties Information</h5>

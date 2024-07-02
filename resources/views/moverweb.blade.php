@@ -2,7 +2,7 @@
 @section('content')
 
 <!--Breadcrumb Area-->
-<section class="breadcrumb-areav2 loyalty-web">
+<section class="breadcrumb-areav2 mover-web">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -12,14 +12,15 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="images/case-studies/loyalty-web/header-logo.webp" class="img-fluid" alt="Loyalty Web Logo">
+			<img src="images/case-studies/mover-web/header-logo.webp" class="img-fluid" alt="Mover Web Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white">Welcome To</h1>
-					<h1 class="span">Loyalty App</h1>
+					<h1>Welcome To</h1>
+					<h1 class="span">Deliverables</h1>
+					<p class="pt-3">Relocate, Transfer, <Param></Param>cking</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/header-web.webp" class="img-fluid" alt="Loyalty Web">
+				<img src="images/case-studies/mover-web/header-web.webp" class="img-fluid" alt="Mover Web">
 			</div>
 		</div>
 	</div>
@@ -28,13 +29,13 @@
 <!--End Breadcrumb Area-->
 
 <!--Start About Project-->
-<section class="loyalty-about py-5 wow fadeIn" data-wow-delay="0.4s">
+<section class="mover-about py-5 wow fadeIn" data-wow-delay="0.4s">
 	<div class="container">
 		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-8">
 				<div class="common-heading">
-					<h2 class="text-center">About Bonus Buddy</h1>
-					<p class="text-center">Bonus Buddy is the premier application that offers reliable and attractive cashback deals for our esteemed customers. Our app is designed to provide a seamless and rewarding experience, ensuring that every purchase you make is more valuable. With Bonus Buddy, you can enjoy exclusive cashback offers, making your shopping experience not only enjoyable but also financially beneficial. Trust in Bonus Buddy to deliver the best deals and maximize your savings with every transaction.</p>
+					<h2 class="text-center">About Deliverables</h1>
+					<p class="text-center">At Mover App, our mission is clear, revolutionize the moving experience. With a steadfast commitment to innovation, we've crafted a seamless platform that bridges the gap between customers and reliable moving professionals. Our dedication to excellence ensures that every interaction, from booking to the final move-in, is smooth, efficient, and stress-free. Join us as we transform the way people move, one seamless connection at a time.</p>
 				</div>
 			</div>
 		</div>
@@ -43,7 +44,7 @@
 <!--End About Project-->
 
 <!--Start Design-->
-<section class="loyalty-design-process py-5">
+<section class="mover-design-process py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn" data-wow-delay="0.2s">
@@ -52,26 +53,26 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<div class="loyalty-web-user-and-research">
-					<img src="images/case-studies/loyalty-web/user-and-research-analytics-icon.webp" alt="User And Reseaarch Analysis" class="img-fluid">
+				<div class="mover-web-user-and-research">
+					<img src="images/case-studies/mover-web/user-and-research-analytics-icon.webp" alt="User And Reseaarch Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">User And Research Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
-				<div class="loyalty-web-problem-and-solutions">
-					<img src="images/case-studies/loyalty-web/problem-and-solutions-icon.webp" alt="Problem And Solution" class="img-fluid">
+				<div class="mover-web-problem-and-solutions">
+					<img src="images/case-studies/mover-web/problem-and-solutions-icon.webp" alt="Problem And Solution" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Problem And Solution</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
-				<div class="loyalty-web-competitive-analysis">
-					<img src="images/case-studies/loyalty-web/competitive-analysis-icon.webp" alt="Competitive Analysis" class="img-fluid">
+				<div class="mover-web-competitive-analysis">
+					<img src="images/case-studies/mover-web/competitive-analysis-icon.webp" alt="Competitive Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Competitive Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
-				<div class="loyalty-web-wireframe-icons">
-					<img src="images/case-studies/loyalty-web/wireframe-icon.webp" alt="Wire Frame" class="img-fluid">
+				<div class="mover-web-wireframe-icons">
+					<img src="images/case-studies/mover-web/wireframe-icon.webp" alt="Wire Frame" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wire Frame</h5>
 			</div>
@@ -81,17 +82,17 @@
 <!--End Design-->
 
 <!--Start Project Idea-->
-<section class="loyalty-project-idea py-5 wow fadeIn" data-wow-delay="0.2s">
+<section class="mover-project-idea py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Idea</h2>
-					<p class="text-middle">Develop a comprehensive cashback rewards platform, Bonus Buddy, designed to offer users reliable and attractive cashback deals. The project will include a user-friendly mobile application and a responsive website. Key features will encompass personalized deal recommendations based on user preferences, seamless integration with popular e-commerce platforms, and real-time tracking of cashback earnings. Additionally, the platform will incorporate a robust feedback system, enabling users to rate and review deals, ensuring continuous improvement. The backend will leverage advanced data analytics to optimize deal offerings and enhance user engagement. Our goal is to provide a rewarding and efficient shopping experience, maximizing savings for our valuable customers.</p>
+					<p class="text-middle">Take your mover website from informative to indispensable with this innovative project: an interactive moving guide seamlessly integrated with a real-time quote engine. The guide will transform into a trusted companion for your visitors, offering a step-by-step moving planner complete with customizable checklists to keep them organized. They'll also have access to a treasure trove of expert tips and resources, from packing strategies to essential paperwork reminders. But the magic doesn't stop there! The built-in quote engine empowers users with instant cost estimates based on their specific needs. Whether it's a local apartment move or a long-distance relocation of a spacious house, users can simply input details like origin, destination, and estimated belongings to receive a transparent pricing picture. This not only fosters trust with informed customers who can confidently plan their budget, but also generates highly qualified leads for your business. With this interactive duo on your website, you'll be the go-to resource for smooth and stress-free moves, attracting a wave of potential customers ready to book your services.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-1.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -99,16 +100,16 @@
 <!--End Project Idea-->
 
 <!--Start Target Audience-->
-<section class="loyalty-target-audience py-5 wow fadeIn" data-wow-delay="0.2s">
+<section class="mover-target-audience py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-2.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Target Audience</h2>
-					<p class="text-middle">The primary target audience for the Bonus Buddy cashback rewards platform includes tech-savvy individuals and online shoppers who frequently make purchases across various e-commerce platforms. These users are likely to be aged between 18 to 45 years, comprising both men and women who value saving money and finding the best deals. They are digital natives or comfortable with technology, seeking convenience and efficiency in their shopping experiences. This audience includes college students, young professionals, and families looking to maximize their purchasing power. Additionally, small business owners and entrepreneurs who regularly buy supplies online will benefit from the cashback offers. By providing a seamless and rewarding shopping experience, Bonus Buddy aims to cater to a diverse group of users who are motivated by financial incentives and value-added services.</p>
+					<p class="text-middle">Young professionals facing a move often juggle demanding careers and new opportunities, leaving little time for the moving process. This project tackles that by transforming your mover website into a one-stop shop designed specifically for them. Imagine an interactive moving guide, broken down into manageable chunks that fit their busy schedules. They can personalize checklists based on their move size and access quick video tutorials for packing and paperwork. Plus, an instant quote engine provides real-time cost estimates based on their specific needs, including origin, destination, and belongings. They can even explore different service options to see how it impacts the final price. By offering ease of use, transparency, and time-saving features, this website makeover will convert young professionals into qualified leads ready to book your services with confidence. This interactive duo - the moving guide and quote engine - will make you the go-to resource for smooth and stress-free moves for busy young professionals.</p>
 				</div>
 			</div>	
 		</div>
@@ -117,17 +118,17 @@
 <!--End Target Audience-->
 
 <!--Start Project Challenges-->
-<section class="loyalty-project-challanges py-5 wow fadeIn" data-wow-delay="0.2s">
+<section class="mover-project-challanges py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Challenges</h2>
-					<p class="text-middle">Developing the Bonus Buddy cashback rewards platform involves several key challenges. Integrating seamlessly with multiple e-commerce platforms and ensuring accurate, real-time cashback tracking can be complex and technically demanding. Maintaining robust security to protect user data and comply with privacy regulations is critical. Additionally, attracting and retaining users in a competitive market requires effective marketing and continuous user engagement. Managing retailer partnerships and negotiating attractive deals is essential to provide valuable offers. Lastly, the platform must efficiently handle high transaction volumes, necessitating scalable infrastructure and optimal performance.</p>
+					<p class="text-middle">While this project promises a smooth experience, there are a few challenges. First, ensuring the interactive guide and quote engine work flawlessly across all devices, especially mobiles, is crucial. Young professionals rely on smartphones, so a clunky mobile experience could lose you leads. Next, keeping the guide's content accurate is key. Regulations and services change, so maintaining fresh and relevant information requires ongoing maintenance. This might involve a dedicated team to monitor updates and adjust the guide accordingly. Finally, integrating the real-time quote engine with your existing pricing system could require technical expertise. Depending on your pricing structure, you might need developers to ensure the engine accurately reflects costs and service options. Despite these hurdles, by prioritizing a user-friendly mobile experience, dedicating resources to ongoing content maintenance, and collaborating with technical experts if needed, you can transform this project into a powerful tool. It will streamline the moving process for young professionals and position your business as a leader in the market.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-1.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -135,16 +136,16 @@
 <!--End Project Challenges-->
 
 <!--Start Solutions Delivered-->
-<section class="loyalty-solutions-delivered py-5 wow fadeIn" data-wow-delay="0.2s">
+<section class="mover-solutions-delivered py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-2.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Solution Delivered</h2>
-					<p class="text-middle">Bonus Buddy successfully addresses these challenges with a comprehensive approach. We developed robust integration modules to ensure seamless connectivity with multiple e-commerce platforms and real-time cashback tracking. Our platform incorporates advanced security measures to protect user data and comply with privacy regulations. Effective marketing strategies and user engagement initiatives have been implemented to attract and retain users. We established strong partnerships with retailers, securing attractive deals for our users. Additionally, our scalable infrastructure ensures efficient handling of high transaction volumes, providing a smooth and reliable user experience.</p>
+					<p class="text-middle">We prioritize a responsive design for both the interactive guide and quote engine. Young professionals rely on their smartphones, so a user-friendly mobile experience is crucial. Our responsive design ensures the content adapts perfectly to any device, allowing them to access information and get quotes on the go. Keeping the guide's content accurate is paramount. We'll implement a user-friendly CMS, allowing your dedicated team to easily update information whenever regulations or services change. This ensures the guide remains a reliable resource for young professionals navigating the moving process. For a seamless quote engine integration, our team possesses the expertise to leverage APIs (Application Programming Interfaces). This allows smooth communication between your existing pricing system and the quote engine. We'll configure the API to translate your pricing structure into real-time quotes, ensuring transparency for young professionals seeking accurate cost estimates. By implementing these solutions, Solutions Delivered empowers you to overcome challenges and deliver a powerful tool. This will not only streamline the moving process for young professionals but also position your business as a leader in the competitive market.</p>
 				</div>
 			</div>
 		</div>
@@ -153,17 +154,17 @@
 <!--End Solutions Delivered-->
 
 <!--Start Results/Impact-->
-<section class="loyalty-results-impact py-5 wow fadeIn" data-wow-delay="0.2s">
+<section class="mover-results-impact py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Results/Impact</h2>
-					<p class="text-middle">The implementation of Bonus Buddy has led to significant positive outcomes. Users have experienced substantial savings through reliable cashback offers, enhancing their overall shopping satisfaction. The seamless integration with various e-commerce platforms has expanded our reach, attracting a growing user base. Our robust security measures have ensured user trust and data protection, leading to high retention rates. Strong retailer partnerships have resulted in exclusive deals, providing additional value to our users. The scalable infrastructure has supported a high volume of transactions smoothly, contributing to a consistent and reliable user experience. Overall, Bonus Buddy has successfully established itself as a trusted and valuable cashback rewards platform.</p>
+					<p class="text-middle">The implementation of the Avenue real estate platform has yielded significant results and made a substantial impact on the real estate market. Firstly, the enhanced accuracy and timeliness of property listings have greatly increased user trust and engagement, leading to higher transaction volumes. The user-friendly interface and robust functionality have attracted a diverse user base, from first-time homebuyers to seasoned investors, significantly expanding the platform's reach. The robust security measures implemented have successfully protected user data, minimizing risks and boosting user confidence in the platform. Scalability solutions have allowed Avenue to accommodate a growing number of users and listings without compromising on performance. The responsive design has improved user retention and satisfaction rates by providing a consistent and efficient experience across all devices. SEO optimizations have increased the site's visibility, attracting more organic traffic and improving market positioning. Lastly, adherence to regulatory compliance has positioned Avenue as a reliable and trustworthy platform, fostering strong relationships with users and stakeholders in the real estate sector. These results collectively demonstrate Avenue's successful transformation of the property buying, selling, and management processes.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-1.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -171,16 +172,16 @@
 <!--End Results/Impact-->
 
 <!--Start Conclusion-->
-<section class="loyalty-conclusion py-5 wow fadeIn" data-wow-delay="0.2s">
+<section class="mover-conclusion py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-2.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Conclusion</h2>
-					<p class="text-middle">In conclusion, Bonus Buddy has emerged as a premier cashback rewards platform, delivering significant value and savings to its users. Through seamless integration with e-commerce platforms, advanced security measures, and strong retailer partnerships, we have created a reliable and user-friendly experience. Our effective marketing strategies and continuous engagement efforts have successfully attracted and retained a diverse user base. The platform’s scalable infrastructure ensures consistent performance, even with high transaction volumes. As a result, Bonus Buddy has built trust and loyalty among its users, establishing itself as a leading solution in the cashback rewards market. We remain committed to enhancing the platform and providing exceptional value to our customers.</p>
+					<p class="text-middle">In conclusion, the Avenue real estate platform has successfully transformed the way individuals and professionals interact with the property market. Through its innovative design and strategic implementations, Avenue has addressed critical challenges, delivering a reliable, secure, and user-friendly platform that enhances property transactions. The comprehensive features and intuitive interface have significantly improved user engagement and satisfaction, establishing Avenue as a leader in the digital real estate space. The platform's scalability and robust infrastructure ensure it is well-positioned to adapt to future market demands and technological advancements. The positive feedback and growing user base are testaments to its effectiveness and impact. Moving forward, Avenue will continue to evolve, leveraging new technologies and insights to further refine and expand its offerings, ensuring it remains at the forefront of the real estate industry.</p>
 				</div>
 			</div>
 		</div>
@@ -189,7 +190,7 @@
 <!--End Conclusion-->
 
 <!--Start Project Timeline-->
-<section class="loyalty-project-timeline py-5">
+<section class="mover-project-timeline py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn" data-wow-delay="0.2s">
@@ -199,7 +200,7 @@
 			</div>
 			<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
 				<div class="project-timeline-img-div pt-3">
-					<img src="images/case-studies/loyalty-web/timeline.webp" alt="Project Timeline" class="img-fluid w-100">
+					<img src="images/case-studies/mover-web/timeline.webp" alt="Project Timeline" class="img-fluid w-100">
 				</div>
 			</div>
 		</div>
@@ -209,7 +210,7 @@
 <!--End Project Timeline-->
 
 <!--Start Sitemap-->
-<section class="loyalty-sitemap py-5">
+<section class="mover-sitemap py-5">
 	<div class="container">
 		<div class="row wow fadeIn" data-wow-delay="0.2s">
 			<div class="col-12">
@@ -219,14 +220,14 @@
 			</div>
 		</div>
 	</div>
-	<div class="loyalty-sitemap-img pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/loyalty-web/sitemap.webp" alt="Sitemap" class="img-fluid w-100">
+	<div class="mover-sitemap-img pt-3 wow fadeIn" data-wow-delay="0.4s">
+		<img src="images/case-studies/mover-web/sitemap.webp" alt="Sitemap" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sitemap-->
 
 <!--Start Wireframe-->
-<section class="loyalty-wireframe py-5">
+<section class="mover-wireframe py-5">
 	<div class="container">
 		<div class="row wow fadeIn" data-wow-delay="0.2s">
 			<div class="col-12">
@@ -237,17 +238,17 @@
 		</div>
 	</div>
 	<div class="pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/loyalty-web/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="images/case-studies/mover-web/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Wiregrame-->
 
 <!--Start UI/UX-->
-<section class="loyalty-visuals py-5">
+<section class="mover-visuals py-5">
 	<div class="container">
 		<div class="row wow fadeIn" data-wow-delay="0.2s">
 			<div class="col-12">
-				<div class="common-heading text-center visual-text">
+				<div class="common-heading text-center visuals-text">
 					<h2 class="mb30">UI/UX</h2>
 				</div>
 			</div>
@@ -257,7 +258,7 @@
 	<div class="pt50">
 		<div class="row mt-4 mt-lg-0 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-12">
-				<img src="images/case-studies/loyalty-web/ui-ux.webp" alt="Real Estate Web UI/UX" class="img-fluid w-100">
+				<img src="images/case-studies/mover-web/ui-ux.webp" alt="Mover Web UI/UX" class="img-fluid w-100">
 			</div>
 		</div>
 	</div>
@@ -265,7 +266,7 @@
 <!--End Visuals-->
 
 <!--Start Color Pallate-->
-<section class="loyalty-color py-5">
+<section class="mover-color py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn" data-wow-delay="0.2">
@@ -275,11 +276,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/loyalty-app/tints.webp" alt="Tints" class="img-fluid">
+				<img src="images/case-studies/mover-app/tints.webp" alt="Tints" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="images/case-studies/loyalty-app/shades.webp" alt="Shades" class="img-fluid">
+				<img src="images/case-studies/mover-app/shades.webp" alt="Shades" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -287,7 +288,7 @@
 <!--End Color Pallate-->
 
 <!--Start Typography-->
-<section class="loyalty-typography py-5">
+<section class="mover-typography py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn" data-wow-delay="0.2s">
@@ -296,7 +297,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/loyalty-web/typography.webp" alt="Typography" class="img-fluid">
+				<img src="images/case-studies/mover-web/typography.webp" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -304,7 +305,7 @@
 <!--End Typography-->
 
 <!--Start Features-->
-<section class="loyalty-features py-5">
+<section class="mover-features py-5">
 	<div class="container">
 		<div class="row wow fadeIn" data-wow-delay="0.2s">
 			<div class="col-12">
@@ -316,40 +317,40 @@
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-lg-6 my-lg-auto">
-				<h5 class="loyalty-sub-heading">Dashboard</h5>
-				<p>Manage and view your app statistics and analytics and get the rapid reports of all your users, sales, profits etc. through extensive admin dashboard.</p>
+				<h5 class="mover-sub-heading">Customers Management</h5>
+				<p>Premium User's Management option offers Block User Enable / Disable User.</p>
 				<hr class="my-5">
-				<h5 class="loyalty-sub-heading">Content Management</h5>
-				<p>Create, upload and manage all the content on the application and make run-time changes through simple and user-friendly content management system.</p>
+				<h5 class="mover-sub-heading">Riders Management</h5>
+				<p>Block User Enable / Disable User option is available in this feature.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-01.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/admin-features-01.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/admin-features-03.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/admin-features-03.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
-				<h5 class="loyalty-sub-heading">User Management</h5>
-				<p class="text-end">Control and manage all the application users and view their activities to know about their interests by user management system.</p>
+				<h5 class="mover-sub-heading">Notifications</h5>
+				<p class="text-end">Send Push Notifications to Customers or Riders for the convenience of both parties.</p>
 				<hr class="my-5 d-block ms-auto">
-				<h5 class="loyalty-sub-heading">Promotions</h5>
-				<p class="text-end">Create drooling promotions and offers to attract users to buy your product and avail various discounts.</p>
+				<h5 class="mover-sub-heading">Promotions</h5>
+				<p class="text-end">Management of Discount, Promo Codes, Management of Coupons, and Premium Packages available.</p>
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.8s">
 			<div class="col-lg-6 my-lg-auto">
-				<h5 class="loyalty-sub-heading">Reviews</h5>
-				<p>To reach the agents right away, use the call, message, or email options.</p>
+				<h5 class="mover-sub-heading">Orders Management</h5>
+				<p>Create unique promos and discounts to entice customers to purchase your products and take advantage of varied discounts./p>
 				<hr class="my-5">
-				<h5 class="loyalty-sub-heading">Notifications</h5>
-				<p>Get notified with your customers' activities and statuses through the notification/alerts feature.</p>
+				<h5 class="mover-sub-heading">Reports Management</h5>
+				<p>Reporting on product usage on a daily, weekly, and monthly basis.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-02.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/admin-features-02.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -357,7 +358,7 @@
 <!--End Features-->
 
 <!--Start Features-->
-<section class="loyalty-features py-5">
+<section class="mover-features py-5">
 	<div class="container">
 		<div class="row wow fadeIn" data-wow-delay="0.2s">
 			<div class="col-12 wow fadeIn">
@@ -369,27 +370,27 @@
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-lg-6 my-lg-auto">
-				<h5 class="loyalty-sub-heading">Search Properties</h5>
-				<p>Find the perfect property with ease using advanced search options.</p>
+				<h5 class="mover-sub-heading">Profile Management</h5>
+				<p>Change your password or edit your profile. You can also View Courier's Reviews and Ratings.</p>
 				<hr class="my-5">
-				<h5 class="loyalty-sub-heading">Properties Listing</h5>
-				<p>A dynamic and diverse listing of properties, updated in real-time to reflect the latest market conditions.</p>
+				<h5 class="mover-sub-heading">Nearby Courier</h5>
+				<p>For the customer’s ease, the app searches for close or nearby courier persons.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-1.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="images/case-studies/mover-web/mover-web-visuals-2.webp" alt="Mover Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
-				<h5 class="loyalty-sub-heading">Properties Information</h5>
-				<p class="text-end">Access detailed information on properties, including specifications, price, and amenities.</p>
+				<h5 class="mover-sub-heading">Track Order</h5>
+				<p class="text-end">With the Live Tracking of Courier person feature on Map, you can keep an eye on the movement of your order.</p>
 				<hr class="my-5 d-block ms-auto">
-				<h5 class="loyalty-sub-heading">Amenities Information</h5>
-				<p class="text-end">Detailed insights into property amenities, helping users make informed decisions.</p>
+				<h5 class="mover-sub-heading">Subscription</h5>
+				<p class="text-end">Customers can avail of Promo Code and Discount Coupons of Premium with the availability of User Subscription plans.</p>
 			</div>
 		</div>
 	</div>

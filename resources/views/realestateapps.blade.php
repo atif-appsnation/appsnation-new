@@ -17,7 +17,7 @@
 					<h1 class="text-white">Welcome To</h1>
 					<h1 class="span">AVENUE</h1>
 					<h3 class="text-white pt-3">RealEstate</h3>
-					<!-- <h3 class="mt50 text-white">TRAVELICIOUS</h3>
+					<!-- <h3 class="mt50 text-white">Real EstateICIOUS</h3>
 					<p class="text-white">EXPERIENCE THE WORLD</p> -->
 				</div>
 			</div>
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -112,7 +112,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -124,7 +124,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -150,7 +150,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -162,7 +162,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -325,13 +325,13 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid real-estate-app-visuals-1">
+					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-1">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid real-estate-app-visuals-2">
+					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-2">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid real-estate-app-visuals-3">
+					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-3">
 				</div>
 			</div>
 		</div>
@@ -359,13 +359,13 @@
 				<p>A large and diverse property list for our valued users to search for various homes.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="real-estate-sub-heading">Property Information</h5>
@@ -385,13 +385,13 @@
 				<p>Maps that are dynamic and responsive to help you find the best routes and pinpoint specific locations.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="1.0s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="real-estate-sub-heading">Check Out</h5>

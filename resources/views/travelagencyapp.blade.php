@@ -33,7 +33,8 @@
 		<div class="row">
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading">
-					<h2>Best App<br>For Travelling</h2>
+					<h2>Best App</h2>
+					<h2 class="span">For Travelling</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -71,7 +72,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-app/travel-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/travel-agency-app/travel-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -83,7 +84,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/travel-agency-app/travel-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/travel-agency-app/travel-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -109,7 +110,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-app/travel-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/travel-agency-app/travel-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -121,7 +122,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/travel-agency-app/travel-app-visuals-4.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/travel-agency-app/travel-app-visuals-4.webp" alt="Travel App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -147,7 +148,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-app/travel-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/travel-agency-app/travel-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -159,7 +160,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/travel-agency-app/travel-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/travel-agency-app/travel-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">

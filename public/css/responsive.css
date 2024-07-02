@@ -2920,6 +2920,38 @@
 		font-size: 60px;
 		line-height: 100px;
 	}
+
+	/* Mover */
+
+	.mover-apps p, .mover-web p {
+		font-size: 18px;
+	}
+	
+	.mover-apps h1, .mover-web h1 {
+		font-size: 88px;
+		line-height: 100px;
+	}
+	
+	.mover-about h2, .mover-project-idea h2, .mover-target-audience h2, .mover-project-challanges h2, .mover-solutions-delivered h2,
+	.mover-results-impact h2, .mover-conclusion h2, .mover-design-process h2,  .mover-sketching h2, .mover-wireframe h2,
+	.mover-color h2, .mover-typography h2, .mover-features h2, .mover-sitemap h2, .mover-project-timeline h2, .mover-components h2,
+	.mover-visuals h2, .mover-project-timeline h2, .mover-about span, .mover-goal h2 {
+		font-size: 80px;
+		line-height: 100px;
+	}
+	
+	.mover-app-visuals-2, .mover-app-visuals-4 {
+		margin-top: 100px;
+	}
+	
+	.mover-app-visuals-1, .mover-app-visuals-2, .mover-app-visuals-3 {
+		max-width: 600px;
+	}
+	
+	.mover-features h5 {
+		font-size: 60px;
+		line-height: 100px;
+	}
 }
 
 @media screen and (max-width: 767px) {

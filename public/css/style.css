@@ -9,8 +9,6 @@
     --brown-color: #35312f;
     --golden-color: #a68b4f;
     --red-color: #EA0009;
-    --black2-color: #12100B;
-    --black3-color: #202020;
     --orange-color: #F15A24;
     --green-color: #A5CB39;
     --dur: .15s;
@@ -13121,6 +13119,10 @@ footer h6 {
 .results-impact-travel h2, .conclusion-travel h2, .design-process-travel h2,  .sketching-travel h2, .wireframe-travel h2,
 .color-travel h2, .typography-travel h2, .features-travel h2, .sitemap-travel h2, .project-timeline h2, .shapes-travel h2, .type-faces-travel h2,
 .mockups-travel h2, .visuals-travel h2 {
+    color: var(--black-color);
+}
+
+.about-travel .span {
     color: var(--purple-color);
 }
 
@@ -13154,8 +13156,8 @@ footer h6 {
 }
 
 .travel-app-sketching-icon, .travel-app-wireframe-icon {
-    background-color: var(--purple-color);
-    border: 1px solid var(--purple-color);
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -13171,6 +13173,7 @@ footer h6 {
 
 .travel-app-branding-icon, .travel-app-visuals-icon {
     border: 1px solid var(--purple-color);
+    background-color: var(--purple-color);
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -13352,7 +13355,7 @@ footer h6 {
 .loyalty-results-impact h2, .loyalty-conclusion h2, .loyalty-design-process h2,  .loyalty-sketching h2, .loyalty-wireframe h2,
 .loyalty-color h2, .loyalty-typography h2, .loyalty-features h2, .loyalty-sitemap h2, .loyalty-project-timeline h2, .loyalty-shapes h2, .loyalty-type-faces h2,
 .loyalty-mockups h2, .loyalty-components h2, .loyalty-visuals h2 {
-    color: var(--black2-color);
+    color: var(--black-color);
 }
 
 .loyalty-goal {
@@ -13376,12 +13379,12 @@ footer h6 {
 }
 
 .loyalty-web .span, .loyalty-apps .span {
-    color: var(--black2-color);
+    color: var(--black-color);
 }
 
 .loyalty-app-sketching-icon, .loyalty-app-wireframe-icon {
-    background-color: var(--black2-color);
-    border: 1px solid var(--black2-color);
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -13419,8 +13422,8 @@ footer h6 {
 }
 
 .loyalty-web-user-and-research, .loyalty-web-problem-and-solutions {
-    background-color: var(--black2-color);
-    border: 1px solid var(--black2-color);
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -13473,7 +13476,7 @@ footer h6 {
 .gym-results-impact h2, .gym-conclusion h2, .gym-design-process h2,  .gym-sketching h2, .gym-wireframe h2,
 .gym-color h2, .gym-typography h2, .gym-features h2, .gym-sitemap h2, .gym-project-timeline h2, .gym-shapes h2, .gym-type-faces h2,
 .gym-mockups h2, .gym-components h2, .gym-visuals h2 {
-    color: var(--black2-color);
+    color: var(--black-color);
 }
 
 .gym-goal {
@@ -13496,7 +13499,7 @@ footer h6 {
     background-repeat: no-repeat;
 }
 
-.gym-web .span, .gym-app .span {
+.gym-web .span, .gym-app .span, .gym-about .span {
     color: var(--orange-color);
 }
 
@@ -13505,8 +13508,8 @@ footer h6 {
 }
 
 .gym-app-sketching-icon, .gym-app-wireframe-icon {
-    background-color: var(--black3-color);
-    border: 1px solid var(--black3-color);
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -13544,8 +13547,8 @@ footer h6 {
 }
 
 .gym-web-user-and-research, .gym-web-problem-and-solutions {
-    background-color: var(--black3-color);
-    border: 1px solid var(--black3-color);
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -13587,5 +13590,134 @@ footer h6 {
 }
 
 .gym-sitemap-web-img {
-    background: var(--black3-color);
+    background: var(--black-color);
+}
+
+/* Mover */
+
+.mover-apps {
+    background-image: url(../images/case-studies/mover-header-background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mover-about h2, .mover-project-idea h2, .mover-target-audience h2, .mover-project-challanges h2, .mover-solutions-delivered h2,
+.mover-results-impact h2, .mover-conclusion h2, .mover-design-process h2,  .mover-sketching h2, .mover-wireframe h2,
+.mover-color h2, .mover-typography h2, .mover-features h2, .mover-sitemap h2, .mover-project-timeline h2, .mover-shapes h2, .mover-type-faces h2,
+.mover-mockups h2, .mover-components h2, .mover-visuals h2 {
+    color: var(--black-color);
+}
+
+.mover-goal {
+    background-image: url(../images/case-studies/mover-app/mover-green-background.webp);
+    /* background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+
+.mover-visuals-background {
+    background-image: url(../images/case-studies/mover-app/mover-background.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mover-web {
+    background-image: url(../images/case-studies/mover-header-background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mover-web .span, .mover-apps .span {
+    color: var(--green-color);
+}
+
+.mover-about .span {
+    color: var(--green-color);
+}
+
+.mover-app-sketching-icon, .mover-app-wireframe-icon {
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+    padding: 35px;
+}
+
+.mover-app-sketching-icon img, .mover-app-wireframe-icon img {
+    width: 75px;
+    height: 75px;
+}
+
+.mover-app-branding-icon, .mover-app-visuals-icon {
+    background-color: var(--green-color);
+    border: 1px solid var(--green-color);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+    padding: 35px;
+}
+
+.mover-app-branding-icon img, .mover-app-visuals-icon img {
+    width: 75px;
+    height: 75px;
+}
+
+.mover-features hr {
+    color: var(--green-color);
+    width: 40%;
+    height: 3px;
+    opacity: 1;
+}
+
+.mover-web-user-and-research, .mover-web-problem-and-solutions {
+    background-color: var(--black-color);
+    border: 1px solid var(--black-color);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+    padding: 35px;
+}
+
+.mover-web-user-and-research img, .mover-web-problem-and-solutions img {
+    width: 75px;
+    height: 75px;
+}
+
+.mover-web-competitive-analysis, .mover-web-wireframe-icons {
+    background-color: var(--green-color);
+    border: 1px solid var(--green-color);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+    padding: 35px;
+}
+
+.mover-web-wireframe-icons img, .mover-web-wireframe-icons img {
+    width: 75px;
+    height: 75px;
+}
+
+.mover-web-features {
+    color: var(--orange-color);
+}
+
+.mover-sitemap-img  {
+    background-image: url(../images/case-studies/mover-app/mover-background.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mover-sitemap-web-img {
+    background: var(--black-color);
 }

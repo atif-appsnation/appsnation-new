@@ -95,5 +95,5 @@ Route::get('/loyalty-app','HomeController@loyaltyApps');
 Route::get('/loyalty-web','HomeController@loyaltyWeb');
 Route::get('/gym-app','HomeController@gymApp');
 Route::get('/gym-web','HomeController@gymWeb');
-Route::get('/mover-app','HomeController@gymApp');
-Route::get('/mover-web','HomeController@gymWeb');
+Route::get('/mover-app','HomeController@moverApps');
+Route::get('/mover-web','HomeController@moverWeb');

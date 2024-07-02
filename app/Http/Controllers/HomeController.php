@@ -1675,7 +1675,7 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'moverApps')->get();
 
         return view(
-            'moverapp',
+            'moverapps',
             [
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,

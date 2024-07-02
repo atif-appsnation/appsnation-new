@@ -72,7 +72,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -84,7 +84,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -114,7 +114,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -126,7 +126,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -157,7 +157,7 @@ We also use smart technology to personalize your shopping experience, tailoring 
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -169,7 +169,7 @@ We also use smart technology to personalize your shopping experience, tailoring 
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -328,13 +328,13 @@ We also use smart technology to personalize your shopping experience, tailoring 
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid loyalty-app-visuals-1">
+					<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-1">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid loyalty-app-visuals-2">
+					<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-2">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid loyalty-app-visuals-3">
+					<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-3">
 				</div>
 			</div>
 		</div>
@@ -362,13 +362,13 @@ We also use smart technology to personalize your shopping experience, tailoring 
 				<p>Pleasing and exceptional earn & redeem points options for the user to avail broad range offers.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-3.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-2.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">Rewards</h5>
@@ -388,7 +388,7 @@ We also use smart technology to personalize your shopping experience, tailoring 
 				<p>Keep update with your valuable customers' thoughts and experience and manage their reviews and rating management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/loyalty-app/loyalty-app-visuals-1.webp" alt="Loyalty App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>

@@ -14,8 +14,8 @@
 			<div class="col-lg-6 my-auto">
 			<img src="images/case-studies/gym-app/header-logo.webp" class="img-fluid" alt="Gym App Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white">Best Fitness</h1>
-					<h1 class="span">App</h1>
+					<h1 class="text-white">Welcome to</h1>
+					<h1 class="span">GYMNASIUM</h1>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
@@ -37,7 +37,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/about-Gym.webp" alt="Gym App" class="img-fluid">
+				<img src="images/case-studies/gym-app/about-gym.webp" alt="Gym App" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -70,7 +70,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -82,7 +82,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -107,7 +107,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -119,7 +119,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -143,7 +143,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -155,7 +155,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid about-phone">
+				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -295,16 +295,16 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid gym-app-visuals-1">
+					<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-1">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid gym-app-visuals-2">
+					<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-2">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid gym-app-visuals-3">
+					<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-3">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="1.0s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Travel App Visuals" class="img-fluid gym-app-visuals-4">
+					<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-4">
 				</div>
 			</div>
 		</div>
@@ -332,13 +332,13 @@
 				<p>Set and track your fitness goals with the help of a calorie counter, a sleep tracker, and a heart rate monitor. You can also look at your prior work.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="gym-sub-heading">Management of Timeline</h5>
@@ -358,13 +358,13 @@
 				<p>To entice your loyal consumers, offer exclusive promotions and discounts.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="1.0s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Travel App Visuals" class="img-fluid">
+				<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="gym-sub-heading">View Recipes</h5>

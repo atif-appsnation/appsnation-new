@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/cross-app-development/cross-app-banner-img.webp" class="img-fluid" alt="Cross platform App Development">
+				<img src="images/services/cross-app-development/cross-app-banner-img.webp" class="img-fluid" alt="Cross platform App Development">
 			</div>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 		<div class="row">
 			<div class="col-lg-5 my-auto">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/service/CrossPlatformAppDevelopement.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/cross-app-development/cross-app-development.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight">

@@ -99,15 +99,15 @@ class HomeController extends Controller
     }
 
 
-    public function educationAndHumanResource()
+    public function education()
     {
-        $metabank = Metabank::where('slug', 'EducationAndHumanResources')->where('type', 'Tag')->get();
-        $metabank2 = Metabank::where('slug', 'EducationAndHumanResources')->where('type', 'Meta')->get();
+        $metabank = Metabank::where('slug', 'Education')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'Education')->where('type', 'Meta')->get();
 
-        $metatag = Metatag::where('slug', 'EducationAndHumanResources')->get();
-        $metatitle = Metatitle::where('slug', 'EducationAndHumanResources')->get();
+        $metatag = Metatag::where('slug', 'Education')->get();
+        $metatitle = Metatitle::where('slug', 'Education')->get();
 
-        return view('educationandhumanresource', ['metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag,]);
+        return view('education', ['metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag,]);
     }
 
 

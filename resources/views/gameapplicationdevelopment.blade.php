@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/game-app-development/game-app-banner-img.webp" class="img-fluid" alt="Game App Development">
+				<img src="images/services/game-app-development/game-app-banner-img.webp" class="img-fluid" alt="Game App Development">
 			</div>
 		</div>
 	</div>
@@ -67,7 +67,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/cross-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/cross-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Cross Platform Support</h4>
@@ -78,7 +78,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/design-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/design-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Design And Animation</h4>
@@ -89,7 +89,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/ui-ux-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/ui-ux-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">UI/UX Integration</h4>
@@ -100,7 +100,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/visuals-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/visuals-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Visuals And Graphics</h4>
@@ -115,7 +115,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/robust-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/robust-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Robust Game Development</h4>
@@ -126,7 +126,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/push-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/push-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Push Notification Support</h4>
@@ -137,7 +137,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/social-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/social-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Social Media Integration</h4>
@@ -148,7 +148,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/game-app-development/monitization-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/monitization-icon.webp" alt="App Consultation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Monetization Of The Game</h4>
@@ -237,47 +237,47 @@
 				</div>
 				<div class="row mt-3 wow fadeInRight">
                     <div class="col-md-4 game-development-col">
-                        <img src="images/game-app-development/casual.webp" alt="Causal Game" class="img-fluid">
+                        <img src="images/services/game-app-development/casual.webp" alt="Causal Game" class="img-fluid">
                         <p class="center-text">Causal<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/game-app-development/action.webp" alt="Action Game" class="img-fluid">
+                        <img src="images/services/game-app-development/action.webp" alt="Action Game" class="img-fluid">
                         <p class="center-text">Action<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/game-app-development/arcade.webp" alt="Arcade Game" class="img-fluid">
+                        <img src="images/services/game-app-development/arcade.webp" alt="Arcade Game" class="img-fluid">
                         <p class="center-text">Arcade<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/game-app-development/adventure.webp" alt="Adventure Game" class="img-fluid">
+                        <img src="images/services/game-app-development/adventure.webp" alt="Adventure Game" class="img-fluid">
                         <p class="center-text">Adventure<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/game-app-development/puzzle.webp" alt="Puzzle Game" class="img-fluid">
+                        <img src="images/services/game-app-development/puzzle.webp" alt="Puzzle Game" class="img-fluid">
                         <p class="center-text">Puzzle<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/game-app-development/multiplayer.webp" alt="Multiplayer Game" class="img-fluid">
+                        <img src="images/services/game-app-development/multiplayer.webp" alt="Multiplayer Game" class="img-fluid">
                         <p class="center-text">Multiplayer<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/game-app-development/racing.webp" alt="Racing Game" class="img-fluid">
+                        <img src="images/services/game-app-development/racing.webp" alt="Racing Game" class="img-fluid">
                         <p class="center-text">Racing<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/game-app-development/sports.webp" alt="Sports Game" class="img-fluid">
+                        <img src="images/services/game-app-development/sports.webp" alt="Sports Game" class="img-fluid">
                         <p class="center-text">Sports<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/game-app-development/combat.webp" alt="Combat Game" class="img-fluid">
+                        <img src="images/services/game-app-development/combat.webp" alt="Combat Game" class="img-fluid">
                         <p class="center-text">Combact<p>
                     </div>
                 </div>

@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">

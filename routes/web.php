@@ -21,7 +21,7 @@ Route::get('/','HomeController@index');
 Route::get('/advertising','HomeController@advertising');
 Route::get('/healthcare-and-life-science','HomeController@healthCareAndLifeScience');
 Route::get('/ecommerce-and-retail','HomeController@ecommerceAndRetail');
-Route::get('/education-and-human-resource','HomeController@educationAndHumanResource');
+Route::get('/education','HomeController@education');
 Route::get('/software-and-high-tech','HomeController@softwareAndHighTech');
 Route::get('/automative-and-transport','HomeController@automativeAndtransport');
 Route::get('/gaming-and-leisure','HomeController@gamingAndLeisure');

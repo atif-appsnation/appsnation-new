@@ -16,6 +16,7 @@
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome To</h1>
 					<h1 class="span">Loyalty App</h1>
+					<p class="pt-4 text-white">Welcome to Bonus Buddy! Shop smarter, save more, and enjoy exclusive cashback rewards. Happy shopping!"</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
@@ -32,7 +33,8 @@
 		<div class="row">
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading">
-					<h2>Best Ever<br>Experience</h2>
+					<h2>Elevate Your Shopping Experience!</h2>
+					<p class="pt-4">Discover a new level of shopping with Bonus Buddy. Enjoy exclusive cashback rewards, personalized deals, and a seamless experience across your favorite e-commerce platforms. Our intuitive app ensures you never miss out on the best offers tailored just for you, making your shopping journey more enjoyable and efficient. Easily track your rewards and savings in real-time, browse curated recommendations that match your preferences, and unlock special bonuses with every purchase. Share your favorite finds with friends and join a community of savvy shoppers who value smart spending and great deals. Shop smarter, save more, and make every purchase rewarding. Welcome to a superior shopping journey with Bonus Buddy, where your loyalty is always appreciated and rewarded!</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -49,9 +51,8 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-8">
 				<div class="common-heading">
-					<h2 class="text-white text-center">Project Goal</h1>
-					<p class="text-white text-center">Discover a new level of shopping with Bonus Buddy. Enjoy exclusive cashback rewards, personalized deals, and a seamless experience across your favorite e-commerce platforms. Our intuitive app ensures you never miss out on the best offers tailored just for you, making your shopping journey more enjoyable and efficient. Easily track your rewards and savings in real-time, browse curated recommendations that match your preferences, and unlock special bonuses with every purchase. Share your favorite finds with friends and join a community of savvy shoppers who value smart spending and great deals. Shop smarter, save more, and make every purchase rewarding. Welcome to a superior shopping journey with Bonus Buddy, where your loyalty is always appreciated and rewarded!
-					</p>
+					<h2 class="text-white text-center">Project Goal: Transforming Your Shopping Experience</h1>
+					<p class="text-white text-center">At Bonus Buddy, we are transforming the shopping experience, making it more rewarding and enjoyable than ever before. Our mission is to provide a seamless, rewarding journey every time you shop. With our innovative app, you can easily find your favorite products, earn valuable rewards, and access exclusive deals. Our user-friendly interface and personalized recommendations ensure that you get the best value for your money. Stay connected with a community of savvy shoppers, and share your best finds and tips. Join us in making every purchase a bonus and enjoy a smarter, more stylish way to shop with Bonus Buddy!</p>
 				</div>
 			</div>
 		</div>
@@ -65,10 +66,8 @@
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Project Goal: Transforming Your Shopping Experience
-					</h2>
-					<p class="text-middle">At Bonus Buddy, we are transforming the shopping experience, making it more rewarding and enjoyable than ever before. Our mission is to provide a seamless, rewarding journey every time you shop. With our innovative app, you can easily find your favorite products, earn valuable rewards, and access exclusive deals. Our user-friendly interface and personalized recommendations ensure that you get the best value for your money. Stay connected with a community of savvy shoppers, and share your best finds and tips. Join us in making every purchase a bonus and enjoy a smarter, more stylish way to shop with Bonus Buddy!
-					</p>
+					<h2 class="mb30 txt-heading">Transforming Shopping with Smart Rewards</h2>
+					<p class="text-middle">Bonus Buddy is designed to revolutionize your shopping experience through an intuitive mobile application that features a comprehensive loyalty rewards system. Users can shop effortlessly, accumulate points, and access exclusive deals within a sleek, user-friendly interface. Our app not only enhances the convenience of online shopping but also adds significant value with personalized promotions and rewards tailored to each user's preferences. Stay updated with real-time notifications on the latest offers, track your rewards seamlessly, and explore a curated selection of products chosen just for you. Embrace a smarter way to shop with Bonus Buddy and make every transaction count. Enjoy a shopping journey where every purchase is an opportunity to save more and get rewarded!</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -88,10 +87,8 @@
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Transforming Shopping with Smart Rewards
-					</h2>
-					<p class="text-middle">Bonus Buddy is designed to revolutionize your shopping experience through an intuitive mobile application that features a comprehensive loyalty rewards system. Users can shop effortlessly, accumulate points, and access exclusive deals within a sleek, user-friendly interface. Our app not only enhances the convenience of online shopping but also adds significant value with personalized promotions and rewards tailored to each user's preferences. Stay updated with real-time notifications on the latest offers, track your rewards seamlessly, and explore a curated selection of products chosen just for you. Embrace a smarter way to shop with Bonus Buddy and make every transaction count. Enjoy a shopping journey where every purchase is an opportunity to save more and get rewarded!
-					</p>
+					<h2 class="mb30 txt-heading">Tech-Savvy Shoppers</h2>
+					<p class="text-middle">Bonus Buddy caters to tech-savvy online shoppers eager to maximize value through rewards and discounts. Our app appeals to deal-seekers, frequent shoppers, and brand enthusiasts who enjoy personalized experiences and loyalty programs. It also connects socially active users who love sharing their finds with friends, creating a vibrant community of savvy savers. With Bonus Buddy, tech-savvy shoppers can effortlessly navigate through a user-friendly interface, discover exclusive deals tailored to their preferences, and enjoy the convenience of a seamless shopping experience. Join us and elevate your shopping experience with a community that values smart savings and great deals!</p>
 				</div>
 			</div>	
 		</div>
@@ -106,11 +103,8 @@
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Tackling Key Challenges for Bonus Buddy
-					</h2>
-					<p class="text-middle">Creating Bonus Buddy isn't without its hurdles. We need to keep our users engaged with regular updates and exciting rewards, ensuring that the app remains fresh and appealing. Protecting sensitive data is a top priority, requiring robust security measures and constant monitoring to safeguard user information. As we grow, we must scale efficiently to handle more users and transactions smoothly, maintaining optimal performance and reliability. Seamless integration with retail systems is vital for providing real-time product information and pricing, ensuring accuracy and user satisfaction. Personalizing each user’s shopping experience calls for sophisticated algorithms that adapt to individual needs, making every interaction meaningful. Effective marketing is crucial to attract and keep users in a competitive market, necessitating creative strategies and targeted campaigns. Lastly, a transparent feedback system is essential for continuous improvement and building community trust, allowing us to respond promptly to user concerns and suggestions.
-
-					</p>
+					<h2 class="mb30 txt-heading">Tackling Key Challenges for Bonus Buddy</h2>
+					<p class="text-middle">Creating Bonus Buddy isn't without its hurdles. We need to keep our users engaged with regular updates and exciting rewards, ensuring that the app remains fresh and appealing. Protecting sensitive data is a top priority, requiring robust security measures and constant monitoring to safeguard user information. As we grow, we must scale efficiently to handle more users and transactions smoothly, maintaining optimal performance and reliability. Seamless integration with retail systems is vital for providing real-time product information and pricing, ensuring accuracy and user satisfaction. Personalizing each user’s shopping experience calls for sophisticated algorithms that adapt to individual needs, making every interaction meaningful. Effective marketing is crucial to attract and keep users in a competitive market, necessitating creative strategies and targeted campaigns. Lastly, a transparent feedback system is essential for continuous improvement and building community trust, allowing us to respond promptly to user concerns and suggestions.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -131,12 +125,14 @@
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Bonus Buddy: Your Ultimate Shopping Companion</h2>
-					<p class="text-middle">At Bonus Buddy, we're transforming how you shop with a focus on simplicity and security. Our app is regularly updated with new content and exciting rewards, making every visit worthwhile. We prioritize your privacy with top-notch encryption and strict data protection policies, ensuring your information is always safe.
-<br>Our cloud-based system efficiently manages high traffic, providing real-time updates on promotions and product availability across multiple retailers. This means you get the best deals and the latest information at your fingertips.
-We also use smart technology to personalize your shopping experience, tailoring it to your preferences so you always find what you need quickly and easily.
-<br>Engagement is at the heart of what we do. Through strategic marketing and special incentives, we keep you coming back for more. Plus, we value your feedback and use it to continually improve our app.
-<br>Join Bonus Buddy for a smarter, safer, and more enjoyable shopping experience. Your ultimate shopping companion is here!
-</p>
+					<p class="text-middle">At Bonus Buddy, we're transforming how you shop with a focus on simplicity and security. Our app is regularly updated with new content and exciting rewards, making every visit worthwhile.</p>
+					<ul class="ps-4">
+						<li>We prioritize your privacy with top-notch encryption and strict data protection policies, ensuring your information is always safe.</li>
+						<li>Our cloud-based system efficiently manages high traffic, providing real-time updates on promotions and product availability across multiple retailers. This means you get the best deals and the latest information at your fingertips.</li>
+						<li>We also use smart technology to personalize your shopping experience, tailoring it to your preferences so you always find what you need quickly and easily.</li>
+						<li>Engagement is at the heart of what we do. Through strategic marketing and special incentives, we keep you coming back for more. Plus, we value your feedback and use it to continually improve our app.</li>
+						<li>Join Bonus Buddy for a smarter, safer, and more enjoyable shopping experience. Your ultimate shopping companion is here!</li>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -150,10 +146,8 @@ We also use smart technology to personalize your shopping experience, tailoring 
 		<div class="row">
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Results and Impact of Bonus Buddy
-					</h2>
-					<p class="text-middle">Bonus Buddy enhances user engagement and retention with its rewarding loyalty system and personalized experiences, making shopping more enjoyable and valuable. Our secure, scalable infrastructure ensures a smooth user experience, even during peak times, minimizing disruptions and maximizing satisfaction. Seamless retail integration provides timely updates on products and promotions, enhancing reliability and user trust. Our comprehensive marketing efforts and responsiveness to user feedback drive continuous improvements, boosting sales and loyalty for our retail partners. By fostering a vibrant community of savvy shoppers, Bonus Buddy creates a win-win scenario for both users and retailers.
-					</p>
+					<h2 class="mb30 txt-heading">Results and Impact of Bonus Buddy</h2>
+					<p class="text-middle">Bonus Buddy enhances user engagement and retention with its rewarding loyalty system and personalized experiences, making shopping more enjoyable and valuable. Our secure, scalable infrastructure ensures a smooth user experience, even during peak times, minimizing disruptions and maximizing satisfaction. Seamless retail integration provides timely updates on products and promotions, enhancing reliability and user trust. Our comprehensive marketing efforts and responsiveness to user feedback drive continuous improvements, boosting sales and loyalty for our retail partners. By fostering a vibrant community of savvy shoppers, Bonus Buddy creates a win-win scenario for both users and retailers.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -173,10 +167,8 @@ We also use smart technology to personalize your shopping experience, tailoring 
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Conclusion: Pioneering Retail Innovation
-					</h2>
-					<p class="text-middle">Bonus Buddy stands at the forefront of retail innovation, seamlessly blending technology with customer-centric strategies to redefine shopping experiences. Emphasizing rewards, security, scalability, and personalized service, the app has not only enhanced user engagement and satisfaction but also set new benchmarks in digital retail. By integrating user feedback proactively, Bonus Buddy continues to evolve, promising to deepen connections between consumers and retailers while advancing convenience and value in the digital marketplace. Our commitment to excellence and innovation ensures that Bonus Buddy will remain a leader in transforming how people shop, making every purchase rewarding and enjoyable. Join us as we continue to pioneer new ways to enhance the shopping experience and drive retail success.
-					</p>
+					<h2 class="mb30 txt-heading">Conclusion: Pioneering Retail Innovation</h2>
+					<p class="text-middle">Bonus Buddy stands at the forefront of retail innovation, seamlessly blending technology with customer-centric strategies to redefine shopping experiences. Emphasizing rewards, security, scalability, and personalized service, the app has not only enhanced user engagement and satisfaction but also set new benchmarks in digital retail. By integrating user feedback proactively, Bonus Buddy continues to evolve, promising to deepen connections between consumers and retailers while advancing convenience and value in the digital marketplace. Our commitment to excellence and innovation ensures that Bonus Buddy will remain a leader in transforming how people shop, making every purchase rewarding and enjoyable. Join us as we continue to pioneer new ways to enhance the shopping experience and drive retail success.</p>
 				</div>
 			</div>
 		</div>

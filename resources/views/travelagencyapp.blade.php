@@ -14,9 +14,10 @@
 			<div class="col-lg-6 my-auto">
 			<img src="images/case-studies/travel-agency-app/header-logo.webp" class="img-fluid" alt="Travel Agency App Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white banner-heading">Best Traveling Agency</h1>
-					<h3 class="mt50 text-white">TRAVELICIOUS</h5>
-					<p class="text-white">EXPERIENCE THE WORLD</p>
+					<h1 class="text-white banner-heading">Welcome to Travelicious</h1>
+					<h3 class="pt-4 text-white banner-heading">Your Ultimate Travel Companion!</h3>
+					<!-- <h3 class="mt50 text-white">TRAVELICIOUS</h5> -->
+					<p class="pt-4 text-white">Whether you're planning a spontaneous weekend getaway or a meticulously planned international adventure, Travelicious is here to make your travel experience seamless and memorable. With our intuitive platform, you can explore the world with confidence, knowing that every aspect of your journey is taken care of effortlessly.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
@@ -35,6 +36,7 @@
 				<div class="common-heading">
 					<h2>Best App</h2>
 					<h2 class="span">For Travelling</h2>
+					<p>Travelicious stands out as the ultimate travel planning tool, designed to cater to the diverse needs of modern travelers. From booking flights and accommodations to discovering local attractions and hidden gems, Travelicious simplifies every step of your journey. Our commitment to user experience excellence ensures that every interaction with the app is intuitive, efficient, and tailored to enhance your travel experience. With Travelicious, travel planning becomes not just a task but an enjoyable part of your adventure.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -52,8 +54,7 @@
 			<div class="col-lg-8">
 				<div class="common-heading">
 					<h2 class="text-white text-center">Project Goal</h1>
-					<p class="text-white text-center"> Our goal is to revolutionize the travel experience by offering a user-friendly app that simplifies planning, booking, and exploring destinations worldwide.
-					</p>
+					<p class="text-white text-center">At Travelicious, our goal is to revolutionize the travel experience by providing a comprehensive, user-friendly app that takes the stress out of travel planning. Through extensive research and development, we've crafted a platform that integrates cutting-edge technology with user-centric design principles. Our vision is to empower travelers of all backgrounds to explore the world with ease, confidence, and excitement. Whether you're a seasoned globetrotter or a first-time explorer, Travelicious is your go-to companion for unlocking new destinations and creating unforgettable memories.</p>
 				</div>
 			</div>
 		</div>
@@ -68,7 +69,7 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Idea</h2>
-					<p class="text-middle">Travelicious aims to empower travelers with a comprehensive platform that seamlessly integrates itinerary planning, real-time updates, and personalized recommendations. By leveraging advanced technology, Travelicious ensures a hassle-free travel experience from start to finish. Whether you're exploring a new city, embarking on a business trip, or planning a dream vacation, Travelicious provides intuitive tools for crafting and managing detailed itineraries tailored to your preferences. Stay informed with instant updates on flight schedules, weather forecasts, and local events, all personalized to enhance your journey. Our goal is to redefine travel planning by offering a reliable companion that simplifies logistics, inspires discovery, and enriches your travel adventures.</p>
+					<p class="text-middle">Travelicious is more than just a travel app—it's a gateway to personalized travel experiences tailored to your preferences. With features like personalized itinerary builders, real-time updates, and curated recommendations, Travelicious ensures that every journey is planned and executed flawlessly. Our platform is designed to inspire adventure and discovery, offering insights and suggestions that go beyond traditional travel services. From business travelers seeking efficiency to families planning memorable vacations, Travelicious adapts to your needs, ensuring that every trip is as enriching and enjoyable as possible.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -89,8 +90,7 @@
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Target Audience</h2>
-					<p class="text-middle">Travelicious caters to today's discerning travelers who prioritize convenience, personalized experiences, and seamless journey planning. Whether you're a frequent flyer seeking efficiency, a family on vacation craving memorable adventures, or a solo adventurer exploring new horizons, Travelicious is meticulously crafted to elevate every facet of your travel experience. Enjoy tailored recommendations, effortless itinerary management, and real-time updates, all designed to ensure your travels are as enriching as they are enjoyable.
-					</p>
+					<p class="text-middle">Travelicious caters to today's discerning travelers who value convenience, personalization, and seamless travel experiences. Whether you're traveling solo, with family, or for business, Travelicious provides the tools and resources to make your journey stress-free and rewarding. Our platform is designed to accommodate diverse travel preferences and styles, ensuring that every user finds value in our comprehensive suite of travel solutions. With Travelicious, you can explore new destinations confidently, knowing that you have a reliable companion to guide you through every step of your adventure.</p>
 				</div>
 			</div>	
 		</div>
@@ -105,8 +105,7 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Challenges</h2>
-					<p class="text-middle">Creating an app that seamlessly integrates multiple travel services, ensures real-time updates, and maintains user engagement posed significant technical and user experience challenges.
-					</p>
+					<p class="text-middle">Developing an app like Travelicious posed several challenges, from designing a user-friendly interface to integrating complex travel services seamlessly. Ensuring real-time updates, robust data security, and scalability were critical components in overcoming these challenges. Our team dedicated extensive resources to research and development, ensuring that Travelicious meets the highest standards of functionality, reliability, and user satisfaction. By addressing these challenges strategically, Travelicious has emerged as a leader in the travel app industry, offering innovative solutions that redefine travel planning for users worldwide.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -127,8 +126,7 @@
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Solution Delivered</h2>
-					<p class="text-middle">By leveraging cutting-edge technology and user-centric design principles, Travelicious overcomes these challenges to deliver a robust app that simplifies travel planning, offers personalized recommendations, and ensures smooth navigation through every stage of the journey.
-					</p>
+					<p class="text-middle">Travelicious leverages advanced technology and innovative design to deliver a seamless travel planning experience. From the moment you start using Travelicious, you'll notice the difference in how easy it is to plan and manage your trips. With features like personalized recommendations, real-time travel alerts, and hassle-free booking options, Travelicious ensures that every aspect of your journey is taken care of with precision and care. Our commitment to excellence extends to every detail of the app, ensuring that users can navigate unfamiliar destinations confidently and enjoy stress-free travel experiences. With Travelicious, travel planning becomes not just a task but an enjoyable part of your journey.</p>
 				</div>
 			</div>
 		</div>
@@ -142,9 +140,8 @@
 		<div class="row">
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Results/Impact</h2>
-					<p class="text-middle">Travelicious has successfully redefined travel planning, offering users a reliable companion that enhances their travel experiences, fosters exploration, and provides peace of mind. Join us on Travelicious and embark on journeys that inspire and delight.
-					</p>
+					<h2 class="mb30 txt-heading">Result Conclusion</h2>
+					<p class="text-middle">Since its launch, Travelicious has redefined travel planning by providing users with a reliable companion that enhances their travel experiences and fosters exploration. Our platform continues to evolve with new features and updates that cater to the changing needs of travelers worldwide. Join Travelicious today and discover how easy and rewarding travel planning can be. Whether you're dreaming of a tropical getaway, a cultural expedition, or a city escape, Travelicious is your ultimate travel companion, ready to guide you through every step of your journey. Experience the world with Travelicious and redefine the way you travel, where every destination is just a tap away.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -156,7 +153,7 @@
 <!--End Results/Impact-->
 
 <!--Start Conclusion-->
-<section class="conclusion-travel py-5 wow fadeIn" data-wow-delay="0.2s">
+<!-- <section class="conclusion-travel py-5 wow fadeIn" data-wow-delay="0.2s">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
@@ -170,7 +167,7 @@
 			</div>
 		</div>
 	</div>
-</section> 
+</section>  -->
 <!--End Conclusion-->
 
 <!--Start Design-->

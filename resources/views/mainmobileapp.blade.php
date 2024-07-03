@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="col-sm-12 col-md-6 mt-4 mt-md-auto wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Mobile App Development">
+				<img src="images/services/mobile-app-development/mobile-app-banner-img.webp" class="img-fluid" alt="Mobile App Development">
 			</div>
         </div>
     </div>
@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="wow fadeInLeft">
-                    <img src="images/mobile-app-development/mobile-app-development.webp" alt="Mobile App Development" class="img-fluid" />
+                    <img src="images/services/mobile-app-development/mobile-app-development.webp" alt="Mobile App Development" class="img-fluid" />
                 </div>
             </div>
             <div class="col-lg-6 block-1 wow fadeInRight my-lg-auto">

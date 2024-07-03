@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/e-commerce-app-development/e-commerce-app-banner-img.webp" class="img-fluid" alt="E-Commerce App Development">
+				<img src="images/services/e-commerce-app-development/e-commerce-app-banner-img.webp" class="img-fluid" alt="E-Commerce App Development">
 			</div>
 		</div>
 	</div>
@@ -31,7 +31,7 @@
 		<div class="row">
 			<div class="col-lg-5 wow fadeInLeft">
 				<div class="image-block">
-					<img src="images/e-commerce-app-development/e-commerce-app-development.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/e-commerce-app-development.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
@@ -334,7 +334,7 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
@@ -353,14 +353,14 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="image-block wow fadeInRight">
-					<img src="images/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-lg-6">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
@@ -379,14 +379,14 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="image-block wow fadeInRight">
-					<img src="images/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-lg-6">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
@@ -405,7 +405,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="image-block wow fadeInRight">
-					<img src="images/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>

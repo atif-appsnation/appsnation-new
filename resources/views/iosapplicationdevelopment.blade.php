@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/ios-app-development/ios-app-banner-img.webp" class="img-fluid" alt="iOS App Development">
+				<img src="images/services/ios-app-development/ios-app-banner-img.webp" class="img-fluid" alt="iOS App Development">
 			</div>
 		</div>
 	</div>
@@ -28,12 +28,12 @@
 <section class="service py-5">
 	<div class=" container">
 		<div class="row">
-			<div class="col-lg-5 my-auto">
+			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/ios-app-development/ios-app-development.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/ios-app-development/ios-app-development.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight">
+			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<span>Overview</span>
 					<h2>Top-Notch<br>

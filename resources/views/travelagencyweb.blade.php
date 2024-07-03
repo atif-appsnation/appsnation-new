@@ -14,9 +14,10 @@
 			<div class="col-lg-6 my-lg-auto">
 			<img src="images/case-studies/travel-agency-web/header-logo.webp" class="img-fluid" alt="Travel Agency Web Logo">
 				<div class="bread-titlev2 mt-4">
-				<h2 class="text-white">Welcome To</h2>
-					<h1 class="text-white">TRAVELICIOUS</h1>
-					<p class="text-white pt-3">BEST TRAVELLING AGENCY</p>
+					<h1 class="text-white banner-heading">Welcome to Travelicious</h1>
+					<h3 class="pt-4 text-white banner-heading">Where Unforgettable Journeys Await!</h3>
+					<!-- <h3 class="mt50 text-white">TRAVELICIOUS</h5> -->
+					<p class="pt-4 text-white">Discover the world with us and redefine how you travel. Our platform is designed to simplify every aspect of your travel experience, from planning to exploration.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
@@ -35,8 +36,7 @@
 			<div class="col-lg-8">
 				<div class="common-heading">
 					<h2 class="text-center">About Travellicious</h1>
-					<p class="text-center">Introducing Travelicious, your go-to travel app for seamless planning and unforgettable adventures. From personalized recommendations to easy booking and exclusive deals, Travelicious simplifies every aspect of your journey. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and redefine the way you travel.
-					</p>
+					<p class="text-center">Introducing Travelicious, your ultimate travel app for seamless planning and unforgettable adventures. From personalized recommendations tailored to your preferences, to easy booking and exclusive deals, Travelicious ensures that every journey is hassle-free and filled with excitement. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and transform the way you explore the world.</p>
 				</div>
 			</div>
 		</div>
@@ -89,8 +89,7 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Idea</h2>
-					<p class="text-middle">We're creating a cutting-edge travel booking platform based on meticulous user research. Through extensive case studies, online surveys, and interviews, we've pinpointed travelers' pain points and preferences. Our platform will feature intuitive tools like personalized itinerary builders and real-time alerts, catering to each traveler's unique needs. Beyond simplifying logistics, we aim to inspire adventure with curated experiences that surpass traditional services. With a focus on user-centered design, we're dedicated to delivering convenience, reliability, and excitement for every journey.
-					</p>
+					<p class="text-middle">Travelicious is developing a cutting-edge travel booking platform grounded in meticulous user research. Through extensive case studies, online surveys, and interviews, we've pinpointed the pain points and preferences of travelers worldwide. Our platform will feature intuitive tools like personalized itinerary builders and real-time alerts, addressing the unique needs of each traveler. Beyond logistics, our aim is to inspire adventure with curated experiences that go beyond traditional services. With a strong emphasis on user-centered design, Travelicious is dedicated to delivering convenience, reliability, and excitement for every journey.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -111,8 +110,7 @@
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Meet Our Audience: Your Ultimate Travel Companions</h2>
-					<p class="text-middle">Our travel agency app caters to a diverse audience of modern travelers who value seamless planning and personalized experiences. From tech-savvy millennials and Gen Z adventurers who prefer digital solutions, to busy professionals seeking efficient trip management, and families looking for family-friendly options—we cater to all. Whether you're a solo explorer, luxury seeker, or budget-conscious traveler, our app offers intuitive tools for personalized itinerary planning, real-time updates, and exclusive deals. We're dedicated to simplifying travel logistics and inspiring unforgettable adventures, ensuring every journey with us is as smooth and rewarding as possible.
-					</p>
+					<p class="text-middle">Our travel agency app caters to a diverse audience of modern travelers who value seamless planning and personalized experiences. From tech-savvy millennials and adventurous Gen Z travelers who embrace digital solutions, to busy professionals seeking efficient trip management, and families in search of family-friendly options—we cater to all travel preferences. Whether you're a solo explorer, luxury seeker, or budget-conscious traveler, Travelicious offers intuitive tools for personalized itinerary planning, real-time updates, and exclusive deals. We're committed to simplifying travel logistics and inspiring unforgettable adventures, ensuring that every journey with us is as smooth and rewarding as possible.</p>
 				</div>
 			</div>	
 		</div>
@@ -127,8 +125,7 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Project Challenges</h2>
-					<p class="text-middle">Creating a travel agency app like Travelicious poses several challenges. These include designing a user-friendly interface that balances simplicity with comprehensive features, integrating seamlessly with various third-party services for booking and updates, ensuring robust data security, personalizing recommendations based on user preferences, scaling the platform to handle increased traffic, and navigating complex global travel regulations. Overcoming these hurdles requires a dedicated team committed to delivering a reliable and personalized travel booking experience for users worldwide.
-					</p>
+					<p class="text-middle">Creating a travel agency app like Travelicious presents several challenges. These include designing a user-friendly interface that strikes a balance between simplicity and comprehensive features, seamless integration with various third-party services for booking and updates, ensuring robust data security, personalizing recommendations based on user preferences, scaling the platform to accommodate increased traffic, and navigating complex global travel regulations. Overcoming these obstacles requires a dedicated team committed to delivering a reliable and personalized travel booking experience for users worldwide.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -148,9 +145,8 @@
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
-					<h2 class="mb30 txt-heading">Enhancing Your Travel Experience: Our Solution
-					</h2>
-					<p class="text-middle">Our travel agency app simplifies and enhances every aspect of your journey. With personalized itinerary planning, real-time travel alerts, and a seamless booking process, we ensure hassle-free travel planning and management. Discover curated experiences and reliable customer support, making every trip memorable and stress-free. Whether you're a frequent flyer or planning your dream vacation, our app is your essential travel companion.</p>
+					<h2 class="mb30 txt-heading">Enhancing Your Travel Experience: Our Solution</h2>
+					<p class="text-middle">Travelicious enhances every journey with personalized itinerary planning, real-time travel alerts, and a seamless booking process. Our app ensures hassle-free travel planning and management, providing curated experiences and reliable customer support to make every trip memorable and stress-free. Whether you're a frequent flyer or planning your dream vacation, Travelicious serves as your essential travel companion.</p>
 				</div>
 			</div>
 		</div>
@@ -165,7 +161,7 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Results/Impact</h2>
-					<p class="text-middle">Travelicious has revolutionized travel by offering unparalleled convenience through easy booking and personalized recommendations. Users enjoy exclusive deals and real-time updates, making their journeys smoother and more enjoyable. With a global reach and positive user feedback, Travelicious continues to redefine travel experiences, connecting adventurers worldwide to unforgettable destinations with just a tap.	</p>
+					<p class="text-middle">Travelicious has revolutionized travel by offering unparalleled convenience through easy booking and personalized recommendations. Users enjoy exclusive deals and real-time updates that make their journeys smoother and more enjoyable. With a global reach and positive user feedback, Travelicious continues to redefine travel experiences, connecting adventurers worldwide to unforgettable destinations with just a tap.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
@@ -186,8 +182,7 @@
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Conclusion: Elevate Your Journeys with Travelicious</h2>
-					<p class="text-middle">At Travelicious, we're committed to transforming the way you travel. With a focus on innovation, convenience, and personalization, our app empowers you to explore the world with confidence and ease. Whether you're seeking adventure, relaxation, or cultural immersion, our comprehensive solutions—from personalized itineraries to real-time updates and curated experiences—ensure every trip is seamless and unforgettable. Join us in redefining travel experiences and embark on your next journey with Travelicious, where every destination is just a tap away.
-					</p>
+					<p class="text-middle">At Travelicious, we're committed to transforming the way you travel. With a focus on innovation, convenience, and personalization, our app empowers you to explore the world with confidence and ease. Whether you're seeking adventure, relaxation, or cultural immersion, Travelicious offers comprehensive solutions—from personalized itineraries to real-time updates and curated experiences—to ensure every trip is seamless and unforgettable. Join us in redefining travel experiences and embark on your next journey with Travelicious, where every destination is just a tap away.</p>
 				</div>
 			</div>
 		</div>

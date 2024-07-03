@@ -277,7 +277,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 														</a>
 													</li>
 													<li class="pt-4">
-														<a href="{{url('/education-and-human-resource')}}">
+														<a href="{{url('/education')}}">
 															<div class="menu-item-img"> <img src="images/menu/education.webp" class="services-icons"> </div>
 															<div class="menu-item-title align-middle">Education</div>
 														</a>
@@ -515,7 +515,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<li><a href="{{url('/ecommerce-and-retail')}}">E-commerce and Retail</a> </li>
 							<li><a href="{{url('/gaming-and-leisure')}}">Gaming and Leisure</a> </li>
 							<li><a href="{{url('/real-estate-and-property')}}">Real Estate and Property</a> </li>
-							<li><a href="{{url('/education-and-human-resource')}}">Education and Human Resource</a> </li>
+							<li><a href="{{url('/education')}}">Education</a> </li>
 							<li><a href="{{url('/financial-software-development')}}">Financial Software Development</a> </li>
 							<li><a href="{{url('/sports-teams-and-leagues')}}">Sports Teams and Leagues</a> </li>
 						</ul>

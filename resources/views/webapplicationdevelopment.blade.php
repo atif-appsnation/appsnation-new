@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/web-app-development/web-app-banner-img.webp" class="img-fluid" alt="Web App Development">
+				<img src="images/services/web-app-development/web-app-banner-img.webp" class="img-fluid" alt="Web App Development">
 			</div>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/web-app-development/web-app-development.webp" alt="Web App Development" class="img-fluid no-shadow" />
+					<img src="images/services/web-app-development/web-app-development.webp" alt="Web App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">

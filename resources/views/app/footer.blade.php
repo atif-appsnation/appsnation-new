@@ -12,7 +12,7 @@
 			<div class="col-lg-6 m-mt30 my-auto">
 				<ul class="nav nav-pills justify-content-center" role="tablist">
 					<li class="nav-item">
-						<a class="nav-link active" data-bs-toggle="pill" href="#kent">Kent, USA</a>
+						<a class="nav-link active" data-bs-toggle="pill" href="#montana">Montana, USA</a>
 					</li>
                     <li class="nav-item">
 						<a class="nav-link" data-bs-toggle="pill" href="#ca">CA, USA</a>
@@ -20,23 +20,26 @@
                     <li class="nav-item">
 						<a class="nav-link" data-bs-toggle="pill" href="#sa">Saudia Arabia</a>
 					</li>
-					<!-- <li class="nav-item">
+                    <li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#uae">United Arab Emirates</a>
+					</li>
+					<li class="nav-item">
 						<a class="nav-link" data-bs-toggle="pill" href="#pakistan">Pakistan</a>
-					</li> -->
+					</li>
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content text-center">
-					<div id="kent" class="container tab-pane active">
-						<img src="images/location/kent-usa.webp" alt="USA" class="pt-4 img-fluid">
-                        <h2 class="text-white pt-4">Kent, USA</h2>
+					<div id="montana" class="container tab-pane active">
+						<img src="images/location/montana-usa.webp" alt="USA" class="pt-4 img-fluid">
+                        <h2 class="text-white pt-4">Montana, USA</h2>
 						<p class="text-white pt-3">12316 SE 254th Ct Kent, WA 98030, United States</p>
                         <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
 						    <i class="fas fa-chevron-right fa-icon"></i>
 						</a>
 					</div>
                     <div id="ca" class="container tab-pane">
-						<img src="images/location/los-angeles-usa.webp" alt="USA" class="pt-4 img-fluid">
+						<img src="images/location/ca-usa.webp" alt="USA" class="pt-4 img-fluid">
                         <h2 class="text-white pt-4">CA, USA</h2>
 						<p class="text-white pt-3">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
                         <a href="https://maps.app.goo.gl/TqBHrPsEMyjLiEHP6" target="blank" class="btn-outline mt-3">View on Map
@@ -44,21 +47,29 @@
 						</a>
 					</div>
                     <div id="sa" class="container tab-pane fade">
-						<img src="images/location/riyadh-sa.webp" alt="Saudia Arabia" class="pt-4 img-fluid">
+						<img src="images/location/saudia-arabia.webp" alt="Saudia Arabia" class="pt-4 img-fluid">
                         <h2 class="text-white pt-4">Saudia Arabia</h2>
 						<p class="text-white pt-3">Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
                         <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
 						    <i class="fas fa-chevron-right fa-icon"></i>
 						</a>
 					</div>
-					<!-- <div id="pakistan" class="container tab-pane fade">
+                    <div id="uae" class="container tab-pane fade">
+						<img src="images/location/uae.webp" alt="Saudia Arabia" class="pt-4 img-fluid">
+                        <h2 class="text-white pt-4">United Arab Emirates</h2>
+						<p class="text-white pt-3">Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
+                        <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
+						    <i class="fas fa-chevron-right fa-icon"></i>
+						</a>
+					</div>
+					<div id="pakistan" class="container tab-pane fade">
 						<img src="images/location/pakistan.webp" alt="Pakistan" class="pt-4 img-fluid">
                         <h2 class="text-white">Pakistan</h2>
 						<p class="text-white pt-3">Plot # 115-B, P.E.C.H.S Block 2, 75400, Karachi, Pakistan</p>
                         <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map
 						    <i class="fas fa-chevron-right fa-icon"></i>
 						</a>
-					</div> -->
+					</div>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-4 mt-md-4 mt-lg-0">

@@ -653,9 +653,9 @@
 							<img src="images/case-studies/travel-agency-app/header-phone.webp" class="img-fluid" alt="Travel Agency App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/travel-agency-logo.svg" alt="Travel Agency App" class="icon-img">
+							<img src="images/case-studies/travel-agency-logo.webp" alt="Travel Agency App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Travel Agency App</h2>
-							<p class="pt-3 case-study-text">At Travelicious, our goal is to revolutionize the travel experience by providing a comprehensive, user-friendly app that takes the stress out of travel planning. Through extensive research and development, we've crafted a platform that integrates cutting-edge technology with user-centric design principles. Our vision is to empower travelers of all backgrounds to explore the world with ease, confidence, and excitement. Whether you're a seasoned globetrotter or a first-time explorer, Travelicious is your go-to companion for unlocking new destinations and creating unforgettable memories.</p>
+							<p class="pt-3 case-study-text">Travelicious stands out as the ultimate travel planning tool, designed to cater to the diverse needs of modern travelers. From booking flights and accommodations to discovering local attractions and hidden gems, Travelicious simplifies every step of your journey. Our commitment to user experience excellence ensures that every interaction with the app is intuitive, efficient, and tailored to enhance your travel experience. With Travelicious, travel planning becomes not just a task but an enjoyable part of your adventure.</p>
 							<a target="_blank" href="{{url('/travel-agency-app')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
@@ -668,7 +668,7 @@
 							<img src="images/case-studies/real-estate-app/header-phone.webp" class="img-fluid" alt="Real Estate App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/real-estate-logo.svg" alt="Real Estate App" class="icon-img">
+							<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate App</h2>
 							<p class="pt-3 case-study-text">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches. We aim to enhance visibility through effective digital marketing and maintain a transparent feedback system for continuous improvement based on user insights. These objectives are designed to elevate the real estate experience and deliver exceptional value to our users.</p>
 							<a target="_blank" href="{{url('/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
@@ -687,7 +687,7 @@
 							<img src="images/case-studies/travel-agency-web/header-web.webp" class="img-fluid" alt="Travel Agency App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/travel-agency-logo.svg" alt="Travel Agency Web" class="icon-img">
+							<img src="images/case-studies/travel-agency-logo.webp" alt="Travel Agency Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Travel Agency Web</h2>
 							<p class="pt-3 case-study-text">Introducing Travelicious, your ultimate travel web for seamless planning and unforgettable adventures. From personalized recommendations tailored to your preferences, to easy booking and exclusive deals, Travelicious ensures that every journey is hassle-free and filled with excitement. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and transform the way you explore the world.</p>
 							<a target="_blank" href="{{url('/travel-agency-web')}}" class="btn btn-naked text-uppercase pt-5">
@@ -702,7 +702,7 @@
 							<img src="images/case-studies/real-estate-web/header-web.webp" class="img-fluid" alt="Real Estate App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/real-estate-logo.svg" alt="Real Estate Web" class="icon-img">
+							<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate Web</h2>
 							<p class="pt-3 case-study-text">Discover Avenue, the ultimate app for all your property buying and selling needs. Our platform offers a seamless and efficient experience with a user-friendly interface, extensive property listings, and powerful tools. Avenue simplifies real estate transactions, making it easy for you to navigate the market confidently. Join us today and explore a smarter way to buy and sell properties.</p>
 							<a target="_blank" href="{{url('/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">

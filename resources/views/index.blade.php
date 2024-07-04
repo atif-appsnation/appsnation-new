@@ -653,7 +653,7 @@
 							<img src="images/case-studies/travel-agency-app/header-phone.webp" class="img-fluid" alt="Travel Agency App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/travel-agency-app/header-logo.webp" alt="Travel Agency App" class="icon-img">
+							<img src="images/case-studies/travel-agency-logo.svg" alt="Travel Agency App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Travel Agency App</h2>
 							<p class="pt-3 case-study-text">Travelicious excels as a top-tier travel agency, renowned for crafting exceptional journeys to destinations worldwide. They specialize in bespoke travel experiences that cater to adventurous spirits looking to explore the globe. With a focus on personalized service, they ensure every trip is memorable and seamlessly orchestrated.</p>
 							<a target="_blank" href="{{url('/travel-agency-app')}}" class="btn btn-naked text-uppercase pt-5">
@@ -668,7 +668,7 @@
 							<img src="images/case-studies/real-estate-app/header-phone.webp" class="img-fluid" alt="Real Estate App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/real-estate-app/header-logo.webp" alt="Real Estate App" class="icon-img">
+							<img src="images/case-studies/real-estate-logo.svg" alt="Real Estate App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate App</h2>
 							<p class="pt-3 case-study-text">Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process. Our app combines detailed property listings, a convenient mortgage calculator, and map integration into a user-friendly interface that makes real estate decisions easier and more accessible.</p>
 							<a target="_blank" href="{{url('/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
@@ -687,7 +687,7 @@
 							<img src="images/case-studies/travel-agency-web/header-web.webp" class="img-fluid" alt="Travel Agency App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/travel-agency-web/header-logo.webp" alt="Travel Agency Web" class="icon-img">
+							<img src="images/case-studies/travel-agency-logo.svg" alt="Travel Agency Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Travel Agency web</h2>
 							<p class="pt-3 case-study-text">Travelicious excels as a top-tier travel agency, renowned for crafting exceptional journeys to destinations worldwide. They specialize in bespoke travel experiences that cater to adventurous spirits looking to explore the globe. With a focus on personalized service, they ensure every trip is memorable and seamlessly orchestrated.</p>
 							<a target="_blank" href="{{url('/travel-agency-web')}}" class="btn btn-naked text-uppercase pt-5">
@@ -702,7 +702,7 @@
 							<img src="images/case-studies/real-estate-web/header-web.webp" class="img-fluid" alt="Real Estate App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/real-estate-web/header-logo.webp" alt="Real Estate Web" class="icon-img">
+							<img src="images/case-studies/real-estate-logo.svg" alt="Real Estate Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate Web</h2>
 							<p class="pt-3 case-study-text">Avenue Is The Best Application Which Provides A Complete Guide For Purchasing And Selling Of Properties. Discover Avenue, the premier app for effortless property transactions. With a user-friendly interface, comprehensive listings, and powerful tools, we make buying and selling properties straightforward and efficient. Join us and navigate the real estate market with confidence and ease.</p>
 							<a target="_blank" href="{{url('/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">

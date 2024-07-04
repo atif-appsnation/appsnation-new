@@ -36,7 +36,7 @@
 			<div class="col-lg-8">
 				<div class="common-heading">
 					<h2 class="text-center">About Travellicious</h1>
-					<p class="text-center">Introducing Travelicious, your ultimate travel app for seamless planning and unforgettable adventures. From personalized recommendations tailored to your preferences, to easy booking and exclusive deals, Travelicious ensures that every journey is hassle-free and filled with excitement. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and transform the way you explore the world.</p>
+					<p class="text-center">Introducing Travelicious, your ultimate travel web for seamless planning and unforgettable adventures. From personalized recommendations tailored to your preferences, to easy booking and exclusive deals, Travelicious ensures that every journey is hassle-free and filled with excitement. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and transform the way you explore the world.</p>
 				</div>
 			</div>
 		</div>

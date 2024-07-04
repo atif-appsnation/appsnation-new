@@ -655,7 +655,7 @@
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
 							<img src="images/case-studies/travel-agency-logo.svg" alt="Travel Agency App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Travel Agency App</h2>
-							<p class="pt-3 case-study-text">Travelicious excels as a top-tier travel agency, renowned for crafting exceptional journeys to destinations worldwide. They specialize in bespoke travel experiences that cater to adventurous spirits looking to explore the globe. With a focus on personalized service, they ensure every trip is memorable and seamlessly orchestrated.</p>
+							<p class="pt-3 case-study-text">At Travelicious, our goal is to revolutionize the travel experience by providing a comprehensive, user-friendly app that takes the stress out of travel planning. Through extensive research and development, we've crafted a platform that integrates cutting-edge technology with user-centric design principles. Our vision is to empower travelers of all backgrounds to explore the world with ease, confidence, and excitement. Whether you're a seasoned globetrotter or a first-time explorer, Travelicious is your go-to companion for unlocking new destinations and creating unforgettable memories.</p>
 							<a target="_blank" href="{{url('/travel-agency-app')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
@@ -670,7 +670,7 @@
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
 							<img src="images/case-studies/real-estate-logo.svg" alt="Real Estate App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate App</h2>
-							<p class="pt-3 case-study-text">Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process. Our app combines detailed property listings, a convenient mortgage calculator, and map integration into a user-friendly interface that makes real estate decisions easier and more accessible.</p>
+							<p class="pt-3 case-study-text">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches. We aim to enhance visibility through effective digital marketing and maintain a transparent feedback system for continuous improvement based on user insights. These objectives are designed to elevate the real estate experience and deliver exceptional value to our users.</p>
 							<a target="_blank" href="{{url('/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
@@ -688,8 +688,8 @@
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
 							<img src="images/case-studies/travel-agency-logo.svg" alt="Travel Agency Web" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Travel Agency web</h2>
-							<p class="pt-3 case-study-text">Travelicious excels as a top-tier travel agency, renowned for crafting exceptional journeys to destinations worldwide. They specialize in bespoke travel experiences that cater to adventurous spirits looking to explore the globe. With a focus on personalized service, they ensure every trip is memorable and seamlessly orchestrated.</p>
+							<h2 class="pt-3 case-study-heading">Travel Agency Web</h2>
+							<p class="pt-3 case-study-text">Introducing Travelicious, your ultimate travel web for seamless planning and unforgettable adventures. From personalized recommendations tailored to your preferences, to easy booking and exclusive deals, Travelicious ensures that every journey is hassle-free and filled with excitement. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and transform the way you explore the world.</p>
 							<a target="_blank" href="{{url('/travel-agency-web')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
@@ -704,7 +704,7 @@
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
 							<img src="images/case-studies/real-estate-logo.svg" alt="Real Estate Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate Web</h2>
-							<p class="pt-3 case-study-text">Avenue Is The Best Application Which Provides A Complete Guide For Purchasing And Selling Of Properties. Discover Avenue, the premier app for effortless property transactions. With a user-friendly interface, comprehensive listings, and powerful tools, we make buying and selling properties straightforward and efficient. Join us and navigate the real estate market with confidence and ease.</p>
+							<p class="pt-3 case-study-text">Discover Avenue, the ultimate app for all your property buying and selling needs. Our platform offers a seamless and efficient experience with a user-friendly interface, extensive property listings, and powerful tools. Avenue simplifies real estate transactions, making it easy for you to navigate the market confidently. Join us today and explore a smarter way to buy and sell properties.</p>
 							<a target="_blank" href="{{url('/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>

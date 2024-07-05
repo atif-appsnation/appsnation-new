@@ -226,4 +226,17 @@
 	</div>
 </section>
 <!--End Why-->
+
+<!--Start Video-->
+<section class="video py-5">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-12 wow fadeIn">
+			<iframe width="600" height="450" src="https://www.youtube.com/embed/k0MpbSD7tn4?si=w2LpEWgHwZIme8_X" title="Revolutionizing Education with Advanced Mobile EdTech Apps | Appsnation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Video-->
+
 @endsection

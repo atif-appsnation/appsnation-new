@@ -14,8 +14,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Loyalty App Service</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">
-The goal of a loyalty app is to improve marketing strategies that encourage customers to make purchases. The app aims to persuade users to buy more products that are part of the loyalty program, either in addition to or instead of non-loyalty program products.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">The goal of a loyalty app is to improve marketing strategies that encourage customers to make purchases. The app aims to persuade users to buy more products that are part of the loyalty program, either in addition to or instead of non-loyalty program products.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>

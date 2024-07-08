@@ -11,12 +11,12 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Android App Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">MIXED REALITY (MR) DEVELOPMENT</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Virtual Reality (VR) and Augmented Reality (AR) are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/mr-app-development/ar-game-changer.webp" class="img-fluid" alt="Mixed Reality App Development">
 			</div>
 		</div>
 	</div>
@@ -29,16 +29,15 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/mr-app-development/ar-game-changer.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Mixed Reality Development Services</span></h2>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<h2><span class="flup-theme">Mixed Reality (MR) Development</span> Services</h2>
+					<p>Although the concept of Mixed Reality (MR) is both exciting and promising, many businesses lack the expertise to develop this kind of technology. Fortunately, we not only have the experience, but we also understand the challenges you face and can help bring your MR project to life.</p>
+					<p>At Futurealiti, we are passionate about MR to help you take advantage of it by creating experiences that blend real people with computer-generated environments. We design, engineer, and deliver for companies that need a fully immersive experience that brings products to life.</p>
 				</div>
 			</div>
 		</div>
@@ -52,12 +51,12 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
+					<h2>Our Mixed Reality (MR) Development Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
 				<div class="common-heading ptag">
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p>We produce high-quality Mixed Reality (MR) experiences with our 3D and 2D visualizers. With our capabilities, you can create a diverse range of Mixed Reality experiences, a powerful blend of real-life objects, realistic environments, and computer-generated animation.</p>
 				</div>
 			</div>
 		</div>

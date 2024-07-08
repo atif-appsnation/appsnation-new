@@ -230,6 +230,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 															<div class="menu-item-title align-middle">AR & VR App Development</div>
 														</a>
 														<ul class="main-submenu">
+															<li> <a href="{{url('/mr-app-development')}}">MR App Development</a> </li>
 															<li> <a href="{{url('/ar-app-development')}}">AR App Development</a> </li>
 															<li> <a href="{{url('/vr-app-development')}}">VR App Development</a> </li>
 														</ul>
@@ -486,6 +487,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</li>
 							<li><a href="{{url('/ar-vr-app-development')}}">AR & VR App Development</a>
 								<ul>
+									<li> <a href="{{url('/mr-app-development')}}">MR App Development</a> </li>
 									<li><a href="{{url('/ar-app-development')}}">AR App Development</a></li>
 									<li><a href="{{url('/vr-app-development')}}">VR Ap Development</a></li>
 								</ul>

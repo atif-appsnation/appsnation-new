@@ -76,8 +76,6 @@ Route::get('/thank-you','HomeController@thankyou');
 Route::get('/tech-stack','HomeController@techStack');
 Route::get('/terms-and-conditions','HomeController@termsandcondition');
 Route::get('/company-policy','HomeController@companypolicy');
-
-// new pages
 Route::get('/exterior-3d','HomeController@exterior3d');
 Route::get('/interior-3d','HomeController@interior3d');
 Route::get('/animation-services','HomeController@animationServices');

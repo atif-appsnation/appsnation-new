@@ -67,10 +67,10 @@
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
+						<h4>Mixed Reality Apps Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
+						<p>Our Mixed Reality Apps Development services are of the highest quality. We make optimum use of our years of experience in this field to develop high-end holographic apps, Virtual Reality experiences, and Augmented Reality applications for you that boost your business productivity and sales.</p>
 					</div>
 				</div>
 			</div>
@@ -80,10 +80,10 @@
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
+						<h4>Mixed Reality Games Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>Our Mixed Reality games development services are tailored to drive success for your brand through exceptional storytelling. We bring your brand to life in a playful, immersive, and interactive way by connecting you with consumers using next-generation technology.</p>
 					</div>
 				</div>
 			</div>
@@ -93,10 +93,10 @@
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Porting</h4>
+						<h4>Custom MR Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>Our custom MR development services will transform your business, saving time and money with experience in all kinds of devices, from large-scale installations to mobile applications.</p>
 					</div>
 				</div>
 			</div>
@@ -106,10 +106,10 @@
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Testing</h4>
+						<h4>MR Support & Maintenance</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
+						<p>We provide ongoing support and maintenance of your application to ensure a flawless user experience throughout the product's journey.</p>
 					</div>
 				</div>
 			</div>
@@ -119,10 +119,10 @@
 						<div class="android-app-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Consultation</h4>
+						<h4>Mixed Reality Experience Design</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
+						<p>With our expertise in various disciplines, including Information Architecture, 3D prototyping, front-end UI/UX design, product management, and development, we help you turn your Mixed Reality ideas into concepts, from concept to design and ultimately to implementation.</p>
 					</div>
 				</div>
 			</div>
@@ -132,10 +132,10 @@
 						<div class="android-app-dev-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
+						<h4>Training Solutions</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
+						<p>Our Mixed Reality Training Solutions services are designed to help you train your users and employees with a modern, immersive, and interactive learning experience. We develop immersive training solutions that build skills through an understanding of the concepts.</p>
 					</div>
 				</div>
 			</div>
@@ -145,10 +145,10 @@
 						<div class="custom-android-app-dev-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
+						<h4>Remote Assistants</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
+						<p>Our Mixed Reality Remote Assistance services help bring a remote employee's environment directly into the office and provide real-time visibility and assistance. We can develop and deploy your Mixed Reality project using the latest technology, no matter how large or complex it may be.</p>
 					</div>
 				</div>
 			</div>
@@ -158,10 +158,10 @@
 						<div class="android-multi-platform-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
+						<h4>Product Configurators</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
+						<p>Our MR product configurators create customized digital prototypes and configurators for your products or services. We make it easy for you to see exactly what your client is getting, allowing them to interact with the product in a visual and immersive way.</p>
 					</div>
 				</div>
 			</div>
@@ -171,10 +171,10 @@
 						<div class="android-watch-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
+						<h4>Digital Twins</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+						<p>We are a Mixed Reality Development Company specializing in developing Digital Twins for Manufacturing, Facility Maintenance, and Operations. We bring digital assets to life, enabling more accessible and efficient maintenance, monitoring, and operations in industrial facilities.</p>
 					</div>
 				</div>
 			</div>
@@ -224,7 +224,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
+				<h2>Creative MR App Development Agency</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
@@ -358,7 +358,7 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<h2>Our <span>MR App</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">

@@ -225,9 +225,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<div class="col-md-6 megamenu">
 												<ul class="main-menu">
 													<li>
-														<a href="{{url('/ar-vr-app-development')}}">
+														<a href="{{url('/xr-app-development')}}">
 															<div class="menu-item-img"> <img src="images/menu/ar-and-vr-app-development.webp" class="services-icons"> </div>
-															<div class="menu-item-title align-middle">AR & VR App Development</div>
+															<div class="menu-item-title align-middle">XR (AR & VR) App Development</div>
 														</a>
 														<ul class="main-submenu">
 															<li> <a href="{{url('/mr-app-development')}}">MR App Development</a> </li>
@@ -485,7 +485,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<li><a href="{{url('/cross-platform-app-development')}}">Cross Platform App Development</a></li>
 								</ul>
 							</li>
-							<li><a href="{{url('/ar-vr-app-development')}}">AR & VR App Development</a>
+							<li><a href="{{url('/xr-app-development')}}">XR (AR & VR) App Development</a>
 								<ul>
 									<li> <a href="{{url('/mr-app-development')}}">MR App Development</a> </li>
 									<li><a href="{{url('/ar-app-development')}}">AR App Development</a></li>

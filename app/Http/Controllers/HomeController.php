@@ -1445,6 +1445,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function mrAppDevelopment()
     {
         $metabank = Metabank::where('slug', 'MrApp')->where('type', 'Tag')->get();
@@ -1473,8 +1474,38 @@ class HomeController extends Controller
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
                 'data' => $data,
+            ]
+        );
+    }
 
+    public function xrAppDevelopment()
+    {
+        $metabank = Metabank::where('slug', 'XrApp')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'XrApp')->where('type', 'Meta')->get();
 
+        $metatag = Metatag::where('slug', 'XrApp')->get();
+        $metatitle = Metatitle::where('slug', 'XrApp')->get();
+
+        $techstack = Techstack::where('xr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('xr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $data = $this->blogApi('xr-app');
+
+        return view(
+            'extendedrealityapplicationdevelopment',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'data' => $data,
             ]
         );
     }

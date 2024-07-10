@@ -618,10 +618,10 @@
 <section class="portfolio-section py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeInLeft">
 				<div class="common-heading">
 					<!-- <span>Our Work</span> -->
-					<h2 class="mb20">Our Latest Creative Work</h2>
+					<h2 class="mb20 text-center">Our Latest Creative Work</h2>
 				</div>
 			</div>
 		</div>
@@ -650,13 +650,13 @@
 				<div class="scrollHalf">
 					<div class="scrollHalf__grupo row h-100" data-scroll>
 						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto app-first-cs">
-							<img src="images/case-studies/travel-agency-app/header-phone.webp" class="img-fluid" alt="Travel Agency App" />
+							<img src="images/case-studies/gym-app/header-phone.webp" class="img-fluid" alt="Gym App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/travel-agency-logo.webp" alt="Travel Agency App" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Travel Agency App</h2>
-							<p class="pt-3 case-study-text">Travelicious stands out as the ultimate travel planning tool, designed to cater to the diverse needs of modern travelers. From booking flights and accommodations to discovering local attractions and hidden gems, Travelicious simplifies every step of your journey. Our commitment to user experience excellence ensures that every interaction with the app is intuitive, efficient, and tailored to enhance your travel experience. With Travelicious, travel planning becomes not just a task but an enjoyable part of your adventure.</p>
-							<a target="_blank" href="{{url('/travel-agency-app')}}" class="btn btn-naked text-uppercase pt-5">
+							<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Gym App</h2>
+							<p class="pt-3 case-study-text">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being. This platform excels by integrating innovative tools and expert insights designed to empower users on their journey toward optimal fitness and wellness. Engage with Gymnasium to transform your health through structured guidance and supportive community features. Whether you're starting your fitness journey or aiming to reach new goals, Gymnasium provides the tools and support you need to succeed. From personalized workout plans to expert nutritional advice and real-time progress tracking, it's your all-in-one companion for achieving and maintaining a healthier lifestyle.</p>
+							<a target="_blank" href="{{url('/gym-app')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -684,13 +684,13 @@
 				<div class="scrollHalf">
 					<div class="scrollHalf__grupo row h-100" data-scroll>
 						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto web-first-cs">
-							<img src="images/case-studies/travel-agency-web/header-web.webp" class="img-fluid" alt="Travel Agency App" />
+							<img src="images/case-studies/gym-web/header-web.webp" class="img-fluid" alt="Gym App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/travel-agency-logo.webp" alt="Travel Agency Web" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Travel Agency Web</h2>
-							<p class="pt-3 case-study-text">Introducing Travelicious, your ultimate travel web for seamless planning and unforgettable adventures. From personalized recommendations tailored to your preferences, to easy booking and exclusive deals, Travelicious ensures that every journey is hassle-free and filled with excitement. Explore with confidence and discover new horizons with Travelicious by your side. Start your next travel experience today and transform the way you explore the world.</p>
-							<a target="_blank" href="{{url('/travel-agency-web')}}" class="btn btn-naked text-uppercase pt-5">
+							<img src="images/case-studies/gym-logo.webp" alt="Gym Web" class="icon-img">
+							<h2 class="pt-3 case-study-heading">Gym Web</h2>
+							<p class="pt-3 case-study-text">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface. We understand that starting and sticking to a fitness regimen can be challenging, which is why Gymnasium simplifies the complexities of fitness, making it accessible and enjoyable for everyone, anywhere, and anytime. From personalized workout plans tailored to your fitness level and goals to expert dietary recommendations, Gymnasium empowers you to take charge of your health with confidence and ease.</p>
+							<a target="_blank" href="{{url('/gym-web')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>

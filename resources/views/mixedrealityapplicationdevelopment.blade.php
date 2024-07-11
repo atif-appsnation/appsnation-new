@@ -37,7 +37,7 @@
 					<!-- <span>Overview</span> -->
 					<h2><span class="flup-theme">Mixed Reality (MR) Development</span> Services</h2>
 					<p>Although the concept of Mixed Reality (MR) is both exciting and promising, many businesses lack the expertise to develop this kind of technology. Fortunately, we not only have the experience, but we also understand the challenges you face and can help bring your MR project to life.</p>
-					<p>At Futurealiti, we are passionate about MR to help you take advantage of it by creating experiences that blend real people with computer-generated environments. We design, engineer, and deliver for companies that need a fully immersive experience that brings products to life.</p>
+					<p>At AppsNation, we are passionate about MR to help you take advantage of it by creating experiences that blend real people with computer-generated environments. We design, engineer, and deliver for companies that need a fully immersive experience that brings products to life.</p>
 				</div>
 			</div>
 		</div>
@@ -363,7 +363,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>AppsNation offers clients an easy and agile mixed reality app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
@@ -585,7 +585,7 @@
 		<div class="row wow fadeInLeft">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Android App</span> Development Company</h2>
+					<h2>Ranked as #1 <span>Mixed Reality App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
@@ -744,13 +744,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								What is MR?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>Mixed reality, or MR, is a technology that blends natural and virtual realities. It is often described as new technologies that combine physical and digital elements to create immersive experiences. For example, augmented reality (AR) integrates computer graphics into the user's view of the real world or virtual reality (VR), immersing people in an entirely digital environment.</p>
                                 </div>
                             </div>
                         </div>
@@ -758,13 +758,19 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								What is difference between AR, MR and VR?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+									<p>If you are new to augmented and mixed reality, you have probably heard these three terms thrown around a lot. But what do they mean?</p>
+									<p class="pt-2">Let us breakdown each of these terms;</p>
+									<ul class="ps-5">
+										<li><strong>Augmented Reality (AR)</strong> is when virtual objects are overlaid on top of real-world objects. You can see the real world with virtual things, like Pokémon Go! or Snapchat filters.</li>
+										<li><strong>Mixed Reality (MR)</strong> is a more advanced version of AR. Whereas AR adds objects to your field of vision, MR overlays them directly onto your body to look like they are there.</li>
+										<li><strong>Virtual Reality (VR)</strong> is an entirely immersive experience where you're completely cut off from the real world around you and transported into another world.</li>
+									</ul>
                                 </div>
                             </div>
                         </div>
@@ -772,55 +778,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								How much does it cost to develop an MR application?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>There is no set price for developing a mixed reality application. The cost depends on the size and type of the project, the project's scope, and how much time you have before the launch date. In addition, the price can be anywhere from $1000 to $1 million.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,13 +792,14 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
+								How long does it take to make an MR project?
                             </button>
                         </h2>
                         <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
+									<p>It depends on the scope of your project, but generally, it can take anywhere from 2-6 months.</p>
+									<p class="pt-2">It is essential to keep in mind that this is just an estimate, and your timeline will depend on many factors: goal, type, size, complexity, of the project, and many other elements.</p>
                                 </div>
                             </div>
                         </div>
@@ -842,13 +807,19 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
+								What kind of testing will you do?
                             </button>
                         </h2>
                         <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
+									<p>We use many different types of testing for each project that helps us get closer to ensuring the product is ready for market. Our testing methods are as below:</p>
+									<ul class="ps-5">
+										<li>Usability Testing</li>
+										<li>Regression Testing</li>
+										<li>Performance Testing</li>
+										<li>Compatibility Testing</li>
+									</ul>
                                 </div>
                             </div>
                         </div>
@@ -856,121 +827,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
+								Will we sign an NDA to keep my MR software/application idea confidential?
                             </button>
                         </h2>
                         <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
+                                    <p>A non-disclosure agreement (NDA) is a contract where two parties agree not to disclose certain information. Yes, we will sign an NDA with you. Without such an agreement, there could be enforceable technical issues. We cannot have those kinds of problems in this project because the exact idea and steps to accomplish your goals can be crucial for authentication.</p>
                                 </div>
                             </div>
                         </div>

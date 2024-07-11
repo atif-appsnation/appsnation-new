@@ -11,12 +11,12 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">MIXED REALITY (MR) DEVELOPMENT</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Virtual Reality (VR) and Augmented Reality (AR) are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">EXTENDED REALITY (XR) DEVELOPMENT</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Enhance productivity and transform your business processes with the most renowned Extended Reality (XR) services provider – Dream, design, deliver the experience of new dimensions with AppsNation.</p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/services/mr-app-development/ar-game-changer.webp" class="img-fluid" alt="Mixed Reality App Development">
+				<img src="images/services/xr-app-development/xr-development-banner-img.webp" class="img-fluid" alt="Extended Reality App Development">
 			</div>
 		</div>
 	</div>
@@ -27,17 +27,17 @@
 <section class="service py-5">
 	<div class=" container">
 		<div class="row">
-			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
-					<img src="images/services/mr-app-development/ar-game-changer.webp" alt="Android App Development" class="img-fluid no-shadow" />
-				</div>
-			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-7 block-1 wow fadeInLeft my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2><span class="flup-theme">Mixed Reality (MR) Development</span> Services</h2>
-					<p>Although the concept of Mixed Reality (MR) is both exciting and promising, many businesses lack the expertise to develop this kind of technology. Fortunately, we not only have the experience, but we also understand the challenges you face and can help bring your MR project to life.</p>
-					<p>At Futurealiti, we are passionate about MR to help you take advantage of it by creating experiences that blend real people with computer-generated environments. We design, engineer, and deliver for companies that need a fully immersive experience that brings products to life.</p>
+					<h2><span class="flup-theme">Extended Reality (XR) Development</span> Services</h2>
+					<p>What is Extended Reality (XR)? Extended Reality (XR) is a collective term for all the immersive technological realities – Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). However, that is not it; these are just what we have until now. Any other relevant technology would count in as XR technology.</p>
+					<p>With the transforming world, AppsNation focuses on enabling businesses and major enterprises to revolutionize with ease with our extensive XR development services. We create custom solutions for a diverse range of problems a company may encounter. Our premium XR services deliver you the best bespoke AR, VR, and MR development strategies and services for enriched productivity, connectivity, engagement, and results.</p>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="image-block wow fadeInRight">
+					<img src="images/services/xr-app-development/xr-development-services-img.webp" alt="Extended Reality App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -51,131 +51,42 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Mixed Reality (MR) Development Services</h2>
+					<img src="images/services/xr-app-development/xr-ar-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
 				<div class="common-heading ptag">
-					<p>We produce high-quality Mixed Reality (MR) experiences with our 3D and 2D visualizers. With our capabilities, you can create a diverse range of Mixed Reality experiences, a powerful blend of real-life objects, realistic environments, and computer-generated animation.</p>
+					<h2>Augmented Reality (AR) Development</h2>
+					<p>We are a full-service augmented reality game development company dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
+					<p>AppsNation shakes up the reality of your business with AR development services. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-designing-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Mixed Reality Apps Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our Mixed Reality Apps Development services are of the highest quality. We make optimum use of our years of experience in this field to develop high-end holographic apps, Virtual Reality experiences, and Augmented Reality applications for you that boost your business productivity and sales.</p>
-					</div>
+		<div class="col-lg-6 mt-3 wow fadeInLeft">
+				<div class="common-heading ptag">
+					<h2>Virtual Reality (AR) Development</h2>
+					<p>Virtual Reality (VR) is a revolutionizing technology that offers users an immersive experience of an imaginary or real-world through computer modeling and simulation. In short, a person can interact with an artificially designed 3D world via VR headsets.</p>
+					<p>We are a professional and expert Virtual Reality (VR) development company on a mission to bring life to the ingenious dreams of businesses. With this powerful technology and expertise, your every fantasy of maximum customer engagement can be achieved.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-web-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Mixed Reality Games Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our Mixed Reality games development services are tailored to drive success for your brand through exceptional storytelling. We bring your brand to life in a playful, immersive, and interactive way by connecting you with consumers using next-generation technology.</p>
-					</div>
+			<div class="col-lg-6 wow fadeInRight">
+				<div class="common-heading ptag">
+					<img src="images/services/xr-app-development/xr-vr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-porting-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Custom MR Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our custom MR development services will transform your business, saving time and money with experience in all kinds of devices, from large-scale installations to mobile applications.</p>
-					</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col-lg-6 wow fadeInLeft">
+				<div class="common-heading ptag">
+					<img src="images/services/xr-app-development/xr-mr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-testing-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>MR Support & Maintenance</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We provide ongoing support and maintenance of your application to ensure a flawless user experience throughout the product's journey.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-consultation-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Mixed Reality Experience Design</h4>
-					</div>
-					<div class="services-text-div">
-						<p>With our expertise in various disciplines, including Information Architecture, 3D prototyping, front-end UI/UX design, product management, and development, we help you turn your Mixed Reality ideas into concepts, from concept to design and ultimately to implementation.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-dev-consultation-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Training Solutions</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our Mixed Reality Training Solutions services are designed to help you train your users and employees with a modern, immersive, and interactive learning experience. We develop immersive training solutions that build skills through an understanding of the concepts.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="custom-android-app-dev-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Remote Assistants</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our Mixed Reality Remote Assistance services help bring a remote employee's environment directly into the office and provide real-time visibility and assistance. We can develop and deploy your Mixed Reality project using the latest technology, no matter how large or complex it may be.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-multi-platform-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Product Configurators</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our MR product configurators create customized digital prototypes and configurators for your products or services. We make it easy for you to see exactly what your client is getting, allowing them to interact with the product in a visual and immersive way.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-watch-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Digital Twins</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We are a Mixed Reality Development Company specializing in developing Digital Twins for Manufacturing, Facility Maintenance, and Operations. We bring digital assets to life, enabling more accessible and efficient maintenance, monitoring, and operations in industrial facilities.</p>
-					</div>
+			<div class="col-lg-6 mt-3 wow fadeInRight">
+				<div class="common-heading ptag">
+					<h2>Mixed Reality (AR) Development</h2>
+					<p>Mixed Reality (MR) is here to bridge the real and virtual world gap. The viewer may see virtual items that seem genuine and are perfectly mapped onto the actual environment thanks to MR – holographic lenses are used to merge VR and AR, allowing virtual things to interact with real-world objects.</p>
+					<p>We hold a firm grasp over MR to empower businesses with tempting marketing campaigns, a chance to collaborate with tech giants, an achievement to be supreme in the market, and most importantly, an entrance to the great market of holographic apps.</p>
 				</div>
 			</div>
 		</div>
@@ -224,7 +135,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative MR App Development Agency</h2>
+				<h2>Creative XR App Development Agency</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
@@ -358,12 +269,12 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>MR App</span> Development Process</h2>
+					<h2>Our <span>XR App</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>AppsNation offers clients an easy and agile android extended reality development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
@@ -585,7 +496,7 @@
 		<div class="row wow fadeInLeft">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Android App</span> Development Company</h2>
+					<h2>Ranked as #1 <span>Extended Reality App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>

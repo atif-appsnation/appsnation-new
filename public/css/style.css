@@ -12560,6 +12560,36 @@ i.fa-brands.fa-instagram {
 
 /* End VR App Development */
 
+/* Start XR App Development */
+
+.xr-ar-img {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    height: 85%;
+}
+
+.xr-vr-img {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    height: 85%;
+}
+
+.xr-mr-img {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    height: 85%;
+}
+
+ul.list {
+    list-style: lower-roman;
+    padding: 15px 35px;
+}
+
+/* End XR App Development */
+
 /* Start IoT App Development */
 
 .iot-consulting-img {

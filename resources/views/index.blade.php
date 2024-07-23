@@ -1,8 +1,85 @@
 @extends('app.main')
 @section('content')
 
+
+
+
 <?php $randomNumber = rand(1, 12) ?>
 
+<section class="hero-slider hero-style mobile-app-{{$randomNumber}}" id="hero-slider">
+	<!-- <img src="images/banner/main-banner-background.jpg" alt="banner" class="lower-banner"> -->
+	<!-- <img src="images/banner/upper-layer-05.webp" alt="banner" class="upper-banner img-fluid"> -->
+	<div class="hero-main-rp container main-ban hidden">
+		<div class="row align-items-center">
+			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
+				<div class="hero-heading-sec2 niwax" data-rellax-speed="3">
+					@if($randomNumber == 1)
+						<h1 class="wow fadeIn">Top Rated <br> <span>Android App </span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 2)
+						<h1 class="wow fadeIn">Top Rated <br> <span>iOS App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 3)
+						<h1 class="wow fadeIn">Top Rated <br> <span>Game App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 4)
+						<h1 class="wow fadeIn">Top Rated <br> <span>Cross Platform App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 5)
+						<h1 class="wow fadeIn">Top Rated <br> <span>E-Commerce App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 6)
+						<h1 class="wow fadeIn">Top Rated <br> <span>Web App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 7)
+						<h1 class="wow fadeIn">Top Rated <br> <span>MR App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 8)
+						<h1 class="wow fadeIn">Top Rated <br> <span>AR App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 9) 
+						<h1 class="wow fadeIn">Top Rated <br> <span>VR App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 10)
+						<h1 class="wow fadeIn">Top Rated <br> <span>IoT App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 11)
+						<h1 class="wow fadeIn">Top Rated <br> <span>Wearables App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@elseif($randomNumber == 12)
+						<h1 class="wow fadeIn">Top Rated <br> <span>Mobile App</span> Development Company</h1>
+						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					@endif
+				</div>
+				<div class="awrd-sec text-w mt40 wow fadeIn">
+					<h5>Our Achievements</h5>
+					<div class="bages-slider owl-carousel mt20">
+						<div class="img-badge-">
+							<a href="#"> <img src="images/icons/badge1.webp" alt="niwax mobile app development company" class="img100w"></a>
+						</div>
+						<div class="img-badge-">
+							<a href="#"> <img src="images/icons/badge2.webp" alt="niwax mobile app development company" class="img100w"></a>
+						</div>
+						<div class="img-badge-">
+							<a href="#"> <img src="images/icons/badge3.webp" alt="niwax mobile app development company" class="img100w"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+<?php $randomNumber = rand(1, 12) ?>
+<!-- 
 {{--
 	@if($randomNumber==1)
 <section class="hero-slider hero-style mobile-app-1">
@@ -31,8 +108,7 @@
 @endif --}}
 
 <section class="hero-slider hero-style mobile-app" id="hero-slider">
-	<!-- <img src="images/banner/main-banner-background.jpg" alt="banner" class="lower-banner"> -->
-	<!-- <img src="images/banner/upper-layer-05.webp" alt="banner" class="upper-banner img-fluid"> -->
+	
 	<div class="hero-main-rp container main-ban hidden">
 		<div class="row align-items-center">
 			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
@@ -57,7 +133,11 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section>  -->
+
+
+
+
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">

@@ -10572,12 +10572,15 @@ button:not(:disabled) {
 }
 
 
-/* .mobile-app {
+/* 
+
+.mobile-app {
     background-image: url(../images/banner/main-banner-background.webp);
     background-size: cover; 
     position: relative;
     background-attachment: fixed;
 }
+
 
 .mobile-app-1 {
     background-image: url(../images/banner/banner-1.webp);
@@ -10663,19 +10666,39 @@ button:not(:disabled) {
     background-attachment: fixed;
 } */
 
-.mobile-app-2 .hero-heading-sec2 h1, .mobile-app-4 .hero-heading-sec2 h1, .mobile-app-6 .hero-heading-sec2 h1,
-.mobile-app-8 .hero-heading-sec2 h1, .mobile-app-10 .hero-heading-sec2 h1, .mobile-app-12 .hero-heading-sec2 h1 {
+ /* .mobile-app-3 .hero-heading-sec2 h1, .mobile-app-5 .hero-heading-sec2 h1, 
+ .mobile-app-12 .hero-heading-sec2 h1 {
     color: var(--black-color);
 }
 
-.mobile-app-2 .hero-heading-sec2>p, .mobile-app-4 .hero-heading-sec2>p, .mobile-app-6 .hero-heading-sec2>p,
-.mobile-app-8 .hero-heading-sec2>p, .mobile-app-10 .hero-heading-sec2>p, .mobile-app-12 .hero-heading-sec2>p {
+  .mobile-app-3 .hero-heading-sec2>p,
+ .mobile-app-12 .hero-heading-sec2>p, .mobile-app-5 .hero-heading-sec2>p {
     color: var(--black-color);
 }
 
-.mobile-app-2 .awrd-sec h5, .mobile-app-4 .awrd-sec h5, .mobile-app-6 .awrd-sec h5,
-.mobile-app-8 .awrd-sec h5, .mobile-app-10 .awrd-sec h5, .mobile-app-12 .awrd-sec h5 {
-    color: var(--black-color);
+  .mobile-app-6 .awrd-sec h5, .mobile-app-3 .awrd-sec h5, 
+ .mobile-app-12 .awrd-sec h5.mobile-app-5 .awrd-sec h5 {
+    color: var(--black-color); 
+}
+*/
+/* ----------------- */
+
+.mobile-app-1 .hero-heading-sec2 h1, .mobile-app-8 .hero-heading-sec2 h1,.mobile-app-2 .hero-heading-sec2 h1,  .mobile-app-4 .hero-heading-sec2 h1,   .mobile-app-3 .hero-heading-sec2 h1, .mobile-app-5 .hero-heading-sec2 h1, 
+.mobile-app-12 .hero-heading-sec2 h1 
+.mobile-app-7 .hero-heading-sec2 h1, .mobile-app-11 .hero-heading-sec2 h1, .mobile-app-9 .hero-heading-sec2 h1, .mobile-app-6 .hero-heading-sec2 h1,  .mobile-app-10 .hero-heading-sec2 h1 {
+    color: var( --white-color);
+}
+
+.mobile-app-1 .hero-heading-sec2>p,   .mobile-app-8 .hero-heading-sec2>p,.mobile-app-2 .hero-heading-sec2>p, .mobile-app-4 .hero-heading-sec2>p,  .mobile-app-3 .hero-heading-sec2>p,
+.mobile-app-12 .hero-heading-sec2>p, .mobile-app-5 .hero-heading-sec2>p 
+.mobile-app-7 .hero-heading-sec2>p, .mobile-app-11 .hero-heading-sec2>p,.mobile-app-9 .hero-heading-sec2>p, .mobile-app-6 .hero-heading-sec2>p,  .mobile-app-10 .hero-heading-sec2>p {
+    color: var( --white-color);
+}
+
+.mobile-app-1 .awrd-sec h5, .mobile-app-8 .awrd-sec h5,.mobile-app-4 .awrd-sec h5,.mobile-app-1 .hero-heading-sec2 h1, .mobile-app-8 .hero-heading-sec2 h1,.mobile-app-2 .hero-heading-sec2 h1,  .mobile-app-4 .hero-heading-sec2 h1,   .mobile-app-6 .awrd-sec h5, .mobile-app-3 .awrd-sec h5, 
+.mobile-app-12 .awrd-sec h5.mobile-app-5 .awrd-sec h5,
+.mobile-app-7 .awrd-sec h5, .mobile-app-11 .awrd-sec h5, .mobile-app-9 .awrd-sec h5, .mobile-app-6 .awrd-sec h5, .mobile-app-2 .awrd-sec h5,.mobile-app-10 .awrd-sec h5 {
+    color: var( --white-color);
 }
 
 /* End Banners */

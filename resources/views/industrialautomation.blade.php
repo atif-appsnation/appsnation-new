@@ -11,34 +11,101 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Industrial Autamation Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">REVOLUTIONIZE YOUR WORKFLOW WITH OUR AUTOMATION SERVICES</h1>
+					<p class="mt20 my-5 text-white" data-wow-delay=".4s">Are you ready to streamline your business and unlock its full potential? Our automation solutions are here to help. Our expert technicians are dedicated to finding the right automation solutions for your unique business needs.</p>
+					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
-			</div>
+			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
+                <div class="app-hero-bnr wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                    <img src="images/services/industrial-automation/industrial-automation-banner-img.png" alt="app development company" class="img-fluid d-block mx-auto">
+                </div>
+            </div>
 		</div>
 	</div>
 </section>
 <!--End Breadcrumb-->
 
 <!--Start About-->
-<section class="service py-5">
+<section class="automation-services service py-5">
 	<div class=" container">
-		<div class="row">
+		<div class="row mb-3">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/industrial-automation/automation-service-img.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<h2><span class="flup-theme">Automation </span> Made Simple </h2>
+					<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer. Take the first step towards a more efficient, productive future with our automation services.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5  wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+			<div class="col-12 col-md-6 col-lg-3">
+				<div class="card">
+					<div class="card-body text-center mt-3 mt-md-0">
+						<img src="images/services/industrial-automation/scada-hmi-icon.webp" alt="SCADA/HMI" class="img-fluid py-3 ind-auto-img">
+						<h5>SCADA/HMI
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<img src="images/services/industrial-automation/industrial-controls-icon.webp" alt="Industrial Controls" class="img-fluid py-3 ind-auto-img">
+						<h5>Industrial Controls
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-3 mt-lg-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<img src="images/services/industrial-automation/system-automation-icon.webp" alt="System Automation" class="img-fluid py-3 ind-auto-img">
+						<h5>System Automation
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-3 mt-lg-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<img src="images/services/industrial-automation/upgrade-and-repair-icon.webp" alt="Upgrade and Repair" class="img-fluid py-3 ind-auto-img">
+						<h5>Upgrade and Repair
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center mt-3 mt-md-0">
+						<img src="images/services/industrial-automation/machine-vision-icon.webp" alt="Machine Vision" class="img-fluid py-3 ind-auto-img">
+						<h5>Machine Vision
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<img src="images/services/industrial-automation/extended-reality-automatio-icon.webp" alt="Extended Reality Automation" class="img-fluid py-3 ind-auto-img">
+						<h5>Extended Reality Automation
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<img src="images/services/industrial-automation/embedded-systems-icon.webp" alt="Embedded Systems" class="img-fluid py-3 ind-auto-img">
+						<h5>Embedded Systems
+					</h5></div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<img src="images/services/industrial-automation/industrial-40-icon.webp" alt="Industrial 4.0" class="img-fluid py-3 ind-auto-img">
+						<h5>Industrial 4.0
+					</h5></div>
 				</div>
 			</div>
 		</div>
@@ -46,18 +113,120 @@
 </section>
 <!--End About-->
 
+<!-- <section class="emergency-services py-3 py-md-4 pt-lg-5">
+    <div class="container">
+        <div class="row justify-content-center wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="col-lg-8">
+                <h2 class="common-heading text-white text-center">Our Emergency Service Capabilities</h2>
+            </div>
+        </div>
+    	<div class="row wow fadeInRight mt-3" style="visibility: visible; animation-name: fadeInRight;">
+			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<img src="images/services/industrial-automation/trouble-shooting-icon.webp" alt="Enterprise App Development" class="d-block mx-auto">
+							</div>
+							<div class="col-md-8">
+                                <h5 class="pb-3 pt-3 pt-md-0">Troubleshooting</h5>
+								<p>PLCs, robots, HMIs, and more.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3 mt-md-0 mt-lg-0">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<img src="images/services/industrial-automation/production-emergency-icon.webp" alt="App Development For Startups" class="d-block mx-auto">
+							</div>
+							<div class="col-md-8">
+                                <h5 class="pb-3 pt-3 pt-md-0">Production Startup Emergencies</h5>
+								<p>We can assist you because startups are difficult and may need to be corrected.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3 mt-xl-0">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<img src="images/services/industrial-automation/hardware-replacement-icon.webp" alt="App Development For Kids" class="d-block mx-auto">
+							</div>
+							<div class="col-md-8">
+                                <h5 class="pb-3 pt-3 pt-md-0">Hardware Replacements</h5>
+								<p>We take pride in providing the proper hardware for your operations to run flawlessly.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<img src="images/services/industrial-automation/on-site-help-icon.webp" alt="On-Site Help" class="d-block mx-auto">
+							</div>
+							<div class="col-md-8">
+                                <h5 class="pb-3 pt-3 pt-md-0">On-Site Help</h5>
+								<p>We are available offline, too, with an engineer present on-site to assist you.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<img src="images/services/industrial-automation/debugging-icon.webp" alt="Debugging" class="d-block mx-auto">
+							</div>
+							<div class="col-md-8">
+                                <h5 class="pb-3 pt-3 pt-md-0">Debugging</h5>
+								<p>Standalone controllers, robots, PCLs, etc.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<img src="images/services/industrial-automation/downtime-icon.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+							</div>
+							<div class="col-md-8">
+                                <h5 class="pb-3 pt-3 pt-md-0">Unplanned Downtime Support</h5>
+								<p>We get the engines running regardless of any urgency.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</section> -->
+
 <!--Start Service-->
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
+					<h2>Our Emergency Service Capabilities</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
 				<div class="common-heading ptag">
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p>AppsNation Industrial Automation development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
@@ -68,10 +237,10 @@
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
+						<h4>Troubleshooting</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
+						<p>PLCs, robots, HMIs, and more.</p>
 					</div>
 				</div>
 			</div>
@@ -81,10 +250,10 @@
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
+						<h4>Production Startup Emergencies</h4>
 					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>We can assist you because startups are difficult and may need to be corrected.</p>
 					</div>
 				</div>
 			</div>
@@ -94,10 +263,10 @@
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Porting</h4>
+						<h4>Hardware Replacements</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>We take pride in providing the proper hardware for your operations to run flawlessly.</p>
 					</div>
 				</div>
 			</div>
@@ -107,10 +276,10 @@
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Testing</h4>
+						<h4>On-Site Help</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
+						<p>We are available offline, too, with an engineer present on-site to assist you.</p>
 					</div>
 				</div>
 			</div>
@@ -120,10 +289,10 @@
 						<div class="android-app-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Consultation</h4>
+						<h4>Debugging</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
+						<p>Standalone controllers, robots, PCLs, etc.</p>
 					</div>
 				</div>
 			</div>
@@ -133,14 +302,14 @@
 						<div class="android-app-dev-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
+						<h4>Unplanned Downtime Support</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
+						<p>We get the engines running regardless of any urgency.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<!-- <div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="custom-android-app-dev-img"></div>
@@ -178,7 +347,7 @@
 						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>
@@ -190,7 +359,7 @@
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
 				<p>Hire a
-					<span>Dedicated Developer</span>
+					<span> Developers For Industrial Automation</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -225,7 +394,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
+				<h2>Creative Industrial Automation Development Agency</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
@@ -273,7 +442,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<p class="text-white">We specialize in enhancing your production efficiency with advanced automation solutions, leveraging cutting-edge technologies such as IoT, AI, and Machine Learning.	</p>
 				</div>
 			</div>
 		</div>
@@ -283,8 +452,8 @@
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<h3 class="title">Free Consultation Services</h3>
+					<p class="description">With Industrial Automation Experts, you can receive a complimentary consultation to identify the best automation solutions for your needs.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
@@ -292,8 +461,8 @@
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">Experienced Automation Engineers</h3>
+					<p class="description">Unlock your potential with our team of expert engineers skilled in the latest automation technologies.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -301,8 +470,8 @@
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<h3 class="title">Flexible Project Engagements</h3>
+					<p class="description">We offer adaptable engagement models, catering to businesses of all sizes with customized pricing packages.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -311,7 +480,7 @@
 						<div class="technical-support"></div>
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<p class="description">Our dedicated support team is available around the clock to address any issues and ensure smooth operations.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -319,8 +488,8 @@
 					<div class="timeline-year">
 						<div class="transparency"></div>
 					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+					<h3 class="title">Transparent Operations</h3>
+					<p class="description">We prioritize transparency, keeping you informed at every step to build trust and ensure satisfaction.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -328,8 +497,8 @@
 					<div class="timeline-year">
 						<div class="free-delivery-support"></div>
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">3-Months Free Maintenance Post-Delivery</h3>
+					<p class="description">Enjoy peace of mind with three months of free maintenance after project completion, ensuring the sustained performance of our solutions.</p>
 				</div>
 			</div>
 		</div>
@@ -359,12 +528,12 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<h2>Our <span>Industrial Automation</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>AppsNation offers clients an easy and agile Industrial Automation development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
@@ -373,48 +542,140 @@
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<p class="description">We begin by understanding your industry-specific needs, identifying automation opportunities, and defining system requirements. This ensures a clear project scope and objective alignment.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<h3 class="title">Solution Design and Strategy</h3>
+					<p class="description">We create a tailored automation strategy, selecting technologies like PLCs, SCADA, and IoT devices. Our focus is on designing scalable and reliable systems that integrate smoothly with your existing setup.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<h3 class="title">System Architecture and Development</h3>
+					<p class="description">Our engineers develop the system architecture, ensuring flexibility and scalability. This includes programming and configuring hardware and software components for optimal performance.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<h3 class="title">Testing and Quality Assurance</h3>
+					<p class="description">Comprehensive testing ensures system reliability and performance. We conduct integration, functional, and performance tests to maintain high standards of quality and safety.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<h3 class="title">Implementation and Deployment</h3>
+					<p class="description">We oversee the installation and configuration of automation systems, ensuring minimal operational disruption. Our team provides training and support for a seamless transition.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<h3 class="title">Support and Maintenance</h3>
+					<p class="description">Post-deployment, we offer ongoing support, updates, and preventive maintenance, ensuring the long-term efficiency and reliability of your automation systems.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
 <!--End Process-->
+
+<!--Start Our Work-->
+
+<section class="our-work py-3 py-md-4 pt-lg-5">
+   <div class="container">
+       <div class="row justify-content-center">
+           <div class="col-lg-8 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+               <div class="common-heading">
+                   <h2 class="common-heading mb10 text-center">Our Work</h2>
+                   <p class="text-center">Futurealiti resolves your tech problems through their huge channel of services and solutions with our extremely experienced and professional team. We are serving our valuable clients to see their concepts and assumptions. Our services are to produce you the best Web and App solutions in a very innovative and inventive manner.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--End Our Work-->
+
+<!-- Start Work 1 -->
+<section class="our-work1 py-3 py-md-4 pt-lg-5">
+   <div class="container">
+       <div class="row">
+           <div class="col-lg-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+               <div class="card green-bg p-4">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <img src="images/services/industrial-automation/industrial-automation-img-1.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+                            </div>
+                            <div class="col-lg-6 mt-4 mt-lg-0">
+                                <h2 class="common-heading text-white">Delta Robot</h2>
+                                <p class="text-white">Futurerealiti’s industrial automation tech development team assures you to provide you with a complete solution to fully automate your industrial unit. Futurealiti designed and developed a robot called Delta robot that not only automates the process of production but also saves your finance as it is a one-time investment. they are parallel robots used in industrial automation. They comprised of three joined arms to a moving platform controlled by motors and sensors. End effectors at Each arm's tip is utilised to quickly and precisely pick up and move items.</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn text-white wow py-2 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Work 1 -->
+
+<!-- Start Work 2 -->
+<section class="our-work2 py-3 py-md-4 pt-lg-5">
+   <div class="container">
+       <div class="row">
+           <div class="col-lg-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+               <div class="card green-bg p-4">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-6 my-auto">
+                                <h2 class="common-heading text-white">Cartesian Robot</h2>
+                                <p class="text-white">At Futurerealiti, we have a team of experts dedicated to developing industrial automation technologies that can help businesses fully automate their operations. We are pleased to present our newest invention, the Cartesian robot, which has been specifically designed to automate the production process while also minimizing costs by being a one-time investment. It works by Using the x, y, and z linear axes that move independently to manipulate objects in a straight line. It is commonly used in manufacturing and automation for tasks that require precise movements in a specific direction. The product uses its AI and assembles the product to a designated point or container for further processes.</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow text-white py-2 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
+                            </div>
+                            <div class="col-lg-6 mt-4 mt-lg-0">
+                                <img src="images/services/industrial-automation/industrial-automation-img-2.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Work 2 -->
+
+<!-- Start Work 3 -->
+<section class="our-work3 py-3 py-md-4 pt-lg-5">
+   <div class="container">
+       <div class="row">
+           <div class="col-lg-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+               <div class="card green-bg p-4">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <img src="images/services/industrial-automation/industrial-automation-img-3.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+                            </div>
+                            <div class="col-lg-6 mt-4 my-lg-auto">
+                                <h2 class="common-heading text-white">Automated Guided Vehicle</h2>
+                                <p class="text-white">Futurerealiti's industrial automation tech development team is constantly innovating to provide cutting-edge solutions for businesses seeking to optimize their operations. Our latest invention, the AGV is a prime example of our commitment to efficiency and cost savings. By automating the inventory process with a one-time investment, we can help businesses achieve their goals faster and more effectively. Automated Guided Vehicle, or AGV. It is a mobolize robot that has been designed to move supplies, products, or equipment around a building or warehouse. Sensors and cutting-edge control systems are used by AGVs to find their way around a pre-drawn route or map.</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn text-white wow py-3 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Work 3 -->
 
 <!--Start Tech-->
 <div class="techonology-used- py-5">
@@ -745,13 +1006,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								What kind of industrial automation work can Appsation do?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>Appsnation can provide a wide range of industrial automation services, including designing, developing, testing, and maintaining automation systems, as well as providing hardware and software integration, machine vision, and robotics solutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -759,13 +1020,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								How do Appsnation approach industrial automation projects?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>Appsnation typically use a structured approach to industrial automation projects, starting with a detailed analysis of the client's needs and requirements. They then design and develop customized solutions, test them thoroughly, and implement them in the client's facility.</p>
                                 </div>
                             </div>
                         </div>
@@ -773,55 +1034,14 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								Can Appsnation provide customized solutions for specific industrial automation needs?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>Yes, Appsnation can provide customized solutions tailored to the specific needs and requirements of the client. They work closely with the client to understand their needs and develop solutions that are effective, efficient, and cost-effective.</p>
+									
                                 </div>
                             </div>
                         </div>
@@ -829,13 +1049,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
+								What are the benefits of outsourcing industrial automation work to Appsnation?
                             </button>
                         </h2>
                         <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
+                                    <p>Outsourcing industrial automation work to Appsnation can offer several benefits, including access to specialized expertise, reduced costs, improved efficiency, and faster time-to-market.</p>
                                 </div>
                             </div>
                         </div>
@@ -843,13 +1063,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
+								How long does it typically take for Appsnation to complete an industrial automation project?
                             </button>
                         </h2>
                         <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
+                                    <p>The time it takes to complete an industrial automation project can vary depending on the complexity and scope of the project. However, Appsnation typically provide a detailed timeline and schedule upfront and work closely with the client to ensure that the project is completed on time and within budget.</p>
                                 </div>
                             </div>
                         </div>
@@ -857,13 +1077,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
+								Can Appsnation provide ongoing maintenance and support for industrial automation systems?
                             </button>
                         </h2>
                         <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
+                                    <p>Yes, Appsnation can provide ongoing maintenance and support for industrial automation systems, including software updates, troubleshooting, and repairs. They work closely with the client to ensure that the system is running smoothly and efficiently at all times.</p>
                                 </div>
                             </div>
                         </div>
@@ -871,13 +1091,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
+								What kind of software and hardware expertise do Appsnation have in industrial automation?
                             </button>
                         </h2>
                         <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
+                                    <p>Appsnation have expertise in a wide range of software and hardware technologies used in industrial automation, including PLC programming, SCADA systems, HMI design, machine vision, robotics, and artificial intelligence.</p>
                                 </div>
                             </div>
                         </div>
@@ -885,97 +1105,18 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
+								What are the costs associated with industrial automation work done by Appsnation?
                             </button>
                         </h2>
                         <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
+                                    <p>The costs associated with industrial automation work done by Appsnation can vary depending on the scope and complexity of the project, as well as the specific needs and requirements of the client. Software houses typically provide a detailed cost estimate upfront and work closely with the client to ensure that the project is completed within the agreed-upon budget.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>

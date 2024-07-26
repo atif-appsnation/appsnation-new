@@ -11,12 +11,12 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Animation Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">STELLAR VIDEO ANIMATION DEVELOPMENT</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">With years of expertise in the enormous digital world, we have specialized in sophisticated video animations intending to increase your sales by enhancing user experience. So allow us to design your company's future lifeblood.</p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/banner/animation-banner-img.png" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -29,16 +29,16 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/banner/animation-banner-img.png" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<h2>Top-Rated Video<br> <span class="flup-theme"> Animation </span>Company</h2>
+					<!-- <p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong> <p>-->
+					<p>Future Reality is a game-changing video animation company specializing in designing and animating creative explainers and other animated videos. Outstanding animations, we think, communicate tales that engage, convince, and eventually convert prospects into customers. Our professional staff is experts in animated video creation, from idea research and screenplay writing to artwork, vocal recording, and final animation.</p>
+					<p>With years of expertise in the enormous digital world, we have specialized in sophisticated video animations intending to increase your sales by enhancing user experience. So allow us to design your company's future lifeblood.</p>
 				</div>
 			</div>
 		</div>
@@ -52,12 +52,12 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
+					<h2>A Pool of Video <span class="flup-theme"> Animation </span> Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
 				<div class="common-heading ptag">
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p>Our skilled team of creative animators will work diligently to produce a professional, fully integrated video animation for you. You have a plethora of options for the style and appearance of your video.</p>
 				</div>
 			</div>
 		</div>
@@ -68,10 +68,10 @@
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
+						<h4>Explainer Video Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
+						<p>Get your company's message out there uniquely with an animated explainer video. Our explainer videos are a means of transforming viewers into buyers. We create explainer videos to assist companies in telling their story in a way that is easy to remember and share. Our staff is prepared to make your pitch stand out, attract attention, and convey your message.</p>
 					</div>
 				</div>
 			</div>
@@ -81,10 +81,10 @@
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
+						<h4>Logo Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>Reinvent your brand's identity with our logo animation services. Animated logos breathe new life into any brand, promoting it unexpectedly. With a team of professionals and cutting-edge tools, we blend innovative styles and bright colors and create scripts to create a wholly distinctive and animated brand identity for you.</p>
 					</div>
 				</div>
 			</div>
@@ -94,10 +94,10 @@
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Porting</h4>
+						<h4>3D Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>Open your door to the next level of animation. We have a large staff of skilled 3D artists that can create spectacular graphics, videos, and renderings to help you sell, advertise, or promote new products. Our 3D animation services cover everything from product live-action advertising content to delivering scenes that bring life to your story.</p>
 					</div>
 				</div>
 			</div>
@@ -107,10 +107,10 @@
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Testing</h4>
+						<h4>2D Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
+						<p>Our professionals know what works when it comes to digital 2D content. Our 2D industry specialists are here to bring your digital creations to life. We have worked on 2D projects for small businesses and big organizations. Plus, we collaborate with you to guarantee that your 2D animated video fulfills your objectives and delivers the outcomes you expect.</p>
 					</div>
 				</div>
 			</div>
@@ -120,10 +120,10 @@
 						<div class="android-app-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Consultation</h4>
+						<h4>Whiteboard Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
+						<p>Say goodbye to erasing and redrawing since we have discovered a workaround. Instead, we convert your concept into a whiteboard video that will leave your viewers wanting more with our whiteboard animation services. Our drawings, voice-overs, and motion graphics enable us to create concise and compelling whiteboard animations.</p>
 					</div>
 				</div>
 			</div>
@@ -133,10 +133,10 @@
 						<div class="android-app-dev-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
+						<h4>Character Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
+						<p>Whether you are a production company searching for a character animation service or seeking a freelancer to work with, we help you bring your narrative to life - whatever way you choose. We are a video animation company you can always rely on for high-quality character animation services that will add visual impact to your stories.</p>
 					</div>
 				</div>
 			</div>
@@ -146,10 +146,10 @@
 						<div class="custom-android-app-dev-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
+						<h4>TV Commercial Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
+						<p>We offer full TV commercial animation services, from idea to completion. Our writers, animators, and designers are committed to creating effective, attention-grabbing advertising that boosts sales and maximizes ROI. Future Reality’s high-quality corporate TV commercial animation includes storyboards, logo design, TV commercials, and audio production.</p>
 					</div>
 				</div>
 			</div>
@@ -159,10 +159,10 @@
 						<div class="android-multi-platform-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
+						<h4>Product Animation Videos</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
+						<p>We assist businesses in developing excellent product animation videos that teach customers what the product does and how to utilize it. Our professionals collaborate with you to ensure that your definition is clearly presented in an engaging way that leaves the audience interested in your product and, most importantly, that they know how to purchase it.</p>
 					</div>
 				</div>
 			</div>
@@ -172,10 +172,10 @@
 						<div class="android-watch-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
+						<h4>Feature Film Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+						<p>We will develop your feature film with the same cutting-edge animation production technologies that have been used to create huge blockbuster films. Our team will convey your storyline with comprehensive animation production services, from plot concept to character design, environments, and cinematic quality.</p>
 					</div>
 				</div>
 			</div>
@@ -190,7 +190,7 @@
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
 				<p>Hire a
-					<span>Dedicated Developer</span>
+					<span>Dedicated Animator</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -203,7 +203,22 @@
 <!--End Hire Dedicated Developer -->
 
 <!--Start Features-->
-<section class="features-section-app dark-bg2 py-5">
+<section class="motion-animation py-3 py-md-4 pt-lg-5" id="about">
+	<div class="container">
+		<div class="row">
+		<div class="col-lg-6 block-1 wow fadeInLeft pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInLeft;">
+				<img src="images/banner/animation-graphic.png" alt="AR Game Changer" class="img-fluid">
+			</div>
+			<div class="col-lg-6 wow fadeInRight my-auto" style="visibility: visible; animation-name: fadeInRight;">
+				<h2><span>Motion Graphic</span> Services</h2>
+				<p class="pt-2">Our motion graphic services enable you to add an appealing graphical element to your product pages to pique your customers' interest and send that all-important purchase decision their way. We offer a variety of motion graphics, visual effects, and design services to assist you in developing dynamic brand events or productions.</p>
+				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Let's Start Your Project</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
@@ -224,9 +239,9 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+			<div class="col-sm-12 col-md-12 col-lg-6 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+				<h2>  <span class="flup-theme">  Motion Graphic </span> Services</h2>
+				<p class="py-3">Our motion graphic services enable you to add an appealing graphical element to your product pages to pique your customers' interest and send that all-important purchase decision their way. We offer a variety of motion graphics, visual effects, and design services to assist you in developing dynamic brand events or productions.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -241,6 +256,7 @@
                     @endif
                     @endforeach
 				</ul>
+				
 				<div class="tab-content pt-3" id="texttab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
@@ -257,9 +273,12 @@
 					@endforeach
 				</div>
 			</div>
+			<div class="col-lg-6 block-1 wow fadeInLeft pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInLeft;">
+					<img src="images/services/animation-development/motion-graphic.webp" alt="AR Game Changer" class="img-fluid">
+				</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Features-->
 
 <!--Start Why Choose-->
@@ -283,8 +302,8 @@
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<h3 class="title">Free Animation Consultation</h3>
+					<p class="description">Get expert advice on your animation project with our free consultation service. We'll help you refine your ideas and plan your project for success.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
@@ -292,8 +311,8 @@
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">Expert Animators</h3>
+					<p class="description">Work with our team of skilled animators, experienced in various styles and techniques. We bring creativity and precision to every project, ensuring high-quality results.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -301,8 +320,8 @@
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<h3 class="title">Flexible Engagement Models</h3>
+					<p class="description">We offer flexible engagement options tailored to your project's needs and budget. Whether you're a small startup or a large corporation, we provide customized solutions.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -311,7 +330,7 @@
 						<div class="technical-support"></div>
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<p class="description">Our dedicated support team is available around the clock to assist you with any technical issues, ensuring your animation project runs smoothly from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -320,7 +339,7 @@
 						<div class="transparency"></div>
 					</div>
 					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+					<p class="description">We believe in clear and open communication. Our clients are kept informed at every stage of the animation process, ensuring trust and satisfaction.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -328,8 +347,8 @@
 					<div class="timeline-year">
 						<div class="free-delivery-support"></div>
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">Post-Delivery Support</h3>
+					<p class="description">Enjoy 3 months of free support after the project's completion. We ensure that your animation remains flawless and fully functional, providing peace of mind.</p>
 				</div>
 			</div>
 		</div>
@@ -359,12 +378,12 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<h2>Our <span>Animation Service</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>We provide a streamlined and agile animation development process focused on achieving exceptional results. Our team is committed to delivering high-quality animations tailored to your needs, ensuring a seamless and efficient experience from start to finish.</p>
 				</div>
 			</div>
 		</div>
@@ -373,42 +392,42 @@
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<p class="description">We start by understanding your target audience's preferences, including age, language, and design tastes. This helps us choose the right animation style and technology, ensuring the project meets your expectations. We work closely with clients to document all requirements clearly.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<h3 class="title">Strategy Development</h3>
+					<p class="description">Based on the analysis, we develop a customized animation strategy. This includes deciding on the visual style, tone, and technical approach, ensuring that the animation appeals to your audience and achieves your desired outcomes.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<h3 class="title">Storyboarding and Design</h3>
+					<p class="description">Our team creates detailed storyboards to outline the sequence of the animation. We design characters, backgrounds, and other visual elements, ensuring they are consistent with the project's theme. The storyboards and designs are reviewed with the client for feedback and necessary adjustments.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<h3 class="title">Animation Production</h3>
+					<p class="description">Using industry-standard techniques, we animate the storyboards. This includes creating keyframes and inbetweening, as well as applying special effects to enhance the animation. Our focus is on delivering high-quality visuals that meet the project’s specifications.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<h3 class="title">Quality Assurance</h3>
+					<p class="description">We conduct thorough testing to ensure the animation is flawless. This includes checking for issues like visual and audio synchronization, frame rate consistency, and overall coherence. Any identified issues are resolved to ensure a polished final product.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<h3 class="title">Final Review and Delivery</h3>
+					<p class="description">Once testing is complete and the client has approved the animation, we prepare it for delivery. The animation is optimized for various platforms and formats, making it ready for distribution across digital channels, social media, or broadcasting. We also provide guidance on how to best utilize the animation to achieve your goals.</p>
 				</div>
 			</div>
 		</div>
@@ -586,7 +605,7 @@
 		<div class="row wow fadeInLeft">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Android App</span> Development Company</h2>
+					<h2>Ranked as #1 <span>Animation Services</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
@@ -745,13 +764,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								How long does an animated video take to produce?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>It is not easy to estimate how long it takes to create an animated video without knowing the project's size and scope. For example, a simple explainer video with a narrator, music, and moving graphics is created in a week. Still, an entirely written animated short film or video ad campaign might take months (or more) to complete.</p>
                                 </div>
                             </div>
                         </div>
@@ -759,13 +778,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								How many revisions do we get?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>We ensure that you receive everything from your project by using our most comprehensive video animation services in the market. Therefore, we offer unlimited revisions to ensure the client is satisfied with us while maintaining our outstanding customer satisfaction bar.</p>
                                 </div>
                             </div>
                         </div>
@@ -773,55 +792,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								How long will I be waiting throughout the different stages?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>The different stages should take a variable amount of time based on the length, scope, and complexity of the video animation project. Consider the script and storyboard stage for a rough estimate; it may take up to a week, while the production stage can take 1-2 weeks.</p>
                                 </div>
                             </div>
                         </div>
@@ -829,13 +806,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
+								Do you write scripts, or do they need to be provided?
                             </button>
                         </h2>
                         <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
+                                    <p>Our video animation services are reciprocal. We write scripts and respect the ones you have already written. Besides, we produce scripts that emphasize the benefits of your company. The script is used to describe product features and benefits in a tone consistent with the company's voice.</p>
                                 </div>
                             </div>
                         </div>
@@ -843,13 +820,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
+								Do you work with the white-label?
                             </button>
                         </h2>
                         <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
+                                    <p>YES! We work on white-label projects and have access to the most incredible resources. In addition, our specialist designers have extensive expertise working with leading businesses to create a result-driven solution.</p>
                                 </div>
                             </div>
                         </div>
@@ -857,13 +834,15 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
+								How much does it cost to make an animated video?
                             </button>
                         </h2>
                         <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
+                                    <p>Depending on the style of video you want, the cost of an animated video can range from hundreds to tens of thousands of dollars.
+
+Furthermore, the length and intricacy of a video are the primary elements that influence its pricing. Scripting, storyboarding, voice-overs, and animation all cost more the longer or more complicated they are.</p>
                                 </div>
                             </div>
                         </div>
@@ -871,13 +850,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
+								Can you make an explainer animation in any style I like?
                             </button>
                         </h2>
                         <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
+                                    <p>Yes, we can create animated videos in any style. You want to make a video explainer animation that suits your brand, goals, and target audience; we provide our clients with high-quality services at a reasonable price, guaranteeing that they get the desired outcomes.</p>
                                 </div>
                             </div>
                         </div>
@@ -885,97 +864,21 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
+								Can you do a voice-over in any accent or language?
                             </button>
                         </h2>
                         <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
+                                    <p>Our voice artists can do any accent or language to meet your animation and video demands, and they are available in over 35 languages from around the world.
+
+Contact us whenever you want a professional voice-over for your website, app, or music to learn more about our reasonable pricing and quick turnaround.</p>
+									
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </div>

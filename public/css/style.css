@@ -5225,14 +5225,36 @@ h3 a {
 }
 
 .service-section-app {
-    background: url(images/shape/wave-bg.webp);
-    background: var(--first-color);
+    /* background-image: url(../images/services/industrial-automation/emergency-services-banner.webp); */
+        background: var(--first-color);
     background-image: linear-gradient(to right, rgba(0, 0, 0), rgb(0, 39, 53));
     background-size: contain;
     background-repeat: repeat-x;
     background-position: center bottom;
     position: relative;
     /* background-color: var(--black-color); */
+}
+
+.card.green-bg.p-4 {
+    background: #36b286;
+}
+
+.our-work1 {
+    background-image: url(../images/services/industrial-automation/industrial-automation-banner-1.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
+}
+
+.our-work2 {
+    background-image: url(../images/services/industrial-automation/industrial-automation-banner-2.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
+}
+
+.our-work3 {
+    background-image: url(../images/services/industrial-automation/industrial-automation-banner-3.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
 }
 
 .-service-list li:first-child {
@@ -11278,6 +11300,13 @@ i.fa-brands.fa-instagram {
     background-attachment: fixed;
 }
 
+/* .why-choose {
+    background-image:url(../images/services/industrial-automation/emergency-services-banner.webp);
+    background-size: cover;
+    padding: 100px 0px;
+    background-attachment: fixed;
+} */
+
 .why-choose .timeline:hover .timeline-year {
     background-color: transparent;
     border: 2px solid var(--second-color);
@@ -11413,6 +11442,13 @@ i.fa-brands.fa-instagram {
 } */
 
 .android-designing-img {
+    background-image: url(../images/services/android-app-development/android-ui-ux-designing.webp);
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+}
+
+.animation-services-img {
     background-image: url(../images/services/android-app-development/android-ui-ux-designing.webp);
     background-size: cover;
     width: 40px;
@@ -13773,4 +13809,71 @@ footer h6 {
 
 .mover-sitemap-web-img {
     background: var(--black-color);
+}
+
+.automation-services .card {
+    height: 100%;
+    border-radius: 0px;
+    transition: transform .2s;
+}
+.automation-services .card {
+    height: 100%;
+}
+.card {
+    border-radius: 0px;
+}
+.automation-services .card::before {
+    width: 0;
+    opacity: 0;
+    transition: opacity 0 ease, width 0 ease;
+    transition-delay: 0.5s;
+}
+.automation-services .card::before,
+.automation-services .card::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #5495bf;
+    height: 4px;
+}
+
+.automation-services .card::after {
+    width: 100%;
+    background: #fff;
+    transition: width 0.5s ease;
+}
+
+.automation-services .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgb(0 0 0 / 50%);
+}
+.fadeInDown {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+}
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-os-font-smoothing: grayscale;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    vertical-align: baseline;
+}
+
+.card:hover {
+    transform: scale(1.05) !important;
+    box-shadow: 0 0 20px rgb(0 0 0 / 50%) !important;
+}
+
+.emergency-services {
+    background: url(../images/services/industrial-automation/emergency-services-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+.emergency-services .card {
+    height: 100%;
+    border-radius: 0px;
+    transition: transform .2s;
 }

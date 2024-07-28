@@ -196,7 +196,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="sub-menu-section">
 									<div class="container">
 										<div class="row">
-											<div class="col-md-6 megamenu">
+											<div class="col-md-4 megamenu">
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/mobile-app-development')}}">
@@ -222,7 +222,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													</li>
 												</ul>
 											</div>
-											<div class="col-md-6 megamenu">
+											<div class="col-md-4 megamenu">
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/xr-app-development')}}">
@@ -243,6 +243,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 														<ul class="main-submenu">
 															<li> <a href="{{url('/iot-app-development')}}">IoT App Development</a> </li>
 															<li> <a href="{{url('/wearable-app-development')}}">Wearables App Development</a> </li>
+														</ul>
+													</li>
+												</ul>
+											</div>
+											<div class="col-md-4 megamenu">
+												<ul class="main-menu">
+													<li>
+														<a href="javascript:void(0)">
+															<div class="menu-item-img"> <img src="images/menu/ar-and-vr-app-development.webp" class="services-icons"> </div>
+															<div class="menu-item-title align-middle">Marketing & Animation Services</div>
+														</a>
+														<ul class="main-submenu">
+															<li> <a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
+															<li> <a href="{{url('/animation-services')}}">Animation Services</a> </li>
+														</ul>
+													</li>
+													<li class="pt-4">
+														<a href="javascript:void(0)">
+															<div class="menu-item-img"> <img src="images/menu/connected-devices.webp" class="services-icons"> </div>
+															<div class="menu-item-title align-middle">2D & 3D</div>
+														</a>
+														<ul class="main-submenu">
+															<li> <a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
+															<li> <a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
+															<li> <a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
 														</ul>
 													</li>
 												</ul>
@@ -477,7 +502,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</li>
 					<li><a href="#">Services</a>
 						<ul>
-							<li><a href="{{url('/mobile-app-development')}}">Mobile App Development</a>
+							<li>
+								<a href="{{url('/mobile-app-development')}}">Mobile App Development</a>
 								<ul>
 									<li><a href="{{url('/android-app-development')}}">Android App Development</a></li>
 									<li><a href="{{url('/ios-app-development')}}">iOS App Development</a></li>
@@ -485,23 +511,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<li><a href="{{url('/cross-platform-app-development')}}">Cross Platform App Development</a></li>
 								</ul>
 							</li>
-							<li><a href="{{url('/xr-app-development')}}">XR (AR & VR) App Development</a>
+							<li>
+								<a href="{{url('/xr-app-development')}}">XR (AR & VR) App Development</a>
 								<ul>
 									<li> <a href="{{url('/mr-app-development')}}">MR App Development</a> </li>
 									<li><a href="{{url('/ar-app-development')}}">AR App Development</a></li>
 									<li><a href="{{url('/vr-app-development')}}">VR Ap Development</a></li>
 								</ul>
 							</li>
-							<li><a href="{{url('/web-portal-app-development')}}">Web Portal Development</a>
+							<li>
+								<a href="{{url('/web-portal-app-development')}}">Web Portal Development</a>
 								<ul>
 									<li><a href="{{url('/e-commerce-app-development')}}">E-Commerce App Development</a></li>
 									<li><a href="{{url('/web-app-development')}}">Web App Development</a></li>
 								</ul>
 							</li>
-							<li><a href="{{url('/connected-devices')}}">Connected Devices</a>
+							<li>
+								<a href="{{url('/connected-devices')}}">Connected Devices</a>
 								<ul>
 									<li><a href="{{url('/iot-app-development')}}">IoT App Development</a></li>
 									<li><a href="{{url('/wearable-app-development')}}">Wearable App Development</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="javascript:void(0)">Marketing & Animation Services</a>
+								<ul>
+									<li> <a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
+									<li> <a href="{{url('/animation-services')}}">Animation Services</a> </li>
+								</ul>
+							</li>
+							<li>
+								<a href="javascript:void(0)">2D & 3D</a>
+								<ul>
+									<li> <a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
+									<li> <a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
+									<li> <a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
 								</ul>
 							</li>
 						</ul>

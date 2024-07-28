@@ -1509,7 +1509,40 @@ class HomeController extends Controller
             ]
         );
     }
-    
+
+    public function digitalMarketing()
+    {
+        $metabank = Metabank::where('slug', 'DigitalMarketing')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'DigitalMarketing')->where('type', 'Meta')->get();
+
+        $metatag = Metatag::where('slug', 'DigitalMarketing')->get();
+        $metatitle = Metatitle::where('slug', 'DigitalMarketing')->get();
+
+        $techstack = Techstack::where('xr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('xr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $data = $this->blogApi('xr-app');
+
+        return view(
+            'digitalmarketing',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'data' => $data,
+            ]
+        );
+    }
+
+
     public function travelAgencyApp()
     {
         $metabank = Metabank::where('slug', 'travelAgencyApp')->where('type', 'Tag')->get();

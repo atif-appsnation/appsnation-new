@@ -85,6 +85,8 @@ Route::get('/metaverse-development','HomeController@metaverseDevelopment');
 Route::get('/mr-app-development','HomeController@mrAppDevelopment');
 Route::get('/xr-app-development','HomeController@xrAppDevelopment');
 Route::get('/digital-marketing','HomeController@digitalMarketing');
+Route::get('/2d-art','HomeController@art2d');
+Route::get('/3d-art','HomeController@art3d');
 
 //casestudies
 Route::get('/travel-agency-app','HomeController@travelAgencyApp');

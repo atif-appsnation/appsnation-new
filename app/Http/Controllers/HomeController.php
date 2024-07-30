@@ -1769,4 +1769,61 @@ class HomeController extends Controller
             ]
         );
     }
+
+    public function art3d()
+    {
+        $metabank = Metabank::where('slug', 'Art-3D')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'Art-3D')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'Art-3D')->get();
+        $metatitle = Metatitle::where('slug', 'Art-3D')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $data = $this->blogApi('art-3d');
+        return view(
+        '3d-art',
+        [
+            'techstack' => $techstack,
+            'agencystack' => $agencystack,
+            'awards' => $awards,
+            'casestudy' => $casestudy,
+            'testimonials' => $testimonials,
+            'metabank' => $metabank,
+            'metabank2' => $metabank2,
+            'metatitle' => $metatitle,
+            'metatag' => $metatag,
+            'data' => $data,
+        ]
+    );
+    }
+    public function art2d()
+    {
+        $metabank = Metabank::where('slug', 'Art-2D')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'Art-2D')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'Art-2D')->get();
+        $metatitle = Metatitle::where('slug', 'Art-2D')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $data = $this->blogApi('art-2d');
+        return view(
+            'art2d',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'data' => $data,
+            ]
+        );
+    }
 }

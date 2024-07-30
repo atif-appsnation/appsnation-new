@@ -11,12 +11,13 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Floor Plan Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">2D & 3D FLOOR PLAN SERVICES</h1>
+					<!-- <p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p> --> <br>
+					 <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/2d&3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -35,10 +36,10 @@
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<h2>Enhance Your Space with Our<br> <span class="flup-theme">Custom 2D & 3D Floor Plan Services</span></h2>
+					<p><strong>Get the floor plan you deserve—clear, precise, and tailored to your specific needs. Our designs are functional, aesthetically pleasing, and highly detailed.</strong></p>
+					<p>Did you know? Accurate floor plans are essential for any successful architectural or interior design project. We leverage cutting-edge technology and top talent to deliver the best in 2D and 3D floor planning. Our team, akin to design wizards, strives to bring your vision to life with innovative and unique layouts.</p>
+					<p>We are a data-driven design firm that uses analytics and insights to craft plans that perfectly align with your project goals. Whether for residential or commercial spaces, we help you optimize your environment. Our plans are visually compelling and ensure flawless execution in real life.</p>
 				</div>
 			</div>
 		</div>
@@ -50,135 +51,39 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-12 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-3 wow fadeInRight">
-				<div class="common-heading ptag">
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<h2 class="text-center" >Showcase <span> 2D & 3D </span> Floor Plan Services</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
 				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-designing-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
-					</div>
 					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
+						<p>3D floor plans, 3D home designs, real estate floor plans, and rendering services go to the heart of architectural layouts. Horizontal and vertical spaces are precisely projected in 3D design for 360-degree development, leaving no crevice uncovered.</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
 				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-web-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
-					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>Virtual Building Studio is an AEC outsourcing firm based in India that provides clients with high-quality 3D floor plan services. We have a track record of successfully completing large-scale architectural floor plan projects.</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
 				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-porting-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>App Porting</h4>
-					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>Each 3D floor plan project benefits from our experienced team's combined skill set of software, creativity, and aesthetics understanding. Our success is based on "attention to detail."</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-testing-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>App Testing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-consultation-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>App Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-dev-consultation-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="custom-android-app-dev-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-multi-platform-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-watch-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
-					</div>
-					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
-					</div>
-				</div>
-			</div>
+			<div class="row mt-5 justify-content-center">
+            <div class="col-lg-8 text-center">
+                <a href="https://futurealiti.com/uploads/pdf/Real-Estate-Profile-Futurealiti.pdf" target="_blank" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Download Real Estate Profile <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+            </div>
+        </div>
 		</div>
 	</div>
 </section>
@@ -190,7 +95,7 @@
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
 				<p>Hire a
-					<span>Dedicated Developer</span>
+					<span>Professional Designer</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -225,8 +130,8 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<h2>Expert 2D & 3D Floor Plan Services</h2>
+				<p class="py-3">We provide 2D and 3D floor plans to help visualize and optimize your space efficiently.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -268,12 +173,12 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<h2 class="text-white">Benefits of <span> 2D & 3D Floor Plan </span> Services</span></h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<p class="text-white">We offer 2D and 3D floor plans to help visualize and optimize your space, ensuring functionality and aesthetic appeal. Our plans provide clear project representations.</p>
 				</div>
 			</div>
 		</div>
@@ -283,8 +188,8 @@
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<h3 class="title">ACHIEVE PERFECTION</h3>
+					<p class="description">2D and 3D floor plan services help in achieving perfection in architectural and interior design projects by providing precise and detailed visual representations. These plans ensure that every aspect of the design is carefully considered and accurately depicted, allowing for precise measurements and clear communication of ideas.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
@@ -292,8 +197,8 @@
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">VERSATILITY</h3>
+					<p class="description">2D and 3D floor plans offer versatility, allowing designers to experiment with different layouts and styles. This flexibility makes it easy to explore various design options, adapt to client preferences, and make changes without the need for physical alterations. It also helps in visualizing different configurations and optimizing space usage.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -301,37 +206,11 @@
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<h3 class="title">BENEFICIAL SPACES</h3>
+					<p class="description">Utilizing 2D and 3D floor plan services leads to the creation of beneficial spaces that are functional and aesthetically pleasing. These plans enable designers to plan layouts that maximize space efficiency and cater to the specific needs of the users, ultimately enhancing the overall quality and usability of the environment.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="technical-support"></div>
-					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="transparency"></div>
-					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
-				</div>
-			</div>
+			
 		</div>
 	</div>
 </section>
@@ -359,12 +238,12 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<h2>Our <span> 2D & 3D Floor Plan</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>We offer a streamlined and efficient process for developing 2D and 3D floor plans, ensuring a result-driven approach that meets our clients' specific needs and preferences.</p>
 				</div>
 			</div>
 		</div>
@@ -373,48 +252,114 @@
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<p class="description">Understanding your space and project goals is crucial. We begin by assessing your needs, including layout preferences, functional requirements, and aesthetic desires. This phase involves gathering detailed information to ensure we capture your vision accurately.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<h3 class="title">Design Strategy</h3>
+					<p class="description">Based on the analysis, we develop a design strategy tailored to your project. This includes selecting the appropriate tools and techniques for creating 2D and 3D floor plans. Our goal is to provide a comprehensive representation that meets your specifications.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<h3 class="title">Conceptualization & Drafting</h3>
+					<p class="description">Our design team creates initial drafts, showcasing different layout options and design elements. This stage allows for experimentation with space utilization and visual styles, ensuring all aspects align with your expectations.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<h3 class="title">Review & Feedback</h3>
+					<p class="description">We present the draft designs to you for review. This collaborative phase involves discussing the proposed layouts, making adjustments based on your feedback, and refining the plans to better suit your needs.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<h3 class="title">Finalization</h3>
+					<p class="description">After incorporating your input, we finalize the 2D and 3D floor plans. This includes detailing every aspect of the design, from room dimensions to interior elements, ensuring accuracy and completeness.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<h3 class="title">Delivery & Support</h3>
+					<p class="description">The completed floor plans are delivered to you in your preferred format. We also provide ongoing support to address any questions or adjustments needed, ensuring the plans are ready for implementation.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
 <!--End Process-->
+
+<section class="floor-plan py-3 py-md-4 pt-lg-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInLeft my-auto" style="visibility: visible; animation-name: fadeInLeft;">
+				<p>One of the first tasks in the construction, remodeling, and interior design of a home is to create a rendered floor plan. A 3D graphic of the property layout gives a good idea of the area, convenience, and functionality. Another method of visualizing rooms and furniture, as well as the decor of any house, is to use 3D floor plan drawings.</p>
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInRight v-center pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+				<img src="images/services/2d&3d-floor-plan-services/threed-floor-plan-drawing.webp" alt="" height="100%" width="100%">
+			</div>
+		</div>
+
+		<div class="row pt-3">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInLeft v-center" style="visibility: visible; animation-name: fadeInLeft;">
+				<img src="images/services/2d&3d-floor-plan-services/threed-floor-plan-layout.webp" alt="" height="100%" width="100%">
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInRight my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+				<p>Our business floor designs service covers 3D floor plans for restaurants, offices, mansions, cafes, and hospitals. Doors, stairwells, windows, walls, elevators, columns, and fittings are common features. By including furniture, you can demonstrate the magnitude of a room and how to correctly design it. While looking at the 3D floor plan layout, you or your customers can have a sense of being in that same room.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="floor-plan-service service-section-app py-3 py-md-4 pt-lg-5">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+				<div class="common-heading">
+					<h2 class="text-center"> Our <span>3D House Plans</span> Services</h2>
+					<p class="mt10 py-3 py-md-4 pt-lg-5 text-center">People find it difficult to comprehend and imagine a location from sketches, thus floor plans with 3D effects are a solution to this problem, displaying the whole property layout in a simple and visually appealing manner. Applet 3D gives you a stunning overview of your requirements and a greater knowledge of the scale, texture, and color of a space, as well as its possibilities. It's a fantastic opportunity to get a true sense of the entire home or just the ground level 3D design.</p>
+				</div>
+			</div>
+
+			<div class="col-lg-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+				<iframe width="100%" height="515" src="https://www.youtube.com/embed/_RSCkfc4g7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+			</div>
+
+			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+				<p class="mt10 py-3 py-md-4 pt-lg-5 text-center text-white">Before making large project investments, 3D floor plan design services can detect any design faults. Without an interactive 3D floor plan, clients and buyers will have a tough time determining the property's size and exact furniture and décor arrangement. Bring your client's vision to life with realistic and detailed 3D house plans that are tailored to their specific requirements and lifestyles. Use our 3D rendering services to create a floor plan. Get a quote for your project by filling out the form.</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="floor-plan-configuration py-3 py-md-4 pt-lg-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="common-heading ptag wow fadeInLeft">
+                    <h2 class="text-center">Furniture Configuration</h2>
+                </div>
+                <div class="image-spliter wow fadeInRight">
+                    <div class="mover"></div>
+                    <img class="img-left" src="images/services/2d&3d-floor-plan-services/download.png" alt="3d Floor Plan Color">
+                    <!-- <img class="img-right" src="images/services/2d&3d-floor-plan-services/3d-floor-plan-color-1.webp" alt="3d Floor Plan Color"> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section>
+	<img src="images/services/2d&3d-floor-plan-services/2d-3d-floor-plan-center-banner.webp" alt="2D 3D Floor Plan Center Image">
+</section>
 
 <!--Start Tech-->
 <div class="techonology-used- py-5">
@@ -730,7 +675,7 @@
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
-<section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
+<!-- <section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeInLeft">
@@ -980,7 +925,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- End FAQS -->
 
 <!--Start Blogs-->

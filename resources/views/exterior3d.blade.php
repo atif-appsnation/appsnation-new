@@ -11,20 +11,62 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Exterior Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">3D EXTERIOR RENDERING SERVICES</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Exterior renderings are a necessary component of today's project visualization. Exterior rendering services are mostly used to visually present a design concept.</p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/3d exterior-rendering-services/threed-exterior-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
 </section>
 <!--End Breadcrumb-->
 
+<section class="threed-exterior-showcase py-3 py-md-4 pt-lg-5">
+    <div class="container">
+        <div class="row justify-content-center wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="col-12">
+                <div class="common-heading">
+                    <h2 class="text-center"><span>3D Exterior Rendering</span> Services</h2>
+                    <p class="pt-2 text-center"> Exterior renderings are a necessary component of today's project visualization. Exterior rendering services are mostly used to visually present a design concept. This will make customer collaboration easier and allow you to learn more about their preferences. Using CGI, 3D exterior visualization enables for the creation of volumetric pictures of any object. This method is excellent for increasing creativity, experimenting, and imagination.</p>
+                    <p class="pt-2 text-center">The outside 3D model's high-quality representation conforms to the building and architectural features, as well as the materials utilized. In addition, the setting contains a 3D representation of the building itself. As a result, the outside renders are completely accurate to the future construction. Now you can spin your house around using your computer's mouse to see how it fits into the site, as shown below.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row pt-5 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+            <div class="col-md-3">
+                <img src="images/services/3d exterior-rendering-services/exterior-building-1.webp" class="">
+            </div>
+            <div class="col-md-3 mt-2 mt-md-0">
+                <img src="images/services/3d exterior-rendering-services/exterior-building-2.webp">
+            </div>
+            <div class="col-md-6 mt-2 mt-md-0">
+                <img src="images/services/3d exterior-rendering-services/exterior-building-3.webp">
+            </div>
+            <div class="col-md-6 mt-2">
+                <img src="images/services/3d exterior-rendering-services/exterior-building-4.webp">
+            </div>
+            <div class="col-md-3 mt-2">
+                <img src="images/services/3d exterior-rendering-services/exterior-building-5.webp">
+            </div>
+            <div class="col-md-3 mt-2">
+                <img src="images/services/3d exterior-rendering-services/exterior-building-6.webp">
+            </div>
+        </div>
+        
+        <div class="row mt-5 justify-content-center">
+            <div class="col-lg-8 text-center">
+                <a href="https://futurealiti.com/uploads/pdf/Real-Estate-Profile-Futurealiti.pdf" target="_blank" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Download Real Estate Profile <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
 <!--Start About-->
-<section class="service py-5">
+<!-- <section class="service py-5">
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
@@ -34,7 +76,6 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
 					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
@@ -43,16 +84,73 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End About-->
 
+<section class="threed-exterior-visualizations py-3 py-md-4 pt-lg-5">
+    <div class="container">
+        <div class="row py-3">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                <img src="images/services/3d exterior-rendering-services/threed-exterior-visualization-1.webp" alt="3D Exterior Visualizations" class="img-fluid d-block mx-auto">
+            </div>
+
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow common-heading fadeInRight v-center my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+                <h3>Advantages of <span>Exterior Visualization</span></h3>
+                <ul class="advantages-list">
+                    <li><i class="fa-solid fa-circle"></i>Enhances marketing with visually appealing images.</li>
+                    <li><i class="fa-solid fa-circle"></i>Cost-effective compared to physical prototypes.</li>
+                    <li><i class="fa-solid fa-circle"></i>Provides realistic visuals for accurate representation.</li>
+                    <li><i class="fa-solid fa-circle"></i>Allows for easy customization of designs.</li>
+                    <li><i class="fa-solid fa-circle"></i>Saves time by eliminating lengthy construction processes.</li>
+                    <li><i class="fa-solid fa-circle"></i>Facilitates collaboration among stakeholders for seamless communication.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row py-3">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow common-heading fadeInLeft v-center my-auto" style="visibility: visible; animation-name: fadeInLeft;">
+                <h3>How to Start Your <span>Exterior 3D Visualization</span> Project</h3>
+                <ul class="advantages-list">
+                    <li><i class="fa-solid fa-circle"></i>Define project scope and objectives.</li>
+                    <li><i class="fa-solid fa-circle"></i>Gather visual references and floor plans.</li>
+                    <li><i class="fa-solid fa-circle"></i>Select appropriate 3D visualization software and tools.</li>
+                    <li><i class="fa-solid fa-circle"></i>Create 3D models of the interior space.</li>
+                    <li><i class="fa-solid fa-circle"></i>Apply realistic materials and textures.</li>
+                    <li><i class="fa-solid fa-circle"></i>Render high-quality images or animations.</li>
+                    <li><i class="fa-solid fa-circle"></i>Review and revise with stakeholders.</li>
+                    <li><i class="fa-solid fa-circle"></i>Finalize and deliver the project.</li>
+                </ul>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeInRight pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+                <img src="images/services/3d exterior-rendering-services/threed-exterior-visualization-2.webp" alt="3D Exterior Visualizations" class="img-fluid d-block mx-auto">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="service-section-app py-3 py-md-4 pt-lg-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-sm-10 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                <div class="common-heading">
+                    <h2 class="text-center">Our <span>3D Exterior</span> Rendering Services</h2>
+                    <p class="pt-3 text-center">Our exterior rendering firm can assist you in creating traditional 3D models of any structure. When dealing with certain engines, we use specific visualization approaches and modern design strategies. You will have a great opportunity to present your future project of a summer cottage, house, multi-story structure, or entire block with all the details and features with the help of Applet 3D specialists in making exterior renders. </p>
+                </div>
+            </div>
+            <div class="col-lg-12 pt-5 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                <h3 class="text-center pb-5 text-white">Interactive 360 Exterior</h3>
+                <iframe width="100%" height="515" src="https://www.youtube.com/embed/_RSCkfc4g7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+</div></section>
+
 <!--Start Service-->
-<section class="service-section-app py-5 dark-bg2">
+<!-- <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
+					<h2>Our 3D Exterior Rendering Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
@@ -181,7 +279,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Service-->
 
 <!--Start Hire Dedicated Developer -->
@@ -190,7 +288,7 @@
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
 				<p>Hire a
-					<span>Dedicated Developer</span>
+					<span>3D Rendering Specialist</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -202,8 +300,63 @@
 </section>
 <!--End Hire Dedicated Developer -->
 
+
+<section class="threed-exterior-visualizations py-3 py-md-4 pt-lg-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                <img src="images/services/3d exterior-rendering-services/threed-exterior-visualization-3.webp" alt="3D Exterior Visualizations" class="img-fluid d-block mx-auto">
+            </div>
+
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeInRight v-center my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+                <h3>How Much Does <span>Exterior Rendering Cost</span></h3>
+                <ul class="advantages-list">
+                    <!--<li><i class="fa-solid fa-circle"></i>As mentioned in the technical specification sections, we usually work with a 3D model provided by the client; however, if one is not available, we can certainly recreate the 3D interior space.</li>-->
+                    <!--<li><i class="fa-solid fa-circle"></i>The amount of changes made at the customer's request Two adjustments are included in the standard package.</li>-->
+                    <!--<li><i class="fa-solid fa-circle"></i>The room's design You don't have all of the terms of reference, or you don't have any at all. Then we'll develop a design visualization for you based on the photos, references, and your feedback.</li>-->
+                </ul>
+                <p class="pt-2">The cost of exterior rendering can vary depending on factors such as project complexity, resolution and quality, animation and interactivity, as well as deadline and turnaround time. More complex designs, higher resolution and quality, and advanced features like animations or interactivity may result in higher costs.</p>
+            </div>
+        </div>
+
+        <div class="row py-3">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeInLeft v-center my-auto" style="visibility: visible; animation-name: fadeInLeft;">
+                <h3>Home <span>Furniture Modeling</span> Services</h3>
+                <ul class="advantages-list">
+                    <li><i class="fa-solid fa-circle"></i>Living room, bedroom, poolside, kitchen, bathroom, and children's room furniture.</li>
+                    <li><i class="fa-solid fa-circle"></i>3D modeling of furniture for interior visualization.</li>
+                    <li><i class="fa-solid fa-circle"></i>Clothing racks in a showroom Modeling in three dimensions.</li>
+                    <li><i class="fa-solid fa-circle"></i>Retail shelving 3D modeling.</li>
+                    <li><i class="fa-solid fa-circle"></i>Designing attractive display shelves in 3D.</li>
+                    <li><i class="fa-solid fa-circle"></i>Tables, chairs, sofas, outdoor furniture, patio furniture, rugs, and other corporate/office furniture renderings.</li>
+                </ul>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeInRight pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+                <img src="images/services/3d exterior-rendering-services/threed-exterior-visualization-4.webp" alt="3D Exterior Visualizations" class="img-fluid d-block mx-auto">
+            </div>
+        </div>
+
+        <div class="row py-3">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                <img src="images/services/3d exterior-rendering-services/threed-exterior-visualization-5.webp" alt="3D Exterior Visualizations" class="img-fluid d-block mx-auto">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeInRight v-center my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+                <h3>Corporate <span>Furniture Modeling</span> Services</h3>
+                <ul class="advantages-list">
+                    <li><i class="fa-solid fa-circle"></i>3D modeling of industrial furniture store fittings.</li>
+                    <li><i class="fa-solid fa-circle"></i>Modeling of urban, classic, domestic, and luxury furniture in 3D. Models in three dimensions.</li>
+                    <li><i class="fa-solid fa-circle"></i>Hotel, shopping center, and restaurant furniture designs in metal and wood.</li>
+                    <li><i class="fa-solid fa-circle"></i>Furniture for enjoyment, relaxation, and recreation in 3D.</li>
+                    <li><i class="fa-solid fa-circle"></i>Accent, storage, and designer furniture 3D modeling.</li>
+                    <li><i class="fa-solid fa-circle"></i>Modeling of products</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!--Start Features-->
-<section class="features-section-app dark-bg2 py-5">
+<!-- <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
@@ -259,11 +412,11 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Features-->
 
 <!--Start Why Choose-->
-<section class="why-choose bg-gradient3 py-5">
+<!-- <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
@@ -334,7 +487,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--Start Why Choose-->
 
 <!--Start New Project-->
@@ -354,7 +507,7 @@
 <!--End New Project-->
 
 <!--Start Process-->
-<section class="process-block bg-gradient3 py-5">
+<!-- <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
@@ -413,7 +566,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Process-->
 
 <!--Start Tech-->
@@ -730,7 +883,7 @@
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
-<section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
+<!-- <section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeInLeft">
@@ -980,7 +1133,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- End FAQS -->
 
 <!--Start Blogs-->

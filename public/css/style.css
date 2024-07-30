@@ -13877,3 +13877,95 @@ footer h6 {
     border-radius: 0px;
     transition: transform .2s;
 }
+
+.advantages-list .fa-circle {
+    font-size: 10px;
+    padding-right: 5px;
+    vertical-align: middle;
+    color: #31b28a;
+} 
+
+/* .fa-solid,
+.fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+} */
+
+ul {
+    list-style: none;
+} 
+
+h3 {
+    font-size: 34px;
+    line-height: 46px;
+}
+
+i.fa-solid.fa-circle{
+    font-size: 10px;
+    padding-right: 5px;
+    vertical-align: middle;
+    color: #31b28a;
+} 
+.fa-circle:before {
+    content: "\f111";
+}
+ul li {
+    line-height: 30px;
+    margin-left: 0px;
+}
+
+.fa-chevron-right:before {
+    content: "\f054";
+}
+
+.fa-phone-alt:before,
+.fa-phone-flip:before {
+    content: "\f879";
+}
+.img-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.image-spliter,
+img,
+.mover {
+    overflow: hidden;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-spliter {
+    position: relative;
+}
+
+.mover {
+    position: absolute;
+    width: 200px;
+    height: 100%;
+    top: 0;
+    left: 50%;
+    z-index: 10;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.fadeInLeft {
+    -webkit-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
+}
+
+.fadeInRight {
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight;
+}

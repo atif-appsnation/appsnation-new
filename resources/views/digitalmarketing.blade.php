@@ -11,12 +11,12 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Android App Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">BEST DIGITAL MARKETING COMPANY</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">To make money online, you need to know what kind of Digital marketing services you need. You may think you have all the tools you need but that isn't true. You need a digital marketing agency. To make money online, you need to know what kind of services you need. You may think you have all the tools you need but that isn't true. You need a digital marketing agency, Like Futurealiti. Futurealiti is one of the leading <b> digital marketing agencies in California. </b></p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/digital-marketing/digital-marketing-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -26,19 +26,21 @@
 <!--Start About-->
 <section class="service py-5">
 	<div class=" container">
-		<div class="row">
+		<div class="row"> 
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/digital-marketing/digital-marketing-services.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<h2>Scale-Up With Our<br> <span class="flup-theme">Digital Marketing Services</span></h2>
+					<p>Unlock the full potential of your online presence with our digital marketing services. Our experienced team specializes in SEO, PPC, content marketing, and social media strategy to drive targeted traffic and increase your brand's visibility. <br> <br> Whether you're looking to optimize your website, engage with your audience, or improve conversion rates, our experts are here to help. Don't miss the opportunity to grow your business in the digital space. </p> <br>
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -52,12 +54,12 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
+					<h2>Our <span>Digital Marketing</span> Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
 				<div class="common-heading ptag">
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p>We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
 				</div>
 			</div>
 		</div>
@@ -68,10 +70,10 @@
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
+						<h4>Website Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
+						<p>Establish a strong online presence with professional website development. Our team creates visually appealing and user-friendly websites that reflect your brand identity and engage visitors, ensuring a seamless user experience.</p>
 					</div>
 				</div>
 			</div>
@@ -81,10 +83,10 @@
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
+						<h4>Email Marketing</h4>
 					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>Stay connected with your customers through email marketing. We design personalized email campaigns that engage your audience, promote your products or services, and encourage loyalty and repeat business.</p>
 					</div>
 				</div>
 			</div>
@@ -94,10 +96,10 @@
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Porting</h4>
+						<h4>SEO (Search Engine Optimization)</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>Enhance your visibility on search engines with SEO. By optimizing your website content and structure, we help you rank higher in search results, driving more organic traffic and increasing your online reach.</p>
 					</div>
 				</div>
 			</div>
@@ -107,7 +109,7 @@
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Testing</h4>
+						<h4>Search Engine Marketing</h4>
 					</div>
 					<div class="services-text-div">
 						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
@@ -120,10 +122,10 @@
 						<div class="android-app-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Consultation</h4>
+						<h4>SMM (Social Media Marketing)</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
+						<p>Connect with your audience through social media marketing. We create engaging content and strategic campaigns to build brand awareness, foster community engagement, and drive traffic to your website.</p>
 					</div>
 				</div>
 			</div>
@@ -133,7 +135,7 @@
 						<div class="android-app-dev-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
+						<h4>CRO (Conversion Rate Optimization)</h4>
 					</div>
 					<div class="services-text-div">
 						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
@@ -146,10 +148,10 @@
 						<div class="custom-android-app-dev-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
+						<h4>Content Writing</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
+						<p>High-quality content is key to communicating your brand message. Our skilled writers craft engaging and informative content that resonates with your audience, supports SEO, and establishes your authority in the industry.</p>
 					</div>
 				</div>
 			</div>
@@ -159,10 +161,10 @@
 						<div class="android-multi-platform-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
+						<h4>Marketing Automation</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
+						<p>Simplify and streamline your marketing efforts with automation. We implement tools that automate repetitive tasks, allowing you to focus on strategy and delivering more personalized customer experiences.</p>
 					</div>
 				</div>
 			</div>
@@ -172,10 +174,62 @@
 						<div class="android-watch-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
+						<h4>PPC (Pay Per Click)</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+						<p>Quickly drive targeted traffic to your site with PPC advertising. Our campaigns are designed to reach your ideal customers, maximize conversions, and provide a measurable return on investment.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="android-watch-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Content Marketing</h4>
+					</div>
+					<div class="services-text-div">
+						<p>Build trust and authority with content marketing. We develop and distribute valuable content that educates, entertains, and informs your audience, fostering engagement and driving profitable customer action.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="android-watch-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Copywriting</h4>
+					</div>
+					<div class="services-text-div">
+						<p>Effective copywriting turns prospects into customers. We create persuasive and compelling copy for ads, websites, and other marketing materials, helping you communicate your value proposition clearly and effectively.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="android-watch-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Influencer Marketing</h4>
+					</div>
+					<div class="services-text-div">
+						<p> Leverage the power of influencers to reach new audiences. We connect your brand with influencers who resonate with your target market, enhancing brand credibility and driving engagement.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="android-watch-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Affiliate Marketing</h4>
+					</div>
+					<div class="services-text-div">
+						<p>Expand your reach and boost sales through affiliate marketing. We set up and manage partnerships with affiliates who promote your products or services, providing a cost-effective way to increase revenue.</p>
 					</div>
 				</div>
 			</div>
@@ -190,7 +244,7 @@
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
 				<p>Hire a
-					<span>Dedicated Developer</span>
+					<span>Dedicated Digital Marketing Expert</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -201,6 +255,82 @@
 	</div>
 </section>
 <!--End Hire Dedicated Developer -->
+
+<!--Start Service-->
+<section class="service-section-app py-5 dark-bg2">
+	<div class="container">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-lg-6 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                        <img src="images/services/digital-marketing/seo-img.webp" alt="SEO" class="img-fluid">
+                    </div>
+                    <div class="col-lg-6 wow fadeInRight my-5" style="visibility: visible; animation-name: fadeInRight;">
+                        <!-- <div class="common-heading text-l"> -->
+                            <h3 class="common-heading">SEO (Search Engine Optimization)</h3>
+                            <p>A good SEO strategy will make sure that your site is found by as many people as possible. By having a good SEO strategy, you will be able to generate leads and increase your sales. For Good SEO you need SEO experts who can brings your website on Google's top rankings like our Experts do.</p>
+                            <div class="hire-button mt-3">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            </div>
+                        <!-- </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mt-4">
+            <div class="card-body">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 my-auto wow fadeInLeft px-4 ps-lg-5 py-3 py-md-3 py-lg-3 py-xl-0" style="visibility: visible; animation-name: fadeInLeft;">
+                        <h3 class="common-heading">Content Marketing</h3>
+                        <p>Many companies are using content marketing to promote their products and services. Content marketing gives them the chance to tell their story and create a relationship with their audience. If you want to promote your business, you can use content marketing. Content marketing is a great strategy. Content marketing can help you to reach out to a wide audience.</p>
+                        <div class="hire-button mt-3">
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                        <img src="images/services/digital-marketing/content-writing-img.webp" alt="Content Marketing" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mt-4">
+            <div class="card-body">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                        <img src="images/services/digital-marketing/smm-img.webp" alt="Social Media Marketing" class="img-fluid">
+                    </div>
+                    <div class="col-lg-6 my-auto wow fadeInRight px-4 ps-lg-5 py-3 py-md-3 py-lg-3 py-xl-0" style="visibility: visible; animation-name: fadeInRight;">
+                        <h3 class="common-heading">SMM (Social Media Marketing)</h3>
+                        <p>Social media marketing is a very popular form of marketing today. Using the Internet and social media is a great way to generate traffic to your website. It also allows you to interact directly with your customers. Futurealiti has the best and most experienced Social media marketer who can help your brand in order to get awareness.</p>
+                        <div class="hire-button mt-3">
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mt-4">
+            <div class="card-body">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 my-auto wow fadeInLeft px-4 ps-lg-5 py-3 py-md-3 py-lg-3 py-xl-0" style="visibility: visible; animation-name: fadeInLeft;">
+                        <h3 class="common-heading">Advertisement</h3>
+                        <p>When we take about the advertisement in digital marketing so, first two names comes our mind google ads and fb ads.Both ads have their own value.Fb ads are best for branding and target base marketing while google ads is best for local base businesses or already existing services or products.We have FB &amp; Google ads experts who can give you unlimited leads and sales.</p>
+                        <div class="hire-button mt-3">
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                        <img src="images/services/digital-marketing/advertisment-img.webp" alt="Advertisment" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Service-->
 
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
@@ -225,8 +355,8 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<h2>Industries We Serve</h2>
+				<p class="py-3">We are the best digital marketing company in USA. We offer complete digital marketing services like SEO, SMO, PPC, Social Media Marketing (SMM), and many more. We have worked with various businesses and helped them to grow their online presence.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -273,7 +403,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<p class="text-white">We help a diverse clientele build result-driven web development products for different industries. </p>
 				</div>
 			</div>
 		</div>
@@ -283,8 +413,8 @@
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<h3 class="title">Certified Professionals</h3>
+					<p class="description">We have certified digital marketing professionals who have years of experience in the industry.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
@@ -292,8 +422,8 @@
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">Best Marketing Packages</h3>
+					<p class="description">We provide affordable digital marketing packages for small and medium sized businesses.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -301,8 +431,8 @@
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<h3 class="title">24x7 Customer Support</h3>
+					<p class="description">We work 24×7 to ensure that your business reaches the maximum possible audience.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -310,8 +440,8 @@
 					<div class="timeline-year">
 						<div class="technical-support"></div>
 					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<h3 class="title">Free Consultation</h3>
+					<p class="description">We help you to understand your customer requirements and provide a customized solution to your needs.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -319,17 +449,8 @@
 					<div class="timeline-year">
 						<div class="transparency"></div>
 					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">We Believe in Transparency</h3>
+					<p class="description">We work with you throughout the project so that you can see the improvement of your business.</p>
 				</div>
 			</div>
 		</div>
@@ -359,12 +480,12 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<h2>Our <span>Digital Marketing</span> Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>A good Digital marketing agency always has a proper digital marketing framework same as we have. We have a unique and proper digital marketing process, to make sure to give our clients the best results. We break our whole marketing process into a few steps:</p>
 				</div>
 			</div>
 		</div>
@@ -372,43 +493,36 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">01</p>
-					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<h3 class="title">RESARCH</h3>
+					<p class="description">The first step is research. We need to know what is the market, what is the competition, what are the best strategies to use, and so on.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<h3 class="title">MARKETING FRAMEWORK</h3>
+					<p class="description">Once the research is done then, we start creating our marketing plan, and strategy. In this step, we create our entire marketing framework where we decide how will work on the marketing.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<h3 class="title">EXECUTIONS</h3>
+					<p class="description">After creating the marketing strategy now, we're going for implementations and executions.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<h3 class="title">ANALYSE</h3>
+					<p class="description">We strongly believe in A/B testing because marketing is about testing and testing.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<h3 class="title">OPTIMIZE</h3>
+					<p class="description">In the last Step, our senior marketing expert audit our whole marketing campaign or strategy in order to get more profit or ROI.</p>
 				</div>
 			</div>
 		</div>
@@ -745,13 +859,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								What Does A Digital Marketer Do?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>A digital marketer is a person who is responsible for promoting your product or services on the internet by using various social media platforms. They are also responsible for driving traffic to your website.</p>
                                 </div>
                             </div>
                         </div>
@@ -759,13 +873,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								Would My Business Benefit From Digital Marketing Services?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>If you are a business owner then you know the importance of digital marketing and its various services. Digital marketing is the best way to reach to your target audience and to promote your business online. There are a lot of benefits associated with digital marketing. And it is also the best way to market your business in an efficient manner.</p>
                                 </div>
                             </div>
                         </div>
@@ -773,55 +887,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								How Cost-Effective Is Digital Marketing Compared With Traditional Marketing?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>Digital marketing has gained popularity in the past few years and it has become the most effective way to reach out to the target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -842,136 +914,20 @@
                     </div>
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
-                            </button>
-                        </h2>
-                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
-                            </button>
-                        </h2>
-                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
+								How Do You Identify A Successful Digital Marketing Company?
                             </button>
                         </h2>
                         <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
+                                    <p>Here are the key factors that you should consider while selecting a good digital marketing company for your business:</p>
 									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
+										<li>Does the company have a portfolio?</li>
+										<li>Does the company have a team of experts?</li>
+										<li>What is the duration of the contract?</li>
+										<li>Is the company affordable?</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
                                 </div>
                             </div>
                         </div>

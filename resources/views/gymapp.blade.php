@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-auto">
-			<img src="images/case-studies/gym-app/header-logo.webp" class="img-fluid" alt="Gym App Logo">
+			<img src="{{asset('images/case-studies/gym-app/header-logo.webp')}}" class="img-fluid" alt="Gym App Logo">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome to</h1>
 					<h1 class="span">GYMNASIUM</h1>
@@ -21,7 +21,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/header-phone.webp" class="img-fluid" alt="Gym App">
+				<img src="{{asset('images/case-studies/gym-app/header-phone.webp')}}" class="img-fluid" alt="Gym App">
 			</div>
 		</div>
 	</div>
@@ -40,7 +40,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/about-gym.webp" alt="Gym App" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/about-gym.webp')}}" alt="Gym App" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-1.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-2.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -110,7 +110,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-3.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -122,7 +122,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-4.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -146,7 +146,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-1.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -158,7 +158,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-2.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -182,25 +182,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="gym-app-sketching-icon">
-					<img src="images/case-studies/gym-app/sketching-icon.webp" alt="Sketching" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Sketching</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="gym-app-wireframe-icon">
-					<img src="images/case-studies/gym-app/wireframe-icon.webp" alt="Wireframe" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wireframe</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="gym-app-branding-icon">
-					<img src="images/case-studies/gym-app/branding-icon.webp" alt="Branding" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-app/branding-icon.webp')}}" alt="Branding" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Branding</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="gym-app-visuals-icon">
-					<img src="images/case-studies/gym-app/visuals-icon.webp" alt="Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Visuals</h5>
 			</div>
@@ -221,7 +221,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/gym-app/sketching.webp" alt="Sketching" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/gym-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sketching-->
@@ -238,7 +238,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/gym-app/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/gym-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Wireframe-->
@@ -254,11 +254,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/gym-app/tints.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/tints.webp')}}" alt="Tints" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="images/case-studies/gym-app/shades.webp" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/shades.webp')}}" alt="Shades" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -275,7 +275,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/gym-app/typography.webp" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/typography.webp')}}" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -298,16 +298,16 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-1">
+					<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-1.webp')}}" alt="Gym App Visuals" class="img-fluid gym-app-visuals-1">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-2">
+					<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-2.webp')}}" alt="Gym App Visuals" class="img-fluid gym-app-visuals-2">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-3">
+					<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-3.webp')}}" alt="Gym App Visuals" class="img-fluid gym-app-visuals-3">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="1.0s">
-					<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Gym App Visuals" class="img-fluid gym-app-visuals-4">
+					<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-4.webp')}}" alt="Gym App Visuals" class="img-fluid gym-app-visuals-4">
 				</div>
 			</div>
 		</div>
@@ -335,13 +335,13 @@
 				<p>Set and track your fitness goals with the help of a calorie counter, a sleep tracker, and a heart rate monitor. You can also look at your prior work.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/gym-app/gym-app-visuals-1.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-1.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-2.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-2.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="gym-sub-heading">Management of Timeline</h5>
@@ -361,13 +361,13 @@
 				<p>To entice your loyal consumers, offer exclusive promotions and discounts.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/gym-app/gym-app-visuals-3.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-3.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="1.0s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/gym-app/gym-app-visuals-4.webp" alt="Gym App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/gym-app-visuals-4.webp')}}" alt="Gym App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="gym-sub-heading">View Recipes</h5>
@@ -386,11 +386,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.2s">
-				<img src="images/case-studies/app-store.webp" alt="App Store" class="img-fluid">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="img-fluid">
 			</div>
 			
 			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/google-play.webp" alt="Google Play" class="img-fluid">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="img-fluid">
 			</div>
 		</div>
 	</div>

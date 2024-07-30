@@ -736,7 +736,7 @@
 							<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Gym App</h2>
 							<p class="pt-3 case-study-text">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being. This platform excels by integrating innovative tools and expert insights designed to empower users on their journey toward optimal fitness and wellness. Engage with Gymnasium to transform your health through structured guidance and supportive community features. Whether you're starting your fitness journey or aiming to reach new goals, Gymnasium provides the tools and support you need to succeed. From personalized workout plans to expert nutritional advice and real-time progress tracking, it's your all-in-one companion for achieving and maintaining a healthier lifestyle.</p>
-							<a target="_blank" href="{{url('/gym-app')}}" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="{{url('/case-studies/gym-app')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -751,7 +751,7 @@
 							<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate App</h2>
 							<p class="pt-3 case-study-text">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches. We aim to enhance visibility through effective digital marketing and maintain a transparent feedback system for continuous improvement based on user insights. These objectives are designed to elevate the real estate experience and deliver exceptional value to our users.</p>
-							<a target="_blank" href="{{url('/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="{{url('/case-studies/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -770,7 +770,7 @@
 							<img src="images/case-studies/gym-logo.webp" alt="Gym Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Gym Web</h2>
 							<p class="pt-3 case-study-text">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface. We understand that starting and sticking to a fitness regimen can be challenging, which is why Gymnasium simplifies the complexities of fitness, making it accessible and enjoyable for everyone, anywhere, and anytime. From personalized workout plans tailored to your fitness level and goals to expert dietary recommendations, Gymnasium empowers you to take charge of your health with confidence and ease.</p>
-							<a target="_blank" href="{{url('/gym-web')}}" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="{{url('/case-studies/gym-web')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -785,7 +785,7 @@
 							<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Real Estate Web</h2>
 							<p class="pt-3 case-study-text">Discover Avenue, the ultimate app for all your property buying and selling needs. Our platform offers a seamless and efficient experience with a user-friendly interface, extensive property listings, and powerful tools. Avenue simplifies real estate transactions, making it easy for you to navigate the market confidently. Join us today and explore a smarter way to buy and sell properties.</p>
-							<a target="_blank" href="{{url('/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="{{url('/case-studies/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>

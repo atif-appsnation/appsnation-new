@@ -12,14 +12,14 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="images/case-studies/loyalty-web/header-logo.webp" class="img-fluid" alt="Loyalty Web Logo">
+			<img src="{{asset('images/case-studies/loyalty-web/header-logo.webp')}}" class="img-fluid" alt="Loyalty Web Logo">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Shop Smarter, Earn More</h1>
 					<h3 class="pt-4 text-white">Bonus Buddy: Your Essential E-commerce Ally.</h3>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/header-web.webp" class="img-fluid" alt="Loyalty Web">
+				<img src="{{asset('images/case-studies/loyalty-web/header-web.webp')}}" class="img-fluid" alt="Loyalty Web">
 			</div>
 		</div>
 	</div>
@@ -53,25 +53,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="loyalty-web-user-and-research">
-					<img src="images/case-studies/loyalty-web/user-and-research-analytics-icon.webp" alt="User And Reseaarch Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">User And Research Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="loyalty-web-problem-and-solutions">
-					<img src="images/case-studies/loyalty-web/problem-and-solutions-icon.webp" alt="Problem And Solution" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Problem And Solution</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="loyalty-web-competitive-analysis">
-					<img src="images/case-studies/loyalty-web/competitive-analysis-icon.webp" alt="Competitive Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Competitive Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="loyalty-web-wireframe-icons">
-					<img src="images/case-studies/loyalty-web/wireframe-icon.webp" alt="Wire Frame" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wire Frame</h5>
 			</div>
@@ -91,7 +91,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-1.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -103,7 +103,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-2.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -127,7 +127,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-1.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -139,7 +139,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-2.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -165,7 +165,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-1.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -177,7 +177,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-2.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -201,7 +201,7 @@
 			</div>
 			<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
 				<div class="project-timeline-img-div pt-3">
-					<img src="images/case-studies/loyalty-web/timeline.webp" alt="Project Timeline" class="img-fluid w-100">
+					<img src="{{asset('images/case-studies/loyalty-web/timeline.webp')}}" alt="Project Timeline" class="img-fluid w-100">
 				</div>
 			</div>
 		</div>
@@ -222,7 +222,7 @@
 		</div>
 	</div>
 	<div class="loyalty-sitemap-img pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/loyalty-web/sitemap.webp" alt="Sitemap" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/loyalty-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sitemap-->
@@ -239,7 +239,7 @@
 		</div>
 	</div>
 	<div class="pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/loyalty-web/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/loyalty-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Wiregrame-->
@@ -259,7 +259,7 @@
 	<div class="pt50">
 		<div class="row mt-4 mt-lg-0 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-12">
-				<img src="images/case-studies/loyalty-web/ui-ux.webp" alt="Loyalty Web UI/UX" class="img-fluid w-100">
+				<img src="{{asset('images/case-studies/loyalty-web/ui-ux.webp')}}" alt="Loyalty Web UI/UX" class="img-fluid w-100">
 			</div>
 		</div>
 	</div>
@@ -277,11 +277,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/loyalty-app/tints.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/tints.webp')}}" alt="Tints" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="images/case-studies/loyalty-app/shades.webp" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/shades.webp')}}" alt="Shades" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -298,7 +298,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/loyalty-web/typography.webp" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/typography.webp')}}" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -325,13 +325,13 @@
 				<p>Create, upload and manage all the content on the application and make run-time changes through simple and user-friendly content management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-01.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/admin-features-01.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/admin-features-03.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/admin-features-03.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">User Management</h5>
@@ -351,7 +351,7 @@
 				<p>Get notified with your customers' activities and statuses through the notification/alerts feature.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/admin-features-02.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/admin-features-02.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -378,13 +378,13 @@
 				<p>A dynamic and diverse listing of properties, updated in real-time to reflect the latest market conditions.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-1.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-1.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/loyalty-web/loyalty-web-visual-2.webp" alt="Loyalty Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-web/loyalty-web-visual-2.webp')}}" alt="Loyalty Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">Properties Information</h5>

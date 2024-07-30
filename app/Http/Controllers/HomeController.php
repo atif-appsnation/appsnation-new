@@ -1783,21 +1783,22 @@ class HomeController extends Controller
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
         $data = $this->blogApi('art-3d');
         return view(
-        '3d-art',
-        [
-            'techstack' => $techstack,
-            'agencystack' => $agencystack,
-            'awards' => $awards,
-            'casestudy' => $casestudy,
-            'testimonials' => $testimonials,
-            'metabank' => $metabank,
-            'metabank2' => $metabank2,
-            'metatitle' => $metatitle,
-            'metatag' => $metatag,
-            'data' => $data,
-        ]
-    );
+            '3d-art',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'data' => $data,
+            ]
+        );
     }
+    
     public function art2d()
     {
         $metabank = Metabank::where('slug', 'Art-2D')->where('type', 'Tag')->get();
@@ -1811,7 +1812,7 @@ class HomeController extends Controller
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
         $data = $this->blogApi('art-2d');
         return view(
-            'art2d',
+            '2d-art',
             [
                 'techstack' => $techstack,
                 'agencystack' => $agencystack,

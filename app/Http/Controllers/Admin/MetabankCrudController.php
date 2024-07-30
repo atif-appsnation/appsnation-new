@@ -101,9 +101,7 @@ class MetabankCrudController extends CrudController
                 // 'PaidMarketing' => 'PaidMarketing',
                 // 'Ecommerce' => 'Ecommerce',
 
-                
                 //innerpages of services
-
                 'MobileApp' => 'MobileApp',
                 'AndroidApp' => 'AndroidApp',
                 'IosApp' => 'IosApp',
@@ -122,27 +120,19 @@ class MetabankCrudController extends CrudController
                 'IotApp' => 'IotApp',
                 'WearableApp' => 'WearableApp',
 
-
                 //innerpages of Industries
-
                 'Advertising' => 'Advertising',
                 'HealthCareAndLifeScience' => 'HealthCareAndLifeScience',
                 'E-commerceAndRetail' => 'E-commerceAndRetail',
                 'EducationAndHumanResources' => 'EducationAndHumanResources',
-                //
                 'SoftwareAndHighTech' => 'SoftwareAndHighTech',
                 'AutomativeAndTransport' => 'AutomativeAndTransport',
                 'GamingAndLeisure' => 'GamingAndLeisure',
                 'FinancialSoftwareDevelopment' => 'FinancialSoftwareDevelopment',
-                //
                 'MediaAndEntertainment' => 'MediaAndEntertainment',
                 'TravelAndHospitality' => 'TravelAndHospitality',
                 'RealEstateAndProperty' => 'RealEstateAndProperty',
                 'SportTeamAndLeagues' => 'SportTeamAndLeagues',
-
-
-
-
 
                 //innerpages of Solution
                 'BookingApp' => 'BookingApp',
@@ -169,6 +159,8 @@ class MetabankCrudController extends CrudController
                 'realEstateApp' => 'realEstateApp',
                 'realEstateWeb' => 'realEstateWeb',
                 'realEstatePortfolio' => 'realEstatePortfolio',
+                'Art-2d' => 'Art-2d',
+                'Art-3d' => 'Art-3d',
 
             ],
 

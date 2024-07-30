@@ -91,48 +91,35 @@ class MetatitleCrudController extends CrudController
                 // 'PaidMarketing' => 'PaidMarketing',
                 // 'Ecommerce' => 'Ecommerce',
 
-                
                 //innerpages of services
-
                 'MobileApp' => 'MobileApp',
                 'AndroidApp' => 'AndroidApp',
                 'IosApp' => 'IosApp',
                 'GameApp' => 'GameApp',
                 'CrossApp' => 'CrossApp',
-                //
                 'WebPortalApp' => 'WebPortalApp',
                 'E-CommerceApp' => 'E-CommerceApp',
                 'WebApp' => 'WebApp',
-                //
                 'Ar-VrApp' => 'Ar-VrApp',
                 'ArApp' => 'ArApp',
                 'VrApp' => 'VrApp',
-                //
                 'ConnectedDevice' => 'ConnectedDevice',
                 'IotApp' => 'IotApp',
                 'WearableApp' => 'WearableApp',
 
-
                 //innerpages of Industries
-
                 'Advertising' => 'Advertising',
                 'HealthCareAndLifeScience' => 'HealthCareAndLifeScience',
                 'E-commerceAndRetail' => 'E-commerceAndRetail',
                 'EducationAndHumanResources' => 'EducationAndHumanResources',
-                //
                 'SoftwareAndHighTech' => 'SoftwareAndHighTech',
                 'AutomativeAndTransport' => 'AutomativeAndTransport',
                 'GamingAndLeisure' => 'GamingAndLeisure',
                 'FinancialSoftwareDevelopment' => 'FinancialSoftwareDevelopment',
-                //
                 'MediaAndEntertainment' => 'MediaAndEntertainment',
                 'TravelAndHospitality' => 'TravelAndHospitality',
                 'RealEstateAndProperty' => 'RealEstateAndProperty',
                 'SportTeamAndLeagues' => 'SportTeamAndLeagues',
-
-
-
-
 
                 //innerpages of Solution
                 'BookingApp' => 'BookingApp',
@@ -144,27 +131,25 @@ class MetatitleCrudController extends CrudController
                 'RestaurantApp' => 'RestaurantApp',
                 'ShoppingExpressApp' => 'ShoppingExpressApp',
                 'SportApp' => 'SportApp',
-                 //new pages
-                 'Exterior-3d' => 'Exterior-3d',
-                 'interior-3d' => 'Interior-3d',
-                 'Animation' => 'Animation',
-                 'Automation' => 'Automation',
-                 'FloorPlan' => 'FloorPlan',
-                 'Metaverse' => 'Metaverse',
-                 'MrApp' => 'MrApp',
-                 'travelAgencyApp' => 'travelAgencyApp',
-                 'travelAgencyWeb' => 'travelAgencyWeb',
-                 'travelAgencyPortfolio' => 'travelAgencyPortfolio',
-                 'realEstateApp' => 'realEstateApp',
-                 'realEstateWeb' => 'realEstateWeb',
-                 'realEstatePortfolio' => 'realEstatePortfolio',
- 
-                 
 
+                //new pages
+                'Exterior-3d' => 'Exterior-3d',
+                'interior-3d' => 'Interior-3d',
+                'Animation' => 'Animation',
+                'Automation' => 'Automation',
+                'FloorPlan' => 'FloorPlan',
+                'Metaverse' => 'Metaverse',
+                'MrApp' => 'MrApp',
+                'travelAgencyApp' => 'travelAgencyApp',
+                'travelAgencyWeb' => 'travelAgencyWeb',
+                'travelAgencyPortfolio' => 'travelAgencyPortfolio',
+                'realEstateApp' => 'realEstateApp',
+                'realEstateWeb' => 'realEstateWeb',
+                'realEstatePortfolio' => 'realEstatePortfolio',
                 'Terms&Condition'=>'Terms&Condition',
                 'TechStack'=>'TechStack',
-
-
+                'Art-2d' => 'Art-2d',
+                'Art-3d' => 'Art-3d',
 
             ],
 

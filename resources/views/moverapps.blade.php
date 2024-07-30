@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-auto">
-			<img src="images/case-studies/mover-app/header-logo.webp" class="img-fluid" alt="Mover App Logo">
+			<img src="{{asset('images/case-studies/mover-app/header-logo.webp')}}" class="img-fluid" alt="Mover App Logo">
 				<div class="bread-titlev2 mt-4">
 					<h1>Moving Life</h1>
 					<h1 class="span">In Better Way</h1>
@@ -20,7 +20,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/mover-app/header-phone.webp" class="img-fluid" alt="Mover App">
+				<img src="{{asset('images/case-studies/mover-app/header-phone.webp')}}" class="img-fluid" alt="Mover App">
 			</div>
 		</div>
 	</div>
@@ -39,7 +39,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/mover-app/about-mover.webp" alt="Mover App" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/about-mover.webp')}}" alt="Mover App" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -72,7 +72,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/mover-app/mover-app-visuals-1.webp" alt="Mover App Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-1.webp')}}" alt="Mover App Visuals" class="img-fluid about-phone">
 			</div>
 		</div>
 	</div>
@@ -84,7 +84,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/mover-app/mover-app-visuals-2.webp" alt="Mover App Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-2.webp')}}" alt="Mover App Visuals" class="img-fluid about-phone">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -109,7 +109,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/mover-app/mover-app-visuals-3.webp" alt="Mover App Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-3.webp')}}" alt="Mover App Visuals" class="img-fluid about-phone">
 			</div>
 		</div>
 	</div>
@@ -121,7 +121,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/mover-app/mover-app-visuals-4.webp" alt="Mover App Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-4.webp')}}" alt="Mover App Visuals" class="img-fluid about-phone">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -145,7 +145,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/mover-app/mover-app-visuals-1.webp" alt="Mover App Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-1.webp')}}" alt="Mover App Visuals" class="img-fluid about-phone">
 			</div>
 		</div>
 	</div>
@@ -157,7 +157,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/mover-app/mover-app-visuals-2.webp" alt="Mover App Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-2.webp')}}" alt="Mover App Visuals" class="img-fluid about-phone">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -181,25 +181,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="mover-app-sketching-icon">
-					<img src="images/case-studies/mover-app/sketching-icon.webp" alt="Sketching" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Sketching</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="mover-app-wireframe-icon">
-					<img src="images/case-studies/mover-app/wireframe-icon.webp" alt="Wireframe" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wireframe</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="mover-app-branding-icon">
-					<img src="images/case-studies/mover-app/branding-icon.webp" alt="Branding" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-app/branding-icon.webp')}}" alt="Branding" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Branding</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="mover-app-visuals-icon">
-					<img src="images/case-studies/mover-app/visuals-icon.webp" alt="Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Visuals</h5>
 			</div>
@@ -220,7 +220,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/mover-app/sketching.webp" alt="Sketching" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/mover-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sketching-->
@@ -237,7 +237,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/mover-app/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/mover-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Wireframe-->
@@ -253,11 +253,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/mover-app/tints.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/tints.webp')}}" alt="Tints" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="images/case-studies/mover-app/shades.webp" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/shades.webp')}}" alt="Shades" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -274,7 +274,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/mover-app/typography.webp" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/typography.webp')}}" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -297,16 +297,16 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/mover-app/mover-app-visuals-1.webp" alt="Mover App Visuals" class="img-fluid mover-app-visuals-1">
+					<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-1.webp')}}" alt="Mover App Visuals" class="img-fluid mover-app-visuals-1">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/mover-app/mover-app-visuals-2.webp" alt="Mover App Visuals" class="img-fluid mover-app-visuals-2">
+					<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-2.webp')}}" alt="Mover App Visuals" class="img-fluid mover-app-visuals-2">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/mover-app/mover-app-visuals-3.webp" alt="Mover App Visuals" class="img-fluid mover-app-visuals-3">
+					<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-3.webp')}}" alt="Mover App Visuals" class="img-fluid mover-app-visuals-3">
 				</div>
 				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="1.0s">
-					<img src="images/case-studies/mover-app/mover-app-visuals-4.webp" alt="Mover App Visuals" class="img-fluid mover-app-visuals-4">
+					<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-4.webp')}}" alt="Mover App Visuals" class="img-fluid mover-app-visuals-4">
 				</div>
 			</div>
 		</div>
@@ -334,13 +334,13 @@
 				<p>Create a new order and choose an order type based on your item. View your Order History and there is also an option of Cancel Order.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/mover-app/mover-app-visuals-1.webp" alt="Mover App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-1.webp')}}" alt="Mover App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/mover-app/mover-app-visuals-2.webp" alt="Mover App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-2.webp')}}" alt="Mover App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="mover-sub-heading">Nearby Courier</h5>
@@ -360,7 +360,7 @@
 				<p>Customers can avail of Promo Code and Discount Coupons Premium with the availability of User Subscription plans.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/mover-app/mover-app-visuals-3.webp" alt="Mover App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/mover-app-visuals-3.webp')}}" alt="Mover App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -372,11 +372,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.2s">
-				<img src="images/case-studies/app-store.webp" alt="App Store" class="img-fluid">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="img-fluid">
 			</div>
 			
 			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/google-play.webp" alt="Google Play" class="img-fluid">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="img-fluid">
 			</div>
 		</div>
 	</div>

@@ -353,13 +353,13 @@
 </div>
 
 
-<script src="js/vendor/modernizr-3.5.0.min.js"></script>
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.bundle.min.js"></script>
-<script src="js/plugin.min.js"></script>
-<script src="js/swiper.min.js"></script>
-<script src="js/main.js"></script>
-<script src="js/owl.carousel.js"></script>
+<script src="{{asset('js/vendor/modernizr-3.5.0.min.js')}}"></script>
+<script src="{{asset('js/jquery.min.js')}}"></script>
+<script src="{{asset('js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{asset('js/plugin.min.js')}}"></script>
+<script src="{{asset('js/swiper.min.js')}}"></script>
+<script src="{{asset('js/main.js')}}"></script>
+<script src="{{asset('js/owl.carousel.js')}}"></script>
 
 <script>
 

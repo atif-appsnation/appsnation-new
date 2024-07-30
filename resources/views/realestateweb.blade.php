@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="images/case-studies/real-estate-web/header-logo.webp" class="img-fluid" alt="Real Estate Web Logo">
+			<img src="{{asset('images/case-studies/real-estate-web/header-logo.webp')}}" class="img-fluid" alt="Real Estate Web Logo">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome To</h1>
 					<h1 class="span">AVENUE</h1>
@@ -20,7 +20,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-web/header-web.webp" class="img-fluid" alt="Real Estate Web">
+				<img src="{{asset('images/case-studies/real-estate-web/header-web.webp')}}" class="img-fluid" alt="Real Estate Web">
 			</div>
 		</div>
 	</div>
@@ -55,25 +55,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="real-estate-web-user-and-research">
-					<img src="images/case-studies/real-estate-web/user-and-research-analytics-icon.webp" alt="User And Reseaarch Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">User And Research Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="real-estate-web-problem-and-solutions">
-					<img src="images/case-studies/real-estate-web/problem-and-solutions-icon.webp" alt="Problem And Solution" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Problem And Solution</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="real-estate-web-competitive-analysis">
-					<img src="images/case-studies/real-estate-web/competitive-analysis-icon.webp" alt="Competitive Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Competitive Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="real-estate-web-wireframe-icons">
-					<img src="images/case-studies/real-estate-web/wireframe-icon.webp" alt="Wire Frame" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wire Frame</h5>
 			</div>
@@ -94,7 +94,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-1.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -106,7 +106,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-2.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -132,7 +132,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-1.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -144,7 +144,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-2.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -165,13 +165,11 @@
 			<div class="col-lg-6 my-lg-auto">
 				<div class="common-heading ptag">
 					<h2 class="mb30 txt-heading">Real Estate App: Achieving Success</h2>
-					<p class="text-middle">Our real estate app has revolutionized the property market with outstanding results. Prioritizing data accuracy and user engagement, we've built trust through timely property listings. The app's intuitive design balances complexity with ease of use for all users. Robust security measures protect user information, while scalability ensures seamless performance during peak usage.
-Consistent, high-quality user experiences across devices and effective SEO strategies enhance visibility and user satisfaction. Compliance with real estate regulations underscores our commitment to reliability and trustworthiness. Our app continues to set new benchmarks, offering unmatched convenience and efficiency in property transactions.
-</p>
+					<p class="text-middle">Our real estate app has revolutionized the property market with outstanding results. Prioritizing data accuracy and user engagement, we've built trust through timely property listings. The app's intuitive design balances complexity with ease of use for all users. Robust security measures protect user information, while scalability ensures seamless performance during peak usage. Consistent, high-quality user experiences across devices and effective SEO strategies enhance visibility and user satisfaction. Compliance with real estate regulations underscores our commitment to reliability and trustworthiness. Our app continues to set new benchmarks, offering unmatched convenience and efficiency in property transactions.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-1.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -183,7 +181,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-2.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -208,7 +206,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 			</div>
 			<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
 				<div class="project-timeline-img-div pt-3">
-					<img src="images/case-studies/real-estate-web/project-timeline.webp" alt="Project Timeline" class="img-fluid w-100">
+					<img src="{{asset('images/case-studies/real-estate-web/project-timeline.webp')}}" alt="Project Timeline" class="img-fluid w-100">
 				</div>
 			</div>
 		</div>
@@ -229,7 +227,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 		</div>
 	</div>
 	<div class="real-estate-sitemap-img pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/real-estate-web/sitemap.webp" alt="Sitemap" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/real-estate-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sitemap-->
@@ -246,7 +244,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 		</div>
 	</div>
 	<div class="pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/real-estate-web/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/real-estate-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Wiregrame-->
@@ -266,7 +264,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 	<div class="pt50">
 		<div class="row mt-4 mt-lg-0 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-12">
-				<img src="images/case-studies/real-estate-web/ui-ux.webp" alt="Real Estate Web UI/UX" class="img-fluid w-100">
+				<img src="{{asset('images/case-studies/real-estate-web/ui-ux.webp')}}" alt="Real Estate Web UI/UX" class="img-fluid w-100">
 			</div>
 		</div>
 	</div>
@@ -284,15 +282,15 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/real-estate-app/tints-01.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/tints-01.webp')}}" alt="Tints" class="img-fluid">
 				<h4 class="text-center mt-5">Shades</h4>
-				<img src="images/case-studies/real-estate-app/shades-01.webp" alt="Shades" class="img-fluid mt-3">
+				<img src="{{asset('images/case-studies/real-estate-app/shades-01.webp')}}" alt="Shades" class="img-fluid mt-3">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/real-estate-app/tints-02.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/tints-02.webp')}}" alt="Tints" class="img-fluid">
 				<h4 class="text-center mt-5">Shades</h4>
-				<img src="images/case-studies/real-estate-app/shades-02.webp" alt="Shades" class="img-fluid mt-3">
+				<img src="{{asset('images/case-studies/real-estate-app/shades-02.webp')}}" alt="Shades" class="img-fluid mt-3">
 			</div>
 		</div>
 	</div>
@@ -309,7 +307,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/real-estate-web/typography.webp" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/typography.webp')}}" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -336,13 +334,13 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 				<p>Generate, edit, and organize all of the user's content, as well as make changes in real-time, using a simple and user-friendly content management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-web/admin-features-01.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/admin-features-01.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/real-estate-web/admin-features-03.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/admin-features-03.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="real-estate-sub-heading">User Management</h5>
@@ -362,7 +360,7 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 				<p>Maintain awareness of users' mortgage/finance needs and keep them up to speed with the latest finance rates and plans via the mortgage current mortgage rates and strategies management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-web/admin-features-02.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/admin-features-02.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -389,13 +387,13 @@ Consistent, high-quality user experiences across devices and effective SEO strat
 				<p>A dynamic and diverse listing of properties, updated in real-time to reflect the latest market conditions.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-1.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-1.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/real-estate-web/real-estate-web-visual-2.webp" alt="Real Estate Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-web/real-estate-web-visual-2.webp')}}" alt="Real Estate Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="real-estate-sub-heading">Properties Information</h5>

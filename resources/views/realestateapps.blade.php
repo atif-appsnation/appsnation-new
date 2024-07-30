@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-auto">
-			<img src="images/case-studies/real-estate-app/header-logo.webp" class="img-fluid" alt="Real Estate App Logo">
+			<img src="{{asset('images/case-studies/real-estate-app/header-logo.webp')}}" class="img-fluid" alt="Real Estate App Logo">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome To</h1>
 					<h1 class="span">AVENUE</h1>
@@ -22,7 +22,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/header-phone.webp" class="img-fluid" alt="Real Estate App">
+				<img src="{{asset('images/case-studies/real-estate-app/header-phone.webp')}}" class="img-fluid" alt="Real Estate App">
 			</div>
 		</div>
 	</div>
@@ -39,7 +39,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/about-real-estate.webp" alt="Real Estate App" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/about-real-estate.webp')}}" alt="Real Estate App" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -112,7 +112,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -124,7 +124,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -150,7 +150,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 		</div>
 	</div>
@@ -162,7 +162,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -188,25 +188,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="real-estate-app-sketching-icon">
-					<img src="images/case-studies/real-estate-app/sketching-icon.webp" alt="Sketching" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Sketching</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="real-estate-app-wireframe-icon">
-					<img src="images/case-studies/real-estate-app/wireframe-icon.webp" alt="Wireframe" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wireframe</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="real-estate-app-branding-icon">
-					<img src="images/case-studies/real-estate-app/branding-icon.webp" alt="Branding" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-app/branding-icon.webp')}}" alt="Branding" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Branding</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="real-estate-app-visuals-icon">
-					<img src="images/case-studies/real-estate-app/visuals-icon.webp" alt="Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/real-estate-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Visuals</h5>
 			</div>
@@ -227,7 +227,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/real-estate-app/sketching.webp" alt="Sketching" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/real-estate-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sketching-->
@@ -244,7 +244,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/real-estate-app/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/real-estate-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Wireframe-->
@@ -260,15 +260,15 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/real-estate-app/tints-01.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/tints-01.webp')}}" alt="Tints" class="img-fluid">
 				<h4 class="text-center mt-5">Shades</h4>
-				<img src="images/case-studies/real-estate-app/shades-01.webp" alt="Shades" class="img-fluid mt-3">
+				<img src="{{asset('images/case-studies/real-estate-app/shades-01.webp')}}" alt="Shades" class="img-fluid mt-3">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/real-estate-app/tints-02.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/tints-02.webp')}}" alt="Tints" class="img-fluid">
 				<h4 class="text-center mt-5">Shades</h4>
-				<img src="images/case-studies/real-estate-app/shades-02.webp" alt="Shades" class="img-fluid mt-3">
+				<img src="{{asset('images/case-studies/real-estate-app/shades-02.webp')}}" alt="Shades" class="img-fluid mt-3">
 			</div>
 		</div>
 	</div>
@@ -285,7 +285,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/real-estate-app/typography.webp" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/typography.webp')}}" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -302,7 +302,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/real-estate-app/components.webp" alt="Components" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/components.webp')}}" alt="Components" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -325,13 +325,13 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-1">
+					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-1">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-2">
+					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-2">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-3">
+					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-3">
 				</div>
 			</div>
 		</div>
@@ -359,13 +359,13 @@
 				<p>A large and diverse property list for our valued users to search for various homes.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-2.webp" alt="Real Estate App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="real-estate-sub-heading">Property Information</h5>
@@ -385,13 +385,13 @@
 				<p>Maps that are dynamic and responsive to help you find the best routes and pinpoint specific locations.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-3.webp" alt="Real Estate App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="1.0s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/real-estate-app/real-estate-app-visuals-1.webp" alt="Real Estate App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="real-estate-sub-heading">Check Out</h5>
@@ -410,11 +410,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.2s">
-				<img src="images/case-studies/app-store.webp" alt="App Store" class="img-fluid">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="img-fluid">
 			</div>
 			
 			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/google-play.webp" alt="Google Play" class="img-fluid">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="img-fluid">
 			</div>
 		</div>
 	</div>

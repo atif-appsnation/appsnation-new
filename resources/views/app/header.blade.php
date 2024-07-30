@@ -36,15 +36,15 @@
 	@endforeach
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- <meta name="theme-color" content="#4302b2"> -->
-	<link href="images/logo/favicon.webp" rel="icon">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/plugin.min.css" rel="stylesheet">
-	<link href="css/swiper.min.css" rel="stylesheet">
-	<link href="css/all.min.css" rel="stylesheet">
-	<link href="css/proximanova.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
-	<link href="css/responsive.css" rel="stylesheet">
-	<link href="css/darkmode.css" rel="stylesheet">
+	<link href="{{asset('images/logo/favicon.webp')}}" rel="icon">
+	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+	<link href="{{asset('css/plugin.min.css')}}" rel="stylesheet">
+	<link href="{{asset('css/swiper.min.css')}}" rel="stylesheet">
+	<link href="{{asset('css/all.min.css')}}" rel="stylesheet">
+	<link href="{{asset('css/proximanova.css')}}" rel="stylesheet">
+	<link href="{{asset('css/style.css')}}" rel="stylesheet">
+	<link href="{{asset('css/responsive.css')}}" rel="stylesheet">
+	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">
 	<link rel="canonical" href="{{url()->current()}}" />
 
 </head>
@@ -105,8 +105,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="menu-header">
 				<div class="dsk-logo">
 					<a class="nav-brand" href="{{url('/')}}">
-						<img src="images/logo/appsnation-white-logo.webp" alt="Logo" class="mega-white-logo" />
-						<img src="images/logo/appsnation-logo.webp" alt="Logo" class="mega-darks-logo" />
+						<img src="{{asset('images/logo/appsnation-white-logo.webp')}}" alt="Logo" class="mega-white-logo" />
+						<img src="{{asset('images/logo/appsnation-logo.webp')}}" alt="Logo" class="mega-darks-logo" />
 					</a>
 				</div>
 				<div class="custom-nav d-block ml-auto" role="navigation">
@@ -200,7 +200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/mobile-app-development')}}">
-															<div class="menu-item-img"> <img src="images/menu/mobile-app-development.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/mobile-app-development.webp')}}" class="services-icons" alt="Mobile App Development"> </div>
 															<div class="menu-item-title align-middle">Mobile App Development</div>
 														</a>
 														<ul class="main-submenu">
@@ -212,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/web-portal-app-development')}}">
-															<div class="menu-item-img"> <img src="images/menu/web-portal-development.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/web-portal-development.webp')}}" class="services-icons" alt="Web Portal Development"> </div>
 															<div class="menu-item-title align-middle">Web Portal Development</div>
 														</a>
 														<ul class="main-submenu">
@@ -226,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/xr-app-development')}}">
-															<div class="menu-item-img"> <img src="images/menu/ar-and-vr-app-development.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/ar-and-vr-app-development.webp')}}" class="services-icons" alt="XR (AR & VR) App Development"> </div>
 															<div class="menu-item-title align-middle">XR (AR & VR) App Development</div>
 														</a>
 														<ul class="main-submenu">
@@ -237,12 +237,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/connected-devices')}}">
-															<div class="menu-item-img"> <img src="images/menu/connected-devices.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/connected-devices.webp')}}" class="services-icons" alt="Connected Devices"> </div>
 															<div class="menu-item-title align-middle">Connected Devices</div>
 														</a>
 														<ul class="main-submenu">
 															<li> <a href="{{url('/iot-app-development')}}">IoT App Development</a> </li>
 															<li> <a href="{{url('/wearable-app-development')}}">Wearables App Development</a> </li>
+															<li> <a href="{{url('/industrial-automation')}}">Industrial Automation</a> </li>
 														</ul>
 													</li>
 												</ul>
@@ -251,23 +252,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li>
 														<a href="javascript:void(0)">
-															<div class="menu-item-img"> <img src="images/menu/ar-and-vr-app-development.webp" class="services-icons"> </div>
-															<div class="menu-item-title align-middle">Marketing & Animation Services</div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/ar-and-vr-app-development.webp')}}" class="services-icons" alt="Design & Animation Services"> </div>
+															<div class="menu-item-title align-middle">Design & Animation Services</div>
 														</a>
 														<ul class="main-submenu">
 															<li> <a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
 															<li> <a href="{{url('/animation-services')}}">Animation Services</a> </li>
-														</ul>
-													</li>
-													<li class="pt-4">
-														<a href="javascript:void(0)">
-															<div class="menu-item-img"> <img src="images/menu/connected-devices.webp" class="services-icons"> </div>
-															<div class="menu-item-title align-middle">2D & 3D</div>
-														</a>
-														<ul class="main-submenu">
 															<li> <a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
 															<li> <a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
 															<li> <a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
+															<li> <a href="{{url('/2d-art')}}">2D Art Services</a> </li>
+															<li> <a href="{{url('/3d-art')}}">3D Art Services</a> </li>
 														</ul>
 													</li>
 												</ul>
@@ -286,25 +281,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/advertising')}}">
-															<div class="menu-item-img"> <img src="images/menu/advertising.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/advertising.webp')}}" class="services-icons" alt="Advertising"> </div>
 															<div class="menu-item-title align-middle">Advertising</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/healthcare-and-life-science')}}">
-															<div class="menu-item-img"> <img src="images/menu/healthcare.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/healthcare.webp')}}" class="services-icons" alt="Healthcare and Life Science"> </div>
 															<div class="menu-item-title align-middle">Healthcare and Life Science</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/ecommerce-and-retail')}}">
-															<div class="menu-item-img"> <img src="images/menu/e-commerce.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/e-commerce.webp')}}" class="services-icons" alt="E-commerce and Retail"> </div>
 															<div class="menu-item-title align-middle">E-commerce and Retail</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/education')}}">
-															<div class="menu-item-img"> <img src="images/menu/education.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/education.webp')}}" class="services-icons" alt="Education"> </div>
 															<div class="menu-item-title align-middle">Education</div>
 														</a>
 													</li>
@@ -314,25 +309,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/software-and-high-tech')}}">
-															<div class="menu-item-img"> <img src="images/menu/software-application.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/software-application.webp')}}" class="services-icons" alt="Software and High-Tech"> </div>
 															<div class="menu-item-title align-middle">Software and High-Tech</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/automative-and-transport')}}">
-															<div class="menu-item-img"> <img src="images/menu/transportation.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/transportation.webp')}}" class="services-icons" alt="Automative and Transport"> </div>
 															<div class="menu-item-title align-middle">Automative and Transport</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/gaming-and-leisure')}}">
-															<div class="menu-item-img"> <img src="images/menu/gaming.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/gaming.webp')}}" class="services-icons" alt="Gaming and Leisure"> </div>
 															<div class="menu-item-title align-middle">Gaming and Leisure</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/financial-software-development')}}">
-															<div class="menu-item-img"> <img src="images/menu/software-development.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/software-development.webp')}}" class="services-icons" alt="Financial Software Development"> </div>
 															<div class="menu-item-title align-middle">Financial Software Development</div>
 														</a>
 													</li>
@@ -342,25 +337,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/media-and-entertainment')}}">
-															<div class="menu-item-img"> <img src="images/menu/entertaining.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/entertaining.webp')}}" class="services-icons" alt="Media and Entertainment"> </div>
 															<div class="menu-item-title align-middle">Media and Entertainment</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/travel-and-hospitality')}}">
-															<div class="menu-item-img"> <img src="images/menu/travel.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/travel.webp')}}" class="services-icons" alt="Travel & Hospitality"> </div>
 															<div class="menu-item-title align-middle">Travel & Hospitality</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/real-estate-and-property')}}">
-															<div class="menu-item-img"> <img src="images/menu/real-state.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/real-state.webp')}}" class="services-icons" alt="Real Estate and Property"> </div>
 															<div class="menu-item-title align-middle">Real Estate and Property</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/sports-teams-and-leagues')}}">
-															<div class="menu-item-img"> <img src="images/menu/sports.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/sports.webp')}}" class="services-icons" alt="Sports Teams and Leagues"> </div>
 															<div class="menu-item-title align-middle">Sports Teams and Leagues</div>
 														</a>
 													</li>
@@ -380,19 +375,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li class="pt-4">
 														<a href="{{url('/booking-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/booking-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/booking-app.webp')}}" class="services-icons" alt="Booking App"> </div>
 															<div class="menu-item-title align-middle">Booking App</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/loyaltyapp')}}">
-															<div class="menu-item-img"> <img src="images/menu/loyalty-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/loyalty-app.webp')}}" class="services-icons" alt="Loyalty App"> </div>
 															<div class="menu-item-title align-middle">Loyalty App</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/restaurant-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/restaurant-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/restaurant-app.webp')}}" class="services-icons" alt="Restaurant App"> </div>
 															<div class="menu-item-title align-middle">Restaurant App</div>
 														</a>
 													</li>
@@ -402,20 +397,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li class="pt-4">
 														<a href="{{url('/fitness-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/fitness-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/fitness-app.webp')}}" class="services-icons" alt="Fitness App"> </div>
 															<div class="menu-item-title align-middle">Fitness App</div>
 														</a>
 													</li>
 													
 													<li class="pt-4">
 														<a href="{{url('/moverapp')}}">
-															<div class="menu-item-img"> <img src="images/menu/mover-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/mover-app.webp')}}" class="services-icons" alt="Mover App"> </div>
 															<div class="menu-item-title align-middle">Mover App</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/shopping-express-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/shopping-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/shopping-app.webp')}}" class="services-icons" alt="Shopping Express App"> </div>
 															<div class="menu-item-title align-middle">Shopping Express App</div>
 														</a>
 													</li>
@@ -425,19 +420,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<ul class="main-menu">
 													<li class="pt-4">
 														<a href="{{url('/fleet-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/fleet-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/fleet-app.webp')}}" class="services-icons" alt="Fleet App"> </div>
 															<div class="menu-item-title align-middle">Fleet App</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/realestate-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/real-estate-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/real-estate-app.webp')}}" class="services-icons" alt="Real Estate App"> </div>
 															<div class="menu-item-title align-middle">Real Estate App</div>
 														</a>
 													</li>
 													<li class="pt-4">
 														<a href="{{url('/sport-app')}}">
-															<div class="menu-item-img"> <img src="images/menu/sports-app.webp" class="services-icons"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/sports-app.webp')}}" class="services-icons" alt="Sports App"> </div>
 															<div class="menu-item-title align-middle">Sport App</div>
 														</a>
 													</li>
@@ -460,9 +455,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="contct-heading">Contact Us</div>
 									<div class="inquiry-card-nn">
 										<ul>
-											<li><a href="tel:+12535284174"><img src="images/flags/us.svg" alt="USA office" class="flags-size"> +1 (253) 528-4174 </a></li>
-											<li><a href="tel:+966507438993"><img src="images/flags/sa.svg" alt="Saudi Arabia office" class="flags-size"> +966 507438993 </a> </li>
-											<!-- <li><a href="tel:+922134388738"><img src="images/flags/pk.svg" alt="Pakistan office" class="flags-size"> +92 (21) 34388738 </a></li> -->
+											<li><a href="tel:+12535284174"><img src="{{asset('images/flags/us.svg')}}" alt="USA office" class="flags-size"> +1 (253) 528-4174 </a></li>
+											<li><a href="tel:+966507438993"><img src="{{asset('images/flags/sa.svg')}}" alt="Saudi Arabia office" class="flags-size"> +966 507438993 </a> </li>
+											<!-- <li><a href="tel:+922134388738"><img src="{{asset('images/flags/pk.svg')}}" alt="Pakistan office" class="flags-size"> +92 (21) 34388738 </a></li> -->
 											<li><i class="fas fa-envelope"></i> <a href="mailto:info@appsnation.co">info@appsnation.co</a> </li>
 											<li><i class="fas fa-envelope"></i> <a href="mailto:sales@appsnation.co">sales@appsnation.co</a> </li>
 										</ul>
@@ -531,21 +526,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<ul>
 									<li><a href="{{url('/iot-app-development')}}">IoT App Development</a></li>
 									<li><a href="{{url('/wearable-app-development')}}">Wearable App Development</a></li>
+									<li><a href="{{url('/industrial-automation')}}">Industrial Automation</a> </li>
 								</ul>
 							</li>
 							<li>
 								<a href="javascript:void(0)">Marketing & Animation Services</a>
 								<ul>
-									<li> <a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
-									<li> <a href="{{url('/animation-services')}}">Animation Services</a> </li>
-								</ul>
-							</li>
-							<li>
-								<a href="javascript:void(0)">2D & 3D</a>
-								<ul>
-									<li> <a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
-									<li> <a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
-									<li> <a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
+									<li><a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
+									<li><a href="{{url('/animation-services')}}">Animation Services</a> </li>
+									<li><a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
+									<li><a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
+									<li><a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
+									<li><a href="{{url('/2d-art')}}">2D Art Services</a> </li>
+									<li><a href="{{url('/3d-art')}}">3D Art Services</a> </li>
 								</ul>
 							</li>
 						</ul>
@@ -584,9 +577,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<li> <a href="{{url('/contact-us')}}">Contact Us</a> </li>
 				</ul>
 				<ul class="bottom-nav">
-					<li><a href="tel:+12535284174"><img src="images/flags/us.svg" alt="USA office" class="flags-size"> +1 (253) 528-4174 </a></li>
-					<li><a href="tel:+966507438993"><img src="images/flags/sa.svg" alt="Saudi Arabia office" class="flags-size"> +966 507438993 </a> </li>
-					<!-- <li><a href="tel:+922134388738"><img src="images/flags/pk.svg" alt="Pakistan office" class="flags-size"> +92 (21) 34388738 </a></li> -->
+					<li><a href="tel:+12535284174"><img src="{{asset('images/flags/us.svg')}}" alt="USA office" class="flags-size"> +1 (253) 528-4174 </a></li>
+					<li><a href="tel:+966507438993"><img src="{{asset('images/flags/sa.svg')}}" alt="Saudi Arabia office" class="flags-size"> +966 507438993 </a> </li>
+					<!-- <li><a href="tel:+922134388738"><img src="{{asset('images/flags/pk.svg')}}" alt="Pakistan office" class="flags-size"> +92 (21) 34388738 </a></li> -->
 					<li><a href="mailto:info@appsnation.com"><i class="fas fa-envelope"></i> info@appsnation.com</a></li>
 					<li><a href="mailto:sales@appsnation.com"><i class="fas fa-envelope"></i> sales@appsnation.com</a></li>
 				</ul>

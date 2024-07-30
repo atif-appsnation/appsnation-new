@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="images/case-studies/travel-agency-web/header-logo.webp" class="img-fluid" alt="Travel Agency Web Logo">
+			<img src="{{asset('images/case-studies/travel-agency-web/header-logo.webp')}}" class="img-fluid" alt="Travel Agency Web Logo">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white banner-heading">Welcome to Travelicious</h1>
 					<h3 class="pt-4 text-white banner-heading">Where Unforgettable Journeys Await!</h3>
@@ -21,7 +21,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-web/header-web.webp" class="img-fluid" alt="Travel Agency Web">
+				<img src="{{asset('images/case-studies/travel-agency-web/header-web.webp')}}" class="img-fluid" alt="Travel Agency Web">
 			</div>
 		</div>
 	</div>
@@ -55,25 +55,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="travel-web-user-and-research">
-					<img src="images/case-studies/travel-agency-web/user-and-research-analytics-icon.webp" alt="User And Reseaarch Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">User And Research Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="travel-web-problem-and-solutions">
-					<img src="images/case-studies/travel-agency-web/problem-and-solutions-icon.webp" alt="Problem And Solution" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Problem And Solution</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="travel-web-competitive-analysis">
-					<img src="images/case-studies/travel-agency-web/competitive-analysis-icon.webp" alt="Competitive Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Competitive Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="travel-web-wireframe-icons">
-					<img src="images/case-studies/travel-agency-web/wireframe-icon.webp" alt="Wire Frame" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid">
 				</div>
 				<h5 class="pt-3">Wire Frame</h5>
 			</div>
@@ -93,7 +93,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-1.webp" alt="Travel Web Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-1.webp')}}" alt="Travel Web Visuals" class="img-fluid about-phone">
 			</div>
 		</div>
 	</div>
@@ -105,7 +105,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-2.webp" alt="Travel Web Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-2.webp')}}" alt="Travel Web Visuals" class="img-fluid about-phone">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -129,7 +129,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-3.webp" alt="Travel Web Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-3.webp')}}" alt="Travel Web Visuals" class="img-fluid about-phone">
 			</div>
 		</div>
 	</div>
@@ -141,7 +141,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-1.webp" alt="Travel Web Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-1.webp')}}" alt="Travel Web Visuals" class="img-fluid about-phone">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -165,7 +165,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-2.webp" alt="Travel Web Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-2.webp')}}" alt="Travel Web Visuals" class="img-fluid about-phone">
 			</div>
 		</div>
 	</div>
@@ -177,7 +177,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-3.webp" alt="Travel Web Visuals" class="img-fluid about-phone">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-3.webp')}}" alt="Travel Web Visuals" class="img-fluid about-phone">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -201,7 +201,7 @@
 			</div>
 			<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
 				<div class="project-timeline-img-div pt-3">
-					<img src="images/case-studies/travel-agency-web/project-timeline.webp" alt="Project Timeline" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/project-timeline.webp')}}" alt="Project Timeline" class="img-fluid">
 				</div>
 			</div>
 		</div>
@@ -222,7 +222,7 @@
 		</div>
 	</div>
 	<div class="travel-sitemap-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/travel-agency-web/sitemap.webp" alt="Sitemap" class="img-fluid d-block mx-auto">
+		<img src="{{asset('images/case-studies/travel-agency-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid d-block mx-auto">
 	</div>
 </section>
 <!--End Sitemap-->
@@ -239,7 +239,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/travel-agency-web/wireframes.webp" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/travel-agency-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
 	</div>
 </section>
 <!--End Sketching-->
@@ -257,20 +257,20 @@
 	</div>
 
 	<div class="sitemap-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="images/case-studies/travel-agency-web/web-page.webp" alt="Web Page" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/travel-agency-web/web-page.webp')}}" alt="Web Page" class="img-fluid w-100">
 	</div>
 
 	<!-- <div class="visuals-travel-background pt50 pb50">
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-4 wow fadeIn" data-wow-delay="0.4s">
-					<img src="images/case-studies/travel-agency-web/travel-web-visuals-1.webp" alt="Travel Web Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-1.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 				</div>
 				<div class="col-12 col-md-4 wow fadeIn" data-wow-delay="0.6s">
-					<img src="images/case-studies/travel-agency-web/travel-web-visuals-2.webp" alt="Travel Web Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-2.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 				</div>
 				<div class="col-12 col-md-4 wow fadeIn" data-wow-delay="0.8s">
-					<img src="images/case-studies/travel-agency-web/travel-web-visuals-3.webp" alt="Travel Web Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-3.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 				</div>
 			</div>
 		</div>
@@ -289,11 +289,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="images/case-studies/travel-agency-web/tints.webp" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/tints.webp')}}" alt="Tints" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="images/case-studies/travel-agency-web/shades.webp" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/shades.webp')}}" alt="Shades" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -310,7 +310,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="images/case-studies/travel-agency-web/typography.webp" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/typography.webp')}}" alt="Typography" class="img-fluid">
 			</div>
 		</div> 
 	</div>
@@ -337,13 +337,13 @@
 				<p>Using an easy and user-friendly content management system, you can create, upload, and manage all of the information on the app, as well as make run-time modifications.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/travel-agency-web/admin-features-1.webp" alt="Travel Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/admin-features-1.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/travel-agency-web/admin-features-2.webp" alt="Travel Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/admin-features-2.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="travel-sub-heading">User Management</h5>
@@ -363,7 +363,7 @@
 				<p>Start managing all bookings made on the application by different users, as well as accept/reject bookings based on service availability, using the booking management platform.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/travel-agency-web/admin-features-3.webp" alt="Travel Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/admin-features-3.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -390,13 +390,13 @@
 				<p>A large and diverse selection of services is available for valuable users to search for their chosen services.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-1.webp" alt="Travel Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-1.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="images/case-studies/travel-agency-web/travel-web-visuals-2.webp" alt="Travel Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/travel-web-visuals-2.webp')}}" alt="Travel Web Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="travel-sub-heading">Filters</h5>

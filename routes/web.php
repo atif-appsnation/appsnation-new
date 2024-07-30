@@ -89,13 +89,13 @@ Route::get('/2d-art','HomeController@art2d');
 Route::get('/3d-art','HomeController@art3d');
 
 //casestudies
-Route::get('/travel-agency-app','HomeController@travelAgencyApp');
-Route::get('/travel-agency-web','HomeController@travelAgencyWeb');
-Route::get('/real-estate-app','HomeController@realEstateAppPortfolio');
-Route::get('/real-estate-web','HomeController@realEstateWeb');
-Route::get('/loyalty-app','HomeController@loyaltyApps');
-Route::get('/loyalty-web','HomeController@loyaltyWeb');
-Route::get('/gym-app','HomeController@gymApp');
-Route::get('/gym-web','HomeController@gymWeb');
-Route::get('/mover-app','HomeController@moverApps');
-Route::get('/mover-web','HomeController@moverWeb');
+Route::get('/case-studies/travel-agency-app','HomeController@travelAgencyApp');
+Route::get('/case-studies/travel-agency-web','HomeController@travelAgencyWeb');
+Route::get('/case-studies/real-estate-app','HomeController@realEstateAppPortfolio');
+Route::get('/case-studies/real-estate-web','HomeController@realEstateWeb');
+Route::get('/case-studies/loyalty-app','HomeController@loyaltyApps');
+Route::get('/case-studies/loyalty-web','HomeController@loyaltyWeb');
+Route::get('/case-studies/gym-app','HomeController@gymApp');
+Route::get('/case-studies/gym-web','HomeController@gymWeb');
+Route::get('/case-studies/mover-app','HomeController@moverApps');
+Route::get('/case-studies/mover-web','HomeController@moverWeb');

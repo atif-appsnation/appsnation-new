@@ -13922,7 +13922,7 @@ ul li {
 .fa-phone-flip:before {
     content: "\f879";
 }
-.img-left {
+/* .img-left {
     position: absolute;
     top: 0;
     left: 0;
@@ -13968,4 +13968,4 @@ img {
 .fadeInRight {
     -webkit-animation-name: fadeInRight;
     animation-name: fadeInRight;
-}
+} */

@@ -13973,3 +13973,496 @@ img {
     -webkit-animation-name: fadeInRight;
     animation-name: fadeInRight;
 } */
+
+.breadcrumb-areav2:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    opacity: .85;
+    right: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.twod-art-page {
+    background-image: url(../images/services/2d-art/2d-art-banner.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
+}
+
+.breadcrumb-areav {
+    padding: 150px 0px 100px 0px;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+}
+
+.v-center {
+    align-self: center;
+    align-items: center;
+}
+
+.niwax-btn:hover {
+    background: #fff;
+    color: #fff;
+    border: 1px solid #000;
+    box-shadow: 0 0 0 0 #000, inset 6em 3.5em 0 0 #000;
+}
+
+.twod-character-design {
+    background: url(../images/services/2d-art/2d-character-design-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.common-heading>span {
+    line-height: 26px;
+}
+
+.row.p-lg-4 {
+    background: #b3ddfa;
+}
+
+.twod-art-bottom-center {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    width: 80%;
+}
+
+.twod-character-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.twod-character-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+}
+
+.twod-art-page {
+    background-image: url(../images/services/2d-art/2d-art-banner.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
+}
+
+.breadcrumb-areav2 {
+    padding: 150px 0px 100px 0px;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+}
+
+
+.twod-character-design .card {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    /* background-color: #fff; */
+    background-clip: border-box;
+    /* border: 1px solid rgba(0, 0, 0, .125); */
+    border-radius: .25rem;
+}
+
+.twod-character-design .tab-pane {
+    position: relative;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+}
+p {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.twod-character-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.twod-consultant-card p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.niwax-btn {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    cursor: pointer;
+    padding: 0px 32px;
+    line-height: 56px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 10px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    /* transition: all .4s ease-in-out; */
+    background: -moz-linear-gradient(to right, #3A6F8E, #224051);
+    background: -webkit-linear-gradient(to right, #3A6F8E, #224051);
+    /* background-image: linear-gradient(to right, #3A6F8E, #224051); */
+    background-image: linear-gradient(to right, var(--first-color) 0%, var(--second-color) 100%) !important;
+}
+
+.animation,
+a,
+.isotope_item,
+input,
+button,
+.custom-btn,
+.circle,
+.s-block,
+.clients-logo,
+.icon-set,
+.link-hover,
+.sticky,
+.navbar,
+.dropdown-toggle,
+.hover-scale img,
+.sub-menu-sec a,
+.main-header.sticky,
+.main-header,
+.circle2,
+.hoshd {
+    -webkit-transition: 1.2s cubic-bezier(.17, .85, .438, .99);
+    -o-transition: 1.2s cubic-bezier(.17, .85, .438, .99);
+    transition: 1.2s cubic-bezier(.17, .85, .438, .99);
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.twod-environment-design {
+    background: url(../images/services/2d-art/2d-environment-design-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.twod-environment-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.twod-environment-design .nav-tabs .nav-item .nav-link.active {
+    border-right: 5px solid #5495bf;
+    height: 100%;
+}
+.nav-tabs {
+    border-bottom: 0px solid #dee2e6;
+}
+
+.twod-environment-design .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+
+.metaverse-tech .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #190F28;
+}
+.active,
+.demo:hover {
+    opacity: 1;
+}
+.twod-environment-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+}
+
+.twod-art-bottom-center {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    width: 80%;
+}
+
+.card.twod-consultant-card {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+}
+
+
+.card.twod-environment-design  {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+}
+
+.card.twod-game-ui-ux-design {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+}
+.card.twod-concept-art {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+}
+/* .card {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4) !important;
+} */
+
+.card.blue {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4) !important;
+}
+
+.twod-game-ui-ux-design {
+    background: url(../images/services/2d-art/2d-game-ui-ux-desgin-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+section#\32 DUI\/UX {
+    background: url(../images/services/2d-art/2d-game-ui-ux-desgin-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.twod-game-ui-ux-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+}
+.twod-game-ui-ux-design .nav-tabs .nav-item .nav-link.active {
+    border-left: 5px solid #5495bf;
+    height: 100%;
+}
+.twod-game-ui-ux-design .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+.metaverse-tech .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #190F28;
+}
+
+.twod-concept-art .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+}
+
+.twod-concept-art .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+.twod-concept-art p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.twod-game-ui-ux-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+}
+
+.twod-game-ui-ux-design .nav-tabs .nav-item .nav-link.active {
+    border-left: 5px solid #5495bf;
+    height: 100%;
+}
+.twod-game-ui-ux-design .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+
+.twod-game-ui-ux-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.twod-concept-art {
+    background: url(../images/services/2d-art/2d-concept-art-design-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.twod-concept-art p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.twod-concept-art .tab-pane {
+    position: relative;
+}
+.tab-content>.active {
+    display: block;
+}
+.active,
+.demo:hover {
+    opacity: 1;
+}
+
+.twod-environment-design .tab-pane {
+    position: relative;
+}
+
+.twod-game-ui-ux-design .tab-pane {
+    position: relative;
+}
+
+.breadcrumb-areav1 {
+    padding: 150px 0px 100px 0px;
+        position: relative;
+        overflow: hidden;
+        background-size: cover;
+        /* background-position: center center; */
+        background-repeat: no-repeat;
+        /* background: url(..images/services/3d-art/3d); */
+        background-image: url(../images/services/3d-art/3d-art-banner.webp);
+}
+.threed-art-page {
+    background-image: url(../images/services/3d-art/3d-art-banner.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
+}
+
+
+.card.threed-character-design {
+    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+}
+
+.threed-character-design {
+    background: url(../images/services/3d-art/3d-character-design-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.threed-art-bottom-center {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    width: 80%;
+}
+
+.threed-character-design .tab-pane {
+    position: relative;
+}
+
+.threed-character-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.threed-environment-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+.threed-environment-design .tab-pane {
+    position: relative;
+}
+
+.threed-game-assets-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.threed-game-assets-design .tab-pane {
+    position: relative;
+}
+
+.threed-sculpting-service p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.threed-sculpting-service .tab-pane {
+    position: relative;
+}
+.threed-environment-design {
+    background: url(../images/services/3d-art/3d-environment-design-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.threed-game-assets-design {
+    background: url(../images/services/3d-art/3d-game-assets-design-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.threed-sculpting-service {
+    background: url(../images/services/3d-art/3d-sculpting-service-banner.webp) no-repeat fixed;
+    background-size: cover;
+}
+
+.threed-character-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+    height: 153px;
+}
+
+.threed-character-design .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+
+.threed-character-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.threed-environment-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+    height: 153px;
+}
+
+.threed-environment-design .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+
+.threed-environment-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+    height: 153px;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+
+.threed-game-assets-design p {
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item {
+    margin: 0px 10px 10px 0px;
+    width: 230px;
+    background-color: #fff;
+    border-radius: 0px;
+    height: 153px;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item .nav-link {
+    color: #000;
+}
+
+.threed-sculpting-service p {
+    padding-top: 10px;
+    line-height: 25px;
+}

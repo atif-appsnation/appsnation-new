@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav twod-art-page ">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -10,13 +10,15 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
-				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Android App Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+				<div class="bread-titlev2 common-heading">
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest <span> 2D Art Design </span>Development</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
+					<br><br>
+					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/2d-art/2d-art-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -35,10 +37,10 @@
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<h2>Elevate Your Brand with Our <br> <span class="flup-theme">Custom 2D Art Design Services</span></h2>
+					<p><strong>Craft Your Visual Story with Exquisite 2D Art</strong></p>
+					<p>Futurealiti combines traditional artistry with modern techniques to bring your vision to life. Our 2D art design services are crafted to enhance your brand's visual appeal, helping you stand out in a crowded market.</p>
+					<p>Transform your ideas into beautiful, functional art with Futurealiti. Let us help you create a lasting impression through exceptional 2D design.</p>
 				</div>
 			</div>
 		</div>
@@ -52,130 +54,65 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeInLeft">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled Android Development Services</h2>
+					<h2>Our <span> 2D Art </span> Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 wow fadeInRight">
 				<div class="common-heading ptag">
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p>We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeInLeft">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
+						<h4>2D Character Design Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
+						<p>A professional 2D character design service offers a wide range of different styles and crafts, allowing you to create a unique character design.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 mt-lg-0 wow fadeInLeft">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
+						<h4>2D Game UI UX Design Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>2D UI/UX design services from a team of professionals with expertise in creating interactive designs that look good and find the right balance between functionality and aesthetics.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeInRight">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Porting</h4>
+						<h4>2D Environment Design Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>We help clients envision, plan and execute practical and dynamic immersive 2D environment experiences built to exceed users' expectations.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeInRight">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>App Testing</h4>
+						<h4>2D Concept Art Design Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-consultation-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>App Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-app-dev-consultation-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="custom-android-app-dev-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-multi-platform-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-watch-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
-					</div>
-					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+						<p>We provide clients with a broad spectrum of 2D concept art design services, including character development, storyboarding, 3D modeling, animation, and sound design</p>
 					</div>
 				</div>
 			</div>
@@ -184,13 +121,14 @@
 </section>
 <!--End Service-->
 
+
 <!--Start Hire Dedicated Developer -->
 <section class="service-block">
 	<div class="container">
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Dedicated Developer</span>
+				<p>Hire Expert
+					<span>2D Artists</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -225,8 +163,8 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<h2>Finest 2D Art Design Development</h2>
+				<p class="py-3">We bring together traditional art techniques and modern tools to create stunning 2D designs for your projects.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -262,80 +200,500 @@
 </section>
 <!--End Features-->
 
-<!--Start Why Choose-->
-<section class="why-choose bg-gradient3 py-5">
+<section class="twod-character-design py-3 py-md-3 py-lg-5" id="services">
+    <div class="container">
+        <div class="row justify-content-center wow common-heading fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-lg-8">
+                <h2 class=" text-center text-white"><span>2D Character</span> Design</h2>
+                <p class="text-center text-white">Create high-quality 2D character designs in a snap with Futurealiti. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
+            </div>
+        </div>
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row ">
+                            <div class="col-lg-6 my-auto mx-auto d-block">
+                                <ul class="nav nav-tabs">
+                                    <li class="nav-item">
+                                        <a class="nav-link active px-4" data-bs-toggle="tab" href="#realistic">
+                                            <img src="images/services/2d-art/2d-realistic-character-design-icon.webp" alt="2D Realistic Character Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Realistic Character Design</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#causal">
+                                            <img src="images/services/2d-art/2d-causal-character-design-icon.webp" alt="2D Causal Character Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Causal Character Design</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#cartoon">
+                                            <img src="images/services/2d-art/2d-cartoon-character-design-icon.webp" alt="2D Cartoon Character Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Cartoon Character Design</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#stylized">
+                                            <img src="images/services/2d-art/2d-stylized-character-design-icon.webp" alt="2D Stylized Character Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Stylized Character Design</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tab-content">
+                                    <div class="tab-pane container active" id="realistic">
+                                        <img src="images/services/2d-art/2d-realistic-character-design.webp" alt="2D Realistic Character Design" class="img-fluid twod-character-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <h4 class="text-uppercase text-white">Realistic Character Design</h4>
+                                            <p class="text-white">Designed from the ground up to be realistic and lifelike, Futurealiti will offer you that detail that makes your character stand out.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="causal">
+                                        <img src="images/services/2d-art/2d-causal-character-design.webp" alt="2D Causal Character Design" class="img-fluid twod-character-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <h4 class="text-uppercase text-white">Casual Character Design</h4>
+                                            <p class="text-white">Futurealiti creates elegant, informal illustrations that you can use for your next casual project. We are very excited to be able to create outstanding characters for you!</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="cartoon">
+                                        <img src="images/services/2d-art/2d-cartoon-character-design.webp" alt="2D Cartoon Character Design" class="img-fluid twod-character-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <h4 class="text-uppercase text-white">Cartoon Character Design</h4>
+                                            <p class="text-white">Futurealiti is a cartoon character design studio that can bring your imagination to life. From a simple idea, every character has its design and personality.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="stylized">
+                                        <img src="images/services/2d-art/2d-stylized-character-design.webp" alt="2D Stylized Character Design" class="img-fluid twod-character-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <h4 class="text-uppercase text-white">Stylized Character Design</h4>
+                                            <p class="text-white">Our characters are not just highly stylized but also full of personality. If you want to make sure that your characters are memorable and stand out, use a stylized design.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+			<div class="col-12">
+				<div class="card twod-consultant-card">
+					<div class="card-body">
+						<div class="row py-4">
+							<div class="col-md-6 my-auto text-xl-center">
+								<p>Get Your Free Consultation</p>
+							</div>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</section>
+
+
+<section class="twod-environment-design py-3 py-md-3 py-lg-5" id="services">
+    <div class="container">
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-lg-8">
+                <h2 class=" text-center text-white"><span>2D Environment</span> Design</h2>
+                <p class="text-center text-white">We create exceptional 2D environments for your next business campaign, ad campaign, or product video. Our services are about creating environments that match your business needs!</p>
+            </div>
+        </div>
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="col-12">
+                <div class="card blue">
+                    <div class="card-body">
+                        <div class="row">
+                        <div class="col-lg-6">
+                                <div class="tab-content">
+                                    <div class="tab-pane container active" id="game">
+                                        <img src="images/services/2d-art/2d-game-environment-design.webp" alt="2D Game Environment Design" class="img-fluid twod-environment-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Game Environments</H4>
+                                            <p class="text-white">With our expertise in 3D modeling and texturing, we create environment maps quickly, efficiently, and with high quality, creating an accurate representation of your game world.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="map-levels">
+                                        <img src="images/services/2d-art/2d-map-environment-design.webp" alt="2D Map Environment Design" class="img-fluid twod-environment-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Maps &amp; Levels</H4>
+                                            <p class="text-white">Our custom maps and levels focus on visual impact, flexibility, adaptability, and consistency within the virtual experience.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="biomes">
+                                        <img src="images/services/2d-art/2d-biomes-environment-design.webp" alt="2D Biomes Environment Design" class="img-fluid twod-environment-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Biomes</H4>
+                                            <p class="text-white">Biomes give you a sense of realism by adding colorful, living plants, wandering creatures, plants, and water reflections to your 2D environment.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="urban">
+                                        <img src="images/services/2d-art/2d-urban-environment-design.webp" alt="2D Urban Environment Design" class="img-fluid twod-environment-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Urban Environments</H4>
+                                            <p class="text-white">Our experienced team has years of experience in architectural drawings, 3D Rendering, Animation, Revit Architecture, Autodesk Revit &amp; AutoCAD.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 my-auto">
+                                <ul class="nav nav-tabs">
+                                    <li class="nav-item">
+                                        <a class="nav-link  active px-4" data-bs-toggle="tab" href="#game">
+                                            <img src="images/services/2d-art/2d-game-environment-design-icon.webp" alt="2D Game Environment Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Game Environments </p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link  px-4" data-bs-toggle="tab" href="#map-levels">
+                                            <img src="images/services/2d-art/2d-map-environment-design-icon.webp" alt="2D Map Environment Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Maps &amp; Levels</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link  px-4" data-bs-toggle="tab" href="#biomes">
+                                            <img src="images/services/2d-art/2d-biomes-environment-design-icon.webp" alt="2D Biomes Environment Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Biomes</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link  px-4" data-bs-toggle="tab" href="#urban">
+                                            <img src="images/services/2d-art/2d-urban-environment-design-icon.webp" alt="2D Urban Environment Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Urban Environments</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+			<div class="col-12">
+				<div class="card twod-consultant-card">
+					<div class="card-body">
+						<div class="row py-4">
+							<div class="col-md-6 my-auto text-xl-center">
+								<p>Get Your Free Consultation</p>
+							</div>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</section> 
+
+
+<section class="twod-game-ui-ux-design py-3 py-md-3 py-lg-5" id="services">
+    <div class="container">
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-lg-8">
+                <h2 class=" text-center text-white"><span>2D Game UI/UX</span> Design</h2>
+                <p class="text-center text-white">Futurealiti is a 2D game UI/UX design agency focused on creating great interfaces for games and apps. We can work with you to define a strategy that fits your business needs.</p>
+            </div>
+        </div>
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="col-12">
+                <div class="card blue">
+                    <div class="card-body">
+                        <div class="row ">
+                            <div class="col-lg-6 my-auto">
+                                <ul class="nav nav-tabs">
+                                    <li class="nav-item">
+                                        <a class="nav-link active px-4" data-bs-toggle="tab" href="#ui-ux">
+                                            <img src="images/services/2d-art/2d-mobile-game-app-ui-ux-design-icon.webp" alt="Mobile Game App UI/UX Design" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Mobile Game App UI/UX Design</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#wireframing">
+                                            <img src="images/services/2d-art/2d-mobile-game-app-wireframing-icon.webp" alt="Mobile Game App Wireframing" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Mobile Game App Wireframing</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#ar-game">
+                                            <img src="images/services/2d-art/2d-mobile-ar-game-app-design-icon.webp" alt="Mobile AR Game App" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Mobile AR Game App</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#vr-game">
+                                            <img src="images/services/2d-art/2d-mobile-vr-game-app-design-icon.webp" alt="Mobile VR Game App" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Mobile VR Game App</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tab-content">
+                                    <div class="tab-pane container active" id="ui-ux">
+                                        <img src="images/services/2d-art/2d-mobile-game-app-ui-ux-design.webp" alt="Mobile Game App UI/UX Design" class="img-fluid twod-game-ui-ux-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Mobile Game App UI/UX Design</H4>
+                                            <p class="text-white">We specialize in developing mobile app UI/UX for iPhone and iPad, Android phones and Google tablets, Windows Phones, and Xbox 360.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="wireframing">
+                                        <img src="images/services/2d-art/2d-mobile-game-app-wireframing.webp" alt="Mobile Game App Wireframing" class="img-fluid twod-game-ui-ux-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Mobile Game App Wireframing</H4>
+                                            <p class="text-white">Futurealiti offers the best 2D Game UI/UX designers who can help you design your gaming app wireframe as per the user requirement using the latest technology and design tools.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="ar-game">
+                                        <img src="images/services/2d-art/2d-mobile-ar-game-app-design.webp" alt="Mobile AR Game App" class="img-fluid twod-game-ui-ux-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Mobile AR Game App</H4>
+                                            <p class="text-white">We provide outstanding game UI/UX and app design services for businesses looking to push themselves forward with AR technology.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="vr-game">
+                                        <img src="images/services/2d-art/2d-mobile-vr-game-app-design.webp" alt="Mobile VR Game App" class="img-fluid twod-game-ui-ux-design-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Mobile VR Game App</H4>
+                                            <p class="text-white">With more than 8 years of experience in the field of VR, we offer excellent UI/UX design services for mobile apps, such as Google Cardboard, Hololens, etc.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: hidden; animation-name: none;">
+			<div class="col-12">
+				<div class="card twod-consultant-card">
+					<div class="card-body">
+						<div class="row py-4">
+							<div class="col-md-6 my-auto text-xl-center">
+								<p>Get Your Free Consultation</p>
+							</div>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: hidden; animation-name: none;">Contact Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</section>
+
+
+<section class="twod-concept-art py-3 py-md-3 py-lg-5" id="services">
+    <div class="container">
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-lg-8">
+                <h2 class=" text-center text-white"><span>2D Concept Art</span> Design</h2>
+                <p class="text-center text-white">Futurealiti is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
+            </div>
+        </div>
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="col-12">
+                <div class="card blue">
+                    <div class="card-body">
+                        <div class="row ">
+                        <div class="col-lg-6">
+                                <div class="tab-content">
+                                    <div class="tab-pane container active" id="character">
+                                        <img src="images/services/2d-art/2d-character-concept-art-desgin.webp" alt="2D Character Concept Art" class="img-fluid twod-concept-art-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Character Concept Art</H4>
+                                            <p class="text-white">Futurealiti provides 2D character concept art to design your next character as a part of your production by creating the best possible blueprint for your character.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="environment">
+                                        <img src="images/services/2d-art/2d-environment-concept-art-desgin.webp" alt="2D Environment Concept Art" class="img-fluid twod-concept-art-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Environment Concept Art</H4>
+                                            <p class="text-white">We provide creative and professional 2D environmental concept art services to help bring your story to life with a richly detailed CG environment.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="level">
+                                        <img src="images/services/2d-art/2d-level-concept-design.webp" alt="2D Level Design Concept" class="img-fluid twod-concept-art-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Level Design Concept</H4>
+                                            <p class="text-white">With our unique style and best 2D artwork, we can create, from inception to completion, a perfect level for your game.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane container fade" id="concept">
+                                        <img src="images/services/2d-art/2d-vehicles-weapons-concept-art-design.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid twod-concept-art-img">
+                                        <div class="twod-art-bottom-center">
+                                            <H4 class="text-uppercase text-white">Concepts of Vehicles, Weapons, and Props</H4>
+                                            <p class="text-white">Our skilled art teams can also help create and produce drawings for developing renders, lighting, materials, and animation.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 my-auto">
+                                <ul class="nav nav-tabs">
+                                    <li class="nav-item">
+                                        <a class="nav-link active px-4" data-bs-toggle="tab" href="#character">
+                                            <img src="images/services/2d-art/2d-character-concept-art-desgin-icon.webp" alt="Character Concept Art" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Character Concept Art</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#environment">
+                                            <img src="images/services/2d-art/2d-environment-concept-art-desgin-icon.webp" alt="Environment Concept Art" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Environment Concept Art</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#level">
+                                            <img src="images/services/2d-art/2d-level-concept-design-icon.webp" alt="2D Level Design Concept" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Level Design Concept</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#concept">
+                                            <img src="images/services/2d-art/2d-vehicles-weapons-concept-art-design-icon.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid d-block mx-auto">
+                                            <p class="text-center">Concepts of Vehicles, Weapons, and Props</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+			<div class="col-12">
+				<div class="card twod-consultant-card">
+					<div class="card-body">
+						<div class="row py-4">
+							<div class="col-md-6 my-auto text-xl-center">
+								<p>Get Your Free Consultation</p>
+							</div>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</section>
+
+
+<section class="service-block">
+	<div class="container">
+		<div class="-cta-btn mt50 mb50">
+			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s" style="visibility: visible; animation-delay: 1.1s; animation-name: zoomInDown;">
+				<p>Let's Discuss
+					<span>Your Project</span>
+				</p>
+				<a data-bs-toggle="modal" data-bs-target="#leadModal"  class="btn-main button-arounder lnk">Get Free Consultation
+					<i class="fas fa-chevron-right fa-icon"></i>
+					<span class="circle"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+<!--Start Process-->
+<section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<h2>Benefits of Our <span>2D Art Design</span> Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<!-- <p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p> -->
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeInLeft h-100">
-					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
-					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<p class="timeline-year">01</p>
+					<!-- <h3 class="title">Requirement Analysis</h3> -->
+					<p class="description">Our team has years of a strong background in graphic design, which makes them able to work on multiple projects at once.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeInLeft h-100">
-					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
-					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<p class="timeline-year">02</p>
+					<!-- <h3 class="title">App Development Strategies</h3> -->
+					<p class="description">Our designers are well-versed in the latest trends and designs, which helps us create unique designs that stand out from others.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeInLeft h-100">
-					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
-					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<p class="timeline-year">03</p>
+					<!-- <h3 class="title">Wireframing And Designing</h3> -->
+					<p class="description">We use the latest technologies to create our designs to be printed on various materials like paper, cardboard, and even plastic.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="technical-support"></div>
-					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<p class="timeline-year">04</p>
+					<!-- <h3 class="title">Development Phase</h3> -->
+					<p class="description">We offer free consultations so you can get to know our work before hiring us for your project.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="transparency"></div>
-					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+					<p class="timeline-year">05</p>
+					<!-- <h3 class="title">App Testing</h3> -->
+					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<p class="timeline-year">06</p>
+					<!-- <h3 class="title">Ap Deployment</h3> -->
+					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeInRight h-100">
+					<p class="timeline-year">07</p>
+					<!-- <h3 class="title">Development Phase</h3> -->
+					<p class="description">We offer affordable rates when compared to other companies within the industry.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeInRight h-100">
+					<p class="timeline-year">08</p>
+					<!-- <h3 class="title">App Testing</h3> -->
+					<p class="description">At last, we are passionate about what we do!</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--Start Why Choose-->
+<!--End Process-->
 
 <!--Start New Project-->
 <section class="service-block py-5">
@@ -352,69 +710,6 @@
 	</div>
 </section>
 <!--End New Project-->
-
-<!--Start Process-->
-<section class="process-block bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
-					<p class="timeline-year">01</p>
-					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
-					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
-					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
-					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Process-->
 
 <!--Start Tech-->
 <div class="techonology-used- py-5">
@@ -745,13 +1040,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								What is 2D art?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>2D art refers to artwork created in two dimensions, typically on a flat surface like paper or a digital screen. This can include drawing, painting, printmaking, and digital art. 2D art typically only has width and height but no depth.</p>
                                 </div>
                             </div>
                         </div>
@@ -759,13 +1054,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								How long does it take to complete 2D Art Design?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>The timeline depends on the complexity of the project. A simple design may take a few hours. But some complex designs take weeks to complete.</p>
                                 </div>
                             </div>
                         </div>
@@ -773,205 +1068,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								How much does a 2D Digital Art Design cost?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
-                            </button>
-                        </h2>
-                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
-                            </button>
-                        </h2>
-                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
+                                    <p>The cost of 2d digital art depends on different factors. It depends on your idea how much time it takes to complete. Cost also depends on the artist's experience and skill level. It is important to discuss all of these details with your chosen 2d digital art company before beginning any project so that both parties can agree on a fair price.</p>
                                 </div>
                             </div>
                         </div>
@@ -1034,5 +1137,71 @@
 	</div>
 </div>
 <!--End Blogs-->
+
+<section class="hire-developers py-3 py-md-3 py-lg-5">
+    <div class="container">
+        <div class="row justify-content-center wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-12">
+                <div class="card py-3">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <h2>Hire Dedicated <span>2D</span> Designer</h2>
+                                <p class="pt-2">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients Futurealiti also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-xl-6 mt-3">
+                                <div class="row scroller">
+                                    <div class="col-sm-6 col-md-6 col-lg-4">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
+                                                <p class="text-center pt-2">Photoshop</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-md-0">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/illustrator-logo.webp" class="img-fluid d-block mx-auto" alt="Illustrator">
+                                                <p class="text-center pt-2">Illustrator</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/after-effects-logo.webp" class="img-fluid d-block mx-auto" alt="After Effects">
+                                                <p class="text-center pt-2">After Effects</p>
+                                            </div>  
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/xd-logo.webp" class="img-fluid d-block mx-auto" alt="XD">
+                                                <p class="text-center pt-2">XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/figma-logo.webp" class="img-fluid d-block mx-auto" alt="Figma">
+                                                <p class="text-center pt-2">Figma</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 @endsection

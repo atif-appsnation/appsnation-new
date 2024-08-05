@@ -487,11 +487,11 @@
 						<div class="metaverse-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Metaverse Development</h4>
+						<h4>MR App Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>we are at the forefront of pioneering Metaverse development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
-						<a href="#" class="mt20 link-prbs">Read More
+						<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
+						<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -1394,7 +1394,7 @@
 			</div>
 
 			<div class="col-lg-6 mt-4">
-				<div class="card h-100">
+				<div class="card h-120 h-100 ">
 					<div class="card-body">
 						<div class="row">
 							<div class="con-h">
@@ -1402,7 +1402,7 @@
 								<p class="text-center pt-2">The utilization of the most recent technologies and techniques by our infrastructure and DevOps developers improve an organization's capacity to offer apps and services at a highspeed.</p>
 							</div>
 						</div>
-						<div class="row pt-3">
+						<div class="row pt-6 pt-3">
 							<div class="tech-slider2 owl-carousel">
 								<div class="tech-item">
 									<div class="item">

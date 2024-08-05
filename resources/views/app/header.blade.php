@@ -493,6 +493,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<li><a href="{{url('/clients')}}">Clients</a></li>
 							<li><a href="{{url('/testimonials')}}">Testimonials</a></li>
 							<li><a href="{{url('/career')}}">Careers</a></li>
+							<li><a href="{{url('/tech-stack')}}">Tech Stack</a></li>
+							<li><a href="https://blog.appsnation.co/">Blogs</a></li>
 						</ul>
 					</li>
 					<li><a href="#">Services</a>

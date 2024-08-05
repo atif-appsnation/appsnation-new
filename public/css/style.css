@@ -11453,7 +11453,7 @@ i.fa-brands.fa-instagram {
 }
 
 .animation-services-img {
-    background-image: url(../images/services/android-app-development/android-ui-ux-designing.webp);
+    background-image: url(../images/services/android-app-development/android-ui-ux-designing-hover.webp);
     background-size: cover;
     width: 40px;
     height: 40px;
@@ -11473,6 +11473,13 @@ i.fa-brands.fa-instagram {
 .service-card-app:hover .android-web-img {
     background-image: url(../images/services/android-app-development/android-web-based-apps-hover.webp);
 }
+
+/* .service-card-app:hover .android-app-dev-consultation-img:hover{
+    background-image: url(../images/services/android-app-development/android-app-development-consultation-hover.webp) ;
+    background-size:cover;
+    width: 40px;
+    height: 40px;
+} */
 
 .android-app-porting-img {
     background-image: url(../images/services/android-app-development/app-porting.webp);
@@ -11515,7 +11522,7 @@ i.fa-brands.fa-instagram {
 }
 
 .service-card-app:hover .android-app-dev-consultation-img {
-    background-image: url(../images/services/android-app-development/android-app-development-consultation-hover..webp);
+    background-image: url(../images/services/android-app-development/android-app-development-consultation-hover.webp);
 }
 
 .custom-android-app-dev-img {
@@ -14063,7 +14070,7 @@ img {
 
 
 .twod-character-design .card {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%);
 }
 .card {
     position: relative;
@@ -14202,26 +14209,26 @@ p {
 }
 
 .card.twod-consultant-card {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%) !important;
 }
 
 
 .card.twod-environment-design  {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%) !important;
 }
 
 .card.twod-game-ui-ux-design {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%) !important;
 }
 .card.twod-concept-art {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%) !important;
 }
 /* .card {
     background: linear-gradient(to right, #AACEFE, #BFF0F4) !important;
 } */
 
 .card.blue {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4) !important;
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%) !important;
 }
 
 .twod-game-ui-ux-design {
@@ -14334,7 +14341,7 @@ section#\32 DUI\/UX {
 
 
 .card.threed-character-design {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%)
 }
 
 .threed-character-design {
@@ -14468,19 +14475,19 @@ section#\32 DUI\/UX {
 }
 
 .card.threed-character-design {
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%)
 }
 
 .card.threed-consultant-card{
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%)
 }
 
 .card.threed-sculpting-service{
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%)
 }
 
 .card.threed-game-assets-design{
-    background: linear-gradient(to right, #AACEFE, #BFF0F4);
+    background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%)
 }
 
 .threed-character-design p {
@@ -14505,3 +14512,4 @@ animation services
 2d 3d floor plan services
 2d art
 3d art */
+

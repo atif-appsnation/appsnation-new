@@ -160,7 +160,7 @@
                             <a href="https://www.facebook.com/AppsNationUS" target="blank">
                                 <i class="fa-brands fa-facebook"></i>
                             </a>
-                            <a href="https://twitter.com/AppsnationCo" target="blank">
+                            <a href="https://x.com/AppsnationCo" target="blank">
                                 <i class="fa-brands fa-x-twitter"></i>
                             </a>
                             <a href="https://www.linkedin.com/company/appsnation/" target="blank">

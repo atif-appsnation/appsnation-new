@@ -131,8 +131,8 @@
 	<div class="container">
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Dedicated Developer</span>
+				<p>Hire a 
+					<span>Talented 3D Artist</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -167,8 +167,8 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Creative Mobile App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<h2>Innovative 3D Art Design Services</h2>
+				<p class="py-3">We transform your ideas into stunning 3D art, catering to various industries with precision and creativity.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -216,9 +216,9 @@
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
-                <div class="card">
+                <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
@@ -287,7 +287,7 @@
 
 		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
-				<div class="card threed-consultant-card">
+				<div class="card blue threed-consultant-card">
 					<div class="card-body">
 						<div class="row py-4">
 							<div class="col-md-6 my-auto text-xl-center">
@@ -315,9 +315,9 @@
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
-                <div class="card">
+                <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="e-game">
@@ -386,7 +386,7 @@
 
 		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
-				<div class="card threed-consultant-card">
+				<div class="card blue threed-consultant-card">
 					<div class="card-body">
 						<div class="row py-4">
 							<div class="col-md-6 my-auto text-xl-center">
@@ -413,9 +413,9 @@
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
-                <div class="card">
+                <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
@@ -484,7 +484,7 @@
 
 		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
-				<div class="card threed-consultant-card">
+				<div class="card blue threed-consultant-card">
 					<div class="card-body">
 						<div class="row py-4">
 							<div class="col-md-6 my-auto text-xl-center">
@@ -511,9 +511,9 @@
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
-                <div class="card">
+                <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="s-character">
@@ -569,7 +569,7 @@
 
 		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
-				<div class="card threed-consultant-card">
+				<div class="card blue threed-consultant-card">
 					<div class="card-body">
 						<div class="row py-4">
 							<div class="col-md-6 my-auto text-xl-center">
@@ -603,7 +603,7 @@
 <!--End New Project-->
 
 <!--Start Why Choose-->
-<section class="why-choose bg-gradient3 py-5">
+<!-- <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
@@ -674,10 +674,100 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--Start Why Choose-->
 
-
+<section class="threed-art-services py-3 py-md-3 py-lg-5">
+    <div class="container">
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-lg-8">
+                <h2 class=" text-center">Our Extra <span>3D Art</span> Services</h2>
+                <p class="text-center">We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
+            </div>
+        </div>
+        <div class="row wow fadeInRight mt-3" style="visibility: visible; animation-name: fadeInRight;">
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="threed-art-extra-services-heading text-center">3D Scan Cleanup Services</h4>
+                                    <img src="images/services/3d-art/3d-scan-cleanup-services.webp" alt="3D Scan Cleanup Service" class="img-fluid my-2">
+                                    <p class="threed-art-extra-services-text">At Futurealiti, our primary focus is helping you clean up your 3D scan data in the most effective way possible. We replace the need for remeshing entirely with more robust reconstruction techniques like inverse design matrices (IDMs), which produce more precise edges and fewer artifacts. As a result, we know the best way to help them get their 3D scans cleaned up and ready for use again.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 mt-4 mt-lg-0">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="threed-art-extra-services-heading text-center">Skinning 3D Model Services</h4>
+                                    <img src="images/services/3d-art/3d-model-skinning-services.webp" alt="Skinning 3D Model Services" class="img-fluid my-2">
+                                    <p class="threed-art-extra-services-text">If you're looking for a skinning 3D model service provider, Futurealiti has the experience and expertise to get the job done. We know how to work with complex digital designs and turn them into perfectly-styled skinned models that are easy to use in your projects. In addition, we can take any image or design and turn it into a beautiful, accurately-skinned model that you can use in any of your projects.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 mt-4 mt-lg-0">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="threed-art-extra-services-heading text-center">Rigging Services</h4>
+                                    <img src="images/services/3d-art/3d-rigging-services.webp" alt="Rigging Service" class="img-fluid my-2">
+                                    <p class="threed-art-extra-services-text">Futurealiti has generated hundreds of seamless animations for video games and other forms of media. You may notice how effortlessly the characters move due to our outstanding rigging talents. We spend a lot of effort ensuring that every bone and joint in a skeleton animation is in the right place for the body to move naturally.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 mt-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="threed-art-extra-services-heading text-center">3D Model Texturing Services</h4>
+                                    <img src="images/services/3d-art/3d-model-texturing-services.webp" alt="3D Model Texturing Services" class="img-fluid my-2">
+                                    <p class="threed-art-extra-services-text">We specialize in creating realistic renderings of your digital models ready to be used in various applications, including gaming, film and television, and even education. Our talented team has years of experience working with digital models created by our clients and other companies and custom projects.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 mt-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="threed-art-extra-services-heading text-center">Lighting and Shading Services</h4>
+                                    <img src="images/services/3d-art/3d-lighting-and-shading-services.webp" alt="Lighting and Shading Services" class="img-fluid my-2">
+                                    <p class="threed-art-extra-services-text">At Futurealiti, lighting is essential to the success of any project. We specialize in 3D art design and have been using lighting to create unique environments and realities for our clients. We offer a wide range of services, from traditional lighting setups to photorealistic rendering. Our team has years of experience creating lighting, lighting design, and shading design.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 mt-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="threed-art-extra-services-heading text-center">3D Retopology Services</h4>
+                                    <img src="images/services/3d-art/3d-retopology-services.webp" alt="3D Retopology Services" class="img-fluid my-2">
+                                    <p class="threed-art-extra-services-text">3D Retopology allows you to create an accurate 3D model of anything and then use that model to create a replica. Our retopology services are designed to help you create beautiful, realistic models of you and other spaces. We will take your existing photos or drawings and use them to create a 3D model that is accurate to the scale of the real thing.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</section>
 
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
@@ -685,7 +775,7 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<h2>Benefits of Our <span> 3D Art Design </span> Services</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
@@ -698,43 +788,57 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">01</p>
-					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<!-- <h4 class="title">Requirement Analysis</h3> -->
+					<p class="description">Our team has years of a strong background in graphic design, which makes them able to work on multiple projects at once./p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<!-- <h3 class="title">App Development Strategies</h3> -->
+					<p class="description">Our designers are well-versed in the latest trends and designs, which helps us create unique designs that stand out from other methods.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeInLeft h-100">
 					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<!-- <h3 class="title">Wireframing And Designing</h3> -->
+					<p class="description">We use the latest technologies to create our designs to be printed on various materials like paper, cardboard, and even plastic.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<!-- <h3 class="title">Development Phase</h3> -->
+					<p class="description">We offer free consultations so you can get to know our work before hiring us for your project.	</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<!-- <h3 class="title">App Testing</h3> -->
+					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeInRight h-100">
 					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<!-- <h3 class="title">App Deployment</h3> -->
+					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeInRight h-100">
+					<p class="timeline-year">07</p>
+					<!-- <h3 class="title">App Testing</h3> -->
+					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeInRight h-100">
+					<p class="timeline-year">08</p>
+					<!-- <h3 class="title">App Deployment</h3> -->
+					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
 				</div>
 			</div>
 		</div>
@@ -1071,13 +1175,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								What is 3D Art?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>3D art is a form of art which have 3 dimensions. It is used to create images or scenes; elements in these images and scenes can include texture, shapes, and lightning.</p>
                                 </div>
                             </div>
                         </div>
@@ -1085,13 +1189,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								How long does it take to complete 3D Art Design?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>It depends on the project's complexity. It may take weeks, or some projects take months to complete.</p>
                                 </div>
                             </div>
                         </div>
@@ -1099,215 +1203,26 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								How much does a 3D Digital Art design cost?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>Normally if you want experienced designers to complete your 3d digital art, they will charge you a minimum of $20 per hour. In some cases, the cost can be raised because of its complexity.</p>
+									
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
-                            </button>
-                        </h2>
-                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
-                            </button>
-                        </h2>
-                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- End FAQS -->
+
 
 <!--Start Blogs-->
 <section class="blogs-section py-5">
@@ -1360,5 +1275,151 @@
 	</div>
 </div>
 <!--End Blogs-->
+
+<section class="hire-developers py-3 py-md-3 py-lg-5">
+    <div class="container">
+        <div class="row justify-content-center wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="col-12">
+                <div class="card py-3">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <h2>Hire Dedicated Designers For Your <span>3D Art</span> Project</h2>
+                                <p class="pt-2">If you are looking for a dedicated 3d designer for your 3d art, futurealiti can be your first choice. For our clients, we offer dedicated 3d designers at hourly charges. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-xl-6 mt-3">
+                                <div class="row scroller">
+                                    <div class="col-sm-6 col-md-6 col-lg-4">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
+                                                <p class="text-center pt-2">Photoshop</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-md-0">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/maya-logo.webp" class="img-fluid d-block mx-auto" alt="Maya">
+                                                <p class="text-center pt-2">Maya</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/3ds-max-logo.webp" class="img-fluid d-block mx-auto" alt="3DS Max">
+                                                <p class="text-center pt-2">3DS Max</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+                                                <p class="text-center pt-2">Blender</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/marmoset-toolbag-logo.webp" class="img-fluid d-block mx-auto" alt="Marmoset Toolbag">
+                                                <p class="text-center pt-2">Marmoset Toolbag</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/modo-logo.webp" class="img-fluid d-block mx-auto" alt="Modo">
+                                                <p class="text-center pt-2">Modo</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/v-ray-logo.webp" class="img-fluid d-block mx-auto" alt="V-Ray">
+                                                <p class="text-center pt-2">V-Ray</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/chaos-corona-logo.webp" class="img-fluid d-block mx-auto" alt="Corona">
+                                                <p class="text-center pt-2">Corona</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/zbrush-logo.webp" class="img-fluid d-block mx-auto" alt="ZBrush">
+                                                <p class="text-center pt-2">ZBrush</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/marvelous-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Marvelous Designer">
+                                                <p class="text-center pt-2">Marvelous</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+                                                <p class="text-center pt-2">Unreal Engine</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/substance-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Designer">
+                                                <p class="text-center pt-2">Substance Designer</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity Designer">
+                                                <p class="text-center pt-2">Unity</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/substance-painter-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Painter">
+                                                <p class="text-center pt-2">Substance Painter</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+                                        <div class="card stack-hov">
+                                            <div class="card-body">
+                                                <img src="images/tech/mari-logo.webp" class="img-fluid d-block mx-auto" alt="Mari">
+                                                <p class="text-center pt-2">Mari</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 @endsection

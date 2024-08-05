@@ -3002,7 +3002,7 @@
 	}
 }
 
-@media (min-width: 355px) and (max-width: 399px) {
+/* @media (min-width: 355px) and (max-width: 399px) {
 
 	.card.h-120.h-100 {
 		height: 120% !important;
@@ -3011,5 +3011,5 @@
 	.row.pt-6.pt-3 {
 		padding-top: 4rem !important;
 	}
-}
+} */
 

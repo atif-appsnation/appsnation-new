@@ -14503,6 +14503,10 @@ section#\32 DUI\/UX {
 }
 
 
+.award-item h5 {
+    text-transform: capitalize;
+}
+
 /* changes: 
 text for the banner on home page
 digital marketing

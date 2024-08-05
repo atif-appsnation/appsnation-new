@@ -157,7 +157,7 @@
                     <div class="fttlnks flexend mt-3">
                         <h5>Follow Us</h5>
                         <div class="ff-social-icons mt30">
-                            <a href="https://www.facebook.com/AppsNationUS" target="blank">
+                            <a href="https://www.facebook.com/appsnation.co" target="blank">
                                 <i class="fa-brands fa-facebook"></i>
                             </a>
                             <a href="https://x.com/AppsnationCo" target="blank">

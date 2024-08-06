@@ -69,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!--End Preloader -->
 
 	<!-- Start Sidemenu -->
-	<div class="side-menu -medium -right -space --center">
+	<div class="side-menu -medium -right -space --center d-none d-md-block">
 		<ul class="sm-list">
 			<li class="sm-item">
 				<a href="{{url('/contact-us')}}" class="white black">

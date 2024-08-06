@@ -427,7 +427,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeInRight">
-					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
+					<p>We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
 		</div>
@@ -465,7 +465,7 @@
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto wow fadeInRight">
+			<div class="col-md-7 my-auto mt-5 mt-md-auto wow fadeInRight">
 				<div class="tab-content tab-body">
 
 					@foreach($techstack as $k=>$items)

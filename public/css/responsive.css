@@ -1759,10 +1759,10 @@
 		padding-bottom: 3rem!important;
 	}
 
-	.techonology-used- .tab-body {
+	/* .techonology-used- .tab-body {
 		margin-top: 30px;
 	}
-	
+	 */
 	.home-timeline-content h3 {
         line-height: 30px;
     }
@@ -1903,6 +1903,18 @@
 	
 	.innerbody {
 	    display: block;
+	}
+
+	.vertical-timeline-element-icon {
+		left: 20px;
+	}
+
+	.vertical-timeline-element-content {
+		margin-left: 60px;
+	}
+	
+	.ar-intro-section {
+		background-position: 51%;
 	}
 
 	/* Testimonials */
@@ -2162,6 +2174,14 @@
     ul.service_box li {
         padding: 15px 7px;
     }
+
+	.vertical-timeline-element-icon {
+		left: 30px;
+	}
+
+	.vertical-timeline-element-content {
+		margin-left: 70px;
+	}
 }
 
 @media only screen and (min-width:1024px) and (max-width:1439px) {

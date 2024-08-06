@@ -348,7 +348,7 @@
                 </div>
                 <div class="image-spliter wow fadeInRight">
                     <div class="mover"></div>
-                    <img class="img-left" src="images/services/2d&3d-floor-plan-services/download.png" alt="3d Floor Plan Color">
+                    <img class="img-left col-lg-12 col-md-12 col-sm-12" src="images/services/2d&3d-floor-plan-services/download.png" alt="3d Floor Plan Color">
                     <!-- <img class="img-right" src="images/services/2d&3d-floor-plan-services/3d-floor-plan-color-1.webp" alt="3d Floor Plan Color"> -->
                 </div>
             </div>
@@ -358,7 +358,9 @@
 
 
 <section>
-	<img src="images/services/2d&3d-floor-plan-services/2d-3d-floor-plan-center-banner.webp" alt="2D 3D Floor Plan Center Image">
+	<div class="col-lg-12 col-md-12 col-sm-12">
+		<img src="images/services/2d&3d-floor-plan-services/2d-3d-floor-plan-center-banner.webp" alt="2D 3D Floor Plan Center Image">
+	</div>
 </section>
 
 <!--Start Tech-->

@@ -202,7 +202,7 @@
 	<div class="container">
 		<div class="row text-center">
 			<div class="col-12 wow fadeIn">
-			<iframe width="300" height="450" src="https://www.youtube.com/embed/e-O-c0XzibI?si=h6IDvAsxMC-4xAIC" title="Revolutionizing Automotive and Transport with App-Driven Innovations | Appsnation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			<iframe width="100%" height="600" src="https://www.youtube.com/embed/e-O-c0XzibI?si=h6IDvAsxMC-4xAIC" title="Revolutionizing Automotive and Transport with App-Driven Innovations | Appsnation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>

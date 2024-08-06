@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/services/2d&3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -94,9 +94,7 @@
 	<div class="container">
 		<div class="-cta-btn mt50 mb50">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Professional Designer</span>
-				</p>
+				<p>Hire a <span>Professional Designer</span></p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 					<i class="fas fa-chevron-right fa-icon"></i>
 					<span class="circle"></span>
@@ -210,7 +208,6 @@
 					<p class="description">Utilizing 2D and 3D floor plan services leads to the creation of beneficial spaces that are functional and aesthetically pleasing. These plans enable designers to plan layouts that maximize space efficiency and cater to the specific needs of the users, ultimately enhancing the overall quality and usability of the environment.</p>
 				</div>
 			</div>
-			
 		</div>
 	</div>
 </section>
@@ -303,13 +300,13 @@
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInRight v-center pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
-				<img src="images/services/2d&3d-floor-plan-services/threed-floor-plan-drawing.webp" alt="" height="100%" width="100%">
+				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-drawing.webp" alt="" height="100%" width="100%">
 			</div>
 		</div>
 
 		<div class="row pt-3">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInLeft v-center" style="visibility: visible; animation-name: fadeInLeft;">
-				<img src="images/services/2d&3d-floor-plan-services/threed-floor-plan-layout.webp" alt="" height="100%" width="100%">
+				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-layout.webp" alt="" height="100%" width="100%">
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInRight my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
@@ -339,6 +336,7 @@
 		</div>
 	</div>
 </section>
+
 <section class="floor-plan-configuration py-3 py-md-4 pt-lg-5">
     <div class="container">
         <div class="row justify-content-center">
@@ -348,8 +346,8 @@
                 </div>
                 <div class="image-spliter wow fadeInRight">
                     <div class="mover"></div>
-                    <img class="img-left col-lg-12 col-md-12 col-sm-12" src="images/services/2d&3d-floor-plan-services/download.png" alt="3d Floor Plan Color">
-                    <!-- <img class="img-right" src="images/services/2d&3d-floor-plan-services/3d-floor-plan-color-1.webp" alt="3d Floor Plan Color"> -->
+                    <img class="img-left" src="images/services/2d-3d-floor-plan-services/3d-floor-plan-color-2.webp" alt="3d Floor Plan Color">
+                    <img class="img-right" src="images/services/2d-3d-floor-plan-services/3d-floor-plan-color-1.webp" alt="3d Floor Plan Color">
                 </div>
             </div>
         </div>
@@ -359,7 +357,7 @@
 
 <section>
 	<div class="col-lg-12 col-md-12 col-sm-12">
-		<img src="images/services/2d&3d-floor-plan-services/2d-3d-floor-plan-center-banner.webp" alt="2D 3D Floor Plan Center Image">
+		<img src="images/services/2d-3d-floor-plan-services/2d-3d-floor-plan-center-banner.webp" alt="2D 3D Floor Plan Center Image">
 	</div>
 </section>
 

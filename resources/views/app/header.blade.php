@@ -45,6 +45,7 @@
 	<link href="{{asset('css/style.css')}}" rel="stylesheet">
 	<link href="{{asset('css/responsive.css')}}" rel="stylesheet">
 	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">
+	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
 	<link rel="canonical" href="{{url()->current()}}" />
 
 </head>

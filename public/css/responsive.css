@@ -1917,6 +1917,25 @@
 		background-position: 51%;
 	}
 
+	.twod-character-design .nav-tabs {
+        display: flex;
+        justify-content: center;
+    }
+
+	.twod-character-design .nav-tabs .nav-item {
+        width: 100%;
+        margin: 0px 0px 10px 0px;
+    }
+
+	.twod-character-design .tab-pane {
+        padding: 0px;
+    }
+
+	.twod-art-bottom-center {
+        transform: translate(-50%, -80%);
+        width: 90%;
+    }
+
 	/* Testimonials */
 
 	.awards-slider {

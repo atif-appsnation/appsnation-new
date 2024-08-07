@@ -359,7 +359,7 @@
 <script src="{{asset('js/plugin.min.js')}}"></script>
 <script src="{{asset('js/swiper.min.js')}}"></script>
 <script src="{{asset('js/owl.carousel.js')}}"></script>
-<script src="{{asset('js/image-comparison-slider.min')}}"></script>
+<script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
 <script src="{{asset('js/main.js')}}"></script>
 
 

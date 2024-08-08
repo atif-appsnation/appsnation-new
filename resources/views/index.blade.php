@@ -804,7 +804,7 @@
 							<img src="images/case-study/vero-logo.webp" alt="" class="icon-img" alt="Vero App Logo">
 							<h2 class="pt-3 case-study-heading">Vero App</h2>
 							<p class="pt-3 case-study-text">VERO is a hassle-free, one stop solution for your daily needs. Track what you want to buy, order food, or take a ride. Fit it all in a day with VERO!</p>
-							<a target="_blank" href="https://futurealiti.com/vero" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="https://appsnation.com/vero" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -819,7 +819,7 @@
 							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Logo">
 							<h2 class="pt-3 case-study-heading">Home Store</h2>
 							<p class="pt-3 case-study-text">Order breakfast, lunch, or dinner, rate your favorite restaurants & track your order - one platform to curb your hunger.</p>
-							<a target="_blank" href="https://futurealiti.com/hom-store-app" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="https://appsnation.com/hom-store-app" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -838,7 +838,7 @@
 							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Website">
 							<h2 class="pt-3 case-study-heading">Home Store Web</h2>
 							<p class="pt-3 case-study-text">An online store for buying our high quality cooking oils at best prices. Notch features that define the world’s best oil delivery app.</p>
-							<a target="_blank" href="https://futurealiti.com/hom-store-web" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="https://appsnation.com/hom-store-web" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -857,7 +857,7 @@
 							<img src="images/case-study/erp-logo.webp" class="icon-img" alt="ERP Logo">
 							<h2 class="pt-3 case-study-heading">ERP</h2>
 							<p class="pt-3 case-study-text">Improve your day-to-day business operations with our ERP tool. Boost productivity, improve customer experience, and boost operational efficiency!</p>
-							<a target="_blank" href="https://futurealiti.com/erp" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="https://appsnation.com/erp" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>
@@ -876,7 +876,7 @@
 							<img src="images/case-study/evil-witch-logo.webp" alt="Evil Witch Design" class="icon-img">
 							<h2 class="pt-3 case-study-heading">Evil Witch</h2>
 							<p class="pt-3 case-study-text">After much effort, our team found a unique character idea covering the horror feel. It was crucial to converting ideas into reality, especially when it comes to character design from scratch.</p>
-							<a target="_blank" href="https://futurealiti.com/evil-witch" class="btn btn-naked text-uppercase pt-5">
+							<a target="_blank" href="https://appsnation.com/evil-witch" class="btn btn-naked text-uppercase pt-5">
 								<span class="btn-line btn-line-before"></span>
 								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
 								<span class="btn-line btn-line-after"></span>

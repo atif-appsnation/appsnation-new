@@ -13117,11 +13117,11 @@ ul.list {
 }
 
 .twod-art-page h1 span {
-	color: #00576c;
+	color: var(--second-color);
 }
 
 .twod-art-services h2 span {
-	color: #00576c;
+	color: var(--second-color);
 }
 
 .twod-art-services .card::before, .twod-art-services .card::after {
@@ -13130,7 +13130,7 @@ ul.list {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background: #5495bf;
+	background: var(--first-color);
 	height: 4px;
 }
 
@@ -13181,7 +13181,7 @@ ul.list {
 }
 
 .twod-character-design .card {
-	background: linear-gradient(to right, #AACEFE, #BFF0F4);
+	background: var(--first-color);
 }
 
 .twod-character-design p {
@@ -13202,14 +13202,14 @@ ul.list {
 
 .twod-character-design .nav-tabs .nav-item .nav-link:hover {
 	border-right: 0px solid transparent;
-	border-left: 5px solid #5495bf;
+	border-left: 5px solid var(--second-color);
 	border-bottom: 0px solid transparent;
 	border-top: 0px solid transparent;
 	height: 100%;
 }
 
 .twod-character-design .nav-tabs .nav-item .nav-link.active {
-	border-left: 5px solid #5495bf;
+	border-left: 5px solid var(--second-color);
 	height: 100%;
 }
 
@@ -13236,7 +13236,7 @@ ul.list {
 }
 
 .twod-environment-design .card {
-	background: linear-gradient(to right, #AACEFE, #BFF0F4);
+	background: var(--first-color);
 }
 
 .twod-environment-design p {
@@ -13256,7 +13256,7 @@ ul.list {
 }
 
 .twod-environment-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 5px solid #5495bf;
+	border-right: 5px solid var(--second-color);
 	border-left: 0px solid transparent;
 	border-bottom: 0px solid transparent;
 	border-top: 0px solid transparent;
@@ -13264,7 +13264,7 @@ ul.list {
 }
 
 .twod-environment-design .nav-tabs .nav-item .nav-link.active {
-	border-right: 5px solid #5495bf;
+	border-right: 5px solid var(--second-color);
 	height: 100%;
 }
 
@@ -13283,7 +13283,7 @@ ul.list {
 }
 
 .twod-game-ui-ux-design .card {
-	background: linear-gradient(to right, #AACEFE, #BFF0F4);
+	background: var(--first-color);
 }
 
 .twod-game-ui-ux-design p {
@@ -13304,14 +13304,14 @@ ul.list {
 
 .twod-game-ui-ux-design .nav-tabs .nav-item .nav-link:hover {
 	border-right: 0px solid transparent;
-	border-left: 5px solid #5495bf;
+	border-left: 5px solid var(--second-color);
 	border-bottom: 0px solid transparent;
 	border-top: 0px solid transparent;
 	height: 100%;
 }
 
 .twod-game-ui-ux-design .nav-tabs .nav-item .nav-link.active {
-	border-left: 5px solid #5495bf;
+	border-left: 5px solid var(--second-color);
 	height: 100%;
 }
 
@@ -13330,7 +13330,7 @@ ul.list {
 }
 
 .twod-concept-art .card {
-	background: linear-gradient(to right, #AACEFE, #BFF0F4);
+	background: var(--first-color);
 }
 
 .twod-concept-art p {
@@ -13350,7 +13350,7 @@ ul.list {
 }
 
 .twod-concept-art .nav-tabs .nav-item .nav-link:hover {
-	border-right: 5px solid #5495bf;
+	border-right: 5px solid var(--second-color);
 	border-left: 0px solid transparent;
 	border-bottom: 0px solid transparent;
 	border-top: 0px solid transparent;
@@ -13358,7 +13358,7 @@ ul.list {
 }
 
 .twod-concept-art .nav-tabs .nav-item .nav-link.active {
-	border-right: 5px solid #5495bf;
+	border-right: 5px solid var(--second-color);
 	height: 100%;
 }
 
@@ -13402,7 +13402,7 @@ ul.list {
 }
 
 .twod-art-benefits-section h2 span {
-	color: #00576c;
+	color: var(--second-color);
 }
 
 .twod-art-benefit {
@@ -13419,7 +13419,7 @@ ul.list {
 
 .twod-concept-art h2 span, .twod-game-ui-ux-design h2 span,
 .twod-environment-design h2 span, .twod-character-design h2 span {
-	color: #00576c;
+	color: var(--second-color);
 }
 
 .twod-consultant-card p {
@@ -13429,6 +13429,339 @@ ul.list {
 }
 
 .twod-art-consultation .discuss-project {
+	font-size: 20px;
+    line-height: 30px;
+	font-weight: 600;
+}
+
+/* 3D Art */
+
+.threed-art-page {
+	background-image: url(../images/services/3d-art/3d-art-banner.webp);
+	background-size: cover;
+	padding: 90px 0px 50px;
+}
+
+.threed-art-page h1 span {
+	color: #000;
+}
+
+.threed-art-services h2 span {
+	color: var(--second-color);
+}
+
+.threed-art-services .card::before, .threed-art-services .card::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: var(--second-color);
+	height: 4px;
+}
+
+.threed-art-services .card::before {
+	width: 0;
+	opacity: 0;
+	transition: opacity 0 ease, width 0 ease;
+	transition-delay: 0.5s;
+}
+
+.threed-art-services .card::after {
+	width: 100%;
+	background: #fff;
+	transition: width 0.5s ease;
+}
+
+.threed-art-services .card {
+	height: 100%;
+	border-radius: 0px;
+	/* border: 1px solid rgba(0, 0, 0, 1); */
+	transition: transform .2s;
+	/* background: -moz-linear-gradient(left, #0069A2 0%, #003358 100%);
+	background: -webkit-linear-gradient(left, #0069A2 0%, #003358 100%);
+	background: linear-gradient(to right, #0069A2 0%, #003358 100%); */
+}
+
+.threed-art-services .card:hover {
+	transform: scale(1.05);
+	box-shadow: 0 0 20px rgb(0 0 0 / 50%);
+}
+
+.threed-art-services .card:hover::before {
+	width: 100%;
+	opacity: 1;
+	transition: opacity 0.5s ease, width 0.5s ease;
+	transition-delay: 0;
+}
+
+.threed-art-services .card:hover::after {
+	width: 0;
+	opacity: 0;
+	transition: width 0 ease;
+}
+
+.threed-character-design {
+	background: url(../images/services/3d-art/3d-character-design-banner.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-character-design .card {
+	background: var(--first-color);
+}
+
+.threed-character-design p {
+	padding-top: 10px;
+	line-height: 25px;
+}
+
+.threed-character-design .nav-tabs .nav-item {
+	margin: 0px 10px 10px 0px;
+	width: 230px;
+	background-color: #fff;
+	border-radius: 0px;
+	height: 153px;
+}
+
+.threed-character-design .nav-tabs .nav-item .nav-link {
+	color: #000;
+}
+
+.threed-character-design .nav-tabs .nav-item .nav-link:hover {
+	border-right: 0px solid transparent;
+	border-left: 5px solid var(--second-color);
+	border-bottom: 0px solid transparent;
+	border-top: 0px solid transparent;
+	height: 100%;
+}
+
+.threed-character-design .nav-tabs .nav-item .nav-link.active {
+	border-left: 5px solid var(--second-color);
+	height: 100%;
+}
+
+.threed-character-design .tab-pane {
+	position: relative;
+}
+
+.threed-art-bottom-center {
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%, -60%);
+	width: 80%;
+}
+
+.threed-character-design .consultant-card {
+	background: url(../images/services/3d-art/3d-art-consultation.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-environment-design {
+	background: url(../images/services/3d-art/3d-environment-design-banner.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-environment-design .card {
+	background: var(--first-color);
+}
+
+.threed-environment-design p {
+	padding-top: 10px;
+	line-height: 25px;
+}
+
+.threed-environment-design .nav-tabs .nav-item {
+	margin: 0px 10px 10px 0px;
+	width: 230px;
+	background-color: #fff;
+	border-radius: 0px;
+	height: 142px;
+}
+
+.threed-environment-design .nav-tabs .nav-item .nav-link {
+	color: #000;
+}
+
+.threed-environment-design .nav-tabs .nav-item .nav-link:hover {
+	border-right: 5px solid var(--second-color);
+	border-left: 0px solid transparent;
+	border-bottom: 0px solid transparent;
+	border-top: 0px solid transparent;
+	height: 100%;
+}
+
+.threed-environment-design .nav-tabs .nav-item .nav-link.active {
+	border-right: 5px solid var(--second-color);
+	height: 100%;
+}
+
+.threed-environment-design .tab-pane {
+	position: relative;
+}
+
+.threed-environment-design .consultant-card {
+	background: url(../images/services/3d-art/3d-art-consultation.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-game-assets-design {
+	background: url(../images/services/3d-art/3d-game-assets-design-banner.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-game-assets-design .card {
+	background: var(--first-color);
+}
+
+.threed-game-assets-design p {
+	padding-top: 10px;
+	line-height: 25px;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item {
+	margin: 0px 10px 10px 0px;
+	width: 230px;
+	background-color: #fff;
+	border-radius: 0px;
+	height: 146px;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item .nav-link {
+	color: #000;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item .nav-link:hover {
+	border-right: 0px solid transparent;
+	border-left: 5px solid var(--second-color);
+	border-bottom: 0px solid transparent;
+	border-top: 0px solid transparent;
+	height: 100%;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item .nav-link.active {
+	border-left: 5px solid var(--second-color);
+	height: 100%;
+}
+
+.threed-game-assets-design .tab-pane {
+	position: relative;
+}
+
+.threed-game-assets-design .consultant-card {
+	background: url(../images/services/3d-art/3d-art-consultation.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-sculpting-service {
+	background: url(../images/services/3d-art/3d-sculpting-service-banner.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-sculpting-service .card {
+	background: var(--first-color);
+}
+
+.threed-sculpting-service p {
+	padding-top: 10px;
+	line-height: 25px;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item {
+	margin: 0px 10px 10px 0px;
+	width: 230px;
+	background-color: #fff;
+	border-radius: 0px;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item .nav-link {
+	color: #000;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item .nav-link:hover {
+	border-right: 5px solid var(--second-color);
+	border-left: 0px solid transparent;
+	border-bottom: 0px solid transparent;
+	border-top: 0px solid transparent;
+	height: 100%;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item .nav-link.active {
+	border-right: 5px solid var(--second-color);
+	height: 100%;
+}
+
+.threed-sculpting-service .tab-pane {
+	position: relative;
+}
+
+.threed-sculpting-service .consultant-card {
+	background: url(../images/services/3d-art/3d-art-consultation.webp) no-repeat fixed;
+	background-size: cover;
+}
+
+.threed-art-consultation .card {
+	background-image: url(../images/services/3d-art/3d-art-free-consultation.webp);
+	background-size: cover;
+}
+
+.threed-art-consultation .btn {
+	background-color: #fff;
+	color: #5D1EAA;
+	border-color: #fff;
+	font-weight: 700;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-webkit-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+}
+
+.threed-art-consultation .btn:hover {
+	background-color: #fff;
+	color: #fff;
+	border-color: #5D1EAA;
+	font-weight: 700;
+	box-shadow: 0 0 0 0 #5D1EAA, inset 6em 3.5em 0 0 #5D1EAA;
+}
+
+.threed-art-benefits-section {
+	position: relative;
+	background-image: url(../images/services/3d-art/3d-art-benefits-banner.webp);
+	background-size: cover;
+}
+
+.threed-art-benefits-section h2 span {
+	color: var(--second-color);
+}
+
+.threed-art-benefit {
+	position: absolute;
+	right: 0;
+	height: 80%;
+}
+
+.threed-why-choose-section {
+	background-image: url(../images/why-choose/3d-art-why-choose-section.webp);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.threed-art-extra-services-text, .threed-art-extra-services-heading {
+	text-align: center;
+}
+
+.threed-character-design h2 span, .threed-environment-design h2 span,
+.threed-game-assets-design h2 span, .threed-sculpting-service h2 span {
+	color: var(--second-color);
+}
+
+.threed-consultant-card p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.threed-art-consultation .discuss-project {
 	font-size: 20px;
     line-height: 30px;
 	font-weight: 600;
@@ -14181,7 +14514,7 @@ footer h6 {
     top: 0;
     left: 0;
     width: 100%;
-    background: #5495bf;
+    background: var(--first-color);
     height: 4px;
 }
 

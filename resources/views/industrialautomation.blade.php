@@ -593,7 +593,7 @@
            <div class="col-lg-8 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
                <div class="common-heading">
                    <h2 class="common-heading mb10 text-center">Our Work</h2>
-                   <p class="text-center">Futurealiti resolves your tech problems through their huge channel of services and solutions with our extremely experienced and professional team. We are serving our valuable clients to see their concepts and assumptions. Our services are to produce you the best Web and App solutions in a very innovative and inventive manner.</p>
+                   <p class="text-center">AppsNation resolves your tech problems through their huge channel of services and solutions with our extremely experienced and professional team. We are serving our valuable clients to see their concepts and assumptions. Our services are to produce you the best Web and App solutions in a very innovative and inventive manner.</p>
                 </div>
             </div>
         </div>
@@ -615,7 +615,7 @@
                             </div>
                             <div class="col-lg-6 mt-4 mt-lg-0">
                                 <h2 class="common-heading text-white">Delta Robot</h2>
-                                <p class="text-white">Futurerealiti’s industrial automation tech development team assures you to provide you with a complete solution to fully automate your industrial unit. Futurealiti designed and developed a robot called Delta robot that not only automates the process of production but also saves your finance as it is a one-time investment. they are parallel robots used in industrial automation. They comprised of three joined arms to a moving platform controlled by motors and sensors. End effectors at Each arm's tip is utilised to quickly and precisely pick up and move items.</p>
+                                <p class="text-white">Futurerealiti’s industrial automation tech development team assures you to provide you with a complete solution to fully automate your industrial unit. AppsNation designed and developed a robot called Delta robot that not only automates the process of production but also saves your finance as it is a one-time investment. they are parallel robots used in industrial automation. They comprised of three joined arms to a moving platform controlled by motors and sensors. End effectors at Each arm's tip is utilised to quickly and precisely pick up and move items.</p>
                                 <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn text-white wow py-2 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
                             </div>
                         </div>

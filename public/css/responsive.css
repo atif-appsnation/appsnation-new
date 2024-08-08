@@ -1582,6 +1582,13 @@
 
 }
 
+@media only screen and (min-width: 768px) {
+
+	p {
+		text-align: justify;
+	}
+}
+
 @media only screen and (max-width:767px) {
 
 	.breadcrumb-areav2 {
@@ -1613,9 +1620,6 @@
     	line-height: 32px;
 	} */
 
-	p {
-		text-align: justify;
-	}
 
 	.why-choose-section h3 {
 		font-size: 24px;
@@ -1917,24 +1921,239 @@
 		background-position: 51%;
 	}
 
-	.twod-character-design .nav-tabs {
-        display: flex;
-        justify-content: center;
-    }
+	/* 2D Art */
 
-	.twod-character-design .nav-tabs .nav-item {
-        width: 100%;
-        margin: 0px 0px 10px 0px;
-    }
+	.twod-art-services-heading {
+		text-align: center;
+    	padding-top: 10px;
+	}
+
+	.twod-art-services-text {
+		text-align: center;
+	}
+
+	.twod-character-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
 
 	.twod-character-design .tab-pane {
-        padding: 0px;
-    }
+		padding: 0px;
+	}
+
+	.twod-character-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.twod-character-design .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
 
 	.twod-art-bottom-center {
-        transform: translate(-50%, -80%);
-        width: 90%;
-    }
+		transform: translate(-50%, -80%);
+		width: 90%;
+	}
+
+	.twod-consultant-card h5 {
+		text-align: center;
+	}
+
+	.twod-consultant-card a {
+		margin: 10px auto;
+		text-align: center;
+		display: block;
+	}
+
+	.twod-environment-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-environment-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-environment-design .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.twod-environment-design .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.twod-game-ui-ux-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-game-ui-ux-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-game-ui-ux-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.twod-game-ui-ux-design .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.twod-concept-art .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-concept-art .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-concept-art .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.twod-concept-art .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.twod-art-consultation h5 {
+		text-align: center;
+	}
+
+	.twod-art-consultation p {
+		text-align: center;
+	}
+	
+	.twod-art-consultation a {
+		display: block;
+		margin: 10px auto 0px;
+	}
+
+	.twod-art-benefit {
+		position: relative;
+		right: 0;
+		height: 100%;
+	}
+
+	/* 3D Art Services */
+
+	.threed-art-services-heading {
+		text-align: center;
+		padding-top: 10px;
+	}
+
+	.threed-art-services-text {
+		text-align: center;
+	}
+
+	.threed-character-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-character-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-character-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.threed-character-design .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.threed-art-bottom-center {
+		transform: translate(-50%, -80%);
+		width: 90%;
+	}
+
+	.threed-consultant-card h5 {
+		text-align: center;
+	}
+
+	.threed-consultant-card a {
+		margin: 10px auto;
+		text-align: center;
+		display: block;
+	}
+
+	.threed-environment-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-environment-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-environment-design .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.threed-environment-design .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.threed-game-assets-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-game-assets-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-game-assets-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.threed-game-assets-design .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.threed-sculpting-service .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-sculpting-service .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-sculpting-service .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.threed-sculpting-service .nav-tabs .nav-item {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.threed-art-consultation h5 {
+		text-align: center;
+	}
+
+	.threed-art-consultation p {
+		text-align: center;
+	}
+	
+	.threed-art-consultation a {
+		display: block;
+		margin: 10px auto 0px;
+	}
+
+	.threed-art-benefit {
+		position: relative;
+		right: 0;
+		height: 100%;
+	}
 
 	/* Testimonials */
 
@@ -2207,6 +2426,236 @@
 		margin-left: 70px;
 	}
 
+	/* 2D Art Services */
+
+	.twod-art-services-heading {
+		/* text-align: center; */
+    	padding-top: 10px;
+	}
+
+	/* .twod-art-services-text {
+		text-align: center;
+	} */
+
+	.twod-character-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-character-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-character-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.twod-character-design-img {
+		width: 100%;
+	}
+
+	.twod-art-bottom-center {
+		transform: translate(-50%, -30%);
+		width: 90%;
+	}
+
+	.twod-consultant-card h5 {
+		text-align: center;
+	}
+
+	.twod-consultant-card a {
+		margin: 10px auto;
+		text-align: center;
+		display: block;
+	}
+
+	.twod-environment-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-environment-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-environment-design .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.twod-environment-design-img {
+		width: 100%;
+	}
+
+	.twod-game-ui-ux-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-game-ui-ux-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-game-ui-ux-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.twod-game-ui-ux-design-img {
+		width: 100%;
+	}
+
+	.twod-concept-art .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.twod-concept-art .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-concept-art .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.twod-concept-art-img {
+		width: 100%;
+	}
+
+	.twod-art-consultation h5 {
+		text-align: center;
+	}
+
+	.twod-art-consultation p {
+		text-align: center;
+	}
+	
+	.twod-art-consultation a {
+		display: block;
+		margin: 10px auto 0px;
+	}
+
+	.twod-art-benefit {
+		position: relative;
+		right: 0;
+		height: 100%;
+	}
+
+	/* 3D Art Services */
+
+	.threed-art-services-heading {
+		/* text-align: center; */
+		padding-top: 10px;
+	}
+
+	/* .threed-art-services-text {
+		text-align: center;
+	} */
+
+	.threed-character-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-character-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-character-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.threed-character-design-img {
+		width: 100%;
+	}
+
+	.threed-art-bottom-center {
+		transform: translate(-50%, -30%);
+		width: 90%;
+	}
+
+	.threed-consultant-card h5 {
+		text-align: center;
+	}
+
+	.threed-consultant-card a {
+		margin: 10px auto;
+		text-align: center;
+		display: block;
+	}
+
+	.threed-environment-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-environment-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-environment-design .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.threed-environment-design-img {
+		width: 100%;
+	}
+
+	.threed-game-assets-design .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-game-assets-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-game-assets-design .tab-content {
+		margin: 20px 0px 10px;
+	}
+
+	.threed-game-assets-design-img {
+		width: 100%;
+	}
+
+	.threed-sculpting-service .nav-tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.threed-sculpting-service .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-sculpting-service .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.threed-sculpting-service-img {
+		width: 100%;
+	}
+
+	.threed-art-consultation h5 {
+		text-align: center;
+	}
+
+	.threed-art-consultation p {
+		text-align: center;
+	}
+
+	.threed-art-consultation a {
+		display: block;
+		margin: 10px auto 0px;
+	}
+
+	.threed-art-benefit {
+		position: relative;
+		right: 0;
+		height: 100%;
+	}
+
+	.threed-art-services img {
+		width: 100%;
+	}
+
 }
 
 @media only screen and (min-width:1024px) and (max-width:1439px) {
@@ -2375,6 +2824,233 @@
     ul.service_box li {
         padding: 15px 30px;
     }
+
+	/* 2D Art Services */
+
+	.twod-art-services-heading {
+		text-align: center;
+    	padding-top: 10px;
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.twod-art-services-text {
+		text-align: center;
+	}
+
+	.twod-character-design .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.twod-character-design .tab-pane {
+		padding: 0px;
+	}
+	
+	.twod-character-design h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.twod-character-design-img {
+		width: 100%;
+	}
+
+	.twod-art-bottom-center {
+		transform: translate(-50%, -60%);
+		width: 90%;
+	}
+
+	.twod-consultant-card h5 {
+		text-align: center;
+	}
+
+	.twod-consultant-card a {
+		margin: 10px auto;
+		text-align: center;
+		display: block;
+	}
+
+	.twod-environment-design .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.twod-environment-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-environment-design-img {
+		width: 100%;
+	}
+
+	.twod-environment-design h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.twod-game-ui-ux-design .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.twod-game-ui-ux-design .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-game-ui-ux-design-img {
+		width: 100%;
+	}
+
+	.twod-game-ui-ux-design h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.twod-concept-art .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.twod-concept-art .tab-pane {
+		padding: 0px;
+	}
+
+	.twod-concept-art .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.twod-concept-art-img {
+		width: 100%;
+	}
+
+	.twod-concept-art h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+	
+	.twod-art-consultation a {
+		display: block;
+		margin: 10px auto 0px;
+	}
+
+	.twod-art-benefit {
+		position: relative;
+		right: 0;
+		height: 100%;
+	}
+
+	/* 3D Art Services */
+
+	.threed-art-services-heading {
+		text-align: center;
+		padding-top: 10px;
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.threed-art-services-text {
+		text-align: center;
+	}
+
+	.threed-character-design .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.threed-character-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-character-design-img {
+		width: 100%;
+	}
+
+	.threed-character-design h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.threed-art-bottom-center {
+		transform: translate(-50%, -60%);
+		width: 90%;
+	}
+
+	.threed-consultant-card h5 {
+		text-align: center;
+	}
+
+	.threed-consultant-card a {
+		margin: 10px auto;
+		text-align: center;
+		display: block;
+	}
+
+	.threed-environment-design .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.threed-environment-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-environment-design-img {
+		width: 100%;
+	}
+
+	.threed-environment-design h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.threed-game-assets-design .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.threed-game-assets-design .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-game-assets-design-img {
+		width: 100%;
+	}
+
+	.threed-game-assets-design h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+	
+	.threed-sculpting-service .nav-tabs .nav-item {
+		width: 195px;
+	}
+
+	.threed-sculpting-service .tab-pane {
+		padding: 0px;
+	}
+
+	.threed-sculpting-service .tab-content {
+		margin: 10px 0px 20px;
+	}
+
+	.threed-sculpting-service-img {
+		width: 100%;
+	}
+
+	.threed-sculpting-service h3 {
+		font-size: 20px;
+    	line-height: 30px;
+	}
+
+	.threed-art-consultation a {
+		display: block;
+		margin: 10px auto 0px;
+	}
+
+	.threed-art-benefit {
+		position: relative;
+		right: 0;
+		height: 100%;
+	}
+
+	.threed-art-extra-services-heading {
+		font-size: 20px;
+    	line-height: 30px;
+	}
 
 }
 

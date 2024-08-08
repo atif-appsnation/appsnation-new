@@ -80,9 +80,9 @@
 				</div>
 			</div>
 			<div class="row mt-5 justify-content-center">
-            <div class="col-lg-8 text-center">
+            <!-- <div class="col-lg-8 text-center">
                 <a href="https://futurealiti.com/uploads/pdf/Real-Estate-Profile-Futurealiti.pdf" target="_blank" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Download Real Estate Profile <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
         </div>
 		</div>
 	</div>

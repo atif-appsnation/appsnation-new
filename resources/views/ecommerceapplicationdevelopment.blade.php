@@ -13,7 +13,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">E-Commerce Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti focuses on creating E-commerce solutions that are both technically powerful and unique in the market, giving you a competitive advantage. You require someone to manage your existing digital assets and provide your company with a positive client experience.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation focuses on creating E-commerce solutions that are both technically powerful and unique in the market, giving you a competitive advantage. You require someone to manage your existing digital assets and provide your company with a positive client experience.</p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
@@ -37,7 +37,7 @@
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
 				<div class="common-heading text-l pl25">
 					<h2>Our<span class="flup-theme"> E-Commerce Application Development</span> Portfolio:</h2>
-					<p>Futurealiti is a custom e-Commerce development company that specialises in creating beautiful platforms and accelerating e-Commerce initiatives. </p>
+					<p>AppsNation is a custom e-Commerce development company that specialises in creating beautiful platforms and accelerating e-Commerce initiatives. </p>
 					<p>As a reputable ecommerce website design company, we unlock the power of eCommerce platforms to provide you with feature-rich, distinctive, and dependable eCommerce websites. </p>
 					<p>Using Drupal, Magento development, WooCommerce, Shopify, and BigCommerce, our skilled team of highly qualified web developers produces customer-focused digital products Ecommerce web apps</p>
 				</div>

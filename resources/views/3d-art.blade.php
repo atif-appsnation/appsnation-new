@@ -12,9 +12,9 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2 common-heading">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mesmerizing 3D Art Design Development</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Art is not limited to being a picture on a wall. It can be a symbol of your ideas, feelings, and emotions. At Futurealiti, we are passionate about 3D Art Design and world-class 3D renderings. We put our heart and soul into providing high-quality designs for you.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Art is not limited to being a picture on a wall. It can be a symbol of your ideas, feelings, and emotions. At AppsNation, we are passionate about 3D Art Design and world-class 3D renderings. We put our heart and soul into providing high-quality designs for you.</p>
 					<br><br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
@@ -39,8 +39,8 @@
 					<!-- <span>Overview</span> -->
 					<h2>Mesmerizing <br> <span class="flup-theme">3D Art Design Services</span></h2>
 					<!-- <p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p> -->
-					<p>Transform your ideas into stunning 3D visuals with Futurealiti. Our passion for 3D art brings high-quality renderings that capture the essence of your vision. We specialize in creating captivating designs that express your ideas and emotions.</p>
-					<p>Experience world-class 3D art that elevates your project's visual appeal. Let Futurealiti bring your concepts to life with exceptional craftsmanship and innovative techniques.</p>
+					<p>Transform your ideas into stunning 3D visuals with AppsNation. Our passion for 3D art brings high-quality renderings that capture the essence of your vision. We specialize in creating captivating designs that express your ideas and emotions.</p>
+					<p>Experience world-class 3D art that elevates your project's visual appeal. Let AppsNation bring your concepts to life with exceptional craftsmanship and innovative techniques.</p>
 				</div>
 			</div>
 		</div>
@@ -86,7 +86,7 @@
 						<h4>3D Game UI UX Design Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>3D Game UI/UX Design Services are highly required of today's innovators. Futurealiti is a solution to help you build and design great games for your users.</p>
+						<p>3D Game UI/UX Design Services are highly required of today's innovators. AppsNation is a solution to help you build and design great games for your users.</p>
 					</div>
 				</div>
 			</div>
@@ -100,7 +100,7 @@
 						<h4>3D Environment Design Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>To meet the demand of high-end companies, Futurealiti creates 3D environments organized by a clear and distinctive visual style, simple but exquisite features, and beautiful animations.</p>
+						<p>To meet the demand of high-end companies, AppsNation creates 3D environments organized by a clear and distinctive visual style, simple but exquisite features, and beautiful animations.</p>
 					</div>
 				</div>
 			</div>
@@ -117,14 +117,10 @@
 					</div>
 				</div>
 			</div>
-			
-			
 		</div>
 	</div>
 </section>
 <!--End Service-->
-
-
 
 <!--Start Hire Dedicated Developer -->
 <section class="service-block">
@@ -204,21 +200,20 @@
 </section>
 <!--End Features-->
 
-
-
+<!-- Start 3D Character Design -->
 <section class="threed-character-design py-3 py-md-3 py-lg-5">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Character</span> Design</h2>
-                <p class="text-center text-white">At Futurealiti, we design 3D characters in various styles- cartoon, realistic, and photorealistic – to create a unique personality that tells your story.</p>
+                <p class="text-center text-white">At AppsNation, we design 3D characters in various styles- cartoon, realistic, and photorealistic – to create a unique personality that tells your story.</p>
             </div>
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
@@ -250,28 +245,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="c-game">
-                                        <img src="images/services/3d-art/3d-game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img">
+                                        <img src="images/services/3d-art/3d-game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Character Design</h3>
-                                            <p class="text-white">Imagine your character in the next big hit game being anything you like with Futurealiti. You can be a doctor, a student, or even a zombie!</p>
+                                            <p class="text-white">Imagine your character in the next big hit game being anything you like with AppsNation. You can be a doctor, a student, or even a zombie!</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="c-cartoon">
-                                        <img src="images/services/3d-art/3d-cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid threed-character-design-img">
+                                        <img src="images/services/3d-art/3d-cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Cartoon Character Design</h3>
-                                            <p class="text-white">The character designer and animator from Futurealiti has a wealth of experience and knowledge in designing cartoons for movies, TV, web pages, and other visual elements.</p>
+                                            <p class="text-white">The character designer and animator from AppsNation has a wealth of experience and knowledge in designing cartoons for movies, TV, web pages, and other visual elements.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="photorealistic">
-                                        <img src="images/services/3d-art/3d-photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid threed-character-design-img">
+                                        <img src="images/services/3d-art/3d-photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Photorealistic Character Design</h3>
                                             <p class="text-white">We create realistic characters with a photorealistic look thanks to scanned costumes and natural hair and body rendering.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade active show" id="character">
-                                        <img src="images/services/3d-art/3d-characters-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img">
+                                        <img src="images/services/3d-art/3d-characters-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Design</h3>
                                             <p class="text-white">We create fully animated characters equipped with a wide range of tools, such as facial expressions, eye shading, and lip gloss.</p>
@@ -294,7 +289,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -303,46 +298,47 @@
 		</div>
     </div>
 </section>	
+<!-- End 3D Character Design -->
 
-
+<!-- Start 3D Environment Design -->
 <section class="threed-environment-design py-3 py-md-3 py-lg-5">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Environment</span> Design</h2>
-                <p class="text-center text-white">Futurealiti is a leading 3D environment design, visualization, and simulation services, provider. We have an experienced team of artists and engineers that can transform your business idea into a reality.</p>
+                <p class="text-center text-white">AppsNation is a leading 3D environment design, visualization, and simulation services, provider. We have an experienced team of artists and engineers that can transform your business idea into a reality.</p>
             </div>
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="e-game">
-                                        <img src="images/services/3d-art/3d-game-environment-design.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img">
+                                        <img src="images/services/3d-art/3d-game-environment-design.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Environment</h3>
                                             <p class="text-white">Our 3D artists can create realistic game environments and prototypes that capture your audience's attention. Build your worlds to engage and immerse players.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="e-cartoon">
-                                        <img src="images/services/3d-art/3d-cartoon-game-environment-design.webp" alt="3D Cartoon Game Environment Design" class="img-fluid threed-environment-design-img">
+                                        <img src="images/services/3d-art/3d-cartoon-game-environment-design.webp" alt="3D Cartoon Game Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Cartoon Game Environment</h3>
                                             <p class="text-white">One of our core competencies is to create cartoon-like environments for complex projects. The team will develop unique and flawless 3D cartoon environments into the game with crisp textures.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="argame">
-                                        <img src="images/services/3d-art/3d-ar-game-environment-design.webp" alt="3D AR Environment Design" class="img-fluid threed-environment-design-img">
+                                        <img src="images/services/3d-art/3d-ar-game-environment-design.webp" alt="3D AR Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">AR Game Environment</h3>
                                             <p class="text-white">We offer a full suite of 3D environment design services for AR games, from the highest quality mockups to in-game interactive environments.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade active show" id="vrgame">
-                                        <img src="images/services/3d-art/3d-vr-game-environment-design.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img">
+                                        <img src="images/services/3d-art/3d-vr-game-environment-design.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">VR Game Environment</h3>
                                             <p class="text-white">We use the latest 3D and VR technology to design a complete environment representing your game and world, offering players an immersive and interactive experience.</p>
@@ -393,7 +389,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -402,7 +398,9 @@
 		</div>
     </div>
 </section>
+<!-- End 3D Environment Design -->
 
+<!-- Start 3D Game Assets Design -->
 <section class="threed-game-assets-design py-3 py-md-3 py-lg-5">
     <div class="container">
         <div class="row justify-content-center wow common-heading fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
@@ -415,7 +413,7 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
@@ -447,28 +445,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="ui-ux">
-                                        <img src="images/services/3d-art/3d-game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img">
+                                        <img src="images/services/3d-art/3d-game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Weapon Design</h3>
                                             <p class="text-white">With years of experience, we are ready to design weapon models with the core of 3D game technology to bring them to life.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="wireframing">
-                                        <img src="images/services/3d-art/3d-game-vehicles-design.webp" alt="3D Game Vehicle Design" class="img-fluid threed-game-assets-design-img">
+                                        <img src="images/services/3d-art/3d-game-vehicles-design.webp" alt="3D Game Vehicle Design" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Vehicle Design</h3>
                                             <p class="text-white">Our design team can take your concept or ideas and create realistic and stunning 3D car models with cutting-edge technology.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="ar-game">
-                                        <img src="images/services/3d-art/3d-game-product-modeling.webp" alt="Product Modeling" class="img-fluid threed-game-assets-design-img">
+                                        <img src="images/services/3d-art/3d-game-product-modeling.webp" alt="Product Modeling" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Product Modeling</h3>
                                             <p class="text-white">We focus on smooth and high-resolution 3D modeling to give your product the best possible appearance.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade active show" id="vr-game">
-                                        <img src="images/services/3d-art/3d-game-modeling-for-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img">
+                                        <img src="images/services/3d-art/3d-game-modeling-for-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Modeling for NFT</h3>
                                             <p class="text-white">With outstanding expertise in 3D modeling for NFT, we can design your models based on your pictures, ideas, or requirements.</p>
@@ -491,7 +489,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -500,38 +498,40 @@
 		</div>
     </div>
 </section>
+<!-- End 3D Game Assets Design -->
 
+<!-- Start 3D Sculpting Design -->
 <section class="threed-sculpting-service py-3 py-md-3 py-lg-5">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Sculpting</span> Services</h2>
-                <p class="text-center text-white">At Futurealiti, we specialize in 3D sculpting services to make your dreams a reality. Our skilled artisans will sculpt your ideas and take them to the next level to make them look and feel better with our high-end services.</p>
+                <p class="text-center text-white">At AppsNation, we specialize in 3D sculpting services to make your dreams a reality. Our skilled artisans will sculpt your ideas and take them to the next level to make them look and feel better with our high-end services.</p>
             </div>
         </div>
         <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
-                                    <div class="tab-pane container" id="s-character">
-                                        <img src="images/services/3d-art/3d-environment-sculpting-service.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img">
+                                    <div class="tab-pane container fade active show" id="s-character">
+                                        <img src="images/services/3d-art/3d-environment-sculpting-service.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Sculpting</h3>
                                             <p class="text-white">We are a top-of-the-line character sculpting company. Our highly trained sculptors can create and mold any 3D character model of your design.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="s-environment">
-                                        <img src="images/services/3d-art/3d-character-sculpting-service.webp" alt="3D Environment Sculpting" class="img-fluid threed-sculpting-service-img">
+                                        <img src="images/services/3d-art/3d-character-sculpting-service.webp" alt="3D Environment Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Environment Sculpting</h3>
-                                            <p class="text-white">Futurealiti is a pioneer of 3D sculpting services, specializing in delivering clients realistic environmental and building models that they can use to drive good design processes.</p>
+                                            <p class="text-white">AppsNation is a pioneer of 3D sculpting services, specializing in delivering clients realistic environmental and building models that they can use to drive good design processes.</p>
                                         </div>
                                     </div>
-                                    <div class="tab-pane container fade active show" id="props">
-                                        <img src="images/services/3d-art/3d-pros-sculpting-service.webp" alt="3D Pros Sculpting" class="img-fluid threed-sculpting-service-img">
+                                    <div class="tab-pane container fade" id="props">
+                                        <img src="images/services/3d-art/3d-pros-sculpting-service.webp" alt="3D Pros Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Pros Sculpting</h3>
                                             <p class="text-white">We are a professional 3D props sculpting service company that offers expertise in photographic sculpting and the ability to visualize your ideas with real-world accuracy.</p>
@@ -542,7 +542,7 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#s-character">
+                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#s-character">
                                             <img src="images/services/3d-art/3d-environment-sculpting-service-icon.webp" alt="3D Character Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Sculpting</p>
                                         </a>
@@ -554,7 +554,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#props">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#props">
                                             <img src="images/services/3d-art/3d-pros-sculpting-service-icon.webp" alt="3D Pros Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Pros Sculpting</p>
                                         </a>
@@ -576,7 +576,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -585,6 +585,7 @@
 		</div>
     </div>
 </section>
+<!-- End 3D Sculpting Design -->
 
 <!--Start New Project-->
 <section class="service-block py-5">
@@ -692,8 +693,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h4 class="threed-art-extra-services-heading text-center">3D Scan Cleanup Services</h4>
-                                    <img src="images/services/3d-art/3d-scan-cleanup-services.webp" alt="3D Scan Cleanup Service" class="img-fluid my-2">
-                                    <p class="threed-art-extra-services-text">At Futurealiti, our primary focus is helping you clean up your 3D scan data in the most effective way possible. We replace the need for remeshing entirely with more robust reconstruction techniques like inverse design matrices (IDMs), which produce more precise edges and fewer artifacts. As a result, we know the best way to help them get their 3D scans cleaned up and ready for use again.</p>
+                                    <img src="images/services/3d-art/3d-scan-cleanup-services.webp" alt="3D Scan Cleanup Service" class="img-fluid my-2 d-block mx-auto">
+                                    <p class="threed-art-extra-services-text">At AppsNation, our primary focus is helping you clean up your 3D scan data in the most effective way possible. We replace the need for remeshing entirely with more robust reconstruction techniques like inverse design matrices (IDMs), which produce more precise edges and fewer artifacts. As a result, we know the best way to help them get their 3D scans cleaned up and ready for use again.</p>
                                 </div>
                             </div>
                         </div>
@@ -705,8 +706,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h4 class="threed-art-extra-services-heading text-center">Skinning 3D Model Services</h4>
-                                    <img src="images/services/3d-art/3d-model-skinning-services.webp" alt="Skinning 3D Model Services" class="img-fluid my-2">
-                                    <p class="threed-art-extra-services-text">If you're looking for a skinning 3D model service provider, Futurealiti has the experience and expertise to get the job done. We know how to work with complex digital designs and turn them into perfectly-styled skinned models that are easy to use in your projects. In addition, we can take any image or design and turn it into a beautiful, accurately-skinned model that you can use in any of your projects.</p>
+                                    <img src="images/services/3d-art/3d-model-skinning-services.webp" alt="Skinning 3D Model Services" class="img-fluid my-2 d-block mx-auto">
+                                    <p class="threed-art-extra-services-text">If you're looking for a skinning 3D model service provider, AppsNation has the experience and expertise to get the job done. We know how to work with complex digital designs and turn them into perfectly-styled skinned models that are easy to use in your projects. In addition, we can take any image or design and turn it into a beautiful, accurately-skinned model that you can use in any of your projects.</p>
                                 </div>
                             </div>
                         </div>
@@ -718,8 +719,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h4 class="threed-art-extra-services-heading text-center">Rigging Services</h4>
-                                    <img src="images/services/3d-art/3d-rigging-services.webp" alt="Rigging Service" class="img-fluid my-2">
-                                    <p class="threed-art-extra-services-text">Futurealiti has generated hundreds of seamless animations for video games and other forms of media. You may notice how effortlessly the characters move due to our outstanding rigging talents. We spend a lot of effort ensuring that every bone and joint in a skeleton animation is in the right place for the body to move naturally.</p>
+                                    <img src="images/services/3d-art/3d-rigging-services.webp" alt="Rigging Service" class="img-fluid my-2 d-block mx-auto">
+                                    <p class="threed-art-extra-services-text">AppsNation has generated hundreds of seamless animations for video games and other forms of media. You may notice how effortlessly the characters move due to our outstanding rigging talents. We spend a lot of effort ensuring that every bone and joint in a skeleton animation is in the right place for the body to move naturally.</p>
                                 </div>
                             </div>
                         </div>
@@ -731,7 +732,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h4 class="threed-art-extra-services-heading text-center">3D Model Texturing Services</h4>
-                                    <img src="images/services/3d-art/3d-model-texturing-services.webp" alt="3D Model Texturing Services" class="img-fluid my-2">
+                                    <img src="images/services/3d-art/3d-model-texturing-services.webp" alt="3D Model Texturing Services" class="img-fluid my-2 d-block mx-auto">
                                     <p class="threed-art-extra-services-text">We specialize in creating realistic renderings of your digital models ready to be used in various applications, including gaming, film and television, and even education. Our talented team has years of experience working with digital models created by our clients and other companies and custom projects.</p>
                                 </div>
                             </div>
@@ -744,8 +745,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h4 class="threed-art-extra-services-heading text-center">Lighting and Shading Services</h4>
-                                    <img src="images/services/3d-art/3d-lighting-and-shading-services.webp" alt="Lighting and Shading Services" class="img-fluid my-2">
-                                    <p class="threed-art-extra-services-text">At Futurealiti, lighting is essential to the success of any project. We specialize in 3D art design and have been using lighting to create unique environments and realities for our clients. We offer a wide range of services, from traditional lighting setups to photorealistic rendering. Our team has years of experience creating lighting, lighting design, and shading design.</p>
+                                    <img src="images/services/3d-art/3d-lighting-and-shading-services.webp" alt="Lighting and Shading Services" class="img-fluid my-2 d-block mx-auto">
+                                    <p class="threed-art-extra-services-text">At AppsNation, lighting is essential to the success of any project. We specialize in 3D art design and have been using lighting to create unique environments and realities for our clients. We offer a wide range of services, from traditional lighting setups to photorealistic rendering. Our team has years of experience creating lighting, lighting design, and shading design.</p>
                                 </div>
                             </div>
                         </div>
@@ -757,7 +758,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h4 class="threed-art-extra-services-heading text-center">3D Retopology Services</h4>
-                                    <img src="images/services/3d-art/3d-retopology-services.webp" alt="3D Retopology Services" class="img-fluid my-2">
+                                    <img src="images/services/3d-art/3d-retopology-services.webp" alt="3D Retopology Services" class="img-fluid my-2 d-block mx-auto">
                                     <p class="threed-art-extra-services-text">3D Retopology allows you to create an accurate 3D model of anything and then use that model to create a replica. Our retopology services are designed to help you create beautiful, realistic models of you and other spaces. We will take your existing photos or drawings and use them to create a 3D model that is accurate to the scale of the real thing.</p>
                                 </div>
                             </div>
@@ -1285,8 +1286,8 @@
                         <div class="row">
                             <div class="col-xl-6">
                                 <h2>Hire Dedicated Designers For Your <span>3D Art</span> Project</h2>
-                                <p class="pt-2">If you are looking for a dedicated 3d designer for your 3d art, futurealiti can be your first choice. For our clients, we offer dedicated 3d designers at hourly charges. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+                                <p class="pt-2">If you are looking for a dedicated 3d designer for your 3d art, AppsNation can be your first choice. For our clients, we offer dedicated 3d designers at hourly charges. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
                             </div>
                             <div class="col-xl-6 mt-3">
                                 <div class="row scroller">

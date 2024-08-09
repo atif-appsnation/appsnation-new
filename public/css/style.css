@@ -13176,7 +13176,7 @@ ul.list {
 }
 
 .twod-character-design {
-	background: url(../images/services/2d-art/2d-character-design/2d-character-design-bg.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-character-design-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13231,7 +13231,7 @@ ul.list {
 }
 
 .twod-environment-design {
-	background: url(../images/services/2d-art/2d-environment-design/2d-environment-design-bg.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-environment-design-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13278,7 +13278,7 @@ ul.list {
 }
 
 .twod-game-ui-ux-design {
-	background: url(../images/services/2d-art/2d-game-ui/ux/2d-game-ui-bg.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-game-ui-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13325,7 +13325,7 @@ ul.list {
 }
 
 .twod-concept-art {
-	background: url(../images/services/2d-art/2d-concept-art/2d-concept-art-bg.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-concept-art-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13502,7 +13502,7 @@ ul.list {
 }
 
 .threed-character-design {
-	background: url(../images/services/3d-art/3d-character-design/3d-character-design-bg.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-character-design-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13520,7 +13520,6 @@ ul.list {
 	width: 230px;
 	background-color: #fff;
 	border-radius: 0px;
-	height: 153px;
 }
 
 .threed-character-design .nav-tabs .nav-item .nav-link {
@@ -13558,7 +13557,7 @@ ul.list {
 }
 
 .threed-environment-design {
-	background: url(../images/services/3d-art/3d-game-environment/3d-environment-bg.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-environment-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13576,7 +13575,6 @@ ul.list {
 	width: 230px;
 	background-color: #fff;
 	border-radius: 0px;
-	height: 142px;
 }
 
 .threed-environment-design .nav-tabs .nav-item .nav-link {
@@ -13606,7 +13604,7 @@ ul.list {
 }
 
 .threed-game-assets-design {
-	background: url(../images/services/3d-art/3d-game-assets/3d-game-assets-bg.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-game-assets-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13624,7 +13622,6 @@ ul.list {
 	width: 230px;
 	background-color: #fff;
 	border-radius: 0px;
-	height: 146px;
 }
 
 .threed-game-assets-design .nav-tabs .nav-item .nav-link {
@@ -13654,7 +13651,7 @@ ul.list {
 }
 
 .threed-sculpting-service {
-	background: url(../images/services/3d-art/3d-sculpturing/3d-sculpturing-bg.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-sculpturing-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -14637,22 +14634,10 @@ img {
 } */
 
 
-
 .award-item h5 {
     text-transform: capitalize;
 }
 
-
-/* changes: 
-text for the banner on home page
-digital marketing
-animation services
-3d exterior rendering services
-3d interior rendering services
-2d 3d floor plan services
-2d art
-3d art */
-
-img.img-fluid.d-block.mx-auto {
+/* img.img-fluid.d-block.mx-auto {
     width: 40% !important;
-}
+} */

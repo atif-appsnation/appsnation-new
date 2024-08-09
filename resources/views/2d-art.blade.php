@@ -14,11 +14,11 @@
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest <span> 2D Art Design </span>Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
 					<br><br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/services/2d-art/2d-art-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<img src="images/services/2d-art/2d-art-banner-img.webp" class="img-fluid" alt="2D Android App Development">
 			</div>
 		</div>
 	</div>
@@ -31,7 +31,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeInLeft">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/android-app-development/android-app-development.webp" alt="2D Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
@@ -131,7 +131,7 @@
 					<span>2D Artists</span>
 				</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
+					<i class="fas fa-chevron-right fa"></i>
 					<span class="circle"></span>
 				</a>
 			</div>
@@ -150,11 +150,11 @@
 					@if($k==0)
 
 					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="2D img" class="img-fluid">
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="2D img" class="img-fluid">
 					</div>
 					@endif
 
@@ -200,6 +200,7 @@
 </section>
 <!--End Features-->
 
+<!--Start 2D Character Design -->
 <section class="twod-character-design py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
         <div class="row justify-content-center wow common-heading fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
@@ -212,30 +213,30 @@
             <div class="col-12">
                 <div class="card">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active px-4" data-bs-toggle="tab" href="#realistic">
-                                            <img src="images/services/2d-art/2d-realistic-character-design-icon.webp" alt="2D Realistic Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/realistic-character-design.webp" alt="2D 2D Realistic Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Realistic Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#causal">
-                                            <img src="images/services/2d-art/2d-causal-character-design-icon.webp" alt="2D Causal Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/casual-character-design.webp" alt="2D 2D Causal Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Causal Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#cartoon">
-                                            <img src="images/services/2d-art/2d-cartoon-character-design-icon.webp" alt="2D Cartoon Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/cartoon-character-design.webp" alt="2D 2D Cartoon Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Cartoon Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#stylized">
-                                            <img src="images/services/2d-art/2d-stylized-character-design-icon.webp" alt="2D Stylized Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/stylized-character-design.webp" alt="2D 2D Stylized Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Stylized Character Design</p>
                                         </a>
                                     </li>
@@ -244,28 +245,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="realistic">
-                                        <img src="images/services/2d-art/2d-character-design/realistic-character-design.webp" alt="2D Realistic Character Design" class="img-fluid twod-character-design-img">
+                                        <img src="images/services/2d-art/realistic-character-design.webp" alt="2D 2D Realistic Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Realistic Character Design</h4>
                                             <p class="text-white">Designed from the ground up to be realistic and lifelike, Futurealiti will offer you that detail that makes your character stand out.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="causal">
-                                        <img src="images/services/2d-art/2d-character-design/casual-character-design.webp" alt="2D Causal Character Design" class="img-fluid twod-character-design-img">
+                                        <img src="images/services/2d-art/casual-character-design.webp" alt="2D 2D Causal Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Casual Character Design</h4>
                                             <p class="text-white">Futurealiti creates elegant, informal illustrations that you can use for your next casual project. We are very excited to be able to create outstanding characters for you!</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="cartoon">
-                                        <img src="images/services/2d-art/2d-character-design/cartoon-character-design.webp" alt="2D Cartoon Character Design" class="img-fluid twod-character-design-img">
+                                        <img src="images/services/2d-art/cartoon-character-design.webp" alt="2D 2D Cartoon Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Cartoon Character Design</h4>
                                             <p class="text-white">Futurealiti is a cartoon character design studio that can bring your imagination to life. From a simple idea, every character has its design and personality.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="stylized">
-                                        <img src="images/services/2d-art/2d-character-design/stylized-character-design.webp" alt="2D Stylized Character Design" class="img-fluid twod-character-design-img">
+                                        <img src="images/services/2d-art/stylized-character-design.webp" alt="2D 2D Stylized Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Stylized Character Design</h4>
                                             <p class="text-white">Our characters are not just highly stylized but also full of personality. If you want to make sure that your characters are memorable and stand out, use a stylized design.</p>
@@ -277,7 +278,6 @@
                     </div>
                 </div>
             </div>
-            
         </div>
 
 		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
@@ -289,7 +289,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -298,8 +298,9 @@
 		</div>
     </div>
 </section>
+<!--End 2D Character Design -->
 
-
+<!--Start 2D Environment Design -->
 <section class="twod-environment-design py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
@@ -312,32 +313,32 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row">
+                        <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="game">
-                                        <img src="images/services/2d-art/2d-environment-design/game-environments.webp" alt="2D Game Environment Design" class="img-fluid twod-environment-design-img">
+                                        <img src="images/services/2d-art/game-environments.webp" alt="2D 2D Game Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Game Environments</H4>
                                             <p class="text-white">With our expertise in 3D modeling and texturing, we create environment maps quickly, efficiently, and with high quality, creating an accurate representation of your game world.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="map-levels">
-                                        <img src="images/services/2d-art/2d-environment-design/map-levels.webp" class="img-fluid twod-environment-design-img">
+                                        <img src="images/services/2d-art/map-levels.webp" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Maps &amp; Levels</H4>
                                             <p class="text-white">Our custom maps and levels focus on visual impact, flexibility, adaptability, and consistency within the virtual experience.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="biomes">
-                                        <img src="images/services/2d-art/2d-environment-design/biomes.webp" alt="2D Biomes Environment Design" class="img-fluid twod-environment-design-img">
+                                        <img src="images/services/2d-art/biomes.webp" alt="2D 2D Biomes Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Biomes</H4>
                                             <p class="text-white">Biomes give you a sense of realism by adding colorful, living plants, wandering creatures, plants, and water reflections to your 2D environment.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="urban">
-                                        <img src="images/services/2d-art/2d-environment-design/urban-environments.webp" alt="2D Urban Environment Design" class="img-fluid twod-environment-design-img">
+                                        <img src="images/services/2d-art/urban-environments.webp" alt="2D 2D Urban Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Urban Environments</H4>
                                             <p class="text-white">Our experienced team has years of experience in architectural drawings, 3D Rendering, Animation, Revit Architecture, Autodesk Revit &amp; AutoCAD.</p>
@@ -349,25 +350,25 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link  active px-4" data-bs-toggle="tab" href="#game">
-                                            <img src="images/services/2d-art/2d-game-environment-design-icon.webp" alt="2D Game Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/game-environments.webp" alt="2D Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Environments </p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link  px-4" data-bs-toggle="tab" href="#map-levels">
-                                            <img src="images/services/2d-art/2d-map-environment-design-icon.webp" alt="2D Map Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/map-levels.webp" alt="2D Map Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Maps &amp; Levels</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link  px-4" data-bs-toggle="tab" href="#biomes">
-                                            <img src="images/services/2d-art/2d-biomes-environment-design-icon.webp" alt="2D Biomes Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/biomes-environment.webp" alt="2D Biomes Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Biomes</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link  px-4" data-bs-toggle="tab" href="#urban">
-                                            <img src="images/services/2d-art/2d-urban-environment-design-icon.webp" alt="2D Urban Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/urban-environments.webp" alt="2D Urban Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Urban Environments</p>
                                         </a>
                                     </li>
@@ -388,7 +389,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -397,8 +398,9 @@
 		</div>
     </div>
 </section> 
+<!--End 2D Environment Design -->
 
-
+<!--Start 2D UI UX Design -->
 <section class="twod-game-ui-ux-design py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
@@ -411,30 +413,30 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row  p-lg-4">
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active px-4" data-bs-toggle="tab" href="#ui-ux">
-                                            <img src="images/services/2d-art/2d-mobile-game-app-ui-ux-design-icon.webp" alt="Mobile Game App UI/UX Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/mobile-game-ui-ux.webp" alt="2D Mobile Game App UI/UX Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile Game App UI/UX Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#wireframing">
-                                            <img src="images/services/2d-art/2d-mobile-game-app-wireframing-icon.webp" alt="Mobile Game App Wireframing" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/mobile-game-wireframes.webp" alt="2D Mobile Game App Wireframing" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile Game App Wireframing</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#ar-game">
-                                            <img src="images/services/2d-art/2d-mobile-ar-game-app-design-icon.webp" alt="Mobile AR Game App" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/ar-mobile-games.webp" alt="2D Mobile AR Game App" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile AR Game App</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#vr-game">
-                                            <img src="images/services/2d-art/2d-mobile-vr-game-app-design-icon.webp" alt="Mobile VR Game App" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/vr-mobile-games.webp" alt="2D Mobile VR Game App" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile VR Game App</p>
                                         </a>
                                     </li>
@@ -443,28 +445,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="ui-ux">
-                                        <img src="images/services/2d-art/2d-game-ui/ux/mobile-game-ui-ux.webp" alt="Mobile Game App UI/UX Design" class="img-fluid twod-game-ui-ux-design-img">
+                                        <img src="images/services/2d-art/mobile-game-ui-ux.webp" alt="2D Mobile Game App UI/UX Design" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile Game App UI/UX Design</H4>
                                             <p class="text-white">We specialize in developing mobile app UI/UX for iPhone and iPad, Android phones and Google tablets, Windows Phones, and Xbox 360.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="wireframing">
-                                        <img src="images/services/2d-art/2d-game-ui/ux/mobile-game-wireframes.webp" class="img-fluid twod-game-ui-ux-design-img">
+                                        <img src="images/services/2d-art/mobile-game-wireframes.webp" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile Game App Wireframing</H4>
                                             <p class="text-white">Futurealiti offers the best 2D Game UI/UX designers who can help you design your gaming app wireframe as per the user requirement using the latest technology and design tools.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="ar-game">
-                                        <img src="images/services/2d-art/2d-game-ui/ux/ar-mobile-games.webp" alt="Mobile AR Game App" class="img-fluid twod-game-ui-ux-design-img">
+                                        <img src="images/services/2d-art/ar-mobile-games.webp" alt="2D Mobile AR Game App" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile AR Game App</H4>
                                             <p class="text-white">We provide outstanding game UI/UX and app design services for businesses looking to push themselves forward with AR technology.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="vr-game">
-                                        <img src="images/services/2d-art/2d-game-ui/ux/vr-mobile-games.webp" alt="Mobile VR Game App" class="img-fluid twod-game-ui-ux-design-img">
+                                        <img src="images/services/2d-art/vr-mobile-games.webp" alt="2D Mobile VR Game App" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile VR Game App</H4>
                                             <p class="text-white">With more than 8 years of experience in the field of VR, we offer excellent UI/UX design services for mobile apps, such as Google Cardboard, Hololens, etc.</p>
@@ -487,7 +489,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: hidden; animation-name: none;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" style="visibility: hidden; animation-name: none;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -496,8 +498,9 @@
 		</div>
     </div>
 </section>
+<!--End 2D UI UX Design -->
 
-
+<!--Start 2D Concept Design -->
 <section class="twod-concept-art py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
@@ -510,32 +513,32 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="character">
-                                        <img src="images/services/2d-art/2d-concept-art/character-concept-art.webp" alt="2D Character Concept Art" class="img-fluid twod-concept-art-img">
+                                        <img src="images/services/2d-art/character-concept-art.webp" alt="2D Character Concept Art" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Character Concept Art</H4>
                                             <p class="text-white">Futurealiti provides 2D character concept art to design your next character as a part of your production by creating the best possible blueprint for your character.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="environment">
-                                        <img src="images/services/2d-art/2d-concept-art/environment-concept-art.webp" alt="2D Environment Concept Art" class="img-fluid twod-concept-art-img">
+                                        <img src="images/services/2d-art/environment-concept-art.webp" alt="2D Environment Concept Art" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Environment Concept Art</H4>
                                             <p class="text-white">We provide creative and professional 2D environmental concept art services to help bring your story to life with a richly detailed CG environment.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="level">
-                                        <img src="images/services/2d-art/2d-concept-art/level-design-concept-art.webp" alt="2D Level Design Concept" class="img-fluid twod-concept-art-img">
+                                        <img src="images/services/2d-art/level-design-concept-art.webp" alt="2D Level Design Concept" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Level Design Concept</H4>
                                             <p class="text-white">With our unique style and best 2D artwork, we can create, from inception to completion, a perfect level for your game.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="concept">
-                                        <img src="images/services/2d-art/2d-concept-art/vehicles-and-guns-concept-art.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid twod-concept-art-img">
+                                        <img src="images/services/2d-art/vehicles-and-guns-concept-art.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Concepts of Vehicles, Weapons, and Props</H4>
                                             <p class="text-white">Our skilled art teams can also help create and produce drawings for developing renders, lighting, materials, and animation.</p>
@@ -547,25 +550,25 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active px-4" data-bs-toggle="tab" href="#character">
-                                            <img src="images/services/2d-art/2d-character-concept-art-desgin-icon.webp" alt="Character Concept Art" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/character-concept-art.webp" alt="2D Character Concept Art" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Concept Art</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#environment">
-                                            <img src="images/services/2d-art/2d-environment-concept-art-desgin-icon.webp" alt="Environment Concept Art" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/environment-concept-art.webp" alt="2D Environment Concept Art" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Environment Concept Art</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#level">
-                                            <img src="images/services/2d-art/2d-level-concept-design-icon.webp" alt="2D Level Design Concept" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/level-design-concept-art.webp" alt="2D Level Design Concept" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Level Design Concept</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#concept">
-                                            <img src="images/services/2d-art/2d-vehicles-weapons-concept-art-design-icon.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/2d-art/vehicles-and-guns-concept-art.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Concepts of Vehicles, Weapons, and Props</p>
                                         </a>
                                     </li>
@@ -586,7 +589,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -596,7 +599,6 @@
     </div>
 </section>
 
-
 <section class="service-block">
 	<div class="container">
 		<div class="-cta-btn mt50 mb50">
@@ -605,18 +607,14 @@
 					<span>Your Project</span>
 				</p>
 				<a data-bs-toggle="modal" data-bs-target="#leadModal"  class="btn-main button-arounder lnk">Get Free Consultation
-					<i class="fas fa-chevron-right fa-icon"></i>
+					<i class="fas fa-chevron-right fa"></i>
 					<span class="circle"></span>
 				</a>
 			</div>
 		</div>
 	</div>
 </section>
-
-
-
-
-
+<!--End 2D Concept Design -->
 
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
@@ -702,7 +700,7 @@
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
 				<p>Let's Start a <span>New Project</span> Together</p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
+					<i class="fas fa-chevron-right fa"></i>
 					<span class="circle"></span>
 				</a>
 			</div>
@@ -735,7 +733,7 @@
 					@if($k==0)
 					<li class="active">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="2D ">
 						</a>
 					</li>
 
@@ -743,7 +741,7 @@
 
 					<li>
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="2D ">
 						</a>
 					</li>
 					@endif
@@ -767,7 +765,7 @@
 					@if($k==0)
 					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<img src="uploads/{{$items['image']}}" alt="2D {{$items['heading']}} Logo">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -776,7 +774,7 @@
 					@else
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<img src="uploads/{{$items['image']}}" alt="2D {{$items['heading']}} Logo">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 
 							<p class="mt-4">{{$items['content']}}</p>
@@ -810,19 +808,19 @@
 						<div class="carousel-item active">
 							<div class="row">
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<img src="images/home/google-certifie-agency.webp" alt="2D Google Developers">
 									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<img src="images/home/adobe-logos.webp" alt="2D Adobe Solution Partner">
 									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<img src="images/home/microsoft-certified-partner.webp" alt="2D Microsoft Certified Consulting">
 									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<img src="images/home/amazon-web-services.webp" alt="2D Amazon Web Service">
 									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
@@ -830,19 +828,19 @@
 						<div class="carousel-item">
 							<div class="row">
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<img src="images/home/google-certifie-agency.webp" alt="2D Google Developers">
 									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<img src="images/home/adobe-logos.webp" alt="2D Adobe Solution Partner">
 									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<img src="images/home/microsoft-certified-partner.webp" alt="2D Microsoft Certified Consulting">
 									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<img src="images/home/amazon-web-services.webp" alt="2D Amazon Web Service">
 									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
@@ -850,19 +848,19 @@
 						<div class="carousel-item">
 							<div class="row">
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<img src="images/home/google-certifie-agency.webp" alt="2D Google Developers">
 									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<img src="images/home/adobe-logos.webp" alt="2D Adobe Solution Partner">
 									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<img src="images/home/microsoft-certified-partner.webp" alt="2D Microsoft Certified Consulting">
 									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 								</div>
 								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<img src="images/home/amazon-web-services.webp" alt="2D Amazon Web Service">
 									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
@@ -881,7 +879,7 @@
 		<div class="row wow fadeInLeft">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Android App</span> Development Company</h2>
+					<h2>Ranked as #1 <span>2D Art</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
@@ -962,7 +960,7 @@
 			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
 				<p>We <span>Promise.</span> We <span>Deliver.</span> </p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-					<i class="fas fa-chevron-right fa-icon"></i>
+					<i class="fas fa-chevron-right fa"></i>
 					<span class="circle"></span>
 				</a>
 			</div>
@@ -984,19 +982,19 @@
 				</div>
 				<div class="row mt30 justify-content-center">
 					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".2s">
-						<img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid">
+						<img src="images/about/reviews-icon-1.webp" alt="2D review" class="img-fluid">
 					</a>
 					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".4s">
-						<img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid">
+						<img src="images/about/reviews-icon-2.webp" alt="2D review" class="img-fluid">
 					</a>
 					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s">
-						<img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid">
+						<img src="images/about/reviews-icon-3.webp" alt="2D review" class="img-fluid">
 					</a>
 				</div>
 			</div>
 			<div class="col-lg-7 wow fadeInRight">
 				<div class="pl50">
-					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
+					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="2D shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">
 
 						@foreach($testimonials as $item)
@@ -1006,7 +1004,7 @@
 							</div>
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
+									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="2D girl" class="img-fluid rounded-circle" /> </div> -->
 									<div class="media-body user-info v-center">
 										<h5>{{$item['name']}}</h5>
 										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
@@ -1102,7 +1100,7 @@
 			<div class="col-lg-4 col-sm-6 mt30 wow fadeInUp">
 				<div class="card h-100">
 					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="2D {{$post['post_title']}}" class="img-fluid">
 					</a>
 					<div class="entry-blog-post dg-bg2">
 						<span class="bypost-">
@@ -1130,7 +1128,7 @@
 	<div class="row mb-4 text-center wow fadeInLeft">
 		<div class="col-12">
 			<a href="https://blog.appsnation.co/category/android-app/" class="btn-main button-arounder lnk">View More
-				<i class="fas fa-chevron-right fa-icon"></i>
+				<i class="fas fa-chevron-right fa"></i>
 				<span class="circle"></span>
 			</a>
 		</div>
@@ -1148,14 +1146,14 @@
                             <div class="col-xl-6">
                                 <h2>Hire Dedicated <span>2D</span> Designer</h2>
                                 <p class="pt-2">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients Futurealiti also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
                             </div>
                             <div class="col-xl-6 mt-3">
                                 <div class="row scroller">
                                     <div class="col-sm-6 col-md-6 col-lg-4">
                                         <div class="card stack-hov">
                                             <div class="card-body">
-                                                <img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
+                                                <img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="2D Photoshop">
                                                 <p class="text-center pt-2">Photoshop</p>
                                             </div>
                                         </div>
@@ -1163,7 +1161,7 @@
                                     <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-md-0">
                                         <div class="card stack-hov">
                                             <div class="card-body">
-                                                <img src="images/tech/illustrator-logo.webp" class="img-fluid d-block mx-auto" alt="Illustrator">
+                                                <img src="images/tech/illustrator-logo.webp" class="img-fluid d-block mx-auto" alt="2D Illustrator">
                                                 <p class="text-center pt-2">Illustrator</p>
                                             </div>
                                         </div>
@@ -1171,7 +1169,7 @@
                                     <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
                                         <div class="card stack-hov">
                                             <div class="card-body">
-                                                <img src="images/tech/after-effects-logo.webp" class="img-fluid d-block mx-auto" alt="After Effects">
+                                                <img src="images/tech/after-effects-logo.webp" class="img-fluid d-block mx-auto" alt="2D After Effects">
                                                 <p class="text-center pt-2">After Effects</p>
                                             </div>  
                                         </div>
@@ -1179,7 +1177,7 @@
                                     <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
                                         <div class="card stack-hov">
                                             <div class="card-body">
-                                                <img src="images/tech/xd-logo.webp" class="img-fluid d-block mx-auto" alt="XD">
+                                                <img src="images/tech/xd-logo.webp" class="img-fluid d-block mx-auto" alt="2D XD">
                                                 <p class="text-center pt-2">XD</p>
                                             </div>
                                         </div>
@@ -1187,7 +1185,7 @@
                                     <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
                                         <div class="card stack-hov">
                                             <div class="card-body">
-                                                <img src="images/tech/figma-logo.webp" class="img-fluid d-block mx-auto" alt="Figma">
+                                                <img src="images/tech/figma-logo.webp" class="img-fluid d-block mx-auto" alt="2D Figma">
                                                 <p class="text-center pt-2">Figma</p>
                                             </div>
                                         </div>

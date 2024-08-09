@@ -213,30 +213,30 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#c-game">
-                                            <img src="images/services/3d-art/3d-game-character-design-icon.webp" alt="3D Game Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#c-cartoon">
-                                            <img src="images/services/3d-art/3d-cartoon-character-design-icon.webp" alt="3D Cartoon Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Cartoon Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#photorealistic">
-                                            <img src="images/services/3d-art/3d-photorealistic-character-design-icon.webp" alt="3D Photorealistic Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Photorealistic Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4 active" data-bs-toggle="tab" href="#character">
-                                            <img src="images/services/3d-art/3d-characters-design-icon.webp" alt="3D Character Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Design</p>
                                         </a>
                                     </li>
@@ -245,28 +245,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="c-game">
-                                        <img src="images/services/3d-art/3d-character-design/game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img w-100">
+                                        <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Character Design</h3>
                                             <p class="text-white">Imagine your character in the next big hit game being anything you like with AppsNation. You can be a doctor, a student, or even a zombie!</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="c-cartoon">
-                                        <img src="images/services/3d-art/3d-character-design/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid threed-character-design-img w-100">
+                                        <img src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Cartoon Character Design</h3>
                                             <p class="text-white">The character designer and animator from AppsNation has a wealth of experience and knowledge in designing cartoons for movies, TV, web pages, and other visual elements.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="photorealistic">
-                                        <img src="images/services/3d-art/3d-character-design/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid threed-character-design-img w-100">
+                                        <img src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Photorealistic Character Design</h3>
                                             <p class="text-white">We create realistic characters with a photorealistic look thanks to scanned costumes and natural hair and body rendering.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade active show" id="character">
-                                        <img src="images/services/3d-art/3d-character-design/character-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img w-100">
+                                        <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Design</h3>
                                             <p class="text-white">We create fully animated characters equipped with a wide range of tools, such as facial expressions, eye shading, and lip gloss.</p>
@@ -313,32 +313,32 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="e-game">
-                                        <img src="images/services/3d-art/3d-game-environment/game-environment.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img w-100">
+                                        <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Environment</h3>
                                             <p class="text-white">Our 3D artists can create realistic game environments and prototypes that capture your audience's attention. Build your worlds to engage and immerse players.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="e-cartoon">
-                                        <img src="images/services/3d-art/3d-game-environment/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid threed-environment-design-img w-100">
+                                        <img src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Cartoon Game Environment</h3>
                                             <p class="text-white">One of our core competencies is to create cartoon-like environments for complex projects. The team will develop unique and flawless 3D cartoon environments into the game with crisp textures.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="argame">
-                                        <img src="images/services/3d-art/3d-game-environment/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid threed-environment-design-img w-100">
+                                        <img src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">AR Game Environment</h3>
                                             <p class="text-white">We offer a full suite of 3D environment design services for AR games, from the highest quality mockups to in-game interactive environments.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade active show" id="vrgame">
-                                        <img src="images/services/3d-art/3d-game-environment/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img w-100">
+                                        <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">VR Game Environment</h3>
                                             <p class="text-white">We use the latest 3D and VR technology to design a complete environment representing your game and world, offering players an immersive and interactive experience.</p>
@@ -350,25 +350,25 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#e-game">
-                                            <img src="images/services/3d-art/3d-game-environment-design-icon.webp" alt="3D Game Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#e-cartoon">
-                                            <img src="images/services/3d-art/3d-cartoon-game-environment-design-icon.webp" alt="3D Cartoon Game Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Cartoon Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#argame">
-                                            <img src="images/services/3d-art/3d-ar-game-environment-design-icon.webp" alt="3D AR Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">AR Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4 active" data-bs-toggle="tab" href="#vrgame">
-                                            <img src="images/services/3d-art/3d-vr-game-environment-design-icon.webp" alt="3D VR Environment Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">VR Game Environment</p>
                                         </a>
                                     </li>
@@ -413,30 +413,30 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#ui-ux">
-                                            <img src="images/services/3d-art/3d-game-weapon-design-icon.webp" alt="3D Game Weapon Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Game Weapon Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#wireframing">
-                                            <img src="images/services/3d-art/3d-game-vehicles-design-icon.webp" alt="3D Game Vehicle Design" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Game Vehicle Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#ar-game">
-                                            <img src="images/services/3d-art/3d-game-product-modeling-icon.webp" alt="Product Modeling" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Product Modeling</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4 active" data-bs-toggle="tab" href="#vr-game">
-                                            <img src="images/services/3d-art/3d-game-modeling-for-nft-icon.webp" alt="3D Modeling for NFT" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Modeling for NFT</p>
                                         </a>
                                     </li>
@@ -445,28 +445,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container" id="ui-ux">
-                                        <img src="images/services/3d-art/3d-game-assets/3d-game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img w-100">
+                                        <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Weapon Design</h3>
                                             <p class="text-white">With years of experience, we are ready to design weapon models with the core of 3D game technology to bring them to life.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="wireframing">
-                                        <img src="images/services/3d-art/3d-game-assets/3d-game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid threed-game-assets-design-img w-100">
+                                        <img src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Vehicle Design</h3>
                                             <p class="text-white">Our design team can take your concept or ideas and create realistic and stunning 3D car models with cutting-edge technology.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="ar-game">
-                                        <img src="images/services/3d-art/3d-game-assets/product-modeling.webp" alt="Product Modeling" class="img-fluid threed-game-assets-design-img w-100">
+                                        <img src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Product Modeling</h3>
                                             <p class="text-white">We focus on smooth and high-resolution 3D modeling to give your product the best possible appearance.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade active show" id="vr-game">
-                                        <img src="images/services/3d-art/3d-game-assets/3d-modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img w-100">
+                                        <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Modeling for NFT</h3>
                                             <p class="text-white">With outstanding expertise in 3D modeling for NFT, we can design your models based on your pictures, ideas, or requirements.</p>
@@ -513,25 +513,25 @@
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row ">
+                        <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container fade active show" id="s-character">
-                                        <img src="images/services/3d-art/3d-sculpturing/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img w-100">
+                                        <img src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Sculpting</h3>
                                             <p class="text-white">We are a top-of-the-line character sculpting company. Our highly trained sculptors can create and mold any 3D character model of your design.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="s-environment">
-                                        <img src="images/services/3d-art/3d-sculpturing/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid threed-sculpting-service-img w-100">
+                                        <img src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Environment Sculpting</h3>
                                             <p class="text-white">AppsNation is a pioneer of 3D sculpting services, specializing in delivering clients realistic environmental and building models that they can use to drive good design processes.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="props">
-                                        <img src="images/services/3d-art/3d-sculpturing/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid threed-sculpting-service-img w-100">
+                                        <img src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Pros Sculpting</h3>
                                             <p class="text-white">We are a professional 3D props sculpting service company that offers expertise in photographic sculpting and the ability to visualize your ideas with real-world accuracy.</p>
@@ -543,19 +543,19 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link px-4 active" data-bs-toggle="tab" href="#s-character">
-                                            <img src="images/services/3d-art/3d-environment-sculpting-service-icon.webp" alt="3D Character Sculpting" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Sculpting</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#s-environment">
-                                            <img src="images/services/3d-art/3d-character-sculpting-service-icon.webp" alt="3D Environment Sculpting" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Environment Sculpting</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link px-4" data-bs-toggle="tab" href="#props">
-                                            <img src="images/services/3d-art/3d-pros-sculpting-service-icon.webp" alt="3D Pros Sculpting" class="img-fluid d-block mx-auto">
+                                            <img src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Pros Sculpting</p>
                                         </a>
                                     </li>

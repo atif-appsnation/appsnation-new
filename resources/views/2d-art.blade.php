@@ -12,9 +12,9 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
 				<div class="bread-titlev2 common-heading">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest <span> 2D Art Design </span>Development</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
 					<br><br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeInRight">
@@ -39,8 +39,8 @@
 					<!-- <span>Overview</span> -->
 					<h2>Elevate Your Brand with Our <br> <span class="flup-theme">Custom 2D Art Design Services</span></h2>
 					<p><strong>Craft Your Visual Story with Exquisite 2D Art</strong></p>
-					<p>AppsNation combines traditional artistry with modern techniques to bring your vision to life. Our 2D art design services are crafted to enhance your brand's visual appeal, helping you stand out in a crowded market.</p>
-					<p>Transform your ideas into beautiful, functional art with AppsNation. Let us help you create a lasting impression through exceptional 2D design.</p>
+					<p>Futurealiti combines traditional artistry with modern techniques to bring your vision to life. Our 2D art design services are crafted to enhance your brand's visual appeal, helping you stand out in a crowded market.</p>
+					<p>Transform your ideas into beautiful, functional art with Futurealiti. Let us help you create a lasting impression through exceptional 2D design.</p>
 				</div>
 			</div>
 		</div>
@@ -202,17 +202,17 @@
 
 <section class="twod-character-design py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
-        <div class="row justify-content-center wow common-heading fadeInDown mt-3" >
+        <div class="row justify-content-center wow common-heading fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>2D Character</span> Design</h2>
-                <p class="text-center text-white">Create high-quality 2D character designs in a snap with AppsNation. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
+                <p class="text-center text-white">Create high-quality 2D character designs in a snap with Futurealiti. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp">
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
@@ -244,28 +244,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="realistic">
-                                        <img src="images/services/2d-art/2d-realistic-character-design.webp" alt="2D Realistic Character Design" class="img-fluid twod-character-design-img w-100">
+                                        <img src="images/services/2d-art/2d-character-design/realistic-character-design.webp" alt="2D Realistic Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Realistic Character Design</h4>
-                                            <p class="text-white">Designed from the ground up to be realistic and lifelike, AppsNation will offer you that detail that makes your character stand out.</p>
+                                            <p class="text-white">Designed from the ground up to be realistic and lifelike, Futurealiti will offer you that detail that makes your character stand out.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="causal">
-                                        <img src="images/services/2d-art/2d-causal-character-design.webp" alt="2D Causal Character Design" class="img-fluid twod-character-design-img w-100">
+                                        <img src="images/services/2d-art/2d-character-design/casual-character-design.webp" alt="2D Causal Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Casual Character Design</h4>
-                                            <p class="text-white">AppsNation creates elegant, informal illustrations that you can use for your next casual project. We are very excited to be able to create outstanding characters for you!</p>
+                                            <p class="text-white">Futurealiti creates elegant, informal illustrations that you can use for your next casual project. We are very excited to be able to create outstanding characters for you!</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="cartoon">
-                                        <img src="images/services/2d-art/2d-cartoon-character-design.webp" alt="2D Cartoon Character Design" class="img-fluid twod-character-design-img w-100">
+                                        <img src="images/services/2d-art/2d-character-design/cartoon-character-design.webp" alt="2D Cartoon Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Cartoon Character Design</h4>
-                                            <p class="text-white">AppsNation is a cartoon character design studio that can bring your imagination to life. From a simple idea, every character has its design and personality.</p>
+                                            <p class="text-white">Futurealiti is a cartoon character design studio that can bring your imagination to life. From a simple idea, every character has its design and personality.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="stylized">
-                                        <img src="images/services/2d-art/2d-stylized-character-design.webp" alt="2D Stylized Character Design" class="img-fluid twod-character-design-img w-100">
+                                        <img src="images/services/2d-art/2d-character-design/stylized-character-design.webp" alt="2D Stylized Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Stylized Character Design</h4>
                                             <p class="text-white">Our characters are not just highly stylized but also full of personality. If you want to make sure that your characters are memorable and stand out, use a stylized design.</p>
@@ -280,7 +280,7 @@
             
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" >
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
 				<div class="card twod-consultant-card">
 					<div class="card-body">
@@ -288,8 +288,8 @@
 							<div class="col-md-6 my-auto text-xl-center">
 								<p>Get Your Free Consultation</p>
 							</div>
-							<div class="col-md-6 mt-3 my-md-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -302,42 +302,42 @@
 
 <section class="twod-environment-design py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" >
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>2D Environment</span> Design</h2>
                 <p class="text-center text-white">We create exceptional 2D environments for your next business campaign, ad campaign, or product video. Our services are about creating environments that match your business needs!</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp">
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="game">
-                                        <img src="images/services/2d-art/2d-game-environment-design.webp" alt="2D Game Environment Design" class="img-fluid twod-environment-design-img w-100">
+                                        <img src="images/services/2d-art/2d-environment-design/game-environments.webp" alt="2D Game Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Game Environments</H4>
                                             <p class="text-white">With our expertise in 3D modeling and texturing, we create environment maps quickly, efficiently, and with high quality, creating an accurate representation of your game world.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="map-levels">
-                                        <img src="images/services/2d-art/2d-map-environment-design.webp" alt="2D Map Environment Design" class="img-fluid twod-environment-design-img w-100">
+                                        <img src="images/services/2d-art/2d-environment-design/map-levels.webp" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Maps &amp; Levels</H4>
                                             <p class="text-white">Our custom maps and levels focus on visual impact, flexibility, adaptability, and consistency within the virtual experience.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="biomes">
-                                        <img src="images/services/2d-art/2d-biomes-environment-design.webp" alt="2D Biomes Environment Design" class="img-fluid twod-environment-design-img w-100">
+                                        <img src="images/services/2d-art/2d-environment-design/biomes.webp" alt="2D Biomes Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Biomes</H4>
                                             <p class="text-white">Biomes give you a sense of realism by adding colorful, living plants, wandering creatures, plants, and water reflections to your 2D environment.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="urban">
-                                        <img src="images/services/2d-art/2d-urban-environment-design.webp" alt="2D Urban Environment Design" class="img-fluid twod-environment-design-img w-100">
+                                        <img src="images/services/2d-art/2d-environment-design/urban-environments.webp" alt="2D Urban Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Urban Environments</H4>
                                             <p class="text-white">Our experienced team has years of experience in architectural drawings, 3D Rendering, Animation, Revit Architecture, Autodesk Revit &amp; AutoCAD.</p>
@@ -345,7 +345,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-3 my-lg-auto">
+                            <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link  active px-4" data-bs-toggle="tab" href="#game">
@@ -379,7 +379,7 @@
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" >
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
 				<div class="card twod-consultant-card">
 					<div class="card-body">
@@ -387,8 +387,8 @@
 							<div class="col-md-6 my-auto text-xl-center">
 								<p>Get Your Free Consultation</p>
 							</div>
-							<div class="col-md-6 mt-3 my-md-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -401,17 +401,17 @@
 
 <section class="twod-game-ui-ux-design py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" >
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>2D Game UI/UX</span> Design</h2>
-                <p class="text-center text-white">AppsNation is a 2D game UI/UX design agency focused on creating great interfaces for games and apps. We can work with you to define a strategy that fits your business needs.</p>
+                <p class="text-center text-white">Appsnation is a 2D game UI/UX design agency focused on creating great interfaces for games and apps. We can work with you to define a strategy that fits your business needs.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp">
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
@@ -443,28 +443,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="ui-ux">
-                                        <img src="images/services/2d-art/2d-mobile-game-app-ui-ux-design.webp" alt="Mobile Game App UI/UX Design" class="img-fluid twod-game-ui-ux-design-img w-100">
+                                        <img src="images/services/2d-art/2d-game-ui/ux/mobile-game-ui-ux.webp" alt="Mobile Game App UI/UX Design" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile Game App UI/UX Design</H4>
                                             <p class="text-white">We specialize in developing mobile app UI/UX for iPhone and iPad, Android phones and Google tablets, Windows Phones, and Xbox 360.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="wireframing">
-                                        <img src="images/services/2d-art/2d-mobile-game-app-wireframing.webp" alt="Mobile Game App Wireframing" class="img-fluid twod-game-ui-ux-design-img w-100">
+                                        <img src="images/services/2d-art/2d-game-ui/ux/mobile-game-wireframes.webp" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile Game App Wireframing</H4>
-                                            <p class="text-white">AppsNation offers the best 2D Game UI/UX designers who can help you design your gaming app wireframe as per the user requirement using the latest technology and design tools.</p>
+                                            <p class="text-white">Futurealiti offers the best 2D Game UI/UX designers who can help you design your gaming app wireframe as per the user requirement using the latest technology and design tools.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="ar-game">
-                                        <img src="images/services/2d-art/2d-mobile-ar-game-app-design.webp" alt="Mobile AR Game App" class="img-fluid twod-game-ui-ux-design-img w-100">
+                                        <img src="images/services/2d-art/2d-game-ui/ux/ar-mobile-games.webp" alt="Mobile AR Game App" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile AR Game App</H4>
                                             <p class="text-white">We provide outstanding game UI/UX and app design services for businesses looking to push themselves forward with AR technology.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="vr-game">
-                                        <img src="images/services/2d-art/2d-mobile-vr-game-app-design.webp" alt="Mobile VR Game App" class="img-fluid twod-game-ui-ux-design-img w-100">
+                                        <img src="images/services/2d-art/2d-game-ui/ux/vr-mobile-games.webp" alt="Mobile VR Game App" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile VR Game App</H4>
                                             <p class="text-white">With more than 8 years of experience in the field of VR, we offer excellent UI/UX design services for mobile apps, such as Google Cardboard, Hololens, etc.</p>
@@ -478,7 +478,7 @@
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" >
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: hidden; animation-name: none;">
 			<div class="col-12">
 				<div class="card twod-consultant-card">
 					<div class="card-body">
@@ -486,8 +486,8 @@
 							<div class="col-md-6 my-auto text-xl-center">
 								<p>Get Your Free Consultation</p>
 							</div>
-							<div class="col-md-6 mt-3 my-md-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+							<div class="col-md-6 my-auto text-xl-center">
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: hidden; animation-name: none;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -500,42 +500,42 @@
 
 <section class="twod-concept-art py-3 py-md-3 py-lg-5" id="services">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" >
+        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>2D Concept Art</span> Design</h2>
-                <p class="text-center text-white">AppsNation is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
+                <p class="text-center text-white">Futurealiti is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp">
+        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
-                        <div class="row p-lg-4">
+                        <div class="row ">
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="character">
-                                        <img src="images/services/2d-art/2d-character-concept-art-desgin.webp" alt="2D Character Concept Art" class="img-fluid twod-concept-art-img w-100">
+                                        <img src="images/services/2d-art/2d-concept-art/character-concept-art.webp" alt="2D Character Concept Art" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Character Concept Art</H4>
-                                            <p class="text-white">AppsNation provides 2D character concept art to design your next character as a part of your production by creating the best possible blueprint for your character.</p>
+                                            <p class="text-white">Futurealiti provides 2D character concept art to design your next character as a part of your production by creating the best possible blueprint for your character.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="environment">
-                                        <img src="images/services/2d-art/2d-environment-concept-art-desgin.webp" alt="2D Environment Concept Art" class="img-fluid twod-concept-art-img w-100">
+                                        <img src="images/services/2d-art/2d-concept-art/environment-concept-art.webp" alt="2D Environment Concept Art" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Environment Concept Art</H4>
                                             <p class="text-white">We provide creative and professional 2D environmental concept art services to help bring your story to life with a richly detailed CG environment.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="level">
-                                        <img src="images/services/2d-art/2d-level-concept-design.webp" alt="2D Level Design Concept" class="img-fluid twod-concept-art-img w-100">
+                                        <img src="images/services/2d-art/2d-concept-art/level-design-concept-art.webp" alt="2D Level Design Concept" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Level Design Concept</H4>
                                             <p class="text-white">With our unique style and best 2D artwork, we can create, from inception to completion, a perfect level for your game.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="concept">
-                                        <img src="images/services/2d-art/2d-vehicles-weapons-concept-art-design.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid twod-concept-art-img w-100">
+                                        <img src="images/services/2d-art/2d-concept-art/vehicles-and-guns-concept-art.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Concepts of Vehicles, Weapons, and Props</H4>
                                             <p class="text-white">Our skilled art teams can also help create and produce drawings for developing renders, lighting, materials, and animation.</p>
@@ -577,7 +577,7 @@
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" >
+		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 			<div class="col-12">
 				<div class="card twod-consultant-card">
 					<div class="card-body">
@@ -586,7 +586,7 @@
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -1140,15 +1140,15 @@
 
 <section class="hire-developers py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center wow fadeInDown" >
+        <div class="row justify-content-center wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
             <div class="col-12">
                 <div class="card py-3">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-xl-6">
                                 <h2>Hire Dedicated <span>2D</span> Designer</h2>
-                                <p class="pt-2">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients AppsNation also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+                                <p class="pt-2">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients Futurealiti also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
                             </div>
                             <div class="col-xl-6 mt-3">
                                 <div class="row scroller">

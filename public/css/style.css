@@ -13176,7 +13176,7 @@ ul.list {
 }
 
 .twod-character-design {
-	background: url(../images/services/2d-art/2d-character-design-banner.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-character-design/2d-character-design-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13231,7 +13231,7 @@ ul.list {
 }
 
 .twod-environment-design {
-	background: url(../images/services/2d-art/2d-environment-design-banner.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-environment-design/2d-environment-design-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13278,7 +13278,7 @@ ul.list {
 }
 
 .twod-game-ui-ux-design {
-	background: url(../images/services/2d-art/2d-game-ui-ux-desgin-banner.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-game-ui/ux/2d-game-ui-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13325,7 +13325,7 @@ ul.list {
 }
 
 .twod-concept-art {
-	background: url(../images/services/2d-art/2d-concept-art-design-banner.webp) no-repeat fixed;
+	background: url(../images/services/2d-art/2d-concept-art/2d-concept-art-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13502,7 +13502,7 @@ ul.list {
 }
 
 .threed-character-design {
-	background: url(../images/services/3d-art/3d-character-design-banner.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-character-design/3d-character-design-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13558,7 +13558,7 @@ ul.list {
 }
 
 .threed-environment-design {
-	background: url(../images/services/3d-art/3d-environment-design-banner.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-game-environment/3d-environment-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13606,7 +13606,7 @@ ul.list {
 }
 
 .threed-game-assets-design {
-	background: url(../images/services/3d-art/3d-game-assets-design-banner.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-game-assets/3d-game-assets-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -13654,7 +13654,7 @@ ul.list {
 }
 
 .threed-sculpting-service {
-	background: url(../images/services/3d-art/3d-sculpting-service-banner.webp) no-repeat fixed;
+	background: url(../images/services/3d-art/3d-sculpturing/3d-sculpturing-bg.webp) no-repeat fixed;
 	background-size: cover;
 }
 
@@ -14653,3 +14653,6 @@ animation services
 2d art
 3d art */
 
+img.img-fluid.d-block.mx-auto {
+    width: 40% !important;
+}

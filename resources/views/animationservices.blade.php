@@ -212,7 +212,7 @@
 			<div class="col-lg-6 wow fadeInRight my-auto" style="visibility: visible; animation-name: fadeInRight;">
 				<h2><span>Motion Graphic</span> Services</h2>
 				<p class="pt-2">Our motion graphic services enable you to add an appealing graphical element to your product pages to pique your customers' interest and send that all-important purchase decision their way. We offer a variety of motion graphics, visual effects, and design services to assist you in developing dynamic brand events or productions.</p>
-				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Let's Start Your Project</a>
+				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Let's Start Your Project</a>
 			</div>
 		</div>
 	</div>
@@ -434,88 +434,6 @@
 	</div>
 </section>
 <!--End Process-->
-
-<!--Start Tech-->
-<div class="techonology-used- py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Technology Stack</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
-					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-md-5 wow fadeInLeft">
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@foreach($techstack as $k=>$item)
-
-					@if($k==0)
-					<li class="active">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
-						</a>
-					</li>
-
-					@else
-
-					<li>
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
-						</a>
-					</li>
-					@endif
-
-					@if(($k+1)%3==0 )
-					@if($k==0)
-
-					@else
-				</ul>
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@endif
-					@endif
-					@endforeach
-				</ul>
-			</div>
-
-			<div class="col-md-7 my-auto wow fadeInRight">
-				<div class="tab-content tab-body">
-
-					@foreach($techstack as $k=>$items)
-					@if($k==0)
-					<div id="a{{$items['id']}}" class="tab-pane fade in active">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@else
-					<div id="a{{$items['id']}}" class="tab-pane fade">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@endif
-
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Tech-->
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
@@ -840,9 +758,7 @@
                         <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Depending on the style of video you want, the cost of an animated video can range from hundreds to tens of thousands of dollars.
-
-Furthermore, the length and intricacy of a video are the primary elements that influence its pricing. Scripting, storyboarding, voice-overs, and animation all cost more the longer or more complicated they are.</p>
+                                    <p>Depending on the style of video you want, the cost of an animated video can range from hundreds to tens of thousands of dollars. Furthermore, the length and intricacy of a video are the primary elements that influence its pricing. Scripting, storyboarding, voice-overs, and animation all cost more the longer or more complicated they are.</p>
                                 </div>
                             </div>
                         </div>
@@ -870,10 +786,7 @@ Furthermore, the length and intricacy of a video are the primary elements that i
                         <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Our voice artists can do any accent or language to meet your animation and video demands, and they are available in over 35 languages from around the world.
-
-Contact us whenever you want a professional voice-over for your website, app, or music to learn more about our reasonable pricing and quick turnaround.</p>
-									
+                                    <p>Our voice artists can do any accent or language to meet your animation and video demands, and they are available in over 35 languages from around the world. Contact us whenever you want a professional voice-over for your website, app, or music to learn more about our reasonable pricing and quick turnaround.</p>
                                 </div>
                             </div>
                         </div>
@@ -885,57 +798,5 @@ Contact us whenever you want a professional voice-over for your website, app, or
     </div>
 </section>
 <!-- End FAQS -->
-
-<!--Start Blogs-->
-<section class="blogs-section py-5">
-@if($data['status'] && count($data['data']) > 0)
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
-					<h2 class="mb30">Latest Stories</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			@foreach($data['data'] as $post)
-			<div class="col-lg-4 col-sm-6 mt30 wow fadeInUp">
-				<div class="card h-100">
-					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
-					</a>
-					<div class="entry-blog-post dg-bg2">
-						<span class="bypost-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-tag"></i> Appsnation</a>
-						</span>
-						<span class="posted-on-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}</a>
-						</span>
-					</div>
-					<div class="card-body">
-						<h4 class="mb-0">
-							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
-						</h4>
-					</div>
-				</div>
-			</div>
-			@endforeach
-			@else
-		</div>
-	</div>
-	@endif
-</section>
-
-<div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
-		<div class="col-12">
-			<a href="https://blog.appsnation.co/category/android-app/" class="btn-main button-arounder lnk">View More
-				<i class="fas fa-chevron-right fa-icon"></i>
-				<span class="circle"></span>
-			</a>
-		</div>
-	</div>
-</div>
-<!--End Blogs-->
 
 @endsection

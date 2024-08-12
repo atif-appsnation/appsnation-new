@@ -270,7 +270,7 @@
                             <h3 class="common-heading">SEO (Search Engine Optimization)</h3>
                             <p>A good SEO strategy will make sure that your site is found by as many people as possible. By having a good SEO strategy, you will be able to generate leads and increase your sales. For Good SEO you need SEO experts who can brings your website on Google's top rankings like our Experts do.</p>
                             <div class="hire-button mt-3">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
                             </div>
                         <!-- </div> -->
                     </div>
@@ -285,7 +285,7 @@
                         <h3 class="common-heading">Content Marketing</h3>
                         <p>Many companies are using content marketing to promote their products and services. Content marketing gives them the chance to tell their story and create a relationship with their audience. If you want to promote your business, you can use content marketing. Content marketing is a great strategy. Content marketing can help you to reach out to a wide audience.</p>
                         <div class="hire-button mt-3">
-                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
@@ -305,7 +305,7 @@
                         <h3 class="common-heading">SMM (Social Media Marketing)</h3>
                         <p>Social media marketing is a very popular form of marketing today. Using the Internet and social media is a great way to generate traffic to your website. It also allows you to interact directly with your customers. AppsNation has the best and most experienced Social media marketer who can help your brand in order to get awareness.</p>
                         <div class="hire-button mt-3">
-                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -319,7 +319,7 @@
                         <h3 class="common-heading">Advertisement</h3>
                         <p>When we take about the advertisement in digital marketing so, first two names comes our mind google ads and fb ads.Both ads have their own value.Fb ads are best for branding and target base marketing while google ads is best for local base businesses or already existing services or products.We have FB &amp; Google ads experts who can give you unlimited leads and sales.</p>
                         <div class="hire-button mt-3">
-                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
@@ -331,66 +331,6 @@
     </div>
 </section>
 <!--End Service-->
-
-<!--Start Features-->
-<section class="features-section-app dark-bg2 py-5">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
-				<div class="tab-content" id="imagetab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@endif
-
-					@endforeach
-
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
-				<h2>Industries We Serve</h2>
-				<p class="py-3">We are the best digital marketing company in USA. We offer complete digital marketing services like SEO, SMO, PPC, Social Media Marketing (SMM), and many more. We have worked with various businesses and helped them to grow their online presence.</p>
-				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
-				</ul>
-				<div class="tab-content pt-3" id="texttab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@endif
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Features-->
 
 <!--Start Why Choose-->
 <section class="why-choose bg-gradient3 py-5">
@@ -531,7 +471,7 @@
 <!--End Process-->
 
 <!--Start Tech-->
-<div class="techonology-used- py-5">
+<!-- <div class="techonology-used- py-5">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6">
@@ -609,7 +549,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--End Tech-->
 
 <!-- Start Technologies -->
@@ -700,7 +640,7 @@
 		<div class="row wow fadeInLeft">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Android App</span> Development Company</h2>
+					<h2>Ranked as #1 <span>Digital Marketing</span> Company</h2>
 				</div>
 			</div>
 		</div>
@@ -938,57 +878,5 @@
     </div>
 </section>
 <!-- End FAQS -->
-
-<!--Start Blogs-->
-<section class="blogs-section py-5">
-@if($data['status'] && count($data['data']) > 0)
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
-					<h2 class="mb30">Latest Stories</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			@foreach($data['data'] as $post)
-			<div class="col-lg-4 col-sm-6 mt30 wow fadeInUp">
-				<div class="card h-100">
-					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
-					</a>
-					<div class="entry-blog-post dg-bg2">
-						<span class="bypost-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-tag"></i> Appsnation</a>
-						</span>
-						<span class="posted-on-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}</a>
-						</span>
-					</div>
-					<div class="card-body">
-						<h4 class="mb-0">
-							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
-						</h4>
-					</div>
-				</div>
-			</div>
-			@endforeach
-			@else
-		</div>
-	</div>
-	@endif
-</section>
-
-<div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
-		<div class="col-12">
-			<a href="https://blog.appsnation.co/category/android-app/" class="btn-main button-arounder lnk">View More
-				<i class="fas fa-chevron-right fa-icon"></i>
-				<span class="circle"></span>
-			</a>
-		</div>
-	</div>
-</div>
-<!--End Blogs-->
 
 @endsection

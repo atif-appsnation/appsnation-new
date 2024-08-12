@@ -217,7 +217,7 @@
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#c-game">
+                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#c-game">
                                             <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Character Design</p>
                                         </a>
@@ -235,7 +235,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#character">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#character">
                                             <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Design</p>
                                         </a>
@@ -244,7 +244,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="tab-content">
-                                    <div class="tab-pane container" id="c-game">
+                                    <div class="tab-pane container active" id="c-game">
                                         <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Character Design</h3>
@@ -265,7 +265,7 @@
                                             <p class="text-white">We create realistic characters with a photorealistic look thanks to scanned costumes and natural hair and body rendering.</p>
                                         </div>
                                     </div>
-                                    <div class="tab-pane container fade active show" id="character">
+                                    <div class="tab-pane container fade" id="character">
                                         <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Design</h3>
@@ -316,7 +316,7 @@
                         <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
-                                    <div class="tab-pane container" id="e-game">
+                                    <div class="tab-pane container active" id="e-game">
                                         <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Environment</h3>
@@ -337,7 +337,7 @@
                                             <p class="text-white">We offer a full suite of 3D environment design services for AR games, from the highest quality mockups to in-game interactive environments.</p>
                                         </div>
                                     </div>
-                                    <div class="tab-pane container fade active show" id="vrgame">
+                                    <div class="tab-pane container fade" id="vrgame">
                                         <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">VR Game Environment</h3>
@@ -349,7 +349,7 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#e-game">
+                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#e-game">
                                             <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Environment</p>
                                         </a>
@@ -367,7 +367,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#vrgame">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#vrgame">
                                             <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">VR Game Environment</p>
                                         </a>
@@ -417,7 +417,7 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#ui-ux">
+                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#ui-ux">
                                             <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Game Weapon Design</p>
                                         </a>
@@ -435,7 +435,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#vr-game">
+                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#vr-game">
                                             <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Modeling for NFT</p>
                                         </a>
@@ -444,7 +444,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="tab-content">
-                                    <div class="tab-pane container" id="ui-ux">
+                                    <div class="tab-pane container active" id="ui-ux">
                                         <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Weapon Design</h3>
@@ -465,7 +465,7 @@
                                             <p class="text-white">We focus on smooth and high-resolution 3D modeling to give your product the best possible appearance.</p>
                                         </div>
                                     </div>
-                                    <div class="tab-pane container fade active show" id="vr-game">
+                                    <div class="tab-pane container fade" id="vr-game">
                                         <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Modeling for NFT</h3>
@@ -516,7 +516,7 @@
                         <div class="row p-lg-4">
                         <div class="col-lg-6">
                                 <div class="tab-content">
-                                    <div class="tab-pane container fade active show" id="s-character">
+                                    <div class="tab-pane container active" id="s-character">
                                         <img src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img w-100">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Sculpting</h3>

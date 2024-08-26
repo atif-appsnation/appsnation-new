@@ -1,114 +1,10 @@
 @extends('app.main')
 @section('content')
 
-
-
-
-<?php $randomNumber = rand(1, 12) ?>
-
-<section class="hero-slider hero-style mobile-app-{{$randomNumber}}" id="hero-slider">
-	<!-- <img src="images/banner/main-banner-background.jpg" alt="banner" class="lower-banner"> -->
-	<!-- <img src="images/banner/upper-layer-05.webp" alt="banner" class="upper-banner img-fluid"> -->
-	<div class="hero-main-rp container main-ban hidden">
-		<div class="row align-items-center">
-			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
-				<div class="hero-heading-sec2 niwax" data-rellax-speed="3">
-					@if($randomNumber == 1)
-						<h1 class="wow fadeIn">Top Rated <br> <span>Android App </span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 2)
-						<h1 class="wow fadeIn">Top Rated <br> <span>iOS App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 3)
-						<h1 class="wow fadeIn">Top Rated <br> <span>Game App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 4)
-						<h1 class="wow fadeIn">Top Rated <br> <span>Cross Platform App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 5)
-						<h1 class="wow fadeIn">Top Rated <br> <span>E-Commerce App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 6)
-						<h1 class="wow fadeIn">Top Rated <br> <span>Web App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 7)
-						<h1 class="wow fadeIn">Top Rated <br> <span>MR App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 8)
-						<h1 class="wow fadeIn">Top Rated <br> <span>AR App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 9) 
-						<h1 class="wow fadeIn">Top Rated <br> <span>VR App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 10)
-						<h1 class="wow fadeIn">Top Rated <br> <span>IoT App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 11)
-						<h1 class="wow fadeIn">Top Rated <br> <span>Wearables App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@elseif($randomNumber == 12)
-						<h1 class="wow fadeIn">Top Rated <br> <span>Mobile App</span> Development Company</h1>
-						<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
-					@endif
-				</div>
-				<div class="awrd-sec text-w mt40 wow fadeIn">
-					<h5>Our Achievements</h5>
-					<div class="bages-slider owl-carousel mt20">
-						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge1.webp" alt="niwax mobile app development company" class="img100w"></a>
-						</div>
-						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge2.webp" alt="niwax mobile app development company" class="img100w"></a>
-						</div>
-						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge3.webp" alt="niwax mobile app development company" class="img100w"></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
-
-
-
-
-
-<?php $randomNumber = rand(1, 12) ?>
-<!-- 
-{{--
-	@if($randomNumber==1)
-<section class="hero-slider hero-style mobile-app-1">
-@elseif($randomNumber==2)
-<section class="hero-slider hero-style mobile-app-2">
-@elseif($randomNumber==3)
-<section class="hero-slider hero-style mobile-app-3">
-@elseif($randomNumber==4)
-<section class="hero-slider hero-style mobile-app-4">
-@elseif($randomNumber==5)
-<section class="hero-slider hero-style mobile-app-5">
-@elseif($randomNumber==6)
-<section class="hero-slider hero-style mobile-app-6">
-@elseif($randomNumber==7)
-<section class="hero-slider hero-style mobile-app-7">
-@elseif($randomNumber==8)
-<section class="hero-slider hero-style mobile-app-8">
-@elseif($randomNumber==9)
-<section class="hero-slider hero-style mobile-app-9">
-@elseif($randomNumber==10)
-<section class="hero-slider hero-style mobile-app-10">
-@elseif($randomNumber==11)
-<section class="hero-slider hero-style mobile-app-11">
-@elseif($randomNumber==12)
-<section class="hero-slider hero-style mobile-app-12">
-@endif --}}
-
-<section class="hero-slider hero-style mobile-app" id="hero-slider">
-	
+<section class="hero-slider hero-style" id="hero-slider">
+	<video autoplay muted loop width="100%" height="100%">
+		<source src="video/banner-video.mp4" type="video/mp4">
+	</video>
 	<div class="hero-main-rp container main-ban hidden">
 		<div class="row align-items-center">
 			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
@@ -133,23 +29,19 @@
 			</div>
 		</div>
 	</div>
-</section>  -->
-
-
-
-
+</section>
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
+		<div class="row fadeIn">
+			<div class="col-12">
 				<div class="common-heading">
 					<h2>We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeInRight">
+		<div class="row pt-3 wow fadeIn">
 			<div class="col-12">
 				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
 					<div class="carousel-inner">
@@ -233,14 +125,14 @@
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
+		<div class="row fadeIn">
+			<div class="col-12">
 				<div class="common-heading w-tdxt">
 					<h2>Ranked as #1 <span>Mobile App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInRight">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -340,160 +232,175 @@
 <!--Start Service-->
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container mt-3">
-		<div class="row">
-			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeInLeft">
+		<div class="row justify-content-center">
+			<div class="col-12 mt-5 mt-sm-3 mt-md-5 fadeIn">
 				<div class="common-heading ptag">
 					<h2>Our Expertise</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p class="mb30">We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="android-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Android App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
-						<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="ios-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>iOS App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
-						<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+			<div class="col-sm-12 col-md-6 col-lg-4 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/android-app-development-icon.svg" alt="Android App Development">
+						</div>
+						<div class="service-heading">
+							<h4>Android App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
+							<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="cross-platform-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Cross-Platform App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
-						<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="game-app-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Game App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
-						<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 mt-md-0 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/ios-app-development-icon.svg" alt="iOS App Development">
+						</div>
+						<div class="service-heading">
+							<h4>iOS App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
+							<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="web-app-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Web App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
-						<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="wearable-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Wearable App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
-						<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 mt-lg-0 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development">
+						</div>
+						<div class="service-heading">
+							<h4>Cross-Platform App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
+							<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="ar-app-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>AR App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
-						<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="vr-app-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>VR App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
-						<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/game-app-development-icon.svg" alt="Game App Development">
+						</div>
+						<div class="service-heading">
+							<h4>Game App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
+							<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="metaverse-img"></div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/web-app-development-icon.svg" alt="Web App Development">
+						</div>
+						<div class="service-heading">
+							<h4>Web App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
+							<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
-					<div class="service-heading">
-						<h4>MR App Development</h4>
+					
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development">
+						</div>
+						<div class="service-heading">
+							<h4>Wearable App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
+							<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
-					<div class="services-text-div">
-						<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
-						<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/ar-app-development-icon.svg" alt="AR App Development">
+						</div>
+						<div class="service-heading">
+							<h4>AR App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
+							<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/vr-app-development-icon.svg" alt="VR App Development">
+						</div>
+						<div class="service-heading">
+							<h4>VR App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
+							<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/mr-app-development-icon.svg" alt="MR App Development">
+						</div>
+						<div class="service-heading">
+							<h4>MR App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
+							<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -506,7 +413,7 @@
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 fadeIn">
 				<div class="tab-content" id="imagetab">
 
 					@foreach($agencystack as $k=>$items)
@@ -525,7 +432,7 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Different Industries We Serve:</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -573,20 +480,16 @@
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag fadeIn">
 					<h2>Our <span>Mobile App</span> Development Process</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">01</p>
 						<h3 class="title">Project Analysis of Requirements</h3>
@@ -595,7 +498,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">02</p>
 						<h3 class="title">Wireframing & Designing</h3>
@@ -604,7 +507,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">03</p>
 						<h3 class="title">App Development</h3>
@@ -613,7 +516,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">04</p>
 						<h3 class="title">App Testing</h3>
@@ -622,7 +525,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">05</p>
 						<h3 class="title">App Development</h3>
@@ -631,7 +534,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">06</p>
 						<h3 class="title">Maintenance</h3>
@@ -698,7 +601,7 @@
 <section class="portfolio-section py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-12 wow fadeInLeft">
+			<div class="col-12 fadeIn">
 				<div class="common-heading">
 					<!-- <span>Our Work</span> -->
 					<h2 class="mb20 text-center">Our Latest Creative Work</h2>
@@ -708,7 +611,7 @@
 	</div>
 
 	<section class="container-fluid py-lg-5">
-		<ul class="nav nav-pills justify-content-center wow fadeInLeft" role="tablist">
+		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
 			</li>
@@ -725,12 +628,12 @@
 				<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
 			</li> -->
 		</ul>
-		<div class="tab-content mt-5 wow fadeInRight">
+		<div class="tab-content mt-5 wow fadeIn">
 			<div id="app" class="tab-pane active"><br>
 				<div class="scrollHalf">
 					<div class="scrollHalf__grupo row h-100" data-scroll>
 						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto app-first-cs">
-							<img src="images/case-studies/gym-app/header-phone.webp" class="img-fluid" alt="Gym App" />
+							<img src="images/home/fitness-app.webp" class="img-fluid" alt="Gym App" />
 						</div>
 						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
 							<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="icon-img">
@@ -926,15 +829,15 @@
 <!--Start Clients-->
 <section class="py-5 bg-gradient3">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
 					<!-- <span>Our happy customers</span> -->
-					<h2 class="mb30">Some of our Clients</h2>
+					<h2 class="mb30">Some of Our Clients</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row justify-content-center wow fadeInRight">
+		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-12">
 				<div class="client-logoset">
 					<ul class="row text-center clearfix apppg justify-content-center">
@@ -961,13 +864,13 @@
 			<div class="col-lg-12">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-6 wow fadeInLeft">
+						<div class="col-lg-6 fadeIn">
 							<div class="common-heading text-l">
 								<h2 class="key-highlight">Our Achievements</h2>
 								<h6 class="key-numbers">Our work in numbers.</h6>
 							</div>
 						</div>
-						<div class="col-lg-6 wow fadeInRight my-auto">
+						<div class="col-lg-6 wow fadeIn my-auto">
 							<p class="key-desc">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success.We donot speak about our success, our work speaks about our success.</p>
 						</div>
 					</div>
@@ -1000,14 +903,14 @@
 <!--Start Tech-->
 <section class="technologies-stack py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
-					<h2 class="mb30"><span>Technologies</span> we work with</h2>
+					<h2 class="mb30"><span>Technologies</span> We Work With</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row wow fadeInRight">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
@@ -1651,7 +1554,7 @@
 <section class="testinomial-section-app bg-none py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-5 wow fadeInLeft">
+			<div class="col-lg-5 fadeIn">
 				<div class="common-heading text-l"> <span>What our clients say about AppsNation.</span>
 					<h2>Over 1200+ Satisfied Clients and Growing</h2>
 				</div>
@@ -1664,7 +1567,7 @@
 					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s"> <img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid"> </a>
 				</div>
 			</div>
-			<div class="col-lg-7 wow fadeInRight">
+			<div class="col-lg-7 wow fadeIn">
 				<div class="pl50">
 					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">
@@ -1880,7 +1783,7 @@
 </section>
 
 <div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
+	<div class="row mb-4 text-center fadeIn">
 		<div class="col-12">
 			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
 				<i class="fas fa-chevron-right fa-icon"></i>

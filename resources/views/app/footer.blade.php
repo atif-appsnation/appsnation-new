@@ -365,30 +365,7 @@
 
 <script>
 
-    const imgs = [];
-
-    imgs[0] = '../images/banner/banner-1.webp';
-    imgs[1] = '../images/banner/banner-2.webp';
-    imgs[2] = '../images/banner/banner-3.webp';
-    imgs[3] = '../images/banner/banner-4.webp';
-    imgs[4] = '../images/banner/banner-5.webp';
-    imgs[5] = '../images/banner/banner-6.webp';
-    imgs[6] = '../images/banner/banner-7.webp';
-    imgs[7] = '../images/banner/banner-8.webp';
-    imgs[8] = '../images/banner/banner-9.webp';
-    imgs[9] = '../images/banner/banner-10.webp';
-    imgs[10] = '../images/banner/banner-11.webp';
-    imgs[11] = '../images/banner/banner-12.webp';
-
-    // window.onload = function() {
-    //     const random = Math.floor(Math.random()* imgs.length);
-    //     document.getElementById("hero-slider").style.backgroundImage = `url(${imgs[random]})`;
-    // }
-
     $(window).on('load', function() {
-
-        const random = Math.floor(Math.random()* imgs.length);
-        document.getElementById("hero-slider").style.backgroundImage = `url(${imgs[random]})`;
 
         // checkCookie.click();
         // var now = new Date();

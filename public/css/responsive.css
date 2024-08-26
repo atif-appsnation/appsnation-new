@@ -1644,15 +1644,17 @@
 
 	.hero-main-rp {
 		padding: 130px 30px 30px;
+		left: 0%;
 	}
 
 	.hero-heading-sec2 p {
 		font-size: 16px;
+		margin: 20px 0;
 	}
 
 	.hero-heading-sec2 h1 {
-		font-size: 45px;
-		line-height: 54px;
+		font-size: 36px;
+		line-height: 45px;
 	}
     
     .home-services {
@@ -1693,7 +1695,7 @@
 
 	.awrd-sec {
 		margin-top: 20px !important;
-		text-align: center;
+		/* text-align: center; */
 	}
 
 	.bages-slider {
@@ -1743,17 +1745,24 @@
 
 	.link-prbs {
 		margin: 0 auto;
+		float: right;
 	}
 
 	.services-img-div {
-		display: flex;
-		justify-content: center;
+		display: inline-block;
+		width: 20%;
+		float: left;
 	}
 
-	/* .android-heading,
-    .services-text-div {
-		text-align: center;
-	} */
+	.service-heading {
+		display: inline-block;
+		width: 75%;
+		padding-left: 5%;
+	}
+
+	.services-text-div {
+		padding-top: 40px;
+	}
 
 	.quote-form {
 		margin-top: 25px;
@@ -2247,6 +2256,7 @@
 
 	.hero-main-rp {
 		padding: 130px 30px 80px;
+		left: 0%;
 	}
     
     .home-services {
@@ -2326,17 +2336,24 @@
 
 	.link-prbs {
 		margin: 0 auto;
+		float: right;
 	}
 
 	.services-img-div {
-		display: flex;
-		justify-content: center;
+		display: inline-block;
+		width: 20%;
+		float: left;
 	}
 
-	/* .android-heading,
-    .services-text-div {
-		text-align: center;
-	} */
+	.service-heading {
+		display: inline-block;
+		width: 75%;
+		padding-left: 3%;
+	}
+
+	.services-text-div {
+		padding-top: 35px;
+	}
 
 	.common-heading.ptag p {
 		text-align: left;
@@ -2737,6 +2754,7 @@
 
 	.hero-main-rp {
 		padding: 180px 60px 80px;
+		left: 0%;
 	}
     
     .home-services {
@@ -2759,17 +2777,28 @@
 
 	.link-prbs {
 		margin: 0 auto;
+		float: right;
 	}
 
 	.services-img-div {
-		display: flex;
-		justify-content: center;
+		display: inline-block;
+		width: 20%;
+		float: left;
 	}
 
-	/* .android-heading,
-    .services-text-div {
-		text-align: center;
-	} */
+	.service-heading {
+		display: inline-block;
+		width: 75%;
+		padding-left: 5%;
+	}
+
+	.service-heading h4 {
+		line-height: 24px;
+	}
+
+	.services-text-div {
+		padding-top: 25px;
+	}
 
 	.service-section-app {
 		padding-bottom: 3rem!important;
@@ -3121,6 +3150,7 @@
 
 	.hero-main-rp {
 		padding: 200px 0px 100px;
+		left: 5%;
 	}
     
     .home-services {
@@ -3130,17 +3160,28 @@
     
 	.link-prbs {
 		margin: 0 auto;
+		float: right;
 	}
 
-	/* .services-img-div {
-		display: flex;
-		justify-content: center;
+	.services-img-div {
+		display: inline-block;
+		width: 15%;
+		float: left;
 	}
 
-	.android-heading,
-    .services-text-div {
-		text-align: center;
-	} */
+	.service-heading {
+		display: inline-block;
+		width: 85%;
+		padding-left: 5%;
+	}
+
+	.service-heading h4 {
+		line-height: 24px;
+	}
+
+	.services-text-div {
+		padding-top: 50px;
+	}
 
     .home-timeline-content {
         height: 196px;
@@ -3168,6 +3209,11 @@
 
 	.main-timeline .web-app-timeline-content {
 		height: 246px;
+	}
+
+	.bages-slider img {
+		height: 182px;
+		width: 182px;
 	}
 	
 	/* About Us Page */
@@ -3260,6 +3306,7 @@
 
 	.hero-main-rp {
 		padding: 150px 0px 100px;
+		left: 10%;
 	}
     
     .home-services {
@@ -3269,17 +3316,23 @@
     
 	.link-prbs {
 		margin: 0 auto;
+		float: right;
 	}
 
 	.services-img-div {
-		display: flex;
-		justify-content: center;
+		display: inline-block;
+		width: 15%;
 	}
 
-	/* .android-heading,
-    .services-text-div {
-		text-align: center;
-	} */
+	.service-heading {
+		display: inline-block;
+		width: 80%;
+		padding-left: 5%;
+	}
+
+	.service-heading h4 {
+		line-height: 24px;
+	}
 
     .home-timeline-content {
         height: 196px;
@@ -3307,6 +3360,11 @@
 
 	.main-timeline .web-app-timeline-content {
 		height: 246px;
+	}
+
+	.bages-slider img {
+		height: 182px;
+		width: 182px;
 	}
 	
 	/* About Us Page */
@@ -3406,11 +3464,11 @@
 		width: 40%;
 	}
 
-
     /* Home */
 
 	.hero-main-rp {
 		padding: 150px 0px 100px;
+		left: 10%;
 	}
     
     .home-services {
@@ -3420,17 +3478,19 @@
     
 	.link-prbs {
 		margin: 0 auto;
+		float: right;
 	}
 
 	.services-img-div {
-		display: flex;
-		justify-content: center;
+		display: inline-block;
+		width: 15%;
 	}
 
-	/* .android-heading,
-    .services-text-div {
-		text-align: left;
-	} */
+	.service-heading {
+		display: inline-block;
+		width: 80%;
+		padding-left: 5%;
+	}
 	
 	.home-timeline-content {
         height: 196px;
@@ -3672,6 +3732,11 @@
 	.mover-features h5 {
 		font-size: 60px;
 		line-height: 100px;
+	}
+
+	.bages-slider img {
+		height: 182px;
+		width: 182px;
 	}
 }
 

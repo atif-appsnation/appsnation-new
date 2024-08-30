@@ -41,7 +41,7 @@
 	<link href="{{asset('css/plugin.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/swiper.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/all.min.css')}}" rel="stylesheet">
-	<link href="{{asset('css/proximanova.css')}}" rel="stylesheet">
+	<link href="{{asset('css/manrope.css')}}" rel="stylesheet">
 	<link href="{{asset('css/style.css')}}" rel="stylesheet">
 	<link href="{{asset('css/responsive.css')}}" rel="stylesheet">
 	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">

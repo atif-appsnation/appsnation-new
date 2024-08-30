@@ -16,6 +16,7 @@
     --dur: .15s;
     --delay: .15s;
     --radius: 10px;
+    --font-family: 'Manrope';
 }
 
 ::-webkit-scrollbar {
@@ -56,7 +57,8 @@
 
 body {
     /* font-family: 'Open Sans', sans-serif; */
-    font-family: 'Proxima Nova Alt Rg';
+    /* font-family: 'Proxima Nova Alt Rg'; */
+    font-family: var(--font-family);
     color: var(--black-color);
     font-weight: 400;
     font-style: normal;
@@ -85,10 +87,10 @@ h3,
 h4,
 h5,
 h6 {
-    /* font-family: 'Poppins', sans-serif; */
-    font-family: 'Proxima Nova Alt Rg';
+    /* font-family: var(--font-family); */
+    font-family: var(--font-family);
     color: #000000;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 h1,
@@ -400,7 +402,7 @@ header .dropdown-menu {
     border: 0;
     font-size: 15px;
     color: #0a2233;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-weight: 500;
     padding: 10px 15px;
 }
@@ -431,7 +433,7 @@ header .dropdown-menu {
     font-weight: 600;
     font-size: 16px;
     color: #0a2233;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-weight: 500;
     padding: 0px 15px;
     line-height: 48px;
@@ -620,7 +622,7 @@ header .dropdown-menu {
 .custom-nav .nav-list li a.menu-links {
     font-size: 12px;
     color: #050748;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-weight: 500;
     padding: 0px 14px;
     line-height: 85px;
@@ -1123,7 +1125,7 @@ a.play-video::after {
 .btn-main {
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     padding: 0px 32px;
     line-height: 56px;
     text-align: center;
@@ -1192,7 +1194,7 @@ a.play-video::after {
     margin: 30px 0;
     background: #FAFAFB;
     color: #6a6a8e;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
 }
 
 .user- .user-image img {
@@ -1341,7 +1343,7 @@ a.play-video::after {
     display: inline-block;
     margin: 30px 0 0 0;
     color: #050748;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
 }
 
 .upset {
@@ -1652,7 +1654,7 @@ a.play-video::after {
 
 .work-card p {
     color: #050748;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     line-height: 24px;
     font-size: 16px;
     margin: 5px 0 0 0;
@@ -2319,7 +2321,7 @@ footer.ftshap:before {
 .footer-address-list li p {
     font-weight: 600;
     font-size: 18px;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     line-height: 25px;
 }
 
@@ -2407,7 +2409,7 @@ footer.ftshap:before {
 
 .link-hover a {
     color: var(--black-color);
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     display: inline-block;
     padding: 3px 0;
     position: relative;
@@ -2747,7 +2749,7 @@ footer.ftshap:before {
 }
 
 .portfolio-meta ul li p {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     line-height: 28px;
     background: #fff;
@@ -2874,7 +2876,7 @@ footer.ftshap:before {
     color: #050748;
     display: inline-block;
     padding: 0px 32px;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     background: #fff;
     -webkit-box-shadow: 0 10px 15px 0px rgba(3, 35, 68, 0.1);
@@ -2899,7 +2901,7 @@ footer.ftshap:before {
 }
 
 .cta-call a {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-size: 24px;
     color: #6a6a8e;
     display: inline-block;
@@ -2945,7 +2947,7 @@ footer.ftshap:before {
 
 .ps-block span {
     font-size: 60px;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     border-radius: 100%;
     border: 1px solid #e8e8e8;
     width: 100px;
@@ -3085,7 +3087,7 @@ footer.ftshap:before {
 .pricing-table .title {
     margin: 30px 0 10px 0;
     font-size: 16px;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     font-weight: bold;
     text-transform: uppercase;
     width: 100%;
@@ -3281,7 +3283,7 @@ footer.ftshap:before {
 }
 
 .blog-header .user-info {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     margin: 0px 0 0 20px;
 }
 
@@ -3431,7 +3433,7 @@ footer.ftshap:before {
     margin: 0 4px 8px 0;
     display: inline-block;
     background: #F6F5FA;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
 }
 
 .blog-categories ul li:first-child a {
@@ -3439,7 +3441,7 @@ footer.ftshap:before {
 }
 
 .blog-categories ul li a {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     display: block;
     padding: 10px 0;
     font-size: 16px;
@@ -3546,7 +3548,7 @@ footer.ftshap:before {
 .info-card span {
     font-size: 20px;
     font-weight: 700;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
 }
 
 .info-card p {
@@ -4271,9 +4273,9 @@ footer.ftshap:before {
     font-weight: bold;
 }
 
-.free-cta-title {
+/* .free-cta-title {
     display: inline-flex;
-}
+} */
 
 .key-block.shadow-box {
     padding: 15px;
@@ -5272,7 +5274,7 @@ h3 a {
     display: block;
     color: var(--black-color);
     font-size: 16px;
-    /* font-family: 'Poppins', sans-serif; */
+    /* font-family: var(--font-family); */
 }
 
 .link-prbs i {
@@ -5458,8 +5460,8 @@ h3 a {
     top: 0;
     font-weight: 900;
     text-transform: uppercase;
-    -webkit-text-stroke: 1px var(--first-color);
-    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 1px var(--black2-color);
+    -webkit-text-fill-color: var(--black2-color);
 }
 
 .business-startup {
@@ -8732,7 +8734,7 @@ html .mt15 {
 
 .hero-main-rp {
     position: absolute;
-    z-index: 3;
+    /* z-index: 3; */
 }
 
 /* Technology */
@@ -8927,7 +8929,7 @@ html .mt15 {
 }
 
 .banner-heading {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family);
     color: #ffffff;
     font-weight: 600;
 }
@@ -10749,7 +10751,7 @@ video {
 }
 
 .button-arounder {
-    background: var(--second-color);
+    background: var(--first-color);
     color: hsl(190deg, 10%, 95%);
     box-shadow: 0 0px 0px hsla(190deg, 15%, 5%, .2);
     transfrom: translateY(0);
@@ -14548,3 +14550,18 @@ img {
 /* img.img-fluid.d-block.mx-auto {
     width: 40% !important;
 } */
+
+.contact-div {
+    background-color: var(--black2-color);
+    padding: 4rem 0rem;
+}
+
+.contact-div p {
+    color: var(--white-color);
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.contact-div p span {
+    color: var(--third-color);
+}

@@ -2,7 +2,7 @@
 @section('content')
 
 <section class="hero-slider hero-style" id="hero-slider">
-	<video autoplay muted loop width="100%" height="100%">
+	<video playsinline autoplay muted loop width="100%" height="100%">
 		<source src="video/banner-video.mp4" type="video/mp4">
 	</video>
 	<div class="hero-main-rp container main-ban hidden">
@@ -12,17 +12,17 @@
 					<h1 class="wow fadeIn">Top Rated <span>Mobile App</span> Development Company</h1>
 					<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
 				</div>
-				<div class="awrd-sec text-w mt40 wow fadeIn">
+				<div class="awrd-sec text-w wow fadeIn">
 					<h5>Our Achievements</h5>
 					<div class="bages-slider owl-carousel mt20">
 						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge1.webp" alt="niwax mobile app development company" class="img100w"></a>
+							<a href="#"> <img src="images/icons/badge1.webp" alt="niwax mobile app development company"></a>
 						</div>
 						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge2.webp" alt="niwax mobile app development company" class="img100w"></a>
+							<a href="#"> <img src="images/icons/badge2.webp" alt="niwax mobile app development company"></a>
 						</div>
 						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge3.webp" alt="niwax mobile app development company" class="img100w"></a>
+							<a href="#"> <img src="images/icons/badge3.webp" alt="niwax mobile app development company"></a>
 						</div>
 					</div>
 				</div>
@@ -203,25 +203,27 @@
 				</div>
 			</div>
 		</div>
+	</div>
+</section>
+<!--End Badges-->
 
-		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
-				<div class="row justify-content-center">
-					<div class="col-lg-7">
-						<p class="text-center text-lg-start">We <span>Promise.</span> We <span>Deliver.</span> </p>
-					</div>
-					<div class="col-lg-5 text-center text-lg-start mt-lg-0">
-						<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-							<i class="fas fa-chevron-right fa-icon"></i>
-							<span class="circle"></span>
-						</a>
-					</div>
+<div class="row mt30 justify-content-center contact-div">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-</section>
-<!--End Badges-->
+</div>
 
 <!--Start Service-->
 <section class="py-5 dark-bg2">

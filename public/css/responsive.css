@@ -2182,6 +2182,23 @@
 		height: auto !important;
 		width: auto !important;
 	}
+
+	.bages-slider .owl-item {
+		width: 150px !important;
+	}
+
+	.bages-slider img {
+		height: 150px;
+		width: 150px !important;
+	}
+
+	.img-badge- {
+		width: 150px !important;
+	}
+
+	.hero-heading-sec2>p {
+		margin: 20px 0;
+	}
 	
 }
 
@@ -2263,6 +2280,23 @@
         height: 275px;
         margin-bottom: 15px;
     }
+
+	.img-badge- {
+		width: 157px !important;
+	}
+
+	.bages-slider .owl-item {
+		width: 157px !important;
+	}
+
+	.bages-slider img {
+		height: 157px;
+		width: 157px !important;
+	}
+
+	.hero-heading-sec2>p {
+		margin: 20px 0;
+	}
 
 	.awrd-sec h5 {
 		text-align: left;
@@ -2744,6 +2778,23 @@
     
     /* Home */
 
+	.bages-slider img {
+		height: 165px;
+		width: 165px !important;
+	}
+
+	.bages-slider .owl-item {
+		width: 165px !important;
+	}
+
+	.img-badge- {
+		width: 165px !important;
+	}
+
+	.hero-heading-sec2>p {
+		margin: 20px 0;
+	}
+
 	.dsk-logo .nav-brand img {
 		max-height: 50px;
 	}
@@ -3152,6 +3203,23 @@
 		padding: 200px 0px 100px;
 		left: 5%;
 	}
+
+	.bages-slider img {
+		height: 170px;
+		width: 170px !important;
+	}
+
+	.bages-slider .owl-item {
+		width: 170px !important;
+	}
+
+	.img-badge- {
+		width: 170px !important;
+	}
+
+	.hero-heading-sec2>p {
+		margin: 20px 0;
+	}
     
     .home-services {
         /* height: 450px; */
@@ -3307,6 +3375,23 @@
 	.hero-main-rp {
 		padding: 150px 0px 100px;
 		left: 10%;
+	}
+
+	.bages-slider img {
+		height: 177px;
+		width: 177px !important;
+	}
+
+	.img-badge- {
+		width: 177px !important;
+	}
+
+	.bages-slider .owl-item {
+		width: 177px !important;
+	}
+
+	.hero-heading-sec2>p {
+		margin: 20px 0;
 	}
     
     .home-services {
@@ -3734,9 +3819,17 @@
 		line-height: 100px;
 	}
 
+	.bages-slider .owl-item {
+		width: 182px !important;
+	}
+
 	.bages-slider img {
 		height: 182px;
-		width: 182px;
+		width: 182px !important;
+	}
+
+	.img-badge- {
+		width: 182px !important;
 	}
 }
 

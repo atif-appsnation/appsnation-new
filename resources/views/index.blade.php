@@ -12,7 +12,7 @@
 					<h1 class="wow fadeIn">Top Rated <span>Mobile App</span> Development Company</h1>
 					<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
 				</div>
-				<div class="awrd-sec text-w wow fadeIn">
+				<!-- <div class="awrd-sec text-w wow fadeIn">
 					<h5>Our Achievements</h5>
 					<div class="bages-slider owl-carousel mt20">
 						<div class="img-badge-">
@@ -25,205 +25,49 @@
 							<a href="#"> <img src="images/icons/badge3.webp" alt="niwax mobile app development company"></a>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
 </section>
 
-<!-- Start Technologies -->
-<section class="technologies certificates py-5">
+<!-- Start Key Highlights -->
+<section class="key-highlights py-5">
 	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-12">
-				<div class="common-heading">
-					<h2>We Partner with the <span>World's technology</span> leaders</h2>
+		<div class="row justify-content-center">
+			<div class="col-lg-8 fadeIn">
+				<div class="common-heading text-l">
+					<h4 class="key-highlight text-center">Our Achievements</h4>
+					<h2 class="key-numbers text-center">Our work in numbers.</h2>
 				</div>
+			</div>
+			<div class="col-lg-8 wow fadeIn mt-3">
+				<p class="key-desc text-center">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success.We donot speak about our success, our work speaks about our success.</p>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeIn">
-			<div class="col-12">
-				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 
-			<!--<div class="col-12 text-center mt-3">-->
-			<!--	<a class="btn mb-3 mr-1" href="#tech" role="button" data-bs-slide="prev">-->
-			<!--		<i class="fa fa-arrow-left"></i>-->
-			<!--	</a>-->
-			<!--	<a class="btn mb-3" href="#tech" role="button" data-bs-slide="next">-->
-			<!--		<i class="fa fa-arrow-right"></i>-->
-			<!--	</a>-->
-			<!--</div>-->
+		<div class="row justify-content-center mt-5 wow fadeIn achievements-count">
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">8+</h2>
+				<p class="numbers-about">Years on the market</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">900+</h2>
+				<p class="numbers-about">People on Board</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">1k+</h2>
+				<p class="numbers-about">Projects Delivered</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">67</h2>
+				<p class="numbers-about">Our Current NPS Score</p>
+			</div>
 		</div>
+		
 	</div>
 </section>
-<!-- End Technologies -->
-
-<!--Start Badges-->
-<section class="badges-section py-5">
-	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-12">
-				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Mobile App</span> Development Company</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5 wow fadeIn">
-			<div class="col-12">
-				<div class="awards-slider owl-carousel owl-theme">
-
-					@foreach($awards as $k => $item)
-
-					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					 </div>
-					 </a>
-
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					 </div>
-					 @endif
-
-					@else
-					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					<div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					@endif
-					@endif
-					@endforeach
-
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Badges-->
-
-<div class="row mt30 justify-content-center contact-div">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+<!-- End Key Highlights -->
 
 <!--Start Service-->
 <section class="py-5 dark-bg2">
@@ -411,6 +255,26 @@
 </section>
 <!--End Service-->
 
+<!--Start Let's Work Together-->
+<div class="row mt30 justify-content-center contact-div">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
@@ -549,56 +413,6 @@
 </section>
 <!--End Process-->
 
-<!-- Start Why Choose -->
-<section class="why-choose-section py-5">
-	<div class="container">
-		<div class="row justify-content-center wow fadeInUp">
-			<div class="col-12">
-				<div class="card py-3">
-					<div class="card-body">
-						<div class="row">
-							<div class="col-lg-6">
-								<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
-								<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
-								<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4">
-								<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
-									<i class="fas fa-chevron-right fa-icon"></i>
-									<span class="circle"></span>
-								</a>
-							</div>
-							<div class="col-lg-6 mt-3">
-								<div class="row">
-									<div class="col-md-6">
-										<h3>Team Scalability</h3>
-										<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" alt="Team Scalability">
-										<p class="mb-0">Boost your team with domain specialists whenever required.</p>
-									</div>
-									<div class="col-md-6 mt-3 mt-sm-0">
-										<h3>Quick Time to Market</h3>
-										<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" alt="Quick Time to Market">
-										<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
-									</div>
-									<div class="col-md-6 mt-3">
-										<h3>Cost Saving</h3>
-										<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" alt="Cost Saving">
-										<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
-									</div>
-									<div class="col-md-6 mt-3">
-										<h3>Skilled Resources</h3>
-										<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
-										<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Why Choose -->
-
 <!--Start Portfolio-->
 <section class="portfolio-section py-5">
 	<div class="container">
@@ -699,134 +513,193 @@
 					</div>
 				</div>
 			</div>
-			<!-- <div id="mobile-apps" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto mobile-app-first-cs">
-							<img src="images/case-study/vero-app.webp" class="img-fluid" alt="Verp App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/vero-logo.webp" alt="" class="icon-img" alt="Vero App Logo">
-							<h2 class="pt-3 case-study-heading">Vero App</h2>
-							<p class="pt-3 case-study-text">VERO is a hassle-free, one stop solution for your daily needs. Track what you want to buy, order food, or take a ride. Fit it all in a day with VERO!</p>
-							<a target="_blank" href="https://appsnation.com/vero" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto mobile-app-second-cs">
-							<img src="images/case-study/homestore-app.webp" class="img-fluid" alt="Home Store App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Logo">
-							<h2 class="pt-3 case-study-heading">Home Store</h2>
-							<p class="pt-3 case-study-text">Order breakfast, lunch, or dinner, rate your favorite restaurants & track your order - one platform to curb your hunger.</p>
-							<a target="_blank" href="https://appsnation.com/hom-store-app" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div id="website" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
-							<img src="images/case-study/homestore-web.webp" class="img-fluid" alt="Home Store Web" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Website">
-							<h2 class="pt-3 case-study-heading">Home Store Web</h2>
-							<p class="pt-3 case-study-text">An online store for buying our high quality cooking oils at best prices. Notch features that define the world’s best oil delivery app.</p>
-							<a target="_blank" href="https://appsnation.com/hom-store-web" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-second-cs">
-
-							<img src="images/case-study/erp-web.webp" class="img-fluid" alt="ERP Web" />
-
-							<img src="images/case-study/self_img.webp" class="imgResponsive" />
-
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/erp-logo.webp" class="icon-img" alt="ERP Logo">
-							<h2 class="pt-3 case-study-heading">ERP</h2>
-							<p class="pt-3 case-study-text">Improve your day-to-day business operations with our ERP tool. Boost productivity, improve customer experience, and boost operational efficiency!</p>
-							<a target="_blank" href="https://appsnation.com/erp" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div id="design" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto design-first-cs">
-							<img src="images/case-study/evil-witch-design.webp" class="img-fluid evil-witch-design" alt="Evil Witch Design" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/evil-witch-logo.webp" alt="Evil Witch Design" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Evil Witch</h2>
-							<p class="pt-3 case-study-text">After much effort, our team found a unique character idea covering the horror feel. It was crucial to converting ideas into reality, especially when it comes to character design from scratch.</p>
-							<a target="_blank" href="https://appsnation.com/evil-witch" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div> -->
 		</div>
 	</section>
 </section>
 <!--End Portfolio-->
 
-<!--Start Case Studies-->
-<!-- <section class="py-5 dark-bg2">
+<!-- Start Hire Developers -->
+<section class="hire-developers py-5">
 	<div class="container">
-		<div class="row justify-content-center fadeInDown">
-			<div class="col-lg-10">
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-xl-6 my-auto">
 				<div class="common-heading">
-					<h2 class="mb20">Our Featured Work</h2>
+					<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					<!--<p class="pt-2">Appsnation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12 wow fadeInUp">
-				<div class="case-slider owl-carousel mt20">
-					@foreach($casestudy as $item)
-					<div class="img-badge-">
-						<div class="row">
-							<div class="col-sm-12 col-md-6"> <img src="uploads/{{$item['image']}}" alt=""> </div>
-							<div class="col-sm-12 col-md-6 my-auto"> <img src="uploads/{{$item['icon']}}" alt="" class="icon-img">
-								<h6 class="text-uppercase ltr-sp-2 font-size-12 font-weight-semibold text-secondary">{{$item['tag']}}</h6>
-								<h2 class="mb-20 heading3 font-size-28 mt-3">{{$item['heading']}}</h2>
-								<p>{{$item['content']}}</p>
-								<a target="_blank" href="#" class="btn btn-naked text-uppercase ltr-sp-1 size-sm font-weight-bold liquid-lp-read-more"> <span class="btn-line btn-line-before" style="background-color:#0f63f4"></span> <span class="btn-txt" style="color:#0f63f4">View Case Study</span> <span class="btn-line btn-line-after" style="background-color:#0f63f4"></span> </a>
+			<div class="col-xl-6 mt-3">
+				<div class="row scroller">
+					<div class="col-sm-6 col-md-6 col-lg-4">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
+								<!-- <p class="text-center pt-2">Unity</p> -->
 							</div>
 						</div>
 					</div>
-					@endforeach
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-sm-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+								<!-- <p class="text-center pt-2">Unreal Engine</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
+								<!-- <p class="text-center pt-2">WordPress</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
+								<!-- <p class="text-center pt-2">PHP</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
+								<!-- <p class="text-center pt-2">Angular JS</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
+								<!-- <p class="text-center pt-2">C++</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+								<!-- <p class="text-center pt-2">Blender</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
+								<!-- <p class="text-center pt-2">Python</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
+								<!-- <p class="text-center pt-2">Node JS</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
+								<!-- <p class="text-center pt-2">Photon</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
+								<!-- <p class="text-center pt-2">React Native</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
+								<!-- <p class="text-center pt-2">JavaScript</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
+								<!-- <p class="text-center pt-2">HTML</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
+								<!-- <p class="text-center pt-2">Laravel</p> -->
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</section> -->
-<!--End Case Studies-->
+</section>
+<!-- End Hire Us -->
+
+<!-- Start Why Choose -->
+<section class="why-choose-section py-5">
+	<div class="container">
+		<div class="row justify-content-center wow fadeInUp">
+			<div class="col-12">
+				<div class="card py-3">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-lg-6">
+								<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
+								<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+								<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4">
+								<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="col-lg-6 mt-3">
+								<div class="row">
+									<div class="col-md-6">
+										<h3>Team Scalability</h3>
+										<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" alt="Team Scalability">
+										<p class="mb-0">Boost your team with domain specialists whenever required.</p>
+									</div>
+									<div class="col-md-6 mt-3 mt-sm-0">
+										<h3>Quick Time to Market</h3>
+										<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" alt="Quick Time to Market">
+										<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+									</div>
+									<div class="col-md-6 mt-3">
+										<h3>Cost Saving</h3>
+										<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" alt="Cost Saving">
+										<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
+									</div>
+									<div class="col-md-6 mt-3">
+										<h3>Skilled Resources</h3>
+										<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
+										<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Why Choose -->
 
 <!--Start Clients-->
 <section class="py-5 bg-gradient3">
@@ -859,48 +732,7 @@
 </section>
 <!--End Clients-->
 
-<!-- Start Key Highlights -->
-<section class="key-highlights py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-12">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6 fadeIn">
-							<div class="common-heading text-l">
-								<h2 class="key-highlight">Our Achievements</h2>
-								<h6 class="key-numbers">Our work in numbers.</h6>
-							</div>
-						</div>
-						<div class="col-lg-6 wow fadeIn my-auto">
-							<p class="key-desc">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success.We donot speak about our success, our work speaks about our success.</p>
-						</div>
-					</div>
-					<div class="row justify-content-center mt-5 wow fadeInUp">
-						<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
-							<h2 class="numbers-count">8+</h2>
-							<p class="numbers-about">Years on the market</p>
-						</div>
-						<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
-							<h2 class="numbers-count">900+</h2>
-							<p class="numbers-about">People on Board</p>
-						</div>
-						<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
-							<h2 class="numbers-count">1k+</h2>
-							<p class="numbers-about">Projects Delivered</p>
-						</div>
-						<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
-							<h2 class="numbers-count">67</h2>
-							<p class="numbers-about">Our Current NPS Score</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-	</div>
-</section>
-<!-- End Key Highlights -->
+
 
 <!--Start Tech-->
 <section class="technologies-stack py-5">
@@ -1599,146 +1431,183 @@
 </section>
 <!--End Testinomial-->
 
-<!-- Start Hire Developers -->
-<section class="hire-developers py-5">
+<!-- Start Technologies -->
+<section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInDown">
+		<div class="row fadeIn">
 			<div class="col-12">
-				<div class="card py-3">
-					<div class="card-body">
-						<div class="row">
-							<div class="col-xl-6">
-								<div class="common-heading">
-									<h2>Hire Developers For <span>Custom IT Projects</span></h2>
-									<!--<p class="pt-2">Appsnation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
-									<p class="pt-2">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
-									<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
+				<div class="common-heading">
+					<h2>We Partner with the <span>World's technology</span> leaders</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row pt-3 wow fadeIn">
+			<div class="col-12">
+				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<div class="row">
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
-							<div class="col-xl-6 mt-3">
-								<div class="row scroller">
-									<div class="col-sm-6 col-md-6 col-lg-4">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
-												<p class="text-center pt-2">Unity</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-sm-0">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
-												<p class="text-center pt-2">Unreal Engine</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
-												<p class="text-center pt-2">WordPress</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
-												<p class="text-center pt-2">PHP</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
-												<p class="text-center pt-2">Angular JS</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
-												<p class="text-center pt-2">C++</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
-												<p class="text-center pt-2">Blender</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
-												<p class="text-center pt-2">Python</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
-												<p class="text-center pt-2">Node JS</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
-												<p class="text-center pt-2">Photon</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
-												<p class="text-center pt-2">React Native</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
-												<p class="text-center pt-2">JavaScript</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
-												<p class="text-center pt-2">HTML</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
-												<p class="text-center pt-2">Laravel</p>
-											</div>
-										</div>
-									</div>
+						</div>
+						<div class="carousel-item">
+							<div class="row">
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+								</div>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<div class="row">
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+								</div>
+								<div class="col-md-6 col-lg-3 mt-3 text-center">
+									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<!--<div class="col-12 text-center mt-3">-->
+			<!--	<a class="btn mb-3 mr-1" href="#tech" role="button" data-bs-slide="prev">-->
+			<!--		<i class="fa fa-arrow-left"></i>-->
+			<!--	</a>-->
+			<!--	<a class="btn mb-3" href="#tech" role="button" data-bs-slide="next">-->
+			<!--		<i class="fa fa-arrow-right"></i>-->
+			<!--	</a>-->
+			<!--</div>-->
 		</div>
 	</div>
 </section>
-<!-- End Hire Us -->
+<!-- End Technologies -->
+
+<!--Start Badges-->
+<section class="badges-section py-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading w-tdxt">
+					<h2>Ranked as #1 <span>Mobile App</span> Development Company</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5 wow fadeIn">
+			<div class="col-12">
+				<div class="awards-slider owl-carousel owl-theme">
+
+					@foreach($awards as $k => $item)
+
+					@if($k%2==0)
+					
+					 @if($item['heading']=="Top Website design Agencies")
+					 <a href="{{$item['comment']}}" target="_blank">
+					 <div class="award-item">
+						<div class="item">
+							<div class="card">
+								<div class="card-body">
+									<img src="uploads/{{$item['image']}}" class="award-img">
+									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<p class="text-center pt-2">{{$item['content']}}</p>
+								</div>
+							</div>
+						</div>
+					 </div>
+					 </a>
+
+					 @else
+					 <div class="award-item">
+						<div class="item">
+							<div class="card">
+								<div class="card-body">
+									<img src="uploads/{{$item['image']}}" class="award-img">
+									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<p class="text-center pt-2">{{$item['content']}}</p>
+								</div>
+							</div>
+						</div>
+					 </div>
+					 @endif
+
+					@else
+					@if($item['heading']=="Top Website design Agencies")
+					 <a href="{{$item['comment']}}" target="_blank">
+					<div class="award-item">
+						<div class="item">
+							<div class="card">
+								<div class="card-body">
+									<img src="uploads/{{$item['image']}}" class="award-img">
+									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<p class="text-center pt-2">{{$item['content']}}</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					 </a>
+					 @else
+					 <div class="award-item">
+						<div class="item">
+							<div class="card">
+								<div class="card-body">
+									<img src="uploads/{{$item['image']}}" class="award-img">
+									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<p class="text-center pt-2">{{$item['content']}}</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					@endif
+					@endif
+					@endforeach
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Badges-->
+
+
 
 <!-- Google Tag Manager -->
 <script>

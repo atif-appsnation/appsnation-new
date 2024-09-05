@@ -3552,7 +3552,7 @@
     /* Home */
 
 	.hero-main-rp {
-		padding: 150px 0px 100px;
+		padding: 280px 0px 100px;
 		left: 10%;
 	}
     
@@ -3574,7 +3574,7 @@
 	.service-heading {
 		display: inline-block;
 		width: 80%;
-		padding-left: 5%;
+		padding-left: 3%;
 	}
 	
 	.home-timeline-content {

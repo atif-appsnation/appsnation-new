@@ -13,6 +13,7 @@
     --orange-color: #F15A24;
     --green-color: #A5CB39;
     --black2-color: #1B1B1B;
+    --light-grey: #f0f0f0;
     --dur: .15s;
     --delay: .15s;
     --radius: 10px;
@@ -5229,11 +5230,28 @@ h3 a {
 }
 
 .service-section-app {
-    background: var(--black2-color);
+    background: var(--light-grey);
     background-size: contain;
     background-repeat: repeat-x;
     background-position: center bottom;
     position: relative;
+}
+
+.service-section-app .card:hover {
+    background-color: var(--first-color);
+}
+
+.service-section-app .card:hover img {
+    filter: invert(1);
+}
+
+.service-section-app .card:hover h4, .service-section-app .card:hover p, .service-section-app .card:hover a {
+    color: var(--white-color);
+}
+
+.service-section-app .card:hover i {
+    transform: rotateZ(45deg);
+    transition: 0.3s;
 }
 
 .card.green-bg.p-4 {
@@ -10729,21 +10747,41 @@ video {
 }
 
 .hire-developers {
-    background-image: url(../images/banner/hire-developers-bg.webp);
+    /* background-image: url(../images/banner/hire-developers-bg.webp); */
+    background: var(--black2-color);
     background-attachment: fixed;
     background-size: cover;
 }
 
 .scroller {
-    height: 316px;
+    height: 325px;
     overflow-y: scroll;
-    scrollbar-color: var(--first-color) var(--second-color);
-    scrollbar-width: thin;
+    background: var(--black2-color);
+}
+
+.scroller::-webkit-scrollbar-track
+{
+	/* -webkit-box-shadow: inset 0 0 6px var(--first-color); */
+	border-radius: 10px;
+	background-color: var(--black2-color);
+}
+
+.scroller::-webkit-scrollbar
+{
+	width: 8px;
+	background-color: var(--black2-color);
+}
+
+.scroller::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	/* -webkit-box-shadow: inset 0 0 6px var(--first-color); */
+	background-color: var(--black2-color);
 }
 
 .hire-developers img {
-    width: 64px;
-    height: 64px;
+    width: 120px;
+    height: 120px;
 }
 
 .stack-hov:hover p, .stack-hov:hover h4, .stack-hov:hover a {
@@ -10934,9 +10972,9 @@ i.fa-brands.fa-instagram {
     align-items: center;
 }
 
-.service-section-app .common-heading h2, .service-section-app .common-heading p {
+/* .service-section-app .common-heading h2, .service-section-app .common-heading p {
     color: var(--white-color);
-}
+} */
 
 .why-choose-section {
     background-image: url(../images/why-choose/why-choose-section.webp);
@@ -10953,14 +10991,32 @@ i.fa-brands.fa-instagram {
     color: var(--first-color);
 }
 
-.key-highlights {
+/* .key-highlights {
     background-image: url(../images/banner/banner.webp);
     background-size: cover;
     background-attachment: fixed;
+} */
+
+/* .key-highlights h2, .key-highlights h6, .key-highlights h3, .key-highlights p {
+    color: var(--white-color);
+} */
+
+
+.achievements-count {
+    background-color: var(--black2-color);
+    padding: 20px 0px;
 }
 
-.key-highlights h2, .key-highlights h6, .key-highlights h3, .key-highlights p {
+.achievements-count h2, .achievements-count p {
     color: var(--white-color);
+}
+
+.achievements-count div {
+    border-right: 2px solid var(--white-color);
+}
+
+.achievements-count div:last-child {
+    border-right: 0px solid var(--white-color);
 }
 
 .numbers-about, .numbers-count {

@@ -3,7 +3,7 @@
 
 <section class="hero-slider hero-style" id="hero-slider">
 	<video playsinline autoplay muted loop width="100%" height="100%">
-		<source src="video/banner-video.mp4" type="video/mp4">
+		<source src="video/banner.mp4" type="video/mp4">
 	</video>
 	<div class="hero-main-rp container main-ban hidden">
 		<div class="row align-items-center">
@@ -1739,62 +1739,6 @@
 	</div>
 </section>
 <!-- End Hire Us -->
-
-<!--Start Blogs-->
-<section class="blogs-section py-5">
-@if($data['status'] && count($data['data']) > 0)
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
-					<h2 class="mb30">Latest Stories</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			@foreach($data['data'] as $post)
-			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeInUp">
-				<div class="card h-100">
-					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
-					</a>
-					<div class="entry-blog-post dg-bg2">
-						<span class="bypost-">
-							<a href="{{ $post['guid'] }}">
-								<i class="fas fa-tag"></i> Appsnation
-							</a>
-						</span>
-						<span class="posted-on-">
-							<a href="{{ $post['guid'] }}">
-								<i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}
-							</a>
-						</span>
-					</div>
-					<div class="card-body">
-						<h4 class="mb-0">
-							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
-						</h4>
-					</div>
-				</div>
-			</div>
-			@endforeach
-			@else
-		</div>
-	</div>
-	@endif
-</section>
-
-<div class="container">
-	<div class="row mb-4 text-center fadeIn">
-		<div class="col-12">
-			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
-				<i class="fas fa-chevron-right fa-icon"></i>
-				<span class="circle"></span>
-			</a>
-		</div>
-	</div>
-</div>
-<!--End Blogs-->
 
 <!-- Google Tag Manager -->
 <script>

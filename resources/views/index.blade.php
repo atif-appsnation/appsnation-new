@@ -77,12 +77,12 @@
 
 <!--Start Service-->
 <section class="service-section-app py-5 dark-bg2">
-	<div class="container mt-3">
+	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-12 mt-5 mt-sm-3 mt-md-5 fadeIn">
+			<div class="col-12 fadeIn">
 				<div class="common-heading ptag">
 					<h2>Our Expertise</h2>
-					<p class="mb30">We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
+					<p class="mb-0">We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
 				</div>
 			</div>
 		</div>
@@ -654,45 +654,53 @@
 <!-- Start Why Choose -->
 <section class="why-choose-section py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInUp">
-			<div class="col-12">
-				<div class="card py-3">
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-lg-6 my-auto">
+				<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
+				<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
+					<i class="fas fa-chevron-right fa-icon"></i>
+					<span class="circle"></span>
+				</a>
+			</div>
+			<div class="col-lg-6">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block ms-lg-auto">
+			</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col-md-3">
+				<div class="card">
 					<div class="card-body">
-						<div class="row">
-							<div class="col-lg-6">
-								<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
-								<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
-								<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4">
-								<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
-									<i class="fas fa-chevron-right fa-icon"></i>
-									<span class="circle"></span>
-								</a>
-							</div>
-							<div class="col-lg-6 mt-3">
-								<div class="row">
-									<div class="col-md-6">
-										<h3>Team Scalability</h3>
-										<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" alt="Team Scalability">
-										<p class="mb-0">Boost your team with domain specialists whenever required.</p>
-									</div>
-									<div class="col-md-6 mt-3 mt-sm-0">
-										<h3>Quick Time to Market</h3>
-										<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" alt="Quick Time to Market">
-										<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
-									</div>
-									<div class="col-md-6 mt-3">
-										<h3>Cost Saving</h3>
-										<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" alt="Cost Saving">
-										<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
-									</div>
-									<div class="col-md-6 mt-3">
-										<h3>Skilled Resources</h3>
-										<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
-										<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
-									</div>
-								</div>
-							</div>
-						</div>
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" alt="Team Scalability">
+						<h3>Team Scalability</h3>
+						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 mt-3 mt-md-0">
+				<div class="card">
+					<div class="card-body">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" alt="Quick Time to Market">
+						<h3>Quick Time to Market</h3>
+						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 mt-3 mt-md-0">
+				<div class="card">
+					<div class="card-body">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" alt="Cost Saving">
+						<h3>Cost Saving</h3>
+						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 mt-3 mt-md-0">
+				<div class="card">
+					<div class="card-body">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
+						<h3>Skilled Resources</h3>
+						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>
 				</div>
 			</div>
@@ -700,39 +708,6 @@
 	</div>
 </section>
 <!-- End Why Choose -->
-
-<!--Start Clients-->
-<section class="py-5 bg-gradient3">
-	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-lg-6">
-				<div class="common-heading">
-					<!-- <span>Our happy customers</span> -->
-					<h2 class="mb30">Some of Our Clients</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row justify-content-center wow fadeIn">
-			<div class="col-lg-12">
-				<div class="client-logoset">
-					<ul class="row text-center clearfix apppg justify-content-center">
-
-						@foreach($clients as $item)
-						<li class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border" data-wow-delay=".2s">
-							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid">
-							</div>
-						</li>
-						@endforeach
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Clients-->
-
-
 
 <!--Start Tech-->
 <section class="technologies-stack py-5">
@@ -1385,20 +1360,37 @@
 <!--End Tech-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app bg-none py-5">
+<section class="testinomial-section-app py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-5 fadeIn">
-				<div class="common-heading text-l"> <span>What our clients say about AppsNation.</span>
-					<h2>Over 1200+ Satisfied Clients and Growing</h2>
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<span>What our clients say about AppsNation.</span>
+					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col-lg-5 fadeIn my-auto">
+				<div class="row mt30 justify-content-center">
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div" data-wow-delay=".2s">
+							<img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div" data-wow-delay=".4s">
+							<img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div" data-wow-delay=".6s">
+							<img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
 				</div>
 				<div class="review-title-ref mt40">
-					<h4>Read More Reviews</h4>
-				</div>
-				<div class="row mt30 justify-content-center">
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".2s"> <img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid"> </a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".4s"> <img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid"> </a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s"> <img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid"> </a>
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-7 wow fadeIn">
@@ -1431,92 +1423,71 @@
 </section>
 <!--End Testinomial-->
 
-<!-- Start Technologies -->
-<section class="technologies certificates py-5">
+<!--Start Clients-->
+<section class="py-5 bg-gradient3 client">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading">
-					<h2>We Partner with the <span>World's technology</span> leaders</h2>
+					<!-- <span>Our happy customers</span> -->
+					<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
 				</div>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeIn">
-			<div class="col-12">
-				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-lg-12">
+				<div class="client-logoset">
+					<div class="row">
+						@foreach($clients as $item)
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border mt-4">
+							<div class="brand-logo hoshd">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
 							</div>
 						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
+						@endforeach
 					</div>
 				</div>
 			</div>
+		</div>
+	</div>
+</section>
+<!--End Clients-->
 
-			<!--<div class="col-12 text-center mt-3">-->
-			<!--	<a class="btn mb-3 mr-1" href="#tech" role="button" data-bs-slide="prev">-->
-			<!--		<i class="fa fa-arrow-left"></i>-->
-			<!--	</a>-->
-			<!--	<a class="btn mb-3" href="#tech" role="button" data-bs-slide="next">-->
-			<!--		<i class="fa fa-arrow-right"></i>-->
-			<!--	</a>-->
-			<!--</div>-->
+<!-- Start Technologies -->
+<section class="technologies certificates pt-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -1527,8 +1498,8 @@
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
-				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>Mobile App</span> Development Company</h2>
+				<div class="common-heading w-tdxt text-center">
+					<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>

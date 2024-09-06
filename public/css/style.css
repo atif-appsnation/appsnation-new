@@ -10863,48 +10863,6 @@ i.fa-brands.fa-instagram {
     display: none;
 }
 
-.custom-border {
-    border-top: 1px solid var(--gray-color);
-    border-right: 1px solid var(--gray-color);
-    border-bottom: 1px solid transparent;
-    border-left: 1px solid transparent;
-    /* height: 200px; */
-    /*height: 100px; */
-    position: relative;
-    transition: 500ms ease;
-}
-
-.custom-border:first-child, .custom-border:nth-child(7) {
-    border-left: 1px solid var(--gray-color);
-}
-
-.custom-border:last-child, .custom-border:nth-last-child(2), .custom-border:nth-last-child(3), .custom-border:nth-last-child(4), .custom-border:nth-last-child(5), .custom-border:nth-last-child(6) {
-    border-bottom: 1px solid var(--gray-color);
-}
-
-.custom-border:before {
-    content: '';
-    position: absolute;
-    width: calc(100% + 4px);
-    height: calc(100% + 4px);
-    top: calc(2px/-1);
-    left: calc(2px/-1);
-    background: linear-gradient(to right, var(--second-color) 0%, var(--second-color) 100%), linear-gradient(to top, var(--second-color) 50%, transparent 50%), linear-gradient(to top, var(--second-color) 50%, transparent 50%), linear-gradient(to right, var(--second-color) 0%, var(--second-color) 100%), linear-gradient(to left, var(--second-color) 0%, var(--second-color) 100%);
-    background-size: 100% 2px, 2px 200%, 2px 200%, 0% 2px, 0% 2px;
-    background-position: 50% 100%, 0% 0%, 100% 0%, 100% 0%, 0% 0%;
-    background-repeat: no-repeat, no-repeat;
-    transition: transform 0.3s ease-in-out, background-position 0.3s ease-in-out, background-size 0.3s ease-in-out;
-    transform: scaleX(0) rotate(0deg);
-    transition-delay: 0.6s, 0.3s, 0s;
-}
-
-.custom-border:hover:before {
-    background-size: 200% 2px, 2px 400%, 2px 400%, 55% 2px, 55% 2px;
-    background-position: 50% 100%, 0% 100%, 100% 100%, 100% 0%, 0% 0%;
-    transform: scaleX(1) rotate(0deg);
-    transition-delay: 0s, 0.3s, 0.6s;
-}
-
 .contact .nav-link.active {
     background-color: transparent;
     border: 2px solid #089674;
@@ -10976,10 +10934,8 @@ i.fa-brands.fa-instagram {
     color: var(--white-color);
 } */
 
-.why-choose-section {
-    background-image: url(../images/why-choose/why-choose-section.webp);
-    background-size: cover;
-    background-attachment: fixed;
+.why-choose-section .card {
+    background: var(--light-grey);
 }
 
 .why-choose-section h3 {
@@ -11022,6 +10978,49 @@ i.fa-brands.fa-instagram {
 .numbers-about, .numbers-count {
     text-align: center;
 }
+
+.testinomial-section-app {
+    background-color: var(--black2-color);
+}
+
+.review-div img {
+    background: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.clients span {
+    color: var(--second-color);
+}
+
+.client {
+    background-color: var(--light-grey);
+}
+
+.custom-border div {
+    border-top: 1px solid var(--light-grey);
+    border-right: 1px solid var(--light-grey);
+    border-bottom: 1px solid var(--light-grey);
+    border-left: 1px solid var(--light-grey);
+    transition: 500ms ease;
+    background: var(--white-color);
+    padding: 20px 0px;
+    border-radius: 20px;
+}
+
+.certificates, .badges-section {
+    background-color: var(--black2-color);
+}
+
+.certificates .certificate div {
+    display: block;
+    border-radius: 20px;
+    background: var(--white-color);
+    padding: 20px 0px;
+    width: 300px;
+    margin: 0 auto;
+}
+
 
 /* End Home Page */
 

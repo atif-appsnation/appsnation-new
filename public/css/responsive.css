@@ -1643,7 +1643,7 @@
     /* Home */
 
 	.hero-main-rp {
-		padding: 130px 30px 30px;
+		padding: 180px 30px 30px;
 		left: 0%;
 	}
 
@@ -1832,6 +1832,20 @@
 		margin: 0 auto;
 	}
     
+	.achievements-count div:nth-child(1) {
+		border-bottom: 2px solid var(--white-color);
+	}
+
+	.achievements-count div:nth-child(2) {
+		border-right: 0px solid var(--white-color);
+		border-bottom: 2px solid var(--white-color);
+	}
+
+	.contact-div p {
+		font-size: 32px;
+		line-height: 36px;
+	}
+
     /* About Us Page */
     
 	/* .choose-us {
@@ -2271,8 +2285,17 @@
     
     /* Home */
 
+	.contact-div p {
+		font-size: 36px;
+		line-height: 40px;
+	}
+
+	.side-menu.-right {
+		right: 25px;
+	}
+
 	.hero-main-rp {
-		padding: 130px 30px 80px;
+		padding: 300px 30px 80px;
 		left: 0%;
 	}
     
@@ -2775,8 +2798,21 @@
 		margin: 25px 0px 0px;
 		width: 65%;
 	}
+
+	.side-menu.-right {
+		right: 32px;
+	}
     
     /* Home */
+
+	.contact-div p {
+		font-size: 36px;
+		line-height: 40px;
+	}
+
+	.certificates .certificate div {
+		width: auto;
+	}
 
 	.bages-slider img {
 		height: 165px;
@@ -2804,7 +2840,7 @@
 	}
 
 	.hero-main-rp {
-		padding: 180px 60px 80px;
+		padding: 250px 60px 80px;
 		left: 0%;
 	}
     
@@ -3195,6 +3231,10 @@
 		display: block;
 		margin: 25px 0px 0px;
 		width: 50%;
+	}
+
+	.side-menu.-right {
+		right: 7px;
 	}
     
     /* Home */

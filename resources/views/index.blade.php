@@ -7,25 +7,15 @@
 	</video>
 	<div class="hero-main-rp container main-ban hidden">
 		<div class="row align-items-center">
-			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
+			<div class="col-sm-12 col-md-12 col-lg-8 col-xl-6 v-center">
 				<div class="hero-heading-sec2 niwax" data-rellax-speed="3">
 					<h1 class="wow fadeIn">Top Rated <span>Mobile App</span> Development Company</h1>
 					<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
-				<!-- <div class="awrd-sec text-w wow fadeIn">
-					<h5>Our Achievements</h5>
-					<div class="bages-slider owl-carousel mt20">
-						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge1.webp" alt="niwax mobile app development company"></a>
-						</div>
-						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge2.webp" alt="niwax mobile app development company"></a>
-						</div>
-						<div class="img-badge-">
-							<a href="#"> <img src="images/icons/badge3.webp" alt="niwax mobile app development company"></a>
-						</div>
-					</div>
-				</div> -->
 			</div>
 		</div>
 	</div>
@@ -55,16 +45,15 @@
 				<h2 class="numbers-count">900+</h2>
 				<p class="numbers-about">People on Board</p>
 			</div>
-			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
 				<h2 class="numbers-count">1k+</h2>
 				<p class="numbers-about">Projects Delivered</p>
 			</div>
-			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
 				<h2 class="numbers-count">67</h2>
 				<p class="numbers-about">Our Current NPS Score</p>
 			</div>
 		</div>
-		
 	</div>
 </section>
 <!-- End Key Highlights -->
@@ -263,7 +252,7 @@
 				<div class="col-lg-7 my-auto">
 					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
 				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-lg-0">
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -426,7 +415,7 @@
 		</div>
 	</div>
 
-	<section class="container-fluid py-lg-5">
+	<section class="container py-lg-5">
 		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
@@ -445,70 +434,154 @@
 			</li> -->
 		</ul>
 		<div class="tab-content mt-5 wow fadeIn">
-			<div id="app" class="tab-pane active"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto app-first-cs">
-							<img src="images/home/fitness-app.webp" class="img-fluid" alt="Gym App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Gym App</h2>
-							<p class="pt-3 case-study-text">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being. This platform excels by integrating innovative tools and expert insights designed to empower users on their journey toward optimal fitness and wellness. Engage with Gymnasium to transform your health through structured guidance and supportive community features. Whether you're starting your fitness journey or aiming to reach new goals, Gymnasium provides the tools and support you need to succeed. From personalized workout plans to expert nutritional advice and real-time progress tracking, it's your all-in-one companion for achieving and maintaining a healthier lifestyle.</p>
-							<a target="_blank" href="{{url('/case-studies/gym-app')}}" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
+			<div id="app" class="tab-pane active">
+				<div class="row mt60">
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Mobile App Development</span>
+								</div>
+								<h3 class="mt30 mb30">Gym App</h3>
+								<p class="mb30">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being.</p>
+								<ul class="info-list-ul">
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
+								</ul>
+								<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/gym-app.webp" alt="Gym App" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto app-second-cs">
-							<img src="images/case-studies/real-estate-app/header-phone.webp" class="img-fluid" alt="Real Estate App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Real Estate App</h2>
-							<p class="pt-3 case-study-text">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches. We aim to enhance visibility through effective digital marketing and maintain a transparent feedback system for continuous improvement based on user insights. These objectives are designed to elevate the real estate experience and deliver exceptional value to our users.</p>
-							<a target="_blank" href="{{url('/case-studies/real-estate-app')}}" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Mobile App Development</span>
+								</div>
+								<h3 class="mt30 mb30">Real Estate App</h3>
+								<p class="mb30">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches.</p>
+								<ul class="info-list-ul">
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
+								</ul>
+								<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/real-estate-app.webp" alt="Real Estate App" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div id="web" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto web-first-cs">
-							<img src="images/case-studies/gym-web/header-web.webp" class="img-fluid" alt="Gym App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/gym-logo.webp" alt="Gym Web" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Gym Web</h2>
-							<p class="pt-3 case-study-text">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface. We understand that starting and sticking to a fitness regimen can be challenging, which is why Gymnasium simplifies the complexities of fitness, making it accessible and enjoyable for everyone, anywhere, and anytime. From personalized workout plans tailored to your fitness level and goals to expert dietary recommendations, Gymnasium empowers you to take charge of your health with confidence and ease.</p>
-							<a target="_blank" href="{{url('/case-studies/gym-web')}}" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
+			<div id="web" class="tab-pane fade">
+				<div class="row mt60">
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Website Development</span>
+								</div>
+								<h3 class="mt30 mb30">Gym Web</h3>
+								<p class="mb30">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface.</p>
+								<ul class="info-list-ul">
+									<li>Content Management</li>
+									<li>User Management</li>
+									<li>Bookings Management</li>
+									<li>Promotions</li>
+								</ul>
+								<a href="{{url('/case-studies/gym-web')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-auto web-second-cs">
-							<img src="images/case-studies/real-estate-web/header-web.webp" class="img-fluid" alt="Real Estate App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1 my-auto">
-							<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Real Estate Web</h2>
-							<p class="pt-3 case-study-text">Discover Avenue, the ultimate app for all your property buying and selling needs. Our platform offers a seamless and efficient experience with a user-friendly interface, extensive property listings, and powerful tools. Avenue simplifies real estate transactions, making it easy for you to navigate the market confidently. Join us today and explore a smarter way to buy and sell properties.</p>
-							<a target="_blank" href="{{url('/case-studies/real-estate-web')}}" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Website Development</span>
+								</div>
+								<h3 class="mt30 mb30">Real Estate Web</h3>
+								<p class="mb30">Discover Avenue, the ultimate app for all your property buying and selling needs.</p>
+								<ul class="info-list-ul">
+									<li>Dashboard</li>
+									<li>Properties Management</li>
+									<li>Mortgage</li>
+									<li>User Management</li>
+								</ul>
+								<a href="{{url('/case-studies/real-estate-web')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -532,7 +605,7 @@
 			</div>
 			<div class="col-xl-6 mt-3">
 				<div class="row scroller">
-					<div class="col-sm-6 col-md-6 col-lg-4">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
@@ -540,7 +613,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-sm-0">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-sm-0">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
@@ -548,7 +621,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
@@ -556,7 +629,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
@@ -564,7 +637,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
@@ -572,7 +645,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
@@ -580,7 +653,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
@@ -588,7 +661,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
@@ -596,7 +669,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
@@ -604,7 +677,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
@@ -612,7 +685,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
@@ -620,7 +693,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
@@ -628,7 +701,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
@@ -636,7 +709,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4	 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
@@ -664,41 +737,41 @@
 				</a>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block ms-lg-auto">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block mx-auto ms-lg-auto">
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-md-3">
-				<div class="card">
+			<div class="col-md-6 col-lg-3">
+				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" alt="Team Scalability">
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3 w-100" alt="Team Scalability">
 						<h3>Team Scalability</h3>
 						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3 mt-3 mt-md-0">
-				<div class="card">
+			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
+				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" alt="Quick Time to Market">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
 						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3 mt-3 mt-md-0">
-				<div class="card">
+			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
+				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" alt="Cost Saving">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3 w-100" alt="Cost Saving">
 						<h3>Cost Saving</h3>
 						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3 mt-3 mt-md-0">
-				<div class="card">
+			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
+				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3 w-100" alt="Skilled Resources">
 						<h3>Skilled Resources</h3>
 						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>
@@ -713,9 +786,9 @@
 <section class="technologies-stack py-5">
 	<div class="container">
 		<div class="row fadeIn">
-			<div class="col-lg-6">
+			<div class="col-12">
 				<div class="common-heading">
-					<h2 class="mb30"><span>Technologies</span> We Work With</h2>
+					<h2 class="mb30 text-center"><span>Technologies</span> We Work With</h2>
 				</div>
 			</div>
 		</div>
@@ -1454,7 +1527,7 @@
 <!--End Clients-->
 
 <!-- Start Technologies -->
-<section class="technologies certificates pt-5">
+<section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
@@ -1577,8 +1650,6 @@
 	</div>
 </section>
 <!--End Badges-->
-
-
 
 <!-- Google Tag Manager -->
 <script>

@@ -1515,7 +1515,7 @@ a.play-video::after {
 }
 
 .portfolio-section {
-    background: #fff;
+    background: var(--light-grey);
     position: relative;
 }
 
@@ -2873,13 +2873,13 @@ footer.ftshap:before {
 }
 
 .btn-outline {
-    border: 2px solid var(--black-color)248;
-    color: #050748;
+    border: 2px solid var(--black2-color)248;
+    color: var(--white-color);
     display: inline-block;
     padding: 0px 32px;
     font-family: var(--font-family);
     font-size: 16px;
-    background: #fff;
+    background: var(--black2-color);
     -webkit-box-shadow: 0 10px 15px 0px rgba(3, 35, 68, 0.1);
     box-shadow: 0 10px 15px 0px rgba(3, 35, 68, 0.1);
     line-height: 52px;
@@ -6739,7 +6739,7 @@ html .pb140 {
     background: -moz-linear-gradient(top, #ffe2e2 0%, #fff9f4 100%);
     background: -webkit-linear-gradient(top, #ffe2e2 0%, #fff9f4 100%);
     background: linear-gradient(to bottom, #ffe2e2 0%, #fff9f4 100%);
-    background: #ffffff;
+    background: #fff;
 }
 
 .bg-gradient2 {
@@ -6778,12 +6778,6 @@ html .pb140 {
     background: -webkit-linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%);
     background: linear-gradient(135deg, #e0f7f4 0%, #ccf2f4 50%, #e0ffe8 100%);
 }
-
-
-
-
-
-
 
 .bg-gradient7 {
     background: #ffe2e2;
@@ -7845,7 +7839,7 @@ a.smllbtnn {
 }
 
 .widebloktag span {
-    background: #fff;
+    background: var(--black2-color);
     padding: 5px 14px;
     font-size: 14px;
     border-radius: 4px;
@@ -8514,8 +8508,8 @@ html .mt15 {
 }
 
 .footerdex {
-    /* background-color: var(--black-color); */
-    background-image: linear-gradient(to right, rgba(0, 0, 0), rgb(0, 39, 53));
+    background-color: var(--black2-color);
+    /* background-image: linear-gradient(to right, rgba(0, 0, 0), rgb(0, 39, 53)); */
 }
 
 #progress-bar {
@@ -9398,7 +9392,7 @@ textarea#message::placeholder {
 }
 
 .timeline .timeline-year {
-    background-color: var(--third-color);
+    background-color: var(--first-color);
     font-size: 30px;
     border-radius: 50%;
     width: 60px;
@@ -10000,8 +9994,8 @@ color: var(--white-color); */
     left: 10px;
 } */
 
-.logowide {
-    float: right;
+.logowide img {
+    width: 40%;
 }
 
 .banner1 {
@@ -10847,10 +10841,8 @@ i.fa-brands.fa-instagram {
     border-radius: 14px;
 }
 
-.contact {
-    background-image: url(../images/banner/location.webp);
-    background-size: cover;
-    position: relative;
+.contact, .location {
+    background-color: var(--light-grey);
 }
 
 .portfolio-page div nav div:nth-child(1) {
@@ -10936,6 +10928,7 @@ i.fa-brands.fa-instagram {
 
 .why-choose-section .card {
     background: var(--light-grey);
+    border-radius: 20px;
 }
 
 .why-choose-section h3 {
@@ -14618,5 +14611,5 @@ img {
 }
 
 .contact-div p span {
-    color: var(--third-color);
+    color: var(--second-color);
 }

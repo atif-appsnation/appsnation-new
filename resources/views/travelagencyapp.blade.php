@@ -380,17 +380,19 @@
 </section>
 <!--End Features-->
 
-<section class="travel-app my-5">
+<!--Start Download App-->
+<section class="my-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.2s">
-				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="img-fluid">
+			<div class="col-md-6 text-end wow fadeIn" data-wow-delay="0.2s">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="w-25">
 			</div>
 			
-			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="img-fluid">
+			<div class="col-md-6 text-start wow fadeIn" data-wow-delay="0.4s">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="w-25">
 			</div>
 		</div>
 	</div>
 </section>
+<!--End Download App-->
 @endsection

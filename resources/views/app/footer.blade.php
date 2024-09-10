@@ -84,41 +84,41 @@
 <section class="location py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-            <div class="col-12 col-md-6 col-xl-2">
-                <img src="images/location/montana.webp" alt="USA" class="pt-4 img-fluid">
+            <div class="col-12 col-md-6 col-xl">
+                <img src="{{asset('images/location/montana.webp')}}" alt="USA" class="pt-4 img-fluid">
                 <h4 class="pt-4">Montana, USA</h4>
                 <p class="pt-3">12316 SE 254th Ct Kent, WA 98030, United States</p>
                 <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
-            <div class="col-12 col-md-6 col-xl-2">
-                <img src="images/location/california.webp" alt="USA" class="pt-4 img-fluid">
-                <h4 class="pt-4">CA, USA</h4>
+            <div class="col-12 col-md-6 col-xl">
+                <img src="{{asset('images/location/california.webp')}}" alt="USA" class="pt-4 img-fluid">
+                <h4 class="pt-4">California, USA</h4>
                 <p class="pt-3">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
                 <a href="https://maps.app.goo.gl/TqBHrPsEMyjLiEHP6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
-            <div class="col-12 col-md-6 col-xl-2">
-                <img src="images/location/saudia-arabia.webp" alt="Saudia Arabia" class="pt-4 img-fluid">
-                <h4 class="pt-4">Saudia Arabia</h4>
+            <div class="col-12 col-md-6 col-xl">
+                <img src="{{asset('images/location/saudia-arabia.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid">
+                <h4 class="pt-4">Riyadh, KSA</h4>
                 <p class="pt-3">Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
                 <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
-            <div class="col-12 col-md-6 col-xl-2">
-                <img src="images/location/united-arab-emirates.webp" alt="Saudia Arabia" class="pt-4 img-fluid">
-                <h4 class="pt-4">United Arab Emirates</h4>
-                <p class="pt-3">Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
+            <div class="col-12 col-md-6 col-xl">
+                <img src="{{asset('images/location/united-arab-emirates.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid">
+                <h4 class="pt-4">Dubai, UAE</h4>
+                <p class="pt-3">Cluster D - Jumeirah Lake Towers - Dubai - United Arab Emirates</p>
                 <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
-            <div class="col-12 col-md-6 col-xl-2">
-                <img src="images/location/pakistan.webp" alt="Pakistan" class="pt-4 img-fluid">
-                <h4 class="pt-4">Pakistan</h4>
+            <div class="col-12 col-md-6 col-xl">
+                <img src="{{asset('images/location/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid">
+                <h4 class="pt-4">Karachi, PAK</h4>
                 <p class="pt-3">Plot # 115-B, P.E.C.H.S Block 2, 75400, Karachi, Pakistan</p>
                 <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>

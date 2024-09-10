@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -112,7 +112,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -124,7 +124,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -150,7 +150,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -162,7 +162,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -324,14 +324,8 @@
 	<div class="real-estate-visuals-background pt50 pb50">
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
-				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.4s">
-					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-1.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-1">
-				</div>
-				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.6s">
-					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-2.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-2">
-				</div>
-				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.8s">
-					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals-3.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals-3">
+				<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
+					<img src="{{asset('images/case-studies/real-estate-app/real-estate-app-visuals.webp')}}" alt="Real Estate App Visuals" class="img-fluid real-estate-app-visuals d-block mx-auto">
 				</div>
 			</div>
 		</div>
@@ -409,12 +403,12 @@
 <section class="my-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.2s">
-				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="img-fluid">
+			<div class="col-md-6 text-end wow fadeIn" data-wow-delay="0.2s">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="w-25">
 			</div>
 			
-			<div class="col-md-6 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="img-fluid">
+			<div class="col-md-6 text-start wow fadeIn" data-wow-delay="0.4s">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="w-25">
 			</div>
 		</div>
 	</div>

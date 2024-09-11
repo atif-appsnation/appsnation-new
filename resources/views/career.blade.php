@@ -10,7 +10,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
 						<h1 class="text-white">Career</h1>
@@ -24,7 +24,7 @@
 <!-- End Breadcrumb -->
 
 <!-- Start Recruitment -->
-<section class="recruitment-process py-5">
+<section class="recruitment-process py-5 wow fadeIn">
 	<div class="container">
 		<div class="row pt-3">
 			<div class="col-lg-6">
@@ -34,17 +34,17 @@
 		</div>
 		<div class="row mt-5">
 			<div class="col-sm-12 col-md-4">
-				<img src="images/icons/application.svg" class="career-icons">
+				<img src="images/career/application.svg" class="career-icons">
 				<h4 class="py-3">Application</h4>
 				<p>Submit your application through our website. Your application is being read by real humans.</p>
 			</div>
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
-				<img src="images/icons/interview.svg" class="career-icons">
+				<img src="images/career/interview.svg" class="career-icons">
 				<h4 class="py-3">Interview</h4>
 				<p>Let us get familiar with your competencies and experience in the field.</p>
 			</div>
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
-				<img src="images/icons/job-offer.svg" class="career-icons">
+				<img src="images/career/offer.svg" class="career-icons">
 				<h4 class="py-3">Offer</h4>
 				<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
 			</div>
@@ -141,166 +141,126 @@
 <!-- Start Hire Developers -->
 <section class="hire-developers py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInDown">
-			<div class="col-12">
-				<div class="card py-3">
-					<div class="card-body">
-						<div class="row">
-							<div class="col-xl-6">
-								<div class="common-heading">
-									<h2>Hire Developers For <span>Custom IT Projects</span></h2>
-									<!--<p class="pt-2">Appsnation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
-									<p class="pt-2">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
-									<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
-								</div>
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-xl-6 my-auto">
+				<div class="common-heading">
+					<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					<!--<p class="pt-2">Appsnation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-xl-6 mt-3">
+				<div class="row scroller">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
+								<!-- <p class="text-center pt-2">Unity</p> -->
 							</div>
-							<div class="col-xl-6 mt-3">
-								<div class="row scroller">
-									<div class="col-sm-6 col-md-6 col-lg-4">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
-												<p class="text-center pt-2">Unity</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-sm-0">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
-												<p class="text-center pt-2">Unreal Engine</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
-												<p class="text-center pt-2">WordPress</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
-												<p class="text-center pt-2">PHP</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
-												<p class="text-center pt-2">Angularjs</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
-												<p class="text-center pt-2">C++</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
-												<p class="text-center pt-2">Blender</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
-												<p class="text-center pt-2">Python</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
-												<p class="text-center pt-2">Node JS</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
-												<p class="text-center pt-2">Photon</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
-												<p class="text-center pt-2">React Native</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
-												<p class="text-center pt-2">JavaScript</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
-												<p class="text-center pt-2">HTML</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
-												<p class="text-center pt-2">Laravel</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
-												<p class="text-center pt-2">Photoshop</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/illustrator-logo.webp" class="img-fluid d-block mx-auto" alt="Illustrator">
-												<p class="text-center pt-2">Illustrator</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/maya-logo.webp" class="img-fluid d-block mx-auto" alt="Maya">
-												<p class="text-center pt-2">Maya</p>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-										<div class="card stack-hov">
-											<div class="card-body">
-												<img src="images/tech/maxst-logo.webp" class="img-fluid d-block mx-auto" alt="MaxST">
-												<p class="text-center pt-2">MaxST</p>
-											</div>
-										</div>
-									</div>
-								</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-sm-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+								<!-- <p class="text-center pt-2">Unreal Engine</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
+								<!-- <p class="text-center pt-2">WordPress</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
+								<!-- <p class="text-center pt-2">PHP</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
+								<!-- <p class="text-center pt-2">Angular JS</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
+								<!-- <p class="text-center pt-2">C++</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+								<!-- <p class="text-center pt-2">Blender</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
+								<!-- <p class="text-center pt-2">Python</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
+								<!-- <p class="text-center pt-2">Node JS</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
+								<!-- <p class="text-center pt-2">Photon</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
+								<!-- <p class="text-center pt-2">React Native</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
+								<!-- <p class="text-center pt-2">JavaScript</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
+								<!-- <p class="text-center pt-2">HTML</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4	 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
+								<!-- <p class="text-center pt-2">Laravel</p> -->
 							</div>
 						</div>
 					</div>
@@ -324,32 +284,32 @@
 		</div>
 		<div class="row mt-5">
 			<div class="col-sm-12 col-md-6 col-lg-4">
-				<img src="images/icons/bonus.svg" class="career-icons">
+				<img src="images/career/bonus.svg" class="career-icons">
 				<h4 class="py-3">Bonuses</h4>
 				<p>Pay rise, promotions, and top opportunities for professional development.</p>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4 mt-md-0">
-				<img src="images/icons/vehicle.svg" class="career-icons mb-md-4">
+				<img src="images/career/vehicle.svg" class="career-icons mb-md-4">
 				<h4 class="py-3">Vehicle</h4>
 				<p>Company maintained car.</p>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4 mt-lg-0">
-				<img src="images/icons/medical.svg" class="career-icons">
+				<img src="images/career/medical.svg" class="career-icons">
 				<h4 class="py-3">Health insurance</h4>
 				<p>We ensure all your healthcare needs, we believe in human right.</p>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
-				<img src="images/icons/leaves.svg" class="career-icons">
+				<img src="images/career/leaves.svg" class="career-icons">
 				<h4 class="py-3">Parental leaves</h4>
 				<p>When it comes to feelings, work isn’t the priority.</p>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
-				<img src="images/icons/funds.svg" class="career-icons">
+				<img src="images/career/funds.svg" class="career-icons">
 				<h4 class="py-3">Gratuity funds</h4>
 				<p>A company sponsored fund that enables you to maximize benefits.</p>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
-				<img src="images/icons/training.svg" class="career-icons">
+				<img src="images/career/training.svg" class="career-icons">
 				<h4 class="py-3">Training</h4>
 				<p>Mentors to guide and support you. Training programs to polish your skills.</p>
 			</div>
@@ -359,43 +319,55 @@
 <!-- End Perk -->
 
 <!-- Start Why Choose -->
-<section class="why-choose-section py-3 py-md-3 py-lg-5">
+<section class="why-choose-section py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInUp">
-			<div class="col-12">
-				<div class="card py-3">
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-lg-6 my-auto">
+				<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
+				<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
+					<i class="fas fa-chevron-right fa-icon"></i>
+					<span class="circle"></span>
+				</a>
+			</div>
+			<div class="col-lg-6">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block mx-auto ms-lg-auto">
+			</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3">
+				<div class="card h-100">
 					<div class="card-body">
-						<div class="row">
-							<div class="col-lg-6">
-								<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
-								<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
-								<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4">
-							</div>
-							<div class="col-lg-6 mt-3">
-								<div class="row">
-									<div class="col-md-6">
-										<h3>Team Scalability</h3>
-										<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" alt="Team Scalability">
-										<p class="mb-0">Boost your team with domain specialists whenever required.</p>
-									</div>
-									<div class="col-md-6 mt-3 mt-sm-0">
-										<h3>Quick Time to Market</h3>
-										<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" alt="Quick Time to Market">
-										<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
-									</div>
-									<div class="col-md-6 mt-3">
-										<h3>Cost Saving</h3>
-										<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" alt="Cost Saving">
-										<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
-									</div>
-									<div class="col-md-6 mt-3">
-										<h3>Skilled Resources</h3>
-										<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
-										<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
-									</div>
-								</div>
-							</div>
-						</div>
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3 w-100" alt="Team Scalability">
+						<h3>Team Scalability</h3>
+						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
+						<h3>Quick Time to Market</h3>
+						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3 w-100" alt="Cost Saving">
+						<h3>Cost Saving</h3>
+						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3 w-100" alt="Skilled Resources">
+						<h3>Skilled Resources</h3>
+						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>
 				</div>
 			</div>

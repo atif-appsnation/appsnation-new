@@ -3606,16 +3606,17 @@
 		float: right;
 	}
 
-	.services-img-div {
+	/* .services-img-div {
 		display: inline-block;
 		width: 15%;
+		float: left;
 	}
 
 	.service-heading {
 		display: inline-block;
-		width: 80%;
+		width: 82%;
 		padding-left: 3%;
-	}
+	} */
 	
 	.home-timeline-content {
         height: 196px;

@@ -80,7 +80,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/android-app-development-icon.svg" alt="Android App Development">
+							<img src="images/home/android-app-development-icon.svg" alt="Android App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>Android App Development</h4>
@@ -98,7 +98,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/ios-app-development-icon.svg" alt="iOS App Development">
+							<img src="images/home/ios-app-development-icon.svg" alt="iOS App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>iOS App Development</h4>
@@ -116,7 +116,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development">
+							<img src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>Cross-Platform App Development</h4>
@@ -134,7 +134,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/game-app-development-icon.svg" alt="Game App Development">
+							<img src="images/home/game-app-development-icon.svg" alt="Game App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>Game App Development</h4>
@@ -152,7 +152,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/web-app-development-icon.svg" alt="Web App Development">
+							<img src="images/home/web-app-development-icon.svg" alt="Web App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>Web App Development</h4>
@@ -171,7 +171,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development">
+							<img src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>Wearable App Development</h4>
@@ -189,7 +189,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/ar-app-development-icon.svg" alt="AR App Development">
+							<img src="images/home/ar-app-development-icon.svg" alt="AR App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>AR App Development</h4>
@@ -207,7 +207,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/vr-app-development-icon.svg" alt="VR App Development">
+							<img src="images/home/vr-app-development-icon.svg" alt="VR App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>VR App Development</h4>
@@ -225,7 +225,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/mr-app-development-icon.svg" alt="MR App Development">
+							<img src="images/home/mr-app-development-icon.svg" alt="MR App Development" class="img-fluid">
 						</div>
 						<div class="service-heading">
 							<h4>MR App Development</h4>
@@ -1447,23 +1447,23 @@
 			<div class="col-lg-5 fadeIn my-auto">
 				<div class="row mt30 justify-content-center">
 					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div" data-wow-delay=".2s">
-							<img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
 					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div" data-wow-delay=".4s">
-							<img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
 					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div" data-wow-delay=".6s">
-							<img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
 				</div>
 				<div class="review-title-ref mt40">
-					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-7 wow fadeIn">

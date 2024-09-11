@@ -29,7 +29,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 v-center">
-				<div class="about-image"> <img src="images/about/aboutuss.png" alt="about us" class="img-fluid"> </div>
+				<div class="about-image">
+					<img src="images/about-us/about-us.webp" alt="About Us" class="img-fluid">
+				</div>
 			</div>
 			<div class="col-lg-6 mt-30 mt-lg-0">
 				<div class="common-heading text-l ">
@@ -45,33 +47,20 @@
 <!--End About-->
 
 <!--Start Statistics-->
-<section class="about-statistics py-5">
+<section class="py-5">
 	<div class="container">
-		<div class="row in-stats about-statistics">
-			<div class="col-sm-4 text-center">
-				<div class="statistics">
-					<div class="statnumb counter-number">
-						<span class="counter">450</span>
-						<p>Happy Clients</p>
-					</div>
-				</div>
+		<div class="row justify-content-center wow fadeIn achievements-count">
+			<div class="col-6 col-sm-6 col-md-4 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">450</h2>
+				<p class="numbers-about">Happy Clients</p>
 			</div>
-			<div class="col-sm-4 text-center">
-				<div class="statistics">
-					<div class="statnumb">
-						<span class="counter">95</span>
-						<span>k</span>
-						<p>Hours Worked</p>
-					</div>
-				</div>
+			<div class="col-6 col-sm-6 col-md-4 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">95k+</h2>
+				<p class="numbers-about">Hours Worked</p>
 			</div>
-			<div class="col-sm-4 text-center">
-				<div class="statistics mb0">
-					<div class="statnumb counter-number">
-						<span class="counter">850</span>
-						<p>Projects Done</p>
-					</div>
-				</div>
+			<div class="col-6 col-sm-6 col-md-4 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+				<h2 class="numbers-count">850</h2>
+				<p class="numbers-about">Projects Done</p>
 			</div>
 		</div>
 	</div>
@@ -92,54 +81,54 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/icons/Client First-01.webp" alt="service" class="img-fluid about-icon">
+						<img src="images/about-us/client-first.svg" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2">Client First</h4>
+					<h4 class="mb-2 mt-3">Client First</h4>
 					<p>For any business, Clients are always at the core. Being a leading developer of web and mobile applications, our concept goes beyond our direct customers.We always start from where you are with your ideas and we think from the viewpoints of your end users, their areas of pain, and formulate a solution that solves key issues to help your business.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/icons/EffectiveSynergy-01.webp" alt="service" class="img-fluid about-icon">
+						<img src="images/about-us/effective-synergy.svg" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2">Effective Synergy</h4>
+					<h4 class="mb-2 mt-2">Effective Synergy</h4>
 					<p>Communication is to hear what isn't being said. We appear at times to over-communicate. While it sounds overwhelming, it works wonders for our clients and our company ultimately. With communication alone we solve real-world problems. Our Development team remains in contact with customers through channels and media that allow performance, transparency and accuracy, feasible with all time zones across the World.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/icons/OnTimeDelivery-01.webp" alt="service" class="img-fluid about-icon">
+						<img src="images/about-us/on-time-delivery.svg" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2">On Time Delivery</h4>
+					<h4 class="mb-2 mt-3">On Time Delivery</h4>
 					<p>We do not over promise we over-deliver our promise.We have a great collection of internal frameworks with best-in-class infrastructure with a decade of experience in the IT software development industry that helps us to deliver solutions with superior quality at all times. We have learned how to avoid mistakes and repeat success all these years. We don't brag about consistency alone. In time, we describe and produce it. Our Products are here to notify the same.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/icons/StrongExpertise01.webp" alt="service" class="img-fluid about-icon">
+						<img src="images/about-us/strong-experties.svg" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2">Strong Expertise</h4>
+					<h4 class="mb-2 mt-3">Strong Expertise</h4>
 					<p>With our core field of expertise being Ruby on Rails, Angular, React, our coding experts remain on the cutting edge of the newest and most successful technology trends and popular applications on the market. So you can expect a greater level of ownership, commitments &amp; deliveries in less time with higher quality while following all the best practices for the development. Thereby providing the best values for our customers. It is always that we believe in Quality &gt; Quantity &amp; “Value” is what is valued.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/icons/TotalOwnership&FeedbackBased01.webp" alt="service" class="img-fluid about-icon">
+						<img src="images/about-us/total-ownership-and-feedback-based.svg" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2">Total Ownership &amp; Feedback Based</h4>
+					<h4 class="mb-2 mt-3">Total Ownership &amp; Feedback Based</h4>
 					<p>We do not follow the criteria or requirements just like that. Right from the beginning we have a direct influence on the project. We take spontaneous feedback from our clients, their customers, and other stakeholders that have an impact on the product. And we take your product and its feedback seriously. With this we make sure that we all are heading towards the right direction. Which saves really everything that matters.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/icons/ResultsFocused01.webp" alt="service" class="img-fluid about-icon">
+						<img src="images/about-us/results-focused.svg" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2">Results Focused</h4>
+					<h4 class="mb-2 mt-3">Results Focused</h4>
 					<p>We create digitally adaptable products, not just features. These are the real world problems and the solutions are futuristic.And we make sure we deliver them regardless of any factors that may hinder the development or progress. Everything is in control. You know your destination? We know how to take you there. In the long term, our priority is on making your company succeed.</p>
 				</div>
 			</div>

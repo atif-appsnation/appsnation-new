@@ -88,7 +88,6 @@ h3,
 h4,
 h5,
 h6 {
-    /* font-family: var(--font-family); */
     font-family: var(--font-family);
     color: #000000;
     font-weight: 800;
@@ -267,7 +266,7 @@ span.circle2 {
 }
 
 .text-second {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .text-bold {
@@ -1132,7 +1131,7 @@ a.play-video::after {
     text-align: center;
     outline: none;
     color: var(--white-color);
-    background-color: var(--second-color);
+    background-color: var(--first-color);
     border: none;
     -webkit-border-radius: 100px;
     border-radius: 100px;
@@ -1988,8 +1987,8 @@ a.play-video::after {
 
 .custom-control-input:checked~.custom-control-label::before {
     color: var(--white-color);
-    border-color: var(--second-color);
-    background-color: var(--second-color);
+    border-color: var(--first-color);
+    background-color: var(--first-color);
 }
 
 .custom-control-input:focus~.custom-control-label::before {
@@ -2041,7 +2040,7 @@ a.play-video::after {
     position: relative;
     top: -14px;
     font-size: 14px;
-    color: var(--second-color);
+    color: var(--first-color);
     margin: 0;
     padding: 0;
     display: inline;
@@ -2069,7 +2068,7 @@ a.play-video::after {
 }
 
 .form-block button:hover {
-    background-color: var(--second-color);
+    background-color: var(--first-color);
 }
 
 
@@ -2652,7 +2651,7 @@ footer.ftshap:before {
 }
 
 .social-media-profile a:hover {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .bg-shape img {
@@ -3103,7 +3102,7 @@ footer.ftshap:before {
 .pricing-table .inner-table h2 {
     font-size: 42px;
     font-weight: 700;
-    color: var(--second-color);
+    color: var(--first-color);
     margin-bottom: 3px;
 }
 
@@ -5173,7 +5172,7 @@ h3 a {
 }
 
 .hero-heading-sec2 h1 span {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .hero-heading-sec2>p {
@@ -6077,7 +6076,7 @@ table.border {
 }
 
 .single-blog- .content .title a:hover {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .post-thumb {
@@ -8540,7 +8539,7 @@ html .mt15 {
 }
 
 .flup-flex-ileft p.title {
-    color: var(--second-color);
+    color: var(--first-color);
     font-size: 22px;
     font-weight: 600;
 }
@@ -8640,7 +8639,7 @@ html .mt15 {
 }
 
 .flup-theme {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .key-points {
@@ -8700,20 +8699,24 @@ html .mt15 {
     background-position: 0 100%;
 }
 
+.choose-us:hover img {
+    filter: invert(1);
+}
+
 .choose-us:hover h4, .choose-us:hover p {
     color: var(--white-color);
 }
 
-.services-img-div {
+/* .services-img-div {
     padding-top: 15px;
-}
+} */
 
 .service-heading {
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 .service-heading h4 {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .services-text-div {
@@ -9293,7 +9296,7 @@ ul.android-other-links li {
 }
 
 .red {
-    background-color: var(--second-color);
+    background-color: var(--first-color);
     animation-delay: 0.1s;
 }
 
@@ -9303,7 +9306,7 @@ ul.android-other-links li {
 }
 
 .violet {
-    background-color: var(--second-color);
+    background-color: var(--first-color);
     animation-delay: 0.3s;
 }
 
@@ -9753,13 +9756,13 @@ ul.service_box:nth-child(even) li:nth-child(n) {
 }
 
 .flup-theme-quote {
-    color: var(--second-color);
+    color: var(--first-color);
     font-size: 32px;
     position: relative;
 }
 
 .cnt-btn {
-    color: var(--second-color);
+    color: var(--first-color);
     background: #fff;
 }
 
@@ -10548,8 +10551,8 @@ button:not(:disabled) {
     color: var(--white-color);
 }
 
-.service-card-app:hover .services-img-div {
-    border: 2px solid var(--first-color);
+.service-card-app:hover img {
+    filter: invert(1);
 }
 
 .service-card {
@@ -10865,11 +10868,11 @@ i.fa-brands.fa-instagram {
 }
 
 .features-tab .nav-link {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .common-heading span {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 /* .hero-slider:hover img {
@@ -10983,7 +10986,7 @@ i.fa-brands.fa-instagram {
 }
 
 .clients span {
-    color: var(--second-color);
+    color: var(--first-color);
 }
 
 .client {
@@ -11187,7 +11190,7 @@ i.fa-brands.fa-instagram {
 	font-weight: 700;
 	line-height: 24px;
 	margin: 0 0 15px 0;
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .main-timeline .description {
@@ -13057,11 +13060,11 @@ ul.list {
 }
 
 .twod-art-page h1 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .twod-art-services h2 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .twod-art-services .card::before, .twod-art-services .card::after {
@@ -13342,7 +13345,7 @@ ul.list {
 }
 
 .twod-art-benefits-section h2 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .twod-art-benefit {
@@ -13359,7 +13362,7 @@ ul.list {
 
 .twod-concept-art h2 span, .twod-game-ui-ux-design h2 span,
 .twod-environment-design h2 span, .twod-character-design h2 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .twod-consultant-card p {
@@ -13387,7 +13390,7 @@ ul.list {
 }
 
 .threed-art-services h2 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .threed-art-services .card::before, .threed-art-services .card::after {
@@ -13668,7 +13671,7 @@ ul.list {
 }
 
 .threed-art-benefits-section h2 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .threed-art-benefit {
@@ -13689,7 +13692,7 @@ ul.list {
 
 .threed-character-design h2 span, .threed-environment-design h2 span,
 .threed-game-assets-design h2 span, .threed-sculpting-service h2 span {
-	color: var(--second-color);
+	color: var(--first-color);
 }
 
 .threed-consultant-card p {
@@ -14611,5 +14614,14 @@ img {
 }
 
 .contact-div p span {
-    color: var(--second-color);
+    color: var(--first-color);
+}
+
+.hire-developer p {
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.hire-developer p span {
+    color: var(--first-color);
 }

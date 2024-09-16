@@ -11,12 +11,11 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
 						<h1 class="text-white">Our Clients</h1>
-						<p class="text-white pt-3">We are constantly creating something that meets your expectations.<br>
-							Client satisfaction is our priority. We care for our clients.</p>
+						<p class="text-white pt-3">We are constantly creating something that meets your expectations. Client satisfaction is our priority. We care for our clients.</p>
 					</div>
 				</div>
 			</div>
@@ -26,29 +25,28 @@
 <!--End Breadcrumb Area-->
 
 <!--Start Clients-->
-<section class="py-5 bg-gradient3">
+<section class="py-5 bg-gradient3 client">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
+		<div class="row fadeIn">
+			<div class="col-12">
 				<div class="common-heading">
 					<!-- <span>Our happy customers</span> -->
-					<!-- <h2 class="mb30">Some of our Clients</h2> -->
+					<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
 				</div>
 			</div>
 		</div>
-		<div class="row justify-content-center wow fadeInLeft">
+		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-12">
 				<div class="client-logoset">
-					<ul class="row text-center clearfix apppg justify-content-center">
-
+					<div class="row">
 						@foreach($clients as $item)
-						<li class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border" data-wow-delay=".2s">
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border mt-4">
 							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
 							</div>
-						</li>
+						</div>
 						@endforeach
-					</ul>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -56,17 +54,57 @@
 </section>
 <!--End Clients-->
 
-<!--Start Badges-->
-<section class="badges-section py-5">
+<!-- Start Technologies -->
+<section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading w-tdxt fadeInLeft">
-					<h2>Ranked as #1 <span>Game App</span> Development Companies</h2>
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInRight">
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Technologies -->
+
+<!--Start Badges-->
+<section class="badges-section py-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading w-tdxt text-center">
+					<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -137,19 +175,28 @@
 				</div>
 			</div>
 		</div>
-
-
-		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
-				<p>We <span>Promise.</span> We <span>Deliver.</span> </p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
 	</div>
 </section>
 <!--End Badges-->
+
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
 
 @endsection

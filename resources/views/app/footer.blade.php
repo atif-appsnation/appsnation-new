@@ -85,25 +85,25 @@
 	<div class="container">
 		<div class="row justify-content-center">
             <div class="col-12 col-md-6 col-xl">
-                <img src="{{asset('images/location/montana.webp')}}" alt="USA" class="pt-4 img-fluid">
-                <h4 class="pt-4">Montana, USA</h4>
-                <p class="pt-3">12316 SE 254th Ct Kent, WA 98030, United States</p>
-                <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
+                <img src="{{asset('images/location/california.webp')}}" alt="USA" class="pt-4 img-fluid">
+                <h4 class="pt-4">California, USA</h4>
+                <p class="pt-3">3415 S Sepulveda Blvd, Los Angeles, CA, USA</p>
+                <a href="https://maps.app.goo.gl/TqBHrPsEMyjLiEHP6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
             <div class="col-12 col-md-6 col-xl">
-                <img src="{{asset('images/location/california.webp')}}" alt="USA" class="pt-4 img-fluid">
-                <h4 class="pt-4">California, USA</h4>
-                <p class="pt-3">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
-                <a href="https://maps.app.goo.gl/TqBHrPsEMyjLiEHP6" target="blank" class="btn-outline mt-3">View on Map
+                <img src="{{asset('images/location/montana.webp')}}" alt="USA" class="pt-4 img-fluid">
+                <h4 class="pt-4">Montana, USA</h4>
+                <p class="pt-3">1001 S Main St, Kalispell, MT 59901, USA</p>
+                <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
             <div class="col-12 col-md-6 col-xl">
                 <img src="{{asset('images/location/saudia-arabia.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid">
                 <h4 class="pt-4">Riyadh, KSA</h4>
-                <p class="pt-3">Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
+                <p class="pt-3">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
                 <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -111,7 +111,7 @@
             <div class="col-12 col-md-6 col-xl">
                 <img src="{{asset('images/location/united-arab-emirates.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid">
                 <h4 class="pt-4">Dubai, UAE</h4>
-                <p class="pt-3">Cluster D - Jumeirah Lake Towers - Dubai - United Arab Emirates</p>
+                <p class="pt-3">Cluster D - Jumeirah Lake Towers - Dubai - UAE</p>
                 <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -119,7 +119,7 @@
             <div class="col-12 col-md-6 col-xl">
                 <img src="{{asset('images/location/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid">
                 <h4 class="pt-4">Karachi, PAK</h4>
-                <p class="pt-3">Plot # 115-B, P.E.C.H.S Block 2, 75400, Karachi, Pakistan</p>
+                <p class="pt-3">Suite# 309، Tariq Centre, Tariq Rd, Karachi, PAK</p>
                 <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -163,10 +163,10 @@
                 <div class="row fttlnks">
                     <div class="col-12 col-sm-4 pt40">
                         <h5>Our Address</h5>
-                        <h6 class="mb-0">Kent, USA</h6>
-                        <p>12316 SE 254th Ct Kent, WA 98030, United States</p>
                         <h6 class="mt20 mb-0">CA, USA</h6>
                         <p>3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
+                        <h6 class="mb-0">Kent, USA</h6>
+                        <p>12316 SE 254th Ct Kent, WA 98030, United States</p>
                         <h6 class="mt20 mb-0">Saudi Arabia</h6>
                         <p>Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
                         <!-- <h4 class="mt20 mb-0">Pakistan</h4>

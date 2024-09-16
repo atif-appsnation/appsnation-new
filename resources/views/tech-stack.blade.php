@@ -11,7 +11,7 @@
 	
     <div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
 						<h1 class="text-white">Tech Stack</h1>
@@ -27,14 +27,14 @@
 <section class="technologies-stack py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="common-heading">
 					<h2 class="mb30">Technologies we work with</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-6 mt-4 wow fadeInLeft">
+			<div class="col-lg-6 mt-4 wow fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -189,7 +189,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeInRight">
+			<div class="col-lg-6 mt-4 wow fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -272,7 +272,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeInLeft">
+			<div class="col-lg-6 mt-4 wow fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -331,7 +331,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeInRight">
+			<div class="col-lg-6 mt-4 wow fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -384,7 +384,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeInLeft">
+			<div class="col-lg-6 mt-4 wow fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -419,7 +419,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeInRight">
+			<div class="col-lg-6 mt-4 wow fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">

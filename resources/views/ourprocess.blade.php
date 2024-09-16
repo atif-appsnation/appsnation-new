@@ -12,7 +12,7 @@
 	
 	<div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-12 wow fadeIn">
                 <div class="bread-inner">
                     <div class="bread-title">
                         <h1 class="text-white">Our Process</h1>

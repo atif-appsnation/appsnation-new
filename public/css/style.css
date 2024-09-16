@@ -1180,7 +1180,7 @@ a.play-video::after {
     color: var(--first-color);
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 400;
     margin: 0 0 15px 0;
     display: block;
@@ -3792,7 +3792,7 @@ footer.ftshap:before {
 }
 
 .reviews-block {
-    background: #fafaff;
+    background: var(--light-grey);
 }
 
 .pr-shadow {
@@ -5468,17 +5468,75 @@ h3 a {
     background: #fbfbfb;
 }
 
+.example {
+    position: relative;
+}
+
 .sctxt {
     /* font-size: 90px; */
-    /* position: absolute; */
-    right: 0;
+    position: relative;
+    /* right: 0;
     left: 0;
+    top: 0; */
+    z-index: 1;
     text-align: center;
-    top: 0;
     font-weight: 900;
     text-transform: uppercase;
     -webkit-text-stroke: 1px var(--black2-color);
     -webkit-text-fill-color: var(--black2-color);
+}
+
+body .example:after {
+    bottom: 0px;
+    color: var(--gray-color);
+    content: attr(data-text);
+    font-size: 190px;
+    font-style: normal;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -.03em;
+    line-height: 0px;
+    opacity: .25;
+    position: absolute;
+    width: 1600px;
+    z-index: -1;
+    text-align: center;
+}
+
+body .example:hover:after {
+    animation: hoverFx 1s infinite;
+}
+
+@keyframes hoverFx {
+    0% {
+        bottom: 0;
+        left: 0
+    }
+
+    20% {
+        bottom: -.01em;
+        left: .1em
+    }
+
+    40% {
+        bottom: .001em;
+        left: -.005em
+    }
+
+    60% {
+        bottom: -.005em;
+        left: -.1em
+    }
+
+    80% {
+        bottom: .001em;
+        left: .005em
+    }
+
+    to {
+        bottom: 0;
+        left: 0
+    }
 }
 
 .business-startup {
@@ -10534,7 +10592,7 @@ button:not(:disabled) {
     width: 100%;
     height: 100%;
     padding: 2em 1.5em;
-    background: linear-gradient(#ffffff 50%, var(--second-color) 50%);
+    background: linear-gradient(#ffffff 50%, var(--first-color) 50%);
     background-size: 100% 200%;
     background-position: 0 -2.5%;
     border-radius: 5px;
@@ -10580,9 +10638,9 @@ button:not(:disabled) {
     color: var(--white-color);
 }
 
-.service-card:hover .services-img-div {
+/* .service-card:hover .services-img-div {
     border: 2px solid var(--second-color);
-}
+} */
 
 /* Home */
 
@@ -11241,32 +11299,25 @@ i.fa-brands.fa-instagram {
 /* Start Services Page */
 
 .why-choose {
-    background-image: linear-gradient(to right, rgba(0, 0, 0), rgb(0, 39, 53));
-    background-size: cover;
-    padding: 100px 0px;
-    background-attachment: fixed;
-}
-
-/* .why-choose {
-    background-image:url(../images/services/industrial-automation/emergency-services-banner.webp);
-    background-size: cover;
-    padding: 100px 0px;
-    background-attachment: fixed;
-} */
-
-.why-choose .timeline:hover .timeline-year {
-    background-color: transparent;
-    border: 2px solid var(--second-color);
+    background: var(--black2-color);
 }
 
 .why-choose .timeline-year {
-    border-radius: 50%;
+    /* border-radius: 50%;
     width: 70px;
     height: 70px;
     border: 2px solid var(--second-color);
-    text-align: center;
-    padding: 13px;
-    background-color: var(--white-color);
+    text-align: center;*/
+    padding: 0px; 
+    background-color: transparent;
+}
+
+.why-choose:hover .timeline-year {
+    background-color: transparent;
+}
+
+.timeline:hover .timeline-year img {
+    filter: invert(1);
 }
 
 .free-mobile-app-consultation {
@@ -11388,34 +11439,6 @@ i.fa-brands.fa-instagram {
     width: 50px;
 } */
 
-.android-designing-img {
-    background-image: url(../images/services/android-app-development/android-ui-ux-designing.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.animation-services-img {
-    background-image: url(../images/services/android-app-development/android-ui-ux-designing-hover.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-designing-img {
-    background-image: url(../images/services/android-app-development/android-ui-ux-designing-hover.webp);
-}
-
-.android-web-img {
-    background-image: url(../images/services/android-app-development/android-web-based-apps.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-web-img {
-    background-image: url(../images/services/android-app-development/android-web-based-apps-hover.webp);
-}
 
 /* .service-card-app:hover .android-app-dev-consultation-img:hover{
     background-image: url(../images/services/android-app-development/android-app-development-consultation-hover.webp) ;
@@ -11424,82 +11447,6 @@ i.fa-brands.fa-instagram {
     height: 40px;
 } */
 
-.android-app-porting-img {
-    background-image: url(../images/services/android-app-development/app-porting.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-app-porting-img {
-    background-image: url(../images/services/android-app-development/app-porting-hover.webp);
-}
-
-.android-app-testing-img {
-    background-image: url(../images/services/android-app-development/app-testing.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-app-testing-img {
-    background-image: url(../images/services/android-app-development/app-testing-hover.webp);
-}
-
-.android-app-consultation-img {
-    background-image: url(../images/services/android-app-development/app-consultation.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-app-consultation-img {
-    background-image: url(../images/services/android-app-development/app-consultation-hover.webp);
-}
-
-.android-app-dev-consultation-img {
-    background-image: url(../images/services/android-app-development/android-app-development-consultation.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-app-dev-consultation-img {
-    background-image: url(../images/services/android-app-development/android-app-development-consultation-hover.webp);
-}
-
-.custom-android-app-dev-img {
-    background-image: url(../images/services/android-app-development/custom-android-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .custom-android-app-dev-img {
-    background-image: url(../images/services/android-app-development/custom-android-app-development-hover.webp);
-}
-
-.android-multi-platform-img {
-    background-image: url(../images/services/android-app-development/multi-platform-deployment.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-multi-platform-img {
-    background-image: url(../images/services/android-app-development/multi-platform-deployment-hover.webp);
-}
-
-.android-watch-img {
-    background-image: url(../images/services/ios-app-development/apple-watch-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-watch-img {
-    background-image: url(../images/services/ios-app-development/apple-watch-app-development-hover.webp);
-}
 
 /* End Android App Development */
 

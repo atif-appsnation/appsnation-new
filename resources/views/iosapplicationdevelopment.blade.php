@@ -10,13 +10,13 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">iOS App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Our iOS app development services serve businesses with appealing, user-friendly, robust iOS apps to build strong consumer trust by having the app of the most secure platform.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<img src="images/services/ios-app-development/ios-app-banner-img.webp" class="img-fluid" alt="iOS App Development">
 			</div>
 		</div>
@@ -29,11 +29,11 @@
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
+				<div class="image-block wow fadeIn">
 					<img src="images/services/ios-app-development/ios-app-development.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<span>Overview</span>
 					<h2>Top-Notch<br>
@@ -53,22 +53,18 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container mt-3">
 		<div class="row">
-			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeInLeft">
+			<div class="col-12 mt-5 mt-sm-3 mt-md-5 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Custom iOS App Development Services</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeInRight">
-				<div class="common-heading ptag">
-					<p class="mb30">AppsNation is the top iOS app development company with a pool of services to create a bespoke iOS application</p>
+					<p class="mb-0">AppsNation is the top iOS app development company with a pool of services to create a bespoke iOS application</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="ios-app-development-img"></div>
+						<img src="images/services/ios-app-development/ios-app-development-consultation.svg" alt="iOS App Development Consultation" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>iOS App Development Consultation</h4>
@@ -78,10 +74,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="ios-ui-ux-img"></div>
+						<img src="images/services/ios-app-development/ios-ui-ux-design.svg" alt="iOS UI/UX Design" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>iOS UI/UX Design</h4>
@@ -91,10 +87,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-ios-application-img"></div>
+						<img src="images/services/ios-app-development/custom-ios-application-development.svg" alt="Custom iOS Application Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom iOS Application Development</h4>
@@ -104,10 +100,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="ios-software-testing-img"></div>
+						<img src="images/services/ios-app-development/ios-software-testing.svg" alt="iOS Software Testing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>iOS Software Testing</h4>
@@ -117,10 +113,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="ios-multi-platform-img"></div>
+						<img src="images/services/ios-app-development/multi-platform-deployment.svg" alt="Multi-platform Deployment" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Multi-platform Deployment</h4>
@@ -130,10 +126,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="native-iphone-app-img"></div>
+						<img src="images/services/ios-app-development/native-iphone-app-development.svg" alt="Native iPhone App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Native iPhone App Development</h4>
@@ -143,10 +139,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="hybrid-iphone-app-img"></div>
+						<img src="images/services/ios-app-development/hybrid-iphone-app-development.svg" alt="Hybrid iPhone App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Hybrid iPhone App Development</h4>
@@ -156,10 +152,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="apple-watch-app-img"></div>
+						<img src="images/services/ios-app-development/apple-watch-app-development.svg" alt="Apple Watch App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Apple Watch App Development</h4>
@@ -169,10 +165,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="apple-tv-app-img"></div>
+						<img src="images/services/ios-app-development/apple-tv-app-development.svg" alt="Apple TV App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Apple TV App Development</h4>
@@ -187,29 +183,31 @@
 </section>
 <!--End Service-->
 
-<!--Start Hire Dedicated Developer -->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn mt50 mb50">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Dedicated Developer</span>
-				</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a. <span>Dedicated Developer.</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</section>
-<!--End Hire Dedicated Developer -->
+</div>
+<!--End Let's Work Together-->
 
 <!--Start Features-->
-<section class="features-section-app dark-bg2">
+<section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 
 					@foreach($agencystack as $k=>$items)
@@ -228,7 +226,7 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Creative iOS App Development Agency</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -269,70 +267,66 @@
 <!--End Features-->
 
 <!--Start Why Choose-->
-<section class="why-choose bg-gradient3 my-5">
+<section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
-					<p class="text-white">We help you use Apple's unique set of features by combining them with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
 					</div>
 					<h3 class="title">Free Mobile App Consultation</h3>
 					<p class="description">With AppsNation, you can consult your way to success for free.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
 					</div>
-					<h3 class="title">50+ Expert iOS Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class ios developers across the globe.</p>
+					<h3 class="title">50+ Expert Android Developers</h3>
+					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
 					</div>
 					<h3 class="title">Flexible Hiring Models</h3>
 					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="technical-support"></div>
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="transparency"></div>
+						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid">
 					</div>
 					<h3 class="title">100% Transparency</h3>
 					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
+						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
 					</div>
 					<h3 class="title">3-Months Free Support After Delivery</h3>
 					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
@@ -341,77 +335,77 @@
 		</div>
 	</div>
 </section>
-<!--End Why Choose-->
+<!--Start Why Choose-->
 
-<!--Start New Project-->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
-				<p>Let's Start a <span>New Project</span> Together</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</section>
-<!--End New Project-->
+</div>
+<!--End Let's Work Together-->
 
 <!--Start Process-->
-<section class="process-block bg-gradient3">
+<section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Our <span>iOS App</span> Development Process</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Gathering</h3>
 					<p class="description">Contact AppsNation to propose your significant iOS app ideas to our capable project managers and analysts. We provide the customer complete authority to properly communicate his requirements as we develop a business document containing a project brief.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
 					<p class="description">With an in-depth investigation of the client's business, rivals, and target audience, we create an excellent iOS app development plan for your custom app. Our skilled iOS app development specialists provide you with a solution that increases the conversion rate for a higher ROI.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
 					<p class="description">Expert UI, UX, Visual, and Interaction designers develop your product's first look and feel, model the user experience and journey, and prioritize features to keep the user engaged with its appealing user interface. Before we go any further, we make sure our client is happy with it.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
 					<p class="description">Using cutting-edge technology and techniques, our skilled iOS developers provide the functionality to the unique app design with faultless coding. They create incredibly scalable and well-optimized apps to work on every Apple device and screen size.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
 					<p class="description">This is an essential component of a successful app launch. We assist in avoiding faults and problems from reaching your target audience through a defective iOS app by utilizing our skilled Quality Assurance team, which ensures the app's excellent results.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
 					<p class="description">Our responsibility is to release the iOS app to the Apple App Store while adhering to all of the standards. Our staff creates the necessary paperwork, descriptions, and screenshots for App Store publishing and ongoing support and maintenance.</p>
@@ -427,19 +421,19 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Technology Stack</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
-			<div class="col-md-5 wow fadeInLeft">
+			<div class="col-md-5 wow fadeIn">
 				<ul class="nav nav-tabs android-tech-tabs mt-5">
 					@foreach($techstack as $k=>$item)
 
@@ -472,7 +466,7 @@
 				</ul>
 
 			</div>
-			<div class="col-md-7 my-auto mt-5 mt-lg-0 wow fadeInRight">
+			<div class="col-md-7 my-auto mt-5 mt-lg-0 wow fadeIn">
 				<div class="tab-content tab-body">
 
 					@foreach($techstack as $k=>$items)
@@ -506,91 +500,40 @@
 <!--End Tech-->
 
 <!-- Start Technologies -->
-<section class="technologies certificates py-3 py-md-3 py-lg-5">
+<section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
-				<div class="common-heading">
-					<h2>We Partner with the <span>World's technology</span> leaders</h2>
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeInRight">
-			<div class="col-12">
-				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<div class="row">
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-					</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
-
-			<!--<div class="col-12 text-center mt-3">-->
-			<!--	<a class="btn mb-3 mr-1" href="#tech" role="button" data-bs-slide="prev">-->
-			<!--		<i class="fa fa-arrow-left"></i>-->
-			<!--	</a>-->
-			<!--	<a class="btn mb-3" href="#tech" role="button" data-bs-slide="next">-->
-			<!--		<i class="fa fa-arrow-right"></i>-->
-			<!--	</a>-->
-			<!--</div>-->
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -599,14 +542,14 @@
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
-				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>iOS App</span> Development Company</h2>
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading w-tdxt text-center">
+					<h2 class="text-white">Ranked as #1 <span>iOS App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInRight">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -677,45 +620,45 @@
 				</div>
 			</div>
 		</div>
-
-
-		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
-				<p>We <span>Promise.</span> We <span>Deliver.</span> </p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
 	</div>
 </section>
 <!--End Badges-->
 
-<!--Start Testimonial-->
-<section class="testimonial-section-app bg-none py-5">
+<!--Start Testinomial-->
+<section class="testinomial-section-app py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-5 wow fadeInLeft">
-				<div class="common-heading text-l">
-					<h2>Over 1200+ Satisfied Clients and Growing</h2>
-				</div>
-				<div class="review-title-ref mt40">
-					<h4>Read More Reviews</h4>
-				</div>
-				<div class="row mt30 justify-content-center">
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".2s">
-						<img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid">
-					</a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".4s">
-						<img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid">
-					</a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s">
-						<img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid">
-					</a>
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<span>What our clients say about AppsNation.</span>
+					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
 				</div>
 			</div>
-			<div class="col-lg-7 wow fadeInRight">
+		</div>
+		<div class="row mt-3">
+			<div class="col-lg-5 fadeIn my-auto">
+				<div class="row mt30 justify-content-center">
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+				</div>
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-lg-7 wow fadeIn">
 				<div class="pl50">
 					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">
@@ -727,6 +670,7 @@
 							</div>
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
+									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
 									<div class="media-body user-info v-center">
 										<h5>{{$item['name']}}</h5>
 										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
@@ -742,20 +686,20 @@
 		</div>
 	</div>
 </section>
-<!--End Testimonial-->
+<!--End Testinomial-->
 
 <!-- Start FAQS-->
 <section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
                     <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt30 wow fadeInRight">
+            <div class="col-sm-12 mt30 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
@@ -930,57 +874,5 @@
     </div>
 </section>
 <!-- End FAQS -->
-
-<!--Start Blogs-->
-<section class="blogs-section py-5">
-@if($data['status'] && count($data['data']) > 0)
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
-					<h2 class="mb30">Latest Stories</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			@foreach($data['data'] as $post)
-			<div class="col-lg-4 col-sm-6 mt30 wow fadeInUp">
-				<div class="card h-100">
-					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
-					</a>
-					<div class="entry-blog-post dg-bg2">
-						<span class="bypost-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-tag"></i> Appsnation</a>
-						</span>
-						<span class="posted-on-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}</a>
-						</span>
-					</div>
-					<div class="card-body">
-						<h4 class="mb-0">
-							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
-						</h4>
-					</div>
-				</div>
-			</div>
-			@endforeach
-			@else
-		</div>
-	</div>
-	@endif
-</section>
-
-<div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
-		<div class="col-12">
-			<a href="https://blog.appsnation.co/category/ios-app/" class="btn-main button-arounder lnk">View More
-				<i class="fas fa-chevron-right fa-icon"></i>
-				<span class="circle"></span>
-			</a>
-		</div>
-	</div>
-</div>
-<!--End Blogs-->
 
 @endsection

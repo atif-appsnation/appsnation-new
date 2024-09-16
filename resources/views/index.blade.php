@@ -27,7 +27,7 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-8 fadeIn">
 				<div class="common-heading text-l">
-					<h4 class="key-highlight text-center">Our Achievements</h4>
+					<span class="key-highlight text-center">Our Achievements</span>
 					<h2 class="key-numbers text-center">Our work in numbers.</h2>
 				</div>
 			</div>
@@ -60,12 +60,20 @@
 
 <!--Start Service-->
 <section class="py-5 dark-bg2">
-	<div class="sctxt">App Development</div>
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12">
+				<div data-text="Our Services" class="example">
+					<div class="sctxt">App Development</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Service-->
 
 <!--Start Service-->
-<section class="service-section-app py-5 dark-bg2">
+<section class="service-section-app py-5 mt-4 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12 fadeIn">
@@ -1438,7 +1446,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
+					<span>What our clients say about AppsNation</span>
 					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
 				</div>
 			</div>

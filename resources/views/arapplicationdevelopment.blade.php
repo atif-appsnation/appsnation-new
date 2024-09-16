@@ -10,13 +10,13 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Augmented Reality App Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via an augmented reality app developed by our expert AR app developers.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<img src="images/ar-app-development/ar-app-banner-img.webp" class="img-fluid" alt="AR App Development">
 			</div>
 		</div>
@@ -28,7 +28,7 @@
 <section class="service py-5 ar-intro-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-7 block-1 wow fadeInLeft">
+			<div class="col-lg-7 block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
 					<h2>Top-Notch <br><span>AR App Development Services </span></h2>
 					<p><strong>Ignite your business reality with highly interactive AR apps to solve complex problems and enhance brand loyalty. </strong></p>
@@ -37,7 +37,7 @@
 				</div>
 			</div>
 			<div class="col-lg-5 my-auto">
-				<div class="image-block wow fadeInRight">
+				<div class="image-block wow fadeIn">
 					<img src="images/ar-app-development/ar-app-development.webp" alt="AR App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
@@ -50,19 +50,15 @@
 <section class="service-block py-5 ar-choose-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2 class="text-white">Why Choose AppsNation</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p class="text-white">We help you overcome the most challenging difficulties in AR, such as object/scene identification, occlusion, and content production and management.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-6 wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<div class="timeline-centered">
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
@@ -101,7 +97,7 @@
 					</article>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<div class="timeline-centered">
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
@@ -147,25 +143,21 @@
 <section class="service-block py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Custom AR App Development Company</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p class="mb30">Own an interactive AR app for your consumers to have an interactive experience of your business and maximize customer engagement.</p>
 				</div>
 			</div>
 		</div>
 
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow">
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>AR Apps For Android & iOS</h4>
 					<p>We are proficient in powering up Android and iOS with a stimulating technology of AR to empower businesses with a new trend of marketing and engagement.</p>
@@ -173,25 +165,25 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>Marker-based Augmented Reality Apps</h4>
 					<p>Offer your users a simulating experience of your product/service with a marker-based AR app that transforms the 3D object into real-life material by pointing the camera to a QR code.</p>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow">
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>Markerless Augmented Reality Apps</h4>
 					<p>Power up your user experience with a markerless AR app that works through a link or AR option within the app developed by our professional AR app developers.</p>
@@ -199,25 +191,25 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>E-Commerce AR Integration</h4>
 					<p>Transform your e-commerce store by implementing AR technology for the consumers to experience shopping in an augmented environment.</p>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow">
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>AR Game App Development</h4>
 					<p>Be the trend like Pokémon GO did with our outstanding AR game app development services for the simplest and even the most complex game stories.</p>
@@ -225,25 +217,25 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>AR Support & Maintenance</h4>
 					<p>We offer reliable and sustainable AR app support and maintenance services to ensure the app flawlessly delivers its purpose and functionality.</p>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow">
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>Superimposition-based AR</h4>
 					<p>Leverage the object recognition in superimposition-based AR app to replace the source picture with an augmented view to help consumers make the right choice of the product.</p>
@@ -251,25 +243,25 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>Recognition-based AR</h4>
 					<p>We create highly responsive recognition-based AR apps with faultless functionality to deliver a seamless user experience of Augmented Reality to the audience.</p>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow">
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>Projection-based AR</h4>
 					<p>We design and build intuitive projection-based AR apps for industries to leverage and make learning, analyzing, and other processes simpler and smoother.</p>
@@ -277,13 +269,13 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h4>Location-based AR</h4>
 					<p>We develop the most precise location-based AR apps to enable your business to track consumers accurately to deliver them the right offers.</p>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow">
 				</div>
@@ -293,38 +285,40 @@
 </section>
 <!--End Service-->
 
-<!--Start Hire Dedicated Developer -->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn mt50 mb50">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Dedicated Developer</span>
-				</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</section>
-<!--End Hire Dedicated Developer -->
+</div>
+<!--End Let's Work Together-->
 
 <!--Start Games-->
 <section class="service-block py-5 ar-game-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeInLeft my-auto">
+			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn my-auto">
 				<img src="images/ar-app-development/ar-game-development.webp" alt="AR Game Development" class="img-fluid">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
-				<div class="row wow fadeInRight">
+				<div class="row wow fadeIn">
 					<div class="ptag text-center">
 					    <h2 class="text-white pt-3">AR Games Development Services</h2>
 					</div>
 				</div>
-				<div class="row mt-3 wow fadeInRight">
+				<div class="row mt-3 wow fadeIn">
                     <div class="col-md-4 game-development-col">
                         <img src="images/ar-app-development/ar-action.webp" alt="AR Action" class="img-fluid">
                         <p class="center-text">AR Action<p>
@@ -380,7 +374,7 @@
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
@@ -398,7 +392,7 @@
 				</div>
 			</div>
 
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Creative AR App Development Agency</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -441,19 +435,15 @@
 <section class="service-block py-5 ar-process-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2 class="text-white">Our VR App Development Process</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeInRight">
-				<div class="common-heading ptag">
-				<p class="text-white">AppsNation guarantees that our AR app development process is fluid, resulting in an application being developed and delivered on time.</p>
+					<p class="text-white">AppsNation guarantees that our AR app development process is fluid, resulting in an application being developed and delivered on time.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-md-6 wow fadeInLeft">
+			<div class="col-md-6 wow fadeIn">
 				<div class="vertical-timeline vertical-timeline--animate vertical-timeline--one-column">
 					<div class="vertical-timeline-item vertical-timeline-element">
 						<div>
@@ -496,7 +486,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 wow fadeInRight">
+			<div class="col-md-6 wow fadeIn">
 				<div class="vertical-timeline vertical-timeline--animate vertical-timeline--one-column">
 					<div class="vertical-timeline-item vertical-timeline-element">
 						<div>
@@ -548,19 +538,15 @@
 <div class="techonology-used py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Technology Stack</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p>With great technology comes a great tool stack. Therefore, we serve you with the most advanced technology and tools for VR app development.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-md-5 wow fadeInLeft">
+			<div class="col-md-5 wow fadeIn">
 				<ul class="nav nav-tabs android-tech-tabs">
 					@foreach($techstack as $k=>$item)
 
@@ -592,7 +578,7 @@
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto mt-5 mt-md-auto wow fadeInRight">
+			<div class="col-md-7 my-auto mt-5 mt-md-auto wow fadeIn">
 				<div class="tab-content tab-body">
 					@foreach($techstack as $k=>$items)
 					@if($k==0)
@@ -623,19 +609,57 @@
 </div>
 <!--End Tech-->
 
-<!--Start Badges-->
-<section class="badges-section py-5">
+<!-- Start Technologies -->
+<section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading w-tdxt fadeInLeft">
-					<h2>Ranked as #1 <span>AR App</span> Development Company</h2>
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Technologies -->
 
-		<div class="container">
-		<div class="row mt-5 wow fadeInRight">
+<!--Start Badges-->
+<section class="badges-section py-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading w-tdxt text-center">
+					<h2 class="text-white">Ranked as #1 <span>AR App</span> Development Company</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -706,50 +730,49 @@
 				</div>
 			</div>
 		</div>
-
-		</div>
-
-		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
-				<p>We <span>Promise.</span> We <span>Deliver.</span> </p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
 	</div>
 </section>
 <!--End Badges-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app bg-none py-5">
+<section class="testinomial-section-app py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-5 wow fadeInLeft">
-				<div class="common-heading text-l">
+			<div class="col-12">
+				<div class="common-heading text-center">
 					<span>What our clients say about AppsNation.</span>
-					<h2>Over 1200+ Satisfied Clients and Growing</h2>
-				</div>
-				<div class="review-title-ref mt40">
-					<h4>Read More Reviews</h4>
-				</div>
-				<div class="row mt30 justify-content-center">
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".2s">
-						<img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid">
-					</a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".4s">
-						<img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid">
-					</a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s">
-						<img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid">
-					</a>
+					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
 				</div>
 			</div>
-			<div class="col-lg-7 wow fadeInRight">
+		</div>
+		<div class="row mt-3">
+			<div class="col-lg-5 fadeIn my-auto">
+				<div class="row mt30 justify-content-center">
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+				</div>
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-lg-7 wow fadeIn">
 				<div class="pl50">
 					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">
+
 						@foreach($testimonials as $item)
 						<div class="testimonial-card">
 							<div class="tt-text">
@@ -757,6 +780,7 @@
 							</div>
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
+									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
 									<div class="media-body user-info v-center">
 										<h5>{{$item['name']}}</h5>
 										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
@@ -765,6 +789,7 @@
 							</div>
 						</div>
 						@endforeach
+
 					</div>
 				</div>
 			</div>
@@ -773,18 +798,38 @@
 </section>
 <!--End Testinomial-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start FAQS-->
 <section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
                     <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 wow fadeInRight">
+            <div class="col-sm-12 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
@@ -941,55 +986,4 @@
 </section>
 <!-- End FAQS -->
 
-<!--Start Blogs-->
-<section class="blogs-section py-5">
-@if($data['status'] && count($data['data']) > 0)
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
-					<h2 class="mb30">Latest Stories</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			@foreach($data['data'] as $post)
-			<div class="col-lg-4 col-sm-6 mt30 wow fadeInUp">
-				<div class="card h-100">
-					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
-					</a>
-					<div class="entry-blog-post dg-bg2">
-						<span class="bypost-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-tag"></i> Appsnation</a>
-						</span>
-						<span class="posted-on-">
-							<a href="{{ $post['guid'] }}"><i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}</a>
-						</span>
-					</div>
-					<div class="card-body">
-						<h4 class="mb-0">
-							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
-						</h4>
-					</div>
-				</div>
-			</div>
-			@endforeach
-			@else
-		</div>
-	</div>
-	@endif
-</section>
-
-<div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
-		<div class="col-12">
-			<a href="https://blog.appsnation.co/category/ar-app/" class="btn-main button-arounder lnk">View More
-				<i class="fas fa-chevron-right fa-icon"></i>
-				<span class="circle"></span>
-			</a>
-		</div>
-	</div>
-</div>
-<!--End Blogs-->
 @endsection

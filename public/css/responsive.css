@@ -3224,7 +3224,7 @@
 
 	.hero-heading-sec2 h1 {
 		font-size: 70px;
-		line-height: 60px;
+		line-height: 70px;
 	}
 
 	.portfolio .button-arounder {
@@ -3602,8 +3602,7 @@
     }
     
 	.link-prbs {
-		margin: 0 auto;
-		float: right;
+		text-align: right;
 	}
 
 	/* .services-img-div {

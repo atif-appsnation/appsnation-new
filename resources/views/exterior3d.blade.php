@@ -491,7 +491,7 @@
 <!--Start Why Choose-->
 
 <!--Start New Project-->
-<section class="service-block py-5">
+<!-- <section class="service-block py-5">
 	<div class="container">
 		<div class="-cta-btn">
 			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
@@ -503,7 +503,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End New Project-->
 
 <!--Start Process-->
@@ -572,78 +572,36 @@
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
-				<div class="common-heading">
-					<h2>We Partner with the <span>World's technology</span> leaders</h2>
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeInRight">
-			<div class="col-12">
-				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<div class="row">
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-					</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
 		</div>
@@ -651,17 +609,37 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Badges-->
-<section class="badges-section py-5">
-	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
-				<div class="common-heading w-tdxt">
-					<h2>Ranked as #1 <span>3D Exterior</span> Development Company</h2>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInRight">
+	</div>
+</div>
+<!--End Let's Work Together-->
+
+<!--Start Badges-->
+<section class="badges-section py-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading w-tdxt text-center">
+					<h2 class="text-white">Ranked as #1 <span>E-Commerce App</span> Development Company</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -732,45 +710,65 @@
 				</div>
 			</div>
 		</div>
-
-
-		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
-				<p>We <span>Promise.</span> We <span>Deliver.</span> </p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
 	</div>
 </section>
 <!--End Badges-->
 
-<!--Start Testinomial-->
-<section class="testinomial-section-app bg-none py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-5 wow fadeInLeft">
-				<div class="common-heading text-l">
-					<h2>Over 1200+ Satisfied Clients and Growing</h2>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
 				</div>
-				<div class="review-title-ref mt40">
-					<h4>Read More Reviews</h4>
-				</div>
-				<div class="row mt30 justify-content-center">
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".2s">
-						<img src="images/about/reviews-icon-1.webp" alt="review" class="img-fluid">
-					</a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".4s">
-						<img src="images/about/reviews-icon-2.webp" alt="review" class="img-fluid">
-					</a>
-					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s">
-						<img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid">
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
 					</a>
 				</div>
 			</div>
-			<div class="col-lg-7 wow fadeInRight">
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
+<!--Start Testinomial-->
+<section class="testinomial-section-app py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<span>What our clients say about AppsNation.</span>
+					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col-lg-5 fadeIn my-auto">
+				<div class="row mt30 justify-content-center">
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+				</div>
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-lg-7 wow fadeIn">
 				<div class="pl50">
 					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">

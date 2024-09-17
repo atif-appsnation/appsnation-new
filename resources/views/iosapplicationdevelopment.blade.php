@@ -74,7 +74,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/ios-ui-ux-design.svg" alt="iOS UI/UX Design" class="img-fluid">
@@ -87,7 +87,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/custom-ios-application-development.svg" alt="Custom iOS Application Development" class="img-fluid">
@@ -100,7 +100,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/ios-software-testing.svg" alt="iOS Software Testing" class="img-fluid">
@@ -113,7 +113,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/multi-platform-deployment.svg" alt="Multi-platform Deployment" class="img-fluid">
@@ -126,7 +126,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/native-iphone-app-development.svg" alt="Native iPhone App Development" class="img-fluid">
@@ -139,7 +139,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/hybrid-iphone-app-development.svg" alt="Hybrid iPhone App Development" class="img-fluid">
@@ -152,7 +152,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/apple-watch-app-development.svg" alt="Apple Watch App Development" class="img-fluid">
@@ -165,7 +165,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/ios-app-development/apple-tv-app-development.svg" alt="Apple TV App Development" class="img-fluid">
@@ -182,26 +182,6 @@
 	</div>
 </section>
 <!--End Service-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a. <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
 
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
@@ -420,13 +400,9 @@
 <div class="techonology-used py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
+			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<h2>Technology Stack</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
 					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
@@ -539,6 +515,26 @@
 </section>
 <!-- End Technologies -->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
@@ -623,6 +619,26 @@
 	</div>
 </section>
 <!--End Badges-->
+
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
 
 <!--Start Testinomial-->
 <section class="testinomial-section-app py-5">

@@ -52,13 +52,9 @@
 <section class="service-section-app py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-lg-6 wow fadeIn">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Our Cross-Platform App Development Expertise</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="common-heading ptag">
 					<p class="mb30">Our cross-platform app developers have extensive expertise in creating cross-platform apps utilizing cutting-edge technology.</p>
 				</div>
 			</div>
@@ -120,26 +116,6 @@
 	</div>
 </section>
 <!--End Service-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
 
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
@@ -309,42 +285,42 @@
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInUp h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
 					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInUp h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
 					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInUp h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
 					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInUp h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
 					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInUp h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
 					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInUp h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
 					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
@@ -360,7 +336,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag wow fadeInDown">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Technology Stack</h2>
 					<p class="mb30">We build cross-platform mobile apps using a scalable and robust technology stack to produce high-quality apps.</p>
 				</div>
@@ -471,6 +447,26 @@
 </section>
 <!-- End Technologies -->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
@@ -556,6 +552,26 @@
 </section>
 <!--End Badges-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Testinomial-->
 <section class="testinomial-section-app py-5">
 	<div class="container">
@@ -619,26 +635,6 @@
 	</div>
 </section>
 <!--End Testinomial-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
 
 <!-- Start FAQS-->
 <section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">

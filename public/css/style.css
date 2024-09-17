@@ -2816,8 +2816,7 @@ footer.ftshap:before {
     box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
 }
 
-.techonology-used- {
-    text-align: center;
+.techonology-used {
     background: #f9f9f9;
 }
 
@@ -10595,7 +10594,7 @@ button:not(:disabled) {
     background: linear-gradient(#ffffff 50%, var(--first-color) 50%);
     background-size: 100% 200%;
     background-position: 0 -2.5%;
-    border-radius: 5px;
+    border-radius: 20px;
     box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
     cursor: pointer;
     transition: 0.5s;

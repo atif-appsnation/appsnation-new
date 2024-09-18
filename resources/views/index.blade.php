@@ -25,10 +25,12 @@
 <section class="key-highlights py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-lg-8 fadeIn">
-				<div class="common-heading text-l">
-					<span class="key-highlight text-center">Our Achievements</span>
-					<h2 class="key-numbers text-center">Our work in numbers.</h2>
+			<div class="col-12 fadeIn">
+				<div class="common-heading">
+					<div data-text="Achievements" class="bg-text text-center">
+						<h2 class="key-highlight text-center mt-5">Our Achievements</h2>
+					</div>
+					<h5 class="key-numbers text-center mt-5">Our work in numbers</h5>
 				</div>
 			</div>
 			<div class="col-lg-8 wow fadeIn mt-3">
@@ -63,7 +65,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12">
-				<div data-text="Our Services" class="example">
+				<div data-text="Our Services" class="bg-text text-center">
 					<div class="sctxt">App Development</div>
 				</div>
 			</div>
@@ -253,8 +255,8 @@
 <!--End Service-->
 
 <!--Start Let's Work Together-->
-<div class="row mt30 justify-content-center contact-div">
-	<div class="col-lg-6">
+<div class="row justify-content-center contact-div">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -345,7 +347,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag fadeIn">
-					<h2>Our <span>Mobile App</span> Development Process</h2>
+					<div data-text="Process" class="bg-text">
+						<h2>Our <span>Mobile App</span> Development Process</h2>
+					</div>
 					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
 				</div>
 			</div>
@@ -416,14 +420,15 @@
 		<div class="row">
 			<div class="col-12 fadeIn">
 				<div class="common-heading">
-					<!-- <span>Our Work</span> -->
-					<h2 class="mb20 text-center">Our Latest Creative Work</h2>
+					<div data-text="Our Portfolio" class="bg-text text-center">
+						<h2 class="mb20 text-center">Our Latest Creative Work</h2>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<section class="container py-lg-5">
+	<section class="container py-lg-5 mt-3">
 		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
@@ -606,7 +611,7 @@
 			<div class="col-xl-6 my-auto">
 				<div class="common-heading">
 					<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
-					<!--<p class="pt-2">Appsnation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
 					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
@@ -737,8 +742,10 @@
 	<div class="container">
 		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-6 my-auto">
-				<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
-				<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<div data-text="Partner" class="bg-text">
+					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
+				</div>
+				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its play stores where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 				<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
 					<i class="fas fa-chevron-right fa-icon"></i>
 					<span class="circle"></span>
@@ -796,7 +803,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading">
-					<h2 class="mb30 text-center"><span>Technologies</span> We Work With</h2>
+					<div data-text="Technologies" class="bg-text text-center">
+						<h2 class="mb30 text-center"><span>Technologies</span> We Work With</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -1441,13 +1450,15 @@
 <!--End Tech-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pm-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>

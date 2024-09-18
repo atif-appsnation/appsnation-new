@@ -5467,7 +5467,7 @@ h3 a {
     background: #fbfbfb;
 }
 
-.example {
+.bg-text {
     position: relative;
 }
 
@@ -5485,7 +5485,7 @@ h3 a {
     -webkit-text-fill-color: var(--black2-color);
 }
 
-body .example:after {
+body .bg-text:after {
     bottom: 0px;
     color: var(--gray-color);
     content: attr(data-text);
@@ -5499,11 +5499,30 @@ body .example:after {
     position: absolute;
     width: 1600px;
     z-index: -1;
-    text-align: center;
 }
 
-body .example:hover:after {
+body .bg-text:hover:after {
     animation: hoverFx 1s infinite;
+}
+
+.process-block .bg-text, .technologies-stack .bg-text {
+    margin-bottom: 40px;
+}
+
+.testimonials-section-app .bg-text {
+    margin-bottom: 40px;
+}
+
+.process-block .bg-text:after, .key-highlights .bg-text:after, .why-choose-section .bg-text:after {
+    top: 0;
+}
+
+.technologies-stack .bg-text:after {
+    top: -10px;
+}
+
+.testimonials-section-app .bg-text:after {
+    top: 0px;
 }
 
 @keyframes hoverFx {
@@ -8582,7 +8601,7 @@ html .mt15 {
 /* Custom */
 
 .main-header {
-    background-color: #212529;
+    background-color: transparent;
 }
 
 .main-header.sticky {
@@ -10660,6 +10679,15 @@ video {
     object-fit: cover;
 }
 
+.nav-link {
+    color: var(--first-color);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: var(--first-color);
+}
+
 /* 
 
 .mobile-app {
@@ -11032,7 +11060,7 @@ i.fa-brands.fa-instagram {
     text-align: center;
 }
 
-.testinomial-section-app {
+.testimonials-section-app {
     background-color: var(--black2-color);
 }
 

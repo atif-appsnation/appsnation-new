@@ -1591,6 +1591,10 @@
 
 @media only screen and (max-width:767px) {
 
+	body .bg-text:after {
+		display: none;
+	}
+
 	.breadcrumb-areav2 {
 		padding: 150px 0px 80px;
 	}
@@ -2218,6 +2222,12 @@
 
 @media only screen and (min-width:768px) and (max-width:1023px) {
 
+	body .bg-text:after {
+		font-size: 70px;
+        line-height: 0px;
+        width: 700px;
+	}
+
 	.breadcrumb-areav2 {
 		padding: 150px 0px 80px;
 	}
@@ -2734,6 +2744,12 @@
 
 @media only screen and (min-width:1024px) and (max-width:1439px) {
 
+	body .bg-text:after {
+		font-size: 90px;
+        line-height: 0px;
+        width: 900px;
+	}
+
 	.breadcrumb-areav2 {
 		padding: 150px 0px 80px;
 	}
@@ -3172,6 +3188,12 @@
 
 @media only screen and (min-width:1440px) and (max-width:1599px) {
 
+	body .bg-text:after {
+		font-size: 130px;
+        line-height: 0px;
+        width: 1240px;
+	}
+
 	/* h2 {
 		font-size: 52px;
 		line-height: 50px;
@@ -3234,7 +3256,7 @@
 	}
 
 	.side-menu.-right {
-		right: 7px;
+		right: 45px;
 	}
     
     /* Home */
@@ -3348,6 +3370,12 @@
 }
 
 @media only screen and (min-width:1600px) and (max-width:1919px) {
+
+	body .bg-text:after {
+		font-size: 150px;
+        line-height: 0px;
+        width: 1300px;
+	}
 
 	/* h2 {
 		font-size: 52px;
@@ -3562,6 +3590,10 @@
 
 	.sctxt {
 		font-size: 90px;
+	}
+
+	.side-menu.-right {
+		right: 45px;
 	}
 
 	.hero-heading-sec2 p, .about-us p, .our-process p, .clients p, .testimonials p,

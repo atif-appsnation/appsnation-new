@@ -48,9 +48,6 @@
 
 	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
 	
-
-
-
 	@else
 
 	@endif
@@ -60,10 +57,8 @@
 <body>
 
 	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTWRB98Q"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTWRB98Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-
 
 	<!--Start Preloader -->
 	<!-- <div class="onloadpage" id="page_loader">
@@ -113,8 +108,8 @@
 			<div class="menu-header">
 				<div class="dsk-logo">
 					<a class="nav-brand" href="{{url('/')}}">
-						<img src="{{asset('images/logo/appsnation-white-logo.webp')}}" alt="Logo" class="mega-white-logo" />
-						<img src="{{asset('images/logo/appsnation-logo.webp')}}" alt="Logo" class="mega-darks-logo" />
+						<img src="{{asset('images/logo/appsnation-white-logo.svg')}}" alt="Logo" class="mega-white-logo" />
+						<img src="{{asset('images/logo/appsnation-black-logo.svg')}}" alt="Logo" class="mega-darks-logo" />
 					</a>
 				</div>
 				<div class="custom-nav d-block ml-auto" role="navigation">

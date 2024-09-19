@@ -255,23 +255,28 @@
 <!--End Service-->
 
 <!--Start Let's Work Together-->
-<div class="row justify-content-center contact-div">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="contact-div">
+	<div class="container-fluid">
+		<div class="row justify-content-center ">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
+
 <!--End Let's Work Together-->
 
 <!--Start Features-->
@@ -752,7 +757,7 @@
 				</a>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block mx-auto ms-lg-auto">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
 			</div>
 		</div>
 		<div class="row mt-5">
@@ -1196,7 +1201,7 @@
 			</div>
 
 			<div class="col-lg-6 mt-4">
-				<div class="card h-120 h-100 ">
+				<div class="card h-100 ">
 					<div class="card-body">
 						<div class="row">
 							<div class="con-h">
@@ -1204,7 +1209,7 @@
 								<p class="text-center pt-2">The utilization of the most recent technologies and techniques by our infrastructure and DevOps developers improve an organization's capacity to offer apps and services at a highspeed.</p>
 							</div>
 						</div>
-						<div class="row pt-6 pt-3">
+						<div class="row pt-3">
 							<div class="tech-slider2 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
@@ -1450,7 +1455,7 @@
 <!--End Tech-->
 
 <!--Start Testinomial-->
-<section class="testimonials-section-app pt100 pm-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -1521,12 +1526,13 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading">
-					<!-- <span>Our happy customers</span> -->
-					<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
+					<div data-text="Clients" class="bg-text text-center">
+						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row justify-content-center wow fadeIn">
+		<div class="row justify-content-center wow fadeIn mt-xl-5">
 			<div class="col-lg-12">
 				<div class="client-logoset">
 					<div class="row">
@@ -1551,7 +1557,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -1591,7 +1599,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+					<div data-text="Awards" class="bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>

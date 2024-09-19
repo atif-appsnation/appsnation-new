@@ -11,11 +11,11 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
-						<h1 class="text-white">About AppsNation</h1>
-						<p class="text-white pt-3">AppsNation is a software and mobile app development company with a world-class team of talented data scientists, developers, designers, mathematicians, engineers, and creative artists. We are motivated to build elegant and functional digital products that solve complex problems.</p>
+						<h1 class="text-white">About <span>AppsNation</span></h1>
+						<p class="pt-3 text-white">AppsNation is a software and mobile app development company with a world-class team of talented data scientists, developers, designers, mathematicians, engineers, and creative artists. We are motivated to build elegant and functional digital products that solve complex problems.</p>
 					</div>
 				</div>
 			</div>
@@ -73,11 +73,13 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading">
-					<h2 class="mb30">Why Choose Us</h2>
+					<div data-text="Choose Us" class="bg-text">
+						<h2 class="mb30">Why Choose Us</h2>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row upset">
+		<div class="row upset mt-lg-5">
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">

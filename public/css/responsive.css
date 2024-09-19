@@ -1734,7 +1734,7 @@
 	}
 
 	.awards-slider .owl-item {
-		margin-right: 17.5px !important;
+		margin-right: 11.5px !important;
 		width: 93vw !important;
     	margin-left: 2px !important;
 	}
@@ -1760,12 +1760,12 @@
 
 	.service-heading {
 		display: inline-block;
-		width: 75%;
+		width: 65%;
 		padding-left: 5%;
 	}
 
 	.services-text-div {
-		padding-top: 40px;
+		padding-top: 20px;
 	}
 
 	.quote-form {
@@ -1848,6 +1848,10 @@
 	.contact-div p {
 		font-size: 32px;
 		line-height: 36px;
+	}
+
+	.service-heading {
+		padding-top: 0px;
 	}
 
     /* About Us Page */
@@ -2301,7 +2305,7 @@
 	}
 
 	.side-menu.-right {
-		right: 25px;
+		right: 0px;
 	}
 
 	.hero-main-rp {
@@ -2416,6 +2420,10 @@
 		display: inline-block;
 		width: 75%;
 		padding-left: 3%;
+	}
+
+	.service-heading {
+		padding-top: 0px;
 	}
 
 	.services-text-div {
@@ -2816,7 +2824,7 @@
 	}
 
 	.side-menu.-right {
-		right: 32px;
+		right: 0px;
 	}
     
     /* Home */
@@ -3256,7 +3264,7 @@
 	}
 
 	.side-menu.-right {
-		right: 45px;
+		right: 0px;
 	}
     
     /* Home */
@@ -3377,6 +3385,10 @@
         width: 1300px;
 	}
 
+	.process-block .bg-text, .technologies-stack .bg-text {
+		margin-bottom: 40px;
+	}
+
 	/* h2 {
 		font-size: 52px;
 		line-height: 50px;
@@ -3436,6 +3448,10 @@
 		display: block;
 		margin: 25px 0px 0px;
 		width: 50%;
+	}
+
+	.side-menu.-right {
+		right: 0px;
 	}
     
     /* Home */
@@ -3546,6 +3562,10 @@
 
 @media only screen and (min-width:1920px) {
 
+	.process-block .bg-text, .technologies-stack .bg-text {
+		margin-bottom: 40px;
+	}
+
 	/* h2 {
 		font-size: 52px;
 		line-height: 50px;
@@ -3593,7 +3613,7 @@
 	}
 
 	.side-menu.-right {
-		right: 45px;
+		right: 0px;
 	}
 
 	.hero-heading-sec2 p, .about-us p, .our-process p, .clients p, .testimonials p,

@@ -83,11 +83,11 @@
 				</a>
 			</li>
 			<li class="sm-item">
-				<a href="tel:+12535284174" class="white black">
+				<a href="tel:tel:+13237989803" class="white black">
 					<span class="sm-icon">
 						<i class="fas fa-phone-alt"></i>
 					</span>
-					<span class="sm-label"> +1 (253) 528-4174</span>
+					<span class="sm-label"> +1 (323) 798-9803</span>
 				</a>
 			</li>
 			<li class="sm-item">

@@ -5505,11 +5505,7 @@ body .bg-text:hover:after {
     animation: hoverFx 1s infinite;
 }
 
-.process-block .bg-text, .technologies-stack .bg-text {
-    margin-bottom: 40px;
-}
-
-.testimonials-section-app .bg-text {
+.testimonials-section-app .bg-text, .technologies .bg-text, .badges-section .bg-text {
     margin-bottom: 40px;
 }
 
@@ -9186,10 +9182,6 @@ ul.android-other-links li {
 
 /* Side Menu */
 
-.side-menu.-right {
-    right: 0;
-}
-
 .side-menu.--center {
     top: 50%;
     transform: translateY(-50%);
@@ -9604,9 +9596,9 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
     border-bottom: 1px solid transparent;
 }
 
-.con-h {
+/* .con-h {
     height: 170px;
-}
+} */
 
 .technologies-stack h3 {
     font-size: 24px;
@@ -10092,8 +10084,8 @@ color: var(--white-color); */
 }
 
 .about-icon {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
 }
 
 .vr-sec7 {
@@ -11107,8 +11099,12 @@ i.fa-brands.fa-instagram {
 
 /* Start About Us Page */
 
-.about-banner {
-    background-image: url(../images/banner/banner.webp);
+/* .about-us {
+    background-image: url(../images/banner/about-banner.webp);
+} */
+
+.about-us h1 span {
+    color: var(--first-color);
 }
 
 .main-timeline {

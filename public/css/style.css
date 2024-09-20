@@ -5495,10 +5495,17 @@ body .bg-text:after {
     left: 0;
     letter-spacing: -.03em;
     line-height: 0px;
-    opacity: .25;
     position: absolute;
     width: 1600px;
     z-index: -1;
+}
+
+body .light-bg-text:after {
+    opacity: .25;
+}
+
+body .dark-bg-text:after {
+    opacity: .05;
 }
 
 body .bg-text:hover:after {
@@ -10921,9 +10928,9 @@ i.fa-brands.fa-instagram {
     border-radius: 14px;
 }
 
-.contact, .location {
+/* .contact, .location {
     background-color: var(--light-grey);
-}
+} */
 
 .portfolio-page div nav div:nth-child(1) {
     display: flex;
@@ -11066,9 +11073,9 @@ i.fa-brands.fa-instagram {
     color: var(--first-color);
 }
 
-.client {
+/* .client {
     background-color: var(--light-grey);
-}
+} */
 
 .custom-border div {
     border-top: 1px solid var(--light-grey);

@@ -27,7 +27,7 @@
 		<div class="row justify-content-center">
 			<div class="col-12 fadeIn">
 				<div class="common-heading">
-					<div data-text="Achievements" class="bg-text text-center">
+					<div data-text="Achievements" class="light-bg-text bg-text text-center">
 						<h2 class="key-highlight text-center mt-5">Our Achievements</h2>
 					</div>
 					<h5 class="key-numbers text-center mt-5">Our work in numbers</h5>
@@ -65,7 +65,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12">
-				<div data-text="Our Services" class="bg-text text-center">
+				<div data-text="Our Services" class="light-bg-text bg-text text-center">
 					<div class="sctxt">App Development</div>
 				</div>
 			</div>
@@ -352,7 +352,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag fadeIn">
-					<div data-text="Process" class="bg-text">
+					<div data-text="Process" class="light-bg-text bg-text">
 						<h2>Our <span>Mobile App</span> Development Process</h2>
 					</div>
 					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
@@ -425,7 +425,7 @@
 		<div class="row">
 			<div class="col-12 fadeIn">
 				<div class="common-heading">
-					<div data-text="Our Portfolio" class="bg-text text-center">
+					<div data-text="Our Portfolio" class="light-bg-text bg-text text-center">
 						<h2 class="mb20 text-center">Our Latest Creative Work</h2>
 					</div>
 				</div>
@@ -747,7 +747,7 @@
 	<div class="container">
 		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-6 my-auto">
-				<div data-text="Partner" class="bg-text">
+				<div data-text="Partner" class="light-bg-text bg-text">
 					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
 				</div>
 				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its play stores where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
@@ -808,7 +808,7 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading">
-					<div data-text="Technologies" class="bg-text text-center">
+					<div data-text="Technologies" class="light-bg-text bg-text text-center">
 						<h2 class="mb30 text-center"><span>Technologies</span> We Work With</h2>
 					</div>
 				</div>
@@ -1460,7 +1460,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<div data-text="Testimonials" class="bg-text text-center">
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
 						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
 					</div>
 					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
@@ -1526,7 +1526,7 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading">
-					<div data-text="Clients" class="bg-text text-center">
+					<div data-text="Clients" class="light-bg-text bg-text text-center">
 						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
 					</div>
 				</div>
@@ -1557,7 +1557,7 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<div data-text="Partners" class="bg-text text-center">
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
 						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
 					</div>
 				</div>
@@ -1599,7 +1599,7 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<div data-text="Awards" class="bg-text text-center">
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
 						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
 					</div>
 				</div>

@@ -2,7 +2,7 @@
 @section('content')
 
 <!-- Start Breadcrumb -->
-<section class="breadcrumb-areav2 tech-stack">
+<section class="breadcrumb-areav2 tech-stack-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>

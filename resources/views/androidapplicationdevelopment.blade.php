@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 android-app-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -34,8 +34,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
+					<div data-text="Android" class="light-bg-text bg-text mt-5">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
+					</div>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
 					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
@@ -52,7 +53,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our Unrivaled <span>Android Development</span> Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our Unrivaled <span>Android Development</span> Services</h2>
+					</div>
 					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
@@ -203,8 +206,12 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Creative Mobile App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<div class="common-heading ptag">
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>Android App</span> Development Agency</h2>
+					</div>
+					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				</div>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -240,13 +247,35 @@
 </section>
 <!--End Features-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Why Choose-->
 <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text ">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
@@ -311,33 +340,15 @@
 </section>
 <!--Start Why Choose-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Android App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -396,13 +407,15 @@
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Technology Stack</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
 					<p>We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
 		</div>
 
-		<div class="row">
+		<div class="row mt-3">
 			<div class="col-md-5 wow fadeIn">
 				<ul class="nav nav-tabs android-tech-tabs mt-5">
 					@foreach($techstack as $k=>$item)
@@ -468,13 +481,35 @@
 </div>
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -508,33 +543,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -634,13 +651,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>

@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 cross-platform-app-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -54,7 +54,7 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our Cross-Platform App Development Expertise</h2>
+					<h2>Our <span>Cross-Platform App</span> Development Expertise</h2>
 					<p class="mb30">Our cross-platform app developers have extensive expertise in creating cross-platform apps utilizing cutting-edge technology.</p>
 				</div>
 			</div>
@@ -63,7 +63,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="flutter-app-dev-img"></div>
+						<img src="images/services/cross-app-development/flutter-app-development.svg" alt="Flutter App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Flutter App Development</h4>
@@ -76,7 +76,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="react-native-app-img"></div>
+						<img src="images/services/cross-app-development/react-native-app-development.svg" alt="React Native App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>React Native App Development</h4>
@@ -89,7 +89,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="xamarin-app-dev-img"></div>
+						<img src="images/services/cross-app-development/xamarin-app-development.svg" alt="Xamarin App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Xamarin App Development</h4>
@@ -102,7 +102,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="ionic-app-dev-img"></div>
+						<img src="images/services/cross-app-development/ionic-app-development.svg" alt="Ionic App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Ionic App Development</h4>
@@ -142,8 +142,10 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0">
-				<h2>Creative mobile app development agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<div class="common-heading ptag">
+					<h2>Creative <span>Cross Platform App</span> Development Agency</h2>
+					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				</div>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					
 					@foreach($agencystack as $k=>$items)
@@ -181,77 +183,6 @@
 </section>
 <!--End Features-->
 
-<!--Start Why Choose-->
-<section class="why-choose bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-					<p class="text-white">Harness the power of the cross-platform mobile app with us to grab all the market's attention. Make your business accessible to 90% of the smartphone users who spend most of the time using apps.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
-					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
-					</div>
-					<h3 class="title">50+ Expert Cross Platform Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class cross platform developers across the globe.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
-					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="technical-support"></div>
-					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="transparency"></div>
-					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Why Choose-->
-
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
@@ -272,14 +203,85 @@
 </div>
 <!--End Let's Work Together-->
 
+<!--Start Why Choose-->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<p class="text-white">Harness the power of the cross-platform mobile app with us to grab all the market's attention. Make your business accessible to 90% of the smartphone users who spend most of the time using apps.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
+					</div>
+					<h3 class="title">Free Mobile App Consultation</h3>
+					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
+					</div>
+					<h3 class="title">50+ Expert Android Developers</h3>
+					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
+					</div>
+					<h3 class="title">Flexible Hiring Models</h3>
+					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
+					</div>
+					<h3 class="title">24/7 Technical Support</h3>
+					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid">
+					</div>
+					<h3 class="title">100% Transparency</h3>
+					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
+					</div>
+					<h3 class="title">3-Months Free Support After Delivery</h3>
+					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Why Choose-->
+
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Android App</span> Development Process</h2>
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<h2>Our <span>Cross Platform App</span> Development Process</h2>
+					<p>AppsNation offers clients an easy and agile cross platform app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
@@ -332,7 +334,7 @@
 <!--End Process-->
 
 <!--Start Tech-->
-<div class="techonology-used- py-5">
+<div class="techonology-used py-5">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
@@ -407,13 +409,35 @@
 </div>
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-6">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -447,33 +471,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>Cross Platform App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Cross Platform App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -573,13 +579,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>

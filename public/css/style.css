@@ -2467,6 +2467,8 @@ footer.ftshap:before {
     /* height: 100vh; */
 }
 
+/* xxxxxxxxxxxx */
+
 .bread-titlev2 {
     text-align: left;
 }
@@ -10514,6 +10516,11 @@ button:not(:disabled) {
 
 .leadpopup .form-block input, .leadpopup .form-block textarea {
     border: 2px solid var(--second-color);
+
+}
+
+.services-img-div img {
+    width: 75px;
 }
 
 /* New */
@@ -11106,9 +11113,9 @@ i.fa-brands.fa-instagram {
 
 /* Start About Us Page */
 
-/* .about-us {
-    background-image: url(../images/banner/about-banner.webp);
-} */
+.about-us-banner {
+    background-image: url(../images/banner/about-us-banner.webp);
+}
 
 .about-us h1 span {
     color: var(--first-color);
@@ -11302,6 +11309,13 @@ i.fa-brands.fa-instagram {
 
 /* Start Career Page */
 
+.career-banner {
+    background-image: url(../images/banner/about-us-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .career-icons {
     width: 48px;
 }
@@ -11315,10 +11329,43 @@ i.fa-brands.fa-instagram {
 
 /* End Career Page */
 
+/* Start Our Process Page */
+
+.our-process-banner {
+    background-image: url(../images/banner/about-us-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Our Process Page */
+
+/* Start Testimonials Page */
+
+.testimonials-banner {
+    background-image: url(../images/banner/about-us-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Testimonials Page */
+
+/* Start Client Page */
+
+.client-banner {
+    background-image: url(../images/banner/about-us-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Client Page */
+
 /* Start Tech Stack Page */
 
-.tech-banner {
-    background: url(../images/banner/banner.webp);
+.tech-stack-banner {
+    background-image: url(../images/banner/about-us-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -11457,141 +11504,47 @@ i.fa-brands.fa-instagram {
     /* border-bottom: 1px solid var(--gray-color); */
 }
 
-/* Start Android App Development */
+/* Mobile App Development */
 
-/* .android-app-why-choose .timeline .timeline-year {
-    width: 90px;
-    height: 90px;
-    padding: 21px 0px;
+.mobile-app-banner {
+    background: url(../images/banner/mobile-app-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
-.android-app-why-choose .timeline .timeline-year img {
-    width: 50px;
-} */
+/* Start Android App Development */
 
-
-/* .service-card-app:hover .android-app-dev-consultation-img:hover{
-    background-image: url(../images/services/android-app-development/android-app-development-consultation-hover.webp) ;
-    background-size:cover;
-    width: 40px;
-    height: 40px;
-} */
-
+.android-app-banner {
+    background: url(../images/banner/android-app-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 
 /* End Android App Development */
 
 /* Start iOS App Development */
 
-/* .android-app-why-choose .timeline .timeline-year {
-    width: 90px;
-    height: 90px;
-    padding: 21px 0px;
-}
-
-.android-app-why-choose .timeline .timeline-year img {
-    width: 50px;
-} */
-
-.ios-app-development-img {
-    background-image: url(../images/services/ios-app-development/ios-app-development-consultation.webp);
+.ios-app-banner {
+    background: url(../images/banner/ios-app-banner.webp);
+    background-repeat: no-repeat;
     background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .ios-app-development-img {
-    background-image: url(../images/services/ios-app-development/ios-app-development-consultation-hover.webp);
-}
-
-.ios-ui-ux-img {
-    background-image: url(../images/services/ios-app-development/ios-ui-ux-design.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .ios-ui-ux-img {
-    background-image: url(../images/services/ios-app-development/ios-ui-ux-design-hover.webp);
-}
-
-.custom-ios-application-img {
-    background-image: url(../images/services/ios-app-development/custom-ios-application-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .custom-ios-application-img {
-    background-image: url(../images/services/ios-app-development/custom-ios-application-development-hover.webp);
-}
-
-.ios-software-testing-img {
-    background-image: url(../images/services/ios-app-development/ios-software-testing.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .ios-software-testing-img {
-    background-image: url(../images/services/ios-app-development/ios-software-testing-hover.webp);
-}
-
-.ios-multi-platform-img {
-    background-image: url(../images/services/ios-app-development/multi-platform-deployment.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .ios-multi-platform-img {
-    background-image: url(../images/services/ios-app-development/multi-platform-deployment-hover.webp);
-}
-
-.native-iphone-app-img {
-    background-image: url(../images/services/ios-app-development/native-iphone-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .native-iphone-app-img {
-    background-image: url(../images/services/ios-app-development/native-iphone-app-development-hover.webp);
-}
-
-.hybrid-iphone-app-img {
-    background-image: url(../images/services/ios-app-development/hybrid-iphone-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .hybrid-iphone-app-img {
-    background-image: url(../images/services/ios-app-development/hybrid-iphone-app-development-hover.webp);
-}
-
-.apple-watch-app-img {
-    background-image: url(../images/services/ios-app-development/apple-watch-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .apple-watch-app-img {
-    background-image: url(../images/services/ios-app-development/apple-watch-app-development-hover.webp);
-}
-
-.apple-tv-app-img {
-    background-image: url(../images/services/ios-app-development/apple-tv-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .apple-tv-app-img {
-    background-image: url(../images/services/ios-app-development/apple-tv-app-development-hover.webp);
+    background-position: center center;
 }
 
 /* End iOS App Development */
+
+/* Start Cross Platform App Development */
+
+.cross-platform-app-banner {
+    background: url(../images/banner/cross-platform-app-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Cross Platform App Development */
 
 /* Start Game App Development */
 

@@ -2,7 +2,7 @@
 @section('content')
 
 <!-- Start Breadcrumb -->
-<section class="breadcrumb-areav2 our-process">
+<section class="breadcrumb-areav2 our-process-banner">
 
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">

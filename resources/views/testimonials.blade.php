@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!-- Start Breadcrumb -->
-<section class="breadcrumb-areav2 testimonials">
+<section class="breadcrumb-areav2 testimonials-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>

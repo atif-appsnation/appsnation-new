@@ -1454,103 +1454,6 @@
 </section>
 <!--End Tech-->
 
-<!--Start Testinomial-->
-<section class="testimonials-section-app pt100 pb-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading text-center">
-					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-					</div>
-					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-5 fadeIn my-auto">
-				<div class="row mt30 justify-content-center">
-					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-				</div>
-				<div class="review-title-ref mt40">
-					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-				</div>
-			</div>
-			<div class="col-lg-7 wow fadeIn">
-				<div class="pl50">
-					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
-					<div class="testimonial-card-a tcd owl-carousel">
-
-						@foreach($testimonials as $item)
-						<div class="testimonial-card">
-							<div class="tt-text">
-								<p>{{$item['title']}}</p>
-							</div>
-							<div class="client-thumbs mt30">
-								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
-									<div class="media-body user-info v-center">
-										<h5>{{$item['name']}}</h5>
-										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
-									</div>
-								</div>
-							</div>
-						</div>
-						@endforeach
-
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Testinomial-->
-
-<!--Start Clients-->
-<section class="py-5 bg-gradient3 client">
-	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-12">
-				<div class="common-heading">
-					<div data-text="Clients" class="light-bg-text bg-text text-center">
-						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row justify-content-center wow fadeIn mt-xl-5">
-			<div class="col-lg-12">
-				<div class="client-logoset">
-					<div class="row">
-						@foreach($clients as $item)
-						<div class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border mt-4">
-							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
-							</div>
-						</div>
-						@endforeach
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Clients-->
-
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
@@ -1679,6 +1582,103 @@
 	</div>
 </section>
 <!--End Badges-->
+
+<!--Start Clients-->
+<section class="py-5 bg-gradient3 client">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading">
+					<div data-text="Clients" class="light-bg-text bg-text text-center">
+						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center wow fadeIn mt-xl-5">
+			<div class="col-lg-12">
+				<div class="client-logoset">
+					<div class="row">
+						@foreach($clients as $item)
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border mt-4">
+							<div class="brand-logo hoshd">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+							</div>
+						</div>
+						@endforeach
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Clients-->
+
+<!--Start Testinomial-->
+<section class="testimonials-section-app pt100 pb-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col-lg-5 fadeIn my-auto">
+				<div class="row mt30 justify-content-center">
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-4">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+				</div>
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-lg-7 wow fadeIn">
+				<div class="pl50">
+					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
+					<div class="testimonial-card-a tcd owl-carousel">
+
+						@foreach($testimonials as $item)
+						<div class="testimonial-card">
+							<div class="tt-text">
+								<p>{{$item['title']}}</p>
+							</div>
+							<div class="client-thumbs mt30">
+								<div class="media v-center upset">
+									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
+									<div class="media-body user-info v-center">
+										<h5>{{$item['name']}}</h5>
+										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						@endforeach
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Testinomial-->
 
 <!-- Google Tag Manager -->
 <script>

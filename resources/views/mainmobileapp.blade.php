@@ -37,7 +37,9 @@
             </div>
             <div class="col-lg-6 block-1 wow fadeIn my-lg-auto">
                 <div class="common-heading text-l px-3 px-lg-0 pr-lg-4">
-                    <h2>Scale-Up With Our<br> <span class="flup-theme">Custom Mobile App Development Services</span></h2>
+					<div data-text="Mobile" class="light-bg-text bg-text mt-0">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Mobile App Development Services</span></h2>
+					</div>
                     <p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest application development services.</p>
                 </div>
             </div>
@@ -131,7 +133,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
@@ -280,7 +282,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">

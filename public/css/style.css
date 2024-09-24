@@ -11575,6 +11575,8 @@ i.fa-brands.fa-instagram {
     background: url(../images/services/game-app-development/game-process-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    z-index: 1;
+    position: relative;
 }
 
 .game-service-item .card-body {

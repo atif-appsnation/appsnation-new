@@ -36,9 +36,9 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<span>Overview</span>
-					<h2>Top-Notch<br>
-						<span class="flup-theme">iOS App Development Services</span>
-					</h2>
+					<div data-text="iOS" class="light-bg-text bg-text">
+						<h2>Top-Notch<br><span class="flup-theme">iOS App Development Services</span></h2>
+					</div>
 					<p><strong>Get yourself an industry-standard iOS application with AppsNation's most competent and expert iOS developers.</strong></p>
 					<p>AppsNation creates appealing iOS apps depending on your company's needs. Our highly skilled iOS developers create incredibly functional and user-friendly iPhone applications that can be deployed on various platforms. AppsNation is renowned for producing quality iOS apps for any business.</p>
 					<p>We are the leading iOS app development company with cost-effective methodologies to make our top iOS developers connect with everyone. We thrive on digitalizing businesses with our innovative iOS applications with edge-cutting technology and tools, including tempting UI/UX designs. We automate your business processes with your envisioned ideal iOS application. What you dream and imagine will be in the palm of your hands with our custom mobile app development service.</p>
@@ -53,9 +53,11 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container mt-3">
 		<div class="row">
-			<div class="col-12 mt-5 mt-sm-3 mt-md-5 wow fadeIn">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Custom <span>iOS App</span> Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Custom <span>iOS App</span> Development Services</h2>
+					</div>
 					<p class="mb-0">AppsNation is the top iOS app development company with a pool of services to create a bespoke iOS application</p>
 				</div>
 			</div>
@@ -208,7 +210,9 @@
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Creative <span>iOS App</span> Development Agency</h2>
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>iOS App</span> Development Agency</h2>
+					</div>
 					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				</div>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -250,7 +254,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
+	<div class="col-lg-9">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
@@ -274,7 +278,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text ">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
@@ -345,7 +351,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>iOS App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>iOS App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -404,7 +412,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Technology Stack</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
 					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
@@ -479,7 +489,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
@@ -628,7 +638,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -718,7 +728,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

@@ -7,9 +7,23 @@
 	</video>
 	<div class="hero-main-rp container main-ban hidden">
 		<div class="row align-items-center">
-			<div class="col-sm-12 col-md-12 col-lg-8 col-xl-6 v-center">
+			<div class="col-sm-12 col-md-12 col-lg-8 v-center" data-rellax-speed="-3">
 				<div class="hero-heading-sec2 niwax" data-rellax-speed="3">
-					<h1 class="wow fadeIn">Top Rated <span>Mobile App</span> Development Company</h1>
+					<h1 class="wow fadeIn cd-headline clip">Top Rated
+						<span class="cd-words-wrapper">
+							<b class="is-visible">Mobile App</b>
+							<b>Android App</b>
+							<b>iOS App</b>
+							<b>Game App</b>
+							<b>Cross Platform App</b>
+							<b>Web App</b>
+							<b>E-Commerce App</b>
+							<b>XR App</b>
+							<b>MR App</b>
+							<b>VR App</b>
+							<b>AR App</b>
+						</span>
+					Development Company</h1>
 					<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
 						<i class="fas fa-chevron-right fa-icon"></i>

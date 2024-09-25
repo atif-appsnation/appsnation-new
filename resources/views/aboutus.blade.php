@@ -11,7 +11,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-12 wow fadeIn">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
 						<h1 class="text-white">About <span>AppsNation</span></h1>
@@ -34,9 +34,10 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-30 mt-lg-0">
-				<div class="common-heading text-l ">
-					<!-- <span>THE BEST WAY TO SUCCESS</span> -->
-					<h2>NOT JUST WELL-KNOWN WE’LL MAKE YOU FAMOUS</h2>
+				<div class="common-heading text-l">
+					<div data-text="About Us" class="light-bg-text bg-text">
+						<h2>NOT JUST WELL-KNOWN WE’LL MAKE YOU FAMOUS</h2>
+					</div>
 					<p>AppsNation is the USA's top leading mobile application development company providing multiple mobile app development services in IOs, Android, IoT, AR/VR, game, cross-platform, wearable, and eCommerce. We also provide mobile app QA Testing and strategic design consultancy services. Our enterprise-class solutions enable seamless user experiences across all modern platforms and devices. We run the entire mobile app development process from ideation to delivery and ongoing support. We have a team of the most dedicated and trained mobile engineers, designers, and marketers who create impact with stunning products for your business. We meet your business needs and strategies by providing the quickest solutions at very reasonable prices. AppsNation offers its services in 50+ industries, including healthcare, transport, travel, media, education, and more.</p>
 					<p>We have achieved some remarkable goals within a few years, and now we are trusted by 100+ businesses. AppsNation has proven expertise in strategy, product development, and design for startups and enterprise clients. By leveraging our experience and design best practices, we deliver innovative mobile applications that enable big ideas to be built faster, better, and more secure. Global brands trust us to create and support apps that reduce time to market, improve quality, and lower costs.</p>
 				</div>
@@ -73,7 +74,7 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading">
-					<div data-text="Choose Us" class="bg-text">
+					<div data-text="Choose Us" class="light-bg-text bg-text">
 						<h2 class="mb30">Why Choose Us</h2>
 					</div>
 				</div>
@@ -138,4 +139,6 @@
 	</div>
 </section>
 <!--End why-choose-->
+
+
 @endsection

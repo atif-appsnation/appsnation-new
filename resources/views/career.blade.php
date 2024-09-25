@@ -27,26 +27,41 @@
 <section class="recruitment-process py-5 wow fadeIn">
 	<div class="container">
 		<div class="row pt-3">
-			<div class="col-lg-6">
-				<h2 class="placea-process-heading">Our Recruitment Process</h2>
-				<p class="placea-process-text">AppsNation aims to build high-quality software while also fostering an enjoyable work environment that allows everyone the opportunity to reach their highest potential.</p>
+			<div class="col-12">
+				<div data-text="Recruitment" class="light-bg-text bg-text">
+					<h2>Our Recruitment Process</h2>
+				</div>
+				<p>AppsNation aims to build high-quality software while also fostering an enjoyable work environment that allows everyone the opportunity to reach their highest potential.</p>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-sm-12 col-md-4">
-				<img src="images/career/application.svg" class="career-icons">
-				<h4 class="py-3">Application</h4>
-				<p>Submit your application through our website. Your application is being read by real humans.</p>
+				<div class="card">
+					<div class="card-body">
+						<img src="images/career/application.svg" class="career-icons">
+						<h4 class="py-3">Application</h4>
+						<p>Submit your application through our website. Your application is being read by real humans.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
-				<img src="images/career/interview.svg" class="career-icons">
-				<h4 class="py-3">Interview</h4>
-				<p>Let us get familiar with your competencies and experience in the field.</p>
+				<div class="card">
+					<div class="card-body">
+						<img src="images/career/interview.svg" class="career-icons">
+						<h4 class="py-3">Interview</h4>
+						<p>Let us get familiar with your competencies and experience in the field.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
-				<img src="images/career/offer.svg" class="career-icons">
-				<h4 class="py-3">Offer</h4>
-				<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
+				<div class="card">
+					<div class="card-body">
+						<img src="images/career/offer.svg" class="career-icons">
+						<h4 class="py-3">Offer</h4>
+						<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
+					</div>
+				</div>
+				
 			</div>
 		</div>
 	</div>
@@ -144,8 +159,10 @@
 		<div class="row justify-content-center wow fadeIn">
 			<div class="col-xl-6 my-auto">
 				<div class="common-heading">
-					<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
-					<!--<p class="pt-2">Appsnation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<div data-text="Developers" class="dark-bg-text bg-text">
+						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					</div>
+					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
 					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
@@ -256,7 +273,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4	 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
@@ -277,41 +294,67 @@
 		<div class="row pt-3">
 			<div class="col-lg-6">
 				<div class="common-heading">
-					<h2>Our Perks</h2>
+					<div data-text="Perks" class="light-bg-text bg-text">
+						<h2>Our Perks</h2>
+					</div>
 					<p>Since loving your job doesn’t pay your expenses, here are some amazing perks offered by AppsNation.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-sm-12 col-md-6 col-lg-4">
-				<img src="images/career/bonus.svg" class="career-icons">
-				<h4 class="py-3">Bonuses</h4>
-				<p>Pay rise, promotions, and top opportunities for professional development.</p>
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/career/bonus.svg" class="career-icons">
+						<h4 class="py-3">Bonuses</h4>
+						<p>Pay rise, promotions, and top opportunities for professional development.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4 mt-md-0">
-				<img src="images/career/vehicle.svg" class="career-icons mb-md-4">
-				<h4 class="py-3">Vehicle</h4>
-				<p>Company maintained car.</p>
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/career/vehicle.svg" class="career-icons mb-md-4">
+						<h4 class="py-3">Vehicle</h4>
+						<p>Company maintained car.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4 mt-lg-0">
-				<img src="images/career/medical.svg" class="career-icons">
-				<h4 class="py-3">Health insurance</h4>
-				<p>We ensure all your healthcare needs, we believe in human right.</p>
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/career/medical.svg" class="career-icons">
+						<h4 class="py-3">Health insurance</h4>
+						<p>We ensure all your healthcare needs, we believe in human right.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
-				<img src="images/career/leaves.svg" class="career-icons">
-				<h4 class="py-3">Parental leaves</h4>
-				<p>When it comes to feelings, work isn’t the priority.</p>
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/career/leaves.svg" class="career-icons">
+						<h4 class="py-3">Parental leaves</h4>
+						<p>When it comes to feelings, work isn’t the priority.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
-				<img src="images/career/funds.svg" class="career-icons">
-				<h4 class="py-3">Gratuity funds</h4>
-				<p>A company sponsored fund that enables you to maximize benefits.</p>
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/career/funds.svg" class="career-icons">
+						<h4 class="py-3">Gratuity funds</h4>
+						<p>A company sponsored fund that enables you to maximize benefits.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
-				<img src="images/career/training.svg" class="career-icons">
-				<h4 class="py-3">Training</h4>
-				<p>Mentors to guide and support you. Training programs to polish your skills.</p>
+				<div class="card h-100">
+					<div class="card-body">
+						<img src="images/career/training.svg" class="career-icons">
+						<h4 class="py-3">Training</h4>
+						<p>Mentors to guide and support you. Training programs to polish your skills.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -323,7 +366,9 @@
 	<div class="container">
 		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-6 my-auto">
-				<h2>Why Choose <span>Appsnation</span> As Your <span>Development Partner</span></h2>
+				<div data-text="Partner" class="light-bg-text bg-text">
+					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
+				</div>
 				<p class="pt-2">Appsnation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, Appsnation has its play stores where we have 50+ different apps and software, which most development companies don't have. Appsnation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 				<a href="pdf/company-profile-appsnation.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Company Profile
 					<i class="fas fa-chevron-right fa-icon"></i>

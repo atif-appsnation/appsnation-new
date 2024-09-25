@@ -24,7 +24,7 @@
 							<b>AR App</b>
 						</span>
 					Development Company</h1>
-					<p class="wow fadeIn">Our Game app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+					<p class="wow fadeIn">Our app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -629,7 +629,9 @@
 		<div class="row justify-content-center wow fadeIn">
 			<div class="col-xl-6 my-auto">
 				<div class="common-heading">
-					<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					<div data-text="Developers" class="dark-bg-text bg-text">
+						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					</div>
 					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
 					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
@@ -741,7 +743,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4	 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">

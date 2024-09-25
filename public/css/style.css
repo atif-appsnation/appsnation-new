@@ -1163,14 +1163,14 @@ a.play-video::after {
     overflow: hidden;
 }
 
-.about-agency:before {
+/* .about-agency:before {
     content: "";
     background: url(images/shape/dot_bg.webp);
     position: absolute;
     width: 100%;
     height: 100%;
     top: 0;
-}
+} */
 
 .text-l {
     text-align: left !important;
@@ -8769,7 +8769,7 @@ html .mt15 {
     -webkit-box-shadow: 0 3.4px 2.7px -30px rgb(0 0 0 / 6%), 0 8.2px 8.9px -30px rgb(0 0 0 / 7%), 0 25px 40px -30px rgb(0 0 0 / 20%);
     box-shadow: 0 3.4px 2.7px -30px rgb(0 0 0 / 6%), 0 8.2px 8.9px -30px rgb(0 0 0 / 7%), 0 25px 40px -30px rgb(0 0 0 / 20%);
     height: 100%;
-    background: linear-gradient(#ffffff 50%, var(--second-color) 50%);
+    background: linear-gradient(#ffffff 50%, var(--first-color) 50%);
     background-size: 100% 200%;
     background-position: 0% 2.5%;
     cursor: pointer;
@@ -11327,6 +11327,14 @@ i.fa-brands.fa-instagram {
     background-position: center center;
 }
 
+.recruitment-process .card {
+    padding: 2em 1.5em;
+}
+
+.perk .card {
+    padding: 2em 1.5em;
+}
+
 /* End Career Page */
 
 /* Start Our Process Page */
@@ -11548,11 +11556,17 @@ i.fa-brands.fa-instagram {
 
 /* Start Game App Development */
 
-.game-intro-section {
-    background: url(../images/services/game-app-development/games-banner.webp) no-repeat;
+.game-app-banner {
+    background: url(../images/banner/game-app-banner.webp) no-repeat;
     background-size: cover;
     background-position: center;
-    height: 1080px;
+}
+
+.game-intro-section {
+    /* background: url(../images/services/game-app-development/games-banner.webp) no-repeat; */
+    background-size: cover;
+    background-position: center;
+    /* height: 1080px; */
 }
 
 .game-choose-section {

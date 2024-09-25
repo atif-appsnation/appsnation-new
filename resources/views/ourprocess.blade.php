@@ -12,12 +12,12 @@
 	
 	<div class="container">
         <div class="row">
-            <div class="col-12 wow fadeIn">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="bread-inner">
                     <div class="bread-title">
                         <h1 class="text-white">Our Process</h1>
                         <!-- <p class="text-white pt-3">The great revolution starts here process that meets quality.</p> -->
-                        <p class="text-white pt-3">Appsnation, work on all of our Web and App development projects professionally with creative moralistic methods to provide accurate results to our clients.</p>
+                        <p class="text-white pt-3">AppsNation, work on all of our Apps development projects professionally with creative moralistic methods to provide accurate results to our clients.</p>
                     </div>
                 </div>
             </div>

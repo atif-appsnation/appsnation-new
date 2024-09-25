@@ -10,7 +10,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-12 wow fadeIn">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
 						<h1 class="text-white">Testimonials</h1>
@@ -82,7 +82,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -122,7 +124,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -203,7 +207,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">

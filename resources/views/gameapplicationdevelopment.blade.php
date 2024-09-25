@@ -10,13 +10,13 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
+			<div class="col-sm-12 col-md-4 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Professional Game Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Be the top trend among the gamers and streamers with an ultimate game developed by our most reliable game developers.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
+			<div class="col-sm-12 col-md-8 wow fadeIn">
 				<img src="images/services/game-app-development/game-app-banner-img.webp" class="img-fluid" alt="Game App Development">
 			</div>
 		</div>
@@ -28,17 +28,17 @@
 <section class="service py-5 game-intro-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-md-12 col-sm-12 block-1 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn">
+				<div class="image-block wow fadeIn">
+					<img src="images/services/game-app-development/game-app-development.webp" alt="Game Development" class="img-fluid no-shadow" />
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-6 my-auto block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
 					<h2>Grab The Gamers With Our <br> <span class="flup-theme">Ultimate Game Development Services</span></h2>
 					<p><strong>Announce your crazy and game-changing idea of a game among the gamers and the industry with our stellar game development services.</strong></p>
 					<p>AppsNation is a renowned and reliable team of game developers, offering a wide range of game development services. Our mission is to turn those out-of-the-box ideas into reality with a highly functional and robust game developed by our exceptional game development services.</p>
 					<p>We are on the verge of converting unique gaming ideas into reality to make it the next viral thing among gamers and the gaming industry. Our game developers are ingenious and go beyond conventional creativity to design your game with alluring aesthetics, perfect animation, and character design. The graphics depend on your requirements, yet we give it a realistic look to impress players.</p>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12 col-sm-12 my-auto">
-				<div class="image-block wow fadeIn">
-					<img src="images/service/2.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -181,7 +181,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Creative mobile app development agency</h2>
+				<div data-text="Industries" class="light-bg-text bg-text">
+					<h2>Creative <span>Game App</span> Development Agency</h2>
+				</div>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
@@ -224,58 +226,57 @@
 <section class="service-block py-5 game-section">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-12 col-lg-6"></div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-4 mt-sm-4 mt-md-4 mt-lg-0 ">
+			<div class="col-12 col-lg-8">
 				<div class="row wow fadeIn">
 					<div class="ptag text-center">
 					    <h2 class="text-white pt-3">Our Game Development Services</h2>
 					</div>
 				</div>
 				<div class="row mt-3 wow fadeIn">
-                    <div class="col-md-4 game-development-col">
+                    <div class="col-md-3 game-development-col">
                         <img src="images/services/game-app-development/casual.webp" alt="Causal Game" class="img-fluid">
                         <p class="center-text">Causal<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 mt-md-0 game-development-col">
+                    <div class="col-md-3 mt-3 mt-md-0 game-development-col">
                         <img src="images/services/game-app-development/action.webp" alt="Action Game" class="img-fluid">
                         <p class="center-text">Action<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 mt-md-0 game-development-col">
+                    <div class="col-md-3 mt-3 mt-md-0 game-development-col">
                         <img src="images/services/game-app-development/arcade.webp" alt="Arcade Game" class="img-fluid">
                         <p class="center-text">Arcade<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 game-development-col">
+                    <div class="col-md-3 mt-3 mt-md-0 game-development-col">
                         <img src="images/services/game-app-development/adventure.webp" alt="Adventure Game" class="img-fluid">
                         <p class="center-text">Adventure<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 game-development-col">
+                    <div class="col-md-3 mt-3 game-development-col">
                         <img src="images/services/game-app-development/puzzle.webp" alt="Puzzle Game" class="img-fluid">
                         <p class="center-text">Puzzle<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 game-development-col">
+                    <div class="col-md-3 mt-3 game-development-col">
                         <img src="images/services/game-app-development/multiplayer.webp" alt="Multiplayer Game" class="img-fluid">
                         <p class="center-text">Multiplayer<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 game-development-col">
+                    <div class="col-md-3 mt-3 game-development-col">
                         <img src="images/services/game-app-development/racing.webp" alt="Racing Game" class="img-fluid">
                         <p class="center-text">Racing<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 game-development-col">
+                    <div class="col-md-3 mt-3 game-development-col">
                         <img src="images/services/game-app-development/sports.webp" alt="Sports Game" class="img-fluid">
                         <p class="center-text">Sports<p>
                     </div>
 
-                    <div class="col-md-4 mt-3 game-development-col">
+                    <!-- <div class="col-md-4 mt-3 game-development-col">
                         <img src="images/services/game-app-development/combat.webp" alt="Combat Game" class="img-fluid">
                         <p class="center-text">Combact<p>
-                    </div>
+                    </div> -->
                 </div>
 			</div>
 		</div>
@@ -309,7 +310,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="ptag wow fadeIn">
-					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+					<div data-text="Process" class="light-bg-text bg-text mb-5">
 						<h2 class="text-white">Our Game Development Process</h2>
 					</div>
 					<p class="text-white">AppsNation offers clients an easy and smooth game development process with a result-driven ideology.</p>

@@ -11,7 +11,7 @@
 	
     <div class="container">
 		<div class="row">
-			<div class="col-12 wow fadeIn">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-inner">
 					<div class="bread-title">
 						<h1 class="text-white">Tech Stack</h1>
@@ -24,17 +24,19 @@
 <!-- End Breadcrumb -->
 
 <!--Start Tech-->
-<section class="technologies-stack py-5">
+<section class="technologies-stack py-5 mt-5">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 wow fadeIn">
+		<div class="row fadeIn">
+			<div class="col-12">
 				<div class="common-heading">
-					<h2 class="mb30">Technologies we work with</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text text-center">
+						<h2 class="mb30 text-center"><span>Technologies</span> We Work With</h2>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-6 mt-4 wow fadeIn">
+		<div class="row wow fadeIn">
+			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -189,7 +191,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeIn">
+			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -272,7 +274,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeIn">
+			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -331,7 +333,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeIn">
+			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -384,7 +386,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeIn">
+			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="row">
@@ -419,8 +421,8 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 mt-4 wow fadeIn">
-				<div class="card h-100">
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100 ">
 					<div class="card-body">
 						<div class="row">
 							<div class="con-h">

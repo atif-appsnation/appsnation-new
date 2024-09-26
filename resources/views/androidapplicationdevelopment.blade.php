@@ -34,7 +34,7 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<div data-text="Android" class="light-bg-text bg-text mt-5">
+					<div data-text="Android" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
 					</div>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
@@ -256,7 +256,7 @@
 					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
 					</a>
@@ -273,7 +273,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Choose Us" class="dark-bg-text bg-text ">
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
 						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 					</div>
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>

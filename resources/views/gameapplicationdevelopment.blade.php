@@ -35,7 +35,9 @@
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-6 my-auto block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
-					<h2>Grab The Gamers With Our <br> <span class="flup-theme">Ultimate Game Development Services</span></h2>
+					<div data-text="Game" class="light-bg-text bg-text mb-5">
+						<h2>Grab The Gamers With Our <br> <span class="flup-theme">Ultimate Game Development Services</span></h2>
+					</div>
 					<p><strong>Announce your crazy and game-changing idea of a game among the gamers and the industry with our stellar game development services.</strong></p>
 					<p>AppsNation is a renowned and reliable team of game developers, offering a wide range of game development services. Our mission is to turn those out-of-the-box ideas into reality with a highly functional and robust game developed by our exceptional game development services.</p>
 					<p>We are on the verge of converting unique gaming ideas into reality to make it the next viral thing among gamers and the gaming industry. Our game developers are ingenious and go beyond conventional creativity to design your game with alluring aesthetics, perfect animation, and character design. The graphics depend on your requirements, yet we give it a realistic look to impress players.</p>
@@ -52,7 +54,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2 class="text-white">Why Choose AppsNation</h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text mb-5">
+						<h2 class="text-white">Why Choose AppsNation</h2>
+					</div>
 					<p class="text-white">We provide high-quality game development to clients all around the world. To produce excellent tales and exceptional gaming experiences, our team of tech-savvy game developers goes beyond the frontier of imagination.</p>
 				</div>
 			</div>
@@ -181,11 +185,13 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<div data-text="Industries" class="light-bg-text bg-text">
-					<h2>Creative <span>Game App</span> Development Agency</h2>
+				<div class="common-heading ptag">
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>Game App</span> Development Agency</h2>
+					</div>
 				</div>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
-				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
+				<ul class="nav nav-tabs features-tab mt-5" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
                     <li class="nav-item">
@@ -205,12 +211,12 @@
 					@if($k==0)
 					<div class="tab-pane fade show active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="pt-3">{!!$items['content']!!}</p>
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="pt-3">{!!$items['content']!!}</p>
 					</div>
 					@endif
 					@endforeach
@@ -225,59 +231,66 @@
 <!--Start Games-->
 <section class="service-block py-5 game-section">
 	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-12 col-lg-8">
+		<div class="row">
+			<div class="col-12">
 				<div class="row wow fadeIn">
-					<div class="ptag text-center">
-					    <h2 class="text-white pt-3">Our Game Development Services</h2>
+					<div class="ptag text-center common-heading">
+						<div data-text="Our Services" class="light-bg-text bg-text mb-5">
+					    	<h2 class="text-white pt-3">Our <span>Game App</span> Development Services</h2>
+						</div>
 					</div>
 				</div>
-				<div class="row mt-3 wow fadeIn">
-                    <div class="col-md-3 game-development-col">
-                        <img src="images/services/game-app-development/casual.webp" alt="Causal Game" class="img-fluid">
-                        <p class="center-text">Causal<p>
-                    </div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-8">
+				<div class="row mt-5 wow fadeIn">
+						<div class="col-md-3 game-development-col">
+							<img src="images/services/game-app-development/casual.webp" alt="Causal Game" class="img-fluid">
+							<p class="center-text">Causal<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 mt-md-0 game-development-col">
-                        <img src="images/services/game-app-development/action.webp" alt="Action Game" class="img-fluid">
-                        <p class="center-text">Action<p>
-                    </div>
+						<div class="col-md-3 mt-3 mt-md-0 game-development-col">
+							<img src="images/services/game-app-development/action.webp" alt="Action Game" class="img-fluid">
+							<p class="center-text">Action<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 mt-md-0 game-development-col">
-                        <img src="images/services/game-app-development/arcade.webp" alt="Arcade Game" class="img-fluid">
-                        <p class="center-text">Arcade<p>
-                    </div>
+						<div class="col-md-3 mt-3 mt-md-0 game-development-col">
+							<img src="images/services/game-app-development/arcade.webp" alt="Arcade Game" class="img-fluid">
+							<p class="center-text">Arcade<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 mt-md-0 game-development-col">
-                        <img src="images/services/game-app-development/adventure.webp" alt="Adventure Game" class="img-fluid">
-                        <p class="center-text">Adventure<p>
-                    </div>
+						<div class="col-md-3 mt-3 mt-md-0 game-development-col">
+							<img src="images/services/game-app-development/adventure.webp" alt="Adventure Game" class="img-fluid">
+							<p class="center-text">Adventure<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 game-development-col">
-                        <img src="images/services/game-app-development/puzzle.webp" alt="Puzzle Game" class="img-fluid">
-                        <p class="center-text">Puzzle<p>
-                    </div>
+						<div class="col-md-3 mt-3 game-development-col">
+							<img src="images/services/game-app-development/puzzle.webp" alt="Puzzle Game" class="img-fluid">
+							<p class="center-text">Puzzle<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 game-development-col">
-                        <img src="images/services/game-app-development/multiplayer.webp" alt="Multiplayer Game" class="img-fluid">
-                        <p class="center-text">Multiplayer<p>
-                    </div>
+						<div class="col-md-3 mt-3 game-development-col">
+							<img src="images/services/game-app-development/multiplayer.webp" alt="Multiplayer Game" class="img-fluid">
+							<p class="center-text">Multiplayer<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 game-development-col">
-                        <img src="images/services/game-app-development/racing.webp" alt="Racing Game" class="img-fluid">
-                        <p class="center-text">Racing<p>
-                    </div>
+						<div class="col-md-3 mt-3 game-development-col">
+							<img src="images/services/game-app-development/racing.webp" alt="Racing Game" class="img-fluid">
+							<p class="center-text">Racing<p>
+						</div>
 
-                    <div class="col-md-3 mt-3 game-development-col">
-                        <img src="images/services/game-app-development/sports.webp" alt="Sports Game" class="img-fluid">
-                        <p class="center-text">Sports<p>
-                    </div>
+						<div class="col-md-3 mt-3 game-development-col">
+							<img src="images/services/game-app-development/sports.webp" alt="Sports Game" class="img-fluid">
+							<p class="center-text">Sports<p>
+						</div>
 
-                    <!-- <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/game-app-development/combat.webp" alt="Combat Game" class="img-fluid">
-                        <p class="center-text">Combact<p>
-                    </div> -->
-                </div>
+						<!-- <div class="col-md-4 mt-3 game-development-col">
+							<img src="images/services/game-app-development/combat.webp" alt="Combat Game" class="img-fluid">
+							<p class="center-text">Combact<p>
+						</div> -->
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -293,7 +306,7 @@
 					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
 					</a>

@@ -10,13 +10,13 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">IoT App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Enrich your brand’s mobility with a wearable app running across various wearables and connectivity with multi-platform devices - responsive, fast, and visually appealing.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<img src="images/iot-app-development/iot-app-banner-img.webp" class="img-fluid" alt="IoT App Development">
 			</div>
 		</div>
@@ -29,11 +29,11 @@
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
+				<div class="image-block wow fadeIn">
 					<img src="images/iot-app-development/iot-app-development.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight">
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<h2>Appreciation From Client</h2>
 					<p><strong>"They have a thorough understanding of IoT and are well-versed in the most up-to-date techniques and technologies."</strong></p>
@@ -50,19 +50,15 @@
 <section class="service-section-app py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>IoT App Development Services</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p>IoT software development company can help you start a revolution in the IoT arena and accelerate business growth and progress. Utilize the power of our IoT solutions to create a digital bridge between machines and people through the convergence of innovative technologies.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="iot-consulting-img"></div>
@@ -75,7 +71,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="poc-prototype-dev-img"></div>
@@ -88,7 +84,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="iot-firmware-img"></div>
@@ -101,7 +97,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="iot-mobile-web-img"></div>
@@ -114,7 +110,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="ip-product-img"></div>
@@ -127,7 +123,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="iot-wearable-apps-img"></div>
@@ -140,7 +136,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="iot-architecture-img"></div>
@@ -153,7 +149,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="backend-api-img"></div>
@@ -171,29 +167,11 @@
 </section>
 <!--End Service -->
 
-<!--Start Hire Dedicated Developer -->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn mt50 mb50">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Dedicated Developer</span>
-				</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Hire Dedicated Developer -->
-
 <!--Start Service -->
 <section class="service-section py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="iot-data-img"></div>
@@ -206,7 +184,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="iot-module-img"></div>
@@ -219,7 +197,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="iot-imp-sup-img"></div>
@@ -232,7 +210,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="iot-architecture-eco-img"></div>
@@ -245,7 +223,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="user-exp-img"></div>
@@ -258,7 +236,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="testing-maint-img"></div>
@@ -271,7 +249,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="industrial-iot-sol-img"></div>
@@ -284,7 +262,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="iomt-solutions-img"></div>
@@ -297,7 +275,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border">
 					<div class="services-img-div">
 						<div class="iot-cloud-sol-img"></div>
@@ -310,7 +288,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
 						<div class="voice-enabled-img"></div>
@@ -323,7 +301,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card home-services gradient-border">
 					<div class="services-img-div">
 						<div class="api-dev-imp-img"></div>
@@ -340,121 +318,6 @@
 	</div>
 </section>
 <!--End Service -->
-
-<!--Start Why Choose -->
-<section class="why-choose bg-gradient3 my-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
-					<p class="text-white">By creating exceptional digital goods, platforms, and top-notch IoT-based services, we have changed the IoT sector. Trust us to create an IoT ecosystem for your company that links people, equipment, and processes to help you run your business more efficiently. Data will be turned into actionable insights by an IoT integrated system, which will empower your organization with automated tasks and real-time data.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="effect-cont-comm-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Effective & Continuous Communication</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We offer a wide range of IoT app development services.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="delivered-on-time-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Excellent Quality Delivered on Time</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We develop IoT app development services across every platform and device.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="experienced-team-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Experienced Team</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We create a single coded IoT app that works efficiently on multiple platforms.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="absolute-support-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Absolute Support</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We serve all the industries across the world to leverage innovative technology.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="complete-technical-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Complete Technical Competency</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We have made our services affordable with on-time delivery to achieve customer satisfaction.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<div class="full-confidential-img"></div>
-					</div>
-					<div class="service-heading">
-						<h4>Full Confidentiality</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our impeccable testing services ensure the IoT app is error-free.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Why Choose -->
-
-<!--Start New Project-->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
-				<p>Let's Start a <span>New Project</span> Together</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End New Project-->
 
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
@@ -479,7 +342,9 @@
 			</div>
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0">
-				<h2>Creative IoT App Development Agency</h2>
+				<div class="common-heading ptag">
+					<h2>Creative <span>IoT App</span> Development Agency</h2>
+				</div>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
@@ -517,24 +382,135 @@
 </section>
 <!--End Features-->
 
-<!--Start Process-->
-<section class="process-block bg-gradient3">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
-					<h2>Our <span>iOT App</span> Development Process</h2>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
+<!--Start Why Choose -->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<p class="text-white">By creating exceptional digital goods, platforms, and top-notch IoT-based services, we have changed the IoT sector. Trust us to create an IoT ecosystem for your company that links people, equipment, and processes to help you run your business more efficiently. Data will be turned into actionable insights by an IoT integrated system, which will empower your organization with automated tasks and real-time data.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="effect-cont-comm-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Effective & Continuous Communication</h4>
+					</div>
+					<div class="services-text-div">
+						<p>We offer a wide range of IoT app development services.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="delivered-on-time-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Excellent Quality Delivered on Time</h4>
+					</div>
+					<div class="services-text-div">
+						<p>We develop IoT app development services across every platform and device.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="experienced-team-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Experienced Team</h4>
+					</div>
+					<div class="services-text-div">
+						<p>We create a single coded IoT app that works efficiently on multiple platforms.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="absolute-support-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Absolute Support</h4>
+					</div>
+					<div class="services-text-div">
+						<p>We serve all the industries across the world to leverage innovative technology.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="complete-technical-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Complete Technical Competency</h4>
+					</div>
+					<div class="services-text-div">
+						<p>We have made our services affordable with on-time delivery to achieve customer satisfaction.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="full-confidential-img"></div>
+					</div>
+					<div class="service-heading">
+						<h4>Full Confidentiality</h4>
+					</div>
+					<div class="services-text-div">
+						<p>Our impeccable testing services ensure the IoT app is error-free.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Why Choose -->
+
+<!--Start Process-->
+<section class="process-block bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<h2>Our <span>iOT App</span> Development Process</h2>
 					<p>We offer a seamless wearable app development process to upscale your software abilities with our wearable devices app developers.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-3">
-				<div class="card timeline wow fadeInLeft h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">01</p>
 						<h3 class="title">Define and Research the problem</h3>
@@ -543,7 +519,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
-				<div class="card timeline wow fadeInLeft h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">02</p>
 						<h3 class="title">Devising A Smart Solution</h3>
@@ -552,7 +528,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
-				<div class="card timeline wow fadeInLeft h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">03</p>
 						<h3 class="title">Hardware Software Selection</h3>
@@ -561,7 +537,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
-				<div class="card timeline wow fadeInLeft h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">04</p>
 						<h3 class="title">User-Centric Design (PoC)</h3>
@@ -570,7 +546,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeInRight h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">05</p>
 						<h3 class="title">Development of Featured IoT Device</h3>
@@ -579,7 +555,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeInRight h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">06</p>
 						<h3 class="title">Integration</h3>
@@ -588,7 +564,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeInRight h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">07</p>
 						<h3 class="title">Deployment And Testing</h3>
@@ -597,7 +573,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeInRight h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">08</p>
 						<h3 class="title">Maintenance Support and Enhancements</h3>
@@ -614,26 +590,22 @@
 <section class="py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading">
 					<h2 class="mb30">Technologies we work with</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeInRight">
-				<div class="common-heading">
 					<p>A solid and high-performance IoT application takes a significant amount of time and money with expertise to design. As a result, it's critical to check whether the app's features are compatible with your requirements. To apprehend and develop a connected and smart device, IoT developers only uses the most recent stack.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-3">
 			<div class="col-lg-12">
-				<ul class="nav nav-tabs justify-content-center wow fadeInLeft" role="tablist">
+				<ul class="nav nav-tabs justify-content-center wow fadeIn" role="tablist">
 					<li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#connectivity">Connectivity</a> </li>
 					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#hardware">Hardware</a> </li>
 					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#protocols">Protocols And Standards</a> </li>
 				</ul>
 				<!-- Tab panes -->
-				<div class="tab-content wow fadeInRight">
+				<div class="tab-content wow fadeIn">
 					<div id="connectivity" class="container tab-pane active">
 						<div class="row mt-3 d-flex justify-content-center">
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
@@ -771,13 +743,35 @@
 </section>
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -811,33 +805,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>E-Commerce App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -918,7 +894,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -937,13 +913,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -1004,14 +982,14 @@
 <section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
                     <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 wow fadeInRight">
+            <div class="col-sm-12 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">

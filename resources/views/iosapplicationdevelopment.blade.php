@@ -261,7 +261,7 @@
 					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
 					</a>

@@ -5254,8 +5254,9 @@ h3 a {
     transition: 0.3s;
 }
 
-.card.green-bg.p-4 {
-    background: #36b286;
+.green-bg {
+    background: var(--white-color);
+    border: 3px solid var(--first-color);
 }
 
 .our-work1 {
@@ -9598,7 +9599,12 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
 .nav-tabs .nav-link.active {
     color: #495057;
     background-color: transparent;
-    border-color: transparent;
+    border: 3px solid var(--first-color);
+    margin: 0px 5px 5px 0px;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    border: 3px solid var(--first-color);
 }
 
 .nav-tabs {
@@ -11573,12 +11579,15 @@ i.fa-brands.fa-instagram {
     background: url(../images/services/game-app-development/game-choose-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    position: relative;
 }
 
 .game-section {
     background: url(../images/services/game-app-development/game-section-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    position: relative;
+    z-index: 1;
 }
 
 .game-img-div {
@@ -11848,9 +11857,9 @@ i.fa-brands.fa-instagram {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* background-color: var(--black-color);
+    background: rgba(0, 0, 0, 0.7);
     width: 50%;
-    text-align: center; */
+    text-align: center;
 }
 
 /* End Game App Development */

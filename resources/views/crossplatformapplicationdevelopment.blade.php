@@ -34,10 +34,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
-					<span>DID YOU KNOW?</span>
-					<h2>Why You Must Have A<br>
-						<span class="flup-theme">Cross-Platform Mobile Application</span>
-					</h2>
+					<div data-text="Cross" class="light-bg-text bg-text ">
+						<h2>Why You Must Have A<br><span class="flup-theme">Cross-Platform Mobile Application</span></h2>
+					</div>
 					<p><strong>There are several reasons cross-platform mobile application benefits you and your business.</strong></p>
 					<p>First, cross-platform mobile app development has one programming language for coding that can work on any platform. Therefore, it branches the other benefits of having a cross-platform app, such as the reduced cost of owning a mobile app for a great fortune. Want to rush mobile app development? A cross-platform mobile app is ideal for you.</p>
 					<p>Cross-platform mobile apps ease developers to customize apps based on their dynamic requirements conveniently. Thus, enabling you to follow the marketing and consumer psychology trends easily. The best thing about the cross-platform app is the versatility across the different platforms, delivering the same user experience on multiple devices - uniform branding.</p>
@@ -54,7 +53,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our <span>Cross-Platform App</span> Development Expertise</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our <span>Cross-Platform App</span> Development Expertise</h2>
+					</div>
 					<p class="mb30">Our cross-platform app developers have extensive expertise in creating cross-platform apps utilizing cutting-edge technology.</p>
 				</div>
 			</div>
@@ -143,7 +144,9 @@
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0">
 				<div class="common-heading ptag">
-					<h2>Creative <span>Cross Platform App</span> Development Agency</h2>
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>Cross Platform App</span> Development Agency</h2>
+					</div>
 					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				</div>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -209,7 +212,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">Harness the power of the cross-platform mobile app with us to grab all the market's attention. Make your business accessible to 90% of the smartphone users who spend most of the time using apps.</p>
 				</div>
 			</div>
@@ -280,7 +285,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Cross Platform App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Cross Platform App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile cross platform app development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -339,7 +346,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Technology Stack</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
 					<p class="mb30">We build cross-platform mobile apps using a scalable and robust technology stack to produce high-quality apps.</p>
 				</div>
 			</div>
@@ -650,7 +659,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

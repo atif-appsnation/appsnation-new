@@ -5237,17 +5237,17 @@ h3 a {
     position: relative;
 }
 
-.service-section-app .card:hover {
+/* .service-section-app .card:hover {
     background-color: var(--first-color);
 }
 
 .service-section-app .card:hover img {
     filter: invert(1);
-}
+} */
 
-.service-section-app .card:hover h4, .service-section-app .card:hover p, .service-section-app .card:hover a {
+/* .service-section-app .card:hover h4, .service-section-app .card:hover p, .service-section-app .card:hover a {
     color: var(--white-color);
-}
+} */
 
 .service-section-app .card:hover i {
     transform: rotateZ(45deg);
@@ -10848,7 +10848,7 @@ video {
 }
 
 .scroller {
-    height: 325px;
+    height: 400px;
     overflow-y: scroll;
     background: var(--black2-color);
 }
@@ -11803,7 +11803,7 @@ i.fa-brands.fa-instagram {
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
-    /* background: #fff; */
+    background: #fff;
     color: #999999;
     display: block;
     width: 70px;
@@ -11817,7 +11817,7 @@ i.fa-brands.fa-instagram {
     float: left;
     transform: rotate(45deg);
     padding: 5px;
-    /* margin-top: 15px; */
+    margin-top: 15px;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
@@ -11860,6 +11860,19 @@ i.fa-brands.fa-instagram {
     background: rgba(0, 0, 0, 0.7);
     width: 50%;
     text-align: center;
+}
+
+.game-choose-section .timeline-icon {
+    width: 70px;
+    height: 70px;
+    background-color: var(--white-color);
+    border-radius: 50%;
+    padding: 10px !important;
+}
+
+.game-choose-section .timeline-icon img {
+    width: 45px;
+    height: 45px;
 }
 
 /* End Game App Development */
@@ -13079,7 +13092,7 @@ ul.list {
 }
 
 .twod-character-design .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .twod-character-design p {
@@ -13107,7 +13120,8 @@ ul.list {
 }
 
 .twod-character-design .nav-tabs .nav-item .nav-link.active {
-	border-left: 5px solid var(--second-color);
+    border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13134,7 +13148,7 @@ ul.list {
 }
 
 .twod-environment-design .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .twod-environment-design p {
@@ -13162,7 +13176,8 @@ ul.list {
 }
 
 .twod-environment-design .nav-tabs .nav-item .nav-link.active {
-	border-right: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13181,7 +13196,7 @@ ul.list {
 }
 
 .twod-game-ui-ux-design .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .twod-game-ui-ux-design p {
@@ -13209,7 +13224,8 @@ ul.list {
 }
 
 .twod-game-ui-ux-design .nav-tabs .nav-item .nav-link.active {
-	border-left: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13228,7 +13244,7 @@ ul.list {
 }
 
 .twod-concept-art .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .twod-concept-art p {
@@ -13256,7 +13272,8 @@ ul.list {
 }
 
 .twod-concept-art .nav-tabs .nav-item .nav-link.active {
-	border-right: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13405,7 +13422,7 @@ ul.list {
 }
 
 .threed-character-design .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .threed-character-design p {
@@ -13433,7 +13450,8 @@ ul.list {
 }
 
 .threed-character-design .nav-tabs .nav-item .nav-link.active {
-	border-left: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13460,7 +13478,7 @@ ul.list {
 }
 
 .threed-environment-design .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .threed-environment-design p {
@@ -13480,15 +13498,14 @@ ul.list {
 }
 
 .threed-environment-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 5px solid var(--second-color);
-	border-left: 0px solid transparent;
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
 .threed-environment-design .nav-tabs .nav-item .nav-link.active {
-	border-right: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13507,7 +13524,7 @@ ul.list {
 }
 
 .threed-game-assets-design .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .threed-game-assets-design p {
@@ -13527,15 +13544,14 @@ ul.list {
 }
 
 .threed-game-assets-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 0px solid transparent;
-	border-left: 5px solid var(--second-color);
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
 .threed-game-assets-design .nav-tabs .nav-item .nav-link.active {
-	border-left: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
@@ -13554,7 +13570,7 @@ ul.list {
 }
 
 .threed-sculpting-service .card {
-	background: var(--first-color);
+	background: var(--white-color);
 }
 
 .threed-sculpting-service p {
@@ -13574,15 +13590,14 @@ ul.list {
 }
 
 .threed-sculpting-service .nav-tabs .nav-item .nav-link:hover {
-	border-right: 5px solid var(--second-color);
-	border-left: 0px solid transparent;
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 
 .threed-sculpting-service .nav-tabs .nav-item .nav-link.active {
-	border-right: 5px solid var(--second-color);
+	border: 3px solid var(--first-color);
+	/* border-left: 5px solid var(--second-color); */
 	height: 100%;
 }
 

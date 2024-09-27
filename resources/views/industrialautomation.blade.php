@@ -113,7 +113,7 @@
 </section>
 <!--End About-->
 
-<!-- <section class="emergency-services py-3 py-md-4 pt-lg-5">
+<!-- <section class="emergency-services py-5">
     <div class="container">
         <div class="row justify-content-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
             <div class="col-lg-8">
@@ -561,7 +561,7 @@
 
 <!--Start Our Work-->
 
-<section class="our-work py-3 py-md-4 pt-lg-5">
+<section class="our-work py-5">
    <div class="container">
        <div class="row justify-content-center">
            <div class="col-lg-8 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
@@ -577,7 +577,7 @@
 <!--End Our Work-->
 
 <!-- Start Work 1 -->
-<section class="our-work1 py-3 py-md-4 pt-lg-5">
+<section class="our-work1 py-5">
    <div class="container">
        <div class="row">
            <div class="col-lg-12 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
@@ -602,7 +602,7 @@
 <!-- End Work 1 -->
 
 <!-- Start Work 2 -->
-<section class="our-work2 py-3 py-md-4 pt-lg-5">
+<section class="our-work2 py-5">
    <div class="container">
        <div class="row">
            <div class="col-lg-12 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
@@ -627,7 +627,7 @@
 <!-- End Work 2 -->
 
 <!-- Start Work 3 -->
-<section class="our-work3 py-3 py-md-4 pt-lg-5">
+<section class="our-work3 py-5">
    <div class="container">
        <div class="row">
            <div class="col-lg-12 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
@@ -969,7 +969,7 @@
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
-<section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
+<section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">

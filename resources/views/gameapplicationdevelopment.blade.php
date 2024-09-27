@@ -67,7 +67,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/cross-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/cross-platform-support.svg" alt="Cross Platform Support" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Cross Platform Support</h4>
@@ -78,7 +78,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/design-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/design-and-animation.svg" alt="Design And Animation" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Design And Animation</h4>
@@ -89,7 +89,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/ui-ux-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/ui-ux-integration.svg" alt="UI/UX Integration" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">UI/UX Integration</h4>
@@ -100,7 +100,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/visuals-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/visuals-and-graphics.svg" alt="Visuals And Graphics" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Visuals And Graphics</h4>
@@ -115,7 +115,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/robust-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/robust-game-development.svg" alt="Robust Game Development" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Robust Game Development</h4>
@@ -126,7 +126,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/push-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/push-notification-support.svg" alt="Push Notification Support" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Push Notification Support</h4>
@@ -137,7 +137,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/social-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/social-media-integration.svg" alt="Social Media Integration" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Social Media Integration</h4>
@@ -148,7 +148,7 @@
 					<article class="timeline-entry">
 						<div class="timeline-entry-inner">
 							<div class="timeline-icon">
-								<img src="images/services/game-app-development/monitization-icon.webp" alt="App Consultation" class="why-choose-img">
+								<img src="images/services/game-app-development/montezation-of-the-game.svg" alt="Monetization Of The Game" class="why-choose-img">
 							</div>
 							<div class="timeline-label">
 								<h4 class="text-white">Monetization Of The Game</h4>

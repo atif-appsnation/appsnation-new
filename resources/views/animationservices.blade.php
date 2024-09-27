@@ -9,14 +9,14 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">STELLAR VIDEO ANIMATION DEVELOPMENT</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">With years of expertise in the enormous digital world, we have specialized in sophisticated video animations intending to increase your sales by enhancing user experience. So allow us to design your company's future lifeblood.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/banner/animation-banner-img.png" class="img-fluid" alt="Android App Development">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
+				<img src="images/banner/animation-banner-img.png" class="img-fluid" alt="Animation Development">
 			</div>
 		</div>
 	</div>
@@ -28,11 +28,11 @@
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
-					<img src="images/banner/animation-banner-img.png" alt="Android App Development" class="img-fluid no-shadow" />
+				<div class="image-block wow fadeIn">
+					<img src="images/banner/animation-banner-img.png" alt="Animation Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
 					<h2>Top-Rated Video<br> <span class="flup-theme"> Animation </span>Company</h2>
@@ -50,19 +50,15 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>A Pool of Video <span class="flup-theme"> Animation </span> Services</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-3 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p>Our skilled team of creative animators will work diligently to produce a professional, fully integrated video animation for you. You have a plethora of options for the style and appearance of your video.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
@@ -75,7 +71,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
@@ -88,7 +84,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-porting-img"></div>
@@ -101,7 +97,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
@@ -114,7 +110,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-consultation-img"></div>
@@ -127,7 +123,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-dev-consultation-img"></div>
@@ -140,7 +136,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="custom-android-app-dev-img"></div>
@@ -153,7 +149,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-multi-platform-img"></div>
@@ -166,7 +162,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-watch-img"></div>
@@ -184,32 +180,14 @@
 </section>
 <!--End Service-->
 
-<!--Start Hire Dedicated Developer -->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn mt50 mb50">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a
-					<span>Dedicated Animator</span>
-				</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Hire Dedicated Developer -->
-
 <!--Start Features-->
-<section class="motion-animation py-3 py-md-4 pt-lg-5" id="about">
+<section class="motion-animation py-5" id="about">
 	<div class="container">
 		<div class="row">
-		<div class="col-lg-6 block-1 wow fadeInLeft pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInLeft;">
+		<div class="col-lg-6 block-1 wow fadeIn pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeIn;">
 				<img src="images/banner/animation-graphic.png" alt="AR Game Changer" class="img-fluid">
 			</div>
-			<div class="col-lg-6 wow fadeInRight my-auto" style="visibility: visible; animation-name: fadeInRight;">
+			<div class="col-lg-6 wow fadeIn my-auto" style="visibility: visible; animation-name: fadeIn;">
 				<h2><span>Motion Graphic</span> Services</h2>
 				<p class="pt-2">Our motion graphic services enable you to add an appealing graphical element to your product pages to pique your customers' interest and send that all-important purchase decision their way. We offer a variety of motion graphics, visual effects, and design services to assist you in developing dynamic brand events or productions.</p>
 				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Let's Start Your Project</a>
@@ -218,10 +196,30 @@
 	</div>
 </section>
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
@@ -239,7 +237,7 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-6 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>  <span class="flup-theme">  Motion Graphic </span> Services</h2>
 				<p class="py-3">Our motion graphic services enable you to add an appealing graphical element to your product pages to pique your customers' interest and send that all-important purchase decision their way. We offer a variety of motion graphics, visual effects, and design services to assist you in developing dynamic brand events or productions.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -273,7 +271,7 @@
 					@endforeach
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInLeft pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInLeft;">
+			<div class="col-lg-6 block-1 wow fadeIn pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeIn;">
 					<img src="images/services/animation-development/motion-graphic.webp" alt="AR Game Changer" class="img-fluid">
 				</div>
 		</div>
@@ -285,20 +283,16 @@
 <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
@@ -307,7 +301,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
@@ -316,7 +310,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
@@ -325,7 +319,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="technical-support"></div>
 					</div>
@@ -334,7 +328,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="transparency"></div>
 					</div>
@@ -343,7 +337,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-delivery-support"></div>
 					</div>
@@ -356,75 +350,55 @@
 </section>
 <!--Start Why Choose-->
 
-<!--Start New Project-->
-<section class="service-block py-5">
-	<div class="container">
-		<div class="-cta-btn">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
-				<p>Let's Start a <span>New Project</span> Together</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End New Project-->
-
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Our <span>Animation Service</span> Development Process</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p>We provide a streamlined and agile animation development process focused on achieving exceptional results. Our team is committed to delivering high-quality animations tailored to your needs, ensuring a seamless and efficient experience from start to finish.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
 					<p class="description">We start by understanding your target audience's preferences, including age, language, and design tastes. This helps us choose the right animation style and technology, ensuring the project meets your expectations. We work closely with clients to document all requirements clearly.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">Strategy Development</h3>
 					<p class="description">Based on the analysis, we develop a customized animation strategy. This includes deciding on the visual style, tone, and technical approach, ensuring that the animation appeals to your audience and achieves your desired outcomes.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Storyboarding and Design</h3>
 					<p class="description">Our team creates detailed storyboards to outline the sequence of the animation. We design characters, backgrounds, and other visual elements, ensuring they are consistent with the project's theme. The storyboards and designs are reviewed with the client for feedback and necessary adjustments.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Animation Production</h3>
 					<p class="description">Using industry-standard techniques, we animate the storyboards. This includes creating keyframes and inbetweening, as well as applying special effects to enhance the animation. Our focus is on delivering high-quality visuals that meet the project’s specifications.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">Quality Assurance</h3>
 					<p class="description">We conduct thorough testing to ensure the animation is flawless. This includes checking for issues like visual and audio synchronization, frame rate consistency, and overall coherence. Any identified issues are resolved to ensure a polished final product.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">Final Review and Delivery</h3>
 					<p class="description">Once testing is complete and the client has approved the animation, we prepare it for delivery. The animation is optimized for various platforms and formats, making it ready for distribution across digital channels, social media, or broadcasting. We also provide guidance on how to best utilize the animation to achieve your goals.</p>
@@ -435,13 +409,35 @@
 </section>
 <!--End Process-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -475,33 +471,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>E-Commerce App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -582,7 +560,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -601,13 +579,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -665,17 +645,17 @@
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
-<section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
+<section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
                     <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt20 wow fadeInRight">
+            <div class="col-sm-12 mt20 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">

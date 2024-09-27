@@ -819,7 +819,7 @@
 <!--End Let's Work Together-->
 
 <!-- Start FAQS-->
-<section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
+<section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">

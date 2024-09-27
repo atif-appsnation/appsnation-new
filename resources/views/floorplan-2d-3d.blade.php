@@ -9,15 +9,15 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">2D & 3D FLOOR PLAN SERVICES</h1>
 					<!-- <p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p> --> <br>
 					 <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
-				<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="Android App Development">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
+				<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="2D & 3D FLOOR PLAN">
 			</div>
 		</div>
 	</div>
@@ -29,11 +29,11 @@
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
-					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+				<div class="wow fadeIn">
+					<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="2D & 3D FLOOR PLAN">
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
 					<h2>Enhance Your Space with Our<br> <span class="flup-theme">Custom 2D & 3D Floor Plan Services</span></h2>
@@ -51,28 +51,28 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12 wow fadeInLeft">
+			<div class="col-lg-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2 class="text-center" >Showcase <span> 2D & 3D </span> Floor Plan Services</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-text-div">
 						<p>3D floor plans, 3D home designs, real estate floor plans, and rendering services go to the heart of architectural layouts. Horizontal and vertical spaces are precisely projected in 3D design for 360-degree development, leaving no crevice uncovered.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-text-div">
 						<p>Virtual Building Studio is an AEC outsourcing firm based in India that provides clients with high-quality 3D floor plan services. We have a track record of successfully completing large-scale architectural floor plan projects.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-text-div">
 						<p>Each 3D floor plan project benefits from our experienced team's combined skill set of software, creativity, and aesthetics understanding. Our success is based on "attention to detail."</p>
@@ -89,27 +89,11 @@
 </section>
 <!--End Service-->
 
-<!--Start Hire Dedicated Developer -->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn mt50 mb50">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a <span>Professional Designer</span></p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Hire Dedicated Developer -->
-
 <!--Start Features-->
-<section class="features-section-app dark-bg2 py-5">
+<!-- <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
@@ -127,7 +111,7 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Expert 2D & 3D Floor Plan Services</h2>
 				<p class="py-3">We provide 2D and 3D floor plans to help visualize and optimize your space efficiently.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -162,27 +146,23 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Features-->
 
 <!--Start Why Choose-->
 <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2 class="text-white">Benefits of <span> 2D & 3D Floor Plan </span> Services</span></h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p class="text-white">We offer 2D and 3D floor plans to help visualize and optimize your space, ensuring functionality and aesthetic appeal. Our plans provide clear project representations.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
@@ -191,7 +171,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
@@ -200,7 +180,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
@@ -213,75 +193,75 @@
 </section>
 <!--Start Why Choose-->
 
-<!--Start New Project-->
-<section class="service-block py-5">
-	<div class="container">
-		<div class="-cta-btn">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
-				<p>Let's Start a <span>New Project</span> Together</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</section>
-<!--End New Project-->
+</div>
+<!--End Let's Work Together-->
 
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Our <span> 2D & 3D Floor Plan</span> Development Process</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p>We offer a streamlined and efficient process for developing 2D and 3D floor plans, ensuring a result-driven approach that meets our clients' specific needs and preferences.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
 					<p class="description">Understanding your space and project goals is crucial. We begin by assessing your needs, including layout preferences, functional requirements, and aesthetic desires. This phase involves gathering detailed information to ensure we capture your vision accurately.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">Design Strategy</h3>
 					<p class="description">Based on the analysis, we develop a design strategy tailored to your project. This includes selecting the appropriate tools and techniques for creating 2D and 3D floor plans. Our goal is to provide a comprehensive representation that meets your specifications.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Conceptualization & Drafting</h3>
 					<p class="description">Our design team creates initial drafts, showcasing different layout options and design elements. This stage allows for experimentation with space utilization and visual styles, ensuring all aspects align with your expectations.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Review & Feedback</h3>
 					<p class="description">We present the draft designs to you for review. This collaborative phase involves discussing the proposed layouts, making adjustments based on your feedback, and refining the plans to better suit your needs.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">Finalization</h3>
 					<p class="description">After incorporating your input, we finalize the 2D and 3D floor plans. This includes detailing every aspect of the design, from room dimensions to interior elements, ensuring accuracy and completeness.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">Delivery & Support</h3>
 					<p class="description">The completed floor plans are delivered to you in your preferred format. We also provide ongoing support to address any questions or adjustments needed, ensuring the plans are ready for implementation.</p>
@@ -292,59 +272,59 @@
 </section>
 <!--End Process-->
 
-<section class="floor-plan py-3 py-md-4 pt-lg-5">
+<section class="floor-plan py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInLeft my-auto" style="visibility: visible; animation-name: fadeInLeft;">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn my-auto"fadeIn>
 				<p>One of the first tasks in the construction, remodeling, and interior design of a home is to create a rendered floor plan. A 3D graphic of the property layout gives a good idea of the area, convenience, and functionality. Another method of visualizing rooms and furniture, as well as the decor of any house, is to use 3D floor plan drawings.</p>
 			</div>
 
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInRight v-center pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn v-center pt-3 pt-sm-3 pt-md-3 pt-lg-0"fadeIn>
 				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-drawing.webp" alt="" height="100%" width="100%">
 			</div>
 		</div>
 
 		<div class="row pt-3">
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInLeft v-center" style="visibility: visible; animation-name: fadeInLeft;">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn v-center"fadeIn>
 				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-layout.webp" alt="" height="100%" width="100%">
 			</div>
 
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeInRight my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeInRight;">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0"fadeIn>
 				<p>Our business floor designs service covers 3D floor plans for restaurants, offices, mansions, cafes, and hospitals. Doors, stairwells, windows, walls, elevators, columns, and fittings are common features. By including furniture, you can demonstrate the magnitude of a room and how to correctly design it. While looking at the 3D floor plan layout, you or your customers can have a sense of being in that same room.</p>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="floor-plan-service service-section-app py-3 py-md-4 pt-lg-5">
+<section class="floor-plan-service service-section-app py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeIn"fadeIn>
 				<div class="common-heading">
 					<h2 class="text-center"> Our <span>3D House Plans</span> Services</h2>
-					<p class="mt10 py-3 py-md-4 pt-lg-5 text-center">People find it difficult to comprehend and imagine a location from sketches, thus floor plans with 3D effects are a solution to this problem, displaying the whole property layout in a simple and visually appealing manner. Applet 3D gives you a stunning overview of your requirements and a greater knowledge of the scale, texture, and color of a space, as well as its possibilities. It's a fantastic opportunity to get a true sense of the entire home or just the ground level 3D design.</p>
+					<p class="mt10 py-5 text-center">People find it difficult to comprehend and imagine a location from sketches, thus floor plans with 3D effects are a solution to this problem, displaying the whole property layout in a simple and visually appealing manner. Applet 3D gives you a stunning overview of your requirements and a greater knowledge of the scale, texture, and color of a space, as well as its possibilities. It's a fantastic opportunity to get a true sense of the entire home or just the ground level 3D design.</p>
 				</div>
 			</div>
 
-			<div class="col-lg-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+			<!-- <div class="col-lg-12 wow fadeIn"fadeIn>
 				<iframe width="100%" height="515" src="https://www.youtube.com/embed/_RSCkfc4g7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-			</div>
+			</div> -->
 
-			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-				<p class="mt10 py-3 py-md-4 pt-lg-5 text-center text-white">Before making large project investments, 3D floor plan design services can detect any design faults. Without an interactive 3D floor plan, clients and buyers will have a tough time determining the property's size and exact furniture and décor arrangement. Bring your client's vision to life with realistic and detailed 3D house plans that are tailored to their specific requirements and lifestyles. Use our 3D rendering services to create a floor plan. Get a quote for your project by filling out the form.</p>
+			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeIn"fadeIn>
+				<p class="text-center">Before making large project investments, 3D floor plan design services can detect any design faults. Without an interactive 3D floor plan, clients and buyers will have a tough time determining the property's size and exact furniture and décor arrangement. Bring your client's vision to life with realistic and detailed 3D house plans that are tailored to their specific requirements and lifestyles. Use our 3D rendering services to create a floor plan. Get a quote for your project by filling out the form.</p>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="floor-plan-configuration py-3 py-md-4 pt-lg-5">
+<section class="floor-plan-configuration py-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-md-12 col-sm-12">
-                <div class="common-heading ptag wow fadeInLeft">
+                <div class="common-heading ptag wow fadeIn">
                     <h2 class="text-center">Furniture Configuration</h2>
                 </div>
-                <div class="image-spliter wow fadeInRight">
+                <div class="image-spliter wow fadeIn">
                     <div class="mover"></div>
                     <img class="img-left" src="images/services/2d-3d-floor-plan-services/3d-floor-plan-color-2.webp" alt="3d Floor Plan Color">
                     <img class="img-right" src="images/services/2d-3d-floor-plan-services/3d-floor-plan-color-1.webp" alt="3d Floor Plan Color">
@@ -361,13 +341,35 @@
 	</div>
 </section>
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -401,33 +403,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>E-Commerce App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -508,7 +492,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -527,13 +511,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>

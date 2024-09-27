@@ -9,15 +9,15 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2 common-heading">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mesmerizing 3D Art Design Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Art is not limited to being a picture on a wall. It can be a symbol of your ideas, feelings, and emotions. At AppsNation, we are passionate about 3D Art Design and world-class 3D renderings. We put our heart and soul into providing high-quality designs for you.</p>
 					<br><br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<img src="images/services/3d-art/3d-art-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
@@ -30,11 +30,11 @@
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
+				<div class="image-block wow fadeIn">
 					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
 					<h2>Mesmerizing <br> <span class="flup-theme">3D Art Design Services</span></h2>
@@ -52,19 +52,15 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Our <span> 3D Art </span>Services</h2>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-3 wow fadeInRight">
-				<div class="common-heading ptag">
 					<p>We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
@@ -77,7 +73,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
@@ -91,7 +87,7 @@
 				</div>
 			</div>
 			
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
@@ -104,7 +100,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-consultation-img"></div>
@@ -122,29 +118,31 @@
 </section>
 <!--End Service-->
 
-<!--Start Hire Dedicated Developer -->
-<section class="service-block">
-	<div class="container">
-		<div class="-cta-btn mt50 mb50">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-				<p>Hire a 
-					<span>Talented 3D Artist</span>
-				</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</section>
-<!--End Hire Dedicated Developer -->
+</div>
+<!--End Let's Work Together-->
 
-Start Features
-<section class="features-section-app dark-bg2 py-5">
+<!--Start Features-->
+<!-- <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
@@ -162,7 +160,7 @@ Start Features
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Innovative 3D Art Design Services</h2>
 				<p class="py-3">We transform your ideas into stunning 3D art, catering to various industries with precision and creativity.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -197,19 +195,19 @@ Start Features
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Features-->
 
 <!-- Start 3D Character Design -->
 <section class="threed-character-design py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+        <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Character</span> Design</h2>
                 <p class="text-center text-white">At AppsNation, we design 3D characters in various styles- cartoon, realistic, and photorealistic – to create a unique personality that tells your story.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="row mt-4 wow fadeIn">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
@@ -280,7 +278,7 @@ Start Features
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+		<div class="row justify-content-center py-5 wow fadeIn">
 			<div class="col-12">
 				<div class="card blue threed-consultant-card">
 					<div class="card-body">
@@ -289,7 +287,7 @@ Start Features
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -303,13 +301,13 @@ Start Features
 <!-- Start 3D Environment Design -->
 <section class="threed-environment-design py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+        <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Environment</span> Design</h2>
                 <p class="text-center text-white">AppsNation is a leading 3D environment design, visualization, and simulation services, provider. We have an experienced team of artists and engineers that can transform your business idea into a reality.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="row mt-4 wow fadeIn">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
@@ -380,7 +378,7 @@ Start Features
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+		<div class="row justify-content-center py-5 wow fadeIn">
 			<div class="col-12">
 				<div class="card blue threed-consultant-card">
 					<div class="card-body">
@@ -389,7 +387,7 @@ Start Features
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -403,13 +401,13 @@ Start Features
 <!-- Start 3D Game Assets Design -->
 <section class="threed-game-assets-design py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center wow common-heading fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+        <div class="row justify-content-center wow common-heading fadeIn mt-3">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Game Assets</span> Design</h2>
                 <p class="text-center text-white">We have been creating 3D models for over a decade and have become the leading provider of professional 3D game assets to studios, clients, and creators worldwide.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="row mt-4 wow fadeIn">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
@@ -480,7 +478,7 @@ Start Features
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+		<div class="row justify-content-center py-5 wow fadeIn">
 			<div class="col-12">
 				<div class="card blue threed-consultant-card">
 					<div class="card-body">
@@ -489,7 +487,7 @@ Start Features
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -503,13 +501,13 @@ Start Features
 <!-- Start 3D Sculpting Design -->
 <section class="threed-sculpting-service py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+        <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
                 <h2 class=" text-center text-white"><span>3D Sculpting</span> Services</h2>
                 <p class="text-center text-white">At AppsNation, we specialize in 3D sculpting services to make your dreams a reality. Our skilled artisans will sculpt your ideas and take them to the next level to make them look and feel better with our high-end services.</p>
             </div>
         </div>
-        <div class="row mt-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="row mt-4 wow fadeIn">
             <div class="col-12">
                 <div class="card blue">
                     <div class="card-body">
@@ -567,7 +565,7 @@ Start Features
             </div>
         </div>
 
-		<div class="row justify-content-center py-5 wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+		<div class="row justify-content-center py-5 wow fadeIn">
 			<div class="col-12">
 				<div class="card blue threed-consultant-card">
 					<div class="card-body">
@@ -576,7 +574,7 @@ Start Features
 								<p>Get Your Free Consultation</p>
 							</div>
 							<div class="col-md-6 my-auto text-xl-center">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" style="visibility: visible; animation-name: fadeIn;">Contact Now</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk">Contact Now</a>
 							</div>
 						</div>
 					</div>
@@ -587,40 +585,24 @@ Start Features
 </section>
 <!-- End 3D Sculpting Design -->
 
-<!--Start New Project-->
-<section class="service-block py-5">
-	<div class="container">
-		<div class="-cta-btn">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s">
-				<p>Let's Start a <span>New Project</span> Together</p>
-				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-					<i class="fas fa-chevron-right fa-icon"></i>
-					<span class="circle"></span>
-				</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End New Project-->
-
 <!--Start Why Choose-->
 <!-- <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
@@ -629,7 +611,7 @@ Start Features
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
@@ -638,7 +620,7 @@ Start Features
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
@@ -647,7 +629,7 @@ Start Features
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="technical-support"></div>
 					</div>
@@ -656,7 +638,7 @@ Start Features
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="transparency"></div>
 					</div>
@@ -665,7 +647,7 @@ Start Features
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-delivery-support"></div>
 					</div>
@@ -680,13 +662,13 @@ Start Features
 
 <section class="threed-art-services py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center common-heading wow fadeInDown mt-3" style="visibility: visible; animation-name: fadeInDown;">
+        <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
                 <h2 class=" text-center">Our Extra <span>3D Art</span> Services</h2>
                 <p class="text-center">We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
             </div>
         </div>
-        <div class="row wow fadeInRight mt-3" style="visibility: visible; animation-name: fadeInRight;">
+        <div class="row wow fadeIn mt-3">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="card">
                         <div class="card-body">
@@ -774,69 +756,65 @@ Start Features
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Benefits of Our <span> 3D Art Design </span> Services</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<!-- <h4 class="title">Requirement Analysis</h3> -->
 					<p class="description">Our team has years of a strong background in graphic design, which makes them able to work on multiple projects at once./p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<!-- <h3 class="title">App Development Strategies</h3> -->
 					<p class="description">Our designers are well-versed in the latest trends and designs, which helps us create unique designs that stand out from other methods.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<!-- <h3 class="title">Wireframing And Designing</h3> -->
 					<p class="description">We use the latest technologies to create our designs to be printed on various materials like paper, cardboard, and even plastic.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<!-- <h3 class="title">Development Phase</h3> -->
 					<p class="description">We offer free consultations so you can get to know our work before hiring us for your project.	</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<!-- <h3 class="title">App Testing</h3> -->
 					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<!-- <h3 class="title">App Deployment</h3> -->
 					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">07</p>
 					<!-- <h3 class="title">App Testing</h3> -->
 					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">08</p>
 					<!-- <h3 class="title">App Deployment</h3> -->
 					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
@@ -852,19 +830,19 @@ Start Features
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Technology Stack</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
-			<div class="col-md-5 wow fadeInLeft">
+			<div class="col-md-5 wow fadeIn">
 				<ul class="nav nav-tabs android-tech-tabs mt-5">
 					@foreach($techstack as $k=>$item)
 
@@ -896,7 +874,7 @@ Start Features
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto wow fadeInRight">
+			<div class="col-md-7 my-auto wow fadeIn">
 				<div class="tab-content tab-body">
 
 					@foreach($techstack as $k=>$items)
@@ -929,13 +907,35 @@ Start Features
 </div> -->
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -969,33 +969,15 @@ Start Features
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>E-Commerce App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -1076,7 +1058,7 @@ Start Features
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -1095,13 +1077,15 @@ Start Features
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -1159,17 +1143,17 @@ Start Features
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
-<section class="faq-section py-3 py-md-4 pt-lg-5" id="faqs">
+<section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
                     <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt20 wow fadeInRight">
+            <div class="col-sm-12 mt20 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
@@ -1225,7 +1209,7 @@ Start Features
 
 <section class="hire-developers py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+        <div class="row justify-content-center wow fadeIn">
             <div class="col-12">
                 <div class="card py-3">
                     <div class="card-body">
@@ -1233,7 +1217,7 @@ Start Features
                             <div class="col-xl-6">
                                 <h2>Hire Dedicated Designers For Your <span>3D Art</span> Project</h2>
                                 <p class="pt-2">If you are looking for a dedicated 3d designer for your 3d art, AppsNation can be your first choice. For our clients, we offer dedicated 3d designers at hourly charges. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
                             </div>
                             <div class="col-xl-6 mt-3">
                                 <div class="row scroller">

@@ -26,18 +26,18 @@
 
 <!--Start About-->
 <section class="service py-5">
-	<div class="">
-		<div class="row">
-			<div class="col-lg-5 my-auto">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/web-portal-development/web-portal-development.webp" alt="Web Portal App Development" class="img-fluid no-shadow" />
-				</div>
+	<div class="row">
+		<div class="col-lg-5 my-auto">
+			<div class="image-block wow fadeIn">
+				<img src="images/services/web-portal-development/web-portal-development.webp" alt="Web Portal App Development" class="img-fluid no-shadow" />
 			</div>
-			<div class="col-lg-7 block-1 wow fadeIn my-lg-auto">
-				<div class="common-heading text-l px-3 px-lg-0 pr-lg-4">
+		</div>
+		<div class="col-lg-7 block-1 wow fadeIn my-lg-auto">
+			<div class="common-heading text-l px-3 px-lg-0 pe-lg-5">
+				<div data-text="Web Portal" class="light-bg-text bg-text">
 					<h2>Top-Notch<br> <span class="flup-theme">Web Portal Development Services</span></h2>
-					<p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest application development services.</p>
 				</div>
+				<p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest application development services.</p>
 			</div>
 		</div>
 	</div>
@@ -50,7 +50,9 @@
         <div class="row">
             <div class="col-12 wow fadeIn">
                 <div class="common-heading ptag">
-                    <h2>Our Unrivaled Web Portal App Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our Unrivaled <span>Web Portal App</span> Development Services</h2>
+					</div>
 					<p class="mb30">AppsNation web portal app development services are the light of hope for you to reshape your business with more digital traction.</p>
                 </div>
             </div>
@@ -99,7 +101,7 @@
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
@@ -113,14 +115,15 @@
 </div>
 <!--End Let's Work Together-->
 
-
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -154,33 +157,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -261,7 +246,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -280,13 +265,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>

@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area -->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 e-commerce-app-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -36,7 +36,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Our<span class="flup-theme"> E-Commerce Application Development</span> Portfolio:</h2>
+					<div data-text="ECommerce" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">E-Commerce Application Development Services</span></h2>
+					</div>
 					<p>AppsNation is a custom e-Commerce development company that specialises in creating beautiful platforms and accelerating e-Commerce initiatives. </p>
 					<p>As a reputable ecommerce website design company, we unlock the power of eCommerce platforms to provide you with feature-rich, distinctive, and dependable eCommerce websites. </p>
 					<p>Using Drupal, Magento development, WooCommerce, Shopify, and BigCommerce, our skilled team of highly qualified web developers produces customer-focused digital products Ecommerce web apps</p>
@@ -53,7 +55,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>E-Commerce Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our Unrivaled <span>E-Commerce Development</span> Services</h2>
+					</div>
 					<p>IoT software development company can help you start a revolution in the IoT arena and accelerate business growth and progress. Utilize the power of our IoT solutions to create a digital bridge between machines and people through the convergence of innovative technologies.</p>
 				</div>
 			</div>
@@ -167,26 +171,6 @@
 	</div>
 </section>
 <!--End Service -->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
 
 <!--Start Service -->
 <section class="service-section py-5">
@@ -320,86 +304,126 @@
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span class="flup-theme">E-Commerce</span> Core Expertise</h2>
+					<div data-text="Core Expertise" class="light-bg-text bg-text">
+						<h2>Our <span>E-Commerce</span> Core Expertise</h2>
+					</div>
 					<p>We offer e-commerce applications in several formats:</p>
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" />
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h3>Business to Business E-commerce (B2B) Application</h3>
-					<p>Accelerate your digital transformation with B2B e-commerce solutions. Quickly persuade and convert. Branding that is consistent. Channels of information that are very engaging and appealing.</p>
-				</div>
-			</div>
-		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h3>Business to Consumer E-Commerce (B2C) Application</h3>
-					<p>With our mobile-based B2C e-commerce solutions, you can provide a better buying experience. Catalogues that are appealing. Shopping carts with artificial intelligence. Interfaces that change the game.</p>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" />
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-lg-6">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" />
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h3>Consumer to Consumer E-Commerce (C2C) Application</h3>
-					<p>Create a user-friendly e-commerce mobile app that provides a better shopping experience so that users may sell products and services to one another.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h3>Consumer to Business E-Commerce (C2B) Application</h3>
-					<p>Create a user-friendly interface for your customers to provide direct feedback or product suggestions to your company.</p>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" />
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-lg-6">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" />
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h3>Business to Administration E-Commerce (B2A) Application</h3>
-					<p>Development of cutting-edge e-commerce mobile apps to let businesses communicate with government agencies and administration for improved tendering and contracting.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h3>Consumer to Administration E-Commerce (C2A) Application</h3>
-					<p>Create a user-friendly mobile experience that allows your customers to contact directly with administration for information and utility purposes and usage.</p>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" />
+			<div class="col-12">
+				<ul class="nav nav-pills justify-content-center e-commerce-pills">
+					<li class="nav-item">
+						<a class="nav-link active" data-bs-toggle="pill" href="#b2b">B2B</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#b2c">B2C</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#c2c">C2C</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#c2b">C2B</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#b2a">B2A</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#c2a">C2A</a>
+					</li>
+				</ul>
+				<div class="tab-content">
+					<div class="tab-pane active" id="b2b">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" />
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h3>Business to Business E-commerce (B2B) Application</h3>
+									<p>Accelerate your digital transformation with B2B e-commerce solutions. Quickly persuade and convert. Branding that is consistent. Channels of information that are very engaging and appealing.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="b2c">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" />
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h3>Business to Consumer E-Commerce (B2C) Application</h3>
+									<p>With our mobile-based B2C e-commerce solutions, you can provide a better buying experience. Catalogues that are appealing. Shopping carts with artificial intelligence. Interfaces that change the game.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="c2c">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" />
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h3>Consumer to Consumer E-Commerce (C2C) Application</h3>
+									<p>Create a user-friendly e-commerce mobile app that provides a better shopping experience so that users may sell products and services to one another.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="c2b">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" />
+								</div>
+							</div>
+							<div class="col-lg-6 block-1  my-auto">
+								<div class="common-heading text-l pl25">
+									<h3>Consumer to Business E-Commerce (C2B) Application</h3>
+									<p>Create a user-friendly interface for your customers to provide direct feedback or product suggestions to your company.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="b2a">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" />
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h3>Business to Administration E-Commerce (B2A) Application</h3>
+									<p>Development of cutting-edge e-commerce mobile apps to let businesses communicate with government agencies and administration for improved tendering and contracting.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade" id="c2a">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" />
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h3>Consumer to Administration E-Commerce (C2A) Application</h3>
+									<p>Create a user-friendly mobile experience that allows your customers to contact directly with administration for information and utility purposes and usage.</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -413,7 +437,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading wow fadeIn">
-					<h2 class="mb30">We Do Best Practices for E-Commerce Data Security</h2>
+					<div data-text="Data Security" class="light-bg-text bg-text">
+						<h2 class="mb80">We Do Best Practices for <span>E-Commerce</span> Data Security</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -481,11 +507,13 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Advanced Features Of Our E-Commerce App that Maximise User Base</h2>
+					<div data-text="Data Security" class="light-bg-text bg-text">
+						<h2 class="mb100">Advanced Features Of Our <span>E-Commerce App</span> that Maximise User Base</h2>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row mt100">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card home-services gradient-border ">
 					<div class="services-img-div">
@@ -608,13 +636,98 @@
 </section>
 <!--End Advanced Features -->
 
+<!--Start Features-->
+<section class="features-section-app dark-bg2 my-5">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
+				<div class="tab-content" id="imagetab">
+
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+
+					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+					</div>
+					@else
+					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+					</div>
+					@endif
+
+					@endforeach
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
+				<div data-text="Industries" class="light-bg-text bg-text">
+					<h2>Creative <span>E-Commerce App</span> Development Agency</h2>
+				</div>
+				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
+					@foreach($agencystack as $k=>$items)
+                    @if($k==0)
+                    <li class="nav-item">
+                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+                    </li>
+
+                    @else
+                    <li class="nav-item">
+                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+                    </li>
+                    @endif
+                    @endforeach
+				</ul>
+				
+				<div class="tab-content pt-3" id="texttab">
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<h3>{!!$items['heading']!!}</h3>
+						<p>{!!$items['content']!!}</p>
+					</div>
+					@else
+					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<h3>{!!$items['heading']!!}</h3>
+						<p>{!!$items['content']!!}</p>
+					</div>
+					@endif
+					@endforeach
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Features-->
+
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Why Choose -->
 <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">AppsNation is a global leader in the design, launch, and optimization of eCommerce applications, enabling businesses to take advantage of the increasing online purchasing market while also delighting their consumers with innovative features. </p>
 				</div>
 			</div>
@@ -729,74 +842,15 @@
 </section>
 <!--End Why Choose -->
 
-<!--Start Features-->
-<section class="features-section-app dark-bg2 my-5">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
-				<div class="tab-content" id="imagetab">
-
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@endif
-
-					@endforeach
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Creative E-Commerce App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
-				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
-				</ul>
-				
-				<div class="tab-content pt-3" id="texttab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@endif
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Features-->
-
 <!--Start Process-->
-<section class="process-block bg-gradient3">
+<section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Android App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>E-Commerce App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -885,7 +939,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Technology Stack</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
 					<p class="mb30">We build cross-platform mobile apps using a scalable and robust technology stack to produce high-quality apps.</p>
 				</div>
 			</div>
@@ -956,13 +1012,35 @@
 </div>
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -996,33 +1074,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>E-Commerce App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -1103,7 +1163,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -1122,13 +1182,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -1191,7 +1253,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

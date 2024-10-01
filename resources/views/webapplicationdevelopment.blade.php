@@ -25,7 +25,7 @@
 
 <!--Start About-->
 <section class="service py-5">
-	<div class=" container">
+	<div class="container">
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
@@ -34,7 +34,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Why You Must Have A <span class="flup-theme">Web App</span></h2>
+					<div data-text="Web App" class="light-bg-text bg-text">
+						<h2>Why You Must Have A <span class="flup-theme">Web App</span></h2>
+					</div>
 					<p><strong>Trying to find the best web app development company? </strong></p>
 					<p>Apps Nation is a custom web application development company that provides unique web applications for a variety of businesses. </p>
 					<p>We provide technological consultancy, customized web apps, eCommerce solutions, CMS web apps, and web portal creation as well as end-to-end custom web development and app development services.</p>
@@ -51,7 +53,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag">
-					<h2>Our custom web application development services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our Unrivaled <span>Web Application</span> Development Services</h2>
+					</div>
 					<p class="mb30">Our custom web application developers have extensive expertise in creating cross-platform apps utilizing cutting-edge technology.</p>
 				</div>
 			</div>
@@ -60,7 +64,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-web-app-img"></div>
+						<img src="images/services/web-app-development/custom-web-app-development.svg" alt="Custom Web App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom Web App Development</h4>
@@ -73,7 +77,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="cross-platform-app-img"></div>
+						<img src="images/services/web-app-development/cross-platform-apps.svg" alt="Cross-platform Apps" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Cross-platform Apps</h4>
@@ -86,7 +90,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="e-commerce-solutions-img"></div>
+						<img src="images/services/web-app-development/e-commerce-solutions.svg" alt="E-commerce Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>E-commerce Solutions</h4>
@@ -99,7 +103,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="web-portal-dev-img"></div>
+						<img src="images/services/web-app-development/web-portal-development.svg" alt="Web Portal Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Web Portal Development</h4>
@@ -112,7 +116,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-cms-web-dev-img"></div>
+						<img src="images/services/web-app-development/custom-cms-web-development.svg" alt="Custom CMS Web Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom CMS Web Development</h4>
@@ -125,7 +129,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="technology-consulting-img"></div>
+						<img src="images/services/web-app-development/technology-consulting.svg" alt="Technology Consulting" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Technology Consulting</h4>
@@ -139,97 +143,6 @@
 	</div>
 </section>
 <!--End Service-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
-<!--Start Why Choose-->
-<section class="why-choose bg-gradient3 py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-					<p class="text-white">You receive a state-of-the-art solution with a cutting-edge appeal that engages more people online when you work with professional web developers and digital artists. Under packaged web app development services, take advantage of powerful technologies and a solid architecture to create a web solution that meets your needs.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="experience"></div>
-					</div>
-					<h3 class="title">Experience</h3>
-					<p class="description">When you hire us, you receive access to our extensive experience developing sophisticated custom apps.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="focus-on-experties"></div>
-					</div>
-					<h3 class="title">Focus on Expertise</h3>
-					<p class="description">We cultivate a mobile expert culture that maintains a great commitment to stay at the forefront of our business through specialization.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="cost-reduction"></div>
-					</div>
-					<h3 class="title">Cost Reduction</h3>
-					<p class="description">We offer a cost-effective way to develop excellent mobile apps thanks to our time-tested development competence and large code repository.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="lower-the-risk"></div>
-					</div>
-					<h3 class="title">Lower The Risk</h3>
-					<p class="description">We eliminate risk and give quick time-to-value to step-out into the continually shifting market by delivering quickly and efficiently.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="reliable-and-flexile"></div>
-					</div>
-					<h3 class="title">Reliable and Flexile</h3>
-					<p class="description">We avoid difficulties and are adaptive to client needs by using the most up-to-date practises and technological skills.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="one-partner-for-everyone"></div>
-					</div>
-					<h3 class="title">One Partner For Everyone</h3>
-					<p class="description">Avoid costly resource onboarding and inefficiencies caused by many vendors. Our team is ready to help you with end-to-end business solutions.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Why Choose-->
 
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
@@ -254,7 +167,9 @@
 			</div>
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Creative Web App Development Agency</h2>
+				<div data-text="Industries" class="light-bg-text bg-text">
+					<h2>Creative <span>Web App</span> Development Agency</h2>
+				</div>
 				<p class="py-3">We help a diverse clientele build result-driven web apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
@@ -291,13 +206,108 @@
 </section>
 <!--End Features-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
+<!--Start Why Choose-->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
+					<p class="text-white">You receive a state-of-the-art solution with a cutting-edge appeal that engages more people online when you work with professional web developers and digital artists. Under packaged web app development services, take advantage of powerful technologies and a solid architecture to create a web solution that meets your needs.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/web-app-development/experience.svg" alt="Experience" class="img-fluid">
+					</div>
+					<h3 class="title">Experience</h3>
+					<p class="description">When you hire us, you receive access to our extensive experience developing sophisticated custom apps.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/web-app-development/focus-on-expertise.svg" alt="Focus on Expertise" class="img-fluid">
+					</div>
+					<h3 class="title">Focus on Expertise</h3>
+					<p class="description">We cultivate a mobile expert culture that maintains a great commitment to stay at the forefront of our business through specialization.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/web-app-development/cost-reduction.svg" alt="Cost Reduction" class="img-fluid">
+					</div>
+					<h3 class="title">Cost Reduction</h3>
+					<p class="description">We offer a cost-effective way to develop excellent mobile apps thanks to our time-tested development competence and large code repository.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/web-app-development/lower-the-risk.svg" alt="Lower The Risk" class="img-fluid">
+					</div>
+					<h3 class="title">Lower The Risk</h3>
+					<p class="description">We eliminate risk and give quick time-to-value to step-out into the continually shifting market by delivering quickly and efficiently.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/web-app-development/reliable-and-flexile.svg" alt="Reliable and Flexile" class="img-fluid">
+					</div>
+					<h3 class="title">Reliable and Flexile</h3>
+					<p class="description">We avoid difficulties and are adaptive to client needs by using the most up-to-date practises and technological skills.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/web-app-development/one-partner-for-everyone.svg" alt="One Partner For Everyone" class="img-fluid">
+					</div>
+					<h3 class="title">One Partner For Everyone</h3>
+					<p class="description">Avoid costly resource onboarding and inefficiencies caused by many vendors. Our team is ready to help you with end-to-end business solutions.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Why Choose-->
+
 <!--Start Process-->
-<section class="process-block dark-bg2">
+<section class="process-block dark-bg2 my-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Web App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Web App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile web app development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -409,7 +419,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Technology Stack</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
 					<p>Apps Nation Technology Stack is divided into three main categories. Let’s take a look:</p>
 				</div>
 			</div>
@@ -478,13 +490,35 @@
 </div>
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -518,33 +552,15 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>Web App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -625,7 +641,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 my-auto">
@@ -644,13 +660,15 @@
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -713,7 +731,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>
@@ -864,5 +884,61 @@
     </div>
 </section>
 <!-- End FAQS -->
+
+<!--Start Blogs-->
+<section class="blogs-section py-5">
+@if(count($data['data']) > 0)
+	<div class="container">
+		<div class="row mb100">
+			<div class="col-lg-6">
+				<div data-text="Blogs" class="light-bg-text bg-text">
+					<h2 class="mb0 common-heading">Latest Stories</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			@foreach($data['data'] as $post)
+			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
+				<div class="card h-100">
+					<a href="{{ $post['guid'] }}">
+						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+					</a>
+					<div class="entry-blog-post dg-bg2">
+						<span class="bypost-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-tag"></i> Appsnation
+							</a>
+						</span>
+						<span class="posted-on-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}
+							</a>
+						</span>
+					</div>
+					<div class="card-body">
+						<h4 class="mb-0">
+							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+			@endforeach
+			@else
+		</div>
+	</div>
+	@endif
+</section>
+
+<div class="container">
+	<div class="row mb-4 text-center wow fadeIn">
+		<div class="col-12">
+			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
+				<i class="fas fa-chevron-right fa-icon"></i>
+				<span class="circle"></span>
+			</a>
+		</div>
+	</div>
+</div>
+<!--End Blogs-->
 
 @endsection

@@ -66,7 +66,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-e-comm-dev-img"></div>
+						<img src="images/services/e-commerce-app-development/custom-e-commerce-development.svg" alt="Custom E-Commerce Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom E-Commerce Development</h4>
@@ -79,7 +79,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="m-comm-service-img"></div>
+						<img src="images/services/e-commerce-app-development/m-commerce-services.svg" alt="M-commerce Services" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>M-commerce Services</h4>
@@ -92,7 +92,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="dev-multi-store-e-comm-img"></div>
+						<img src="images/services/e-commerce-app-development/development-of-multi-store-e-commerce-platform.svg" alt="Development of Multi Store E-Commerce Platform" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Development of Multi Store E-Commerce Platform</h4>
@@ -105,7 +105,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="cus-e-comm-des-dev-img"></div>
+						<img src="images/services/e-commerce-app-development/custom-e-commerce-design-and-development.svg" alt="Custom E-Commerce Design and Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom E-Commerce Design and Development</h4>
@@ -118,7 +118,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="magento-e-com-dev-img"></div>
+						<img src="images/services/e-commerce-app-development/magento-e-commerce-development.svg" alt="Magento E-Commerce Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Magento E-Commerce Development</h4>
@@ -131,7 +131,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="saas-e-comm-solu-img"></div>
+						<img src="images/services/e-commerce-app-development/saas-e-commerce-solutions.svg" alt="SAAS E-Commerce Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>SAAS E-Commerce Solutions</h4>
@@ -144,7 +144,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="mod-plugin-dev-img"></div>
+						<img src="images/services/e-commerce-app-development/modules-and-plugins-development.svg" alt="Modules and Plugins Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Modules and Plugins Development</h4>
@@ -157,7 +157,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="data-analytics-img"></div>
+						<img src="images/services/e-commerce-app-development/data-analytics.svg" alt="Data Analytics" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Data Analytics</h4>
@@ -177,9 +177,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="maint-mig-img"></div>
+						<img src="images/services/e-commerce-app-development/maintenance-and-migration.svg" alt="Maintenance & Migration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Maintenance & Migration</h4>
@@ -190,9 +190,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="e-comm-int-img"></div>
+						<img src="images/services/e-commerce-app-development/e-commerce-integration.svg" alt="E-commerce Integrations" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>E-commerce Integrations</h4>
@@ -203,9 +203,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="e-comm-rec-sys-img"></div>
+						<img src="images/services/e-commerce-app-development/e-commerce-recommendation-system.svg" alt="E-commerce Recommendation System" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>E-commerce Recommendation System</h4>
@@ -216,9 +216,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="market-dev-img"></div>
+						<img src="images/services/e-commerce-app-development/marketplace-development.svg" alt="Marketplace Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Marketplace Development</h4>
@@ -229,9 +229,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="shop-cart-dev-img"></div>
+						<img src="images/services/e-commerce-app-development/shopping-cart-development.svg" alt="Shopping Cart Developments" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Shopping Cart Development</h4>
@@ -242,9 +242,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="online-store-cust-img"></div>
+						<img src="images/services/e-commerce-app-development/online-store-customization.svg" alt="Online Store Customization" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Online Store Customization</h4>
@@ -255,9 +255,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="pay-gateway-int-img"></div>
+						<img src="images/services/e-commerce-app-development/payment-gateway-integration.svg" alt="Payment Gateway Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Payment Gateway Integration</h4>
@@ -268,9 +268,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="app-maint-supp-img"></div>
+						<img src="images/services/e-commerce-app-development/application-maintenance-and-support.svg" alt="Application Maintenance and Support" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Application Maintenance and Support</h4>
@@ -281,9 +281,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="cust-opt-ecomm-app-img"></div>
+						<img src="images/services/e-commerce-app-development/customize-and-optimize-existing-e-commerce-applications.svg" alt="Customize and Optimize Existing E-Commerce Applications" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Customize and Optimize Existing E-Commerce Applications</h4>
@@ -447,7 +447,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="avoid-stor-sens-img"></div>
+						<img src="images/services/e-commerce-app-development/avoid-storing-sensitive-data.svg" alt="Avoid Storing Sensitive Data" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Avoid Storing Sensitive Data</h4>
@@ -460,7 +460,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="int-trust-pay-proc-img"></div>
+						<img src="images/services/e-commerce-app-development/integrate-trusted-payment-processors.svg" alt="Integrate Trusted Payment Processors" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Integrate Trusted Payment Processors</h4>
@@ -473,7 +473,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="two-fact-auth-img"></div>
+						<img src="images/services/e-commerce-app-development/two-factor-authentication.svg" alt="Two-Factor Authentication" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Two-Factor Authentication</h4>
@@ -486,7 +486,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="update-plat-frame-lib-img"></div>
+						<img src="images/services/e-commerce-app-development/updated-platform-frameworks-and-libraries.svg" alt="Updated Platform, Frameworks, & Libraries" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Updated Platform, Frameworks, & Libraries</h4>
@@ -515,9 +515,9 @@
 		</div>
 		<div class="row mt100">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="smart-search-img"></div>
+						<img src="images/services/e-commerce-app-development/smart-search.svg" alt="Smart Search" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Smart Search</h4>
@@ -528,9 +528,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="instant-support-img"></div>
+						<img src="images/services/e-commerce-app-development/instant-support.svg" alt="Instant Support" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Instant Support</h4>
@@ -541,9 +541,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="multiple-payment-img"></div>
+						<img src="images/services/e-commerce-app-development/multiple-payment-options.svg" alt="Multiple Payment Options" class="img-fluid">	
 					</div>
 					<div class="service-heading">
 						<h4>Multiple Payment Options</h4>
@@ -554,9 +554,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="social-media-img"></div>
+						<img src="images/services/e-commerce-app-development/social-media-integration.svg" alt="Social Media Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Social Media Integration</h4>
@@ -567,9 +567,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="quick-checkout-img"></div>
+						<img src="images/services/e-commerce-app-development/quick-checkout.svg" alt="Quick Checkout" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Quick Checkout</h4>
@@ -580,9 +580,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="e-wallet-img"></div>
+						<img src="images/services/e-commerce-app-development/e-wallet.svg" alt="E-Wallet" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>E-Wallet</h4>
@@ -593,9 +593,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="chatbots-img"></div>
+						<img src="images/services/e-commerce-app-development/chatbots.svg" alt="Chatbots" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Chatbots</h4>
@@ -606,9 +606,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="pos-integration-img"></div>
+						<img src="images/services/e-commerce-app-development/pos-integration.svg" alt="POS Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>POS Integration</h4>
@@ -619,9 +619,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<div class="erp-crm-int-img"></div>
+						<img src="images/services/e-commerce-app-development/erp-crm-integration.svg" alt="ERP/CRM Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>ERP/CRM Integration</h4>
@@ -736,7 +736,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="scalable-solutuions-img"></div>
+						<img src="images/services/e-commerce-app-development/scalable-solutions.svg" alt="Scalable Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Scalable Solutions</h4>
@@ -749,7 +749,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="mobile-friendly-img"></div>
+						<img src="images/services/e-commerce-app-development/mobile-friendly.svg" alt="Mobile Friendly" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Mobile Friendly</h4>
@@ -762,7 +762,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="superior-ui-ux-img"></div>
+						<img src="images/services/e-commerce-app-development/superior-ui-ux.svg" alt="Superior UI/UX" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Superior UI/UX</h4>
@@ -775,7 +775,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="quick-deployment-img"></div>
+						<img src="images/services/e-commerce-app-development/quick-deployment.svg" alt="Quick Deployment" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Quick Deployment</h4>
@@ -788,7 +788,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="specialized-ecommerce-img"></div>
+						<img src="images/services/e-commerce-app-development/specialized-in-e-commerce.svg" alt="Specialized in E-Commerce" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Specialized in E-Commerce</h4>
@@ -801,7 +801,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="innovative-designs-img"></div>
+						<img src="images/services/e-commerce-app-development/innovative-designs.svg" alt="Innovative Designs" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Innovative Designs</h4>
@@ -814,7 +814,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="on-time-delivery-img"></div>
+						<img src="images/services/e-commerce-app-development/on-time-delivery.svg" alt="On-time Delivery" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>On-time Delivery</h4>
@@ -827,7 +827,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="dedicated-team-img"></div>
+						<img src="images/services/e-commerce-app-development/dedicated-team.svg" alt="Dedicated Team" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Dedicated Team</h4>
@@ -1464,5 +1464,61 @@
     </div>
 </section>
 <!--End FAQS -->
+
+<!--Start Blogs-->
+<section class="blogs-section py-5">
+@if(count($data['data']) > 0)
+	<div class="container">
+		<div class="row mb100">
+			<div class="col-lg-6">
+				<div data-text="Blogs" class="light-bg-text bg-text">
+					<h2 class="mb0 common-heading">Latest Stories</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			@foreach($data['data'] as $post)
+			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
+				<div class="card h-100">
+					<a href="{{ $post['guid'] }}">
+						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+					</a>
+					<div class="entry-blog-post dg-bg2">
+						<span class="bypost-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-tag"></i> Appsnation
+							</a>
+						</span>
+						<span class="posted-on-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}
+							</a>
+						</span>
+					</div>
+					<div class="card-body">
+						<h4 class="mb-0">
+							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+			@endforeach
+			@else
+		</div>
+	</div>
+	@endif
+</section>
+
+<div class="container">
+	<div class="row mb-4 text-center wow fadeIn">
+		<div class="col-12">
+			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
+				<i class="fas fa-chevron-right fa-icon"></i>
+				<span class="circle"></span>
+			</a>
+		</div>
+	</div>
+</div>
+<!--End Blogs-->
 
 @endsection

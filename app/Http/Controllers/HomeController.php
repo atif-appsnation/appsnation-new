@@ -46,7 +46,7 @@ class HomeController extends Controller
 
         $metatag = Metatag::where('slug', 'Main')->get();
         $metatitle = Metatitle::where('slug', 'Main')->get();
-        $data = $this->blogApi('game-app');
+        $data = $this->blogApi();
         return view('index', [
             'agencystack' => $agencystack,
             'awards' => $awards,
@@ -1219,9 +1219,14 @@ class HomeController extends Controller
             ]
         );
     }
-    public function blogApi($category)
+    public function blogApi($category = null)
     {
-        $response = Http::get('https://blog.appsnation.co/api/get-blogs-api.php?category=' . urlencode($category));
+        if($category == null){
+            $response = Http::get('https://blog.appsnation.co/api/get-blogs-api.php');
+        }
+        else{
+            $response = Http::get('https://blog.appsnation.co/api/get-blogs-api.php?category=' . urlencode($category));
+        }
         $data = $response->json();
         return $data;
     }

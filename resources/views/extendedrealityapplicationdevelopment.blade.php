@@ -1,22 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 xr-app-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">EXTENDED REALITY (XR) DEVELOPMENT</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Enhance productivity and transform your business processes with the most renowned Extended Reality (XR) services provider – Dream, design, deliver the experience of new dimensions with AppsNation.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/xr-app-development/xr-development-banner-img.webp" class="img-fluid" alt="Extended Reality App Development">
 			</div>
 		</div>
 	</div>
@@ -27,17 +24,18 @@
 <section class="service py-5">
 	<div class=" container">
 		<div class="row">
-			<div class="col-lg-7 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2><span class="flup-theme">Extended Reality (XR) Development</span> Services</h2>
-					<p>What is Extended Reality (XR)? Extended Reality (XR) is a collective term for all the immersive technological realities – Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). However, that is not it; these are just what we have until now. Any other relevant technology would count in as XR technology.</p>
-					<p>With the transforming world, AppsNation focuses on enabling businesses and major enterprises to revolutionize with ease with our extensive XR development services. We create custom solutions for a diverse range of problems a company may encounter. Our premium XR services deliver you the best bespoke AR, VR, and MR development strategies and services for enriched productivity, connectivity, engagement, and results.</p>
-				</div>
-			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
 					<img src="images/services/xr-app-development/xr-development-services-img.webp" alt="Extended Reality App Development" class="img-fluid no-shadow" />
+				</div>
+			</div>
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
+				<div class="common-heading text-l pl25">
+					<div data-text="XR" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our <span class="flup-theme">Extended Reality (XR) </span>Development Services</h2>
+					</div>
+					<p>What is Extended Reality (XR)? Extended Reality (XR) is a collective term for all the immersive technological realities – Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). However, that is not it; these are just what we have until now. Any other relevant technology would count in as XR technology.</p>
+					<p>With the transforming world, AppsNation focuses on enabling businesses and major enterprises to revolutionize with ease with our extensive XR development services. We create custom solutions for a diverse range of problems a company may encounter. Our premium XR services deliver you the best bespoke AR, VR, and MR development strategies and services for enriched productivity, connectivity, engagement, and results.</p>
 				</div>
 			</div>
 		</div>
@@ -47,47 +45,51 @@
 
 <!--Start Service-->
 <section class="service-section-app py-5 dark-bg2">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="common-heading ptag">
-					<img src="images/services/xr-app-development/xr-ar-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
-				</div>
-			</div>
-			<div class="col-lg-6 mt-3 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2>Augmented Reality (AR) Development</h2>
-					<p>We are a full-service augmented reality game development company dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
-					<p>AppsNation shakes up the reality of your business with AR development services. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
-				</div>
+	<div class="row">
+		<div class="col-lg-6 wow fadeIn">
+			<div class="common-heading ptag">
+				<img src="images/services/xr-app-development/xr-ar-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
 			</div>
 		</div>
-		<div class="row mt-5">
-		<div class="col-lg-6 mt-3 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2>Virtual Reality (AR) Development</h2>
-					<p>Virtual Reality (VR) is a revolutionizing technology that offers users an immersive experience of an imaginary or real-world through computer modeling and simulation. In short, a person can interact with an artificially designed 3D world via VR headsets.</p>
-					<p>We are a professional and expert Virtual Reality (VR) development company on a mission to bring life to the ingenious dreams of businesses. With this powerful technology and expertise, your every fantasy of maximum customer engagement can be achieved.</p>
+		<div class="col-lg-6 mt-3 wow fadeIn pe-5">
+			<div class="common-heading ptag">
+				<div data-text="AR" class="light-bg-text bg-text">
+					<h2><span>Augmented Reality (AR)</span> Development</h2>
 				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="common-heading ptag">
-					<img src="images/services/xr-app-development/xr-vr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
-				</div>
+				<p>We are a full-service augmented reality game development company dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
+				<p>AppsNation shakes up the reality of your business with AR development services. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="common-heading ptag">
-					<img src="images/services/xr-app-development/xr-mr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
+	</div>
+	<div class="row mt-5">
+		<div class="col-lg-6 mt-3 wow fadeIn ps-5">
+			<div class="common-heading ptag">
+				<div data-text="VR" class="light-bg-text bg-text">
+					<h2><span>Virtual Reality (AR)</span> Development</h2>
 				</div>
+				<p>Virtual Reality (VR) is a revolutionizing technology that offers users an immersive experience of an imaginary or real-world through computer modeling and simulation. In short, a person can interact with an artificially designed 3D world via VR headsets.</p>
+				<p>We are a professional and expert Virtual Reality (VR) development company on a mission to bring life to the ingenious dreams of businesses. With this powerful technology and expertise, your every fantasy of maximum customer engagement can be achieved.</p>
 			</div>
-			<div class="col-lg-6 mt-3 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2>Mixed Reality (AR) Development</h2>
-					<p>Mixed Reality (MR) is here to bridge the real and virtual world gap. The viewer may see virtual items that seem genuine and are perfectly mapped onto the actual environment thanks to MR – holographic lenses are used to merge VR and AR, allowing virtual things to interact with real-world objects.</p>
-					<p>We hold a firm grasp over MR to empower businesses with tempting marketing campaigns, a chance to collaborate with tech giants, an achievement to be supreme in the market, and most importantly, an entrance to the great market of holographic apps.</p>
+		</div>
+		<div class="col-lg-6 wow fadeIn">
+			<div class="common-heading ptag">
+				<img src="images/services/xr-app-development/xr-vr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
+			</div>
+		</div>
+	</div>
+	<div class="row mt-5">
+		<div class="col-lg-6 wow fadeIn">
+			<div class="common-heading ptag">
+				<img src="images/services/xr-app-development/xr-mr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
+			</div>
+		</div>
+		<div class="col-lg-6 mt-3 wow fadeIn pe-5">
+			<div class="common-heading ptag">
+				<div data-text="MR" class="light-bg-text bg-text">
+					<h2><span>Mixed Reality (AR)</span> Development</h2>
 				</div>
+				<p>Mixed Reality (MR) is here to bridge the real and virtual world gap. The viewer may see virtual items that seem genuine and are perfectly mapped onto the actual environment thanks to MR – holographic lenses are used to merge VR and AR, allowing virtual things to interact with real-world objects.</p>
+				<p>We hold a firm grasp over MR to empower businesses with tempting marketing campaigns, a chance to collaborate with tech giants, an achievement to be supreme in the market, and most importantly, an entrance to the great market of holographic apps.</p>
 			</div>
 		</div>
 	</div>
@@ -96,14 +98,14 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-9">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
 					</a>
@@ -177,11 +179,13 @@
 <!--Start Why Choose-->
 <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
-		<div class="row">
+		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
+					<p class="text-white">You receive a state-of-the-art solution with a cutting-edge appeal that engages more people online when you work with professional web developers and digital artists. Under packaged web app development services, take advantage of powerful technologies and a solid architecture to create a web solution that meets your needs.</p>
 				</div>
 			</div>
 		</div>
@@ -189,81 +193,61 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
+						<img src="images/services/xr-app-development/experience.svg" alt="Experience" class="img-fluid">
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<h3 class="title">Experience</h3>
+					<p class="description">When you hire us, you receive access to our extensive experience developing sophisticated custom apps.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
+						<img src="images/services/xr-app-development/focus-on-expertise.svg" alt="Focus on Expertise" class="img-fluid">
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">Focus on Expertise</h3>
+					<p class="description">We cultivate a mobile expert culture that maintains a great commitment to stay at the forefront of our business through specialization.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
+						<img src="images/services/xr-app-development/cost-reduction.svg" alt="Cost Reduction" class="img-fluid">
 					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<h3 class="title">Cost Reduction</h3>
+					<p class="description">We offer a cost-effective way to develop excellent mobile apps thanks to our time-tested development competence and large code repository.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="technical-support"></div>
+						<img src="images/services/xr-app-development/lower-the-risk.svg" alt="Lower The Risk" class="img-fluid">
 					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<h3 class="title">Lower The Risk</h3>
+					<p class="description">We eliminate risk and give quick time-to-value to step-out into the continually shifting market by delivering quickly and efficiently.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="transparency"></div>
+						<img src="images/services/xr-app-development/reliable-and-flexile.svg" alt="Reliable and Flexile" class="img-fluid">
 					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+					<h3 class="title">Reliable and Flexile</h3>
+					<p class="description">We avoid difficulties and are adaptive to client needs by using the most up-to-date practises and technological skills.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
+						<img src="images/services/xr-app-development/one-partner-for-everyone.svg" alt="One Partner For Everyone" class="img-fluid">
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">One Partner For Everyone</h3>
+					<p class="description">Avoid costly resource onboarding and inefficiencies caused by many vendors. Our team is ready to help you with end-to-end business solutions.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--Start Why Choose-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
+<!--End Why Choose-->
 
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
@@ -271,53 +255,55 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>XR App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>XR App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile android extended reality development process with a result-driven ideology.</p>
 				</div>
 				</div>
 			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">01</p>
-					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+			<div class="row upset justify-content-center mt30">
+				<div class="col-12 col-md-6 col-lg-4">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">01</p>
+						<h3 class="title">Requirement Analysis</h3>
+						<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+				<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">02</p>
+						<h3 class="title">App Development Strategies</h3>
+						<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+				<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">03</p>
+						<h3 class="title">Wireframing And Designing</h3>
+						<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">04</p>
+						<h3 class="title">Development Phase</h3>
+						<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">05</p>
+						<h3 class="title">App Testing</h3>
+						<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">06</p>
+						<h3 class="title">App Deployment</h3>
+						<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -407,13 +393,35 @@
 </div> -->
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -453,7 +461,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>XR App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -532,14 +542,36 @@
 </section>
 <!--End Badges-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -596,33 +628,15 @@
 </section>
 <!--End Testinomial-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>
@@ -869,5 +883,61 @@
     </div>
 </section>
 <!-- End FAQS -->
+
+<!--Start Blogs-->
+<section class="blogs-section py-5">
+@if(count($data['data']) > 0)
+	<div class="container">
+		<div class="row mb100">
+			<div class="col-lg-6">
+				<div data-text="Blogs" class="light-bg-text bg-text">
+					<h2 class="mb0 common-heading">Latest Stories</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			@foreach($data['data'] as $post)
+			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
+				<div class="card h-100">
+					<a href="{{ $post['guid'] }}">
+						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+					</a>
+					<div class="entry-blog-post dg-bg2">
+						<span class="bypost-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-tag"></i> Appsnation
+							</a>
+						</span>
+						<span class="posted-on-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}
+							</a>
+						</span>
+					</div>
+					<div class="card-body">
+						<h4 class="mb-0">
+							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+			@endforeach
+			@else
+		</div>
+	</div>
+	@endif
+</section>
+
+<div class="container">
+	<div class="row mb-4 text-center wow fadeIn">
+		<div class="col-12">
+			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
+				<i class="fas fa-chevron-right fa-icon"></i>
+				<span class="circle"></span>
+			</a>
+		</div>
+	</div>
+</div>
+<!--End Blogs-->
 
 @endsection

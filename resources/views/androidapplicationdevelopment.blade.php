@@ -35,7 +35,7 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Android" class="light-bg-text bg-text">
-						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
+						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 					</div>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
@@ -168,7 +168,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Deployment" class="img-fluid">
+						<img src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Android Watch App Deployment</h4>
@@ -976,7 +976,7 @@
 <section class="blogs-section py-5">
 @if(count($data['data']) > 0)
 	<div class="container">
-		<div class="row mb-100">
+		<div class="row mb100">
 			<div class="col-lg-6">
 				<div data-text="Blogs" class="light-bg-text bg-text">
 					<h2 class="mb0 common-heading">Latest Stories</h2>

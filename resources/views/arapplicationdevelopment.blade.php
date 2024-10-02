@@ -2,22 +2,19 @@
 @section('content')
 
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 vr-app-banner">
+<section class="breadcrumb-areav2 ar-app-banner">
 @if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Augmented Reality App Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via an augmented reality app developed by our expert AR app developers.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/ar-app-development/ar-app-banner-img.webp" class="img-fluid" alt="AR App Development">
 			</div>
 		</div>
 	</div>
@@ -30,7 +27,9 @@
 		<div class="row">
 			<div class="col-lg-7 block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
-					<h2>Top-Notch <br><span>AR App Development Services </span></h2>
+					<div data-text="AR" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our <span class="flup-theme">Augumented Reality (XR) </span>Development Services</h2>
+					</div>
 					<p><strong>Ignite your business reality with highly interactive AR apps to solve complex problems and enhance brand loyalty. </strong></p>
 					<p>AppsNation is a famous company for producing best-in-industry custom Augmented Reality apps for various niches. We create AR apps across different platforms that convert and boost leads and sales with robust functionality and appealing designs. </p>
 					<p>Being the AR app development industry pioneer, we have set a standard with our years of experienced and highly tech-savvy AR app developers. We strive to build the innovative dreams of others and make it possible for them to thrive among the best. We create AR apps that support every device, such as AR headsets, smart glasses, smart lenses, tablets, smartphones, and other augmented reality compatible devices to achieve customer satisfaction. Our primary focus is to flourish the AR technology into the businesses and among the audience.</p>
@@ -38,7 +37,7 @@
 			</div>
 			<div class="col-lg-5 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/ar-app-development/ar-app-development.webp" alt="AR App Development" class="img-fluid no-shadow" />
+					<img src="images/services/ar-app-development/ar-app-development.webp" alt="AR App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -46,106 +45,15 @@
 </section>
 <!--End About-->
 
-<!--Start Why Choose-->
-<section class="service-block py-5 ar-choose-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2 class="text-white">Why Choose AppsNation</h2>
-					<p class="text-white">We help you overcome the most challenging difficulties in AR, such as object/scene identification, occlusion, and content production and management.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<div class="timeline-centered">
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/ar-app-development/free-vr-app-consultation.webp" alt="Free AR App Consultation" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">Free AR App Consultation</h4>
-								<p class="text-white">With AppsNation, you can consult your way to success for free.</p>
-								<br>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/ar-app-development/50+-vr-app-developers.webp" alt="50+ AR App Developers" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">50+ AR App Developers</h4>
-								<p class="text-white">Unleash your true potential with best-in-class AR app developers across the globe.</p>
-								<br>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/ar-app-development/flexible-hiring-models.webp" alt="Flexible Hiring Models" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">Flexible Hiring Models</h4>
-								<p class="text-white">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
-							</div>
-						</div>
-					</article>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<div class="timeline-centered">
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/ar-app-development/24-7-technical-support.webp" alt="24/7 Technical Support" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">24/7 Technical Support</h4>
-								<p class="text-white">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/ar-app-development/100-transparency.webp" alt="100% Transparency" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">100% Transparency</h4>
-								<p class="text-white">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/ar-app-development/3-months-free-support-after-delivery.webp" alt="3-Months Free Support After Delivery" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">3-Months Free Support After Delivery</h4>
-								<p class="text-white">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
-							</div>
-						</div>
-					</article>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Why Choose-->
-
 <!--Start Service-->
 <section class="service-block py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Custom AR App Development Company</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our<span>Augument Reality (AR)</span> Development Services</h2>
+					</div>
 					<p class="mb30">Own an interactive AR app for your consumers to have an interactive experience of your business and maximize customer engagement.</p>
 				</div>
 			</div>
@@ -154,130 +62,130 @@
 		<div class="row mt-5">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow">
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>AR Apps For Android & iOS</h4>
+					<h2>AR Apps For Android & iOS</h2>
 					<p>We are proficient in powering up Android and iOS with a stimulating technology of AR to empower businesses with a new trend of marketing and engagement.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>Marker-based Augmented Reality Apps</h4>
+					<h2>Marker-based Augmented Reality Apps</h2>
 					<p>Offer your users a simulating experience of your product/service with a marker-based AR app that transforms the 3D object into real-life material by pointing the camera to a QR code.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow">
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>Markerless Augmented Reality Apps</h4>
+					<h2>Markerless Augmented Reality Apps</h2>
 					<p>Power up your user experience with a markerless AR app that works through a link or AR option within the app developed by our professional AR app developers.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>E-Commerce AR Integration</h4>
+					<h2>E-Commerce AR Integration</h2>
 					<p>Transform your e-commerce store by implementing AR technology for the consumers to experience shopping in an augmented environment.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow">
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>AR Game App Development</h4>
+					<h2>AR Game App Development</h2>
 					<p>Be the trend like Pokémon GO did with our outstanding AR game app development services for the simplest and even the most complex game stories.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>AR Support & Maintenance</h4>
+					<h2>AR Support & Maintenance</h2>
 					<p>We offer reliable and sustainable AR app support and maintenance services to ensure the app flawlessly delivers its purpose and functionality.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow">
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>Superimposition-based AR</h4>
+					<h2>Superimposition-based AR</h2>
 					<p>Leverage the object recognition in superimposition-based AR app to replace the source picture with an augmented view to help consumers make the right choice of the product.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>Recognition-based AR</h4>
+					<h2>Recognition-based AR</h2>
 					<p>We create highly responsive recognition-based AR apps with faultless functionality to deliver a seamless user experience of Augmented Reality to the audience.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow">
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>Projection-based AR</h4>
+					<h2>Projection-based AR</h2>
 					<p>We design and build intuitive projection-based AR apps for industries to leverage and make learning, analyzing, and other processes simpler and smoother.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-3">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h4>Location-based AR</h4>
+					<h2>Location-based AR</h2>
 					<p>We develop the most precise location-based AR apps to enable your business to track consumers accurately to deliver them the right offers.</p>
 				</div>
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow">
+					<img src="images/services/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow">
 				</div>
 			</div>
 		</div>
@@ -285,32 +193,12 @@
 </section>
 <!--End Service-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Games-->
 <section class="service-block py-5 ar-game-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn my-auto">
-				<img src="images/ar-app-development/ar-game-development.webp" alt="AR Game Development" class="img-fluid">
+				<img src="images/services/ar-app-development/ar-game-development.webp" alt="AR Game Development" class="img-fluid">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
 				<div class="row wow fadeIn">
@@ -320,47 +208,47 @@
 				</div>
 				<div class="row mt-3 wow fadeIn">
                     <div class="col-md-4 game-development-col">
-                        <img src="images/ar-app-development/ar-action.webp" alt="AR Action" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-action.webp" alt="AR Action" class="img-fluid">
                         <p class="center-text">AR Action<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/ar-app-development/ar-fps.webp" alt="AR FPS" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-fps.webp" alt="AR FPS" class="img-fluid">
                         <p class="center-text">AR FPS<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/ar-app-development/ar-adventure.webp" alt="AR Adventure" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-adventure.webp" alt="AR Adventure" class="img-fluid">
                         <p class="center-text">AR Adventure<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/ar-app-development/ar-puzzle.webp" alt="AR Puzzle" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-puzzle.webp" alt="AR Puzzle" class="img-fluid">
                         <p class="center-text">AR Puzzle<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/ar-app-development/ar-sports.webp" alt="AR Sports" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-sports.webp" alt="AR Sports" class="img-fluid">
                         <p class="center-text">AR Sports<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/ar-app-development/ar-arcade.webp" alt="AR Arcade" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-arcade.webp" alt="AR Arcade" class="img-fluid">
                         <p class="center-text">AR Arcade<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/ar-app-development/ar-simulation.webp" alt="AR Simulation" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-simulation.webp" alt="AR Simulation" class="img-fluid">
                         <p class="center-text">AR Simulation<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/ar-app-development/ar-brain.webp" alt="AR Brain" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-brain.webp" alt="AR Brain" class="img-fluid">
                         <p class="center-text">AR Brain<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/ar-app-development/ar-combat.webp" alt="AR Combat" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-combat.webp" alt="AR Combat" class="img-fluid">
                         <p class="center-text">AR Combat<p>
                     </div>
                 </div>
@@ -431,101 +319,153 @@
 <br>
 <!--End Features-->
 
-<!--Start Process-->
-<section class="service-block py-5 ar-process-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2 class="text-white">Our VR App Development Process</h2>
-					<p class="text-white">AppsNation guarantees that our AR app development process is fluid, resulting in an application being developed and delivered on time.</p>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-md-6 wow fadeIn">
-				<div class="vertical-timeline vertical-timeline--animate vertical-timeline--one-column">
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">1</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">Project Analysis of Requirements</h4>
-								<p class="description text-white">We assist you in choosing the most appropriate AR application with pertinent functionalities for your business by extensively studying your industry and rivals to give you a result-driven approach. Finally, we present you with a business document containing all the project information.</p>
-							</div>
-						</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
+<!--Start Why Choose-->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">2</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">Wireframing & Designing</h4>
-								<p class="description text-white">We understand the art of augmented reality and have a track record of developing successful apps that combine realistic experience design, high-quality 3D presentation, and fluid user interactions. Our UI/UX designers can create high-quality AR apps that accurately portray virtual components in a real-world setting.</p>
-							</div>
-						</div>
-					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">3</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">App Development</h4>
-								<p class="description text-white">Our expert team of AR app developers can help you achieve your business goals. We create highly scalable, functional, and well-optimized AR apps with experienced AR app developers from many sectors that operate remarkably well on all devices and platforms.=</p>
-							</div>
-						</div>
-					</div>
+					<p class="text-white">We help you overcome the most challenging difficulties in AR, such as object/scene identification, occlusion, and content production and management.</p>
 				</div>
 			</div>
-			<div class="col-md-6 wow fadeIn">
-				<div class="vertical-timeline vertical-timeline--animate vertical-timeline--one-column">
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">4</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">App Testing</h4>
-								<p class="description text-white">We test the AR app using the most recent trends and methodology to verify that it is well-optimized and performs adequately across many platforms and devices. With extensive app testing, our superior quality assurance team ensures the integrity of the AR app, including its augmented environment.</p>
-							</div>
-						</div>
+		</div>
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
 					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">5</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">App Deployment</h4>
-								<p class="description text-white">Deploying your custom AR app on the right platform while adhering to the platform's stringent requirements for a successful launch is a critical component of our premium AR app development services. For marketplace publishing, our team creates the necessary paperwork, descriptions, and screenshots.</p>
-							</div>
-						</div>
+					<h3 class="title">Free Mobile App Consultation</h3>
+					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
 					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">6</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">Post-launch Support and Maintenance</h4>
-								<p class="description text-white">Our commitment extends beyond deployment as we provide ongoing support and maintenance services. We address any issues, implement updates, and enhance the app's performance based on user feedback and emerging technologies. You can rely on us to ensure the continued success and optimization of your AR application.</p>
-							</div>
-						</div>
+					<h3 class="title">50+ Expert Android Developers</h3>
+					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
+					</div>
+					<h3 class="title">Flexible Hiring Models</h3>
+					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
+					</div>
+					<h3 class="title">24/7 Technical Support</h3>
+					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid">
+					</div>
+					<h3 class="title">100% Transparency</h3>
+					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
+					</div>
+					<h3 class="title">3-Months Free Support After Delivery</h3>
+					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--Start Why Choose-->
+
+<!--Start Process-->
+<section class="process-block bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>VR App</span> Development Process</h2>
+					</div>
+					<p>AppsNation guarantees that our AR app development process is fluid, resulting in an application being developed and delivered on time.</p>
+				</div>
+				</div>
+			</div>
+			<div class="row upset justify-content-center mt30">
+				<div class="col-12 col-md-6 col-lg-4">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">01</p>
+						<h3 class="title">Project Analysis of Requirements</h3>
+						<p class="description">We assist you in choosing the most appropriate AR application with pertinent functionalities for your business by extensively studying your industry and rivals to give you a result-driven approach. Finally, we present you with a business document containing all the project information.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">02</p>
+						<h3 class="title">Wireframing & Designing</h3>
+						<p class="description">We understand the art of augmented reality and have a track record of developing successful apps that combine realistic experience design, high-quality 3D presentation, and fluid user interactions. Our UI/UX designers can create high-quality AR apps that accurately portray virtual components in a real-world setting.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">03</p>
+						<h3 class="title">App Development</h3>
+						<p class="description">Our expert team of AR app developers can help you achieve your business goals. We create highly scalable, functional, and well-optimized AR apps with experienced AR app developers from many sectors that operate remarkably well on all devices and platforms.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">04</p>
+						<h3 class="title">App Testing</h3>
+						<p class="description">We test the AR app using the most recent trends and methodology to verify that it is well-optimized and performs adequately across many platforms and devices. With extensive app testing, our superior quality assurance team ensures the integrity of the AR app, including its augmented environment.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">05</p>
+						<h3 class="title">App Deployment</h3>
+						<p class="description">Deploying your custom AR app on the right platform while adhering to the platform's stringent requirements for a successful launch is a critical component of our premium AR app development services. For marketplace publishing, our team creates the necessary paperwork, descriptions, and screenshots.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">06</p>
+						<h3 class="title">Post-launch Support and Maintenance</h3>
+						<p class="description">Our commitment extends beyond deployment as we provide ongoing support and maintenance services. We address any issues, implement updates, and enhance the app's performance based on user feedback and emerging technologies. You can rely on us to ensure the continued success and optimization of your AR application.</p>
 					</div>
 				</div>
 			</div>
@@ -540,7 +480,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Technology Stack</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
 					<p>With great technology comes a great tool stack. Therefore, we serve you with the most advanced technology and tools for VR app development.</p>
 				</div>
 			</div>
@@ -609,13 +551,35 @@
 </div>
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -655,7 +619,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>AR App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -734,14 +700,36 @@
 </section>
 <!--End Badges-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -798,33 +786,15 @@
 </section>
 <!--End Testinomial-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>
@@ -985,5 +955,61 @@
     </div>
 </section>
 <!-- End FAQS -->
+
+<!--Start Blogs-->
+<section class="blogs-section py-5">
+@if(count($data['data']) > 0)
+	<div class="container">
+		<div class="row mb100">
+			<div class="col-lg-6">
+				<div data-text="Blogs" class="light-bg-text bg-text">
+					<h2 class="mb0 common-heading">Latest Stories</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			@foreach($data['data'] as $post)
+			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
+				<div class="card h-100">
+					<a href="{{ $post['guid'] }}">
+						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+					</a>
+					<div class="entry-blog-post dg-bg2">
+						<span class="bypost-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-tag"></i> Appsnation
+							</a>
+						</span>
+						<span class="posted-on-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}
+							</a>
+						</span>
+					</div>
+					<div class="card-body">
+						<h4 class="mb-0">
+							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+			@endforeach
+			@else
+		</div>
+	</div>
+	@endif
+</section>
+
+<div class="container">
+	<div class="row mb-4 text-center wow fadeIn">
+		<div class="col-12">
+			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
+				<i class="fas fa-chevron-right fa-icon"></i>
+				<span class="circle"></span>
+			</a>
+		</div>
+	</div>
+</div>
+<!--End Blogs-->
 
 @endsection

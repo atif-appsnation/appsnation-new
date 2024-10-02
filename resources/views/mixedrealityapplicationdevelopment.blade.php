@@ -1,22 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 mr-app-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">MIXED REALITY (MR) DEVELOPMENT</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Virtual Reality (VR) and Augmented Reality (AR) are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/mr-app-development/ar-game-changer.webp" class="img-fluid" alt="Mixed Reality App Development">
 			</div>
 		</div>
 	</div>
@@ -34,8 +31,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2><span class="flup-theme">Mixed Reality (MR) Development</span> Services</h2>
+					<div data-text="MR" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our <span class="flup-theme">Mixed Reality (MR) </span>Development Services</h2>
+					</div>
 					<p>Although the concept of Mixed Reality (MR) is both exciting and promising, many businesses lack the expertise to develop this kind of technology. Fortunately, we not only have the experience, but we also understand the challenges you face and can help bring your MR project to life.</p>
 					<p>At AppsNation, we are passionate about MR to help you take advantage of it by creating experiences that blend real people with computer-generated environments. We design, engineer, and deliver for companies that need a fully immersive experience that brings products to life.</p>
 				</div>
@@ -51,7 +49,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our Mixed Reality (MR) Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our<span>Mixed Reality (MR)</span> Development Services</h2>
+					</div>
 					<p>We produce high-quality Mixed Reality (MR) experiences with our 3D and 2D visualizers. With our capabilities, you can create a diverse range of Mixed Reality experiences, a powerful blend of real-life objects, realistic environments, and computer-generated animation.</p>
 				</div>
 			</div>
@@ -60,7 +60,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-designing-img"></div>
+						<img src="images/services/mr-app-development/mixed-reality-apps-development.svg" alt="Mixed Reality Apps Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Mixed Reality Apps Development</h4>
@@ -73,7 +73,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-web-img"></div>
+						<img src="images/services/mr-app-development/mixed-reality-games-development.svg" alt="Mixed Reality Games Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Mixed Reality Games Development</h4>
@@ -86,7 +86,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-porting-img"></div>
+						<img src="images/services/mr-app-development/custom-mr-development.svg" alt="Custom MR Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom MR Development</h4>
@@ -99,7 +99,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-testing-img"></div>
+						<img src="images/services/mr-app-development/mr-support-and-maintenance.svg" alt="MR Support & Maintenance" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>MR Support & Maintenance</h4>
@@ -112,7 +112,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-consultation-img"></div>
+						<img src="images/services/mr-app-development/mixed-reality-experience-design.svg" alt="Mixed Reality Experience Design" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Mixed Reality Experience Design</h4>
@@ -125,7 +125,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-dev-consultation-img"></div>
+						<img src="images/services/mr-app-development/training-solutions.svg" alt="Training Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Training Solutions</h4>
@@ -138,7 +138,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-android-app-dev-img"></div>
+						<img src="images/services/mr-app-development/remote-assistants.svg" alt="Remote Assistants" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Remote Assistants</h4>
@@ -151,7 +151,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-multi-platform-img"></div>
+						<img src="images/services/mr-app-development/product-configurators.svg" alt="Product Configurators" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Product Configurators</h4>
@@ -164,7 +164,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-watch-img"></div>
+						<img src="images/services/mr-app-development/digital-twins.svg" alt="Digital Twins" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Digital Twins</h4>
@@ -181,14 +181,14 @@
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
+	<div class="col-lg-9">
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
 					</a>
@@ -262,11 +262,13 @@
 <!--Start Why Choose-->
 <section class="why-choose bg-gradient3 py-5">
 	<div class="container">
-		<div class="row">
+		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
+					<p class="text-white">You receive a state-of-the-art solution with a cutting-edge appeal that engages more people online when you work with professional web developers and digital artists. Under packaged web app development services, take advantage of powerful technologies and a solid architecture to create a web solution that meets your needs.</p>
 				</div>
 			</div>
 		</div>
@@ -274,81 +276,61 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
+						<img src="images/services/xr-app-development/experience.svg" alt="Experience" class="img-fluid">
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<h3 class="title">Experience</h3>
+					<p class="description">When you hire us, you receive access to our extensive experience developing sophisticated custom apps.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
+						<img src="images/services/xr-app-development/focus-on-expertise.svg" alt="Focus on Expertise" class="img-fluid">
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">Focus on Expertise</h3>
+					<p class="description">We cultivate a mobile expert culture that maintains a great commitment to stay at the forefront of our business through specialization.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
+						<img src="images/services/xr-app-development/cost-reduction.svg" alt="Cost Reduction" class="img-fluid">
 					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<h3 class="title">Cost Reduction</h3>
+					<p class="description">We offer a cost-effective way to develop excellent mobile apps thanks to our time-tested development competence and large code repository.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="technical-support"></div>
+						<img src="images/services/xr-app-development/lower-the-risk.svg" alt="Lower The Risk" class="img-fluid">
 					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<h3 class="title">Lower The Risk</h3>
+					<p class="description">We eliminate risk and give quick time-to-value to step-out into the continually shifting market by delivering quickly and efficiently.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="transparency"></div>
+						<img src="images/services/xr-app-development/reliable-and-flexile.svg" alt="Reliable and Flexile" class="img-fluid">
 					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+					<h3 class="title">Reliable and Flexile</h3>
+					<p class="description">We avoid difficulties and are adaptive to client needs by using the most up-to-date practises and technological skills.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
+						<img src="images/services/xr-app-development/one-partner-for-everyone.svg" alt="One Partner For Everyone" class="img-fluid">
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">One Partner For Everyone</h3>
+					<p class="description">Avoid costly resource onboarding and inefficiencies caused by many vendors. Our team is ready to help you with end-to-end business solutions.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--Start Why Choose-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
+<!--End Why Choose-->
 
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
@@ -356,7 +338,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>MR App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>MR App</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile mixed reality app development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -491,13 +475,35 @@
 </div> -->
 <!--End Tech-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -537,7 +543,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>MR App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -616,14 +624,36 @@
 </section>
 <!--End Badges-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -680,33 +710,15 @@
 </section>
 <!--End Testinomial-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>
@@ -816,6 +828,5 @@
     </div>
 </section>
 <!-- End FAQS -->
-
 
 @endsection

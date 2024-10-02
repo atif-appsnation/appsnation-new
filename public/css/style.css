@@ -11411,72 +11411,6 @@ i.fa-brands.fa-instagram {
     filter: invert(1);
 }
 
-.free-mobile-app-consultation {
-    background-image: url(../images/why-choose/free-mobile-app-consultation.png);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.why-choose .timeline:hover .free-mobile-app-consultation {
-    background-image: url(../images/why-choose/free-mobile-app-consultation-hover.png);
-}
-
-.expert-android-developers {
-    background-image: url(../images/why-choose/50+-expert-android-developers.png);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.why-choose .timeline:hover .expert-android-developers {
-    background-image: url(../images/why-choose/50+-expert-android-developers-hover.png);
-}
-
-.flexible-hiring-models {
-    background-image: url(../images/why-choose/flexible-hiring-models.png);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.why-choose .timeline:hover .flexible-hiring-models {
-    background-image: url(../images/why-choose/flexible-hiring-models-hover.png);
-}
-
-.technical-support {
-    background-image: url(../images/why-choose/247-technical-support.png);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.why-choose .timeline:hover .technical-support {
-    background-image: url(../images/why-choose/247-technical-support-hover.png);
-}
-
-.transparency {
-    background-image: url(../images/why-choose/100-transparency.png);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.why-choose .timeline:hover .transparency {
-    background-image: url(../images/why-choose/100-transparency-hover.png);
-}
-
-.free-delivery-support {
-    background-image: url(../images/why-choose/3-months-free-delivery.png);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.why-choose .timeline:hover .free-delivery-support {
-    background-image: url(../images/why-choose/3-months-free-delivery-hover.png);
-}
-
 .accordion-item {
     background-color: #fff;
     border-bottom: 1px solid rgba(0, 0, 0, .125);
@@ -11960,32 +11894,57 @@ i.fa-brands.fa-instagram {
     background-position: center;
 }
 
-
 /* End Web App Development */
+
+/* Start XR App Development */
+
+.xr-app-banner {
+    background: url(../images/banner/xr-app-banner.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End XR App Development */
+
+/* Start MR App Development */
+
+.mr-app-banner {
+    background: url(../images/banner/mr-app-banner.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End MR App Development */
 
 /* Start AR App Development */
 
+.ar-app-banner {
+    background: url(../images/banner/ar-app-banner.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .ar-intro-section {
-    background: url(../images/ar-app-development/ar-app-development-services.webp) no-repeat;
+    background: url(../images/services/ar-app-development/ar-app-development-services.webp) no-repeat;
     background-size: cover;
     background-position: center;
     height: 1080px;
 }
 
 .ar-choose-section {
-    background: url(../images/ar-app-development/why-choose-banner.webp) no-repeat;
+    background: url(../images/services/ar-app-development/why-choose-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .ar-game-section {
-    background: url(../images/ar-app-development/game-section-banner.webp) no-repeat;
+    background: url(../images/services/ar-app-development/game-section-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .ar-process-section {
-    background: url(../images/ar-app-development/ar-process-banner.webp) no-repeat;
+    background: url(../images/services/ar-app-development/ar-process-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }

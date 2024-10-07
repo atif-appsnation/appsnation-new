@@ -1,26 +1,20 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 industrial-automation">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">REVOLUTIONIZE YOUR WORKFLOW WITH OUR AUTOMATION SERVICES</h1>
 					<p class="mt20 my-5 text-white" data-wow-delay=".4s">Are you ready to streamline your business and unlock its full potential? Our automation solutions are here to help. Our expert technicians are dedicated to finding the right automation solutions for your unique business needs.</p>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 v-center">
-                <div class="app-hero-bnr wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
-                    <img src="images/services/industrial-automation/industrial-automation-banner-img.png" alt="app development company" class="img-fluid d-block mx-auto">
-                </div>
-            </div>
 		</div>
 	</div>
 </section>
@@ -37,8 +31,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2><span class="flup-theme">Automation </span> Made Simple </h2>
+					<div data-text="Automation" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">Industrial Automation</span> Development Services</h2>
+					</div>
 					<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer. Take the first step towards a more efficient, productive future with our automation services.</p>
 				</div>
 			</div>
@@ -221,7 +216,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our Emergency Service Capabilities</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our <span>Emergency Service</span> </h2>
+					</div>
 					<p>AppsNation Industrial Automation development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
@@ -435,7 +432,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">We specialize in enhancing your production efficiency with advanced automation solutions, leveraging cutting-edge technologies such as IoT, AI, and Machine Learning.	</p>
 				</div>
 			</div>
@@ -444,7 +443,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
 					</div>
 					<h3 class="title">Free Consultation Services</h3>
 					<p class="description">With Industrial Automation Experts, you can receive a complimentary consultation to identify the best automation solutions for your needs.</p>
@@ -453,7 +452,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
 					</div>
 					<h3 class="title">Experienced Automation Engineers</h3>
 					<p class="description">Unlock your potential with our team of expert engineers skilled in the latest automation technologies.</p>
@@ -462,7 +461,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
 					</div>
 					<h3 class="title">Flexible Project Engagements</h3>
 					<p class="description">We offer adaptable engagement models, catering to businesses of all sizes with customized pricing packages.</p>
@@ -471,7 +470,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="technical-support"></div>
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Our dedicated support team is available around the clock to address any issues and ensure smooth operations.</p>
@@ -480,7 +479,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="transparency"></div>
+						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid">
 					</div>
 					<h3 class="title">Transparent Operations</h3>
 					<p class="description">We prioritize transparency, keeping you informed at every step to build trust and ensure satisfaction.</p>
@@ -489,7 +488,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
+						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
 					</div>
 					<h3 class="title">3-Months Free Maintenance Post-Delivery</h3>
 					<p class="description">Enjoy peace of mind with three months of free maintenance after project completion, ensuring the sustained performance of our solutions.</p>
@@ -506,7 +505,9 @@
 		<div class="row">
 			<div class="col-126">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Industrial Automation</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Industrial Automation</span> Development Process</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile Industrial Automation development process with a result-driven ideology.</p>
 				</div>
 			</div>
@@ -566,7 +567,9 @@
        <div class="row justify-content-center">
            <div class="col-lg-8 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
                <div class="common-heading">
-                   <h2 class="common-heading mb10 text-center">Our Work</h2>
+			   		<div data-text="Work" class="light-bg-text bg-text mt-5">
+						<h2>Our Work</h2>
+					</div>
                    <p class="text-center">AppsNation resolves your tech problems through their huge channel of services and solutions with our extremely experienced and professional team. We are serving our valuable clients to see their concepts and assumptions. Our services are to produce you the best Web and App solutions in a very innovative and inventive manner.</p>
                 </div>
             </div>
@@ -802,7 +805,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+						<h2 class="text-white">Ranked as #1 <span>Industrial Automation</span> Development Company</h2>
 					</div>
 				</div>
 			</div>
@@ -974,7 +977,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

@@ -28,7 +28,7 @@
 			<div class="col-lg-7 block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
 					<div data-text="AR" class="light-bg-text bg-text">
-						<h2>Scale-Up With Our <span class="flup-theme">Augumented Reality (XR) </span>Development Services</h2>
+						<h2>Scale-Up With Our <span class="flup-theme">Augumented Reality (AR) </span>Development Services</h2>
 					</div>
 					<p><strong>Ignite your business reality with highly interactive AR apps to solve complex problems and enhance brand loyalty. </strong></p>
 					<p>AppsNation is a famous company for producing best-in-industry custom Augmented Reality apps for various niches. We create AR apps across different platforms that convert and boost leads and sales with robust functionality and appealing designs. </p>
@@ -45,154 +45,6 @@
 </section>
 <!--End About-->
 
-<!--Start Service-->
-<section class="service-block py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag">
-					<div data-text="Our Services" class="light-bg-text bg-text">
-						<h2>Our<span>Augument Reality (AR)</span> Development Services</h2>
-					</div>
-					<p class="mb30">Own an interactive AR app for your consumers to have an interactive experience of your business and maximize customer engagement.</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow">
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>AR Apps For Android & iOS</h2>
-					<p>We are proficient in powering up Android and iOS with a stimulating technology of AR to empower businesses with a new trend of marketing and engagement.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>Marker-based Augmented Reality Apps</h2>
-					<p>Offer your users a simulating experience of your product/service with a marker-based AR app that transforms the 3D object into real-life material by pointing the camera to a QR code.</p>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow">
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow">
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>Markerless Augmented Reality Apps</h2>
-					<p>Power up your user experience with a markerless AR app that works through a link or AR option within the app developed by our professional AR app developers.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>E-Commerce AR Integration</h2>
-					<p>Transform your e-commerce store by implementing AR technology for the consumers to experience shopping in an augmented environment.</p>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow">
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow">
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>AR Game App Development</h2>
-					<p>Be the trend like Pokémon GO did with our outstanding AR game app development services for the simplest and even the most complex game stories.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>AR Support & Maintenance</h2>
-					<p>We offer reliable and sustainable AR app support and maintenance services to ensure the app flawlessly delivers its purpose and functionality.</p>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow">
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow">
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>Superimposition-based AR</h2>
-					<p>Leverage the object recognition in superimposition-based AR app to replace the source picture with an augmented view to help consumers make the right choice of the product.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>Recognition-based AR</h2>
-					<p>We create highly responsive recognition-based AR apps with faultless functionality to deliver a seamless user experience of Augmented Reality to the audience.</p>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow">
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow">
-				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>Projection-based AR</h2>
-					<p>We design and build intuitive projection-based AR apps for industries to leverage and make learning, analyzing, and other processes simpler and smoother.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-3">
-			<div class="col-lg-6 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<h2>Location-based AR</h2>
-					<p>We develop the most precise location-based AR apps to enable your business to track consumers accurately to deliver them the right offers.</p>
-				</div>
-			</div>
-			<div class="col-lg-6 wow fadeIn">
-				<div class="image-block">
-					<img src="images/services/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow">
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Service-->
-
 <!--Start Games-->
 <section class="service-block py-5 ar-game-section">
 	<div class="container">
@@ -202,11 +54,13 @@
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
 				<div class="row wow fadeIn">
-					<div class="ptag text-center">
-					    <h2 class="text-white pt-3">AR Games Development Services</h2>
+					<div class="ptag common-heading">
+						<div data-text="AR Games" class="dark-bg-text bg-text">
+							<h2 class="text-white">Our <span>AR Games</span> Development Services</h2>
+						</div>
 					</div>
 				</div>
-				<div class="row mt-3 wow fadeIn">
+				<div class="row mt80 wow fadeIn">
                     <div class="col-md-4 game-development-col">
                         <img src="images/services/ar-app-development/ar-action.webp" alt="AR Action" class="img-fluid">
                         <p class="center-text">AR Action<p>
@@ -258,6 +112,212 @@
 </section>
 <!--End Games-->
 
+<!--Start Service-->
+<section class="service-block py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our <span>Augument Reality (AR)</span> Development Services</h2>
+					</div>
+					<p class="mb30">Own an interactive AR app for your consumers to have an interactive experience of your business and maximize customer engagement.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="row mt-5">
+			<div class="col-12">
+				<ul class="nav nav-pills justify-content-center ar-pills">
+					<li class="nav-item">
+						<a class="nav-link active" data-bs-toggle="pill" href="#apps">AR Apps</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#marker">Marker</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#markerless">Markerless</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#ecommerce">E-commerce</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#game">AR Game</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#support">AR Support</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#superimposition">Superimposition</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#recognition">Recognition</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#projection">Projection</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#location">Location</a>
+					</li>
+				</ul>
+				<div class="tab-content mt-5">
+					<div class="tab-pane active" id="apps">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>AR Apps For Android & iOS</h2>
+									<p>We are proficient in powering up Android and iOS with a stimulating technology of AR to empower businesses with a new trend of marketing and engagement.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="marker">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>Marker-based Augmented Reality Apps</h2>
+									<p>Offer your users a simulating experience of your product/service with a marker-based AR app that transforms the 3D object into real-life material by pointing the camera to a QR code.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="markerless">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>Markerless Augmented Reality Apps</h2>
+									<p>Power up your user experience with a markerless AR app that works through a link or AR option within the app developed by our professional AR app developers.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="ecommerce">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>E-Commerce AR Integration</h2>
+									<p>Transform your e-commerce store by implementing AR technology for the consumers to experience shopping in an augmented environment.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="game">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>AR Game App Development</h2>
+									<p>Be the trend like Pokémon GO did with our outstanding AR game app development services for the simplest and even the most complex game stories.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade" id="support">
+						<div class="row mt-3">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>AR Support & Maintenance</h2>
+									<p>We offer reliable and sustainable AR app support and maintenance services to ensure the app flawlessly delivers its purpose and functionality.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade" id="superimposition">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>Superimposition-based AR</h2>
+									<p>Leverage the object recognition in superimposition-based AR app to replace the source picture with an augmented view to help consumers make the right choice of the product.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade" id="recognition">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>Recognition-based AR</h2>
+									<p>We create highly responsive recognition-based AR apps with faultless functionality to deliver a seamless user experience of Augmented Reality to the audience.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade" id="projection">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>Projection-based AR</h2>
+									<p>We design and build intuitive projection-based AR apps for industries to leverage and make learning, analyzing, and other processes simpler and smoother.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade" id="location">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="image-block">
+									<img src="images/services/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow">
+								</div>
+							</div>
+							<div class="col-lg-6 block-1 my-auto">
+								<div class="common-heading text-l pl25">
+									<h2>Location-based AR</h2>
+									<p>We develop the most precise location-based AR apps to enable your business to track consumers accurately to deliver them the right offers.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Service-->
+
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
@@ -281,8 +341,12 @@
 			</div>
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Creative AR App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<div class="common-heading ptag">
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>AR App</span> Development Agency</h2>
+					</div>
+					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				</div>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -358,16 +422,16 @@
 					<div class="timeline-year">
 						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
 					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
+					<h3 class="title">Free AR App Consultation</h3>
 					<p class="description">With AppsNation, you can consult your way to success for free.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ AR App Developers" class="img-fluid">
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
+					<h3 class="title">50+ AR App Developers</h3>
 					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
 				</div>
 			</div>
@@ -419,7 +483,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>VR App</span> Development Process</h2>
+						<h2>Our <span>AR App</span> Development Process</h2>
 					</div>
 					<p>AppsNation guarantees that our AR app development process is fluid, resulting in an application being developed and delivered on time.</p>
 				</div>

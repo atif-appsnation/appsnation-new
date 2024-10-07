@@ -2,7 +2,7 @@
 @section('content')
 
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 wearable-app-banner">
 @if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/wearable-app-development/wearables-app-banner-img.webp" class="img-fluid" alt="Wearable App Development">
+				<img src="images/services/wearable-app-development/wearables-app-banner-img.webp" class="img-fluid" alt="Wearable App Development">
 			</div>
 		</div>
 	</div>
@@ -30,12 +30,14 @@
 		<div class="row">
 			<div class="col-lg-5 my-auto wow fadeIn">
 				<div class="image-block">
-					<img src="images/wearable-app-development/wearable-app-development.webp" alt="Wearable App Development" class="img-fluid no-shadow" />
+					<img src="images/services/wearable-app-development/wearable-app-development.webp" alt="Wearable App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
-					<h2>Affordable Solutions For <br> <span>Wearables App Development</span></h2>
+					<div data-text="Wearables" class="light-bg-text bg-text">
+						<h2>Affordable Solutions For<br> <span class="flup-theme">Wearables App</span> Development Services</h2>
+					</div>
 					<p><strong>Wearable technology has served success to 79% of businesses that have implemented it.</strong></p>
 					<p>Rapid technical breakthroughs have resulted in extraordinary innovation. Dive into the innovation to stay ahead of the curve. Wearable are intelligent devices similar to our mobile phones but not for entertainment. Instead, they serve humankind as fitness tracking and health monitoring devices with maximum mobility.</p>
 					<p>Wearables Technology is beyond health and fitness, and it has become the standard of living. No matter what industry you lie in, you can flourish it to offer consumers a more immersive user experience. Fulfil your desire to strengthen customer touchpoints through 1:1 interaction with our expert wearables device app development services. AppsNation design and develop feature-rich bespoke wearable device apps with custom integrations and sensors that will serve customers and enrich your workforce.</p>
@@ -52,7 +54,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2><span>Wearable Devices App</span> Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our Unrivaled <span>Wearable Devices App</span> Development Services</h2>
+					</div>
 					<p>Step into the technological revolution to stand out in the competition and thrive in the digital world with intelligent apps for wearable devices.</p>
 				</div>
 			</div>
@@ -61,7 +65,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-wearable-device-img"></div>
+						<img src="images/services/wearable-app-development/custom-wearable-device-app-development.svg" alt="Custom Wearable Device App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Custom Wearable Device App Development</h4>
@@ -74,7 +78,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="wearable-app-design-img"></div>
+						<img src="images/services/wearable-app-development/wearable-app-ui-ux-design.svg" alt="Wearable App UI/UX Design" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Wearable App UI/UX Design</h4>
@@ -87,7 +91,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-wearable-img"></div>
+						<img src="images/services/wearable-app-development/android-wearable-app-development.svg" alt="Android Wearable App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Android Wearable App Development</h4>
@@ -100,7 +104,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="apple-watch-app-img"></div>
+						<img src="images/services/wearable-app-development/apple-watch-application-development.svg" alt="Apple Watch Application Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Apple Watch Application Development</h4>
@@ -113,7 +117,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="iot-wearable-app-img"></div>
+						<img src="images/services/wearable-app-development/iot-based-werable-app-development.svg" alt="IoT based Wearable App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT based Wearable App Development</h4>
@@ -126,7 +130,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="augmented-reality-app-img"></div>
+						<img src="images/services/wearable-app-development/augument-reality-app-development.svg" alt="Augmented Reality App Development for Wearables" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Augmented Reality App Development for Wearables</h4>
@@ -139,7 +143,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="wearable-apps-comp-img"></div>
+						<img src="images/services/wearable-app-development/wearables-apps-compatibility-testing.svg" alt="Wearable Apps Compatibility Testing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Wearable Apps Compatibility Testing</h4>
@@ -152,7 +156,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="recreating-apps-img"></div>
+						<img src="images/services/wearable-app-development/recreating-existing-apps.svg" alt="Recreating Existing Apps for Wearables" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Recreating Existing Apps for Wearables</h4>
@@ -165,7 +169,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="maintenance-and-support-img"></div>
+						<img src="images/services/wearable-app-development/maintenance-and-support.svg" alt="Maintenance and Support" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Maintenance and Support</h4>
@@ -186,7 +190,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Wearables App Development</span> Core Expertise </h2>
+					<div data-text="Our Expertise" class="light-bg-text bg-text">
+						<h2>Our <span>Wearables App Development</span> Core Expertise</h2>
+					</div>
 					<p class="mb30">Leading Wearables Device App Development Services With Extensive Expertise. We are a leading wearable app development company, offering undeniable benefits to our clients with a fantastic wearable device app.</p>
 				</div>
 			</div>
@@ -195,12 +201,12 @@
 	<div class="row mt-5">
 		<div class="col-lg-6">
 			<div class="image-block wow fadeIn">
-				<img src="images/wearable-app-development/smart-band-apps.webp" alt="Smart Band Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/smart-band-apps.webp" alt="Smart Band Apps" class="img-fluid no-shadow" />
 			</div>
 		</div>
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
 			<div class="common-heading text-l pl25">
-				<h3>Smart Band Apps</h3>
+				<h2>Smart Band Apps</h2>
 				<p>We design and develop reliable and immersive smart band apps for accurate monitoring of health and fitness conditions.</p>
 			</div>
 		</div>
@@ -208,25 +214,25 @@
 	<div class="row mt-5">
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
 			<div class="common-heading text-l pl25">
-				<h3>Apple Watch Apps</h3>
+				<h2>Apple Watch Apps</h2>
 				<p>Our watchOS experts build Apple Watch apps with bespoke functionalities and features with a user-friendly design.</p>
 			</div>
 		</div>
 		<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
 			<div class="image-block wow fadeIn">
-				<img src="images/wearable-app-development/apple-watch-apps.webp" alt="Apple Watch Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/apple-watch-apps.webp" alt="Apple Watch Apps" class="img-fluid no-shadow" />
 			</div>
 		</div>
 	</div>
 	<div class="row mt-5">
 		<div class="col-lg-6">
 			<div class="image-block wow fadeIn">
-				<img src="images/wearable-app-development/google-glass-apps.webp" alt="Google Glass Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/google-glass-apps.webp" alt="Google Glass Apps" class="img-fluid no-shadow" />
 			</div>
 		</div>
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
 			<div class="common-heading text-l pl25">
-				<h3>Google Glass Apps</h3>
+				<h2>Google Glass Apps</h2>
 				<p>We have our hands on the latest technology of Google Glass to create the supporting apps for your business.</p>
 			</div>
 		</div>
@@ -234,25 +240,25 @@
 	<div class="row mt-5">
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
 			<div class="common-heading text-l pl25">
-				<h3>Virtual Reality Apps</h3>
+				<h2>Virtual Reality Apps</h2>
 				<p>We create amazing VR apps for businesses to leverage Oculus Quest, HTC Vive, Valve Index, and other VR platforms.</p>
 			</div>
 		</div>
 		<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
 			<div class="image-block wow fadeIn">
-				<img src="images/wearable-app-development/virtual-reality-apps.webp" alt="Virtual Reality Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/virtual-reality-apps.webp" alt="Virtual Reality Apps" class="img-fluid no-shadow" />
 			</div>
 		</div>
 	</div>
 	<div class="row mt-5">
 		<div class="col-lg-6">
 			<div class="image-block wow fadeIn">
-				<img src="images/wearable-app-development/iot-wearable-apps.webp" alt="IoT Wearable Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/iot-wearable-apps.webp" alt="IoT Wearable Apps" class="img-fluid no-shadow" />
 			</div>
 		</div>
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
 			<div class="common-heading text-l pl25">
-				<h3>IoT Wearable Apps</h3>
+				<h2>IoT Wearable Apps</h2>
 				<p>Grow your business with an intuitive IoT wearable app that supports every device and operating system.</p>
 			</div>
 		</div>
@@ -260,13 +266,13 @@
 	<div class="row mt-5">
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
 			<div class="common-heading text-l pl25">
-				<h3>Wearable Payment App</h3>
+				<h2>Wearable Payment App</h2>
 				<p>Introduce the easiest and quickest payment method to your business with our wearable payment apps development.</p>
 			</div>
 		</div>
 		<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
 			<div class="image-block wow fadeIn">
-				<img src="images/wearable-app-development/wearable-payment-app.webp" alt="Wearable Payment App" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/wearable-payment-app.webp" alt="Wearable Payment App" class="img-fluid no-shadow" />
 			</div>
 		</div>
 	</div>
@@ -297,7 +303,9 @@
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Creative <span>Wearable App</span> Development Agency</h2>
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>Wearable App</span> Development Agency</h2>
+					</div>
 				</div>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -362,7 +370,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">We are a leading wearable app development company, offering undeniable benefits to our clients with a fantastic wearable device app.</p>
 				</div>
 			</div>
@@ -457,7 +467,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Wearable App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Wearable App</span> Development Process</h2>
+					</div>
 					<p>We offer a seamless wearable app development process to upscale your software abilities with our wearable devices app developers.</p>
 				</div>
 			</div>
@@ -591,7 +603,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+						<h2 class="text-white">Ranked as #1 <span>Wearables App</span> Development Company</h2>
 					</div>
 				</div>
 			</div>
@@ -763,7 +775,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

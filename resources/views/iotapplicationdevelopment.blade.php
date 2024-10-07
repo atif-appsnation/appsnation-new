@@ -2,22 +2,19 @@
 @section('content')
 
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 iot-app-banner">
 @if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">IoT App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Enrich your brand’s mobility with a wearable app running across various wearables and connectivity with multi-platform devices - responsive, fast, and visually appealing.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/iot-app-development/iot-app-banner-img.webp" class="img-fluid" alt="IoT App Development">
 			</div>
 		</div>
 	</div>
@@ -30,12 +27,14 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/iot-app-development/iot-app-development.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/iot-app-development/iot-app-development.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Appreciation From Client</h2>
+					<div data-text="IoT" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">IoT App</span> Development Services</h2>
+					</div>
 					<p><strong>"They have a thorough understanding of IoT and are well-versed in the most up-to-date techniques and technologies."</strong></p>
 					<p>We are fortunate that we were able to locate them. They've been fantastic partners in terms of supporting us and assisting us in locating exactly what we wanted. They created a great and well-researched strategy for app promotion.</p>
 					<p>Working with them gives you access to a large team while still receiving customized attention. Anyone who has the chance should take advantage of it.</p>
@@ -52,7 +51,9 @@
 		<div class="row justify-content-center">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>IoT App Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our Unrivaled <span>IoT App</span> Services</h2>
+					</div>
 					<p>IoT software development company can help you start a revolution in the IoT arena and accelerate business growth and progress. Utilize the power of our IoT solutions to create a digital bridge between machines and people through the convergence of innovative technologies.</p>
 				</div>
 			</div>
@@ -172,7 +173,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="iot-data-img"></div>
 					</div>
@@ -185,7 +186,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="iot-module-img"></div>
 					</div>
@@ -198,7 +199,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="iot-imp-sup-img"></div>
 					</div>
@@ -211,7 +212,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="iot-architecture-eco-img"></div>
 					</div>
@@ -224,7 +225,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="user-exp-img"></div>
 					</div>
@@ -237,7 +238,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="testing-maint-img"></div>
 					</div>
@@ -250,7 +251,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="industrial-iot-sol-img"></div>
 					</div>
@@ -263,7 +264,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="iomt-solutions-img"></div>
 					</div>
@@ -276,7 +277,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="iot-cloud-sol-img"></div>
 					</div>
@@ -289,7 +290,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border ">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="voice-enabled-img"></div>
 					</div>
@@ -302,7 +303,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card home-services gradient-border">
+				<div class="service-card gradient-border">
 					<div class="services-img-div">
 						<div class="api-dev-imp-img"></div>
 					</div>
@@ -343,7 +344,9 @@
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0">
 				<div class="common-heading ptag">
-					<h2>Creative <span>IoT App</span> Development Agency</h2>
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>IoT App</span> Development Agency</h2>
+					</div>
 				</div>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -408,7 +411,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">By creating exceptional digital goods, platforms, and top-notch IoT-based services, we have changed the IoT sector. Trust us to create an IoT ecosystem for your company that links people, equipment, and processes to help you run your business more efficiently. Data will be turned into actionable insights by an IoT integrated system, which will empower your organization with automated tasks and real-time data.</p>
 				</div>
 			</div>
@@ -503,7 +508,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>iOT App</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>iOT App</span> Development Process</h2>
+					</div>
 					<p>We offer a seamless wearable app development process to upscale your software abilities with our wearable devices app developers.</p>
 				</div>
 			</div>
@@ -592,7 +599,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading">
-					<h2 class="mb30">Technologies we work with</h2>
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technologies We Work With</h2>
+					</div>
 					<p>A solid and high-performance IoT application takes a significant amount of time and money with expertise to design. As a result, it's critical to check whether the app's features are compatible with your requirements. To apprehend and develop a connected and smart device, IoT developers only uses the most recent stack.</p>
 				</div>
 			</div>
@@ -812,7 +821,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+						<h2 class="text-white">Ranked as #1 <span>IoT App</span> Development Company</h2>
 					</div>
 				</div>
 			</div>
@@ -984,7 +993,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

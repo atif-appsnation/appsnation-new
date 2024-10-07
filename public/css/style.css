@@ -11941,6 +11941,8 @@ i.fa-brands.fa-instagram {
     background: url(../images/services/ar-app-development/game-section-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    position: relative;
+    z-index: 1;
 }
 
 .ar-process-section {
@@ -11949,31 +11951,50 @@ i.fa-brands.fa-instagram {
     background-attachment: fixed;
 }
 
+.ar-pills .nav-link {
+    color: var(--first-color);
+    background-color: transparent;
+    margin-right: 8px;
+}
+
+.ar-pills .nav-link:focus, .ar-pills .nav-link:hover {
+    color: var(--white-color);
+    background-color: var(--first-color);
+}
+
 /* End AR App Development */
 
 /* Start VR App Development */
 
+.vr-app-banner {
+    background: url(../images/banner/vr-app-banner.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .vr-intro-section {
-    background: url(../images/vr-app-development/vr-app-development-services.webp) no-repeat;
+    background: url(../images/services/vr-app-development/vr-app-development-services.webp) no-repeat;
     background-size: cover;
     background-position: center;
     height: 1080px;
 }
 
 .vr-choose-section {
-    background: url(../images/vr-app-development/why-chooser-banner.webp) no-repeat;
+    background: url(../images/services/vr-app-development/why-chooser-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .vr-game-section {
-    background: url(../images/vr-app-development/game-section-banner.webp) no-repeat;
+    background: url(../images/services/vr-app-development/game-section-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    position: relative;
+    z-index: 1;
 }
 
 .vr-process-section {
-    background: url(../images/vr-app-development/vr-process-banner.webp) no-repeat;
+    background: url(../images/services/vr-app-development/vr-process-banner.webp) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -12010,453 +12031,45 @@ ul.list {
 
 /* End XR App Development */
 
+/* Start Connected Devices */
+
+.connected-devices-banner {
+    background: url(../images/banner/connect-devices-banner.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End Connected Devices */
+
 /* Start IoT App Development */
 
-.iot-consulting-img {
-    background-image: url(../images/iot-app-development/iot-cloud-solutions.webp);
+.iot-app-banner {
+    background: url(../images/banner/iot-app-banner.webp) no-repeat;
     background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .iot-consulting-img {
-    background-image: url(../images/iot-app-development/iot-cloud-solutions-hover.webp);
-}
-
-.poc-prototype-dev-img {
-    background-image: url(../images/iot-app-development/poc-and-prototype-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .poc-prototype-dev-img {
-    background-image: url(../images/iot-app-development/poc-and-prototype-development-hover.webp);
-}
-
-.iot-firmware-img {
-    background-image: url(../images/iot-app-development/iot-firmware-development-and-integration.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .iot-firmware-img {
-    background-image: url(../images/iot-app-development/iot-firmware-development-and-integration-hover.webp);
-}
-
-.iot-mobile-web-img {
-    background-image: url(../images/iot-app-development/iot-mobile-and-web-apps.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .iot-mobile-web-img {
-    background-image: url(../images/iot-app-development/iot-mobile-and-web-apps-hover.webp);
-}
-
-.ip-product-img {
-    background-image: url(../images/iot-app-development/ip-product-development-and-integration.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .ip-product-img {
-    background-image: url(../images/iot-app-development/ip-product-development-and-integration-hover.webp);
-}
-
-.iot-wearable-apps-img {
-    background-image: url(../images/iot-app-development/iot-wearable-apps.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .iot-wearable-apps-img {
-    background-image: url(../images/iot-app-development/iot-wearable-apps-hover.webp);
-}
-
-.iot-architecture-img {
-    background-image: url(../images/iot-app-development/iot-architecture-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .iot-architecture-img {
-    background-image: url(../images/iot-app-development/iot-architecture-development-hover.webp);
-}
-
-.backend-api-img {
-    background-image: url(../images/iot-app-development/backend-and-api-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .backend-api-img {
-    background-image: url(../images/iot-app-development/backend-and-api-development-hover.webp);
-}
-
-.iot-data-img {
-    background-image: url(../images/iot-app-development/iot-data-analysis.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .iot-data-img {
-    background-image: url(../images/iot-app-development/iot-data-analysis-hover.webp);
-}
-
-.iot-module-img {
-    background-image: url(../images/iot-app-development/iot-module-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .iot-module-img {
-    background-image: url(../images/iot-app-development/iot-module-development-hover.webp);
-}
-
-.iot-imp-sup-img{
-    background-image: url(../images/iot-app-development/iot-implementation-and-support.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .iot-imp-sup-img {
-    background-image: url(../images/iot-app-development/iot-implementation-and-support-hover.webp);
-}
-
-.iot-architecture-eco-img {
-    background-image: url(../images/iot-app-development/iot-architecture-for-connected-eco-system.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .iot-architecture-eco-img {
-    background-image: url(../images/iot-app-development/iot-architecture-for-connected-eco-system-hover.webp);
-}
-
-.user-exp-img {
-    background-image: url(../images/iot-app-development/user-experience-for-iot.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .user-exp-img {
-    background-image: url(../images/iot-app-development/user-experience-for-iot-hover.webp);
-}
-
-.testing-maint-img {
-    background-image: url(../images/iot-app-development/testing-and-maintenance.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .testing-maint-img{
-    background-image: url(../images/iot-app-development/testing-and-maintenance-hover.webp);
-}
-
-.industrial-iot-sol-img {
-    background-image: url(../images/iot-app-development/industrial-lot-solutions.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .industrial-iot-sol-img {
-    background-image: url(../images/iot-app-development/industrial-lot-solutions-hover.webp);
-}
-
-.iomt-solutions-img {
-    background-image: url(../images/iot-app-development/iomt-solutions.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .iomt-solutions-img {
-    background-image: url(../images/iot-app-development/iomt-solutions-hover.webp);
-}
-
-.iot-cloud-sol-img {
-    background-image: url(../images/iot-app-development/iot-cloud-solutions.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .iot-cloud-sol-img {
-    background-image: url(../images/iot-app-development/iot-cloud-solutions-hover.webp);
-}
-
-.voice-enabled-img {
-    background-image: url(../images/iot-app-development/voice-enabled-technology-solutions.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .voice-enabled-img {
-    background-image: url(../images/iot-app-development/voice-enabled-technology-solutions-hover.webp);
-}
-
-.api-dev-imp-img {
-    background-image: url(../images/iot-app-development/api-development-and-integration.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card:hover .api-dev-imp-img {
-    background-image: url(../images/iot-app-development/api-development-and-integration-hover.webp);
-}
-
-.effect-cont-comm-img {
-    background-image: url(../images/iot-app-development/effective-and-continuous-communication.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .effect-cont-comm-img {
-    background-image: url(../images/iot-app-development/effective-and-continuous-communication-hover.webp);
-}
-
-.delivered-on-time-img {
-    background-image: url(../images/iot-app-development/excellent-quality-delivered-on-time.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .delivered-on-time-img {
-    background-image: url(../images/iot-app-development/excellent-quality-delivered-on-time-hover.webp);
-}
-
-.experienced-team-img {
-    background-image: url(../images/iot-app-development/experienced-team.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .experienced-team-img {
-    background-image: url(../images/iot-app-development/experienced-team-hover.webp);
-}
-
-.absolute-support-img {
-    background-image: url(../images/iot-app-development/absolute-support.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .absolute-support-img {
-    background-image: url(../images/iot-app-development/absolute-support.webp);
-}
-
-.complete-technical-img {
-    background-image: url(../images/iot-app-development/complete-technical-competency.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .complete-technical-img {
-    background-image: url(../images/iot-app-development/complete-technical-competency.webp);
-}
-
-.full-confidential-img {
-    background-image: url(../images/iot-app-development/full-confidentiality.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .full-confidential-img {
-    background-image: url(../images/iot-app-development/full-confidentiality.webp);
+    background-position: center;
 }
 
 /* End IoT App Development */
 
 /* Start Wearable App Development */
 
-.custom-wearable-device-img {
-    background-image: url(../images/wearable-app-development/custom-wearable-device-app-development.webp);
+.wearable-app-banner {
+    background: url(../images/banner/wearable-app-banner.webp) no-repeat;
     background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .custom-wearable-device-img {
-    background-image: url(../images/wearable-app-development/custom-wearable-device-app-development-hover.webp);
-}
-
-.wearable-app-design-img {
-    background-image: url(../images/wearable-app-development/wearable-app-ui-ux-design.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .wearable-app-design-img {
-    background-image: url(../images/wearable-app-development/wearable-app-ui-ux-design-hover.webp);
-}
-
-.android-wearable-img {
-    background-image: url(../images/wearable-app-development/android-wearable-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .android-wearable-img {
-    background-image: url(../images/wearable-app-development/android-wearable-app-development-hover.webp);
-}
-
-.apple-watch-app-img {
-    background-image: url(../images/wearable-app-development/apple-watch-application-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .apple-watch-app-img {
-    background-image: url(../images/wearable-app-development/apple-watch-application-development-hover.webp);
-}
-
-.iot-wearable-app-img {
-    background-image: url(../images/wearable-app-development/iot-based-wearable-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .iot-wearable-app-img {
-    background-image: url(../images/wearable-app-development/iot-based-wearable-app-development-hover.webp);
-}
-
-.augmented-reality-app-img {
-    background-image: url(../images/wearable-app-development/augmented-reality-app-development-for-wearables.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .augmented-reality-app-img {
-    background-image: url(../images/wearable-app-development/augmented-reality-app-development-for-wearables-hover.webp);
-}
-
-.wearable-apps-comp-img {
-    background-image: url(../images/wearable-app-development/wearable-apps-compatibility-testing.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .wearable-apps-comp-img {
-    background-image: url(../images/wearable-app-development/wearable-apps-compatibility-testing-hover.webp);
-}
-
-.recreating-apps-img {
-    background-image: url(../images/wearable-app-development/recreating-existing-apps-for-wearables.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .recreating-apps-img {
-    background-image: url(../images/wearable-app-development/recreating-existing-apps-for-wearables-hover.webp);
-}
-
-.maintenance-and-support-img {
-    background-image: url(../images/wearable-app-development/maintenance-and-support.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .maintenance-and-support-img {
-    background-image: url(../images/wearable-app-development/maintenance-and-support-hover.webp);
-}
-
-.comprehensive-experties-img {
-    background-image: url(../images/wearable-app-development/comprehensive-expertise.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .comprehensive-experties-img {
-    background-image: url(../images/wearable-app-development/comprehensive-expertise-hover.webp);
-}
-
-.extensive-versatility-img {
-    background-image: url(../images/wearable-app-development/extensive-versatility.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .extensive-versatility-img {
-    background-image: url(../images/wearable-app-development/extensive-versatility-hover.webp);
-}
-
-.cross-device-img {
-    background-image: url(../images/wearable-app-development/cross-device-capability.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .cross-device-img {
-    background-image: url(../images/wearable-app-development/cross-device-capability-hover.webp);
-}
-
-.cross-industry-img {
-    background-image: url(../images/wearable-app-development/cross-industry-experience.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .cross-industry-img {
-    background-image: url(../images/wearable-app-development/cross-industry-experience-hover.webp);
-}
-
-.competitive-delivery-img {
-    background-image: url(../images/wearable-app-development/competitive-pricing-and-timely-delivery.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .competitive-delivery-img {
-    background-image: url(../images/wearable-app-development/competitive-pricing-and-timely-delivery-hover.webp);
-}
-
-.bug-free-img {
-    background-image: url(../images/wearable-app-development/bug-free-wearable-app-development.webp);
-    background-size: cover;
-    width: 40px;
-    height: 40px;
-}
-
-.service-card-app:hover .bug-free-img {
-    background-image: url(../images/wearable-app-development/bug-free-wearable-app-development-hover.webp);
+    background-position: center;
 }
 
 /* End Wearable App Development */
+
+/* Start Industrial Automation */
+
+.industrial-automation {
+    background: url(../images/banner/industrial-automation-banner.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End Industrial Automation */
 
 /* Start 2D Art */
 

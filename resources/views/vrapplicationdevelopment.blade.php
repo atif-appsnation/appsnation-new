@@ -9,15 +9,12 @@
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Virtual Reality – VR App Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Level up your marketing game and enrich consumer experience with our reliable Virtual Reality (VR) apps development services.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/vr-app-development/vr-app-banner-img.webp" class="img-fluid" alt="VR App Development">
 			</div>
 		</div>
 	</div>
@@ -30,7 +27,9 @@
 		<div class="row">
 			<div class="col-lg-7 block-1 wow fadeIn">
 				<div class="common-heading text-l pl25">
-					<h2>BEST-IN-CLASS <br> <span class="flup-theme">VR App Development Services</span></h2>
+					<div data-text="VR" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our <span class="flup-theme">Virtual Reality (VR) </span>Development Services</h2>
+					</div>
 					<p><strong>Accelerate your digitalization efforts on the strategic and phased road to industry 4.0 reality.</strong></p>
 					<p>AppsNation is a leading Virtual Reality (VR) app development company that transforms your ideas into reality by implementing powerful AI and AR with VR. The byproduct created is robust and offers an indistinctive and immersive experience that cannot be different from reality.</p>
 					<p>We are highly tech-savvy; therefore, we experimented and created result-driven VR apps since the technology showed up. Our years of hands-on experience developing VR apps have enabled us to be at the top. We strive to serve every industry with bespoke VR, AR, and AI solutions and witness how these impactful technologies save the business. Unleash the true potential by offering customers an immersive experience of your outstanding business to boost sales eventually.</p>
@@ -38,7 +37,7 @@
 			</div>
 			<div class="col-lg-5 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/vr-app-development/vr-app-development.webp" alt="VR App Development" class="img-fluid no-shadow" />
+					<img src="images/services/vr-app-development/vr-app-development.webp" alt="VR App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -46,267 +45,64 @@
 </section>
 <!--End About-->
 
-<!--Start Why Choose-->
-<section class="service-block py-5 vr-choose-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2 class="text-white">Why Choose AppsNation</h2>
-					<p class="text-white">We help you overcome the most challenging difficulties in AR, such as object/scene identification, occlusion, and content production and management.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<div class="timeline-centered">
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/vr-app-development/free-vr-app-consultation.webp" alt="Free VR App Consultation" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">Free VR App Consultation</h4>
-								<p class="text-white">With AppsNation, you can consult your way to success for free.</p>
-								<br>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/vr-app-development/50+-vr-app-developers.webp" alt="50+ VR App Developers" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">50+ VR App Developers</h4>
-								<p class="text-white">Unleash your true potential with best-in-class VR app developers across the globe.</p>
-								<br>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/vr-app-development/flexible-hiring-models.webp" alt="Flexible Hiring Models" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">Flexible Hiring Models</h4>
-								<p class="text-white">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
-							</div>
-						</div>
-					</article>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<div class="timeline-centered">
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/vr-app-development/24-7-technical-support.webp" alt="24/7 Technical Support" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">24/7 Technical Support</h4>
-								<p class="text-white">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/vr-app-development/100-transparency.webp" alt="100% Transparency" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">100% Transparency</h4>
-								<p class="text-white">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-							</div>
-						</div>
-					</article>
-					<article class="timeline-entry">
-						<div class="timeline-entry-inner">
-							<div class="timeline-icon">
-								<img src="images/vr-app-development/3-months-free-support-after-delivery.webp" alt="3-Months Free Support After Delivery" class="why-choose-img">
-							</div>
-							<div class="timeline-label">
-								<h4 class="text-white">3-Months Free Support After Delivery</h4>
-								<p class="text-white">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
-							</div>
-						</div>
-					</article>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Why Choose-->
-
-<!--Start Service-->
-<section class="service-block py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading ptag">
-					<h2>Inclusive <span>VR App</span> Development Company</h2>
-					<p>AppsNation is a famous VR app development company serving clients with custom VR apps that meet their expectations.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="row mt-5 vr-mobile-app-development">
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/vr-mobile-app-development.webp" alt="VR Mobile App Development" class="img-fluid">
-		</div>
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>VR Mobile App Development</h4>
-				<p>We create high performing VR mobile apps for various platforms such as iOS, Android, Windows, and others to offer consumers an incredibly engaging user experience.</p>
-			</div>
-		</div>
-	</div>
-	<div class="row mt-5 vr-game-app-development">
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>VR Game App Development</h4>
-				<p>Bring your fantastic VR concept to us to make it real with our exceptional VR game app development services. Leverage the power of VR to create games with intriguing experiences.</p>
-			</div>
-		</div>
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/vr-game-app-development.webp" alt="VR Game App Development" class="img-fluid">
-		</div>
-	</div>
-	<div class="row mt-5 vr-app-consultation">
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/vr-app-consultation.webp" alt="VR App Consultation" class="img-fluid">
-		</div>
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>VR App Consultation</h4>
-				<p>VR technology has yet more to explore. Be the first to initiate the new trend with our expert VR app consultation services and maximize your branding efforts.</p>
-			</div>
-		</div>
-	</div>
-	<div class="row mt-5 vr-software-development">
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>VR Software Development</h4>
-				<p>We create user-centric and client-focused VR software to meet integration requirements in order to streamline the workflow and operations.</p>
-			</div>
-		</div>
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/vr-software-development.webp" alt="VR Software Development" class="img-fluid">
-		</div>
-	</div>
-	<div class="row mt-5 visual-recognition-solutions">
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/visual-recognition-solutions.webp" alt="Visual Recognition Solutions" class="img-fluid">
-		</div>
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>Visual Recognition Solutions</h4>
-				<p>Our VR vision solutions assist in fault detection, operational asset inspection, and personnel safety while lowering operating costs and increasing employee safety.</p>
-			</div>
-		</div>
-	</div>
-	<div class="row mt-5 vr-app-support-and-maintenance">
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>VR App Support and Maintenance</h4>
-				<p>Our Virtual Reality developers team delivers timely support and maintenance services to ensure app integrity and optimize business operations.</p>
-			</div>
-		</div>
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/vr-app-support-and-maintenance.webp" alt="VR App Support and Maintenance" class="img-fluid">
-		</div>
-	</div>
-	<div class="row mt-5 iot-ar-vr">
-		<div class="col-lg-6 wow fadeIn">
-			<img src="images/vr-app-development/iot-ar-vr.webp" alt="IoT + AR/VR" class="img-fluid">
-		</div>
-		<div class="col-lg-6 block-1 wow fadeIn my-auto">
-			<div class="common-heading text-l pl25">
-				<h4>IoT + AR/VR</h4>
-				<p>Harness the true power of your data by combining VR and AR with IoT and transform that data into meaningful rendering for users to view and engage</p>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Service-->
-
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer.</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!--Start Games-->
 <section class="service-block py-5 vr-game-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn">
-				<img src="images/vr-app-development/vr-game-development.webp" alt="VR Game Development" class="img-fluid">
+				<img src="images/services/vr-app-development/vr-game-development.webp" alt="VR Game Development" class="img-fluid">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
 				<div class="row wow fadeIn">
-					<div class="ptag text-center">
-					    <h2 class="text-white pt-3">VR Games Development Services</h2>
+					<div class="ptag common-heading">
+						<div data-text="VR Games" class="dark-bg-text bg-text">
+							<h2 class="text-white">Our <span>VR Games</span> Development Services</h2>
+						</div>
 					</div>
 				</div>
-				<div class="row mt-3 wow fadeIn">
+				<div class="row mt80 wow fadeIn">
                     <div class="col-md-4 game-development-col">
-                        <img src="images/vr-app-development/vr-action.webp" alt="VR Action" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-action.webp" alt="VR Action" class="img-fluid">
                         <p class="center-text">VR Action<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/vr-app-development/vr-fps.webp" alt="VR FPS" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-fps.webp" alt="VR FPS" class="img-fluid">
                         <p class="center-text">VR FPS<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/vr-app-development/vr-adventure.webp" alt="VR Adventure" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-adventure.webp" alt="VR Adventure" class="img-fluid">
                         <p class="center-text">VR Adventure<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/vr-app-development/puzzle-vr.webp" alt="Puzzle VR" class="img-fluid">
+                        <img src="images/services/vr-app-development/puzzle-vr.webp" alt="Puzzle VR" class="img-fluid">
                         <p class="center-text">Puzzle VR<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/vr-app-development/sports-vr.webp" alt="Sports VR" class="img-fluid">
+                        <img src="images/services/vr-app-development/sports-vr.webp" alt="Sports VR" class="img-fluid">
                         <p class="center-text">Sports VR<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/vr-app-development/vr-arcade.webp" alt="VR Arcade" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-arcade.webp" alt="VR Arcade" class="img-fluid">
                         <p class="center-text">VR Arcade<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/vr-app-development/vr-simulation.webp" alt="VR Simulation" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-simulation.webp" alt="VR Simulation" class="img-fluid">
                         <p class="center-text">VR Simulation<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/vr-app-development/vr-brain.webp" alt="VR Brain" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-brain.webp" alt="VR Brain" class="img-fluid">
                         <p class="center-text">VR Brain<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/vr-app-development/vr-combat.webp" alt="VR Combat" class="img-fluid">
+                        <img src="images/services/vr-app-development/vr-combat.webp" alt="VR Combat" class="img-fluid">
                         <p class="center-text">VR Combat<p>
                     </div>
                 </div>
@@ -315,6 +111,100 @@
 	</div>
 </section>
 <!--End Games-->
+
+<!--Start Service-->
+<section class="service-block py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag">
+					<div data-text="VR" class="light-bg-text bg-text">
+						<h2>Inclusive <span>VR App</span> Development Company</h2>
+					</div>
+					<p>AppsNation is a famous VR app development company serving clients with custom VR apps that meet their expectations.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row mt-5 vr-mobile-app-development">
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/vr-mobile-app-development.webp" alt="VR Mobile App Development" class="img-fluid">
+		</div>
+		<div class="col-lg-6 block-1 wow fadeIn my-auto pe-5">
+			<div class="common-heading text-l pl25">
+				<h2>VR Mobile App Development</h2>
+				<p>We create high performing VR mobile apps for various platforms such as iOS, Android, Windows, and others to offer consumers an incredibly engaging user experience.</p>
+			</div>
+		</div>
+	</div>
+	<div class="row mt-5 vr-game-app-development">
+		<div class="col-lg-6 block-1 wow fadeIn my-auto ps-5">
+			<div class="common-heading text-l pl25">
+				<h2>VR Game App Development</h2>
+				<p>Bring your fantastic VR concept to us to make it real with our exceptional VR game app development services. Leverage the power of VR to create games with intriguing experiences.</p>
+			</div>
+		</div>
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/vr-game-app-development.webp" alt="VR Game App Development" class="img-fluid">
+		</div>
+	</div>
+	<div class="row mt-5 vr-app-consultation">
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/vr-app-consultation.webp" alt="VR App Consultation" class="img-fluid">
+		</div>
+		<div class="col-lg-6 block-1 wow fadeIn my-auto pe-5">
+			<div class="common-heading text-l pl25">
+				<h2>VR App Consultation</h2>
+				<p>VR technology has yet more to explore. Be the first to initiate the new trend with our expert VR app consultation services and maximize your branding efforts.</p>
+			</div>
+		</div>
+	</div>
+	<div class="row mt-5 vr-software-development">
+		<div class="col-lg-6 block-1 wow fadeIn my-auto ps-5">
+			<div class="common-heading text-l pl25">
+				<h2>VR Software Development</h2>
+				<p>We create user-centric and client-focused VR software to meet integration requirements in order to streamline the workflow and operations.</p>
+			</div>
+		</div>
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/vr-software-development.webp" alt="VR Software Development" class="img-fluid">
+		</div>
+	</div>
+	<div class="row mt-5 visual-recognition-solutions">
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/visual-recognition-solutions.webp" alt="Visual Recognition Solutions" class="img-fluid">
+		</div>
+		<div class="col-lg-6 block-1 wow fadeIn my-auto pe-5">
+			<div class="common-heading text-l pl25">
+				<h2>Visual Recognition Solutions</h2>
+				<p>Our VR vision solutions assist in fault detection, operational asset inspection, and personnel safety while lowering operating costs and increasing employee safety.</p>
+			</div>
+		</div>
+	</div>
+	<div class="row mt-5 vr-app-support-and-maintenance">
+		<div class="col-lg-6 block-1 wow fadeIn my-auto ps-5">
+			<div class="common-heading text-l pl25">
+				<h2>VR App Support and Maintenance</h2>
+				<p>Our Virtual Reality developers team delivers timely support and maintenance services to ensure app integrity and optimize business operations.</p>
+			</div>
+		</div>
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/vr-app-support-and-maintenance.webp" alt="VR App Support and Maintenance" class="img-fluid">
+		</div>
+	</div>
+	<div class="row mt-5 iot-ar-vr">
+		<div class="col-lg-6 wow fadeIn">
+			<img src="images/services/vr-app-development/iot-ar-vr.webp" alt="IoT + AR/VR" class="img-fluid">
+		</div>
+		<div class="col-lg-6 block-1 wow fadeIn my-auto pe-5">
+			<div class="common-heading text-l pl25">
+				<h2>IoT + AR/VR</h2>
+				<p>Harness the true power of your data by combining VR and AR with IoT and transform that data into meaningful rendering for users to view and engage</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Service-->
 
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
@@ -339,8 +229,12 @@
 			</div>
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Creative VR App Development Agency</h2>
-				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<div class="common-heading ptag">
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>VR App</span> Development Agency</h2>
+					</div>
+					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				</div>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
@@ -377,101 +271,153 @@
 <br>
 <!--End Features-->
 
-<!--Start Process-->
-<section class="service-block py-5 vr-process-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2 class="text-white">Our VR App Development Process</h2>
-					<p class="text-white">AppsNation guarantees that our VR app development process is fluid, resulting in an application being developed and delivered on time.</p>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-9">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+				</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-md-6 wow fadeIn">
-				<div class="vertical-timeline vertical-timeline--animate vertical-timeline--one-column">
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">1</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">Project Analysis of Requirements</h4>
-								<p class="description text-white">We assist you in determining the correct VR application with relevant functions for your business by thoroughly researching your industry and competitors to present you with a result-driven solution. We provide you with a business document that includes all the project details.</p>
-							</div>
-						</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
+<!--Start Why Choose-->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">2</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">Wireframing & Designing</h4>
-								<p class="description text-white">We understand the difficulties of virtual reality and have a track record of creating successful apps by combining fascinating experience design, high-quality 3D models, and smooth user interactions. Our skilled 3D artists and designers foster photorealistic and low-poly models and virtual environments.</p>
-							</div>
-						</div>
-					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">3</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">App Development</h4>
-								<p class="description text-white">Our skilled team of VR app developers enables you in meeting your business objectives. With experienced VR apps developers across diverse industries, we develop highly scalable, functional, and optimized VR apps that perform exceptionally well on all devices and platforms.</p>
-							</div>
-						</div>
-					</div>
+					<p class="text-white">We help you overcome the most challenging difficulties in AR, such as object/scene identification, occlusion, and content production and management.</p>
 				</div>
 			</div>
-			<div class="col-md-6 wow fadeIn">
-				<div class="vertical-timeline vertical-timeline--animate vertical-timeline--one-column">
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">4</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">App Testing</h4>
-								<p class="description text-white">We apply the latest trends and methodologies to test the VR app to ensure it is well-optimized and functions well across multiple platforms and devices. Our impeccable quality assurance team guarantees the integrity of the VR app, including its immersive experience with thorough app testing.</p>
-							</div>
-						</div>
+		</div>
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
 					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">5</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">App Deployment</h4>
-								<p class="description text-white">Deploying your bespoke VR app on the appropriate platform while adhering to its rigorous criteria for a successful launch is an essential component of our premier VR app development services. Our team prepares the relevant documentation, descriptions, and screenshots for marketplace publishing.</p>
-							</div>
-						</div>
+					<h3 class="title">Free AR App Consultation</h3>
+					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ VR App Developers" class="img-fluid">
 					</div>
-					<div class="vertical-timeline-item vertical-timeline-element">
-						<div>
-							<span class="vertical-timeline-element-icon bounce-in">
-								<div class="numbers">
-									<p class="number text-white">6</p>
-								</div>
-							</span>
-							<div class="vertical-timeline-element-content bounce-in">
-								<h4 class="title text-white">Post-launch Support and Maintenance</h4>
-								<p class="description text-white">Our commitment extends beyond deployment as we provide ongoing support and maintenance services. We address any issues, implement updates, and enhance the app's performance based on user feedback and emerging technologies. You can rely on us to ensure the continued success and optimization of your AR application.</p>
-							</div>
-						</div>
+					<h3 class="title">50+ VR App Developers</h3>
+					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
+					</div>
+					<h3 class="title">Flexible Hiring Models</h3>
+					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
+					</div>
+					<h3 class="title">24/7 Technical Support</h3>
+					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid">
+					</div>
+					<h3 class="title">100% Transparency</h3>
+					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
+					</div>
+					<h3 class="title">3-Months Free Support After Delivery</h3>
+					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--Start Why Choose-->
+
+<!--Start Process-->
+<section class="process-block bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>AR App</span> Development Process</h2>
+					</div>
+					<p>AppsNation guarantees that our AR app development process is fluid, resulting in an application being developed and delivered on time.</p>
+				</div>
+				</div>
+			</div>
+			<div class="row upset justify-content-center mt30">
+				<div class="col-12 col-md-6 col-lg-4">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">01</p>
+						<h3 class="title">Project Analysis of Requirements</h3>
+						<p class="description">We assist you in determining the correct VR application with relevant functions for your business by thoroughly researching your industry and competitors to present you with a result-driven solution. We provide you with a business document that includes all the project details.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">02</p>
+						<h3 class="title">Wireframing & Designing</h3>
+						<p class="description">We understand the difficulties of virtual reality and have a track record of creating successful apps by combining fascinating experience design, high-quality 3D models, and smooth user interactions. Our skilled 3D artists and designers foster photorealistic and low-poly models and virtual environments.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">03</p>
+						<h3 class="title">App Development</h3>
+						<p class="description">Our skilled team of VR app developers enables you in meeting your business objectives. With experienced VR apps developers across diverse industries, we develop highly scalable, functional, and optimized VR apps that perform exceptionally well on all devices and platforms.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">04</p>
+						<h3 class="title">App Testing</h3>
+						<p class="description">We apply the latest trends and methodologies to test the VR app to ensure it is well-optimized and functions well across multiple platforms and devices. Our impeccable quality assurance team guarantees the integrity of the VR app, including its immersive experience with thorough app testing.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">05</p>
+						<h3 class="title">App Deployment</h3>
+						<p class="description">Deploying your bespoke VR app on the appropriate platform while adhering to its rigorous criteria for a successful launch is an essential component of our premier VR app development services. Our team prepares the relevant documentation, descriptions, and screenshots for marketplace publishing.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-4 mt-3">
+					<div class="timeline wow fadeIn h-100">
+						<p class="timeline-year">06</p>
+						<h3 class="title">Post-launch Support and Maintenance</h3>
+						<p class="description">Our commitment extends beyond deployment as we provide ongoing support and maintenance services. We address any issues, implement updates, and enhance the app's performance based on user feedback and emerging technologies. You can rely on us to ensure the continued success and optimization of your AR application.</p>
 					</div>
 				</div>
 			</div>
@@ -480,265 +426,25 @@
 </section>
 <!--End Process-->
 
-<!--Start Tech-->
-<div class="techonology-used py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
-				<div class="common-heading ptag">
-					<h2>Technology Stack</h2>
-					<p>With great technology comes a great tool stack. Therefore, we serve you with the most advanced technology and tools for VR app development.</p>
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 my-auto">
+					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
 				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-md-5 wow fadeIn">
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@foreach($techstack as $k=>$item)
-
-					@if($k==0)
-					<li class="active">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed active">
-							<img src="uploads/{{$item['image']}}" alt="">
-						</a>
-					</li>
-
-					@else
-
-					<li>
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed">
-							<img src="uploads/{{$item['image']}}" alt="">
-						</a>
-					</li>
-					@endif
-
-					@if(($k+1)%3==0 )
-					@if($k==0)
-
-					@else
-				</ul>
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@endif
-					@endif
-					@endforeach
-				</ul>
-			</div>
-
-			<div class="col-md-7 my-auto wow fadeIn">
-				<div class="tab-content tab-body">
-					@foreach($techstack as $k=>$items)
-					@if($k==0)
-					<div id="a{{$items['id']}}" class="tab-pane active">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0">{{$items['heading']}}</h3>
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@else
-					<div id="a{{$items['id']}}" class="tab-pane fade">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0">{{$items['heading']}}</h3>
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@endif
-
-					@endforeach
-				</div>
-			</div>
-		</div>
-
-		<div class="row mt-3">
-			<div class="col-lg-12">
-				<ul class="nav nav-tabs justify-content-center wow fadeIn" role="tablist">
-					<li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#Threedmodeling">3D Modeling</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#Twodmodeling">2D Modeling</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#development">Development</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#hardware">Hardware</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#simulation">Simulation Modeling</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#language">Programming Language</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#db">Database</a> </li>
-				</ul>
-
-				<div class="tab-content wow fadeIn">
-					<div id="Threedmodeling" class="container tab-pane active">
-						<div class="row mt-3 d-flex justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/maya-logo.webp" alt="Maya Logo" class="tech-logo">
-								<h6 class="pt-3">Maya</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/3ds-max-logo.webp" alt="Autodesk 3DS MAX Logo" class="tech-logo">
-								<h6 class="pt-3">Autodesk 3DS MAX</h6>
-							</div>
-
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/substance-painter-logo.webp" alt="Substance Partner Logo" class="tech-logo">
-								<h6 class="pt-3">Substance Partner</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/blender-logo.webp" alt="Blendar Logo" class="tech-logo">
-								<h6 class="pt-3">Blender</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/sublime-logo.webp" alt="Sublime Logo" class="tech-logo">
-								<h6 class="pt-3">Sublime</h6>
-							</div>
-						</div>
-					</div>
-
-					<div id="Twodmodeling" class="container tab-pane">
-						<div class="row mt-3 d-flex justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/photoshop-logo.webp" alt="Photoshop Logo" class="tech-logo">
-								<h6 class="pt-3">Photoshop</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/illustrator-logo.webp" alt="Illustrator Logo" class="tech-logo">
-								<h6 class="pt-3">Illustrator</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/figma-logo.webp" alt="Figma Logo" class="tech-logo">
-								<h6 class="pt-3">Figma</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/affinity.webp" alt="Affinity Designer Logo" class="tech-logo">
-								<h6 class="pt-3">Affinity Designer</h6>
-							</div>
-						</div>
-					</div>
-
-					<div id="development" class="container tab-pane">
-						<div class="row mt-3 d-flex justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/unity-logo.webp" alt="Unity Logo" class="tech-logo">
-								<h6 class="pt-3">Unity</h6>
-							</div>
-
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/unreal-engine-logo.webp" alt="Unreal Logo" class="tech-logo">
-								<h6 class="pt-3">Unreal</h6>
-							</div>
-						</div>
-					</div>
-
-					<div id="hardware" class="container tab-pane">
-						<div class="row mt-3 d-flex justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/oculus-logo.webp" alt="Oculus Quest Logo" class="tech-logo">
-								<h6 class="pt-3">Oculus Quest</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/google-lens-logo.webp" alt="Google Lens Logo" class="tech-logo">
-								<h6 class="pt-3">Google lens</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/oculus-logo.webp" alt="Rift Logo" class="tech-logo">
-								<h6 class="pt-3">Rift</h6>
-							</div>
-						</div>
-					</div>
-
-					<div id="simulation" class="container tab-pane fade">
-						<div class="row mt-3 d-flex justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/nvidia-logo.webp" alt="Nvidia Flex Logo" class="tech-logo">
-								<h6 class="pt-3">Nvidia Flex</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/havok-logo.webp" alt="Havok Logo" class="tech-logo">
-								<h6 class="pt-3">Havok</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/bullet-physics-logo.webp" alt="Bullet Physics Logo" class="tech-logo">
-								<h6 class="pt-3">Bullet Physics</h6>
-							</div>
-						</div>
-					</div>
-
-					<div id="language" class="container tab-pane fade">
-						<div class="row mt-3 justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/mangodb-logo.webp" alt="Mango DB Logo" class="tech-logo">
-								<h6 class="pt-3">Mango DB</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/java-logo.webp" alt="Java Logo" class="tech-logo">
-								<h6 class="pt-3">Java</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/python-logo.webp" alt="Python Logo" class="tech-logo">
-								<h6 class="pt-3">Python</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/node-js-logo.webp" alt="Node JS Logo" class="tech-logo">
-								<h6 class="pt-3">Node JS</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/php-logo.webp" alt="PHP Logo" class="tech-logo">
-								<h6 class="pt-3">PHP</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/html-logo.webp" alt="HTML Logo" class="tech-logo">
-								<h6 class="pt-3">HTML</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<img src="images/tech/css-logo.webp" alt="CSS Logo" class="tech-logo">
-								<h6 class="pt-3">CSS</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<img src="images/tech/js-logo.webp" alt="JavaScript Logo" class="tech-logo">
-								<h6 class="pt-3">JavaScript</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<img src="images/tech/react-native-logo.webp" alt="React Logo" class="tech-logo">
-								<h6 class="pt-3">React</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<img src="images/tech/angular-logo.webp" alt="Angular Logo" class="tech-logo">
-								<h6 class="pt-3">Angular</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
-								<h6 class="pt-3">Ionic</h6>
-							</div>
-						</div>
-					</div>
-
-					<div id="db" class="container tab-pane fade">
-						<div class="row mt-3 justify-content-center">
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/sql-logo.webp" alt="SQL Logo" class="tech-logo">
-								<h6 class="pt-3">SQL</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/azure-logo.webp" alt="Azure Data Lake Logo" class="tech-logo">
-								<h6 class="pt-3">Azure Data Lake</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/aws-logo.webp" alt="AWS Logo" class="tech-logo">
-								<h6 class="pt-3">AWS</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/google-cloud-logo.webp" alt="Google Cloud Logo" class="tech-logo">
-								<h6 class="pt-3">Google Cloud</h6>
-							</div>
-							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/rackspace-logo.webp" alt="Rackspace Logo" class="tech-logo">
-								<h6 class="pt-3">Rackspace</h6>
-							</div>
-						</div>
-					</div>
+				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<!--End Tech-->
+<!--End Let's Work Together-->
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
@@ -746,7 +452,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<h2 class="text-white">We Partner with the <span>World's technology</span> leaders</h2>
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -786,7 +494,9 @@
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
-					<h2 class="text-white">Ranked as #1 <span>VR App</span> Development Company</h2>
+					<div data-text="Awards" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -865,14 +575,36 @@
 </section>
 <!--End Badges-->
 
+<!--Start Let's Work Together-->
+<div class="row py-5 justify-content-center hire-developer">
+	<div class="col-lg-8">
+		<div class="free-cta-title v-center wow fadeIn">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 my-auto">
+					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+				</div>
+				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Let's Work Together-->
+
 <!--Start Testinomial-->
-<section class="testinomial-section-app py-5">
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<span>What our clients say about AppsNation.</span>
-					<h2 class="text-white">Over 1200+ Satisfied Clients and Growing</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
@@ -929,33 +661,15 @@
 </section>
 <!--End Testinomial-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-6">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Let's Work Together-->
-
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>
@@ -1150,5 +864,61 @@
     </div>
 </section>
 <!-- End FAQS -->
+
+<!--Start Blogs-->
+<section class="blogs-section py-5">
+@if(count($data['data']) > 0)
+	<div class="container">
+		<div class="row mb100">
+			<div class="col-lg-6">
+				<div data-text="Blogs" class="light-bg-text bg-text">
+					<h2 class="mb0 common-heading">Latest Stories</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			@foreach($data['data'] as $post)
+			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
+				<div class="card h-100">
+					<a href="{{ $post['guid'] }}">
+						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+					</a>
+					<div class="entry-blog-post dg-bg2">
+						<span class="bypost-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-tag"></i> Appsnation
+							</a>
+						</span>
+						<span class="posted-on-">
+							<a href="{{ $post['guid'] }}">
+								<i class="fas fa-clock"></i> {{ date('M d, Y', strtotime($post['post_date'])) }}
+							</a>
+						</span>
+					</div>
+					<div class="card-body">
+						<h4 class="mb-0">
+							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+			@endforeach
+			@else
+		</div>
+	</div>
+	@endif
+</section>
+
+<div class="container">
+	<div class="row mb-4 text-center wow fadeIn">
+		<div class="col-12">
+			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
+				<i class="fas fa-chevron-right fa-icon"></i>
+				<span class="circle"></span>
+			</a>
+		</div>
+	</div>
+</div>
+<!--End Blogs-->
 
 @endsection

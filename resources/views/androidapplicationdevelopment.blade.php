@@ -54,7 +54,7 @@
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text">
-						<h2>Our Unrivaled <span>Android Development</span> Services</h2>
+						<h2>Our Unrivaled <span>Android App</span> Development Services</h2>
 					</div>
 					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>

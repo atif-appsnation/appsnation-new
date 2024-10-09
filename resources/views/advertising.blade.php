@@ -11,7 +11,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Advertising Apps Development</h1>
 					<p class="banner-para mt20">The demand for app and web solutions is steadily increasing in the rapidly evolving advertising industry. We offer business-driven technical solutions to assist advertising companies and production houses worldwide.</p>
@@ -30,7 +30,7 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Strategic Advertising App & Web Development</h2>
 				<p class="pt-3">Our unique approach to strategic planning distinguishes us from our competitors in the advertising industry. We have collaborated with numerous clients worldwide in the creative sector, offering them comprehensive app and web development solutions. Our expertise lies in the following areas:</p>
 				<ul class="ps-5 pt-3">
@@ -41,7 +41,7 @@
 					<li>Complete Brand Management and Revamp Services for Advertising Agencies.</li>
 				</ul>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 text-center wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 text-center wow fadeIn">
 				<img class="img-fluid" src="images/industries/adversting-app-1.webp">
 			</div>
 		</div>
@@ -66,14 +66,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

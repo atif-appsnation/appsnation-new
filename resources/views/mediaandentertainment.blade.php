@@ -11,7 +11,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Media and Entertainment Apps Development</h1>
 					<p class="banner-para mt20">Nowadays, Media and entertainment is a diversified industry which is expanding on a daily basis. Apps Nation believes in adapting with the world and delivering the best services in the media and entertainment industry by using the latest technologies. In order to stay one step ahead in this era of technology, we provide you the platform where we listen to your prerequisites and convey the ideal and best services with vital collaboration and coordination with our clients. Our professional team of Media and entertainment App Developers has expertise in developing Media and Entertainment Websites and Mobile Apps for their clients.</p>
@@ -30,11 +30,11 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Scope of app development in the Media and Entertainment Industry.</h2>
 				<p class="pt-3">Media and entertainment apps not only transform media viewing patterns, but also pave a unique way in which videos,music and television shows get featured.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/media-app-1.webp">
 			</div>
 		</div>
@@ -59,15 +59,15 @@
 <section class="service py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our area of expertise in Media and Entertainment Apps development</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<p>We design applications based on our experience in the hotel, travel, and hospitality industries to bring more customers to your properties and enhance your income. We strive to give our clients the most secure, stable, and user-friendly mobile app projects possible and the safest, most durable, and user-friendly apps available.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Music App Development</h4>
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Social Media App Development</h4>
@@ -83,7 +83,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>News App Development</h4>
@@ -91,7 +91,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Video Streaming App Development</h4>
@@ -108,14 +108,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

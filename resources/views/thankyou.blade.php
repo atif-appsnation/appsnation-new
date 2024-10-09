@@ -11,7 +11,7 @@
 	
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 v-center wow fadeInLeft">
+            <div class="col-lg-6 v-center wow fadeIn">
                 <div class="bread-inner">
                     <div class="bread-title">
                         <h1 class="text-white">Thank You</h1>

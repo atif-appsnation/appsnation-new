@@ -10,7 +10,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Transport App Development Company</h1>
 					<p class="banner-para mt20">The key to success is logistics or transport app development services for delivery and warehousing organizations. We will support you on your logistics and transportation digital transformation journey, whether you are a start-up or an enterprise-size organization.</p>
@@ -29,12 +29,12 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Benefits You Get With A Logistics And Transport App</h2>
 				<p class="pt-3">The logistics and transportation sector encompasses many tasks, from packing goods to transporting them to end-users. It is a large-scale and time-consuming procedure that may be streamlined with the help of contemporary technologies. Mobile applications provide significant benefits to the transportation business and are an excellent method to acquire a competitive edge.</p>
 				<p class="pt-2">When you can automate the process via a mobile app, paperwork becomes much more manageable. The mobile application allows for electronic databases, documentation on tablets, and data transmission over the internet. Furthermore, a firm may have a fleet of vehicles. And the more automobiles there are, the more difficult it is to keep track of them. The creation of a freight industry application allows for better vehicle maintenance and the expansion of services for transporting goods.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 wow fadeInRight text-end">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 wow fadeIn text-end">
 				<img class="img-fluid" src="images/industries/automotive-app-1.webp">
 			</div>
 		</div>
@@ -59,15 +59,15 @@
 <section class="experties py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Transport App Development Expertise</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<p>We build customized transportation and logistics management solutions on a highly resilient and scalable architecture. As your company varies and expands, we know that you may need personalized features for the system. As a result, we provide a wide range of specialized transportation app development services.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Uber-Like App Development</h4>
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Car Rental Mobile App Development</h4>
@@ -83,7 +83,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Foreign Language Translator App Development</h4>
@@ -91,7 +91,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Dispatching App Development</h4>
@@ -99,7 +99,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Fleet Management App Development</h4>
@@ -107,7 +107,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Rideshare App Development</h4>
@@ -115,7 +115,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Traffic Management App Development</h4>
@@ -123,7 +123,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Parking Management App Development</h4>
@@ -131,7 +131,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Public Transportation App Development</h4>
@@ -148,14 +148,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

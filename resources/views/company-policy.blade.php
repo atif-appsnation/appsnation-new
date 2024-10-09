@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-12 v-center">
                     <div class="bread-inner">
-                        <div class="bread-title wow fadeInUp" data-wow-delay=".5s">
+                        <div class="bread-title wow fadeIn" data-wow-delay=".5s">
                             <h2 class="text-center text-white">Company Policy</h2>
                         </div>
                     </div>

@@ -38,7 +38,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5  wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+		<div class="row mt-5  wow fadeIn">
 			<div class="col-12 col-md-6 col-lg-3">
 				<div class="card">
 					<div class="card-body text-center mt-3 mt-md-0">
@@ -110,12 +110,12 @@
 
 <!-- <section class="emergency-services py-5">
     <div class="container">
-        <div class="row justify-content-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+        <div class="row justify-content-center wow fadeIn">
             <div class="col-lg-8">
                 <h2 class="common-heading text-white text-center">Our Emergency Service Capabilities</h2>
             </div>
         </div>
-    	<div class="row wow fadeIn mt-3" style="visibility: visible; animation-name: fadeIn;">
+    	<div class="row wow fadeIn mt-3">
 			<div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
 				<div class="card">
 					<div class="card-body">
@@ -564,13 +564,13 @@
 
 <section class="our-work py-5">
    <div class="container">
-       <div class="row justify-content-center">
-           <div class="col-lg-8 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+       <div class="row">
+           <div class="col-12 wow fadeIn">
                <div class="common-heading">
 			   		<div data-text="Work" class="light-bg-text bg-text mt-5">
 						<h2>Our Work</h2>
 					</div>
-                   <p class="text-center">AppsNation resolves your tech problems through their huge channel of services and solutions with our extremely experienced and professional team. We are serving our valuable clients to see their concepts and assumptions. Our services are to produce you the best Web and App solutions in a very innovative and inventive manner.</p>
+                   <p>AppsNation resolves your tech problems through their huge channel of services and solutions with our extremely experienced and professional team. We are serving our valuable clients to see their concepts and assumptions. Our services are to produce you the best Web and App solutions in a very innovative and inventive manner.</p>
                 </div>
             </div>
         </div>
@@ -583,7 +583,7 @@
 <section class="our-work1 py-5">
    <div class="container">
        <div class="row">
-           <div class="col-lg-12 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+           <div class="col-lg-12 wow fadeIn">
                <div class="card green-bg p-4">
                     <div class="card-body">
                         <div class="row">
@@ -593,7 +593,7 @@
                             <div class="col-lg-6 mt-4 mt-lg-0">
                                 <h2 class="common-heading">Delta Robot</h2>
                                 <p>Futurerealiti’s industrial automation tech development team assures you to provide you with a complete solution to fully automate your industrial unit. AppsNation designed and developed a robot called Delta robot that not only automates the process of production but also saves your finance as it is a one-time investment. they are parallel robots used in industrial automation. They comprised of three joined arms to a moving platform controlled by motors and sensors. End effectors at Each arm's tip is utilised to quickly and precisely pick up and move items.</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow py-2 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-4" data-wow-delay="0.8s">View Case Study</a>
                             </div>
                         </div>
                     </div>
@@ -608,14 +608,14 @@
 <section class="our-work2 py-5">
    <div class="container">
        <div class="row">
-           <div class="col-lg-12 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+           <div class="col-lg-12 wow fadeIn">
                <div class="card green-bg p-4">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-lg-6 my-auto">
                                 <h2 class="common-heading">Cartesian Robot</h2>
                                 <p>At Futurerealiti, we have a team of experts dedicated to developing industrial automation technologies that can help businesses fully automate their operations. We are pleased to present our newest invention, the Cartesian robot, which has been specifically designed to automate the production process while also minimizing costs by being a one-time investment. It works by Using the x, y, and z linear axes that move independently to manipulate objects in a straight line. It is commonly used in manufacturing and automation for tasks that require precise movements in a specific direction. The product uses its AI and assembles the product to a designated point or container for further processes.</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow py-2 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-4" data-wow-delay="0.8s">View Case Study</a>
                             </div>
                             <div class="col-lg-6 mt-4 mt-lg-0">
                                 <img src="images/services/industrial-automation/industrial-automation-img-2.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
@@ -633,7 +633,7 @@
 <section class="our-work3 py-5">
    <div class="container">
        <div class="row">
-           <div class="col-lg-12 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+           <div class="col-lg-12 wow fadeIn">
                <div class="card green-bg p-4">
                     <div class="card-body">
                         <div class="row">
@@ -643,7 +643,7 @@
                             <div class="col-lg-6 mt-4 my-lg-auto">
                                 <h2 class="common-heading">Automated Guided Vehicle</h2>
                                 <p>Futurerealiti's industrial automation tech development team is constantly innovating to provide cutting-edge solutions for businesses seeking to optimize their operations. Our latest invention, the AGV is a prime example of our commitment to efficiency and cost savings. By automating the inventory process with a one-time investment, we can help businesses achieve their goals faster and more effectively. Automated Guided Vehicle, or AGV. It is a mobolize robot that has been designed to move supplies, products, or equipment around a building or warehouse. Sensors and cutting-edge control systems are used by AGVs to find their way around a pre-drawn route or map.</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="niwax-btn wow py-3 fadeIn mt-2" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">View Case Study</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-4" data-wow-delay="0.8s">View Case Study</a>
                             </div>
                         </div>
                     </div>

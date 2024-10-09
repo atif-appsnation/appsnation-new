@@ -12,7 +12,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Healthcare App Development Company</h1>
 					<p class="banner-para mt20">Our skilled team of healthcare app developers is ready to assist you in developing the best health apps for your specific requirements. Our team offers a comprehensive range of custom-designed services, ranging from simple mobile screening apps to mission-critical medical apps that must adhere to all regulations.</p>
@@ -31,20 +31,20 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Custom Healthcare App Development Services</h2>
 				<p class="pt-3">AppsNation is committed to developing unique healthcare apps that are well-designed, secure, and strong. We have the knowledge and experience to help you take your healthcare business to the next level. As a trustworthy healthcare app development firm, we provide an easy-to-use healthcare app for your practice, hospital, or clinic.</p>
 				<p class="pt-2">When it comes to personalized healthcare apps, we work with people, corporations, and academic organizations. If you have a specific need in mind but are not sure how to make your ideas a reality, contact us now to learn more about our inexpensive services and see if we are a suitable fit for your company or organization.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/health-app-1.webp">
 			</div>
 		</div>
 		<div class="row small mt-5">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<img class="img-fluid" src="images/industries/health-app-2.webp">
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 mt-4 mt-md-4 my-lg-auto wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Healthcare Industry</h2>
 				<p class="pt-3">The healthcare sector is one of the world's most extensive and fastest expanding industries. It contains firms ranging from pharmaceutical behemoths to insurance behemoths, clinics, and hospitals. This expansion has resulted from an aging population as baby boomers reach retirement age. App developers have various options to pursue within the business to capitalize on this development.</p>
 				<p class="pt-2">According to the study, four out of ten Americans have used one or more health and fitness-related smartphone apps. Healthcare app development aims to discover and construct cost-effective ways for patients to connect healthcare practitioners, community resources, and technology that allow for better access to treatment alternatives.</p>
@@ -59,15 +59,15 @@
 <section class="experties py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Healthcare App Development Expertise</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>We recognize that each customer is unique when it comes to custom health care app development. Therefore, we adopt a customized, strategic approach to developing apps that match your goals, solve your challenges, and produce positive business outcomes. Our approach in each project is the intention of assisting you in achieving success in helping the world rather than simply creating a great app for you.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Healthcare Apps For Patients</h4>
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>AR Healthcare App Development</h4>
@@ -83,7 +83,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>VR Healthcare App Development</h4>
@@ -91,7 +91,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Healthcare Blockchain Apps</h4>
@@ -99,7 +99,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Apps For Healthcare Professionals</h4>
@@ -107,7 +107,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Apps For Healthcare Providers</h4>
@@ -115,7 +115,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Telemedicine App Development Services</h4>
@@ -123,7 +123,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>IoMT Health Care App Development</h4>
@@ -140,14 +140,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Thriving To Achieve Smart,Unique And State Of The Art Solutions</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our team of experts have mastered the art of enabling a brand to have a solid long term, long lasting online presence by offering the best, up to date iOS, Android and wearable apps design and development services in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

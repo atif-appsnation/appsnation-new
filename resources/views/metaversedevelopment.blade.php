@@ -9,13 +9,13 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Metaverse App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight">
+			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<img src="images/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
@@ -28,11 +28,11 @@
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
-				<div class="image-block wow fadeInLeft">
+				<div class="image-block wow fadeIn">
 					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-7 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
 					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App Development Services</span></h2>
@@ -50,19 +50,19 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Our Unrivaled Android Development Services</h2>
 				</div>
 			</div>
-			<div class="col-lg-6 mt-3 wow fadeInRight">
+			<div class="col-lg-6 mt-3 wow fadeIn">
 				<div class="common-heading ptag">
 					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
@@ -88,7 +88,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-porting-img"></div>
@@ -101,7 +101,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
@@ -114,7 +114,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-consultation-img"></div>
@@ -127,7 +127,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-dev-consultation-img"></div>
@@ -140,7 +140,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="custom-android-app-dev-img"></div>
@@ -153,7 +153,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-multi-platform-img"></div>
@@ -166,7 +166,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-watch-img"></div>
@@ -206,7 +206,7 @@
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
@@ -224,7 +224,7 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Creative Mobile App Development Agency</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -267,19 +267,19 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
 					</div>
@@ -288,7 +288,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="expert-android-developers"></div>
 					</div>
@@ -297,7 +297,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
 					</div>
@@ -306,7 +306,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="technical-support"></div>
 					</div>
@@ -315,7 +315,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="transparency"></div>
 					</div>
@@ -324,7 +324,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
 						<div class="free-delivery-support"></div>
 					</div>
@@ -358,54 +358,54 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Our <span>Android App</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
 					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
 					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeInLeft h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
 					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
 					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
 					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeInRight h-100">
+				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
 					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
@@ -421,19 +421,19 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Technology Stack</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
-			<div class="col-md-5 wow fadeInLeft">
+			<div class="col-md-5 wow fadeIn">
 				<ul class="nav nav-tabs android-tech-tabs mt-5">
 					@foreach($techstack as $k=>$item)
 
@@ -465,7 +465,7 @@
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto wow fadeInRight">
+			<div class="col-md-7 my-auto wow fadeIn">
 				<div class="tab-content tab-body">
 
 					@foreach($techstack as $k=>$items)
@@ -501,14 +501,14 @@
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
 					<h2>We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeInRight">
+		<div class="row pt-3 wow fadeIn">
 			<div class="col-12">
 				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
 					<div class="carousel-inner">
@@ -583,14 +583,14 @@
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
 					<h2>Ranked as #1 <span>Android App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInRight">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -664,7 +664,7 @@
 
 
 		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
+			<div class="free-cta-title v-center wow fadeIn" data-wow-delay="1s">
 				<p>We <span>Promise.</span> We <span>Deliver.</span> </p>
 				<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
 					<i class="fas fa-chevron-right fa-icon"></i>
@@ -680,7 +680,7 @@
 <section class="testinomial-section-app bg-none py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-5 wow fadeInLeft">
+			<div class="col-lg-5 wow fadeIn">
 				<div class="common-heading text-l">
 					<h2>Over 1200+ Satisfied Clients and Growing</h2>
 				</div>
@@ -699,7 +699,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="col-lg-7 wow fadeInRight">
+			<div class="col-lg-7 wow fadeIn">
 				<div class="pl50">
 					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">
@@ -733,14 +733,14 @@
 <section class="faq-section py-5" id="faqs">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 wow fadeInLeft">
+            <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
                     <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt20 wow fadeInRight">
+            <div class="col-sm-12 mt20 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
@@ -989,14 +989,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
+				<div class="common-heading wow fadeIn">
 					<h2 class="mb30">Latest Stories</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			@foreach($data['data'] as $post)
-			<div class="col-lg-4 col-sm-6 mt30 wow fadeInUp">
+			<div class="col-lg-4 col-sm-6 mt30 wow fadeIn">
 				<div class="card h-100">
 					<a href="{{ $post['guid'] }}">
 						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
@@ -1024,7 +1024,7 @@
 </section>
 
 <div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
+	<div class="row mb-4 text-center wow fadeIn">
 		<div class="col-12">
 			<a href="https://blog.appsnation.co/category/android-app/" class="btn-main button-arounder lnk">View More
 				<i class="fas fa-chevron-right fa-icon"></i>

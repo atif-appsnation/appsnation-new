@@ -11,7 +11,7 @@
 
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeInLeft">
+			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="text-white" data-wow-delay=".2s">Restaurant App Service</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">This special platform allows you to select from a variety of organic and non-organic food establishments throughout the city. Importantly, it allows customers to select their meal and pay for it directly through the app. In addition, users can rate restaurants based on their food, hygiene, and service.</p>
@@ -21,7 +21,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeInRight text-end">
+			<div class="col-sm-12 col-md-6 wow fadeIn text-end">
 				<img src="images/solutions/restaurant-app-1.webp" alt="Restaurant App" class="img-fluid no-shadow w-100" />
 			</div>
 		</div>
@@ -38,12 +38,12 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/solutions/restaurant-app-1.webp" alt="Restaurant App" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/search.svg" alt="search" data-was-processed="true">
@@ -66,7 +66,7 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/history.svg" alt="check" data-was-processed="true">
@@ -87,7 +87,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/solutions/restaurant-app-2.webp" alt="Restaurant App" class="img-fluid no-shadow" />
 				</div>
@@ -106,12 +106,12 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
 					<img src="images/solutions/restaurant-app-3.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
-			<div class="col-lg-6 block-1 wow fadeInRight my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" alt="analytics" data-was-processed="true">
@@ -134,7 +134,7 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-lg-6 block-1 wow fadeInLeft my-auto">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" alt="bookings" data-was-processed="true">
@@ -152,7 +152,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block ">
 					<img src="images/solutions/restaurant-app-4.webp" alt="Restaurant App" class="img-fluid no-shadow" />
 				</div>
@@ -165,89 +165,40 @@
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
-			<div class="col-lg-6">
-				<div class="common-heading">
-					<h2>We Partner with the <span>World's technology</span> leaders</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row pt-3 wow fadeInRight">
+		<div class="row fadeIn">
 			<div class="col-12">
-				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="row">
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-								</div>
-								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-								</div>
-							</div>
-						</div>
+				<div class="common-heading text-center">
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
 					</div>
 				</div>
 			</div>
-
-			<!--<div class="col-12 text-center mt-3">-->
-			<!--	<a class="btn mb-3 mr-1" href="#tech" role="button" data-bs-slide="prev">-->
-			<!--		<i class="fa fa-arrow-left"></i>-->
-			<!--	</a>-->
-			<!--	<a class="btn mb-3" href="#tech" role="button" data-bs-slide="next">-->
-			<!--		<i class="fa fa-arrow-right"></i>-->
-			<!--	</a>-->
-			<!--</div>-->
+		</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -256,7 +207,7 @@
 <!-- Start Why Choose -->
 <section class="why-choose-section py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInUp">
+		<div class="row justify-content-center wow fadeIn">
 			<div class="col-12">
 				<div class="card py-3">
 					<div class="card-body">

@@ -1,22 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 animation-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">STELLAR VIDEO ANIMATION DEVELOPMENT</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">With years of expertise in the enormous digital world, we have specialized in sophisticated video animations intending to increase your sales by enhancing user experience. So allow us to design your company's future lifeblood.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/banner/animation-banner-img.png" class="img-fluid" alt="Animation Development">
 			</div>
 		</div>
 	</div>
@@ -34,9 +31,9 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2>Top-Rated Video<br> <span class="flup-theme"> Animation </span>Company</h2>
-					<!-- <p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong> <p>-->
+					<div data-text="Android" class="light-bg-text bg-text">
+						<h2>Top-Rated Video<br> <span class="flup-theme"> Animation </span>Company</h2>
+					</div>
 					<p>Future Reality is a game-changing video animation company specializing in designing and animating creative explainers and other animated videos. Outstanding animations, we think, communicate tales that engage, convince, and eventually convert prospects into customers. Our professional staff is experts in animated video creation, from idea research and screenplay writing to artwork, vocal recording, and final animation.</p>
 					<p>With years of expertise in the enormous digital world, we have specialized in sophisticated video animations intending to increase your sales by enhancing user experience. So allow us to design your company's future lifeblood.</p>
 				</div>
@@ -52,7 +49,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>A Pool of Video <span class="flup-theme"> Animation </span> Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>A Pool of Video <span class="flup-theme"> Animation </span> Services</h2>
+					</div>
 					<p>Our skilled team of creative animators will work diligently to produce a professional, fully integrated video animation for you. You have a plethora of options for the style and appearance of your video.</p>
 				</div>
 			</div>
@@ -285,7 +284,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
 				</div>
 			</div>
@@ -293,54 +294,36 @@
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
-					</div>
 					<h3 class="title">Free Animation Consultation</h3>
 					<p class="description">Get expert advice on your animation project with our free consultation service. We'll help you refine your ideas and plan your project for success.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
-					</div>
 					<h3 class="title">Expert Animators</h3>
 					<p class="description">Work with our team of skilled animators, experienced in various styles and techniques. We bring creativity and precision to every project, ensuring high-quality results.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
-					</div>
 					<h3 class="title">Flexible Engagement Models</h3>
 					<p class="description">We offer flexible engagement options tailored to your project's needs and budget. Whether you're a small startup or a large corporation, we provide customized solutions.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="technical-support"></div>
-					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Our dedicated support team is available around the clock to assist you with any technical issues, ensuring your animation project runs smoothly from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="transparency"></div>
-					</div>
 					<h3 class="title">100% Transparency</h3>
 					<p class="description">We believe in clear and open communication. Our clients are kept informed at every stage of the animation process, ensuring trust and satisfaction.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
 					<h3 class="title">Post-Delivery Support</h3>
 					<p class="description">Enjoy 3 months of free support after the project's completion. We ensure that your animation remains flawless and fully functional, providing peace of mind.</p>
 				</div>
@@ -356,7 +339,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Animation Service</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Animation Service</span> Development Process</h2>
+					</div>
 					<p>We provide a streamlined and agile animation development process focused on achieving exceptional results. Our team is committed to delivering high-quality animations tailored to your needs, ensuring a seamless and efficient experience from start to finish.</p>
 				</div>
 			</div>
@@ -478,7 +463,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+						<h2 class="text-white">Ranked as #1 <span>Animation Services</span> Company</h2>
 					</div>
 				</div>
 			</div>
@@ -650,7 +635,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

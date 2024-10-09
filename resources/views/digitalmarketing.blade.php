@@ -1,22 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 digital-marketing-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">BEST DIGITAL MARKETING COMPANY</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">To make money online, you need to know what kind of Digital marketing services you need. You may think you have all the tools you need but that isn't true. You need a digital marketing agency. To make money online, you need to know what kind of services you need. You may think you have all the tools you need but that isn't true. You need a digital marketing agency, Like AppsNation. AppsNation is one of the leading <b> digital marketing agencies in California. </b></p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/digital-marketing/digital-marketing-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -29,13 +26,15 @@
 		<div class="row"> 
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/digital-marketing/digital-marketing-services.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/digital-marketing/digital-marketing-services.webp" alt="Digital Marketing" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2>Scale-Up With Our<br> <span class="flup-theme">Digital Marketing Services</span></h2>
+					<div data-text="Marketing" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">Digital Marketing</span> Services</h2>
+					</div>
+					
 					<p>Unlock the full potential of your online presence with our digital marketing services. Our experienced team specializes in SEO, PPC, content marketing, and social media strategy to drive targeted traffic and increase your brand's visibility. <br> <br> Whether you're looking to optimize your website, engage with your audience, or improve conversion rates, our experts are here to help. Don't miss the opportunity to grow your business in the digital space. </p> <br>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Hire Now
 						<i class="fas fa-chevron-right fa-icon"></i>
@@ -54,7 +53,9 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our <span>Digital Marketing</span> Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our <span>Digital Marketing</span> Services</h2>
+					</div>
 					<p>We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
 				</div>
 			</div>
@@ -63,7 +64,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-designing-img"></div>
+						<img src="images/services/digital-marketing/website-development.svg" alt="Website Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Website Development</h4>
@@ -76,7 +77,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-web-img"></div>
+						<img src="images/services/digital-marketing/email-marketing.svg" alt="Email Marketing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Email Marketing</h4>
@@ -89,7 +90,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-porting-img"></div>
+						<img src="images/services/digital-marketing/seo.svg" alt="SEO (Search Engine Optimization)" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>SEO (Search Engine Optimization)</h4>
@@ -102,7 +103,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-testing-img"></div>
+						<img src="images/services/digital-marketing/sem.svg" alt="Search Engine Marketing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Search Engine Marketing</h4>
@@ -115,7 +116,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-consultation-img"></div>
+						<img src="images/services/digital-marketing/smm.svg" alt="SMM (Social Media Marketing)" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>SMM (Social Media Marketing)</h4>
@@ -128,7 +129,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-app-dev-consultation-img"></div>
+						<img src="images/services/digital-marketing/cro.svg" alt="CRO (Conversion Rate Optimization)" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>CRO (Conversion Rate Optimization)</h4>
@@ -141,7 +142,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="custom-android-app-dev-img"></div>
+						<img src="images/services/digital-marketing/content-writing.svg" alt="Content Writing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Content Writing</h4>
@@ -154,7 +155,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-multi-platform-img"></div>
+						<img src="images/services/digital-marketing/marketing-automation.svg" alt="Marketing Automation" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Marketing Automation</h4>
@@ -167,7 +168,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-watch-img"></div>
+						<img src="images/services/digital-marketing/pay-per-click.svg" alt="PPC (Pay Per Click)" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>PPC (Pay Per Click)</h4>
@@ -180,7 +181,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-watch-img"></div>
+						<img src="images/services/digital-marketing/content-marketing.svg" alt="Content Marketing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Content Marketing</h4>
@@ -193,7 +194,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-watch-img"></div>
+						<img src="images/services/digital-marketing/copywriting.svg" alt="Copywriting" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Copywriting</h4>
@@ -206,7 +207,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-watch-img"></div>
+						<img src="images/services/digital-marketing/influencer-marketing.svg" alt="Influencer Marketing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Influencer Marketing</h4>
@@ -219,7 +220,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="android-watch-img"></div>
+						<img src="images/services/digital-marketing/affiliate-marketing.svg" alt="Affiliate Marketing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Affiliate Marketing</h4>
@@ -336,7 +337,9 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
 					<p class="text-white">We help a diverse clientele build result-driven web development products for different industries. </p>
 				</div>
 			</div>
@@ -345,7 +348,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
+						<img src="images/services/digital-marketing/certified-professionals.svg" alt="Certified Professionals" class="img-fluid">
 					</div>
 					<h3 class="title">Certified Professionals</h3>
 					<p class="description">We have certified digital marketing professionals who have years of experience in the industry.</p>
@@ -354,7 +357,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
+						<img src="images/services/digital-marketing/best-marketing-packages.svg" alt="Best Marketing Packages" class="img-fluid">
 					</div>
 					<h3 class="title">Best Marketing Packages</h3>
 					<p class="description">We provide affordable digital marketing packages for small and medium sized businesses.</p>
@@ -363,7 +366,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
+						<img src="images/services/digital-marketing/24x7-customer-support.svg" alt="24x7 Customer Support" class="img-fluid">
 					</div>
 					<h3 class="title">24x7 Customer Support</h3>
 					<p class="description">We work 24×7 to ensure that your business reaches the maximum possible audience.</p>
@@ -372,7 +375,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="technical-support"></div>
+						<img src="images/services/digital-marketing/free-consultation.svg" alt="Free Consultation" class="img-fluid">
 					</div>
 					<h3 class="title">Free Consultation</h3>
 					<p class="description">We help you to understand your customer requirements and provide a customized solution to your needs.</p>
@@ -381,7 +384,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<div class="transparency"></div>
+						<img src="images/services/digital-marketing/transparency.svg" alt="We Believe in Transparency" class="img-fluid">
 					</div>
 					<h3 class="title">We Believe in Transparency</h3>
 					<p class="description">We work with you throughout the project so that you can see the improvement of your business.</p>
@@ -398,7 +401,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span>Digital Marketing</span> Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Our <span>Digital Marketing</span> Process</h2>
+					</div>
 					<p>A good Digital marketing agency always has a proper digital marketing framework same as we have. We have a unique and proper digital marketing process, to make sure to give our clients the best results. We break our whole marketing process into a few steps:</p>
 				</div>
 			</div>
@@ -595,7 +600,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+						<h2 class="text-white">Ranked as #1 <span>Digital Marketing</span> Company</h2>
 					</div>
 				</div>
 			</div>
@@ -767,7 +772,9 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>

@@ -11,7 +11,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Finance & Banking App Development</h1>
 					<p class="banner-para mt20">We make banking and finance more effortless and more intuitive for you, allowing you to work more efficiently. We are technological, banking, and finance professionals. In a nutshell, we are excellent for any apps relating to financial and banking services.</p>
@@ -30,12 +30,12 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Custom Banking And Finance App Development Services</h2>
 				<p class="pt-3">AppsNation provides tailored app development services to various enterprises, including banks and financial institutions/organizations. We design unique commercial banking and finance apps to improve all of your users' banking and finance experience while also increasing account security. Our primary goal is to provide solutions for all banking and financial industry elements.</p>
 				<p class="pt-2">Whether you need a bespoke app to assist back-office processes or a native mobile app with a complex user experience, our skilled mobile app developers are here to help. Our financial and banking applications handle all sectors and can help your institution function more effectively, increase brand visibility, and make it easier for clients to access your services.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/financial-app-1.webp">
 			</div>
 		</div>
@@ -47,10 +47,10 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<img class="img-fluid" src="images/industries/financial-app-2.webp">
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Banking And Finance Industry</h2>
 				<p class="pt-3">To meet rising needs, the banking and financial business is embracing new technologies. These requirements necessitate scalable, secure, long-lasting, and user-friendly systems. In addition, with the introduction of the internet and social media, there is a significant risk of data breaches and fraudulent data transformation, which may result in substantial financial losses and loss of confidence.</p>
 				<p class="pt-2">The banking and finance industry is one of the most customer-driven industries. Therefore, major banks and financial institutions worldwide are striving to build and develop excellent mobile applications. These applications are intended to give a more personalized experience while also making it easier for clients to regulate their spending and make more informed decisions.</p>
@@ -78,15 +78,15 @@
 <section class="service py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Banking And Finance App Development Expertise</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>AppsNation is one of the best mobile app development companies providing a range of custom banking and finance software solutions that enable financial businesses to increase customer loyalty and grow their revenues while also simplifying day-to-day processes. We have a great experience building various complex banking and finance applications for different industries.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile Banking App Development</h4>
@@ -94,7 +94,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Financial Enterprise Management App Development</h4>
@@ -102,7 +102,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Personal Finance Tracking Apps Development</h4>
@@ -110,7 +110,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Cryptocurrency & E-Wallets App Development</h4>
@@ -118,7 +118,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile Accounting App Development</h4>
@@ -126,7 +126,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Stock Trading App Development</h4>
@@ -134,7 +134,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Insurance App Development</h4>
@@ -151,14 +151,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

@@ -130,14 +130,14 @@
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
 					<h2>We Partner with the <span>World's technology</span> leaders</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row pt-3 wow fadeInRight">
+		<div class="row pt-3 wow fadeIn">
 			<div class="col-12">
 				<div id="tech" class="carousel slide tech" data-bs-ride="carousel">
 					<div class="carousel-inner">
@@ -221,14 +221,14 @@
 <!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading w-tdxt">
 					<h2>Ranked as #1 <span>Mobile App</span> Development Company</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInRight">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
 
@@ -301,7 +301,7 @@
 		</div>
 
 		<div class="-cta-btn mt70">
-			<div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
+			<div class="free-cta-title v-center wow fadeIn" data-wow-delay="1s">
 				<div class="row justify-content-center">
 					<div class="col-lg-7">
 						<p class="text-center text-lg-start">We <span>Promise.</span> We <span>Deliver.</span> </p>
@@ -329,19 +329,19 @@
 <section class="service-section-app py-5 dark-bg2">
 	<div class="container mt-3">
 		<div class="row">
-			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeInLeft">
+			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeIn">
 				<div class="common-heading ptag">
 					<h2>Our Expertise</h2>
 				</div>
 			</div>
-			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeInRight">
+			<div class="col-lg-6 mt-5 mt-sm-3 mt-md-5 wow fadeIn">
 				<div class="common-heading ptag">
 					<p class="mb30">We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-img"></div>
@@ -357,7 +357,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="ios-img"></div>
@@ -373,7 +373,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="cross-platform-img"></div>
@@ -389,7 +389,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="game-app-img"></div>
@@ -405,7 +405,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="web-app-img"></div>
@@ -421,7 +421,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="wearable-img"></div>
@@ -437,7 +437,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="ar-app-img"></div>
@@ -453,7 +453,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="vr-app-img"></div>
@@ -469,7 +469,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="metaverse-img"></div>
@@ -494,7 +494,7 @@
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeInLeft">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
 				<div class="tab-content" id="imagetab">
 
 					@foreach($agencystack as $k=>$items)
@@ -513,7 +513,7 @@
 
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeInRight">
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
 				<h2>Different Industries We Serve:</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
@@ -562,19 +562,19 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInLeft">
+				<div class="common-heading ptag wow fadeIn">
 					<h2>Our <span>Mobile App</span> Development Process</h2>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeInRight">
+				<div class="common-heading ptag wow fadeIn">
 					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">01</p>
 						<h3 class="title">Project Analysis of Requirements</h3>
@@ -583,7 +583,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">02</p>
 						<h3 class="title">Wireframing & Designing</h3>
@@ -592,7 +592,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">03</p>
 						<h3 class="title">App Development</h3>
@@ -601,7 +601,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">04</p>
 						<h3 class="title">App Testing</h3>
@@ -610,7 +610,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">05</p>
 						<h3 class="title">App Development</h3>
@@ -619,7 +619,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="card timeline wow fadeInUp h-100">
+				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">06</p>
 						<h3 class="title">Maintenance</h3>
@@ -635,7 +635,7 @@
 <!-- Start Why Choose -->
 <section class="why-choose-section py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInUp">
+		<div class="row justify-content-center wow fadeIn">
 			<div class="col-12">
 				<div class="card py-3">
 					<div class="card-body">
@@ -686,7 +686,7 @@
 <section class="portfolio-section py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-12 wow fadeInLeft">
+			<div class="col-12 wow fadeIn">
 				<div class="common-heading">
 					<!-- <span>Our Work</span> -->
 					<h2 class="mb20 text-center">Our Latest Creative Work</h2>
@@ -696,7 +696,7 @@
 	</div>
 
 	<section class="container-fluid py-lg-5">
-		<ul class="nav nav-pills justify-content-center wow fadeInLeft" role="tablist">
+		<ul class="nav nav-pills justify-content-center wow fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
 			</li>
@@ -713,7 +713,7 @@
 				<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
 			</li> -->
 		</ul>
-		<div class="tab-content mt-5 wow fadeInRight">
+		<div class="tab-content mt-5 wow fadeIn">
 			<div id="app" class="tab-pane active"><br>
 				<div class="scrollHalf">
 					<div class="scrollHalf__grupo row h-100" data-scroll>
@@ -889,7 +889,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-12 wow fadeInUp">
+			<div class="col-sm-12 wow fadeIn">
 				<div class="case-slider owl-carousel mt20">
 					@foreach($casestudy as $item)
 					<div class="img-badge-">
@@ -914,7 +914,7 @@
 <!--Start Clients-->
 <section class="py-5 bg-gradient3">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
 					<!-- <span>Our happy customers</span> -->
@@ -922,7 +922,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row justify-content-center wow fadeInRight">
+		<div class="row justify-content-center wow fadeIn">
 			<div class="col-lg-12">
 				<div class="client-logoset">
 					<ul class="row text-center clearfix apppg justify-content-center">
@@ -949,17 +949,17 @@
 			<div class="col-lg-12">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-6 wow fadeInLeft">
+						<div class="col-lg-6 wow fadeIn">
 							<div class="common-heading text-l">
 								<h2 class="key-highlight">Our Achievements</h2>
 								<h6 class="key-numbers">Our work in numbers.</h6>
 							</div>
 						</div>
-						<div class="col-lg-6 wow fadeInRight my-auto">
+						<div class="col-lg-6 wow fadeIn my-auto">
 							<p class="key-desc">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success.We donot speak about our success, our work speaks about our success.</p>
 						</div>
 					</div>
-					<div class="row justify-content-center mt-5 wow fadeInUp">
+					<div class="row justify-content-center mt-5 wow fadeIn">
 						<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
 							<h2 class="numbers-count">8+</h2>
 							<p class="numbers-about">Years on the market</p>
@@ -988,14 +988,14 @@
 <!--Start Tech-->
 <section class="technologies-stack py-5">
 	<div class="container">
-		<div class="row wow fadeInLeft">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
 					<h2 class="mb30"><span>Technologies</span> we work with</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row wow fadeInRight">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
@@ -1639,7 +1639,7 @@
 <section class="testinomial-section-app bg-none py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-5 wow fadeInLeft">
+			<div class="col-lg-5 wow fadeIn">
 				<div class="common-heading text-l"> <span>What our clients say about AppsNation.</span>
 					<h2>Over 1200+ Satisfied Clients and Growing</h2>
 				</div>
@@ -1652,7 +1652,7 @@
 					<a href="#" target="blank" class="wow fadeIn col-lg-4 col-4" data-wow-delay=".6s"> <img src="images/about/reviews-icon-3.webp" alt="review" class="img-fluid"> </a>
 				</div>
 			</div>
-			<div class="col-lg-7 wow fadeInRight">
+			<div class="col-lg-7 wow fadeIn">
 				<div class="pl50">
 					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
 					<div class="testimonial-card-a tcd owl-carousel">
@@ -1685,7 +1685,7 @@
 <!-- Start Hire Developers -->
 <section class="hire-developers py-5">
 	<div class="container">
-		<div class="row justify-content-center wow fadeInDown">
+		<div class="row justify-content-center wow fadeIn">
 			<div class="col-12">
 				<div class="card py-3">
 					<div class="card-body">
@@ -1829,14 +1829,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="common-heading wow fadeInDown">
+				<div class="common-heading wow fadeIn">
 					<h2 class="mb30">Latest Stories</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			@foreach($data['data'] as $post)
-			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeInUp">
+			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="card h-100">
 					<a href="{{ $post['guid'] }}">
 						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
@@ -1868,7 +1868,7 @@
 </section>
 
 <div class="container">
-	<div class="row mb-4 text-center wow fadeInLeft">
+	<div class="row mb-4 text-center wow fadeIn">
 		<div class="col-12">
 			<a href="https://blog.appsnation.co/" class="btn-main button-arounder lnk">View More
 				<i class="fas fa-chevron-right fa-icon"></i>

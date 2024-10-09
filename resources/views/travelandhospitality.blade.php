@@ -11,7 +11,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Travel And Hospitality</h1>
 					<p class="banner-para mt20">Our developers keep your customers engaged and informed with custom apps tailored for the travel and hospitality industry. We connect hotel and restaurant owners with their target audience through innovative mobile app development solutions.</p>
@@ -30,7 +30,7 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Customer-Centric Travel And Hospitality Application Development</h2>
 				<p class="pt-3">We offer diverse iOS and Android app development services in the travel and hospitality industry, ranging from assisting customers in finding the right hotel using GPS tracking to discovering the newest restaurants in the region. Our track record in this industry includes:</p>
 				<ul class="pl-5 pt-3">
@@ -41,7 +41,7 @@
 					<li>Bed and Breakfast Application.</li>
 				</ul>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/travel-app-1.webp">
 			</div>
 		</div>
@@ -66,14 +66,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

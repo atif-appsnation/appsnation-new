@@ -12,7 +12,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Education</h1>
 					<p class="banner-para mt20">Promoting Education and helping students learn more effectively with the new Education system – remote learning – your learning Educational mobile application can play a significant role. As the top-rated Education development services, we deliver you a top-notch solution.</p>
@@ -31,12 +31,12 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Personalized Education App Development Services</h2>
 				<p class="pt-3">Similar to how other businesses transformed based on the technological revolution, the educational and learning industry also altered drastically. Online classes and Zoom sessions replaced physical classrooms with a remote environment where students can learn and get an education in their bedrooms. Similarly, the transition carried along with the methodologies to modern from conventional teachings methods of teachers.</p>
 				<p class="pt-2">With the increasing use of smartphones among youngsters, mobile applications play an essential part in their learning process. Moreover, because education is viewed as bringing about change, it is critical to expose pupils to new and creative learning concepts. We are an educational app development company with extensive expertise in turning a mediocre idea into a commercially successful enterprise.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/education-and-hr-app-1.webp">
 			</div>
 		</div>
@@ -48,10 +48,10 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<img class="img-fluid" src="images/industries/education-and-hr-app-2.webp">
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Education Industry</h2>
 				<p class="pt-3">In recent years, educational applications have grown in popularity among users of all ages around the world. Apps for education have been deemed a more appropriate way of learning. Still, it is a contentious subject for some due to the notion that education is not taken seriously by children. Knowledge is more essential than how you do it, and one may make the most use of the available technologies.</p>
 				<p class="pt-2">There are hundreds of eLearning systems available that provide students with simple access to the material at any time and from any location. Furthermore, these applications offer user-friendly features that allow students to learn at their own speed.</p>
@@ -79,15 +79,15 @@
 <section class="service py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Education App Development Expertise</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>AppsNation offers a diverse range of Education app development services that make our clients' jobs more straightforward and thoughtful. Using our technology and services, we alter the way Education is delivered and present significant changes to the Education industry to make it more effective than ever.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>eLearning App Development</h4>
@@ -95,7 +95,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Online Training App Development</h4>
@@ -103,7 +103,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>E-Library App Development</h4>
@@ -111,7 +111,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Educational Game App Development</h4>
@@ -119,7 +119,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile applications for Schools</h4>
@@ -127,7 +127,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile Applications For College</h4>
@@ -135,7 +135,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile Applications For University</h4>
@@ -143,7 +143,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>AR Learning Apps Development</h4>
@@ -151,8 +151,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-0 col-sm-0 col-md-0 col-lg-3 wow fadeInLeft"></div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-0 col-sm-0 col-md-0 col-lg-3 wow fadeIn"></div>
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>VR Learning Apps Development</h4>
@@ -160,7 +160,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Interactive Storytelling App Development</h4>
@@ -168,7 +168,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-0 col-sm-0 col-md-0 col-lg-3 wow fadeInLeft"></div>
+			<div class="col-0 col-sm-0 col-md-0 col-lg-3 wow fadeIn"></div>
 		</div>
 	</div>
 </section>
@@ -178,14 +178,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Thriving To Achieve Smart,Unique And State Of The Art Solutions</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our team of experts have mastered the art of enabling a brand to have a solid long term, long lasting online presence by offering the best, up to date iOS, Android and wearable apps design and development services in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

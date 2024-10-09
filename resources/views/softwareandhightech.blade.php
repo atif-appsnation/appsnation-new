@@ -10,7 +10,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Custom Software Development Services</h1>
 					<p class="banner-para mt20">We're dedicated to helping you keep pace with the rapidly evolving world of technology by providing user-friendly web and app development solutions for your customers. Our software development solutions are designed to simplify complexities, bringing us closer to our mobile-first goal.</p>
@@ -29,7 +29,7 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="ccol-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeInLeft">
+			<div class="ccol-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Strategically Wireframed Tech Apps And Solutions</h2>
 				<p class="pt-3">We specialize in creating user-friendly apps that simplify complex functions, ensuring your development solutions are easy to use and human-friendly. Our dedicated software development team, combined with our skilled app and web engineers, is committed to helping you stay ahead in this industry. Notable developments include:</p>
 				<ul class="ps-5 pt-3">
@@ -40,7 +40,7 @@
 					<li>Mortgage Dealership Applications.</li>
 				</ul>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/software-app-1.webp">
 			</div>
 		</div>
@@ -65,14 +65,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

@@ -11,7 +11,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Sports Teams And Leagues</h1>
 					<p class="banner-para mt20">Sports is the biggest industry, with multiple sports of different categories holding billions of fans together. As technology revolutionized, these fans demanded a sports mobile app where they could witness the competition live in their palm of hands. We help the sports industry with innovative solutions.</p>
@@ -30,12 +30,12 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Custom Sports App Development Services</h2>
 				<p class="pt-3">We are a top-rated sports app development company with years of experience developing custom sports mobile applications. Our expert mobile app developers have already converted many sports clubs, fitness centers, sports event planners, workout management, and more into functional mobile apps. The apps we develop offer bespoke benefits to the sports business and the targeted audience with custom sports features and services.</p>
 				<p class="pt-2">We work hard as a sports app development company to provide a seamless user experience. Our developers strategize, plan, wireframe, design, create and manage products to keep ahead of the technological curve. We provide unique sports software and applications to show detailed sports data in exciting and understandable ways for sports fans.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/sports-app-1.webp">
 			</div>
 		</div>
@@ -47,10 +47,10 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<img class="img-fluid" src="images/industries/sports-app-1.webp">
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Sports Industry</h2>
 				<p class="pt-3">The scope of app development in the sports business is far greater than standard smartphones and tablets. Sports enthusiasts want to know just about everything there is to know about the game, including the time, location, roster, team history, extensive statistics, and other important facts.</p>
 				<p class="pt-2">Sports lovers have been using smartphones for a long time: the App Store contains hundreds or thousands of sports applications. There are various entertainment and sports applications; several collect data and allow us to check scores while playing. </p>
@@ -78,15 +78,15 @@
 <section class="service py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Sports App Development Expertise</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<p>We design and build premium sports apps that create a unique experience for fans. Our services range from journey and data visualization to next-gen augmented reality, making us your one-stop destination for all your sports app's needs. We develop Android & iOS apps—and offer expertise in cross-platform app development.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Fantasy Sports App Development</h4>
@@ -94,7 +94,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Betting App Development</h4>
@@ -102,7 +102,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Coaching And Training App Development</h4>
@@ -110,7 +110,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>On-Demand Sports Coach App Development</h4>
@@ -118,7 +118,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Streaming App Development</h4>
@@ -126,7 +126,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Event Booking App Development</h4>
@@ -134,7 +134,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Team & League Management App Development</h4>
@@ -142,7 +142,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block last-featured">
 					<div class="health-experties">
 						<h4>AR VR Sports App Development</h4>
@@ -159,14 +159,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

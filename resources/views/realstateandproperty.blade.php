@@ -11,7 +11,7 @@
 	@endif
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Real Estate App Development Company</h1>
 					<p class="banner-para mt20">The real estate industry desperately craves a mobile app to enable buyers to inspect the property or site from around the world or within the region. As a prestigious app development company, we offer custom real estate app development services to enhance your business.</p>
@@ -30,12 +30,12 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Custom Real Estate App Development Services</h2>
 				<p class="pt-3">We are a real estate app development company that provides the highest quality real estate apps. Our mobile app development specialists have extensive commercial and residential real estate knowledge. We can create cutting-edge real estate management software, ranging from sales and marketing applications to bespoke APIs to improve communication and the customer experience between potential buyers and agents.</p>
 				<p class="pt-2">Get a real estate mobile app to reach out to more potential home buyers. You will be able to list a property in greater detail with several high-quality images using a mobile app.</p>
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
 				<img class="img-fluid" src="images/industries/real-estate-app-1.webp">
 			</div>
 		</div>
@@ -47,10 +47,10 @@
 <div class="statistics-wrap my-5">
 	<div class="container">
 		<div class="row small mt0">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeInLeft">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<img class="img-fluid" src="images/industries/real-estate-app-1.webp">
 			</div>
-			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeInRight">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Why A Real Estate Business Must Have A Mobile App?</h2>
 				<p class="pt-3">Yes, a website is excellent for a real estate business, but a mobile app is superior. The most significant advantage of a mobile app over a website is its versatility, especially if it is a native app. The native app uses the device's features to provide users with a more in-depth and comfortable experience. And the mobile lifestyle forces people to do everything on the go. That is why you are looking for real estate app development solutions.</p>
 				<p class="pt-2">The most significant advantage of a mobile app over a website is its versatility, mainly if it is a native app. The native app uses the device's features to provide users with a more in-depth and comfortable experience. And the mobile lifestyle forces individuals to accomplish everything on the go.</p>
@@ -78,15 +78,15 @@
 <section class="service py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Real Estate App Development Expertise</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight">
+			<div class="col-lg-6 wow fadeIn">
 				<p>If you want to create your personalized real estate mobile app, work with us to provide your buyers and agents with a solid platform for trading properties. We provide you with result-oriented solutions to all of your challenges.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>GPS Enabled Real Estate And Property App Development</h4>
@@ -94,7 +94,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Real Estate AR App Development</h4>
@@ -102,7 +102,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInLeft">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Real State VR App Development</h4>
@@ -110,7 +110,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Apartment-For-Rent App Development</h4>
@@ -118,7 +118,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeInRight">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Land-For-Sale App Development</h4>
@@ -135,14 +135,14 @@
 <section class="industries py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 wow fadeInLeft">
+			<div class="col-lg-6 wow fadeIn">
 				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
 			</div>
-			<div class="col-lg-6 wow fadeInRight mt-4 mt-lg-0">
+			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>
 			</div>
 		</div>
-		<div class="row mt-5 wow fadeInUp">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-2">
 				<div class="s-block wide-sblock industry-type-block">
 					<div class="mobile-app-development"></div>

@@ -12071,6 +12071,26 @@ ul.list {
 
 /* End Industrial Automation */
 
+/* Start Digital Marketing */
+
+.digital-marketing-banner {
+    background: url(../images/banner/digital-marketing.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End Digital Marketing */
+
+/* Start Animation Services */
+
+.animation-banner {
+    background: url(../images/banner/animation-services.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End Animation Services */
+
 /* Start 2D Art */
 
 .twod-art-page {

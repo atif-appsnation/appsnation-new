@@ -29,67 +29,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 v-center">
-				<div class="common-heading text-l">
-					<!-- <span>Contact Now</span> -->
-					<h2 class="mt0 mb0">Have Question? Write a Message</h2>
-					<p class="mb60 mt20">We will catch you as early as we receive the message</p>
-				</div>
-				<div class="form-block contact-us-form">
-					<form id="contactForm" method="post" data-toggle="validator" class="shake" action="{!!route('leads')!!}">
-						@csrf
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" name="name" id="name" placeholder="Enter name" required="" data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group col-sm-6">
-								<input type="email" name="email" id="email" placeholder="Enter email" required="">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group col-sm-6">
-								<select name="service" class="custom-select">
-									<option selected="">Select</option>
-									<option value="mobile-app-development">Mobile App Development</option>
-									<option value="ar-vr-app-development">AR & VR App Development</option>
-									<option value="strategic-design-consultancy">Strategic Design Consultancy</option>
-									<option value="mobile-app-qa-and-testing">Mobile App QA and Testing</option>
-									<option value="web-portal-development">Web Portal Development</option>
-									<option value="connected-devices">Connected Devices</option>
-								</select>
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" id="company" name="company" placeholder="Enter company name (optional)" required="" data-error="">
-							</div>
-							<div class="form-group col-sm-6">
-								<input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="form-group">
-							<textarea id="message" name="message" rows="5" placeholder="Enter your message" required=""></textarea>
-							<div class="help-block with-errors"></div>
-						</div>
-						<div class="form-group mb-2">
-							{!! NoCaptcha::renderJs() !!}
-							{!! NoCaptcha::display() !!}
-						</div>
-
-						<button type="submit" name="submit" id="form-submit" class="btn-main button-arounder lnk">Submit
-							<i class="fas fa-chevron-right fa-icon"></i>
-						</button>
-						<div id="msgSubmit" class="h3 text-center hidden"></div>
-						<div class="clearfix"></div>
-					</form>
-				</div>
+				<img src="images/why-choose/why-choose.webp" class="img-fluid w-100 h-100">
 			</div>
 			<div class="col-lg-6 v-center">
 				<div class="contact-details">
@@ -102,7 +42,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="email-card mt30 wow fadeIn" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+					<div class="email-card mt20 wow fadeIn" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="info-card v-center text-white">
 							<span><i class="fas fa-envelope"></i> Email:</span>
 							<div class="info-body">
@@ -111,7 +51,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="skype-card mt30 wow fadeIn" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">
+					<div class="skype-card mt20 wow fadeIn" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">
 						<div class="info-card v-center">
 							<a href="https://www.facebook.com/AppsNationUS" target="_blank">
 								<span><i class="fa-brands fa-facebook"></i> Facebook</span>

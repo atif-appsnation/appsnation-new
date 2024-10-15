@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 floor-plan">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -12,8 +12,6 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">2D & 3D FLOOR PLAN SERVICES</h1>
-					<!-- <p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p> --> <br>
-					 <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
@@ -36,7 +34,9 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<!-- <span>Overview</span> -->
-					<h2>Enhance Your Space with Our<br> <span class="flup-theme">Custom 2D & 3D Floor Plan Services</span></h2>
+					<div data-text="FLOOR PLAN" class="light-bg-text bg-text">
+						<h2>Enhance Your Space with Our<br> <span class="flup-theme">Custom 2D & 3D Floor Plan Services</span></h2>
+					</div>
 					<p><strong>Get the floor plan you deserve—clear, precise, and tailored to your specific needs. Our designs are functional, aesthetically pleasing, and highly detailed.</strong></p>
 					<p>Did you know? Accurate floor plans are essential for any successful architectural or interior design project. We leverage cutting-edge technology and top talent to deliver the best in 2D and 3D floor planning. Our team, akin to design wizards, strives to bring your vision to life with innovative and unique layouts.</p>
 					<p>We are a data-driven design firm that uses analytics and insights to craft plans that perfectly align with your project goals. Whether for residential or commercial spaces, we help you optimize your environment. Our plans are visually compelling and ensure flawless execution in real life.</p>
@@ -53,7 +53,9 @@
 		<div class="row">
 			<div class="col-lg-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2 class="text-center" >Showcase <span> 2D & 3D </span> Floor Plan Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text text-center">
+						<h2 class="text-center mb-5">Showcase <span> 2D & 3D </span> Floor Plan Services</h2>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -155,7 +157,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Benefits of <span> 2D & 3D Floor Plan </span> Services</span></h2>
+					<div data-text="Benefits" class="dark-bg-text bg-text">
+						<h2 class="text-white">Benefits of <span> 2D & 3D Floor Plan </span> Services</span></h2>
+					</div>
 					<p class="text-white">We offer 2D and 3D floor plans to help visualize and optimize your space, ensuring functionality and aesthetic appeal. Our plans provide clear project representations.</p>
 				</div>
 			</div>
@@ -219,7 +223,9 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Our <span> 2D & 3D Floor Plan</span> Development Process</h2>
+					<div data-text="Process" class="light-bg-text bg-text">
+						<h2>Our <span> 2D & 3D Floor Plan</span> Development Process</h2>
+					</div>
 					<p>We offer a streamlined and efficient process for developing 2D and 3D floor plans, ensuring a result-driven approach that meets our clients' specific needs and preferences.</p>
 				</div>
 			</div>
@@ -276,7 +282,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn my-auto"fadeIn>
-				<p>One of the first tasks in the construction, remodeling, and interior design of a home is to create a rendered floor plan. A 3D graphic of the property layout gives a good idea of the area, convenience, and functionality. Another method of visualizing rooms and furniture, as well as the decor of any house, is to use 3D floor plan drawings.</p>
+				<p class="text-white">One of the first tasks in the construction, remodeling, and interior design of a home is to create a rendered floor plan. A 3D graphic of the property layout gives a good idea of the area, convenience, and functionality. Another method of visualizing rooms and furniture, as well as the decor of any house, is to use 3D floor plan drawings.</p>
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn v-center pt-3 pt-sm-3 pt-md-3 pt-lg-0"fadeIn>
@@ -290,7 +296,7 @@
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0"fadeIn>
-				<p>Our business floor designs service covers 3D floor plans for restaurants, offices, mansions, cafes, and hospitals. Doors, stairwells, windows, walls, elevators, columns, and fittings are common features. By including furniture, you can demonstrate the magnitude of a room and how to correctly design it. While looking at the 3D floor plan layout, you or your customers can have a sense of being in that same room.</p>
+				<p class="text-white">Our business floor designs service covers 3D floor plans for restaurants, offices, mansions, cafes, and hospitals. Doors, stairwells, windows, walls, elevators, columns, and fittings are common features. By including furniture, you can demonstrate the magnitude of a room and how to correctly design it. While looking at the 3D floor plan layout, you or your customers can have a sense of being in that same room.</p>
 			</div>
 		</div>
 	</div>
@@ -299,9 +305,11 @@
 <section class="floor-plan-service service-section-app py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeIn"fadeIn>
+			<div class="col-12 wow fadeIn"fadeIn>
 				<div class="common-heading">
-					<h2 class="text-center"> Our <span>3D House Plans</span> Services</h2>
+					<div data-text="Services" class="light-bg-text bg-text text-center">
+						<h2 class="text-center"> Our <span>3D House Plans</span> Services</h2>
+					</div>
 					<p class="mt10 py-5 text-center">People find it difficult to comprehend and imagine a location from sketches, thus floor plans with 3D effects are a solution to this problem, displaying the whole property layout in a simple and visually appealing manner. Applet 3D gives you a stunning overview of your requirements and a greater knowledge of the scale, texture, and color of a space, as well as its possibilities. It's a fantastic opportunity to get a true sense of the entire home or just the ground level 3D design.</p>
 				</div>
 			</div>
@@ -310,7 +318,7 @@
 				<iframe width="100%" height="515" src="https://www.youtube.com/embed/_RSCkfc4g7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 			</div> -->
 
-			<div class="col-lg-10 col-md-10 col-sm-10 col-12 wow fadeIn"fadeIn>
+			<div class="col-12 wow fadeIn">
 				<p class="text-center">Before making large project investments, 3D floor plan design services can detect any design faults. Without an interactive 3D floor plan, clients and buyers will have a tough time determining the property's size and exact furniture and décor arrangement. Bring your client's vision to life with realistic and detailed 3D house plans that are tailored to their specific requirements and lifestyles. Use our 3D rendering services to create a floor plan. Get a quote for your project by filling out the form.</p>
 			</div>
 		</div>

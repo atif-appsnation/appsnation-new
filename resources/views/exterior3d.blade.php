@@ -1,22 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 exterior-3d-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">3D EXTERIOR RENDERING SERVICES</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Exterior renderings are a necessary component of today's project visualization. Exterior rendering services are mostly used to visually present a design concept.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/3d exterior-rendering-services/threed-exterior-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -29,7 +26,9 @@
         <div class="row justify-content-center wow fadeIn">
             <div class="col-12">
                 <div class="common-heading">
-                    <h2 class="text-center"><span>3D Exterior Rendering</span> Services</h2>
+					<div data-text="3D Exterior" class="light-bg-text bg-text text-center">
+						<h2 class="text-center">Scale-Up With Our <span class="flup-theme">3D Exterior Rendering</span> Services</h2>
+					</div>
                     <p class="pt-2 text-center"> Exterior renderings are a necessary component of today's project visualization. Exterior rendering services are mostly used to visually present a design concept. This will make customer collaboration easier and allow you to learn more about their preferences. Using CGI, 3D exterior visualization enables for the creation of volumetric pictures of any object. This method is excellent for increasing creativity, experimenting, and imagination.</p>
                     <p class="pt-2 text-center">The outside 3D model's high-quality representation conforms to the building and architectural features, as well as the materials utilized. In addition, the setting contains a 3D representation of the building itself. As a result, the outside renders are completely accurate to the future construction. Now you can spin your house around using your computer's mouse to see how it fits into the site, as shown below.</p>
                 </div>
@@ -156,9 +155,11 @@
 <section class="service-section-app py-5">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 col-sm-10 wow fadeIn">
+            <div class="col-12 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="text-center">Our <span>3D Exterior</span> Rendering Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text text-center">
+						<h2 class="text-center">Our <span>3D Exterior</span> Rendering Services</h2>
+					</div>
                     <p class="pt-3 text-center">Our exterior rendering firm can assist you in creating traditional 3D models of any structure. When dealing with certain engines, we use specific visualization approaches and modern design strategies. You will have a great opportunity to present your future project of a summer cottage, house, multi-story structure, or entire block with all the details and features with the help of Applet 3D specialists in making exterior renders. </p>
                 </div>
             </div>

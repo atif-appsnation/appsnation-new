@@ -1,24 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2">
+<section class="breadcrumb-areav2 interior-3d-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">3D INTERIOR RENDERING SERVICES</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">interior renderings are a necessary component of today's project visualization.
-						interior rendering services are mostly used to visually present a design concept.</p> <br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn" data-wow-delay="0.8s">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+					<p class="mt20 text-white" data-wow-delay=".4s">interior renderings are a necessary component of today's project visualization. interior rendering services are mostly used to visually present a design concept.</p>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/3d interior-rendering-services/threed-interior-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -31,7 +26,9 @@
         <div class="row justify-content-center wow fadeIn" wow fadeIn>
             <div class="col-12">
                 <div class="common-heading">
-                    <h2 class="text-center"><span>3D Interior Rendering</span> Services</h2>
+					<div data-text="3D Exterior" class="light-bg-text bg-text text-center">
+						<h2 class="text-center">Scale-Up With Our <span class="flup-theme">3D Interior Rendering</span> Services</h2>
+					</div>
                     <p class="pt-2 text-center">Interior renderings are a necessary component of today's project visualization. Interior rendering services are mostly used to visually present a design concept. This will make customer collaboration easier and allow you to learn more about their preferences. Using CGI, 3D Interior visualization enables for the creation of volumetric pictures of any object. This method is excellent for increasing creativity, experimenting, and imagination.</p>
                 </div>
             </div>
@@ -354,9 +351,11 @@
 <section class="threed-interior-rendering service-section-app py-5">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-12 col-sm-10 wow fadeIn" wow fadeIn>
+			<div class="col-12 wow fadeIn" wow fadeIn>
 				<div class="common-heading">
-					<h2 class="text-center">Our <span>3D Interior</span> Rendering Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text text-center">
+						<h2 class="text-center">Our <span>3D Interior</span> Rendering Services</h2>
+					</div>
 					<p class="pt- text-center">Our interior rendering firm can assist you in creating traditional 3D models of any structure. When dealing with certain engines, we use specific visualization approaches and modern design strategies. You will have a great opportunity to present your future project of a summer cottage, house, multi-story structure, or entire block with all the details and features with the help of Applet 3D specialists in making interior renders. </p>
 				</div>
 			</div>

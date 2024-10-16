@@ -1,24 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav1 threed-art-page">
+<section class="breadcrumb-areav2 threed-art-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2 common-heading">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mesmerizing 3D Art Design Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Art is not limited to being a picture on a wall. It can be a symbol of your ideas, feelings, and emotions. At AppsNation, we are passionate about 3D Art Design and world-class 3D renderings. We put our heart and soul into providing high-quality designs for you.</p>
-					<br><br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/3d-art/3d-art-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
 		</div>
 	</div>
@@ -31,13 +26,14 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/3d-art/3d-art-development.webp" alt="3D Art Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2>Mesmerizing <br> <span class="flup-theme">3D Art Design Services</span></h2>
+					<div data-text="3D Art" class="light-bg-text bg-text">
+						<h2>Mesmerizing <br> <span class="flup-theme">3D Art Design Services</span></h2>
+					</div>
 					<!-- <p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p> -->
 					<p>Transform your ideas into stunning 3D visuals with AppsNation. Our passion for 3D art brings high-quality renderings that capture the essence of your vision. We specialize in creating captivating designs that express your ideas and emotions.</p>
 					<p>Experience world-class 3D art that elevates your project's visual appeal. Let AppsNation bring your concepts to life with exceptional craftsmanship and innovative techniques.</p>
@@ -54,13 +50,15 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our <span> 3D Art </span>Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our <span>3D Art</span> Services</h2>
+					</div>
 					<p>We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
@@ -73,7 +71,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
@@ -87,7 +85,7 @@
 				</div>
 			</div>
 			
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
@@ -100,7 +98,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-consultation-img"></div>
@@ -203,7 +201,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>3D Character</span> Design</h2>
+				<div data-text="Character" class="dark-bg-text bg-text">
+                	<h2 class=" text-center text-white"><span>3D Character</span> Design</h2>
+				</div>
                 <p class="text-center text-white">At AppsNation, we design 3D characters in various styles- cartoon, realistic, and photorealistic – to create a unique personality that tells your story.</p>
             </div>
         </div>
@@ -303,7 +303,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>3D Environment</span> Design</h2>
+				<div data-text="Environment" class="dark-bg-text bg-text">
+					<h2 class="text-center text-white"><span>3D Environment</span> Design</h2>
+				</div>
                 <p class="text-center text-white">AppsNation is a leading 3D environment design, visualization, and simulation services, provider. We have an experienced team of artists and engineers that can transform your business idea into a reality.</p>
             </div>
         </div>
@@ -403,7 +405,9 @@
     <div class="container">
         <div class="row justify-content-center wow common-heading fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>3D Game Assets</span> Design</h2>
+				<div data-text="Game Assets" class="dark-bg-text bg-text">
+					<h2 class="text-center text-white"><span>3D Game Assets</span> Design</h2>
+				</div>
                 <p class="text-center text-white">We have been creating 3D models for over a decade and have become the leading provider of professional 3D game assets to studios, clients, and creators worldwide.</p>
             </div>
         </div>
@@ -503,7 +507,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>3D Sculpting</span> Services</h2>
+				<div data-text="Sculpting" class="dark-bg-text bg-text">
+					<h2 class=" text-center text-white"><span>3D Sculpting</span> Services</h2>
+				</div>
                 <p class="text-center text-white">At AppsNation, we specialize in 3D sculpting services to make your dreams a reality. Our skilled artisans will sculpt your ideas and take them to the next level to make them look and feel better with our high-end services.</p>
             </div>
         </div>
@@ -664,7 +670,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center">Our Extra <span>3D Art</span> Services</h2>
+				<div data-text="Our Services" class="light-bg-text bg-text">
+					<h2 class=" text-center">Our Extra <span>3D Art</span> Services</h2>
+				</div>
                 <p class="text-center">We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
             </div>
         </div>
@@ -758,62 +766,64 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Benefits of Our <span> 3D Art Design </span> Services</h2>
+					<div data-text="Benefits" class="light-bg-text bg-text">
+						<h2>Benefits of Our <span> 3D Art Design </span> Services</h2>
+					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
+			<div class="col-12 col-md-6 col-lg-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<!-- <h4 class="title">Requirement Analysis</h3> -->
 					<p class="description">Our team has years of a strong background in graphic design, which makes them able to work on multiple projects at once./p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<!-- <h3 class="title">App Development Strategies</h3> -->
 					<p class="description">Our designers are well-versed in the latest trends and designs, which helps us create unique designs that stand out from other methods.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<!-- <h3 class="title">Wireframing And Designing</h3> -->
 					<p class="description">We use the latest technologies to create our designs to be printed on various materials like paper, cardboard, and even plastic.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<!-- <h3 class="title">Development Phase</h3> -->
 					<p class="description">We offer free consultations so you can get to know our work before hiring us for your project.	</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<!-- <h3 class="title">App Testing</h3> -->
 					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<!-- <h3 class="title">App Deployment</h3> -->
 					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">07</p>
 					<!-- <h3 class="title">App Testing</h3> -->
 					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">08</p>
 					<!-- <h3 class="title">App Deployment</h3> -->
@@ -1147,13 +1157,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
-                <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
-                </div>
+				<div data-text="FAQ" class="light-bg-text bg-text">
+					<h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+				</div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt20 wow fadeIn">
+            <div class="col-sm-12 mt100 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
@@ -1206,151 +1216,147 @@
 </section>
 <!-- End FAQS -->
 
-
+<!-- Start Hire -->
 <section class="hire-developers py-3 py-md-3 py-lg-5">
     <div class="container">
-        <div class="row justify-content-center wow fadeIn">
-            <div class="col-12">
-                <div class="card py-3">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-xl-6">
-                                <h2>Hire Dedicated Designers For Your <span>3D Art</span> Project</h2>
-                                <p class="pt-2">If you are looking for a dedicated 3d designer for your 3d art, AppsNation can be your first choice. For our clients, we offer dedicated 3d designers at hourly charges. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
-                            </div>
-                            <div class="col-xl-6 mt-3">
-                                <div class="row scroller">
-                                    <div class="col-sm-6 col-md-6 col-lg-4">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
-                                                <p class="text-center pt-2">Photoshop</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-md-0">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/maya-logo.webp" class="img-fluid d-block mx-auto" alt="Maya">
-                                                <p class="text-center pt-2">Maya</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/3ds-max-logo.webp" class="img-fluid d-block mx-auto" alt="3DS Max">
-                                                <p class="text-center pt-2">3DS Max</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
-                                                <p class="text-center pt-2">Blender</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/marmoset-toolbag-logo.webp" class="img-fluid d-block mx-auto" alt="Marmoset Toolbag">
-                                                <p class="text-center pt-2">Marmoset Toolbag</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/modo-logo.webp" class="img-fluid d-block mx-auto" alt="Modo">
-                                                <p class="text-center pt-2">Modo</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/v-ray-logo.webp" class="img-fluid d-block mx-auto" alt="V-Ray">
-                                                <p class="text-center pt-2">V-Ray</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/chaos-corona-logo.webp" class="img-fluid d-block mx-auto" alt="Corona">
-                                                <p class="text-center pt-2">Corona</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/zbrush-logo.webp" class="img-fluid d-block mx-auto" alt="ZBrush">
-                                                <p class="text-center pt-2">ZBrush</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/marvelous-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Marvelous Designer">
-                                                <p class="text-center pt-2">Marvelous</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
-                                                <p class="text-center pt-2">Unreal Engine</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/substance-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Designer">
-                                                <p class="text-center pt-2">Substance Designer</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity Designer">
-                                                <p class="text-center pt-2">Unity</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/substance-painter-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Painter">
-                                                <p class="text-center pt-2">Substance Painter</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-lg-4 mt-3">
-                                        <div class="card stack-hov">
-                                            <div class="card-body">
-                                                <img src="images/tech/mari-logo.webp" class="img-fluid d-block mx-auto" alt="Mari">
-                                                <p class="text-center pt-2">Mari</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+		<div class="row">
+			<div class="col-xl-6 my-auto">
+				<div class="common-heading">
+					<div data-text="Hire" class="dark-bg-text bg-text">
+						<h2 class="text-white">Hire Dedicated Designers For Your <span>3D Art</span> Project</h2>
+					</div>
+				</div>
+				<p class="pt-2 text-white">If you are looking for a dedicated 3d designer for your 3d art, AppsNation can be your first choice. For our clients, we offer dedicated 3d designers at hourly charges. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
+				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-5">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+			</div>
+			<div class="col-xl-6 mt-3">
+				<div class="row scroller">
+					<div class="col-sm-6 col-md-6 col-lg-4">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
+								<p class="text-center pt-2">Photoshop</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-md-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/maya-logo.webp" class="img-fluid d-block mx-auto" alt="Maya">
+								<p class="text-center pt-2">Maya</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/3ds-max-logo.webp" class="img-fluid d-block mx-auto" alt="3DS Max">
+								<p class="text-center pt-2">3DS Max</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+								<p class="text-center pt-2">Blender</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/marmoset-toolbag-logo.webp" class="img-fluid d-block mx-auto" alt="Marmoset Toolbag">
+								<p class="text-center pt-2">Marmoset Toolbag</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/modo-logo.webp" class="img-fluid d-block mx-auto" alt="Modo">
+								<p class="text-center pt-2">Modo</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/v-ray-logo.webp" class="img-fluid d-block mx-auto" alt="V-Ray">
+								<p class="text-center pt-2">V-Ray</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/chaos-corona-logo.webp" class="img-fluid d-block mx-auto" alt="Corona">
+								<p class="text-center pt-2">Corona</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/zbrush-logo.webp" class="img-fluid d-block mx-auto" alt="ZBrush">
+								<p class="text-center pt-2">ZBrush</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/marvelous-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Marvelous Designer">
+								<p class="text-center pt-2">Marvelous</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+								<p class="text-center pt-2">Unreal Engine</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/substance-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Designer">
+								<p class="text-center pt-2">Substance Designer</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity Designer">
+								<p class="text-center pt-2">Unity</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/substance-painter-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Painter">
+								<p class="text-center pt-2">Substance Painter</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/mari-logo.webp" class="img-fluid d-block mx-auto" alt="Mari">
+								<p class="text-center pt-2">Mari</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
     </div>
 </section>
-
+<!-- End Hire -->
 
 
 @endsection

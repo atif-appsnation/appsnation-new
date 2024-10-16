@@ -1,24 +1,19 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav twod-art-page ">
+<section class="breadcrumb-areav2 twod-art-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2 common-heading">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest <span> 2D Art Design </span>Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
-					<br><br>
-					<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow">Get Your Free Consultation <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 				</div>
-			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/2d-art/2d-art-banner-img.webp" class="img-fluid" alt="2D Android App Development">
 			</div>
 		</div>
 	</div>
@@ -31,13 +26,14 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="2D Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/2d-art/2d-art-development.webp" alt="2D Art Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
-					<h2>Elevate Your Brand with Our <br> <span class="flup-theme">Custom 2D Art Design Services</span></h2>
+					<div data-text="2D Art" class="light-bg-text bg-text">
+						<h2>Elevate Your Brand with Our <br> <span class="flup-theme">Custom 2D Art Design Services</span></h2>
+					</div>
 					<p><strong>Craft Your Visual Story with Exquisite 2D Art</strong></p>
 					<p>Futurealiti combines traditional artistry with modern techniques to bring your vision to life. Our 2D art design services are crafted to enhance your brand's visual appeal, helping you stand out in a crowded market.</p>
 					<p>Transform your ideas into beautiful, functional art with Futurealiti. Let us help you create a lasting impression through exceptional 2D design.</p>
@@ -54,13 +50,15 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<h2>Our <span> 2D Art </span> Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text">
+						<h2>Our <span>2D Art</span> Services</h2>
+					</div>
 					<p>We promise you top-notch service as we have the best-in-class web and mobile app development team. With a grade of pure professionals, project delivery is always on schedule with strict adherence to coding standards.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
@@ -73,7 +71,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
@@ -86,7 +84,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-porting-img"></div>
@@ -99,7 +97,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
@@ -202,7 +200,9 @@
     <div class="container">
         <div class="row justify-content-center wow common-heading fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>2D Character</span> Design</h2>
+				<div data-text="Character" class="dark-bg-text bg-text">
+                	<h2 class=" text-center text-white"><span>2D Character</span> Design</h2>
+				</div>
                 <p class="text-center text-white">Create high-quality 2D character designs in a snap with Futurealiti. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
             </div>
         </div>
@@ -302,7 +302,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>2D Environment</span> Design</h2>
+				<div data-text="Environment" class="dark-bg-text bg-text">
+					<h2 class="text-center text-white"><span>2D Environment</span> Design</h2>
+				</div>
                 <p class="text-center text-white">We create exceptional 2D environments for your next business campaign, ad campaign, or product video. Our services are about creating environments that match your business needs!</p>
             </div>
         </div>
@@ -311,7 +313,7 @@
                 <div class="card blue">
                     <div class="card-body">
                         <div class="row p-lg-4">
-                        <div class="col-lg-6">
+                        	<div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="game">
                                         <img src="images/services/2d-art/game-environments.webp" alt="2D 2D Game Environment Design" class="img-fluid twod-environment-design-img">
@@ -402,7 +404,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>2D Game UI/UX</span> Design</h2>
+				<div data-text="Game UI/UX" class="dark-bg-text bg-text">
+					<h2 class="text-center text-white"><span>2D Game UI/UX</span> Design</h2>
+				</div>
                 <p class="text-center text-white">Appsnation is a 2D game UI/UX design agency focused on creating great interfaces for games and apps. We can work with you to define a strategy that fits your business needs.</p>
             </div>
         </div>
@@ -502,7 +506,9 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-                <h2 class=" text-center text-white"><span>2D Concept Art</span> Design</h2>
+				<div data-text="Concept Art" class="dark-bg-text bg-text">
+					<h2 class=" text-center text-white"><span>2D Concept Art</span> Design</h2>
+				</div>
                 <p class="text-center text-white">Futurealiti is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
             </div>
         </div>
@@ -600,64 +606,66 @@
 <!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
-		<div class="row">
+		<div class="row mt-5">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
-					<h2>Benefits of Our <span>2D Art Design</span> Services</h2>
+					<div data-text="Benefits" class="light-bg-text bg-text">
+						<h2>Benefits of Our <span>2D Art Design</span> Services</h2>
+					</div>
 				</div>
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
+			<div class="col-12 col-md-6 col-lg-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<!-- <h3 class="title">Requirement Analysis</h3> -->
 					<p class="description">Our team has years of a strong background in graphic design, which makes them able to work on multiple projects at once.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<!-- <h3 class="title">App Development Strategies</h3> -->
 					<p class="description">Our designers are well-versed in the latest trends and designs, which helps us create unique designs that stand out from others.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<!-- <h3 class="title">Wireframing And Designing</h3> -->
 					<p class="description">We use the latest technologies to create our designs to be printed on various materials like paper, cardboard, and even plastic.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<!-- <h3 class="title">Development Phase</h3> -->
 					<p class="description">We offer free consultations so you can get to know our work before hiring us for your project.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<!-- <h3 class="title">App Testing</h3> -->
 					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<!-- <h3 class="title">Ap Deployment</h3> -->
 					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">07</p>
 					<!-- <h3 class="title">Development Phase</h3> -->
 					<p class="description">We offer affordable rates when compared to other companies within the industry.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
+			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">08</p>
 					<!-- <h3 class="title">App Testing</h3> -->
@@ -992,12 +1000,14 @@
         <div class="row">
             <div class="col-lg-6 wow fadeIn">
                 <div class="common-heading">
-                    <h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2 class="mb0 common-heading">Frequently Asked Questions</h2>
+					</div>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt20 wow fadeIn">
+            <div class="col-sm-12 mt100 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
@@ -1048,14 +1058,18 @@
 </section>
 <!-- End FAQS -->
 
-
+<!-- Start Hire -->
 <section class="hire-developers py-3 py-md-3 py-lg-5">
     <div class="container">
 		<div class="row">
 			<div class="col-xl-6 my-auto">
-				<h2 class="text-white">Hire Dedicated <span>2D</span> Designer</h2>
+				<div class="common-heading">
+					<div data-text="Hire" class="dark-bg-text bg-text">
+						<h2 class="text-white">Hire Dedicated <span>2D</span> Designer</h2>
+					</div>
+				</div>
 				<p class="pt-2 text-white">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients Futurealiti also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
-				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-3">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-5">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 			</div>
 			<div class="col-xl-6 mt-3">
 				<div class="row scroller">
@@ -1104,7 +1118,7 @@
 		</div>
     </div>
 </section>
-
+<!-- End Hire -->
 
 
 @endsection

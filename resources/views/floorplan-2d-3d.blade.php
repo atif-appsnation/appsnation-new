@@ -33,7 +33,6 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<!-- <span>Overview</span> -->
 					<div data-text="FLOOR PLAN" class="light-bg-text bg-text">
 						<h2>Enhance Your Space with Our<br> <span class="flup-theme">Custom 2D & 3D Floor Plan Services</span></h2>
 					</div>

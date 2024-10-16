@@ -167,11 +167,13 @@
 			</div>
 
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<div data-text="Industries" class="light-bg-text bg-text">
-					<h2>Creative <span>Web App</span> Development Agency</h2>
+				<div class="common-heading">
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>Web App</span> Development Agency</h2>
+					</div>
 				</div>
 				<p class="py-3">We help a diverse clientele build result-driven web apps for different industries.</p>
-				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
+				<ul class="nav nav-tabs features-tab mt-5" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
                     <li class="nav-item">

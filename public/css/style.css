@@ -8810,12 +8810,6 @@ html .mt15 {
     border-color: var(--white-color);
 }
 
-.features-tab .nav-item.show .nav-link,
-.features-tab .nav-link.active {
-    border-color: var(--white-color);
-    border-bottom: 5px solid var(--first-color);
-}
-
 .icon-img {
     width: 80px !important;
     height: 80px;
@@ -9593,18 +9587,6 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
     font-size: 15px;
     text-align: center;
     line-height: 20px;
-}
-
-.nav-tabs .nav-item.show .nav-link,
-.nav-tabs .nav-link.active {
-    color: #495057;
-    background-color: transparent;
-    border: 3px solid var(--first-color);
-    margin: 0px 5px 5px 0px;
-}
-
-.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
-    border: 3px solid var(--first-color);
 }
 
 .nav-tabs {
@@ -10700,6 +10682,28 @@ video {
     background-color: var(--first-color);
 }
 
+.nav-pills .nav-link:hover {
+    color: #fff;
+    background-color: var(--first-color);
+}
+
+.features-tab .nav-link {
+    color: var(--white-color);
+    background-color: var(--black-color);
+    margin-right: 8px;
+    margin-bottom: 5px;
+}
+
+.features-tab .nav-item.show .nav-link, .features-tab .nav-link.active {
+    color: #fff;
+    background-color: var(--first-color);
+}
+
+.features-tab .nav-link:hover {
+    color: #fff;
+    background-color: var(--first-color);
+}
+
 /* 
 
 .mobile-app {
@@ -10962,10 +10966,6 @@ i.fa-brands.fa-instagram {
 
 .contact .nav-link {
     color: var(--white-color);
-}
-
-.features-tab .nav-link {
-    color: var(--first-color);
 }
 
 .common-heading span {
@@ -11952,8 +11952,8 @@ i.fa-brands.fa-instagram {
 }
 
 .ar-pills .nav-link {
-    color: var(--first-color);
-    background-color: transparent;
+    color: var(--white-color);
+    background-color: var(--black-color);
     margin-right: 8px;
 }
 
@@ -12091,42 +12091,12 @@ ul.list {
 
 /* End Animation Services */
 
-/* Start 3D Exterior */
-
-.exterior-3d-banner {
-    background: url(../images/banner/threed-exterior.webp) no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-/* End 3D Exterior */
-
-/* Start 3D Interior */
-
-.interior-3d-banner {
-    background: url(../images/banner/threed-interior.webp) no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-/* End 3D Exterior */
-
-/* Start Floor Plan */
-
-.floor-plan {
-    background: url(../images/banner/2d-3d-floor-plan.webp) no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-/* End Floor Plan */
-
 /* Start 2D Art */
 
-.twod-art-page {
-	background-image: url(../images/services/2d-art/2d-art-banner.webp);
+.twod-art-banner {
+	background-image: url(../images/banner/2d-art-banner.webp);
 	background-size: cover;
-	padding: 90px 0px 50px;
+    background-position: center;
 }
 
 .twod-art-page h1 span {
@@ -12453,10 +12423,10 @@ ul.list {
 
 /* 3D Art */
 
-.threed-art-page {
-	background-image: url(../images/services/3d-art/3d-art-banner.webp);
+.threed-art-banner {
+	background-image: url(../images/banner/3d-art-banner.webp);
 	background-size: cover;
-	padding: 90px 0px 50px;
+    background-position: center;
 }
 
 .threed-art-page h1 span {
@@ -12783,6 +12753,12 @@ ul.list {
 
 /* Start 3D Exterior */
 
+.exterior-3d-banner {
+    background: url(../images/banner/threed-exterior.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .threed-exterior-showcase img {
     height: 100%;
     width: 100%;
@@ -12792,12 +12768,28 @@ ul.list {
 
 /* Start 3D Interior */
 
+.interior-3d-banner {
+    background: url(../images/banner/threed-interior.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .threed-interior-showcase img {
     height: 100%;
     width: 100%;
 }
 
-/* End 3D Interior */
+/* End 3D Exterior */
+
+/* Start Floor Plan */
+
+.floor-plan {
+    background: url(../images/banner/2d-3d-floor-plan.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* End Floor Plan */
 
 /* End Services Page */
 

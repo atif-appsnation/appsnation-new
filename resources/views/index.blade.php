@@ -1646,19 +1646,18 @@
 		<div class="testimonial-card-a owl-carousel">
 		@foreach($testimonials as $item)
 
-			<div class="row mt-5">
-			<!-- for each -->
+			<div class="row mt-5 px-3">
+				<!-- for each -->
 				<div class="col-lg-5 fadeIn my-auto">
 					<iframe width="600" height="450" src="{{$item['comments']}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				</div>
-			<!-- end foreach -->
+				<!-- end foreach -->
 				<div class="col-lg-7 wow fadeIn">
 					<div class="pl50">
 						<div class="shape shape-a1">
 							<img src="images/shape/shape-3.svg" alt="shape">
 						</div>
 						<div class="tcd">
-
 							<div class="testimonial-card">
 								<div class="tt-text">
 									<p>{{$item['title']}}</p>
@@ -1673,37 +1672,37 @@
 									</div>
 								</div>
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</div>
 			@endforeach
-
 		</div>
 		<div class="row mt-5 justify-content-center">
 			<div class="col-lg-8">
 				<div class="row justify-content-center">
-					<div class="col-3">
+					<div class="col-2"></div>
+					<div class="col-2">
 						<a href="#" target="blank" class="wow fadeIn review-div">
 							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
-					<div class="col-3">
+					<div class="col-2">
 						<a href="#" target="blank" class="wow fadeIn review-div">
 							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
-					<div class="col-3">
+					<div class="col-2">
 						<a href="#" target="blank" class="wow fadeIn review-div">
 							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
-					<div class="col-3">
+					<div class="col-2">
 						<a href="#" target="blank" class="wow fadeIn review-div">
 							<img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
 						</a>
 					</div>
+					<div class="col-2"></div>
 				</div>
 			</div>
 			<div class="col-lg-12 fadeIn my-auto text-center">

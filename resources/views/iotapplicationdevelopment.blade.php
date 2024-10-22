@@ -62,7 +62,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="iot-consulting-img"></div>
+						<img src="images/services/iot-app-development/iot-consulting.svg" alt="IoT Consulting" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Consulting</h4>
@@ -75,7 +75,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="poc-prototype-dev-img"></div>
+						<img src="images/services/iot-app-development/poc-and-prototype-development.svg" alt="PoC & Prototype Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>PoC & Prototype Development</h4>
@@ -88,7 +88,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="iot-firmware-img"></div>
+						<img src="images/services/iot-app-development/iot-firmware-development-and-integration.svg" alt="IoT Firmware Development & Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Firmware Development & Integration</h4>
@@ -101,7 +101,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="iot-mobile-web-img"></div>
+						<img src="images/services/iot-app-development/iot-mobile-and-web-apps.svg" alt="IoT Mobile & Web Apps" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Mobile & Web Apps</h4>
@@ -114,7 +114,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="ip-product-img"></div>
+						<img src="images/services/iot-app-development/ip-product-development-and-integration.svg" alt="IP Product Development & Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IP Product Development & Integration</h4>
@@ -127,7 +127,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="iot-wearable-apps-img"></div>
+						<img src="images/services/iot-app-development/iot-wearable-apps.svg" alt="IoT Wearable Apps" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Wearable Apps</h4>
@@ -140,7 +140,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="iot-architecture-img"></div>
+						<img src="images/services/iot-app-development/iot-architecture-development.svg" alt="IoT Architecture Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Architecture Development</h4>
@@ -153,7 +153,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<div class="backend-api-img"></div>
+						<img src="images/services/iot-app-development/backend-and-api-integration.svg" alt="Backend & API Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Backend & API Development</h4>
@@ -772,47 +772,90 @@
 </div>
 <!--End Let's Work Together-->
 
-<!-- Start Technologies -->
-<section class="technologies certificates py-5">
+<!--Start Testinomial-->
+<section class="testimonials-section-app pt100 pb-5">
 	<div class="container">
-		<div class="row fadeIn">
+		<div class="row">
 			<div class="col-12">
 				<div class="common-heading text-center">
-					<div data-text="Partners" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
 					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+		<div class="testimonial-card-a owl-carousel">
+		@foreach($testimonials as $item)
+
+			<div class="row mt-5 px-3">
+				<!-- for each -->
+				<div class="col-lg-5 fadeIn my-auto">
+					<iframe width="600" height="450" src="{{$item['comments']}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				<!-- end foreach -->
+				<div class="col-lg-7 wow fadeIn">
+					<div class="pl50">
+						<div class="shape shape-a1">
+							<img src="images/shape/shape-3.svg" alt="shape">
+						</div>
+						<div class="tcd">
+							<div class="testimonial-card">
+								<div class="tt-text">
+									<p>{{$item['title']}}</p>
+								</div>
+								<div class="client-thumbs mt30">
+									<div class="media v-center upset">
+										<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
+										<div class="media-body user-info v-center">
+											<h5>{{$item['name']}}</h5>
+											<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+			@endforeach
+		</div>
+		<div class="row mt-5 justify-content-center">
+			<div class="col-lg-8">
+				<div class="row justify-content-center">
+					<div class="col-2"></div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2"></div>
 				</div>
 			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+			<div class="col-lg-12 fadeIn my-auto text-center">
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- End Technologies -->
+<!--End Testinomial-->
 
 <!--Start Badges-->
 <section class="badges-section py-5">

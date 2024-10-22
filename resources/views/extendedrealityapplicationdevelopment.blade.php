@@ -45,51 +45,76 @@
 
 <!--Start Service-->
 <section class="service-section-app py-5 dark-bg2">
-	<div class="row">
-		<div class="col-lg-6 wow fadeIn">
-			<div class="common-heading ptag">
-				<img src="images/services/xr-app-development/xr-ar-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
-			</div>
-		</div>
-		<div class="col-lg-6 mt-3 wow fadeIn pe-5">
-			<div class="common-heading ptag">
-				<div data-text="AR" class="light-bg-text bg-text">
-					<h2><span>Augmented Reality (AR)</span> Development</h2>
+	<div class="container">
+		<div class="row mt-5">
+			<div class="col-12">
+				<ul class="nav nav-pills justify-content-center custom-pills">
+					<li class="nav-item">
+						<a class="nav-link active" data-bs-toggle="pill" href="#ar">AR</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#vr">VR</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="pill" href="#mr">MR</a>
+					</li>
+				</ul>
+				<div class="tab-content">
+					<div class="tab-pane active" id="ar">
+						<div class="row mt-5">
+							<div class="col-lg-6 my-auto">
+								<div class="common-heading ptag">
+									<img src="images/services/xr-app-development/xr-ar-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
+								</div>
+							</div>
+							<div class="col-lg-6 mt-3">
+								<div class="common-heading ptag">
+									<div data-text="AR" class="light-bg-text bg-text">
+										<h2><span>Augmented Reality (AR)</span> Development</h2>
+									</div>
+									<p>We are a full-service augmented reality game development company dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
+									<p>AppsNation shakes up the reality of your business with AR development services. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="vr">
+						<div class="row mt-5">
+							<div class="col-lg-6 my-auto">
+								<div class="common-heading ptag">
+									<div data-text="VR" class="light-bg-text bg-text">
+										<h2><span>Virtual Reality (AR)</span> Development</h2>
+									</div>
+									<p>Virtual Reality (VR) is a revolutionizing technology that offers users an immersive experience of an imaginary or real-world through computer modeling and simulation. In short, a person can interact with an artificially designed 3D world via VR headsets.</p>
+									<p>We are a professional and expert Virtual Reality (VR) development company on a mission to bring life to the ingenious dreams of businesses. With this powerful technology and expertise, your every fantasy of maximum customer engagement can be achieved.</p>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="common-heading ptag">
+									<img src="images/services/xr-app-development/xr-vr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade" id="mr">
+						<div class="row mt-5">
+							<div class="col-lg-6">
+								<div class="common-heading ptag">
+									<img src="images/services/xr-app-development/xr-mr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
+								</div>
+							</div>
+							<div class="col-lg-6 my-auto">
+								<div class="common-heading ptag">
+									<div data-text="MR" class="light-bg-text bg-text">
+										<h2><span>Mixed Reality (MR)</span> Development</h2>
+									</div>
+									<p>Mixed Reality (MR) is here to bridge the real and virtual world gap. The viewer may see virtual items that seem genuine and are perfectly mapped onto the actual environment thanks to MR – holographic lenses are used to merge VR and AR, allowing virtual things to interact with real-world objects.</p>
+									<p>We hold a firm grasp over MR to empower businesses with tempting marketing campaigns, a chance to collaborate with tech giants, an achievement to be supreme in the market, and most importantly, an entrance to the great market of holographic apps.</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
-				<p>We are a full-service augmented reality game development company dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
-				<p>AppsNation shakes up the reality of your business with AR development services. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
-			</div>
-		</div>
-	</div>
-	<div class="row mt-5">
-		<div class="col-lg-6 mt-3 wow fadeIn ps-5">
-			<div class="common-heading ptag">
-				<div data-text="VR" class="light-bg-text bg-text">
-					<h2><span>Virtual Reality (AR)</span> Development</h2>
-				</div>
-				<p>Virtual Reality (VR) is a revolutionizing technology that offers users an immersive experience of an imaginary or real-world through computer modeling and simulation. In short, a person can interact with an artificially designed 3D world via VR headsets.</p>
-				<p>We are a professional and expert Virtual Reality (VR) development company on a mission to bring life to the ingenious dreams of businesses. With this powerful technology and expertise, your every fantasy of maximum customer engagement can be achieved.</p>
-			</div>
-		</div>
-		<div class="col-lg-6 wow fadeIn">
-			<div class="common-heading ptag">
-				<img src="images/services/xr-app-development/xr-vr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
-			</div>
-		</div>
-	</div>
-	<div class="row mt-5">
-		<div class="col-lg-6 wow fadeIn">
-			<div class="common-heading ptag">
-				<img src="images/services/xr-app-development/xr-mr-development-img.webp" alt="Extended Reality App Development" class="img-fluid" />
-			</div>
-		</div>
-		<div class="col-lg-6 mt-3 wow fadeIn pe-5">
-			<div class="common-heading ptag">
-				<div data-text="MR" class="light-bg-text bg-text">
-					<h2><span>Mixed Reality (AR)</span> Development</h2>
-				</div>
-				<p>Mixed Reality (MR) is here to bridge the real and virtual world gap. The viewer may see virtual items that seem genuine and are perfectly mapped onto the actual environment thanks to MR – holographic lenses are used to merge VR and AR, allowing virtual things to interact with real-world objects.</p>
-				<p>We hold a firm grasp over MR to empower businesses with tempting marketing campaigns, a chance to collaborate with tech giants, an achievement to be supreme in the market, and most importantly, an entrance to the great market of holographic apps.</p>
 			</div>
 		</div>
 	</div>
@@ -575,52 +600,71 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-3">
-			<div class="col-lg-5 fadeIn my-auto">
-				<div class="row mt30 justify-content-center">
-					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-4">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-				</div>
-				<div class="review-title-ref mt40">
-					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-				</div>
-			</div>
-			<div class="col-lg-7 wow fadeIn">
-				<div class="pl50">
-					<div class="shape shape-a1"><img src="images/shape/shape-3.svg" alt="shape"></div>
-					<div class="testimonial-card-a tcd owl-carousel">
+		<div class="testimonial-card-a owl-carousel">
+		@foreach($testimonials as $item)
 
-						@foreach($testimonials as $item)
-						<div class="testimonial-card">
-							<div class="tt-text">
-								<p>{{$item['title']}}</p>
-							</div>
-							<div class="client-thumbs mt30">
-								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
-									<div class="media-body user-info v-center">
-										<h5>{{$item['name']}}</h5>
-										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+			<div class="row mt-5 px-3">
+				<!-- for each -->
+				<div class="col-lg-5 fadeIn my-auto">
+					<iframe width="600" height="450" src="{{$item['comments']}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				<!-- end foreach -->
+				<div class="col-lg-7 wow fadeIn">
+					<div class="pl50">
+						<div class="shape shape-a1">
+							<img src="images/shape/shape-3.svg" alt="shape">
+						</div>
+						<div class="tcd">
+							<div class="testimonial-card">
+								<div class="tt-text">
+									<p>{{$item['title']}}</p>
+								</div>
+								<div class="client-thumbs mt30">
+									<div class="media v-center upset">
+										<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
+										<div class="media-body user-info v-center">
+											<h5>{{$item['name']}}</h5>
+											<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-						@endforeach
-
 					</div>
+				</div>
+			</div>
+			@endforeach
+		</div>
+		<div class="row mt-5 justify-content-center">
+			<div class="col-lg-8">
+				<div class="row justify-content-center">
+					<div class="col-2"></div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2">
+						<a href="#" target="blank" class="wow fadeIn review-div">
+							<img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
+						</a>
+					</div>
+					<div class="col-2"></div>
+				</div>
+			</div>
+			<div class="col-lg-12 fadeIn my-auto text-center">
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 		</div>

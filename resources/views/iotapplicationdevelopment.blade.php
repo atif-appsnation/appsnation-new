@@ -173,9 +173,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="iot-data-img"></div>
+						<img src="images/services/iot-app-development/iot-data-analytics-and-data-visualization.svg" alt="IoT Data Analytics & Data Visualization" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Data Analytics & Data Visualization</h4>
@@ -186,9 +186,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="iot-module-img"></div>
+						<img src="images/services/iot-app-development/iot-module-development.svg" alt="IoT Module Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Module Development</h4>
@@ -199,9 +199,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="iot-imp-sup-img"></div>
+						<img src="images/services/iot-app-development/iot-implementation-and-support.svg" alt="IoT Implementation & Support" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Implementation & Support</h4>
@@ -212,9 +212,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="iot-architecture-eco-img"></div>
+						<img src="images/services/iot-app-development/iot-architecture-for-connected-ecosystems.svg" alt="Backend & API Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Architecture for Connected Ecosystems</h4>
@@ -225,9 +225,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="user-exp-img"></div>
+						<img src="images/services/iot-app-development/user-experience-for-iot.svg" alt="User Experience for IoT" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>User Experience for IoT</h4>
@@ -238,9 +238,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="testing-maint-img"></div>
+						<img src="images/services/iot-app-development/testing-and-maintenance.svg" alt="Testing & Maintenance" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Testing & Maintenance</h4>
@@ -251,9 +251,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="industrial-iot-sol-img"></div>
+						<img src="images/services/iot-app-development/industrial-iot-solutions.svg" alt="Industrial IoT Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Industrial IoT Solutions</h4>
@@ -264,9 +264,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="iomt-solutions-img"></div>
+						<img src="images/services/iot-app-development/iomt-solutions.svg" alt="IoMT Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoMT Solutions</h4>
@@ -277,9 +277,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="iot-cloud-sol-img"></div>
+						<img src="images/services/iot-app-development/iot-cloud-solutions.svg" alt="IoT Cloud Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>IoT Cloud Solutions</h4>
@@ -290,9 +290,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="voice-enabled-img"></div>
+						<img src="images/services/iot-app-development/voice-enabled-technology-solutions.svg" alt="Voice-Enabled Technology Solutions" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>Voice-Enabled Technology Solutions</h4>
@@ -303,9 +303,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card gradient-border">
+				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<div class="api-dev-imp-img"></div>
+						<img src="images/services/iot-app-development/api-development-and-integration.svg" alt="API Development & Integration" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h4>API Development & Integration</h4>
@@ -349,7 +349,7 @@
 					</div>
 				</div>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
-				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
+				<ul class="nav nav-tabs features-tab mt50" id="headingtab" role="tablist">
 					@foreach($agencystack as $k=>$items)
                     @if($k==0)
                     <li class="nav-item">

@@ -803,7 +803,7 @@
 			<div class="row mt-5 px-3">
 				<!-- for each -->
 				<div class="col-lg-5 fadeIn my-auto">
-					<iframe width="600" height="450" src="{{$item['comments']}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					<iframe class="testimonial-video" src="{{$item['comments']}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				</div>
 				<!-- end foreach -->
 				<div class="col-lg-7 wow fadeIn">

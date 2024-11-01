@@ -119,6 +119,9 @@ class MetabankCrudController extends CrudController
                 'ConnectedDevice' => 'ConnectedDevice',
                 'IotApp' => 'IotApp',
                 'WearableApp' => 'WearableApp',
+                // 
+                'DesignAndAnimation' => 'DesignAndAnimation',
+
 
                 //innerpages of Industries
                 'Advertising' => 'Advertising',

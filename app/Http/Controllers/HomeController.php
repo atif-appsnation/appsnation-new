@@ -1028,6 +1028,36 @@ class HomeController extends Controller
         );
     }
 
+    public function maindesignandanimation()
+    {
+        $metabank = Metabank::where('slug', 'DesignAndAnimation')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'DesignAndAnimation')->where('type', 'Meta')->get();
+
+        $metatag = Metatag::where('slug', 'DesignAndAnimation')->get();
+        $metatitle = Metatitle::where('slug', 'DesignAndAnimation')->get();
+
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $data = $this->blogApi('design-and-animation');
+
+
+
+        return view(
+            'maindesignandanimationservices',
+            [
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'data' => $data,
+            ]
+        );
+    }
+
 
     public function applicant(Request $request)
     {

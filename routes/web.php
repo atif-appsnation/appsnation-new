@@ -45,6 +45,8 @@ Route::get('/mobile-app-development','HomeController@mainmobileapp');
 Route::get('/web-portal-app-development','HomeController@mainwebapp');
 Route::get('/ar-vr-app-development','HomeController@mainarvrapp');
 Route::get('/connected-devices','HomeController@mainconnecteddevices');
+Route::get('/design-and-animation-services','HomeController@maindesignandanimation');
+
 
 Route::get('/android-app-development','HomeController@androidApp');
 Route::get('/ios-app-development','HomeController@iosApp');

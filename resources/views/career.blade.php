@@ -61,7 +61,6 @@
 						<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 	</div>

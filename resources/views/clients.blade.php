@@ -41,9 +41,13 @@
 				<div class="client-logoset">
 					<div class="row">
 						@foreach($clients as $item)
-						<div class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border mt-4">
-							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+							<div class="card h-100">
+								<div class="card-body">
+									<div class="brand-logo hoshd">
+										<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+									</div>
+								</div>
 							</div>
 						</div>
 						@endforeach

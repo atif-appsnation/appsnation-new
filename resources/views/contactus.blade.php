@@ -38,7 +38,7 @@
 							<span><i class="fas fa-phone-alt"></i> Phone:</span>
 							<div class="info-body">
 								<p>Assistance hours: Monday – Friday, 9 AM to 5 PM</p>
-								<a href="tel:+12535284174">+1 (253) 528-4174 </a>
+								<a href="tel:+13237989803">+1 (323) 798-9803 </a>
 							</div>
 						</div>
 					</div>

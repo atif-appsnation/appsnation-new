@@ -476,8 +476,8 @@
 									<div class="contct-heading">Contact Us</div>
 									<div class="inquiry-card-nn">
 										<ul>
-											<li><a href="tel:+12535284174"><img src="{{asset('images/flags/us.svg')}}" alt="USA office" class="flags-size"> +1 (253) 528-4174 </a></li>
-											<li><a href="tel:+966507438993"><img src="{{asset('images/flags/sa.svg')}}" alt="Saudi Arabia office" class="flags-size"> +966 507438993 </a> </li>
+											<li><a href="tel:+13237989803"><img src="{{asset('images/flags/us.svg')}}" alt="USA office" class="flags-size"> +1 (323) 798-9803 </a></li>
+											<!-- <li><a href="tel:+966507438993"><img src="{{asset('images/flags/sa.svg')}}" alt="Saudi Arabia office" class="flags-size"> +966 507438993 </a> </li> -->
 											<!-- <li><a href="tel:+922134388738"><img src="{{asset('images/flags/pk.svg')}}" alt="Pakistan office" class="flags-size"> +92 (21) 34388738 </a></li> -->
 											<li><i class="fas fa-envelope"></i> <a href="mailto:info@appsnation.co">info@appsnation.co</a> </li>
 											<li><i class="fas fa-envelope"></i> <a href="mailto:sales@appsnation.co">sales@appsnation.co</a> </li>

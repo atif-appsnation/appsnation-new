@@ -1203,7 +1203,7 @@ a.play-video::after {
 }
 
 .user-info {
-    margin: 0px 0 0 20px;
+    margin: 0px 0 0 0px;
     text-align: left;
 }
 
@@ -3822,6 +3822,10 @@ footer.ftshap:before {
     border-radius: 8px;
 }
 
+.reviews-card .card-body {
+    padding: 0px;
+}
+
 .right-review-box p {
     color: #676767;
     font-size: 16px;
@@ -4303,11 +4307,11 @@ footer.ftshap:before {
     padding: 30px 0 0 0;
 }
 
-.brand-logo {
+/* .brand-logo {
     max-width: 180px;
     margin: 0 auto;
     padding: 10px;
-}
+} */
 
 .video-review {
     border-radius: 8px;
@@ -5448,9 +5452,9 @@ h3 a {
     border-radius: 8px;
 }
 
-.client-logoset img {
+/* .client-logoset img {
     max-width: 120px;
-}
+} */
 
 .apppg li p {
     color: var(--white-color);
@@ -11335,10 +11339,166 @@ i.fa-brands.fa-instagram {
 
 .recruitment-process .card {
     padding: 2em 1.5em;
+    border-radius: 0px;
+}
+
+.recruitment-process .card:before {
+    position: absolute;
+    width: 0;
+    height: 2px;
+    content: '';
+    background: var(--first-color);
+    top: -2px;
+    left: -2px;
+    transition: 100ms width ease 300ms;
+    -web-kit-transition: 100ms width ease 300ms;
+}
+
+.recruitment-process .card:after {
+    position: absolute;
+    width: 2px;
+    height: 0;
+    content: '';
+    background: var(--first-color);
+    top: -2px;
+    right: -2px;
+    transition: 100ms height ease 200ms;
+    -web-kit-transition: 100ms height ease 200ms;
+}
+
+.recruitment-process .card-body:after {
+    position: absolute;
+    width: 0;
+    height: 2px;
+    content: '';
+    background: var(--first-color);
+    bottom: -2px;
+    right: -2px;
+    transition: 100ms width ease 100ms;
+    -web-kit-transition: 100ms width ease 100ms;
+}
+
+.recruitment-process .card-body:before {
+    position: absolute;
+    width: 2px;
+    height: 0;
+    content: '';
+    background: var(--first-color);
+    bottom: -2px;
+    left: -2px;
+    transition: 100ms height ease 0ms;
+    -web-kit-transition: 100ms height ease 0ms;
+}
+
+.recruitment-process .card:hover {
+    border-color: transparent;
+	/* background: #0f2834; */
+}
+
+.recruitment-process .card:hover:before {
+    width: 100%;
+    transition: 100ms width ease 0ms;
+    -web-kit-transition: 100ms width ease 0ms;
+}
+
+.recruitment-process .card:hover:after {
+    height: 100%;
+    transition: 100ms height ease 100ms;
+    -web-kit-transition: 100ms height ease 100ms;
+}
+
+.recruitment-process .card:hover .card-body:after {
+    width: 100%;
+    transition: 100ms width ease 200ms;
+    -web-kit-transition: 100ms width ease 200ms;
+}
+
+.recruitment-process .card:hover .card-body:before {
+    height: 100%;
+    transition: 100ms height ease 300ms;
+    -web-kit-transition: 100ms height ease 300ms;
 }
 
 .perk .card {
     padding: 2em 1.5em;
+    border-radius: 0px;
+}
+
+.perk .card:before {
+    position: absolute;
+    width: 0;
+    height: 2px;
+    content: '';
+    background: var(--first-color);
+    top: -2px;
+    left: -2px;
+    transition: 100ms width ease 300ms;
+    -web-kit-transition: 100ms width ease 300ms;
+}
+
+.perk .card:after {
+    position: absolute;
+    width: 2px;
+    height: 0;
+    content: '';
+    background: var(--first-color);
+    top: -2px;
+    right: -2px;
+    transition: 100ms height ease 200ms;
+    -web-kit-transition: 100ms height ease 200ms;
+}
+
+.perk .card-body:after {
+    position: absolute;
+    width: 0;
+    height: 2px;
+    content: '';
+    background: var(--first-color);
+    bottom: -2px;
+    right: -2px;
+    transition: 100ms width ease 100ms;
+    -web-kit-transition: 100ms width ease 100ms;
+}
+
+.perk .card-body:before {
+    position: absolute;
+    width: 2px;
+    height: 0;
+    content: '';
+    background: var(--first-color);
+    bottom: -2px;
+    left: -2px;
+    transition: 100ms height ease 0ms;
+    -web-kit-transition: 100ms height ease 0ms;
+}
+
+.perk .card:hover {
+    border-color: transparent;
+	/* background: #0f2834; */
+}
+
+.perk .card:hover:before {
+    width: 100%;
+    transition: 100ms width ease 0ms;
+    -web-kit-transition: 100ms width ease 0ms;
+}
+
+.perk .card:hover:after {
+    height: 100%;
+    transition: 100ms height ease 100ms;
+    -web-kit-transition: 100ms height ease 100ms;
+}
+
+.perk .card:hover .card-body:after {
+    width: 100%;
+    transition: 100ms width ease 200ms;
+    -web-kit-transition: 100ms width ease 200ms;
+}
+
+.perk .card:hover .card-body:before {
+    height: 100%;
+    transition: 100ms height ease 300ms;
+    -web-kit-transition: 100ms height ease 300ms;
 }
 
 /* End Career Page */
@@ -13688,4 +13848,30 @@ img {
 
 .hire-developer p span {
     color: var(--first-color);
+}
+
+.client-logoset .card {
+    border-radius: 20px;
+    max-width: 180px;
+    margin: 0 auto;
+}
+
+.client-logoset .card:hover {
+    border: 1px solid var(--first-color);
+}
+
+.client-logoset .card-body {
+    padding: 20px;
+}
+
+.client-logoset .card-body:hover img {
+    transform: scale(1.2);
+}
+
+.tcd.card {
+    border-radius: 40px 8px 40px 8px;
+}
+
+.tcd .card-body {
+    padding: 0px;
 }

@@ -39,32 +39,34 @@
 			@foreach($testimonials as $item)
 
 			<div class="col-md-6 col-lg-4 mt30">
-				<div class="reviews-card pr-shadow">
-					<div class="row v-center">
-						<div class="col"><span class="revbx-lr"><i class="fas fa-quote-left"></i></span></div>
-						<!-- <div class="col"><span class="revbx-rl"><img src="images/client/freelancer-logo.webp" alt="review service logo"></span></div> -->
-					</div>
-					<div class="review-text">
-						<p>{{$item['title']}}</p>
-						<!--<div class="scrollbar">-->
-						<!--	<p>{{$item['title']}}</p>-->
-						<!--</div>-->
-					</div>
-					<div class="-client-details-">
-						<div class="reviewer-text">
-							<h4>{{$item['name']}}</h4>
-							<p>{{$item['location']}}
-								<!-- <small>Jaipur</small> -->
-							</p>
-							<div class="star-rate">
-								<ul>
-									<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
-									<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
-									<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
-									<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
-									<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
+				<div class="reviews-card card h-100 pr-shadow">
+					<div class="card-body">
+						<div class="row v-center">
+							<div class="col"><span class="revbx-lr"><i class="fas fa-quote-left"></i></span></div>
+							<!-- <div class="col"><span class="revbx-rl"><img src="images/client/freelancer-logo.webp" alt="review service logo"></span></div> -->
+						</div>
+						<div class="review-text">
+							<p>{{$item['title']}}</p>
+							<!--<div class="scrollbar">-->
+							<!--	<p>{{$item['title']}}</p>-->
+							<!--</div>-->
+						</div>
+						<div class="-client-details-">
+							<div class="reviewer-text">
+								<h4>{{$item['name']}}</h4>
+								<p>{{$item['location']}}
+									<!-- <small>Jaipur</small> -->
+								</p>
+								<div class="star-rate">
+									<ul>
+										<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a></li>
 
-								</ul>
+									</ul>
+								</div>
 							</div>
 						</div>
 					</div>

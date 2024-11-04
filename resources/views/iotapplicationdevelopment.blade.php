@@ -774,86 +774,75 @@
 
 <!--Start Testinomial-->
 <section class="testimonials-section-app pt100 pb-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading text-center">
-					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-					</div>
-					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-				</div>
-			</div>
-		</div>
-		<div class="testimonial-card-a owl-carousel">
-		@foreach($testimonials as $item)
-
-			<div class="row mt-5 px-3">
-				<!-- for each -->
-				<div class="col-lg-5 fadeIn my-auto">
-					<iframe class="testimonial-video" src="{{$item['comments']}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-				</div>
-				<!-- end foreach -->
-				<div class="col-lg-7 wow fadeIn">
-					<div class="pl50">
-						<div class="shape shape-a1">
-							<img src="images/shape/shape-3.svg" alt="shape">
-						</div>
-						<div class="tcd">
-							<div class="testimonial-card">
-								<div class="tt-text">
-									<p>{{$item['title']}}</p>
-								</div>
-								<div class="client-thumbs mt30">
-									<div class="media v-center upset">
-										<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
-										<div class="media-body user-info v-center">
-											<h5>{{$item['name']}}</h5>
-											<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
-										</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="common-heading text-center">
+                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+                    </div>
+                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+                </div>
+            </div>
+        </div>
+        <div class="testimonial-card-a owl-carousel">
+            <div class="row mt-5 px-3">
+        	@foreach($testimonials as $item)
+                <div class="col-lg-6 wow fadeIn">
+					<div class="tcd card h-100">
+						<div class="testimonial-card card-body">
+							<div class="tt-text">
+								<p>{{$item['title']}}</p>
+							</div>
+							<div class="client-thumbs mt30">
+								<div class="media v-center upset">
+									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
+									<div class="media-body user-info v-center">
+										<h5>{{$item['name']}}</h5>
+										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
-			@endforeach
-		</div>
-		<div class="row mt-5 justify-content-center">
-			<div class="col-lg-8">
-				<div class="row justify-content-center">
-					<div class="col-2"></div>
-					<div class="col-2">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-2">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-2">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-2">
-						<a href="#" target="blank" class="wow fadeIn review-div">
-							<img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
-						</a>
-					</div>
-					<div class="col-2"></div>
-				</div>
-			</div>
-			<div class="col-lg-12 fadeIn my-auto text-center">
-				<div class="review-title-ref mt40">
-					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-				</div>
-			</div>
-		</div>
-	</div>
+                </div>
+            @endforeach
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="col-lg-8">
+                <div class="row justify-content-center">
+                    <div class="col-2"></div>
+                    <div class="col-2">
+                        <a href="#" target="blank" class="wow fadeIn review-div">
+                            <img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-2">
+                        <a href="#" target="blank" class="wow fadeIn review-div">
+                            <img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-2">
+                        <a href="#" target="blank" class="wow fadeIn review-div">
+                            <img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-2">
+                        <a href="#" target="blank" class="wow fadeIn review-div">
+                            <img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-2"></div>
+                </div>
+            </div>
+            <div class="col-lg-12 fadeIn my-auto text-center">
+                <div class="review-title-ref mt40">
+                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 <!--End Testinomial-->
 

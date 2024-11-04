@@ -7,80 +7,78 @@
 
 <!--Start Enquire Form-->
 <section class="contact py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-12 mt-4 mt-md-4 mt-lg-0">
-				<div class="niwax23form shadow">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 mt-4 mt-md-4 mt-lg-0">
+                <div class="niwax23form shadow">
                     <div class="common-heading text-l">-
                         <!-- <span>Contact Now</span> -->
-							{!! NoCaptcha::renderJs() !!}
-
+                            {!! NoCaptcha::renderJs() !!}
                         <h2 class="mt0 mb0">Have Question? Write a Message</h2>
                         <p class="mb60 mt20 text-start">We will catch you as early as we receive the message</p>
                     </div>
-					<div class="form-block contact-us-form">
-					<form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
-						@csrf
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" name="name" id="name" placeholder="Enter name" required="" data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group col-sm-6">
-								<input type="email" name="email" id="email" placeholder="Enter email" required="">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group col-sm-6">
-								<select name="service" class="custom-select">
-									<option selected="">Select</option>
-									<option value="mobile-app-development">Mobile App Development</option>
-									<option value="ar-vr-app-development">AR & VR App Development</option>
-									<option value="strategic-design-consultancy">Strategic Design Consultancy</option>
-									<option value="mobile-app-qa-and-testing">Mobile App QA and Testing</option>
-									<option value="web-portal-development">Web Portal Development</option>
-									<option value="connected-devices">Connected Devices</option>
-								</select>
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" id="company" name="company" placeholder="Enter company name (optional)" required="" data-error="">
-							</div>
-							<div class="form-group col-sm-6">
-								<input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="form-group">
-							<textarea id="message" name="message" rows="5" placeholder="Enter your message" required=""></textarea>
-							<div class="help-block with-errors"></div>
-						</div>
-						
-                        <div class="form-group mb-2 captchaContainer3" id="captchaContainer" style="display: none;">
-								{!! NoCaptcha::display() !!}
-							</div>
-						<button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
-							<i class="fas fa-chevron-right fa-icon"></i>
-						</button>
-						<div id="msgSubmit" class="h3 text-center hidden"></div>
-						<div class="clearfix"></div>
-					</form>
-				</div>
-				</div>
-			</div>
-		</div>
-	</div>
+                    <div class="form-block contact-us-form">
+                    <form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
+                        @csrf
+                        <div class="row">
+                            <div class="form-group col-sm-6">
+                                <input type="text" name="name" id="name" placeholder="Enter name" required="" data-error="Please fill Out">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                            <div class="form-group col-sm-6">
+                                <input type="email" name="email" id="email" placeholder="Enter email" required="">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-sm-6">
+                                <input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                            <div class="form-group col-sm-6">
+                                <select name="service" class="custom-select">
+                                    <option selected="">Select</option>
+                                    <option value="mobile-app-development">Mobile App Development</option>
+                                    <option value="ar-vr-app-development">AR & VR App Development</option>
+                                    <option value="strategic-design-consultancy">Strategic Design Consultancy</option>
+                                    <option value="mobile-app-qa-and-testing">Mobile App QA and Testing</option>
+                                    <option value="web-portal-development">Web Portal Development</option>
+                                    <option value="connected-devices">Connected Devices</option>
+                                </select>
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-sm-6">
+                                <input type="text" id="company" name="company" placeholder="Enter company name (optional)" required="" data-error="">
+                            </div>
+                            <div class="form-group col-sm-6">
+                                <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required=""></textarea>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
+                                {!! NoCaptcha::display() !!}
+                            </div>
+                        <button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+                            <i class="fas fa-chevron-right fa-icon"></i>
+                        </button>
+                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                        <div class="clearfix"></div>
+                    </form>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 <!--End Enquire Form-->
 
-<!--Start Enquire Form-->
+<!--Start Location-->
 <section class="location py-5">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -109,17 +107,17 @@
                 </a>
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
-                <img src="{{asset('images/location/united-arab-emirates.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid w-100">
+                <img src="{{asset('images/location/united-arab-emirates.webp')}}" alt="UAE" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Dubai, UAE</h4>
-                <p class="pt-3">Cluster D - Jumeirah Lake Towers - Dubai - UAE</p>
-                <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
+                <p class="pt-3">Level 23, Boulevard Plaza, Downtown Dubai, Dubai, UAE</p>
+                <a href="https://maps.app.goo.gl/faJuH36XexzowGta7" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/location/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Karachi, PAK</h4>
-                <p class="pt-3">Suite# 309، Tariq Centre, Tariq Rd, Karachi, PAK</p>
+                <p class="pt-3">Suite # 309، Tariq Centre, Tariq Rd, Karachi, PAK</p>
                 <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -127,7 +125,7 @@
 		</div>
 	</div>
 </section>
-<!--End Enquire Form-->
+<!--End Location-->
 
 <footer class="footer footerdex dark-footer">
     <div class="container py-3">

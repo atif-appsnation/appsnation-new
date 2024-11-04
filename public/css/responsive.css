@@ -2483,9 +2483,9 @@
 	 */
 	/* Testimonials */
 	
-	.reviews-card {
+	/* .reviews-card {
 	    height: 430px;
-	}
+	} */
 	
 	/* Industries */
 	
@@ -2957,9 +2957,9 @@
 	
 	/* Testimonials */
 	
-	.reviews-card {
+	/* .reviews-card {
 	    height: 470px;
-	}
+	} */
 	
 	.industry-type-block {
         height: 220px;
@@ -3383,9 +3383,9 @@
 	
 	/* Testimonials */
 	
-	.reviews-card {
+	/* .reviews-card {
 	    height: 402px;
-	}
+	} */
 	
 	.industry-type-block {
         height: 260px;
@@ -3570,9 +3570,9 @@
 	
 	/* Testimonials */
 	
-	.reviews-card {
+	/* .reviews-card {
 	    height: 402px;
-	}
+	} */
 	
 	.industry-type-block {
         height: 260px;
@@ -4021,3 +4021,10 @@
 		width: 100% !important;
 	}
 } */
+
+
+@media only screen and (min-width:1440px) {
+	.client-logoset img {
+		max-width: 120px;
+	}
+}

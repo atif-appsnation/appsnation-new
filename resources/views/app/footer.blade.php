@@ -22,17 +22,17 @@
                         @csrf
                         <div class="row">
                             <div class="form-group col-sm-6">
-                                <input type="text" name="name" id="name" placeholder="Enter name" required="" data-error="Please fill Out">
+                                <input type="text" name="name" id="name" placeholder="Enter name" required="" data-error="Please fill Out" maxlength="50">
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group col-sm-6">
-                                <input type="email" name="email" id="email" placeholder="Enter email" required="">
+                                <input type="email" name="email" id="email" placeholder="Enter email" required="" maxlength="50">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="form-group col-sm-6">
-                                <input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out">
+                                <input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out" maxlength="20">
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group col-sm-6">
@@ -50,15 +50,15 @@
                         </div>
                         <div class="row">
                             <div class="form-group col-sm-6">
-                                <input type="text" id="company" name="company" placeholder="Enter company name (optional)" required="" data-error="">
+                                <input type="text" id="company" name="company" placeholder="Enter company name (optional)" required="" data-error="" maxlength="50">
                             </div>
                             <div class="form-group col-sm-6">
-                                <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out">
+                                <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out" maxlength="50">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required=""></textarea>
+                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group mb-2 captchaContainer3" id="captchaContainer" >

@@ -703,7 +703,7 @@
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto wow fadeIn">
+			<div class="col-md-7 mt-4 my-lg-auto wow fadeIn">
 				<div class="tab-content tab-body">
 
 					@foreach($techstack as $k=>$items)

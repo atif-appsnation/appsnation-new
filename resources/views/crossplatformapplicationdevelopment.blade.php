@@ -385,7 +385,7 @@
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto wow fadeIn">
+			<div class="col-md-7 mt-4 my-lg-auto wow fadeIn">
 				<div class="tab-content tab-body">
 					@foreach($techstack as $k=>$items)
 					@if($k==0)
@@ -600,9 +600,9 @@
             </div>
         </div>
         <div class="testimonial-card-a owl-carousel">
-            <div class="row mt-5 px-3">
+            <div class="row mt-3 px-3">
         	@foreach($testimonials as $item)
-                <div class="col-lg-6 wow fadeIn">
+                <div class="col-lg-6 mt-3 wow fadeIn">
 					<div class="tcd card h-100">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
@@ -626,28 +626,26 @@
         <div class="row mt-5 justify-content-center">
             <div class="col-lg-8">
                 <div class="row justify-content-center">
-                    <div class="col-2"></div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3 mt-3 mt-md-0">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3 mt-3 mt-md-0">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2"></div>
                 </div>
             </div>
             <div class="col-lg-12 fadeIn my-auto text-center">

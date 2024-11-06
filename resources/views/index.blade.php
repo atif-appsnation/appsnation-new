@@ -1616,9 +1616,13 @@
 				<div class="client-logoset">
 					<div class="row">
 						@foreach($clients as $item)
-						<div class="col-lg-2 col-md-3 col-sm-4 col-6 custom-border mt-4">
-							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+							<div class="card h-100">
+								<div class="card-body">
+									<div class="brand-logo hoshd">
+										<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+									</div>
+								</div>
 							</div>
 						</div>
 						@endforeach
@@ -1644,9 +1648,9 @@
             </div>
         </div>
         <div class="testimonial-card-a owl-carousel">
-            <div class="row mt-5 px-3">
+            <div class="row mt-3 px-3">
         	@foreach($testimonials as $item)
-                <div class="col-lg-6 wow fadeIn">
+                <div class="col-lg-6 mt-3 wow fadeIn">
 					<div class="tcd card h-100">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
@@ -1670,28 +1674,26 @@
         <div class="row mt-5 justify-content-center">
             <div class="col-lg-8">
                 <div class="row justify-content-center">
-                    <div class="col-2"></div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3 mt-3 mt-md-0">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3 mt-3 mt-md-0">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2"></div>
                 </div>
             </div>
             <div class="col-lg-12 fadeIn my-auto text-center">

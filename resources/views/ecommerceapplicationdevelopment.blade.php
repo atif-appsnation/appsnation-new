@@ -63,7 +63,7 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/custom-e-commerce-development.svg" alt="Custom E-Commerce Development" class="img-fluid">
@@ -76,7 +76,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/m-commerce-services.svg" alt="M-commerce Services" class="img-fluid">
@@ -89,7 +89,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/development-of-multi-store-e-commerce-platform.svg" alt="Development of Multi Store E-Commerce Platform" class="img-fluid">
@@ -102,7 +102,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/custom-e-commerce-design-and-development.svg" alt="Custom E-Commerce Design and Development" class="img-fluid">
@@ -115,7 +115,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/magento-e-commerce-development.svg" alt="Magento E-Commerce Development" class="img-fluid">
@@ -128,7 +128,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/saas-e-commerce-solutions.svg" alt="SAAS E-Commerce Solutions" class="img-fluid">
@@ -141,7 +141,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/modules-and-plugins-development.svg" alt="Modules and Plugins Development" class="img-fluid">
@@ -154,7 +154,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/e-commerce-app-development/data-analytics.svg" alt="Data Analytics" class="img-fluid">
@@ -330,7 +330,7 @@
 						<a class="nav-link" data-bs-toggle="pill" href="#b2a">B2A</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="pill" href="#c2a">C2A</a>
+						<a class="nav-link mt-3 mt-md-0" data-bs-toggle="pill" href="#c2a">C2A</a>
 					</li>
 				</ul>
 				<div class="tab-content">
@@ -979,7 +979,7 @@
 				</ul>
 			</div>
 
-			<div class="col-md-7 my-auto wow fadeIn">
+			<div class="col-md-7 mt-4 my-lg-auto wow fadeIn">
 				<div class="tab-content tab-body">
 
 					@foreach($techstack as $k=>$items)
@@ -1195,9 +1195,9 @@
             </div>
         </div>
         <div class="testimonial-card-a owl-carousel">
-            <div class="row mt-5 px-3">
+            <div class="row mt-3 px-3">
         	@foreach($testimonials as $item)
-                <div class="col-lg-6 wow fadeIn">
+                <div class="col-lg-6 mt-3 wow fadeIn">
 					<div class="tcd card h-100">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
@@ -1221,28 +1221,26 @@
         <div class="row mt-5 justify-content-center">
             <div class="col-lg-8">
                 <div class="row justify-content-center">
-                    <div class="col-2"></div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3 mt-3 mt-md-0">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2">
+                    <div class="col-6 col-md-3 mt-3 mt-md-0">
                         <a href="#" target="blank" class="wow fadeIn review-div">
                             <img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
                         </a>
                     </div>
-                    <div class="col-2"></div>
                 </div>
             </div>
             <div class="col-lg-12 fadeIn my-auto text-center">

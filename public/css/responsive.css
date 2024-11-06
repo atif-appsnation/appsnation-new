@@ -455,7 +455,7 @@
 	.tcd {
 		padding: 40px 30px;
 		border-radius: 40px 8px 8px 8px;
-		margin-top: 30px;
+		/* margin-top: 30px; */
 	}
 
 	.pl50 {
@@ -1752,7 +1752,7 @@
 		float: right;
 	}
 
-	.services-img-div {
+	/* .services-img-div {
 		display: inline-block;
 		width: 20%;
 		float: left;
@@ -1762,7 +1762,7 @@
 		display: inline-block;
 		width: 65%;
 		padding-left: 5%;
-	}
+	} */
 
 	.services-text-div {
 		padding-top: 20px;
@@ -1851,7 +1851,7 @@
 	}
 
 	.service-heading {
-		padding-top: 0px;
+		padding-top: 20px;
 	}
 
     /* About Us Page */
@@ -2415,7 +2415,7 @@
 		float: right;
 	}
 
-	.services-img-div {
+	/* .services-img-div {
 		display: inline-block;
 		width: 20%;
 		float: left;
@@ -2425,14 +2425,14 @@
 		display: inline-block;
 		width: 75%;
 		padding-left: 3%;
-	}
+	} */
 
 	.service-heading {
-		padding-top: 0px;
+		padding-top: 20px;
 	}
 
 	.services-text-div {
-		padding-top: 35px;
+		padding-top: 20px;
 	}
 
 	.common-heading.ptag p {
@@ -2901,7 +2901,7 @@
 		float: right;
 	}
 
-	.services-img-div {
+	/* .services-img-div {
 		display: inline-block;
 		width: 20%;
 		float: left;
@@ -2911,7 +2911,7 @@
 		display: inline-block;
 		width: 75%;
 		padding-left: 5%;
-	}
+	} */
 
 	.service-heading h4 {
 		line-height: 24px;
@@ -3316,7 +3316,7 @@
 		float: right;
 	}
 
-	.services-img-div {
+	/* .services-img-div {
 		display: inline-block;
 		width: 15%;
 		float: left;
@@ -3326,7 +3326,7 @@
 		display: inline-block;
 		width: 85%;
 		padding-left: 5%;
-	}
+	} */
 
 	.service-heading h4 {
 		line-height: 24px;

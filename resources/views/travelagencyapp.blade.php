@@ -296,17 +296,8 @@
 	<div class="visuals-travel-background pt50">
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
-				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.4s">
-					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals-1">
-				</div>
-				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.6s">
-					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals-2">
-				</div>
-				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.8s">
-					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-3.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals-3">
-				</div>
-				<div class="col-12 col-md-6 col-lg-3 wow fadeIn" data-wow-delay="1.0s">
-					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-4.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals-4">
+				<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
+					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals mx-auto d-block">
 				</div>
 			</div>
 		</div>

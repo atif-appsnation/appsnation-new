@@ -5263,7 +5263,7 @@ h3 a {
     border: 3px solid var(--first-color);
 }
 
-.our-work1 {
+/* .our-work1 {
     background-image: url(../images/services/industrial-automation/industrial-automation-banner-1.webp);
     background-size: cover;
     padding: 90px 0px 50px;
@@ -5277,6 +5277,12 @@ h3 a {
 
 .our-work3 {
     background-image: url(../images/services/industrial-automation/industrial-automation-banner-3.webp);
+    background-size: cover;
+    padding: 90px 0px 50px;
+} */
+
+.our-works {
+    background-image: url(../images/services/industrial-automation/industrial-automation-banner.webp);
     background-size: cover;
     padding: 90px 0px 50px;
 }

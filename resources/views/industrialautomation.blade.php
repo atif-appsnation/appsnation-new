@@ -579,8 +579,8 @@
 
 <!--End Our Work-->
 
-<!-- Start Work 1 -->
-<section class="our-work1 py-5">
+<!-- Start Works -->
+<section class="our-works py-5">
    <div class="container">
        <div class="row">
            <div class="col-lg-12 wow fadeIn">
@@ -600,14 +600,8 @@
                </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- End Work 1 -->
 
-<!-- Start Work 2 -->
-<section class="our-work2 py-5">
-   <div class="container">
-       <div class="row">
+		<div class="row pt-5">
            <div class="col-lg-12 wow fadeIn">
                <div class="card green-bg p-4">
                     <div class="card-body">
@@ -625,14 +619,8 @@
                </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- End Work 2 -->
 
-<!-- Start Work 3 -->
-<section class="our-work3 py-5">
-   <div class="container">
-       <div class="row">
+		<div class="row pt-5">
            <div class="col-lg-12 wow fadeIn">
                <div class="card green-bg p-4">
                     <div class="card-body">
@@ -652,7 +640,7 @@
         </div>
     </div>
 </section>
-<!-- End Work 3 -->
+<!-- End Works -->
 
 <!--Start Tech-->
 <!-- <div class="techonology-used- py-5">

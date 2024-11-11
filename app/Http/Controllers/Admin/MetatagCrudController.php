@@ -109,6 +109,10 @@ class MetatagCrudController extends CrudController
                 'ConnectedDevice' => 'ConnectedDevice',
                 'IotApp' => 'IotApp',
                 'WearableApp' => 'WearableApp',
+                // 
+                'DesignAndAnimation' => 'DesignAndAnimation',
+
+
 
                 //innerpages of Industries
                 'Advertising' => 'Advertising',
@@ -138,7 +142,7 @@ class MetatagCrudController extends CrudController
                 'SportApp' => 'SportApp',
                 'Terms&Condition' => 'Terms&Condition',
                 'TechStack' => 'TechStack',
-                
+
                 //new pages
                 'Exterior-3d' => 'Exterior-3d',
                 'interior-3d' => 'Interior-3d',
@@ -154,7 +158,11 @@ class MetatagCrudController extends CrudController
                 'realEstateWeb' => 'realEstateWeb',
                 'realEstatePortfolio' => 'realEstatePortfolio',
                 'Art-2d' => 'Art-2d',
-                'Art-3d' => 'Art-3d',
+
+                // solutions , services, industries
+                'Solutions' => 'Solutions',
+                'Services' => 'Services',
+                'Industries' => 'Industries',
 
             ],
 

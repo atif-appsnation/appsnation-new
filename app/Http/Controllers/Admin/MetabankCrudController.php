@@ -165,6 +165,12 @@ class MetabankCrudController extends CrudController
                 'Art-2d' => 'Art-2d',
                 'Art-3d' => 'Art-3d',
 
+
+                // solutions , services, industries
+                'Solutions' => 'Solutions',
+                'Services' => 'Services',
+                'Industries' => 'Industries',
+
             ],
 
             'allows_null' => false,

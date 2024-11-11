@@ -148,10 +148,15 @@ class MetatitleCrudController extends CrudController
                 'realEstateApp' => 'realEstateApp',
                 'realEstateWeb' => 'realEstateWeb',
                 'realEstatePortfolio' => 'realEstatePortfolio',
-                'Terms&Condition'=>'Terms&Condition',
-                'TechStack'=>'TechStack',
+                'Terms&Condition' => 'Terms&Condition',
+                'TechStack' => 'TechStack',
                 'Art-2d' => 'Art-2d',
                 'Art-3d' => 'Art-3d',
+
+                // solutions , services, industries
+                'Solutions' => 'Solutions',
+                'Services' => 'Services',
+                'Industries' => 'Industries',
 
             ],
 

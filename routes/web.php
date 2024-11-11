@@ -45,7 +45,7 @@ Route::get('/mobile-app-development','HomeController@mainmobileapp');
 Route::get('/web-portal-app-development','HomeController@mainwebapp');
 Route::get('/ar-vr-app-development','HomeController@mainarvrapp');
 Route::get('/connected-devices','HomeController@mainconnecteddevices');
-Route::get('/design-and-animation-services','HomeController@maindesignandanimation');
+Route::get('/design-and-animation','HomeController@maindesignandanimation');
 
 
 Route::get('/android-app-development','HomeController@androidApp');
@@ -101,3 +101,9 @@ Route::get('/case-studies/gym-app','HomeController@gymApp');
 Route::get('/case-studies/gym-web','HomeController@gymWeb');
 Route::get('/case-studies/mover-app','HomeController@moverApps');
 Route::get('/case-studies/mover-web','HomeController@moverWeb');
+
+// solutions and industries pages
+Route::get('/solutions','HomeController@solutions');
+Route::get('/industries','HomeController@industries');
+Route::get('/services','HomeController@services');
+

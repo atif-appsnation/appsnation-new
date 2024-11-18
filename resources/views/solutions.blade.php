@@ -53,28 +53,27 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="Our Services" class="light-bg-text bg-text">
-						<h2>Our Unrivaled <span>Android App</span> Development Services</h2>
+					<div data-text="Our Solutions" class="light-bg-text bg-text">
+						<h2>Our Solutions</h2>
 					</div>
 					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
-					</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
+				<div class="card">
+					<a href="">
+						<div class="solution-image">
+							<img src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid">
+						</div>
+						<div class="solution-text">
+							<h4>Android Web-Based Apps</h4>	
+						</div>	
+					</a>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/android-app-development/android-web-based-apps.svg" alt="Android Web-Based Apps" class="img-fluid">
@@ -87,7 +86,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/android-app-development/app-porting.svg" alt="App Porting" class="img-fluid">
@@ -100,7 +99,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/android-app-development/app-testing.svg" alt="App Testing" class="img-fluid">

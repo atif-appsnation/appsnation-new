@@ -53,130 +53,133 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="Our Services" class="light-bg-text bg-text">
-						<h2>Our Unrivaled <span>Android App</span> Development Services</h2>
+					<div data-text="Our Industries" class="light-bg-text bg-text">
+						<h2>Our Industries</h2>
 					</div>
 					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Advertising</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-web-based-apps.svg" alt="Android Web-Based Apps" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
-					</div>
-					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Automative and Transport</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-porting.svg" alt="App Porting" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>App Porting</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Ecommerce and Retail</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-testing.svg" alt="App Testing" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/education.webp" alt="Education" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>App Testing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Education</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-consultation.svg" alt="App Consultation" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>App Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Financial Software Development</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-app-development-consultation.svg" alt="Android App Development Consultation" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Gaming and Leisure</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/custom-android-app-development.svg" alt="Custom Android App Development" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Healthcare and Life Science</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/multi-platform-deployment.svg" alt="Multi-Platform Deployment" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
-					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Media and Entertainment</h6>	
+					</div>	
+				</a>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Development" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid">
 					</div>
-					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Real Estate and Property</h6>	
+					</div>	
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid">
 					</div>
-					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Software and High Tech</h6>	
+					</div>	
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid">
 					</div>
-				</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Sports Teams and Leagues</h6>	
+					</div>	
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h6 class="text-center text-white text-center">Travel and Hospitality</h6>	
+					</div>	
+				</a>
 			</div>
 		</div>
 	</div>

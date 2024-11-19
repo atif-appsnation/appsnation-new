@@ -229,11 +229,11 @@
                                 <div class="fieldsets row">
                                     <div class="col-md-12">
                                         <label class="form-label">Your Name</label>
-                                        <input type="text" name="name" required="required" class="form-control">
+                                        <input type="text" name="name" required="required" class="form-control" maxlength="50">
                                     </div>
                                     <div class="col-md-12">
                                         <label class="form-label">Your Email</label>
-                                        <input type="email" name="email" required="required" class="form-control">
+                                        <input type="email" name="email" required="required" class="form-control" maxlength="50">
                                     </div>
                                 </div>
                                 <div class="fieldsets row">
@@ -245,7 +245,7 @@
                                 <div class="fieldsets row">
                                     <div class="col-md-12">
                                         <label class="form-label">Your Message</label>
-                                        <textarea class="form-control" name="message"></textarea>
+                                        <textarea class="form-control" name="message" maxlength="500"></textarea>
                                     </div>
                                 </div>
                                 <div class="fieldsets mt20">
@@ -282,11 +282,11 @@
                         @csrf
                         <div class="row">
                             <div class="form-group col-sm-6">
-                                <input type="text" id="name" name="name" placeholder="Enter name" required="" data-error="Please fill Out" class="form-control">
+                                <input type="text" id="name" name="name" placeholder="Enter name" required="" data-error="Please fill Out" class="form-control" maxlength="50">
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group col-sm-6">
-                                <input type="email" id="email" name="email" placeholder="Enter email" required="">
+                                <input type="email" id="email" name="email" placeholder="Enter email" required="" maxlength="50">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
@@ -310,15 +310,15 @@
                         </div>
                         <div class="row">
                             <div class="form-group col-sm-6">
-                                <input type="text" name="company" id="company" placeholder="Enter company name (optional)" required="" data-error="">
+                                <input type="text" name="company" id="company" placeholder="Enter company name (optional)" required="" data-error="" maxlength="50">
                             </div>
                             <div class="form-group col-sm-6">
-                                <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out">
+                                <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out" maxlength="50">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required=""></textarea>
+                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group mb-2">

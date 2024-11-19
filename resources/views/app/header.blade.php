@@ -140,7 +140,7 @@
 										<div class="row">
 											<div class="col-md-3 megamenu">
 												<h5 class="megamenu-heading">About Us</h5>
-												<div class="menu-item-description">A full-cycle software and mobile app development company with a world-class team of innovators.</div>
+												<div class="menu-item-descriptions">A full-cycle software and mobile app development company with a world-class team of innovators.</div>
 												<div class="row mt-3">
 													<div class="col-md-6">
 														<div class="companydetailmenu">
@@ -225,10 +225,10 @@
 															<div class="menu-item-title align-middle">Mobile App Development</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/android-app-development')}}">Android App Development</a> </li>
-															<li> <a href="{{url('/ios-app-development')}}">iOS App Development</a> </li>
-															<li> <a href="{{url('/game-app-development')}}">Game App Development</a> </li>
-															<li> <a href="{{url('/cross-platform-app-development')}}">Cross Platform App Development</a> </li>
+															<li> <a href="{{url('/android-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Android App Development</a> </li>
+															<li> <a href="{{url('/ios-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>iOS App Development</a> </li>
+															<li> <a href="{{url('/game-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Game App Development</a> </li>
+															<li> <a href="{{url('/cross-platform-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Cross Platform App Development</a> </li>
 														</ul>
 													</li>
 													<li class="pt-4">
@@ -237,8 +237,8 @@
 															<div class="menu-item-title align-middle">Web Portal Development</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/e-commerce-app-development')}}">E-Commerce App Development</a> </li>
-															<li> <a href="{{url('/web-app-development')}}">Web App Development</a> </li>
+															<li> <a href="{{url('/e-commerce-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>E-Commerce App Development</a> </li>
+															<li> <a href="{{url('/web-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Web App Development</a> </li>
 														</ul>
 													</li>
 												</ul>
@@ -251,9 +251,9 @@
 															<div class="menu-item-title align-middle">XR (AR & VR) App Development</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/mr-app-development')}}">MR App Development</a> </li>
-															<li> <a href="{{url('/ar-app-development')}}">AR App Development</a> </li>
-															<li> <a href="{{url('/vr-app-development')}}">VR App Development</a> </li>
+															<li> <a href="{{url('/mr-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>MR App Development</a> </li>
+															<li> <a href="{{url('/ar-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>AR App Development</a> </li>
+															<li> <a href="{{url('/vr-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>VR App Development</a> </li>
 														</ul>
 													</li>
 													<li class="pt-4">
@@ -262,9 +262,9 @@
 															<div class="menu-item-title align-middle">Connected Devices</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/iot-app-development')}}">IoT App Development</a> </li>
-															<li> <a href="{{url('/wearable-app-development')}}">Wearables App Development</a> </li>
-															<li> <a href="{{url('/industrial-automation')}}">Industrial Automation</a> </li>
+															<li> <a href="{{url('/iot-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>IoT App Development</a> </li>
+															<li> <a href="{{url('/wearable-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Wearables App Development</a> </li>
+															<li> <a href="{{url('/industrial-automation')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Industrial Automation</a> </li>
 														</ul>
 													</li>
 												</ul>
@@ -277,13 +277,13 @@
 															<div class="menu-item-title align-middle">Design & Animation Services</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
-															<li> <a href="{{url('/animation-services')}}">Animation Services</a> </li>
-															<li> <a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
-															<li> <a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
-															<li> <a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
-															<li> <a href="{{url('/2d-art')}}">2D Art Services</a> </li>
-															<li> <a href="{{url('/3d-art')}}">3D Art Services</a> </li>
+															<li> <a href="{{url('/digital-marketing')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Digital Marketing</a> </li>
+															<li> <a href="{{url('/animation-services')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Animation Services</a> </li>
+															<li> <a href="{{url('/exterior-3d')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>3D Exterior Rendering Services</a> </li>
+															<li> <a href="{{url('/interior-3d')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>3D Interior Rendering Services</a> </li>
+															<li> <a href="{{url('/floor-plan')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>2D 3D Floor Plan Service</a> </li>
+															<li> <a href="{{url('/2d-art')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>2D Art Services</a> </li>
+															<li> <a href="{{url('/3d-art')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>3D Art Services</a> </li>
 														</ul>
 													</li>
 												</ul>

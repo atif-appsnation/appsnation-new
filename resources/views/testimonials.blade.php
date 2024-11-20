@@ -74,6 +74,22 @@
 			</div>
 			@endforeach
 		</div>
+
+		<div class="row mt-4">
+			<h3>Clutch Reviews</h3>
+			<div class="clutch-widget mt-3" data-url="https://widget.clutch.co" data-widget-type="8" data-height="300" data-nofollow="true" data-expandifr="true" data-scale="100" data-scale="100" data-reviews="326969" data-clutchcompany-id="1991663"></div>
+		</div>
+
+		<div class="row mt-4">
+			<h3>GoodFirms Reviews</h3>
+			<div class="goodfirm-widget mt-3" data-widget-type="goodfirms-widget-t7" data-widget-pattern="carousel-basic" data-height="380" data-company-id="103093"></div>
+		</div>
+
+		<!-- <div class="row mt-4">
+			<div data-tb-embedded-voting data-tb-embedded-voting-layout="boxed" data-tb-embedded-voting-theme="dark" data-tb-embedded-voting-position="right" data-tb-embedded-voting-p1="YXBwc25hdGlvbg==" data-tb-embedded-voting-p2="bW9iaWxlLWFwcC1kZXZlbG9wbWVudA=="></div>
+          	<script type="text/javascript" src="https://techbehemoths.com/scripts/embedded/voting.js"></script>
+		</div> -->
+
 	</div>
 </section>
 <!-- End Testimonials -->
@@ -226,5 +242,7 @@
 	</div>
 </div>
 <!--End Let's Work Together-->
+
+
 
 @endsection

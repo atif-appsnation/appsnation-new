@@ -345,6 +345,8 @@
 <script src="{{asset('js/owl.carousel.js')}}"></script>
 <script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
 <script src="{{asset('js/main.js')}}"></script>
+<script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
+<script type="text/javascript" src="https://assets.goodfirms.co/assets/js/widget.min.js"></script>
 
 
 <script>

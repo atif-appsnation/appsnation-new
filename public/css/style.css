@@ -10375,6 +10375,10 @@ button:not(:disabled) {
     text-align: center;
 }
 
+.industries-text h5 {
+    line-height: 25px;
+}
+
 .industries-links {
     position: absolute;
     top: 80%;

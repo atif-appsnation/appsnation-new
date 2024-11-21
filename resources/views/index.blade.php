@@ -1675,24 +1675,21 @@
             <div class="col-lg-8">
                 <div class="row justify-content-center">
                     <div class="col-6 col-md-3">
-                        <a href="#" target="blank" class="wow fadeIn review-div">
-                            <img src="images/home/reviews-icon-1.webp" alt="review" class="img-fluid">
-                        </a>
+						<!-- <div class="card h-100 p-4"></div> -->
                     </div>
                     <div class="col-6 col-md-3">
-                        <a href="#" target="blank" class="wow fadeIn review-div">
-                            <img src="images/home/reviews-icon-2.webp" alt="review" class="img-fluid">
-                        </a>
+                        <div class="card h-100 p-4">
+							<div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="9" data-height="100" data-nofollow="true" data-expandifr="true" data-scale="100" data-clutchcompany-id="1991663"></div>
+						</div>
                     </div>
                     <div class="col-6 col-md-3 mt-3 mt-md-0">
-                        <a href="#" target="blank" class="wow fadeIn review-div">
-                            <img src="images/home/reviews-icon-3.webp" alt="review" class="img-fluid">
-                        </a>
+						<div class="card h-100 p-4">
+							<div class="goodfirm-widget" data-widget-type="goodfirms-widget-t6" data-widget-pattern="star-no-review" data-height="100" data-company-id="103093"></div>
+						</div>
+
                     </div>
                     <div class="col-6 col-md-3 mt-3 mt-md-0">
-                        <a href="#" target="blank" class="wow fadeIn review-div">
-                            <img src="images/home/reviews-icon-4.webp" alt="review" class="img-fluid">
-                        </a>
+						<!-- <div class="card h-100 p-4"></div> -->
                     </div>
                 </div>
             </div>

@@ -347,6 +347,7 @@
 <script src="{{asset('js/main.js')}}"></script>
 <script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
 <script type="text/javascript" src="https://assets.goodfirms.co/assets/js/widget.min.js"></script>
+<script src="https://apis.google.com/js/platform.js?onload=renderBadge" async defer></script>
 
 
 <script>

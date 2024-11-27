@@ -14,7 +14,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Design & Animation Services</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via connected device developed by our expert AR app developers.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Bring your ideas to life with our design and animation services. From stunning visuals to engaging motion graphics, we create captivating experiences that tell your brand's story with impact.</p>
 				</div>
 			</div>
 		</div>
@@ -24,7 +24,7 @@
 
 <!--Start About-->
 <section class="service py-5">
-	<div class="">
+	<div class="container">
 		<div class="row">
 			<div class="col-lg-5 my-auto">
 				<div class="image-block wow fadeIn">
@@ -36,7 +36,7 @@
 					<div data-text="Design" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Design & Animation</span> Services</h2>
 					</div>
-					<p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest application development services.</p>
+					<p>Elevate your brand with our innovative design and animation services. From eye-catching visuals to dynamic motion graphics, we craft unique experiences that captivate your audience, enhance engagement, and leave a lasting impression. Let’s bring your vision to life and take your brand to new heights!</p>
 				</div>
 			</div>
 		</div>
@@ -53,7 +53,7 @@
 					<div data-text="Our Services" class="light-bg-text bg-text">
 						<h2>Our Unrivaled <span>Design & Animation</span> Services</h2>
 					</div>
-					<p class="mb30">AppsNation connected devices development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p class="mb30">AppsNation design and animation services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
@@ -67,7 +67,7 @@
 						<h4>Digital Marketing</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our iOT device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
+						<p>Stand out online and get measurable outcomes with our full-service digital marketing services which include SEO, PPC & paid advertising, social media marketing, email marketing and much more. Leave it to the experts we have on our team because they understand all the ways in which your business can succeed. </p>
 						<a href="{{url('/digital-marketing')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
@@ -83,7 +83,7 @@
 						<h4>Animation Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
+						<p>Convert your good ideas into great stories with our animated films. Whether it is a 2D animation or 3D animation or motion graphics, our expert team of artists will work with you to design spectacular animations that are likely to influence the audience.</p>
 						<a href="{{url('/animation-services')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
@@ -99,7 +99,7 @@
 						<h4>3D Exterior Rendering</h4>
 					</div>
 					<div class="services-text-div">
-						<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer.</p>
+						<p>Here at 3D exterior rendering services, all your architectural designs come alive in stunning photorealistic 3D presentations with consideration of all details. Our architectural visualization services therefore offer the end users an exclusive feel through production of high- definition visuals of your designs.</p>
 						<a href="{{url('/exterior-3d')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
@@ -115,7 +115,7 @@
 						<h4>3D Interior Rendering</h4>
 					</div>
 					<div class="services-text-div">
-						<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer.</p>
+						<p>3D floor plans can be described as detailed 2D and 3D flats which help give more interactivity to a property. Real estate floor plans can greatly increase engagement with potential buyers and investors while making your own property more attractive. Ideal for realtors, designers, architects, and builders, our floor plans ensure that presenting or explaining spaces is easy.</p>
 						<a href="{{url('/interior-3d')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
@@ -131,7 +131,7 @@
 						<h4>2D 3D Floor Plan</h4>
 					</div>
 					<div class="services-text-div">
-						<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer.</p>
+						<p>3D floor plans can be described as detailed 2D and 3D flats which help give more interactivity to a property. Real estate floor plans can greatly increase engagement with potential buyers and investors while making your own property more attractive. Ideal for realtors, designers, architects, and builders, our floor plans ensure that presenting or explaining spaces is easy.</p>
 						<a href="{{url('/floor-plan')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
@@ -147,7 +147,7 @@
 						<h4>2D Art Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer.</p>
+						<p>Our 2D art services help create a true representation of your idea through artwork and illustrations. For character design, page layout, digital art and more, we stick to making beautiful pieces of art that your audience will respond to. Available for gaming, branding, and advertising, our 2D art services improve your project’s aesthetic appeal to reflect detail and imagination.</p>
 						<a href="{{url('/2d-art')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
@@ -164,7 +164,7 @@
 						<h4>3D Art Services</h4>
 					</div>
 					<div class="services-text-div">
-						<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer.</p>
+						<p>Bring out the best in your project with flexible 3D art services that we offer to clients. Our 3D services range from 3D modeling and drafting, 3D visualization, to 3D animation that can meet your represented goals. No matter if it is a game, advertisement or a product design, our specialists in 3D rendering deliver spectacular visualizations that illustrate your idea in detail.</p>
 						<a href="{{url('/3d-art')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>

@@ -272,8 +272,8 @@
 											<div class="col-md-4 megamenu">
 												<ul class="main-menu">
 													<li>
-														<a href="javascript:void(0)">
-															<div class="menu-item-img"> <img src="{{asset('images/menu/ar-and-vr-app-development.webp')}}" class="services-icons" alt="Design & Animation Services"> </div>
+														<a href="{{url('/design-and-animation')}}">
+															<div class="menu-item-img"> <img src="{{asset('images/menu/design-and-animation-services.webp')}}" class="services-icons" alt="Design & Animation Services"> </div>
 															<div class="menu-item-title align-middle">Design & Animation Services</div>
 														</a>
 														<ul class="main-submenu">
@@ -504,6 +504,7 @@
 					</ul>
 				</div>
 			</div>
+
 			<!--Mobile Menu-->
 			<nav id="main-nav">
 				<ul class="first-nav">
@@ -553,7 +554,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="javascript:void(0)">Marketing & Animation Services</a>
+								<a href="{{url('/design-and-animation')}}">Marketing & Animation Services</a>
 								<ul>
 									<li><a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
 									<li><a href="{{url('/animation-services')}}">Animation Services</a> </li>

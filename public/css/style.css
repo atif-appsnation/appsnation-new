@@ -13927,15 +13927,16 @@ img {
     border-radius: 20px;
     max-width: 180px;
     margin: 0 auto;
+    border: 1px solid rgba(0, 0, 0, 0);
 }
 
-.client-logoset .card:hover {
+/* .client-logoset .card:hover {
     border: 1px solid var(--first-color);
 }
 
 .client-logoset .card-body {
     padding: 20px;
-}
+} */
 
 .client-logoset .card-body:hover img {
     transform: scale(1.2);
@@ -13949,8 +13950,22 @@ img {
     padding: 0px;
 }
 
-.clutch-widget iframe {
-    display: block;
-    width: 65%;
-    margin: 0 auto;
+.stamp-widget_rating {
+    color: #fff !important;
+}
+
+.clutch-widget iframe .stamp-widget_top {
+    background: #fff !important;
+}
+
+.testimonial-card-a .owl-stage {
+    display: flex;
+}
+
+.testimonial-card-a .owl-item {
+    margin: 30px 4px 0px;
+}
+
+.testimonial-card-a .owl-item .tcd {
+    box-shadow: 0 11px 20px rgb(123 149 162 / 0%);
 }

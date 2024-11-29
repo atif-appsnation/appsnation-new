@@ -102,6 +102,7 @@
         autoplayTimeout: 6000,
         autoplayHoverPause: true,
         smartSpeed: 500,
+        autoHeight: true,
         responsive: {
             0: {
                 items: 1
@@ -113,7 +114,7 @@
                 items: 1
             },
             1400: {
-                items: 1
+                items: 2
             }
         }
     });

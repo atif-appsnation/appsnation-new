@@ -1647,10 +1647,12 @@
                 </div>
             </div>
         </div>
+		
+		
         <div class="testimonial-card-a owl-carousel">
-            <div class="row mt-3 px-3">
-        	@foreach($testimonials as $item)
-                <div class="col-lg-6 mt-3 wow fadeIn">
+            <!-- <div class="row mt-3 px-3"> -->
+			@foreach($testimonials as $item)
+                <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
 					<div class="tcd card h-100">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
@@ -1667,29 +1669,30 @@
 							</div>
 						</div>
 					</div>
-                </div>
+                <!-- </div> -->
             @endforeach
-            </div>
+            <!-- </div> -->
         </div>
-        <div class="row mt-5 justify-content-center">
-            <div class="col-lg-8">
-                <div class="row justify-content-center">
-                    <div class="col-6 col-md-3">
-						<!-- <div class="card h-100 p-4"></div> -->
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="row">
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-2">
+						<div data-designrush-widget data-agency-id="23276" data-style="light" data-width="100"></div>
                     </div>
-                    <div class="col-6 col-md-3">
-                        <div class="card h-100 p-4">
-							<div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="9" data-height="100" data-nofollow="true" data-expandifr="true" data-scale="100" data-clutchcompany-id="1991663"></div>
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-2">
+						<div class="card">
+							<div class="card-body">
+								<div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="2" data-height="45" data-nofollow="true" data-expandifr="true" data-scale="100" data-clutchcompany-id="1991663"></div>
+							</div>
 						</div>
                     </div>
-                    <div class="col-6 col-md-3 mt-3 mt-md-0">
-						<div class="card h-100 p-4">
-							<div class="goodfirm-widget" data-widget-type="goodfirms-widget-t6" data-widget-pattern="star-no-review" data-height="100" data-company-id="103093"></div>
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-md-0">
+						<div class="card">
+							<div class="goodfirm-widget" data-widget-type="goodfirms-widget-t3" data-widget-pattern="star-basic" data-height="78" data-company-id="103093"></div>
 						</div>
-
                     </div>
-                    <div class="col-6 col-md-3 mt-3 mt-md-0">
-						<!-- <div class="card h-100 p-4"></div> -->
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-2 mt-3 mt-md-0">
+						<a href='https://www.bark.com/en/us/company/appsnation/wGVQn/' target='_blank' class='bark-widget' data-type='reviews' data-id='wGVQn' data-image='medium-navy' data-version='3.0'>APPSNATION</a>	
                     </div>
                 </div>
             </div>

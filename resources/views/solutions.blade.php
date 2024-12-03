@@ -61,157 +61,119 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
-				<a href="{{url('/advertising')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 wow fadeIn">
+				<a href="{{url('/booking-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/advertising.webp" alt="Booking App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Advertising</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Booking App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
-				<a href="{{url('/automative-and-transport')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<a href="{{url('/fitness-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/automative-and-transport.webp" alt="Fitness App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Automative and Transport</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Fitness App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
-				<a href="{{url('/ecommerce-and-retail')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<a href="{{url('/fleet-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/ecommerce-and-retail.webp" alt="Fleet App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Ecommerce and Retail</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Fleet App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
-				<a href="{{url('/education')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/education.webp" alt="Education" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<a href="{{url('/loyalty-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/education.webp" alt="Loyalty App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Education</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Loyalty App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/financial-software-development')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<a href="{{url('/mover-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/financial-software-development.webp" alt="Moverg App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Financial Software Development</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Mover App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/gaming-and-leisure')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<a href="{{url('/real-estate-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/gaming-and-leisure.webp" alt="Real Estate App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Gaming and Leisure</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Real Estate App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/healthcare-and-life-science')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<a href="{{url('/restaurant-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/healthcare-and-life-science.webp" alt="Restaurant App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Healthcare and Life Science</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Restaurant App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/media-and-entertainment')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<a href="{{url('/shopping-express-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/media-and-entertainment.webp" alt="Shopping Express" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Media and Entertainment</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Shopping Express App</h5>	
 					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/real-estate-and-property')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid">
+			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<a href="{{url('/sport-app')}}" class="solutions-link">
+					<div class="solutions-image">
+						<img src="images/industries/real-estate-and-property.webp" alt="Sport App" class="img-fluid">
 					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Real Estate and Property</h5>	
+					<div class="solutions-text">
+						<h5 class="text-center text-white text-center">Sport App</h5>	
 					</div>
-					<div class="industries-links">
-						<i class="fa-solid fa-circle-arrow-up-right"></i>
-					</div>
-				</a>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/software-and-high-tech')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid">
-					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Software and High Tech</h5>	
-					</div>
-					<div class="industries-links">
-						<i class="fa-solid fa-circle-arrow-up-right"></i>
-					</div>
-				</a>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/sports-teams-and-leagues')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid">
-					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Sports Teams and Leagues</h5>	
-					</div><div class="industries-links">
-						<i class="fa-solid fa-circle-arrow-up-right"></i>
-					</div>
-				</a>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
-				<a href="{{url('/travel-and-hospitality')}}" class="industries-link">
-					<div class="industries-image">
-						<img src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid">
-					</div>
-					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Travel and Hospitality</h5>	
-					</div>
-					<div class="industries-links">
+					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
 				</a>

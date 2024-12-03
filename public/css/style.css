@@ -10313,6 +10313,49 @@ button:not(:disabled) {
 
 /* Start Solutions Page */
 
+.solutions-link {
+    position: relative;
+}
+
+.solutions-image {
+    position: relative;
+}
+
+.solutions-text {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.solutions-text h5 {
+    line-height: 25px;
+}
+
+.solutions-links {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    opacity: 0;
+    color: var(--white-color);
+    font-size: 24px;
+}
+
+.solutions-link:hover .solutions-links {
+    opacity: 1;
+}
+
+.solutions-link:hover .solutions-text {
+    top: 65%;
+}
+
 .solutions p {
     text-align: left;
 }

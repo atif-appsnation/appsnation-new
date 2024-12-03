@@ -83,7 +83,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
             <div class="col-12 col-md-6 col-lg-4 col-xl">
-                <img src="{{asset('images/location/california.webp')}}" alt="USA" class="pt-4 img-fluid w-100">
+                <img src="{{asset('images/locations/california.webp')}}" alt="USA" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">California, USA</h4>
                 <p class="pt-3">3415 S Sepulveda Blvd, Los Angeles, CA, USA</p>
                 <a href="https://maps.app.goo.gl/TqBHrPsEMyjLiEHP6" target="blank" class="btn-outline mt-3">View on Map
@@ -91,7 +91,7 @@
                 </a>
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
-                <img src="{{asset('images/location/montana.webp')}}" alt="USA" class="pt-4 img-fluid w-100">
+                <img src="{{asset('images/locations/montana.webp')}}" alt="USA" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Montana, USA</h4>
                 <p class="pt-3">1001 S. Main St., Kalispell, MT 59901, USA</p>
                 <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
@@ -99,7 +99,7 @@
                 </a>
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
-                <img src="{{asset('images/location/saudia-arabia.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid w-100">
+                <img src="{{asset('images/locations/saudia-arabia.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Riyadh, KSA</h4>
                 <p class="pt-3">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
                 <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
@@ -107,7 +107,7 @@
                 </a>
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
-                <img src="{{asset('images/location/united-arab-emirates.webp')}}" alt="UAE" class="pt-4 img-fluid w-100">
+                <img src="{{asset('images/locations/united-arab-emirates.webp')}}" alt="UAE" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Dubai, UAE</h4>
                 <p class="pt-3">Level 23, Boulevard Plaza, Downtown Dubai, Dubai, UAE</p>
                 <a href="https://maps.app.goo.gl/faJuH36XexzowGta7" target="blank" class="btn-outline mt-3">View on Map
@@ -115,7 +115,7 @@
                 </a>
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
-                <img src="{{asset('images/location/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid w-100">
+                <img src="{{asset('images/locations/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Karachi, PAK</h4>
                 <p class="pt-3">Suite # 309، Tariq Centre, Tariq Rd, Karachi, PAK</p>
                 <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map

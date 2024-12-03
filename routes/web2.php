@@ -107,22 +107,3 @@ Route::get('/solutions','HomeController@solutions');
 Route::get('/industries','HomeController@industries');
 Route::get('/services','HomeController@services');
 
-// new-location pages
-Route::get('/location-1','HomeController@location1');
-Route::get('/location-2','HomeController@location2');
-Route::get('/location-3','HomeController@location3');
-Route::get('/location-4','HomeController@location4');
-Route::get('/location-5','HomeController@location5');
-Route::get('/location-6','HomeController@location6');
-Route::get('/location-7','HomeController@location7');
-Route::get('/location-8','HomeController@location8');
-Route::get('/location-9','HomeController@location9');
-Route::get('/location-10','HomeController@location10');
-Route::get('/location-11','HomeController@location11');
-Route::get('/location-12','HomeController@location12');
-Route::get('/location-13','HomeController@location13');
-Route::get('/location-14','HomeController@location14');
-Route::get('/location-15','HomeController@location15');
-Route::get('/location-16','HomeController@location16');
-Route::get('/location-17','HomeController@location17');
-Route::get('/location-18','HomeController@location18');

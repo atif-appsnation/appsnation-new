@@ -11,7 +11,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Services</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Location 12</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
 				</div>
 			</div>
@@ -34,8 +34,8 @@
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<div data-text="Services" class="light-bg-text bg-text">
-						<h2>Scale-Up With Our<br> <span class="flup-theme">Services</span></h2>
+					<div data-text="Android" class="light-bg-text bg-text">
+						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 					</div>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
@@ -54,314 +54,127 @@
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text">
-						<h2>Our Unrivaled <span>Services</span></h2>
+						<h2>Our Unrivaled <span>Android App</span> Development Services</h2>
 					</div>
 					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/mobile-app-development/android-app-development.svg" alt="Android App Development" class="img-fluid">
+						<img src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development</h4>
+						<h4>Android UI/UX Designing</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
-						<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/mobile-app-development/ios-app-development.svg" alt="Android App Development" class="img-fluid">
+						<img src="images/services/android-app-development/android-web-based-apps.svg" alt="Android Web-Based Apps" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>iOS App Development</h4>
+						<h4>Android Web-Based Apps</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
-						<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/mobile-app-development/cross-platform-app-development.svg" alt="Android App Development" class="img-fluid">
+						<img src="images/services/android-app-development/app-porting.svg" alt="App Porting" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Cross-Platform App Development</h4>
+						<h4>App Porting</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
-						<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/mobile-app-development/game-app-development.svg" alt="Android App Development" class="img-fluid">
+						<img src="images/services/android-app-development/app-testing.svg" alt="App Testing" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Game App Development</h4>
+						<h4>App Testing</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
-						<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-portal-development/e-commerce-app-development.svg" alt="E-Commerce App Development" class="img-fluid">
+						<img src="images/services/android-app-development/app-consultation.svg" alt="App Consultation" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>E-Commerce App Development</h4>
+						<h4>App Consultation</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our e-commerce app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
-						<a href="{{url('/e-commerce-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-portal-development/web-app-development.svg" alt="Web App Development" class="img-fluid">
+						<img src="images/services/android-app-development/android-app-development-consultation.svg" alt="Android App Development Consultation" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Web App Development</h4>
+						<h4>Android App Development Consultation</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
-						<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/xr-app-development/mixed-reality-app-development.svg" alt="MR App Development" class="img-fluid">
+						<img src="images/services/android-app-development/custom-android-app-development.svg" alt="Custom Android App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>MR App Development</h4>
+						<h4>Custom Android App Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our e-commerce app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
-						<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/xr-app-development/augmented-reality-app-development.svg" alt="AR App Development" class="img-fluid">
+						<img src="images/services/android-app-development/multi-platform-deployment.svg" alt="Multi-Platform Deployment" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>AR App Development</h4>
+						<h4>Multi-Platform Deployment</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
-						<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/xr-app-development/virtual-reality-app-development.svg" alt="VR App Development" class="img-fluid">
+						<img src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>VR App Development</h4>
+						<h4>Android Watch App Deployment</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
-						<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/connected-devices/iot-app-development.svg" alt="IoT App Development" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>IoT App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our iOT device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
-						<a href="{{url('/iot-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/connected-devices/wearable-app-development.svg" alt="Wearable App Developmen" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Wearable App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
-						<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/connected-devices/industrial-automation.svg" alt="Industrial Automation" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Industrial Automation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>From automating mundane tasks to optimizing your workflow, we have the tools and experience to make it happen. Avoid letting manual labor hold you back any longer.</p>
-						<a href="{{url('/industrial-automation')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/digital-marketing.svg" alt="Digital Marketing" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Digital Marketing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Stand out online and get measurable outcomes with our full-service digital marketing services which include SEO, PPC & paid advertising, social media marketing, email marketing and much more. Leave it to the experts we have on our team because they understand all the ways in which your business can succeed. </p>
-						<a href="{{url('/digital-marketing')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/animation-services.svg" alt="Animation Services" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Animation Services</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Convert your good ideas into great stories with our animated films. Whether it is a 2D animation or 3D animation or motion graphics, our expert team of artists will work with you to design spectacular animations that are likely to influence the audience.</p>
-						<a href="{{url('/animation-services')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/3d-exterior-rendering.svg" alt="3D Exterior Rendering" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>3D Exterior Rendering</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Here at 3D exterior rendering services, all your architectural designs come alive in stunning photorealistic 3D presentations with consideration of all details. Our architectural visualization services therefore offer the end users an exclusive feel through production of high- definition visuals of your designs.</p>
-						<a href="{{url('/exterior-3d')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/3d-interior-rendering.svg" alt="3D Interior Rendering" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>3D Interior Rendering</h4>
-					</div>
-					<div class="services-text-div">
-						<p>3D floor plans can be described as detailed 2D and 3D flats which help give more interactivity to a property. Real estate floor plans can greatly increase engagement with potential buyers and investors while making your own property more attractive. Ideal for realtors, designers, architects, and builders, our floor plans ensure that presenting or explaining spaces is easy.</p>
-						<a href="{{url('/interior-3d')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/2d-3d-floor-plan.svg" alt="2D 3D Floor Plan" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>2D 3D Floor Plan</h4>
-					</div>
-					<div class="services-text-div">
-						<p>3D floor plans can be described as detailed 2D and 3D flats which help give more interactivity to a property. Real estate floor plans can greatly increase engagement with potential buyers and investors while making your own property more attractive. Ideal for realtors, designers, architects, and builders, our floor plans ensure that presenting or explaining spaces is easy.</p>
-						<a href="{{url('/floor-plan')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/2d-art-services.svg" alt="2D Art Services" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>2D Art Services</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our 2D art services help create a true representation of your idea through artwork and illustrations. For character design, page layout, digital art and more, we stick to making beautiful pieces of art that your audience will respond to. Available for gaming, branding, and advertising, our 2D art services improve your project’s aesthetic appeal to reflect detail and imagination.</p>
-						<a href="{{url('/2d-art')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/3d-art-services.svg" alt="3D Art Services" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>3D Art Services</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Bring out the best in your project with flexible 3D art services that we offer to clients. Our 3D services range from 3D modeling and drafting, 3D visualization, to 3D animation that can meet your represented goals. No matter if it is a game, advertisement or a product design, our specialists in 3D rendering deliver spectacular visualizations that illustrate your idea in detail.</p>
-						<a href="{{url('/3d-art')}}" class="mt20 link-prbs">Read More
-							<i class="fas fa fa-arrow-circle-right"></i>
-						</a>
+						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
 					</div>
 				</div>
 			</div>
@@ -369,6 +182,70 @@
 	</div>
 </section>
 <!--End Service-->
+
+<!--Start Features-->
+<section class="features-section-app dark-bg2 py-5">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
+				<div class="tab-content" id="imagetab">
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+
+					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+					</div>
+					@else
+					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+					</div>
+					@endif
+
+					@endforeach
+
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Industries" class="light-bg-text bg-text">
+						<h2>Creative <span>Android App</span> Development Agency</h2>
+					</div>
+					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				</div>
+				<ul class="nav nav-tabs features-tab mt50" id="headingtab" role="tablist">
+					@foreach($agencystack as $k=>$items)
+                    @if($k==0)
+                    <li class="nav-item">
+                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+                    </li>
+
+                    @else
+                    <li class="nav-item">
+                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+                    </li>
+                    @endif
+                    @endforeach
+				</ul>
+				<div class="tab-content pt-3" id="texttab">
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<h3>{!!$items['heading']!!}</h3>
+						<p>{!!$items['content']!!}</p>
+					</div>
+					@else
+					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<h3>{!!$items['heading']!!}</h3>
+						<p>{!!$items['content']!!}</p>
+					</div>
+					@endif
+					@endforeach
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Features-->
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
@@ -523,6 +400,86 @@
 	</div>
 </section>
 <!--End Process-->
+
+<!--Start Tech-->
+<div class="techonology-used py-5">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+						<h2>Technology Stack</h2>
+					</div>
+					<p>We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="row mt-3">
+			<div class="col-md-5 wow fadeIn">
+				<ul class="nav nav-tabs android-tech-tabs mt-5">
+					@foreach($techstack as $k=>$item)
+
+					@if($k==0)
+					<li class="active">
+						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
+							<img src="uploads/{{$item['image']}}" alt="">
+						</a>
+					</li>
+
+					@else
+
+					<li>
+						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
+							<img src="uploads/{{$item['image']}}" alt="">
+						</a>
+					</li>
+					@endif
+
+					@if(($k+1)%3==0 )
+					@if($k==0)
+
+					@else
+				</ul>
+				<ul class="nav nav-tabs android-tech-tabs mt-5">
+					@endif
+					@endif
+					@endforeach
+				</ul>
+			</div>
+
+			<div class="col-md-7 my-auto mt-5 mt-md-auto wow fadeIn">
+				<div class="tab-content tab-body">
+
+					@foreach($techstack as $k=>$items)
+					@if($k==0)
+					<div id="a{{$items['id']}}" class="tab-pane fade in active">
+						<div class="boxseo-data text-start">
+							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
+							<p class="mt-4">{{$items['content']}}</p>
+						</div>
+					</div>
+
+					@else
+					<div id="a{{$items['id']}}" class="tab-pane fade">
+						<div class="boxseo-data text-start">
+							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
+
+							<p class="mt-4">{{$items['content']}}</p>
+						</div>
+					</div>
+
+					@endif
+
+					@endforeach
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--End Tech-->
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">

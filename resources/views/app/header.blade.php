@@ -212,7 +212,7 @@
 								</div>
 							</div>
 						</li>
-						<li class="sbmenu"> <a href="#" class="menu-links">Services</a>
+						<li class="sbmenu"> <a href="{{url('/services')}}" class="menu-links">Services</a>
 							<div class="nx-dropdown">
 								<div class="sub-menu-section">
 									<div class="container">
@@ -293,7 +293,7 @@
 								</div>
 							</div>
 						</li>
-						<li class="sbmenu"> <a href="#" class="menu-links">Industries</a>
+						<li class="sbmenu"> <a href="{{url('/industries')}}" class="menu-links">Industries</a>
 							<div class="nx-dropdown">
 								<div class="sub-menu-section">
 									<div class="container">
@@ -387,7 +387,7 @@
 								</div>
 							</div>
 						</li>
-						<li class="sbmenu"> <a href="#" class="menu-links">Solutions</a>
+						<li class="sbmenu"> <a href="{{url('/solutions')}}" class="menu-links">Solutions</a>
 							<div class="nx-dropdown">
 								<div class="sub-menu-section">
 									<div class="container">
@@ -519,7 +519,7 @@
 							<li><a href="https://blog.appsnation.co/">Blogs</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Services</a>
+					<li><a href="{{url('/services')}}">Services</a>
 						<ul>
 							<li>
 								<a href="{{url('/mobile-app-development')}}">Mobile App Development</a>
@@ -567,7 +567,7 @@
 							</li>
 						</ul>
 					</li>
-					<li> <a href="#">Industries</a>
+					<li> <a href="{{url('/industries')}}">Industries</a>
 						<ul>
 							<li><a href="{{url('/advertising')}}">Advertising App Development</a> </li>
 							<li><a href="{{url('/software-and-high-tech')}}">Software and High Tech</a> </li>
@@ -583,7 +583,7 @@
 							<li><a href="{{url('/sports-teams-and-leagues')}}">Sports Teams and Leagues</a> </li>
 						</ul>
 					</li>
-					<li> <a href="#">Solutions</a>
+					<li> <a href="{{url('/solutions')}}">Solutions</a>
 						<ul>
 							<li><a href="{{url('/booking-app')}}">Booking App</a></li>
 							<li><a href="{{url('/fitness-app')}}">Fitness App</a></li>

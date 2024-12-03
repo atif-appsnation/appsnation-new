@@ -414,7 +414,7 @@
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">05</p>
-						<h3 class="title">App Development</h3>
+						<h3 class="title">App Deployment</h3>
 						<p class="description">The last step consists of the deployment of the app after it has been tested. Launch your app with us and go live or beta live as per your requirement.</p>
 					</div>
 				</div>
@@ -639,7 +639,7 @@
 			</div>
 			<div class="col-xl-6 mt-3">
 				<div class="row scroller">
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
@@ -647,7 +647,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-sm-0">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-sm-0">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
@@ -655,7 +655,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
@@ -663,7 +663,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
@@ -671,7 +671,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
@@ -679,7 +679,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
@@ -687,7 +687,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
@@ -695,7 +695,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
@@ -703,7 +703,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
@@ -711,7 +711,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
@@ -719,7 +719,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
@@ -727,7 +727,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
@@ -735,7 +735,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
@@ -743,7 +743,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
 								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
@@ -1617,12 +1617,8 @@
 					<div class="row">
 						@foreach($clients as $item)
 						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-							<div class="card h-100">
-								<div class="card-body">
-									<div class="brand-logo hoshd">
-										<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
-									</div>
-								</div>
+							<div class="brand-logo hoshd">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
 							</div>
 						</div>
 						@endforeach

@@ -108,7 +108,7 @@ Route::get('/industries','HomeController@industries');
 Route::get('/services','HomeController@services');
 
 // new-location pages
-Route::get('/location-1','HomeController@location1');
+Route::get('/app-development-new-york','HomeController@new_york');
 Route::get('/location-2','HomeController@location2');
 Route::get('/location-3','HomeController@location3');
 Route::get('/location-4','HomeController@location4');

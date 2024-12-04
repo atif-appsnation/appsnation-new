@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 android-app-banner">
+<section class="breadcrumb-areav2 new-york-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -11,12 +11,84 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Location 2</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in New York</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation is a business-grade, top mobile app development Agency in New York helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in New York. </p>
+				</div>
+				<div class="row mt-3">
+					<div class="col-lg-4">
+						<div class="card">
+							<div class="card-body">
+								<img src="images/locations/clutch.webp" alt="Clutch" class="img-fluid d-block mx-auto">
+								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
+								<p class="text-white text-center pt-2">Recognized as Top App Developers by Clutch</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card">
+							<div class="card-body">
+								<img src="images/locations/goodfirms.webp" alt="GoodFirms" class="img-fluid d-block mx-auto">
+								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
+								<p class="text-white text-center pt-2">Recognized as Top App Developers by GoodFirms</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card">
+							<div class="card-body">
+								<img src="images/locations/designrush.webp" alt="DesignRush" class="img-fluid d-block mx-auto">
+								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
+								<p class="text-white text-center pt-2">Recognized as Top App Developers by DesignRush</p>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+				<div class="niwax23form shadow">
+                    <div class="common-heading text-l">
+                            {!! NoCaptcha::renderJs() !!}
+                        <h2 class="mt0 mb0">Book a Free <span>Consultation</span></h2>
+                    </div>
+                    <div class="form-block contact-us-form">
+                    <form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
+                        @csrf
+                        <div class="row">
+                            <div class="form-group col-sm-6">
+                                <input type="text" name="first_name" id="first_name" placeholder="Enter First Name" required="" data-error="Please fill Out" maxlength="50">
+                                <div class="help-block with-errors"></div>
+                            </div>
+							<div class="form-group col-sm-6">
+                                <input type="text" name="last_name" id="last_name" placeholder="Enter Last Name" required="" data-error="Please fill Out" maxlength="50">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+							<div class="form-group col-sm-12">
+                                <input type="email" name="email" id="email" placeholder="Enter email" required="" maxlength="50">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+							<div class="form-group col-sm-12">
+									<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out" maxlength="20">
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
+                                {!! NoCaptcha::display() !!}
+                            </div>
+                        <button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+                            <i class="fas fa-chevron-right fa-icon"></i>
+                        </button>
+                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                        <div class="clearfix"></div>
+                    </form>
+                </div>
 			</div>
 		</div>
 	</div>
@@ -27,19 +99,17 @@
 <section class="service py-5">
 	<div class=" container">
 		<div class="row">
-			<div class="col-lg-5">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
-				</div>
-			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Android" class="light-bg-text bg-text">
-						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
+						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in New York</h2>
 					</div>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<p>AppsNation is a business-grade, top mobile app development Agency in New york helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Miami. </p>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="image-block wow fadeIn">
+					<img src="images/locations/new-york/new-york.webp" alt="New York" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -61,120 +131,166 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Android UI/UX Designing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We design alluring and intuitive UI/UX designs to grab users' attention with a client-focused approach in our minds to preserve the integrity of the brand.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-web-based-apps.svg" alt="Android Web-Based Apps" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Android Web-Based Apps</h4>
-					</div>
-					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+			<div class="col-sm-12 col-md-6 col-lg-4 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/android-app-development-icon.svg" alt="Android App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>Android App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
+							<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-porting.svg" alt="App Porting" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>App Porting</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-testing.svg" alt="App Testing" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>App Testing</h4>
-					</div>
-					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 mt-md-0 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/ios-app-development-icon.svg" alt="iOS App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>iOS App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
+							<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-consultation.svg" alt="App Consultation" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>App Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-app-development-consultation.svg" alt="Android App Development Consultation" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Android App Development Consultation</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 mt-lg-0 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>Cross-Platform App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
+							<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/custom-android-app-development.svg" alt="Custom Android App Development" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Custom Android App Development</h4>
-					</div>
-					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/multi-platform-deployment.svg" alt="Multi-Platform Deployment" class="img-fluid">
-					</div>
-					<div class="service-heading">
-						<h4>Multi-Platform Deployment</h4>
-					</div>
-					<div class="services-text-div">
-						<p>We help you deploy a mobile app project across different platforms with ease in the shortest time possible to make your app available to multiple devices.</p>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/game-app-development-icon.svg" alt="Game App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>Game App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
+							<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="service-card-app home-services gradient-border h-100">
-					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Development" class="img-fluid">
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/web-app-development-icon.svg" alt="Web App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>Web App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
+							<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
-					<div class="service-heading">
-						<h4>Android Watch App Deployment</h4>
+					
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>Wearable App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
+							<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
-					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/ar-app-development-icon.svg" alt="AR App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>AR App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
+							<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/vr-app-development-icon.svg" alt="VR App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>VR App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
+							<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 fadeIn">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="services-img-div">
+							<img src="images/home/mr-app-development-icon.svg" alt="MR App Development" class="img-fluid">
+						</div>
+						<div class="service-heading">
+							<h4>MR App Development</h4>
+						</div>
+						<div class="services-text-div">
+							<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
+							<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
+								<i class="fas fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>

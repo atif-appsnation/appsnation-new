@@ -1942,19 +1942,19 @@ class HomeController extends Controller
         );
     }
     // //////////////////////////////////////////////location /////////////////////////////////////////////
-    public function location1()
+    public function new_york()
     {
-        $metabank = Metabank::where('slug', 'location1')->where('type', 'Tag')->get();
-        $metabank2 = Metabank::where('slug', 'location1')->where('type', 'Meta')->get();
-        $metatag = Metatag::where('slug', 'location1')->get();
-        $metatitle = Metatitle::where('slug', 'location1')->get();
+        $metabank = Metabank::where('slug', 'new_york')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'lnew_york')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'new_york')->get();
+        $metatitle = Metatitle::where('slug', 'new_york')->get();
         $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
         $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
         return view(
-            'location1',
+            'app-development-new-york',
             [
                 'techstack' => $techstack,
                 'agencystack' => $agencystack,

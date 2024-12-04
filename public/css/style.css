@@ -14012,3 +14012,36 @@ img {
 .testimonial-card-a .owl-item .tcd {
     box-shadow: 0 11px 20px rgb(123 149 162 / 0%);
 }
+
+/* Locations */
+
+.breadcrumb-areav2 .form-block input {
+    border-bottom: 2px solid var(--black-color);
+}
+
+input::placeholder, textarea::placeholder {
+    color: #000;
+    opacity: 1;
+}
+
+input::-ms-input-placeholder, textarea::-ms-input-placeholder {
+    color: #000 !important;
+    opacity: 1;
+}
+
+.breadcrumb-areav2 h2 span {
+    color: var(--first-color);
+}
+
+.breadcrumb-areav2 .card {
+    background-color: rgba(255,255,255,0.25);
+}
+
+/* New York */
+
+.new-york-banner {
+    background: url(../images/locations/new-york/new-york-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}

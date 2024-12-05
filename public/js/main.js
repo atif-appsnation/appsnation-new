@@ -119,6 +119,33 @@
         }
     });
 
+    //Owl-Carousel - Reviews testimonial
+    var owl = $('.reviews-slider');
+    owl.owlCarousel({
+        items: 1,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 6000,
+        autoplayHoverPause: true,
+        smartSpeed: 500,
+        autoHeight: true,
+        margin:10,
+        responsive: {
+            0: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            1024: {
+                items: 3
+            },
+            1400: {
+                items: 4
+            }
+        }
+    });
+
     //Owl-Carousel - video testimonial
     var owl = $('.video-testimonials');
     owl.owlCarousel({

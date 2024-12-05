@@ -1672,23 +1672,93 @@
         <div class="row mt-5">
             <div class="col-12">
                 <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-2">
-						<div data-designrush-widget data-agency-id="23276" data-style="light" data-width="100"></div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-2">
-						<div class="card">
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+						<div class="card h-100">
 							<div class="card-body">
-								<div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="2" data-height="45" data-nofollow="true" data-expandifr="true" data-scale="100" data-clutchcompany-id="1991663"></div>
+								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
+								</a>
 							</div>
 						</div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-md-0">
-						<div class="card">
-							<div class="goodfirm-widget" data-widget-type="goodfirms-widget-t3" data-widget-pattern="star-basic" data-height="78" data-company-id="103093"></div>
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
+								</a>
+							</div>
 						</div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-2 mt-3 mt-md-0">
-						<a href='https://www.bark.com/en/us/company/appsnation/wGVQn/' target='_blank' class='bark-widget' data-type='reviews' data-id='wGVQn' data-image='medium-navy' data-version='3.0'>APPSNATION</a>	
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
+								</a>
+							</div>
+						</div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
+								</a>
+							</div>
+						</div>
+                    </div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
+								</a>
+							</div>
+						</div>
+                    </div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
+								</a>
+							</div>
+						</div>
+                    </div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://upcity.com/profiles/appsnation" target="_blank">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
+								</a>
+							</div>
+						</div>
+                    </div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card h-100">
+							<div class="card-body">
+								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
+								</a>
+							</div>
+						</div>
                     </div>
                 </div>
             </div>

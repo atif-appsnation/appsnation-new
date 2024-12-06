@@ -118,19 +118,25 @@
 <!--End About-->
 
 <!--Start Service-->
-<section class="service-section-app py-5 dark-bg2">
+<section class="py-5 dark-bg2">
 	<div class="container">
-		<div class="row">
-			<div class="col-12 wow fadeIn">
+		<div class="row justify-content-center">
+			<div class="col-12">
 				<div class="common-heading ptag">
-					<div data-text="Our Services" class="light-bg-text bg-text">
-						<h2>Our Unrivaled <span>Android App</span> Development Services</h2>
+					<div data-text="Our Services" class="light-bg-text bg-text text-center">
+						<h2>App Development Services in <span>New York</span></h2>
 					</div>
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+	</div>
+</section>
+<!--End Service-->
+
+<!--Start Service-->
+<section class="py-5 dark-bg2">
+	<div class="container">
+		<div class="row">
 			<div class="col-sm-12 col-md-6 col-lg-4 fadeIn">
 				<div class="card h-100">
 					<div class="card-body">
@@ -299,69 +305,237 @@
 </section>
 <!--End Service-->
 
-<!--Start Features-->
-<section class="features-section-app dark-bg2 py-5">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
-				<div class="tab-content" id="imagetab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+<!-- Start Technologies -->
+<section class="technologies certificates py-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<div data-text="Partners" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
 					</div>
-					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@endif
-
-					@endforeach
-
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<div class="common-heading ptag">
-					<div data-text="Industries" class="light-bg-text bg-text">
-						<h2>Creative <span>Android App</span> Development Agency</h2>
-					</div>
-					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+		</div>
+		<div class="row mt-5">
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
-				<ul class="nav nav-tabs features-tab mt50" id="headingtab" role="tablist">
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
-				</ul>
-				<div class="tab-content pt-3" id="texttab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@endif
-					@endforeach
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+				<div>
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--End Features-->
+<!-- End Technologies -->
+
+<!--Start Portfolio-->
+<section class="portfolio-section py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 fadeIn">
+				<div class="common-heading">
+					<div data-text="Our Portfolio" class="light-bg-text bg-text text-center">
+						<h2 class="mb20 text-center">Our Latest Creative Work</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<section class="container py-lg-5 mt-3">
+		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
+			<li class="nav-item">
+				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#web">Web</a>
+			</li>
+			<!-- <li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#mobile-apps">Mobile Apps</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#website">Website</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
+			</li> -->
+		</ul>
+		<div class="tab-content mt-5 wow fadeIn">
+			<div id="app" class="tab-pane active">
+				<div class="row mt60">
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Mobile App Development</span>
+								</div>
+								<h3 class="mt30 mb30">Gym App</h3>
+								<p class="mb30">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being.</p>
+								<ul class="info-list-ul">
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
+								</ul>
+								<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/gym-app.webp" alt="Gym App" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Mobile App Development</span>
+								</div>
+								<h3 class="mt30 mb30">Real Estate App</h3>
+								<p class="mb30">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches.</p>
+								<ul class="info-list-ul">
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
+								</ul>
+								<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/real-estate-app.webp" alt="Real Estate App" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="web" class="tab-pane fade">
+				<div class="row mt60">
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Website Development</span>
+								</div>
+								<h3 class="mt30 mb30">Gym Web</h3>
+								<p class="mb30">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface.</p>
+								<ul class="info-list-ul">
+									<li>Content Management</li>
+									<li>User Management</li>
+									<li>Bookings Management</li>
+									<li>Promotions</li>
+								</ul>
+								<a href="{{url('/case-studies/gym-web')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide shadow bg-gradient1">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid">
+								</div>
+								<div class="widebloktag">
+									<span class="text-white">UI/UX Design</span>
+								</div>
+								<div class="widebloktag mt-4">
+									<span class="text-white">Website Development</span>
+								</div>
+								<h3 class="mt30 mb30">Real Estate Web</h3>
+								<p class="mb30">Discover Avenue, the ultimate app for all your property buying and selling needs.</p>
+								<ul class="info-list-ul">
+									<li>Dashboard</li>
+									<li>Properties Management</li>
+									<li>Mortgage</li>
+									<li>User Management</li>
+								</ul>
+								<a href="{{url('/case-studies/real-estate-web')}}" class="btn-outline lnk mt30">View Case Study 
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</section>
+<!--End Portfolio-->
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
@@ -517,86 +691,6 @@
 </section>
 <!--End Process-->
 
-<!--Start Tech-->
-<div class="techonology-used py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
-						<h2>Technology Stack</h2>
-					</div>
-					<p>We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="row mt-3">
-			<div class="col-md-5 wow fadeIn">
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@foreach($techstack as $k=>$item)
-
-					@if($k==0)
-					<li class="active">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
-						</a>
-					</li>
-
-					@else
-
-					<li>
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
-						</a>
-					</li>
-					@endif
-
-					@if(($k+1)%3==0 )
-					@if($k==0)
-
-					@else
-				</ul>
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@endif
-					@endif
-					@endforeach
-				</ul>
-			</div>
-
-			<div class="col-md-7 my-auto mt-5 mt-md-auto wow fadeIn">
-				<div class="tab-content tab-body">
-
-					@foreach($techstack as $k=>$items)
-					@if($k==0)
-					<div id="a{{$items['id']}}" class="tab-pane fade in active">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@else
-					<div id="a{{$items['id']}}" class="tab-pane fade">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@endif
-
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--End Tech-->
-
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
@@ -617,47 +711,7 @@
 </div>
 <!--End Let's Work Together-->
 
-<!-- Start Technologies -->
-<section class="technologies certificates py-5">
-	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-12">
-				<div class="common-heading text-center">
-					<div data-text="Partners" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5">
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
-					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
-					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
-					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
-					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Technologies -->
+
 
 <!--Start Badges-->
 <section class="badges-section py-5">

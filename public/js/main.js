@@ -656,3 +656,37 @@ $(document).on('click', '#headingtab a', function(e) {
         nav.find('a').tab('show');
     }
 });
+
+var swiper = new Swiper(".services", {
+    effect: "coverflow",
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: "auto",
+    coverflowEffect: {
+      rotate: 0,
+      stretch: 0,
+      depth: 100,
+      modifier: 2,
+      slideShadows: true
+    },
+    spaceBetween: 60,
+    loop: true,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true
+    },
+    autoplay: {
+        delay: 3000,
+        disableOnInteraction: false
+    },
+    breakpoints: {
+        640: {
+          slidesPerView: 1.25,
+          spaceBetween: 20
+        },
+        1024: {
+          slidesPerView: 2,
+          spaceBetween: 20
+        }
+    }
+});

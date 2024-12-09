@@ -4028,3 +4028,17 @@
 		max-width: 120px;
 	}
 } */
+
+@media (max-width: 768px) {
+	.swiper-slide {
+	  width: 90%; /* Adjust width for smaller screens */
+	  height: 50vh; /* Smaller height for mobile */
+	}
+  }
+  
+  @media (max-width: 480px) {
+	.swiper-slide {
+	  width: 95%; /* Maximize width for very small screens */
+	  height: 40vh; /* Adjust height further for smaller viewport */
+	}
+  }

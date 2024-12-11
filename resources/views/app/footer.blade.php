@@ -492,14 +492,14 @@
 </script>
 <!--End of Tawk.to Script-->
 
-<script>
-window.onload = function() {
-     setTimeout(function() {
-        document.querySelector('.main-ban').classList.remove('hidden');
-    }, 500);
-    
-};
-</script>
+<!-- <script>
+    window.onload = function() {
+        setTimeout(function() {
+            document.querySelector('.main-ban').classList.remove('hidden');
+        }, 500);
+        
+    };
+</script> -->
 </body>
 
 </html>

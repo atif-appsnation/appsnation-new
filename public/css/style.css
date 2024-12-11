@@ -12,6 +12,7 @@
     --red-color: #EA0009;
     --orange-color: #F15A24;
     --green-color: #A5CB39;
+    --dark-green-color: #036800;
     --black2-color: #1B1B1B;
     --light-grey: #f0f0f0;
     --dur: .15s;
@@ -10801,6 +10802,7 @@ video {
 .features-tab .nav-item.show .nav-link, .features-tab .nav-link.active {
     color: #fff;
     background-color: var(--first-color);
+    border-color: var(--first-color);
 }
 
 .features-tab .nav-link:hover {
@@ -14147,7 +14149,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
   
 .swiper-slide--four {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/design-and-animation-services.webp")
+      url("../images/locations/connected-devices.webp")
         no-repeat 50% 50% / cover;
 }
   
@@ -14160,7 +14162,91 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 .swiper-3d .swiper-slide-shadow-left,
   .swiper-3d .swiper-slide-shadow-right {
     background-image: none;
- }
+}
+
+.industries-section .nav-tabs .nav-item.show .nav-link, .industries-section .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: var(--first-color);
+    border-color: var(--first-color);
+}
+
+.industries-section .nav-tabs .nav-link {
+    border-radius: 0.25rem;
+}
+
+.industries-section .nav-link {
+    color: var(--white-color);
+    background-color: var(--black-color);
+    margin-right: 8px;
+    margin-bottom: 5px;
+}
+
+.wrap {
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 10px 34px -15px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 0px 10px 34px -15px rgba(0, 0, 0, 0.24);
+    box-shadow: 0px 10px 34px -15px rgba(0, 0, 0, 0.24); }
+  
+.bg-img, .login-wrap {
+    width: 50%;
+}
+  
+.login-wrap {
+    position: relative;
+    background: #fff;
+    font-weight: 300;
+}
+
+.booking-app-bg {
+    background-image: url(../images/locations/booking-app/booking-app-background.webp);
+}
+
+.booking-app-tab h3 {
+    color: var(--blue-color);
+}
+
+.fitness-app-bg {
+    background-image: url(../images/locations/fitness-app/fitness-app-background.webp);
+}
+
+.fitness-app-tab h3 {
+    color: var(--orange-color);
+}
+
+.loyalty-app-bg {
+    background-image: url(../images/locations/loyalty-app/loyalty-app-background.png);
+}
+
+.loyalty-app-tab h3 {
+    color: var(--red-color);
+}
+
+.mover-app-bg {
+    background-image: url(../images/locations/mover-app/mover-app-background.webp);
+}
+
+.mover-app-tab h3 {
+    color: var(--green-color);
+}
+
+.estate-app-bg {
+    background-image: url(../images/locations/real-estate-app/real-estate-app-background.webp);
+}
+
+.estate-app-tab h3 {
+    color: var(--golden-color);
+}
+
+.sports-app-bg {
+    background-image: url(../images/locations/sports-app/sports-app-background.webp);
+}
+
+.sports-app-tab h3 {
+    color: var(--dark-green-color);
+}
 
 /* New York */
 

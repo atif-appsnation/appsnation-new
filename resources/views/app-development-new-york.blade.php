@@ -12,7 +12,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in New York</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation is a business-grade, top mobile app development Agency in New York helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in New York. </p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the USA's leading mobile app development company based in Los Angeles. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
 				</div>
 				<div class="row mt-3">
 					<div class="col-lg-4">
@@ -907,6 +907,198 @@
     </div>
 </section>
 <!--End Testinomial-->
+
+<!--Start Industries-->
+<section class="industries-section py-5">
+    <div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Process" class="light-bg-text bg-text mt-5">
+						<h2>Solutions We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span></h2>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="row mt100">
+            <div class="col-12">
+				<ul class="nav nav-tabs justify-content-center">
+					<li class="nav-item">
+						<a class="nav-link active" data-bs-toggle="tab" href="#booking">Booking App</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#fitness">Fitness App</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#loyalty">Loyalty App</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#mover">Mover App</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#estate">Real Estate App</a>
+					</li>
+					<!-- <li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#restaurant">Restaurant App</a>
+					</li> -->
+					<!-- <li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#shopping">Shopping App</a>
+					</li> -->
+					<li class="nav-item">
+						<a class="nav-link" data-bs-toggle="tab" href="#sports">Sports App</a>
+					</li>
+				</ul>
+				<div class="tab-content mt-3">
+					<div class="tab-pane container active booking-app-tab" id="booking">
+						<div class="wrap d-md-flex">
+							<div class="bg-img booking-app-bg">
+								<div class="owl-carousel owl-theme booking-app-carousel">
+									<div class="item">
+										<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/booking-app/booking-app-2.webp" alt="Booking App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Booking App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade fitness-app-tab" id="fitness">
+						<div class="wrap d-md-flex">
+							<div class="bg-img fitness-app-bg">
+								<div class="owl-carousel owl-theme fitness-app-carousel">
+									<div class="item">
+										<img src="images/locations/fitness-app/booking-app-1.webp" alt="Fitness App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/fitness-app/booking-app-2.webp" alt="Fitness App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Fitness App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade loyalty-app-tab" id="loyalty">
+						<div class="wrap d-md-flex">
+							<div class="bg-img loyalty-app-bg">
+								<div class="owl-carousel owl-theme loyalty-app-carousel">
+									<div class="item">
+										<img src="images/locations/loyalty-app/booking-app-1.webp" alt="Loyalty App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/loyalty-app/booking-app-2.webp" alt="Loyalty App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Loyalty App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade mover-app-tab" id="mover">
+						<div class="wrap d-md-flex">
+							<div class="bg-img mover-app-bg">
+								<div class="owl-carousel owl-theme mover-app-carousel">
+									<div class="item">
+										<img src="images/locations/mover-app/booking-app-1.webp" alt="Mover App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/mover-app/booking-app-2.webp" alt="Mover App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Mover App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane container fade estate-app-tab" id="estate">
+						<div class="wrap d-md-flex">
+							<div class="bg-img estate-app-bg">
+								<div class="owl-carousel owl-theme estate-app-carousel">
+									<div class="item">
+										<img src="images/locations/estate-app/booking-app-1.webp" alt="Real Estate App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/estate-app/booking-app-2.webp" alt="Real Estate App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Real Estate App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="tab-pane container fade restaurant-app-tab" id="restaurant">
+						<div class="wrap d-md-flex">
+							<div class="bg-img restaurant-app-bg">
+								<div class="owl-carousel owl-theme restaurant-app-carousel">
+									<div class="item">
+										<img src="images/locations/restaurant-app/booking-app-1.webp" alt="Restaurant App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/restaurant-app/booking-app-2.webp" alt="Restaurant App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Restaurant App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div> -->
+					<!-- <div class="tab-pane container fade shopping-app-tab" id="shopping">
+						<div class="wrap d-md-flex">
+							<div class="bg-img shopping-app-bg">
+								<div class="owl-carousel owl-theme shopping-app-carousel">
+									<div class="item">
+										<img src="images/locations/shopping-app/booking-app-1.webp" alt="Shopping App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/shopping-app/booking-app-2.webp" alt="Shopping App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Shopping App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div> -->
+					<div class="tab-pane container fade sports-app-tab" id="sports">
+						<div class="wrap d-md-flex">
+							<div class="bg-img sports-app-bg">
+								<div class="owl-carousel owl-theme sports-app-carousel">
+									<div class="item">
+										<img src="images/locations/sports-app/booking-app-1.webp" alt="Sports App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/sports-app/booking-app-2.webp" alt="Sports App" class="img-fluid">
+									</div>
+								</div>
+							</div>
+							<div class="login-wrap p-4 p-md-5 align-self-center">
+								<h3 class="mb-4">Eports App</h3>
+								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Industries-->
 
 
 @endsection

@@ -646,13 +646,12 @@
 
 
     $('.booking-app-carousel').owlCarousel({
-        centre: true,
         margin: 20,
         dots: true,
-        nav: true,
+        nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 1000,
+        autoplayTimeout: 600,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -665,7 +664,112 @@
                 items:1
             }
         }
-    })
+    });
+
+    $('.fitness-app-carousel').owlCarousel({
+        margin: 20,
+        dots: true,
+        nav: false,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 600,
+        autoplayHoverPause: true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $('.loyalty-app-carousel').owlCarousel({
+        margin: 20,
+        dots: true,
+        nav: false,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 600,
+        autoplayHoverPause: true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $('.mover-app-carousel').owlCarousel({
+        margin: 20,
+        dots: true,
+        nav: false,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 600,
+        autoplayHoverPause: true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $('.real-estate-app-carousel').owlCarousel({
+        margin: 20,
+        dots: true,
+        nav: false,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 600,
+        autoplayHoverPause: true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $('.sports-app-carousel').owlCarousel({
+        margin: 20,
+        dots: true,
+        nav: false,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 600,
+        autoplayHoverPause: true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:1
+            }
+        }
+    });
 
     //end of page
 })(jQuery);

@@ -1770,17 +1770,17 @@ a.play-video::after {
     width: 80px;
 }
 
-.owl-carousel .owl-dots .owl-dot:before {
+/* .owl-carousel .owl-dots .owl-dot:before {
     top: 2px;
     right: 2px;
     bottom: 2px;
     left: 2px;
     opacity: 0;
     background: 0 0;
-    border: 1px solid var(--second-color);
-}
+     border: 1px solid var(--second-color);
+} */
 
-.owl-carousel .owl-dots .owl-dot:after,
+/* .owl-carousel .owl-dots .owl-dot:after,
 .owl-carousel .owl-dots .owl-dot:before {
     content: '';
     position: absolute;
@@ -1825,7 +1825,7 @@ a.play-video::after {
 .owl-carousel .owl-dots .owl-dot:focus:after,
 .owl-carousel .owl-dots .owl-dot:hover:after {
     opacity: 1;
-}
+} */
 
 .light-bgs {
     background: rgba(255, 255, 255, 0.52);
@@ -14131,31 +14131,31 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
   
 .swiper-slide--one {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/mobile-app-development.webp")
+      url("../images/locations/services/mobile-app-development.webp")
         no-repeat 50% 50% / cover;
 }
   
 .swiper-slide--two {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/web-portal-development.webp")
+      url("../images/locations/services/web-portal-development.webp")
         no-repeat 50% 50% / cover;
 }
   
 .swiper-slide--three {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/xr-app-development.png")
+      url("../images/locations/services/xr-app-development.png")
         no-repeat 50% 50% / cover;
 }
   
 .swiper-slide--four {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/connected-devices.webp")
+      url("../images/locations/services/connected-devices.webp")
         no-repeat 50% 50% / cover;
 }
   
 .swiper-slide--five {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/design-and-animation-services.webp")
+      url("../images/locations/services/design-and-animation-services.webp")
         no-repeat 50% 50% / cover;
 }
   
@@ -14232,11 +14232,11 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     color: var(--green-color);
 }
 
-.estate-app-bg {
+.real-estate-app-bg {
     background-image: url(../images/locations/real-estate-app/real-estate-app-background.webp);
 }
 
-.estate-app-tab h3 {
+.real-estate-app-tab h3 {
     color: var(--golden-color);
 }
 
@@ -14246,6 +14246,19 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .sports-app-tab h3 {
     color: var(--dark-green-color);
+}
+
+.booking-app-carousel .owl-dots {
+    margin-bottom: 10px;
+}
+
+.booking-app-carousel .owl-theme .owl-dots .owl-dot.active span, .booking-app-carousel .owl-theme .owl-dots .owl-dot:hover span {
+    color: #fff !important;
+}
+
+.booking-app-carousel .owl-theme .owl-dots .owl-dot span {
+    color: #fff !important;
+    opacity: 0.5 !important;
 }
 
 /* New York */

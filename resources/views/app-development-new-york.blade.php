@@ -908,14 +908,14 @@
 </section>
 <!--End Testinomial-->
 
-<!--Start Industries-->
+<!--Start Solutions-->
 <section class="industries-section py-5">
     <div class="container">
 		<div class="row">
 			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Solutions We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span></h2>
+				<div class="common-heading ptag wow fadeIn text-center">
+					<div data-text="Process" class="light-bg-text bg-text mt-5 text-center">
+						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span></h2>
 					</div>
 				</div>
 			</div>
@@ -972,10 +972,10 @@
 							<div class="bg-img fitness-app-bg">
 								<div class="owl-carousel owl-theme fitness-app-carousel">
 									<div class="item">
-										<img src="images/locations/fitness-app/booking-app-1.webp" alt="Fitness App" class="img-fluid">
+										<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid">
 									</div>
 									<div class="item">
-										<img src="images/locations/fitness-app/booking-app-2.webp" alt="Fitness App" class="img-fluid">
+										<img src="images/locations/fitness-app/fitness-app-2.webp" alt="Fitness App" class="img-fluid">
 									</div>
 								</div>
 							</div>
@@ -990,16 +990,16 @@
 							<div class="bg-img loyalty-app-bg">
 								<div class="owl-carousel owl-theme loyalty-app-carousel">
 									<div class="item">
-										<img src="images/locations/loyalty-app/booking-app-1.webp" alt="Loyalty App" class="img-fluid">
+										<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid">
 									</div>
 									<div class="item">
-										<img src="images/locations/loyalty-app/booking-app-2.webp" alt="Loyalty App" class="img-fluid">
+										<img src="images/locations/loyalty-app/loyalty-app-2.webp" alt="Loyalty App" class="img-fluid">
 									</div>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-md-5 align-self-center">
 								<h3 class="mb-4">Loyalty App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+								<p>Discover a new level of shopping with Bonus Buddy. Enjoy exclusive cashback rewards, personalized deals, and a seamless experience across your favorite e-commerce platforms.</p>
 							</div>
 						</div>
 					</div>
@@ -1008,34 +1008,40 @@
 							<div class="bg-img mover-app-bg">
 								<div class="owl-carousel owl-theme mover-app-carousel">
 									<div class="item">
-										<img src="images/locations/mover-app/booking-app-1.webp" alt="Mover App" class="img-fluid">
+										<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid">
 									</div>
 									<div class="item">
-										<img src="images/locations/mover-app/booking-app-2.webp" alt="Mover App" class="img-fluid">
+										<img src="images/locations/mover-app/mover-app-2.webp" alt="Mover App" class="img-fluid">
 									</div>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-md-5 align-self-center">
 								<h3 class="mb-4">Mover App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+								<p>Develop a comprehensive mobile application designed to optimize the moving experience by facilitating efficient order management and customer engagement.</p>
 							</div>
 						</div>
 					</div>
-					<div class="tab-pane container fade estate-app-tab" id="estate">
+					<div class="tab-pane container fade real-estate-app-tab" id="estate">
 						<div class="wrap d-md-flex">
-							<div class="bg-img estate-app-bg">
-								<div class="owl-carousel owl-theme estate-app-carousel">
+							<div class="bg-img real-estate-app-bg">
+								<div class="owl-carousel owl-theme real-estate-app-carousel">
 									<div class="item">
-										<img src="images/locations/estate-app/booking-app-1.webp" alt="Real Estate App" class="img-fluid">
+										<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid">
 									</div>
 									<div class="item">
-										<img src="images/locations/estate-app/booking-app-2.webp" alt="Real Estate App" class="img-fluid">
+										<img src="images/locations/real-estate-app/real-estate-app-2.webp" alt="Real Estate App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/real-estate-app/real-estate-app-3.webp" alt="Real Estate App" class="img-fluid">
+									</div>
+									<div class="item">
+										<img src="images/locations/real-estate-app/real-estate-app-4.webp" alt="Real Estate App" class="img-fluid">
 									</div>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-md-5 align-self-center">
 								<h3 class="mb-4">Real Estate App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+								<p>Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process.</p>
 							</div>
 						</div>
 					</div>
@@ -1080,15 +1086,15 @@
 							<div class="bg-img sports-app-bg">
 								<div class="owl-carousel owl-theme sports-app-carousel">
 									<div class="item">
-										<img src="images/locations/sports-app/booking-app-1.webp" alt="Sports App" class="img-fluid">
+										<img src="images/locations/sports-app/sports-app-1.webp" alt="Sports App" class="img-fluid">
 									</div>
 									<div class="item">
-										<img src="images/locations/sports-app/booking-app-2.webp" alt="Sports App" class="img-fluid">
+										<img src="images/locations/sports-app/sports-app-2.webp" alt="Sports App" class="img-fluid">
 									</div>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Eports App</h3>
+								<h3 class="mb-4">Sports App</h3>
 								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
 							</div>
 						</div>
@@ -1098,7 +1104,761 @@
         </div>
     </div>
 </section>
+<!--End Solutions-->
+
+<!--Start Industries-->
+<section class="industries-section-app py-5 dark-bg2">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag text-center">
+					<div data-text="Our Industries" class="light-bg-text bg-text">
+						<h2><span>Industries</span> We Work With</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt100">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
+				<a href="{{url('/advertising')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Advertising</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
+				<a href="{{url('/automative-and-transport')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Automative and Transport</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
+				<a href="{{url('/ecommerce-and-retail')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Ecommerce and Retail</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
+				<a href="{{url('/education')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/education.webp" alt="Education" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Education</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/financial-software-development')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Financial Software Development</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/gaming-and-leisure')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Gaming and Leisure</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/healthcare-and-life-science')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Healthcare and Life Science</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/media-and-entertainment')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Media and Entertainment</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/real-estate-and-property')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Real Estate and Property</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/software-and-high-tech')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Software and High Tech</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/sports-teams-and-leagues')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Sports Teams and Leagues</h5>	
+					</div><div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
+				<a href="{{url('/travel-and-hospitality')}}" class="industries-link">
+					<div class="industries-image">
+						<img src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid">
+					</div>
+					<div class="industries-text">
+						<h5 class="text-center text-white text-center">Travel and Hospitality</h5>	
+					</div>
+					<div class="industries-links">
+						<i class="fa-solid fa-circle-arrow-up-right"></i>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
 <!--End Industries-->
 
+<!--Start Tech-->
+<section class="technologies-stack py-5">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading">
+					<div data-text="Technologies" class="light-bg-text bg-text text-center">
+						<h2 class="mb30 text-center"><span>Technologies</span> We Work With</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row wow fadeIn">
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="row">
+							<div class="con-h">
+								<h3 class="text-center">App Development</h3>
+								<p class="text-center pt-2">For App development, our developers use the latest technologies, which provide top notch app development solution.</p>
+							</div>
+						</div>
+						<div class="row pt-3">
+							<div class="tech-slider1 owl-carousel">
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/apple-logo.webp" alt="iOS Logo" class="tech-logo">
+										<h4 class="mt-2">iOS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/android-logo.webp" alt="Android Logo" class="tech-logo">
+										<h4 class="mt-2">Android</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/flutter-logo.webp" alt="Flutter Logo" class="tech-logo">
+										<h4 class="mt-2">Flutter</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/ionic-logo.webp" alt="Ionic Logo" class="tech-logo">
+										<h4 class="mt-2">Ionic</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/swift-logo.webp" alt="Swift Logo" class="tech-logo">
+										<h4 class="mt-2">Swift</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/kotlin-logo.webp" alt="Kotlin Logo" class="tech-logo">
+										<h4 class="mt-2">Kotlin</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/objective-c-logo.webp" alt="Objective C Logo" class="tech-logo">
+										<h4 class="mt-2">Objective C</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo">
+										<h4 class="mt-2">React Native</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/google-fit-sdk.webp" alt="Google Fit SDK Logo" class="tech-logo">
+										<h4 class="mt-2">Google Fit SDK</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo">
+										<h4 class="mt-2">Alamofire</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/xcode-logo.webp" alt="XCode Logo" class="tech-logo">
+										<h4 class="mt-2">XCode</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/node-red-logo.webp" alt="Node-Red Logo" class="tech-logo">
+										<h4 class="mt-2">Node-Red</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo">
+										<h4 class="mt-2">Alamofire</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/graphql-logo.webp" alt="Graph QL Logo" class="tech-logo">
+										<h4 class="mt-2">Graph QL</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/grafana-logo.webp" alt="Grafana Logo" class="tech-logo">
+										<h4 class="mt-2">Grafana</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/tensorflow-logo.webp" alt="Tensor Flow Logo" class="tech-logo">
+										<h4 class="mt-2">Tensor Flow</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/tableau-logo.webp" alt="Tableau Logo" class="tech-logo">
+										<h4 class="mt-2">Tableau</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/android-sdk-logo.webp" alt="Android SDK Logo" class="tech-logo">
+										<h4 class="mt-2">Android SDK</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/apache-kafka-logo.webp" alt="Apache Kafka Logo" class="tech-logo">
+										<h4 class="mt-2">Apache Kafka</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/android-studio.webp" alt="Android Studio Logo" class="tech-logo">
+										<h4 class="mt-2">Android Studio</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/xamarin-native-c-logo.webp" alt="Xamarin Native C Logo" class="tech-logo">
+										<h4 class="mt-2">Xamarin Native C</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/amazon-sumerian-logo.webp" alt="Amazon Sumerian Logo" class="tech-logo">
+										<h4 class="mt-2">Amazon Sumerian</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo">
+										<h4 class="mt-2">Apache Hadoop</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="row">
+							<div class="con-h">
+								<h3 class="text-center">Frontend Development</h3>
+								<p class="text-center pt-2">To make the interactive user interface, our developers use all proven tools and languages that are helpful to enhance user focus and grab their attention.</p>
+							</div>
+						</div>
+						<div class="row pt-3">
+							<div class="tech-slider1 owl-carousel">
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/angular-logo.webp" alt="Angular Logo" class="tech-logo">
+										<h4 class="mt-2">Angular JS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo">
+										<h4 class="mt-2">React JS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/html-logo.webp" alt="HTML Logo" class="tech-logo">
+										<h4 class="mt-2">HTML</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/css-logo.webp" alt="CSS Logo" class="tech-logo">
+										<h4 class="mt-2">CSS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/js-logo.webp" alt="JavaScript Logo" class="tech-logo">
+										<h4 class="mt-2">JavaScript</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/next-js-logo.webp" alt="Next JS Logo" class="tech-logo">
+										<h4 class="mt-2">Next JS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/json-logo.webp" alt="JSON Logo" class="tech-logo">
+										<h4 class="mt-2">JSON</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/rest-logo.webp" alt="Rest Logo" class="tech-logo">
+										<h4 class="mt-2">Rest</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/soap-logo.webp" alt="Soap Logo" class="tech-logo">
+										<h4 class="mt-2">Soap</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/xml-logo.webp" alt="XML Logo" class="tech-logo">
+										<h4 class="mt-2">XML</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/spark-ml-logo.webp" alt="Spark ML Logo" class="tech-logo">
+										<h4 class="mt-2">Spark ML</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="row">
+							<div class="con-h">
+								<h3 class="text-center">Database Development</h3>
+								<p class="text-center pt-2">Our database experts are trained to provide robust database management solutions. We use all modern technologies to provide you secure database solution.</p>
+							</div>
+						</div>
+						<div class="row pt-3">
+							<div class="tech-slider1 owl-carousel">
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/firebase-logo.webp" alt="Firebase Logo" class="tech-logo">
+										<h4 class="mt-2">Firebase</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/sqlite-logo.webp" alt="SQLite Logo" class="tech-logo">
+										<h4 class="mt-2">SQLite</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/core-data-logo.webp" alt="CoreData Logo" class="tech-logo">
+										<h4 class="mt-2">CoreData</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/realm-logo.webp" alt="Realm Logo" class="tech-logo">
+										<h4 class="mt-2">Realm</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/mysql-logo.webp" alt="MySQL Logo" class="tech-logo">
+										<h4 class="mt-2">MySQL</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/sql-logo.webp" alt="SQL Logo" class="tech-logo">
+										<h4 class="mt-2">SQL</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/opentsdb-logo.webp" alt="OpenTSDB Logo" class="tech-logo">
+										<h4 class="mt-2">OpenTSDB</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="row">
+							<div class="con-h">
+								<h3 class="text-center">Backend Development</h3>
+								<p class="text-center pt-2">Backend development is key that makes you unable to automate your system. Our backend developers use all modern techniques to develop top-notch solutions.</p>
+							</div>
+						</div>
+						<div class="row pt-3">
+							<div class="tech-slider1 owl-carousel">
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/php-logo.webp" alt="PHP Logo" class="tech-logo">
+										<h4 class="mt-2">PHP</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/java-logo.webp" alt="Java Logo" class="tech-logo">
+										<h4 class="mt-2">Java</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/node-js-logo.webp" alt="Node JS Logo" class="tech-logo">
+										<h4 class="mt-2">Node JS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/python-logo.webp" alt="Python Logo" class="tech-logo">
+										<h4 class="mt-2">Python</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/c-sharp-logo.webp" alt="C# Logo" class="tech-logo">
+										<h4 class="mt-2">C#</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/c++-logo.webp" alt="C/C++ Logo" class="tech-logo">
+										<h4 class="mt-2">C/C++</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100">
+					<div class="card-body">
+						<div class="row">
+							<div class="con-h">
+								<h3 class="text-center">CMS Development</h3>
+								<p class="text-center pt-2">Our CMS engineers have first-hand knowledge of putting in place specialized solutions that make it easier to create, store, organize, edit, and publish web content.</p>
+							</div>
+						</div>
+						<div class="row pt-3">
+							<div class="tech-slider2 owl-carousel">
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/wordpress-logo.webp" alt="WordPress Logo" class="tech-logo">
+										<h4 class="mt-2">WordPress</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/magento-logo.webp" alt="Magento Logo" class="tech-logo">
+										<h4 class="mt-2">Magento</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/shopify-logo.webp" alt="Shopify Logo" class="tech-logo">
+										<h4 class="mt-2">Shopify</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6 mt-4">
+				<div class="card h-100 ">
+					<div class="card-body">
+						<div class="row">
+							<div class="con-h">
+								<h3 class="text-center">Infra and Devops Development</h3>
+								<p class="text-center pt-2">The utilization of the most recent technologies and techniques by our infrastructure and DevOps developers improve an organization's capacity to offer apps and services at a highspeed.</p>
+							</div>
+						</div>
+						<div class="row pt-3">
+							<div class="tech-slider2 owl-carousel">
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/aws-logo.webp" alt="AWS Logo" class="tech-logo">
+										<h4 class="mt-2">AWS</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/azure-logo.webp" alt="Azure Logo" class="tech-logo">
+										<h4 class="mt-2">Azure</h4>
+									</div>
+								</div>
+								<div class="tech-item">
+									<div class="item">
+										<img src="images/tech/google-cloud-logo.webp" alt="Google Cloud Logo" class="tech-logo">
+										<h4 class="mt-2">Google Cloud</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Tech-->
+
+<!-- Start Hire Developers -->
+<section class="hire-developers py-5">
+	<div class="container">
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-xl-6 my-auto">
+				<div class="common-heading">
+					<div data-text="Developers" class="dark-bg-text bg-text">
+						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					</div>
+					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-xl-6 mt-3">
+				<div class="row scroller">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
+								<!-- <p class="text-center pt-2">Unity</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-sm-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+								<!-- <p class="text-center pt-2">Unreal Engine</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
+								<!-- <p class="text-center pt-2">WordPress</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
+								<!-- <p class="text-center pt-2">PHP</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
+								<!-- <p class="text-center pt-2">Angular JS</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
+								<!-- <p class="text-center pt-2">C++</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+								<!-- <p class="text-center pt-2">Blender</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
+								<!-- <p class="text-center pt-2">Python</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
+								<!-- <p class="text-center pt-2">Node JS</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
+								<!-- <p class="text-center pt-2">Photon</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
+								<!-- <p class="text-center pt-2">React Native</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
+								<!-- <p class="text-center pt-2">JavaScript</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
+								<!-- <p class="text-center pt-2">HTML</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
+								<!-- <p class="text-center pt-2">Laravel</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Hire Us -->
+
+<!--Start Location-->
+<section class="py-5 bg-gradient3 location">
+	<div class="row fadeIn">
+		<div class="col-12">
+			<img src="images/locations/location-map.webp" alt="Location" class="img-fluid">
+		</div>
+	</div>
+</section>
+<!--End Location-->
 
 @endsection

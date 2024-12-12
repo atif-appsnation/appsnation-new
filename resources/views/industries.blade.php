@@ -47,8 +47,8 @@
 </section>
 <!--End About-->
 
-<!--Start Service-->
-<section class="service-section-app py-5 dark-bg2">
+<!--Start Industries-->
+<section class="industries-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
@@ -219,7 +219,7 @@
 		</div>
 	</div>
 </section>
-<!--End Service-->
+<!--End Industries-->
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">

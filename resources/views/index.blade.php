@@ -447,7 +447,7 @@
 		</div>
 	</div>
 
-	<section class="container py-lg-5 mt-3">
+	<section class="container pb-5 mt100">
 		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>

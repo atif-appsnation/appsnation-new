@@ -651,7 +651,8 @@
         nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 600,
+        autoPlaySpeed: 1000,
+        autoPlayTimeout: 1000,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -672,7 +673,8 @@
         nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 600,
+        autoPlaySpeed: 1000,
+        autoPlayTimeout: 1000,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -693,7 +695,8 @@
         nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 600,
+        autoPlaySpeed: 1000,
+        autoPlayTimeout: 1000,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -714,7 +717,8 @@
         nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 600,
+        autoPlaySpeed: 1000,
+        autoPlayTimeout: 1000,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -735,7 +739,8 @@
         nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 600,
+        autoPlaySpeed: 1000,
+        autoPlayTimeout: 1000,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -756,7 +761,8 @@
         nav: false,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 600,
+        autoPlaySpeed: 1000,
+        autoPlayTimeout: 1000,
         autoplayHoverPause: true,
         responsive:{
             0:{
@@ -817,4 +823,3 @@ var swiper = new Swiper(".services", {
         }
     }
 });
-

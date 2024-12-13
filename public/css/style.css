@@ -1519,6 +1519,19 @@ a.play-video::after {
     position: relative;
 }
 
+.portfolio-section .nav-link {
+    color: var(--white-color);
+    background-color: var(--black-color);
+    margin-right: 8px;
+    margin-bottom: 5px;
+}
+
+.portfolio-section .nav-tabs .nav-item.show .nav-link, .portfolio-section .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: var(--first-color);
+    border-color: var(--first-color);
+}
+
 /* .portfolio-section:before {
     content: "";
     background: url(images/shape/dot-pattern.webp);
@@ -11119,14 +11132,14 @@ i.fa-brands.fa-instagram {
     height: 100%;
 } */
 
-.swiper-slide {
+/* .swiper-slide {
     text-align: center;
     font-size: 18px;
     background: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 /* .service-section-app .common-heading h2, .service-section-app .common-heading p {
     color: var(--white-color);
@@ -14036,7 +14049,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .breadcrumb-areav2 .card {
-    background-color: rgba(255,255,255,0.25);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .hire-developer-app-development {
@@ -14052,7 +14065,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .hire-developer-app-development img {
     position: absolute;
-    top: -290px;
+    top: -338px;
     right: 0px;
 }
 
@@ -14248,7 +14261,8 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     color: var(--dark-green-color);
 }
 
-.booking-app-carousel .owl-dots {
+.booking-app-carousel .owl-dots, .fitness-app-carousel .owl-dots, .loyalty-app-carousel .owl-dots, .mover-app-carousel .owl-dots,
+.real-estate-app-carousel .owl-dots, .sports-app-carousel .owl-dots {
     margin-bottom: 10px;
 }
 
@@ -14269,3 +14283,10 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     background-size: cover;
     background-position: center center;
 }
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }

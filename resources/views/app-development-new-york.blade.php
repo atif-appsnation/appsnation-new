@@ -361,7 +361,7 @@
 		</div>
 	</div>
 
-	<section class="container py-lg-5 mt-3">
+	<section class="container pb-5 mt100">
 		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
@@ -704,6 +704,15 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
+			<div class="common-heading ptag wow fadeIn text-center">
+					<div data-text="Process" class="light-bg-text bg-text mt-5 text-center">
+						<h2>Our <span>Services</span></h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt50">
+			<div class="col-12">
 				<div class="swiper services">
 					<div class="swiper-wrapper">
 						<div class="swiper-slide swiper-slide--one"> 
@@ -951,7 +960,7 @@
 				<div class="tab-content mt-3">
 					<div class="tab-pane container active booking-app-tab" id="booking">
 						<div class="wrap d-md-flex">
-							<div class="bg-img booking-app-bg">
+							<div class="bg-img booking-app-bg">	
 								<div class="owl-carousel owl-theme booking-app-carousel">
 									<div class="item">
 										<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid">
@@ -1850,6 +1859,37 @@
 	</div>
 </section>
 <!-- End Hire Us -->
+
+<!--Start Clients-->
+<section class="py-5 bg-gradient3 client">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading">
+					<div data-text="Clients" class="light-bg-text bg-text text-center">
+						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center wow fadeIn mt-xl-5">
+			<div class="col-lg-12">
+				<div class="client-logoset">
+					<div class="row">
+						@foreach($clients as $item)
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+							<div class="brand-logo hoshd">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+							</div>
+						</div>
+						@endforeach
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Clients-->
 
 <!--Start Location-->
 <section class="py-5 bg-gradient3 location">

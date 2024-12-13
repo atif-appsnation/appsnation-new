@@ -1251,10 +1251,9 @@ class HomeController extends Controller
     }
     public function blogApi($category = null)
     {
-        if($category == null){
+        if ($category == null) {
             $response = Http::get('https://blog.appsnation.co/api/get-blogs-api.php');
-        }
-        else{
+        } else {
             $response = Http::get('https://blog.appsnation.co/api/get-blogs-api.php?category=' . urlencode($category));
         }
         $data = $response->json();
@@ -1609,7 +1608,7 @@ class HomeController extends Controller
         return view(
             'travelagencyweb',
             [
-               
+
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
@@ -1631,7 +1630,7 @@ class HomeController extends Controller
     //     return view(
     //         'travelagencyportfolio',
     //         [
-                
+
     //             'metabank' => $metabank,
     //             'metabank2' => $metabank2,
     //             'metatitle' => $metatitle,
@@ -1662,7 +1661,7 @@ class HomeController extends Controller
             ]
         );
     }
-    
+
     public function realEstateWeb()
     {
         $metabank = Metabank::where('slug', 'realEstateWeb')->where('type', 'Tag')->get();
@@ -1674,7 +1673,7 @@ class HomeController extends Controller
         return view(
             'realestateweb',
             [
-               
+
                 'metabank' => $metabank,
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
@@ -1833,7 +1832,7 @@ class HomeController extends Controller
             ]
         );
     }
-    
+
     public function art2d()
     {
         $metabank = Metabank::where('slug', 'Art-2D')->where('type', 'Tag')->get();
@@ -1953,6 +1952,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'app-development-new-york',
             [
@@ -1965,6 +1966,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -1979,6 +1982,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location2',
             [
@@ -1991,6 +1996,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2005,6 +2012,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location3',
             [
@@ -2017,6 +2026,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2031,6 +2042,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location4',
             [
@@ -2043,6 +2056,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2057,6 +2072,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location5',
             [
@@ -2069,6 +2086,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2083,6 +2102,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location6',
             [
@@ -2095,6 +2116,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2109,6 +2132,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location7',
             [
@@ -2121,6 +2146,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2135,6 +2162,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location8',
             [
@@ -2147,6 +2176,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2161,6 +2192,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location9',
             [
@@ -2173,6 +2206,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2187,6 +2222,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location10',
             [
@@ -2199,6 +2236,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2213,6 +2252,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location11',
             [
@@ -2225,6 +2266,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2239,6 +2282,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location12',
             [
@@ -2251,6 +2296,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2265,6 +2312,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location13',
             [
@@ -2277,6 +2326,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2291,6 +2342,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location14',
             [
@@ -2303,6 +2356,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2317,6 +2372,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location15',
             [
@@ -2329,6 +2386,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2343,6 +2402,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location16',
             [
@@ -2355,6 +2416,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2369,6 +2432,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location17',
             [
@@ -2381,6 +2446,8 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
@@ -2395,6 +2462,8 @@ class HomeController extends Controller
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $casestudy = Casestudyapp::all();
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+
         return view(
             'location18',
             [
@@ -2407,9 +2476,11 @@ class HomeController extends Controller
                 'metabank2' => $metabank2,
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
+                'clients' => $clients,
+
             ]
         );
     }
- 
+
     // /////////////////end location///////////////////////////////
 }

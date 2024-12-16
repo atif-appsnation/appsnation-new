@@ -9054,7 +9054,7 @@ html .mt15 {
 .banner-heading {
     font-family: var(--font-family);
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 
@@ -10327,6 +10327,10 @@ button:not(:disabled) {
 
 /* Start Solutions Page */
 
+.solutions-banner {
+    background: var(--black2-color);
+}
+
 .solutions-link {
     position: relative;
 }
@@ -10413,6 +10417,10 @@ button:not(:disabled) {
 /* End Solutions Page */
 
 /* Industries Page */
+
+.industries-banner {
+    background: var(--black2-color);
+}
 
 .industries-link {
     position: relative;
@@ -10611,6 +10619,21 @@ button:not(:disabled) {
 }
 
 /* Services Page */
+
+.services-banner {
+    background: var(--black2-color);
+}
+
+.content-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+.content-list li {
+    margin-bottom: 15px;
+}
 
 .ar-choose-section h2 {
 	padding: 10px 0px;
@@ -14056,7 +14079,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     background: var(--black2-color);
     position: relative;
     padding: 100px 0px;
-    margin: 200px 0px 150px;
 }
 
 .hire-developer-img {
@@ -14073,9 +14095,9 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
-  }
+}
   
-  .swiper-slide {
+.swiper-slide {
     width: 80%; /* Adjust slide width to be a percentage of Swiper container */
     max-width: 500px; /* Set a max width for large screens */
     height: 60vh; /* Make height responsive to viewport height */
@@ -14087,7 +14109,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     flex-direction: column;
     justify-content: end;
     align-items: self-start;
-  }
+}
   
 .swiper-slide-active {
     filter: blur(0px);
@@ -14194,6 +14216,23 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     margin-bottom: 5px;
 }
 
+.lets-connect {
+    background: url(../images/locations/let-connect-banner.webp);
+    position: relative;
+    padding: 100px 0px;
+    margin: 200px 0px 150px;
+}
+
+.lets-connect-img {
+    position: relative;
+}
+
+.lets-connect img {
+    position: absolute;
+    top: -400px;
+    right: 0px;
+}
+
 .wrap {
     width: 100%;
     overflow: hidden;
@@ -14289,4 +14328,5 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     width: 100%;
     height: 100%;
     object-fit: cover;
-  }
+}
+

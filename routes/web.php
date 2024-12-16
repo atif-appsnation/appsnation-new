@@ -126,3 +126,5 @@ Route::get('/location-15','HomeController@location15');
 Route::get('/location-16','HomeController@location16');
 Route::get('/location-17','HomeController@location17');
 Route::get('/location-18','HomeController@location18');
+
+Route::get('/review-data','ScraperController@scrapeTestimonials');

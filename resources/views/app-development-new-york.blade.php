@@ -8,7 +8,7 @@
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row justify-content-between">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in New York</h1>
@@ -44,7 +44,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
+			
+			<div class="col-sm-12 col-md-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="niwax23form shadow">
                     <div class="common-heading text-l">
                             {!! NoCaptcha::renderJs() !!}
@@ -691,11 +692,10 @@
 		<div class="free-cta-title v-center wow fadeIn">
 			<p class="text-center text-lg-start text-white">We Promise. <span>We Deliver.</span> </p>
 		</div>
-		<div class="hire-developer-img">
+		<div class="hire-developer-img d-none d-xl-block">
 			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid">
 		</div>
 	</div>
-	
 </div>
 <!--End Let's Work Together-->
 
@@ -961,12 +961,19 @@
 					<div class="tab-pane container active booking-app-tab" id="booking">
 						<div class="wrap d-md-flex">
 							<div class="bg-img booking-app-bg">	
-								<div class="owl-carousel owl-theme booking-app-carousel">
-									<div class="item">
-										<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid">
+								<div id="booking_slider" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+									<div class="carousel-indicators">
+										<button type="button" data-bs-target="#booking_slider" data-bs-slide-to="0" class="active"></button>
+										<button type="button" data-bs-target="#booking_slider" data-bs-slide-to="1"></button>
 									</div>
-									<div class="item">
-										<img src="images/locations/booking-app/booking-app-2.webp" alt="Booking App" class="img-fluid">
+
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/booking-app/booking-app-2.webp" alt="Booking App" class="img-fluid d-block mx-auto">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -979,12 +986,19 @@
 					<div class="tab-pane container fade fitness-app-tab" id="fitness">
 						<div class="wrap d-md-flex">
 							<div class="bg-img fitness-app-bg">
-								<div class="owl-carousel owl-theme fitness-app-carousel">
-									<div class="item">
-										<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid">
+								<div id="fitness_slider" class="carousel slide" data-bs-ride="carousel">
+									<div class="carousel-indicators">
+										<button type="button" data-bs-target="#fitness_slider" data-bs-slide-to="0" class="active"></button>
+										<button type="button" data-bs-target="#fitness_slider" data-bs-slide-to="1"></button>
 									</div>
-									<div class="item">
-										<img src="images/locations/fitness-app/fitness-app-2.webp" alt="Fitness App" class="img-fluid">
+
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/fitness-app/fitness-app-2.webp" alt="Fitness App" class="img-fluid d-block mx-auto">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -997,12 +1011,19 @@
 					<div class="tab-pane container fade loyalty-app-tab" id="loyalty">
 						<div class="wrap d-md-flex">
 							<div class="bg-img loyalty-app-bg">
-								<div class="owl-carousel owl-theme loyalty-app-carousel">
-									<div class="item">
-										<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid">
+								<div id="loyalty_slider" class="carousel slide" data-bs-ride="carousel">
+									<div class="carousel-indicators">
+										<button type="button" data-bs-target="#loyalty_slider" data-bs-slide-to="0" class="active"></button>
+										<button type="button" data-bs-target="#loyalty_slider" data-bs-slide-to="1"></button>
 									</div>
-									<div class="item">
-										<img src="images/locations/loyalty-app/loyalty-app-2.webp" alt="Loyalty App" class="img-fluid">
+
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/loyalty-app/loyalty-app-2.webp" alt="Loyalty App" class="img-fluid d-block mx-auto">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -1015,12 +1036,19 @@
 					<div class="tab-pane container fade mover-app-tab" id="mover">
 						<div class="wrap d-md-flex">
 							<div class="bg-img mover-app-bg">
-								<div class="owl-carousel owl-theme mover-app-carousel">
-									<div class="item">
-										<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid">
+								<div id="mover_slider" class="carousel slide" data-bs-ride="carousel">
+									<div class="carousel-indicators">
+										<button type="button" data-bs-target="#mover_slider" data-bs-slide-to="0" class="active"></button>
+										<button type="button" data-bs-target="#mover_slider" data-bs-slide-to="1"></button>
 									</div>
-									<div class="item">
-										<img src="images/locations/mover-app/mover-app-2.webp" alt="Mover App" class="img-fluid">
+
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/mover-app/mover-app-2.webp" alt="Mover App" class="img-fluid d-block mx-auto">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -1033,18 +1061,26 @@
 					<div class="tab-pane container fade real-estate-app-tab" id="estate">
 						<div class="wrap d-md-flex">
 							<div class="bg-img real-estate-app-bg">
-								<div class="owl-carousel owl-theme real-estate-app-carousel">
-									<div class="item">
-										<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid">
+								<div id="real_estate_slider" class="carousel slide" data-bs-ride="carousel">
+									<div class="carousel-indicators">
+										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="0" class="active"></button>
+										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="1"></button>
+										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="2"></button>
+										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="3"></button>
 									</div>
-									<div class="item">
-										<img src="images/locations/real-estate-app/real-estate-app-2.webp" alt="Real Estate App" class="img-fluid">
-									</div>
-									<div class="item">
-										<img src="images/locations/real-estate-app/real-estate-app-3.webp" alt="Real Estate App" class="img-fluid">
-									</div>
-									<div class="item">
-										<img src="images/locations/real-estate-app/real-estate-app-4.webp" alt="Real Estate App" class="img-fluid">
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/real-estate-app/real-estate-app-2.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/real-estate-app/real-estate-app-3.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/real-estate-app/real-estate-app-4.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -1093,12 +1129,19 @@
 					<div class="tab-pane container fade sports-app-tab" id="sports">
 						<div class="wrap d-md-flex">
 							<div class="bg-img sports-app-bg">
-								<div class="owl-carousel owl-theme sports-app-carousel">
-									<div class="item">
-										<img src="images/locations/sports-app/sports-app-1.webp" alt="Sports App" class="img-fluid">
+								<div id="sports_slider" class="carousel slide" data-bs-ride="carousel">
+									<div class="carousel-indicators">
+										<button type="button" data-bs-target="#sports_slider" data-bs-slide-to="0" class="active"></button>
+										<button type="button" data-bs-target="#sports_slider" data-bs-slide-to="1"></button>
 									</div>
-									<div class="item">
-										<img src="images/locations/sports-app/sports-app-2.webp" alt="Sports App" class="img-fluid">
+
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img src="images/locations/sports-app/sports-app-1.webp" alt="Sports App" class="img-fluid d-block mx-auto">
+										</div>
+										<div class="carousel-item">
+											<img src="images/locations/sports-app/sports-app-2.webp" alt="Sports App" class="img-fluid d-block mx-auto">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -1287,6 +1330,25 @@
 	</div>
 </section>
 <!--End Industries-->
+
+<!--Start Let's Connect-->
+<div class="lets-connect">
+	<div class="row justify-content-center pt50 pb50">
+		<div class="col-12">
+			<div class="container">
+				<div class="free-cta-title v-center wow fadeIn w-50">
+					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept New York-Based Mobile App Development Company Let’s Connect</h3>
+				</div>
+				<div class="lets-connect-img d-none d-xl-block">
+					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid w-50">
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<!--End et's Connect-->
 
 <!--Start Tech-->
 <section class="technologies-stack py-5">
@@ -1890,15 +1952,5 @@
 	</div>
 </section>
 <!--End Clients-->
-
-<!--Start Location-->
-<section class="py-5 bg-gradient3 location">
-	<div class="row fadeIn">
-		<div class="col-12">
-			<img src="images/locations/location-map.webp" alt="Location" class="img-fluid">
-		</div>
-	</div>
-</section>
-<!--End Location-->
 
 @endsection

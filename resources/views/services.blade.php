@@ -1,22 +1,77 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 android-app-banner">
+<section class="breadcrumb-areav2 services-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row justify-content-between">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Services</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Empower Your Business with Next-Gen Digital Solutions</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">At AppsNation, we are passionate about crafting transformative experiences that propel businesses forward. Our innovative approach and relentless focus on customer satisfaction help you navigate the complexities of the digital world, delivering results that matter and fostering impactful change.</p>
+					<ul class="mt20 content-list text-white">
+						<li>Android App Development</li>
+						<li>iOS App Development</li>
+						<li>Game App Development</li>
+						<li>Cross Platform App Development</li>
+						<li>AR (Augmented Reality) App Development</li>
+						<li>VR (Virtual Reality) App Development</li>
+						<li>E-Commerce App Development</li>
+						<li>Web App Development</li>
+						<li>IoT (Internet of Things) App Development</li>
+						<li>Wearable App Development</li>
+					</ul>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
+			<div class="col-sm-12 col-md-4 wow fadeIn">
+				<div class="niwax23form shadow">
+                    <div class="common-heading text-l">
+                            {!! NoCaptcha::renderJs() !!}
+                        <h2 class="mt0 mb0">Book a Free <span>Consultation</span></h2>
+                    </div>
+                    <div class="form-block contact-us-form">
+                    <form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
+                        @csrf
+                        <div class="row">
+                            <div class="form-group col-sm-6">
+                                <input type="text" name="first_name" id="first_name" placeholder="Enter First Name" required="" data-error="Please fill Out" maxlength="50">
+                                <div class="help-block with-errors"></div>
+                            </div>
+							<div class="form-group col-sm-6">
+                                <input type="text" name="last_name" id="last_name" placeholder="Enter Last Name" required="" data-error="Please fill Out" maxlength="50">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+							<div class="form-group col-sm-12">
+                                <input type="email" name="email" id="email" placeholder="Enter email" required="" maxlength="50">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+							<div class="form-group col-sm-12">
+									<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out" maxlength="20">
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
+                                {!! NoCaptcha::display() !!}
+                            </div>
+                        <button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+                            <i class="fas fa-chevron-right fa-icon"></i>
+                        </button>
+                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                        <div class="clearfix"></div>
+                    </form>
+                </div>
 			</div>
 		</div>
 	</div>

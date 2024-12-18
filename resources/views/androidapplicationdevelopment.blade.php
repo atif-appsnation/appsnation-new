@@ -14,10 +14,15 @@
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Android App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
 				</div>
+				
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
 				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development">
 			</div>
+			<!-- <div class="position-absolute bottom-0 top-25">
+				<div data-tb-embedded-award data-tb-embedded-award-style="banner" data-tb-embedded-award-id="appsnation" data-tb-embedded-award-edition="2024"></div>
+			</div> -->
+			
 		</div>
 	</div>
 </section>

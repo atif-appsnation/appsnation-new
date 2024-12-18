@@ -24,8 +24,8 @@
     </section>
     <!-- End Breadcrumb -->
 
-    <!-- Start Testimonials -->
-    <section class="reviews-block py-5">
+      <!-- Start Testimonials -->
+      <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -35,43 +35,49 @@
                 </div>
             </div>
             <div class="row">
-                @foreach ($testimonials as $item)
-                    <div class="col-md-6 col-lg-4 mt30">
-                        <div class="card pr-shadow h-100">
-                            <div class="card-body">
-                                <div class="row v-center">
-                                    <div class="col"><span class="revbx-lr"><i class="fas fa-quote-left"></i></span></div>
-                                </div>
-                                <div class="review-text">
-                                    <p>{{ $item['title'] }}</p>
-                                    <!--	<p>{{ $item['title'] }}</p>-->
-                                </div>
-                                <div class="-client-details-">
-                                    <div class="reviewer-text">
-                                        <h4>{{ $item['name'] }}</h4>
-                                        <p>{{ $item['location'] }}
-                                        </p>
-                                        <div class="star-rate">
-                                            <ul>
-                                                <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a></li>
-                                                <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a></li>
-                                                <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a></li>
-                                                <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a></li>
-                                                <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a></li>
+                <div class="col-md-12 col-lg-12 mt30">
 
-                                            </ul>
+                    <div class="pilot-slider owl-carousel owl-theme">
+
+                        @foreach ($testimonials as $item)
+                            <div class="card pr-shadow h-100">
+                                <div class="card-body">
+                                    <div class="row v-center">
+                                        <div class="col"><span class="revbx-lr"><i class="fas fa-quote-left"></i></span>
+                                        </div>
+                                    </div>
+                                    <div class="review-text">
+                                        <p>{{ $item['title'] }}</p>
+                                        <!--	<p>{{ $item['title'] }}</p>-->
+                                    </div>
+                                    <div class="-client-details-">
+                                        <div class="reviewer-text">
+                                            <h4>{{ $item['name'] }}</h4>
+                                            <p>{{ $item['location'] }}
+                                            </p>
+                                            <div class="star-rate">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                                aria-hidden="true"></i></a></li>
+                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                                aria-hidden="true"></i></a></li>
+                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                                aria-hidden="true"></i></a></li>
+                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                                aria-hidden="true"></i></a></li>
+                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                                aria-hidden="true"></i></a></li>
+
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        @endforeach
                     </div>
-                @endforeach
+
+                </div>
             </div>
         </div>
     </section>
@@ -85,7 +91,7 @@
 				<div class="col-12">
                     <div class="common-heading w-tdxt text-center">
                         <div data-text="Awards" class="dark-bg-text bg-text text-center">
-                            <h2 class="mb30">TrustPilot reviews</h2>
+                            <h2 class="mb30">TrustPilot Reviews</h2>
                         </div>
                     </div>
                 </div>
@@ -103,13 +109,14 @@
 
                                             {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
                                             <h5 class="text-center pt-3">{{ $testimonial->title }}</h5>
-                                            <p class="text-center pt-2">{{ $testimonial->comments }}</p>
+                                            <p class="text-center collapsible-text pt-2">{{ $testimonial->comments }}</p>
+                                            <button class="btn btn-link toggle-btn">View More</button>
                                             <div class="row">
                                                 <div class="d-inline-block w-75">
-                                                    <p class="text-start  pt-2">{{ str_replace("Date of experience:", "",$testimonial->dateOfExperience) }}</p>
+                                                    <p class="text-end fw-bold pt-2">{{ str_replace("Date of experience:", "",$testimonial->dateOfExperience) }}</p>
                                                 </div>
                                                 <div class=" d-inline-block w-25">
-                                                    <p class="text-end  pt-2">{{ $testimonial->location }}</p>
+                                                    <p class="text-start fw-bold pt-2">{{ $testimonial->location }}</p>
                                                 </div>
                                             </div>
                                             
@@ -123,8 +130,6 @@
                 </div>
             </div>
         </div>
-
-
     </section>
     <!-- End TrustPilot Testimonials -->
     {{-- end edit by talha --}}
@@ -273,4 +278,5 @@
         </div>
     </div>
     <!--End Let's Work Together-->
+
 @endsection

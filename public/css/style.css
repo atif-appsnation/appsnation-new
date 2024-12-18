@@ -3860,7 +3860,7 @@ footer.ftshap:before {
 }
 
 .-client-details- {
-    display: flex;
+    display: block;
 }
 
 .-reviewr {
@@ -3879,7 +3879,12 @@ footer.ftshap:before {
 }
 
 .review-text {
-    text-align: justify;
+    text-align: left;
+    direction: ltr;
+}
+
+.reviewer-text {
+    direction: ltr;
 }
 
 .reviewer-text p {
@@ -14334,8 +14339,25 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     display: flex;
 }
 
+/* Start Testimonials */
+
 .testimonial-items {
     display: flex;
     flex: 1 0 auto;
     height: 100%;
 }
+
+.collapsible-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    direction: ltr;
+}
+.collapsible-text.expanded {
+    -webkit-line-clamp: unset;
+    display: block;
+}
+
+/* End Testimonials */

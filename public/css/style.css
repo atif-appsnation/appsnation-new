@@ -14330,3 +14330,12 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     object-fit: cover;
 }
 
+.pilot-slider .owl-stage {
+    display: flex;
+}
+
+.testimonial-items {
+    display: flex;
+    flex: 1 0 auto;
+    height: 100%;
+}

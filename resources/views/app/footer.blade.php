@@ -189,7 +189,7 @@
                             <li><a href="{{url('/android-app-development')}}">Android App Development</a></li>
                             <li><a href="{{url('/ios-app-development')}}">iOS App Development</a></li>
                             <li><a href="{{url('/game-app-development')}}">Game App Development</a></li>
-                            <li><a href="{{url('/cross-platform-app-development')}}">Cross App Development</a></li>
+                            <li><a href="{{url('/cross-platform-app-development')}}">Cross Platform App Development</a></li>
                             <li><a href="{{url('/ar-app-development')}}">AR App Development</a></li>
                             <li><a href="{{url('/vr-app-development')}}">VR App Development</a></li>
                             <li><a href="{{url('/e-commerce-app-development')}}">Ecommerce App Development</a></li>

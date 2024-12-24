@@ -77,21 +77,11 @@ class MetatitleCrudController extends CrudController
                 'Main' => 'Main',
                 'Aboutus' => 'Aboutus',
                 'Contactus' => 'Contactus',
-
                 'Portfolio' => 'Portfolio',
                 'Ourprocess' => 'Ourprocess',
                 'Clients' => 'Clients',
                 'Testimonial' => 'Testimonial',
                 'Career' => 'Career',
-                // 'Designing' => 'Designing',
-                // 'WebDevelopment' => 'WebDevelopment',
-                // 'SocialMedia' => 'SocialMedia',
-                // 'Seo' => 'Seo',
-                // 'EmailMarketing' => 'EmailMarketing',
-                // 'PaidMarketing' => 'PaidMarketing',
-                // 'Ecommerce' => 'Ecommerce',
-
-                //innerpages of services
                 'MobileApp' => 'MobileApp',
                 'AndroidApp' => 'AndroidApp',
                 'IosApp' => 'IosApp',
@@ -107,13 +97,10 @@ class MetatitleCrudController extends CrudController
                 'IotApp' => 'IotApp',
                 'WearableApp' => 'WearableApp',
                 'DesignAndAnimation' => 'DesignAndAnimation',
-
-
-                //innerpages of Industries
                 'Advertising' => 'Advertising',
                 'HealthCareAndLifeScience' => 'HealthCareAndLifeScience',
                 'E-commerceAndRetail' => 'E-commerceAndRetail',
-                'EducationAndHumanResources' => 'EducationAndHumanResources',
+                'Education' => 'Education',
                 'SoftwareAndHighTech' => 'SoftwareAndHighTech',
                 'AutomativeAndTransport' => 'AutomativeAndTransport',
                 'GamingAndLeisure' => 'GamingAndLeisure',
@@ -122,8 +109,6 @@ class MetatitleCrudController extends CrudController
                 'TravelAndHospitality' => 'TravelAndHospitality',
                 'RealEstateAndProperty' => 'RealEstateAndProperty',
                 'SportTeamAndLeagues' => 'SportTeamAndLeagues',
-
-                //innerpages of Solution
                 'BookingApp' => 'BookingApp',
                 'FitnessApp' => 'FitnessApp',
                 'FleetApp' => 'FleetApp',
@@ -133,8 +118,6 @@ class MetatitleCrudController extends CrudController
                 'RestaurantApp' => 'RestaurantApp',
                 'ShoppingExpressApp' => 'ShoppingExpressApp',
                 'SportApp' => 'SportApp',
-
-                //new pages
                 'Exterior-3d' => 'Exterior-3d',
                 'interior-3d' => 'Interior-3d',
                 'Animation' => 'Animation',
@@ -152,8 +135,9 @@ class MetatitleCrudController extends CrudController
                 'TechStack' => 'TechStack',
                 'Art-2d' => 'Art-2d',
                 'Art-3d' => 'Art-3d',
-
-                // solutions , services, industries
+                'DigitalMarketing' => 'DigitalMarketing',
+                'IndustrialAutomation	' => 'IndustrialAutomation',
+                'XrApp' => 'XrApp',
                 'Solutions' => 'Solutions',
                 'Services' => 'Services',
                 'Industries' => 'Industries',

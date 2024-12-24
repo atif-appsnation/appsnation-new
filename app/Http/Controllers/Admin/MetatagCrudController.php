@@ -77,60 +77,38 @@ class MetatagCrudController extends CrudController
                 'Main' => 'Main',
                 'Aboutus' => 'Aboutus',
                 'Contactus' => 'Contactus',
-
                 'Portfolio' => 'Portfolio',
                 'Ourprocess' => 'Ourprocess',
                 'Clients' => 'Clients',
                 'Testimonial' => 'Testimonial',
                 'Career' => 'Career',
-                // 'Designing' => 'Designing',
-                // 'WebDevelopment' => 'WebDevelopment',
-                // 'SocialMedia' => 'SocialMedia',
-                // 'Seo' => 'Seo',
-                // 'EmailMarketing' => 'EmailMarketing',
-                // 'PaidMarketing' => 'PaidMarketing',
-                // 'Ecommerce' => 'Ecommerce',
-
-                //innerpages of services
                 'MobileApp' => 'MobileApp',
                 'AndroidApp' => 'AndroidApp',
                 'IosApp' => 'IosApp',
                 'GameApp' => 'GameApp',
                 'CrossApp' => 'CrossApp',
-                //
                 'WebPortalApp' => 'WebPortalApp',
                 'E-CommerceApp' => 'E-CommerceApp',
                 'WebApp' => 'WebApp',
-                //
                 'Ar-VrApp' => 'Ar-VrApp',
                 'ArApp' => 'ArApp',
                 'VrApp' => 'VrApp',
-                //
                 'ConnectedDevice' => 'ConnectedDevice',
                 'IotApp' => 'IotApp',
                 'WearableApp' => 'WearableApp',
-                // 
                 'DesignAndAnimation' => 'DesignAndAnimation',
-
-
-
-                //innerpages of Industries
                 'Advertising' => 'Advertising',
                 'HealthCareAndLifeScience' => 'HealthCareAndLifeScience',
                 'E-commerceAndRetail' => 'E-commerceAndRetail',
                 'EducationAndHumanResources' => 'EducationAndHumanResources',
-                //
                 'SoftwareAndHighTech' => 'SoftwareAndHighTech',
                 'AutomativeAndTransport' => 'AutomativeAndTransport',
                 'GamingAndLeisure' => 'GamingAndLeisure',
                 'FinancialSoftwareDevelopment' => 'FinancialSoftwareDevelopment',
-                //
                 'MediaAndEntertainment' => 'MediaAndEntertainment',
                 'TravelAndHospitality' => 'TravelAndHospitality',
                 'RealEstateAndProperty' => 'RealEstateAndProperty',
                 'SportTeamAndLeagues' => 'SportTeamAndLeagues',
-
-                //innerpages of Solution
                 'BookingApp' => 'BookingApp',
                 'FitnessApp' => 'FitnessApp',
                 'FleetApp' => 'FleetApp',
@@ -142,8 +120,6 @@ class MetatagCrudController extends CrudController
                 'SportApp' => 'SportApp',
                 'Terms&Condition' => 'Terms&Condition',
                 'TechStack' => 'TechStack',
-
-                //new pages
                 'Exterior-3d' => 'Exterior-3d',
                 'interior-3d' => 'Interior-3d',
                 'Animation' => 'Animation',
@@ -158,8 +134,6 @@ class MetatagCrudController extends CrudController
                 'realEstateWeb' => 'realEstateWeb',
                 'realEstatePortfolio' => 'realEstatePortfolio',
                 'Art-2d' => 'Art-2d',
-
-                // solutions , services, industries
                 'Solutions' => 'Solutions',
                 'Services' => 'Services',
                 'Industries' => 'Industries',

@@ -14360,4 +14360,20 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     display: block;
 }
 
+.testimonial-slider .owl-dots {
+    display: block !important;
+}
+
+.toggle-btn {
+    text-decoration: none;
+    color: var(--first-color);
+    padding-left: 0px;
+}
+
+.toggle-btn:hover {
+    color: var(--second-color);
+    text-decoration: underline;
+}
+
+
 /* End Testimonials */

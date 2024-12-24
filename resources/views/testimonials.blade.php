@@ -36,18 +36,17 @@
             </div>
             <div class="row">
                 <div class="col-md-12 col-lg-12 mt30">
-
-                    <div class="pilot-slider owl-carousel owl-theme">
-
+                    <div class="testimonial-slider owl-carousel owl-theme">
                         @foreach ($testimonials as $item)
-                            <div class="card pr-shadow h-100">
+                            <div class="card pr-shadow h-100 d-flex">
                                 <div class="card-body">
                                     <div class="row v-center">
                                         <div class="col"><span class="revbx-lr"><i class="fas fa-quote-left"></i></span>
                                         </div>
                                     </div>
                                     <div class="review-text">
-                                        <p>{{ $item['title'] }}</p>
+                                        <p class="collapsible-text">{{ $item['title'] }}</p>
+                                        <button class="btn btn-link toggle-btn">View More</button>
                                         <!--	<p>{{ $item['title'] }}</p>-->
                                     </div>
                                     <div class="-client-details-">
@@ -102,21 +101,21 @@
                                 <div class="item">
                                     <div class="card h-100 d-flex">
                                         <div class="card-body">
-                                            <h6 class="text-muted text-center">{{ $testimonial->name }}</h6>
+                                            <h6 class="text-muted text-start">{{ $testimonial->name }}</h6>
                                             {{-- <svg viewBox="0 0 16 16" fill="currentColor" class="icon_icon__ECGRl" xmlns="http://www.w3.org/2000/svg" width="14px" height="14px"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16Zm-.888-4.44 5.603-5.87-.723-.69-4.897 5.13-2.388-2.388L4 8.449l3.112 3.112Z"></path></svg>
 											<span>Verified</span> --}}
-                                            <img src="images/svg/stars-5.svg" alt="" style="height:20px;">
+                                            <img src="images/svg/stars-5.svg" alt="Star" style="height:20px;">
 
                                             {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
-                                            <h5 class="text-center pt-3">{{ $testimonial->title }}</h5>
-                                            <p class="text-center collapsible-text pt-2">{{ $testimonial->comments }}</p>
+                                            <h5 class="pt-3 text-start">{{ $testimonial->title }}</h5>
+                                            <p class="text-start collapsible-text pt-2">{{ $testimonial->comments }}</p>
                                             <button class="btn btn-link toggle-btn">View More</button>
                                             <div class="row">
                                                 <div class="d-inline-block w-75">
-                                                    <p class="text-end fw-bold pt-2">{{ str_replace("Date of experience:", "",$testimonial->dateOfExperience) }}</p>
+                                                    <p class="text-start fw-bold pt-2">{{ str_replace("Date of experience:", "",$testimonial->dateOfExperience) }}</p>
                                                 </div>
                                                 <div class=" d-inline-block w-25">
-                                                    <p class="text-start fw-bold pt-2">{{ $testimonial->location }}</p>
+                                                    <p class="text-end fw-bold pt-2">{{ $testimonial->location }}</p>
                                                 </div>
                                             </div>
                                             

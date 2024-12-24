@@ -48,7 +48,7 @@
 				</div>
 			</div>
 			<div class="col-lg-8 wow fadeIn mt-3">
-				<p class="key-desc text-center">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success.We donot speak about our success, our work speaks about our success.</p>
+				<p class="key-desc text-center">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success. We do not speak about our success, our work speaks about our success.</p>
 			</div>
 		</div>
 
@@ -219,7 +219,7 @@
 							<h4>AR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
+							<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation for overlaying the best virtual content.</p>
 							<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -406,7 +406,7 @@
 					<div class="card-body">
 						<p class="timeline-year">04</p>
 						<h3 class="title">App Testing</h3>
-						<p class="description">Usability, compatibility, security, and performance should all be checked on the program. Your beta users' input can assist you to determine whether your app's function is working properly in a real-world circumstance.</p>
+						<p class="description">Usability, compatibility, security, and performance should all be checked on the program. Your beta users' input can assist you in determining whether your app's function is working properly in a real-world circumstance.</p>
 					</div>
 				</div>
 			</div>
@@ -837,7 +837,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">App Development</h3>
-								<p class="text-center pt-2">For App development, our developers use the latest technologies, which provide top notch app development solution.</p>
+								<p class="text-center pt-2">For app development, our developers use the latest technologies, which provide top-notch app development solutions.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1134,7 +1134,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">Backend Development</h3>
-								<p class="text-center pt-2">Backend development is key that makes you unable to automate your system. Our backend developers use all modern techniques to develop top-notch solutions.</p>
+								<p class="text-center pt-2">Backend development is key to making you unable to automate your system. Our backend developers use all modern techniques to develop top-notch solutions.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1222,7 +1222,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">Infra and Devops Development</h3>
-								<p class="text-center pt-2">The utilization of the most recent technologies and techniques by our infrastructure and DevOps developers improve an organization's capacity to offer apps and services at a highspeed.</p>
+								<p class="text-center pt-2">The utilization of the most recent technologies and techniques by our infrastructure and DevOps developers improves an organization's capacity to offer apps and services at a high speed.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1645,7 +1645,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

@@ -98,7 +98,7 @@
 						<h4>Custom iOS Application Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We build iOS apps from scratch that exclusively caters to your business and its values by analyzing your business along with the competitors.</p>
+						<p>We build iOS apps from scratch that exclusively cater to your business and its values by analyzing your business along with the competitors.</p>
 					</div>
 				</div>
 			</div>
@@ -163,7 +163,7 @@
 						<h4>Apple Watch App Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Apple Watch app development services enhance your business's accessibility and mobility.</p>
+						<p>With best-in-class watchOS expert developers, our Apple Watch app development services enhance your business's accessibility and mobility.</p>
 					</div>
 				</div>
 			</div>
@@ -281,7 +281,7 @@
 					<div data-text="Choose Us" class="dark-bg-text bg-text ">
 						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 					</div>
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as augmented reality, virtual reality, mixed reality, and blockchain.</p>
 				</div>
 			</div>
 		</div>
@@ -298,10 +298,10 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert iOS Developers" class="img-fluid">
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">50+ Expert iOS Developers</h3>
+					<p class="description">Unleash your true potential with best-in-class iOS developers across the globe.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -336,8 +336,8 @@
 					<div class="timeline-year">
 						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">3-Month Free Support After Delivery</h3>
+					<p class="description">We offer 3-month of free support after app launch to ensure the app's integrity.</p>
 				</div>
 			</div>
 		</div>
@@ -354,7 +354,7 @@
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
 						<h2>Our <span>iOS App</span> Development Process</h2>
 					</div>
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>AppsNation offers clients an easy and agile iOS app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
@@ -377,7 +377,7 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Expert UI, UX, Visual, and Interaction designers develop your product's first look and feel, model the user experience and journey, and prioritize features to keep the user engaged with its appealing user interface. Before we go any further, we make sure our client is happy with it.</p>
+					<p class="description">Expert UI, UX, visual, and interaction designers develop your product's first look and feel, model the user experience and journey, and prioritize features to keep the user engaged with its appealing user interface. Before we go any further, we make sure our client is happy with it.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">

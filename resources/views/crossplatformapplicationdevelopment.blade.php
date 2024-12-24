@@ -38,7 +38,7 @@
 						<h2>Why You Must Have A<br><span class="flup-theme">Cross-Platform Mobile Application</span></h2>
 					</div>
 					<p><strong>There are several reasons cross-platform mobile application benefits you and your business.</strong></p>
-					<p>First, cross-platform mobile app development has one programming language for coding that can work on any platform. Therefore, it branches the other benefits of having a cross-platform app, such as the reduced cost of owning a mobile app for a great fortune. Want to rush mobile app development? A cross-platform mobile app is ideal for you.</p>
+					<p>First, cross-platform mobile app development has one programming language for coding that can work on any platform. Therefore, it branches into the other benefits of having a cross-platform app, such as the reduced cost of owning a mobile app for a great fortune. Want to rush mobile app development? A cross-platform mobile app is ideal for you.</p>
 					<p>Cross-platform mobile apps ease developers to customize apps based on their dynamic requirements conveniently. Thus, enabling you to follow the marketing and consumer psychology trends easily. The best thing about the cross-platform app is the versatility across the different platforms, delivering the same user experience on multiple devices - uniform branding.</p>
 				</div>
 			</div>
@@ -231,10 +231,10 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Cross Platform App Developers" class="img-fluid">
 					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<h3 class="title">50+ Expert Cross Platform App Developers</h3>
+					<p class="description">Unleash your true potential with best-in-class Cross Platform app developers across the globe.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -269,8 +269,8 @@
 					<div class="timeline-year">
 						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">3-Month Free Support After Delivery</h3>
+					<p class="description">We offer 3-month of free support after app launch to ensure the app's integrity.</p>
 				</div>
 			</div>
 		</div>
@@ -303,7 +303,7 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven Cross Platform app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -317,21 +317,21 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<p class="description">According to coding standards, we create Cross Platform apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<p class="description">To guarantee that the Cross Platform app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Cross Platform apps to the Google Play Store.</p>
 				</div>
 			</div>
 		</div>

@@ -12,7 +12,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Android App Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform – Android – to expand your business’s boundaries with our exceptional android app development services.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Leverage the most used mobile platform—Android—to expand your business’s boundaries with our exceptional Android app development services.</p>
 				</div>
 				
 			</div>
@@ -42,9 +42,9 @@
 					<div data-text="Android" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 					</div>
-					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<p><strong>Get an Android app that you deserve—an appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
+					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented Android developers, more like Android wizards, striving to create your innovative, unique Android app.</p>
+					<p>AppsNation is a data-driven Android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBs, and major enterprises the solution to thrive in the industry and make a statement with a remarkable Android application. AppsNation builds Android apps with visually appealing UI/UX that work flawlessly on all devices regardless of the screen size.</p>
 				</div>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 						<h4>Android Web-Based Apps</h4>
 					</div>
 					<div class="services-text-div">
-						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based android app development.</p>
+						<p>In case you want the app to run on multiple platforms and devices, AppsNation is your ideal choice for web-based Android app development.</p>
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
 						<h4>App Porting</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services offering the app cross-platform abilities.</p>
+						<p>Owning an app already? Want the same app on another platform or Android? We offer you adequate app porting services, offering the app cross-platform abilities.</p>
 					</div>
 				</div>
 			</div>
@@ -114,7 +114,7 @@
 						<h4>App Testing</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
+						<p>With the most experienced quality assurance experts in the industry, we test your Android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
 					</div>
 				</div>
 			</div>
@@ -140,7 +140,7 @@
 						<h4>Android App Development Consultation</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
+						<p>Our Android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom Android application.</p>
 					</div>
 				</div>
 			</div>
@@ -153,7 +153,7 @@
 						<h4>Custom Android App Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Convert your brand into a tap with our outstanding custom android app development services that serves your purpose, solves your problem, and meet your needs.</p>
+						<p>Convert your brand into a tap with our outstanding custom Android app development services that serves your purpose, solves your problem, and meet your needs.</p>
 					</div>
 				</div>
 			</div>
@@ -179,7 +179,7 @@
 						<h4>Android Watch App Deployment</h4>
 					</div>
 					<div class="services-text-div">
-						<p>With best-in-Class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
+						<p>With best-in-class watchOS expert developers, our Android Watch app development services enhance your business's accessibility and mobility.</p>
 					</div>
 				</div>
 			</div>
@@ -301,7 +301,7 @@
 						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
 					</div>
 					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
+					<p class="description">Unleash your true potential with best-in-class Android developers across the globe.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -336,8 +336,8 @@
 					<div class="timeline-year">
 						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
 					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
+					<h3 class="title">3-Month Free Support After Delivery</h3>
+					<p class="description">We offer 3-month of free support after app launch to ensure the app's integrity.</p>
 				</div>
 			</div>
 		</div>
@@ -354,7 +354,7 @@
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
 						<h2>Our <span>Android App</span> Development Process</h2>
 					</div>
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>AppsNation offers clients an easy and agile Android app development process with a result-driven ideology.</p>
 				</div>
 			</div>
 		</div>
@@ -370,7 +370,7 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven Android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -384,14 +384,14 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<p class="description">According to coding standards, we create Android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled auality assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">

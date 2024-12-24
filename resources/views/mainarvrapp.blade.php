@@ -18,7 +18,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 mt-4 mt-md-auto wow fadeIn">
-				<img src="images/ar-app-development/ar-app-banner-img.webp" class="img-fluid" alt="Connected Devices">
+				<!-- <img src="images/ar-app-development/ar-app-banner-img.webp" class="img-fluid" alt="Connected Devices"> -->
 			</div>
 		</div>
 	</div>

@@ -9,14 +9,14 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-between">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
+			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in New York</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the USA's leading mobile app development company based in Los Angeles. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
 				</div>
 				<div class="row mt-3">
-					<div class="col-lg-4">
-						<div class="card">
+					<div class="col-md-4">
+						<div class="card h-100">
 							<div class="card-body">
 								<img src="images/locations/clutch.webp" alt="Clutch" class="img-fluid d-block mx-auto">
 								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
@@ -24,8 +24,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="card">
+					<div class="col-md-4 mt-3 mt-md-0">
+						<div class="card h-100">
 							<div class="card-body">
 								<img src="images/locations/goodfirms.webp" alt="GoodFirms" class="img-fluid d-block mx-auto">
 								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
@@ -33,8 +33,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="card">
+					<div class="col-md-4 mt-3 mt-md-0">
+						<div class="card h-100">
 							<div class="card-body">
 								<img src="images/locations/designrush.webp" alt="DesignRush" class="img-fluid d-block mx-auto">
 								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
@@ -45,7 +45,7 @@
 				</div>
 			</div>
 			
-			<div class="col-sm-12 col-md-4 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-xl-4 mt-3 mt-xl-0 wow fadeIn">
 				<div class="niwax23form shadow">
                     <div class="common-heading text-l">
                             {!! NoCaptcha::renderJs() !!}
@@ -119,7 +119,7 @@
 <!--End About-->
 
 <!--Start Service-->
-<section class="py-5 dark-bg2">
+<section class="service-section py-5 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12">
@@ -130,13 +130,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
-<!--End Service-->
 
-<!--Start Service-->
-<section class="py-5 dark-bg2">
-	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-6 col-lg-4 fadeIn">
 				<div class="card h-100">
@@ -362,7 +356,7 @@
 		</div>
 	</div>
 
-	<section class="container pb-5 mt100">
+	<section class="container pb-5">
 		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item">
 				<a class="nav-link active" data-bs-toggle="pill" href="#app">App</a>
@@ -704,50 +698,51 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-			<div class="common-heading ptag wow fadeIn text-center">
-					<div data-text="Process" class="light-bg-text bg-text mt-5 text-center">
+				<div class="common-heading ptag wow fadeIn text-center">
+					<div data-text="Services" class="light-bg-text bg-text mt-5 text-center">
 						<h2>Our <span>Services</span></h2>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row mt50">
+		<div class="row">
 			<div class="col-12">
-				<div class="swiper services">
-					<div class="swiper-wrapper">
-						<div class="swiper-slide swiper-slide--one"> 
-							<div class="w-100">
-								<h2>Mobile App Development</h2>
-								<a href="{{url('/mobile-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
-							</div>
-						</div>
-						<div class="swiper-slide swiper-slide--two">
-							<div class="w-100">
-								<h2>Web Portal Development</h2>
-								<a href="{{url('/web-portal-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
-							</div>
-						</div>
-						<div class="swiper-slide swiper-slide--three">
-							<div class="w-100">
-								<h2>XR Development</h2>
-								<a href="{{url('/xr-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
-							</div>
-						</div>
-						<div class="swiper-slide swiper-slide--four">
-							<div class="w-100">
-								<h2>Connected Devices</h2>
-								<a href="{{url('/connected-devices')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
-							</div>
-						</div>
-						<div class="swiper-slide swiper-slide--five">
-							<div class="w-100">
-								<h2>Design & Animation Services</h2>
-								<a href="{{url('/design-and-animation')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
-							</div>
+				<div class="owl-carousel owl-theme services-carousel">
+					<div class="item">
+						<img src="images/locations/services/mobile-app-development.webp" alt="Mobile App Development" class="img-fluid">
+						<div class="text">
+							<h2>Mobile App Development</h2>
+							<a href="{{url('/mobile-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
 						</div>
 					</div>
-
-					<div class="swiper-pagination"></div>
+					<div class="item">
+						<img src="images/locations/services/web-portal-development.webp" alt="Mobile App Development" class="img-fluid">
+						<div class="text">
+							<h2>Web Portal Development</h2>
+							<a href="{{url('/web-portal-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
+						</div>
+					</div>
+					<div class="item">
+						<img src="images/locations/services/xr-app-development.png" alt="Mobile App Development" class="img-fluid">
+						<div class="text">
+							<h2>XR Development</h2>
+							<a href="{{url('/xr-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
+						</div>
+					</div>
+					<div class="item">
+						<img src="images/locations/services/connected-devices.webp" alt="Mobile App Development" class="img-fluid">
+						<div class="text">
+							<h2>Connected Devices</h2>
+							<a href="{{url('/connected-devices')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
+						</div>
+					</div>
+					<div class="item">
+						<img src="images/locations/services/design-and-animation-services.webp" alt="Mobile App Development" class="img-fluid">
+						<div class="text">
+							<h2>Design & Animation Services</h2>
+							<a href="{{url('/design-and-animation')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -797,7 +792,8 @@
 					<div class="tcd card h-100">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
-								<p>{{$item['title']}}</p>
+								<p class="collapsible-text">{{$item['title']}}</p>
+								<button class="btn btn-link toggle-btn">View More</button>
 							</div>
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
@@ -828,7 +824,7 @@
 							</div>
 						</div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-md-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
@@ -918,18 +914,18 @@
 <!--End Testinomial-->
 
 <!--Start Solutions-->
-<section class="industries-section py-5">
+<section class="solutions-section py-5">
     <div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
-					<div data-text="Process" class="light-bg-text bg-text mt-5 text-center">
+					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
 						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span></h2>
 					</div>
 				</div>
 			</div>
 		</div>
-        <div class="row mt100">
+        <div class="row">
             <div class="col-12">
 				<ul class="nav nav-tabs justify-content-center">
 					<li class="nav-item">
@@ -960,7 +956,7 @@
 				<div class="tab-content mt-3">
 					<div class="tab-pane container active booking-app-tab" id="booking">
 						<div class="wrap d-md-flex">
-							<div class="bg-img booking-app-bg">	
+							<div class="solution-bg-img booking-app-bg">	
 								<div id="booking_slider" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#booking_slider" data-bs-slide-to="0" class="active"></button>
@@ -985,7 +981,7 @@
 					</div>
 					<div class="tab-pane container fade fitness-app-tab" id="fitness">
 						<div class="wrap d-md-flex">
-							<div class="bg-img fitness-app-bg">
+							<div class="solution-bg-img fitness-app-bg">
 								<div id="fitness_slider" class="carousel slide" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#fitness_slider" data-bs-slide-to="0" class="active"></button>
@@ -1010,7 +1006,7 @@
 					</div>
 					<div class="tab-pane container fade loyalty-app-tab" id="loyalty">
 						<div class="wrap d-md-flex">
-							<div class="bg-img loyalty-app-bg">
+							<div class="solution-bg-img loyalty-app-bg">
 								<div id="loyalty_slider" class="carousel slide" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#loyalty_slider" data-bs-slide-to="0" class="active"></button>
@@ -1035,7 +1031,7 @@
 					</div>
 					<div class="tab-pane container fade mover-app-tab" id="mover">
 						<div class="wrap d-md-flex">
-							<div class="bg-img mover-app-bg">
+							<div class="solution-bg-img mover-app-bg">
 								<div id="mover_slider" class="carousel slide" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#mover_slider" data-bs-slide-to="0" class="active"></button>
@@ -1060,7 +1056,7 @@
 					</div>
 					<div class="tab-pane container fade real-estate-app-tab" id="estate">
 						<div class="wrap d-md-flex">
-							<div class="bg-img real-estate-app-bg">
+							<div class="solution-bg-img real-estate-app-bg">
 								<div id="real_estate_slider" class="carousel slide" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="0" class="active"></button>
@@ -1092,7 +1088,7 @@
 					</div>
 					<!-- <div class="tab-pane container fade restaurant-app-tab" id="restaurant">
 						<div class="wrap d-md-flex">
-							<div class="bg-img restaurant-app-bg">
+							<div class="solution-bg-img restaurant-app-bg">
 								<div class="owl-carousel owl-theme restaurant-app-carousel">
 									<div class="item">
 										<img src="images/locations/restaurant-app/booking-app-1.webp" alt="Restaurant App" class="img-fluid">
@@ -1110,7 +1106,7 @@
 					</div> -->
 					<!-- <div class="tab-pane container fade shopping-app-tab" id="shopping">
 						<div class="wrap d-md-flex">
-							<div class="bg-img shopping-app-bg">
+							<div class="solution-bg-img shopping-app-bg">
 								<div class="owl-carousel owl-theme shopping-app-carousel">
 									<div class="item">
 										<img src="images/locations/shopping-app/booking-app-1.webp" alt="Shopping App" class="img-fluid">
@@ -1128,7 +1124,7 @@
 					</div> -->
 					<div class="tab-pane container fade sports-app-tab" id="sports">
 						<div class="wrap d-md-flex">
-							<div class="bg-img sports-app-bg">
+							<div class="solution-bg-img sports-app-bg">
 								<div id="sports_slider" class="carousel slide" data-bs-ride="carousel">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#sports_slider" data-bs-slide-to="0" class="active"></button>
@@ -1159,7 +1155,7 @@
 <!--End Solutions-->
 
 <!--Start Industries-->
-<section class="industries-section-app py-5 dark-bg2">
+<section class="industries-section py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
@@ -1170,7 +1166,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt100">
+		<div class="row">
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
 				<a href="{{url('/advertising')}}" class="industries-link">
 					<div class="industries-image">
@@ -1184,7 +1180,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-md-0 wow fadeIn">
 				<a href="{{url('/automative-and-transport')}}" class="industries-link">
 					<div class="industries-image">
 						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid">
@@ -1336,11 +1332,11 @@
 	<div class="row justify-content-center pt50 pb50">
 		<div class="col-12">
 			<div class="container">
-				<div class="free-cta-title v-center wow fadeIn w-50">
+				<div class="free-cta-title v-center wow fadeIn">
 					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept New York-Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
-					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid w-50">
+					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
 				</div>
 			</div>
 			

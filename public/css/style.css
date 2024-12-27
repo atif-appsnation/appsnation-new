@@ -14096,125 +14096,37 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     right: 0px;
 }
 
-.swiper {
+.services-carousel img {
+    position: relative;
+}
+
+.services-carousel .text {
+    position: absolute;
+    bottom: 30px;
+    text-align: center;
     width: 100%;
-    padding-top: 50px;
-    padding-bottom: 50px;
 }
-  
-.swiper-slide {
-    width: 80%; /* Adjust slide width to be a percentage of Swiper container */
-    max-width: 500px; /* Set a max width for large screens */
-    height: 60vh; /* Make height responsive to viewport height */
-    max-height: 600px; /* Set a max height for large screens */
-    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
-    filter: blur(1px);
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: end;
-    align-items: self-start;
-}
-  
-.swiper-slide-active {
-    filter: blur(0px);
-}
-  
-.swiper-pagination-bullet, .swiper-pagination-bullet-active {
-    background: var(--first-color);
-}
-  
-.swiper-slide span {
-    text-transform: uppercase;
-    color: var(--second-color);
-    background: #1b7402;
-    padding: 7px 18px 7px 25px;
-    display: block;
-    border-radius: 0 20px 20px 0px;
-    letter-spacing: 2px;
-    font-size: 0.8rem;
-    margin: 0 auto;
-}
-  
-.swiper-slide--one span {
-    background: #62667f;
-}
-  
-.swiper-slide--two span {
-    background: #087ac4;
-}
-  
-.swiper-slide--three span {
-    background: #b45205;
-}
-  
-.swiper-slide--four span {
-    background: #087ac4;
-}
-  
-.swiper-slide h2 {
+
+.services-carousel .text h2 {
     color: #fff;
     font-weight: 400;
     font-size: 1.3rem;
     line-height: 1.4;
     margin-bottom: 45px;
-    padding: 25px 45px 0 25px;
-}
-  
-.swiper-slide a {
-    color: #fff;
-    font-weight: 300;
-    display: block;
-    align-items: center;
-    margin: 0 80px 30px;
-}
-  
-.swiper-slide--one {
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/services/mobile-app-development.webp")
-        no-repeat 50% 50% / cover;
-}
-  
-.swiper-slide--two {
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/services/web-portal-development.webp")
-        no-repeat 50% 50% / cover;
-}
-  
-.swiper-slide--three {
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/services/xr-app-development.png")
-        no-repeat 50% 50% / cover;
-}
-  
-.swiper-slide--four {
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/services/connected-devices.webp")
-        no-repeat 50% 50% / cover;
-}
-  
-.swiper-slide--five {
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../images/locations/services/design-and-animation-services.webp")
-        no-repeat 50% 50% / cover;
-}
-  
-.swiper-3d .swiper-slide-shadow-left,
-  .swiper-3d .swiper-slide-shadow-right {
-    background-image: none;
+    text-align: center;
 }
 
-.industries-section .nav-tabs .nav-item.show .nav-link, .industries-section .nav-tabs .nav-link.active {
+.solutions-section .nav-tabs .nav-item.show .nav-link, .solutions-section .nav-tabs .nav-link.active {
     color: #fff;
     background-color: var(--first-color);
     border-color: var(--first-color);
 }
 
-.industries-section .nav-tabs .nav-link {
+.solutions-section .nav-tabs .nav-link {
     border-radius: 0.25rem;
 }
 
-.industries-section .nav-link {
+.solutions-section .nav-link {
     color: var(--white-color);
     background-color: var(--black-color);
     margin-right: 8px;
@@ -14234,8 +14146,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .lets-connect img {
     position: absolute;
-    top: -400px;
-    right: 0px;
 }
 
 .wrap {
@@ -14247,9 +14157,9 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     -moz-box-shadow: 0px 10px 34px -15px rgba(0, 0, 0, 0.24);
     box-shadow: 0px 10px 34px -15px rgba(0, 0, 0, 0.24); }
   
-.bg-img, .login-wrap {
+/* .solution-bg-img, .login-wrap {
     width: 50%;
-}
+} */
   
 .login-wrap {
     position: relative;

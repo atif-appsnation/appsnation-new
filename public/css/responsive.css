@@ -2226,6 +2226,26 @@
 		height: 330px !important;
 		width: 330px !important;
 	}
+
+	.portfolio-section .container:nth-child(2) {
+		margin-top: 50px;
+	}
+
+	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
+		margin-top: 50px;
+	}
+
+	.solution-bg-img, .login-wrap {
+		width: 100%;
+	}
+
+	.lets-connect {
+		margin: 0px;
+	}
+
+	.lets-connect .free-cta-title {
+		width: 100%;
+	}
 	
 }
 
@@ -2758,6 +2778,26 @@
 		width: 660px !important;
 	}
 
+	.portfolio-section .container:nth-child(2) {
+		margin-top: 50px;
+	}
+
+	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
+		margin-top: 50px;
+	}
+
+	.solution-bg-img, .login-wrap {
+		width: 100%;
+	}
+
+	.lets-connect {
+		margin: 0px;
+	}
+
+	.lets-connect .free-cta-title {
+		width: 100%;
+	}
+
 }
 
 @media only screen and (min-width:1024px) and (max-width:1439px) {
@@ -3207,6 +3247,30 @@
         width: 100% !important;
     }
 
+	.portfolio-section .container:nth-child(2) {
+		margin-top: 50px;
+	}
+
+	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
+		margin-top: 50px;
+	}
+
+	.technologies-stack .row:nth-child(2) {
+		margin-top: 0px;
+	}
+
+	.solution-bg-img, .login-wrap {
+		width: 100%;
+	}
+
+	.lets-connect {
+		margin: 0px 0px 50px;
+	}
+
+	.lets-connect .free-cta-title {
+		width: 100%;
+	}
+
 }
 
 @media only screen and (min-width:1440px) and (max-width:1599px) {
@@ -3395,6 +3459,42 @@
         height: 450px !important;
         width: 500px !important;
     }
+
+	.portfolio-section .container:nth-child(2) {
+		margin-top: 100px;
+	}
+
+	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
+		margin-top: 100px;
+	}
+
+	.technologies-stack .row:nth-child(2) {
+		margin-top: 0px;
+	}
+
+	.solution-bg-img, .login-wrap {
+		width: 100%;
+	}
+
+	.lets-connect {
+		margin: 150px 0px 100px;
+	}
+
+	.lets-connect .free-cta-title {
+		width: 50%;
+	}
+
+	.lets-connect img {
+		width: 60%;
+		right: -70px;
+		top: -390px;
+	}
+
+	.hire-developer-app-development img {
+		position: absolute;
+		top: -338px;
+		right: -160px;
+	}
 }
 
 @media only screen and (min-width:1600px) and (max-width:1919px) {
@@ -3582,6 +3682,42 @@
         height: 450px !important;
         width: 500px !important;
     }
+
+	.portfolio-section .container:nth-child(2) {
+		margin-top: 100px;
+	}
+
+	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
+		margin-top: 100px;
+	}
+
+	.technologies-stack .row:nth-child(2) {
+		margin-top: 0px;
+	}
+
+	.solution-bg-img, .login-wrap {
+		width: 100%;
+	}
+
+	.lets-connect {
+		margin: 150px 0px 100px;
+	}
+
+	.lets-connect .free-cta-title {
+		width: 50%;
+	}
+
+	.lets-connect img {
+		width: 60%;
+		right: -70px;
+		top: -390px;
+	}
+
+	.hire-developer-app-development img {
+		position: absolute;
+		top: -338px;
+		right: -160px;
+	}
 
 }
 
@@ -3953,6 +4089,42 @@
         height: 450px !important;
         width: 600px !important;
     }
+
+	.portfolio-section .container:nth-child(2) {
+		margin-top: 100px;
+	}
+
+	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
+		margin-top: 100px;
+	}
+
+	.technologies-stack .row:nth-child(2) {
+		margin-top: 0px;
+	}
+
+	.solution-bg-img, .login-wrap {
+		width: 100%;
+	}
+
+	.lets-connect {
+		margin: 200px 0px 150px;
+	}
+
+	.lets-connect .free-cta-title {
+		width: 50%;
+	}
+
+	.lets-connect img {
+		width: 60%;
+		right: -70px;
+		top: -515px;
+	}
+
+	.hire-developer-app-development img {
+		position: absolute;
+		top: -338px;
+		right: -160px;
+	}
 }
 
 @media screen and (max-width: 767px) {
@@ -3989,6 +4161,10 @@
     /* .scrollHalf__grupo__imagen img {
 		width: 80% !important;
 	} */;
+
+	.solution-bg-img, .login-wrap {
+		width: 50%;
+	}
 }
 
 

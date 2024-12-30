@@ -24,7 +24,9 @@ use Illuminate\Support\Facades\URL;
 
 use App\Mail\SendMail;
 use App\Mail\ReceivedMail;
+use App\Services\TechbehemothsService;
 use App\Services\TrustPilotService;
+use App\Services\TrustListService;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Mail;
 
@@ -35,10 +37,16 @@ class HomeController extends Controller
     //
 
     protected $trustpilotservice;
+    protected $techbehemothsService;
+    protected $trustlistservice;
 
-    public function __construct(TrustPilotService $trustpilotservice)
+
+    public function __construct(TrustPilotService $trustpilotservice, TechbehemothsService $techbehemothsService, TrustListService $trustlistservice)
     {
         $this->trustpilotservice = $trustpilotservice;
+        $this->techbehemothsService = $techbehemothsService;
+        $this->trustlistservice = $trustlistservice;
+
     }
 
     public function fetchTestimonials()
@@ -52,7 +60,30 @@ class HomeController extends Controller
             return response()->json(['error' => $e->getMessage()], 500);
         }
     }
+    // Techbehemoths
+    public function techbehemothsTestimonials()
+    {
+        $url = "https://techbehemoths.com/company/appsnation";
 
+        try {
+            $techbehemothsTestimonials = $this->techbehemothsService->scrapeTestimonials($url);
+            return response()->json($techbehemothsTestimonials);
+        } catch (\Exception $e) {
+            return response()->json(['error' => $e->getMessage()], 500);
+        }
+    }
+    public function trustlistTestimonials()
+    {
+        $url = "https://trustlist.uk/app-development-company/appsnation";
+
+        try {
+            $trustlistTestimonials = $this->trustlistservice->scrapeTestimonials($url);
+            return response()->json($trustlistTestimonials);
+        } catch (\Exception $e) {
+            return response()->json(['error' => $e->getMessage()], 500);
+        }
+    }
+//////////////////////////////////////////////////////////////////////////
     public function index()
     {
         $agencystack = Agencystack::where('main', 1)->orderBy('lft', 'asc')->get();
@@ -751,6 +782,8 @@ class HomeController extends Controller
 
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
         $trustPilotTestimonial = $this->fetchTestimonials()->getData();
+        $techBehemothsTestimonials = $this->techbehemothsTestimonials()->getData();
+        $trustlistTestimonials = $this->trustlistTestimonials()->getData();
         // dd($trustPilotTestimonial);
 
         // $dataa= ScraperController::
@@ -758,7 +791,7 @@ class HomeController extends Controller
 // die();
 
 
-        return view('testimonials', ['metabank' => $metabank, 'metabank2' => $metabank2, 'testimonials' => $testimonials, 'awards' => $awards, 'metatitle' => $metatitle, 'metatag' => $metatag, 'trustPilotTestimonial' => $trustPilotTestimonial]);
+        return view('testimonials', ['metabank' => $metabank, 'metabank2' => $metabank2, 'testimonials' => $testimonials, 'awards' => $awards, 'metatitle' => $metatitle, 'metatag' => $metatag, 'trustPilotTestimonial' => $trustPilotTestimonial, 'techBehemothsTestimonials' => $techBehemothsTestimonials, 'trustlistTestimonials'=>$trustlistTestimonials]);
     }
 
     public function career()

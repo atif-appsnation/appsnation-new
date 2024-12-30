@@ -91,7 +91,7 @@
                     <img src="images/reviews/trustpilot.webp" class="img-fluid" alt="Trustpilot">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
-                    <div class="common-heading w-tdxt text-center">
+                    <div class="common-heading w-tdxt">
                         <h2>TrustPilot Reviews</h2>
                     </div>
                 </div>

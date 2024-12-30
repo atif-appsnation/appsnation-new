@@ -711,6 +711,73 @@
             },
         }
     });
+
+    $(function(){
+        var owl = $('.solutions-carousel');
+        owl.owlCarousel({
+        autoplay: true,
+        autoplayTimeout: 10000,
+        dots:true,
+        nav:true,
+        navText: ["<i class='fa fa-long-arrow-left'></i>", "<i class='fa fa-long-arrow-right'></i>"],
+        items:1,
+        animateOut: 'fadeOut',
+        mouseDrag: false,
+        loop: false,
+        onInitialized  : counter, //When the plugin has initialized.
+        onTranslated : counter //When the translation of the stage has finished.
+        });
+    
+        function counter(event) {
+            var element   = event.target;         // DOM element, in this example .owl-carousel
+                var items     = event.item.count;     // Number of items
+                var item      = event.item.index + 1;     // Position of the current item
+            
+            // it loop is true then reset counter from 1
+            if(item > items) {
+                item = item - items
+            }
+            // $('#counter').html("item "+item+" of "+items)
+            $('#counter').html("<span>" + item + " </span> " + "<span>" + items + "</span>");
+            }
+        });
+
+    // $('.solutions-carousel').owlCarousel({
+	// 	items: 1,
+	// 	loop: true,
+	// 	autoplay: true,
+	// 	centre: true,
+	// 	margin: 15,
+	// 	nav: false,
+	// 	dots: true,
+	// 	autoplayTimeout: 3000,
+	// 	autoplayHoverPause: true,
+	// 	smartSpeed: 2000,
+	// 	responsiveClass: true,
+	// 	rewind: true,
+    //     onInitialized  : counter,
+    //     onTranslated : counter,
+	// 	responsive: {
+	// 	    0: {
+	// 		    items: 1
+	// 	    },
+	// 	    520: {
+	// 		    items: 1
+	// 	    },
+	// 	    768: {
+	// 	        items: 1
+	// 	    },
+	// 	    1200: {
+	// 		    items: 1
+	// 	    },
+	// 	    1400: {
+	// 		    items: 1
+	// 	    },
+	// 	    1600: {
+	// 		    items: 1
+	// 	    },
+	// 	}
+	// });
     
 
     //Counter Up	

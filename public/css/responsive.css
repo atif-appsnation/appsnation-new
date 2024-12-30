@@ -2246,6 +2246,25 @@
 	.lets-connect .free-cta-title {
 		width: 100%;
 	}
+
+	.solutions-carousel .item {
+		min-height: 100vh;
+	}
+
+	.solutions-section .owl-nav {
+		bottom: 19.5%;
+		right: 38%;
+	}
+
+	.solutions-section .owl-dots {
+		bottom: 10%;
+		right: 32%;
+	}
+
+	.solutions-section .owl-counter {
+		bottom: 10%;
+		right: 27%;
+	}
 	
 }
 
@@ -2798,6 +2817,25 @@
 		width: 100%;
 	}
 
+	.solutions-carousel .item {
+		min-height: 145vh;
+	}
+
+	.solutions-section .owl-nav {
+		bottom: 20%;
+		right: 45%;
+	}
+
+	.solutions-section .owl-dots {
+		bottom: 15%;
+		right: 41%;
+	}
+
+	.solutions-section .owl-counter {
+		bottom: 14.5%;
+        right: 38.5%;
+	}
+
 }
 
 @media only screen and (min-width:1024px) and (max-width:1439px) {
@@ -3271,6 +3309,25 @@
 		width: 100%;
 	}
 
+	.solutions-carousel .item {
+		min-height: 100vh;
+	}
+
+	.solutions-section .owl-nav {
+		bottom: 20%;
+		right: 15%;
+	}
+
+	.solutions-section .owl-dots {
+		bottom: 23.5%;
+		right: 32%;
+	}
+
+	.solutions-section .owl-counter {
+		bottom: 20.5%;
+        right: 30.5%;
+	}
+
 }
 
 @media only screen and (min-width:1440px) and (max-width:1599px) {
@@ -3495,6 +3552,25 @@
 		top: -338px;
 		right: -160px;
 	}
+
+	.solutions-carousel .item {
+		min-height: 100vh;
+	}
+
+	.solutions-section .owl-nav {
+		bottom: 15%;
+		right: 15%;
+	}
+
+	.solutions-section .owl-dots {
+		bottom: 17.5%;
+		right: 32%;
+	}
+
+	.solutions-section .owl-counter {
+		bottom: 16%;
+        right: 30.5%;
+	}
 }
 
 @media only screen and (min-width:1600px) and (max-width:1919px) {
@@ -3717,6 +3793,25 @@
 		position: absolute;
 		top: -338px;
 		right: -160px;
+	}
+
+	.solutions-carousel .item {
+		min-height: 100vh;
+	}
+
+	.solutions-section .owl-nav {
+		bottom: 15%;
+		right: 15%;
+	}
+
+	.solutions-section .owl-dots {
+		bottom: 17.5%;
+		right: 32%;
+	}
+
+	.solutions-section .owl-counter {
+		bottom: 16%;
+        right: 30.5%;
 	}
 
 }

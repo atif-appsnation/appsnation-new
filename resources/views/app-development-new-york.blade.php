@@ -539,7 +539,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in New York</h2>
 					</div>
 				</div>
 			</div>
@@ -626,7 +626,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>App</span> Development Process</h2>
+						<h2>Our <span>App</span> Development Process in New York</h2>
 					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
@@ -700,7 +700,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Services" class="light-bg-text bg-text mt-5 text-center">
-						<h2>Our <span>Services</span></h2>
+						<h2>Our <span>Services</span> in New York</h2>
 					</div>
 				</div>
 			</div>
@@ -920,237 +920,104 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
-						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span></h2>
+						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in New York</h2>
 					</div>
 				</div>
 			</div>
 		</div>
-        <div class="row">
+    </div>
+	<div class="row">
             <div class="col-12">
-				<ul class="nav nav-tabs justify-content-center">
-					<li class="nav-item">
-						<a class="nav-link active" data-bs-toggle="tab" href="#booking">Booking App</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#fitness">Fitness App</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#loyalty">Loyalty App</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#mover">Mover App</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#estate">Real Estate App</a>
-					</li>
-					<!-- <li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#restaurant">Restaurant App</a>
-					</li> -->
-					<!-- <li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#shopping">Shopping App</a>
-					</li> -->
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="tab" href="#sports">Sports App</a>
-					</li>
-				</ul>
-				<div class="tab-content mt-3">
-					<div class="tab-pane container active booking-app-tab" id="booking">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img booking-app-bg">	
-								<div id="booking_slider" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
-									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#booking_slider" data-bs-slide-to="0" class="active"></button>
-										<button type="button" data-bs-target="#booking_slider" data-bs-slide-to="1"></button>
-									</div>
-
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/booking-app/booking-app-2.webp" alt="Booking App" class="img-fluid d-block mx-auto">
-										</div>
-									</div>
+				<div class="owl-carousel owl-theme solutions-carousel">
+					<div class="item booking-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto">
 								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Booking App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Booking App</h3>
+									<p class="text-white">Travelicious stands out as the ultimate travel planning tool, designed to cater to the diverse needs of modern travelers.</p>
+									<a href="{{url('/case-studies/travel-agency-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
 							</div>
 						</div>
 					</div>
-					<div class="tab-pane container fade fitness-app-tab" id="fitness">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img fitness-app-bg">
-								<div id="fitness_slider" class="carousel slide" data-bs-ride="carousel">
-									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#fitness_slider" data-bs-slide-to="0" class="active"></button>
-										<button type="button" data-bs-target="#fitness_slider" data-bs-slide-to="1"></button>
-									</div>
-
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/fitness-app/fitness-app-2.webp" alt="Fitness App" class="img-fluid d-block mx-auto">
-										</div>
-									</div>
+					<div class="item fitness-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto">
 								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Fitness App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Fitness App</h3>
+									<p class="text-white">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface.</p>
+									<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
 							</div>
 						</div>
 					</div>
-					<div class="tab-pane container fade loyalty-app-tab" id="loyalty">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img loyalty-app-bg">
-								<div id="loyalty_slider" class="carousel slide" data-bs-ride="carousel">
-									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#loyalty_slider" data-bs-slide-to="0" class="active"></button>
-										<button type="button" data-bs-target="#loyalty_slider" data-bs-slide-to="1"></button>
-									</div>
-
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/loyalty-app/loyalty-app-2.webp" alt="Loyalty App" class="img-fluid d-block mx-auto">
-										</div>
-									</div>
+					<div class="item loyalty-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto">
 								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Loyalty App</h3>
-								<p>Discover a new level of shopping with Bonus Buddy. Enjoy exclusive cashback rewards, personalized deals, and a seamless experience across your favorite e-commerce platforms.</p>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Loyalty App</h3>
+									<p class="text-white">Enjoy exclusive cashback rewards, personalized deals, and a seamless experience across your favorite e-commerce platforms.</p>
+									<a href="{{url('/case-studies/loyalty-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
 							</div>
 						</div>
 					</div>
-					<div class="tab-pane container fade mover-app-tab" id="mover">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img mover-app-bg">
-								<div id="mover_slider" class="carousel slide" data-bs-ride="carousel">
-									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#mover_slider" data-bs-slide-to="0" class="active"></button>
-										<button type="button" data-bs-target="#mover_slider" data-bs-slide-to="1"></button>
-									</div>
-
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/mover-app/mover-app-2.webp" alt="Mover App" class="img-fluid d-block mx-auto">
-										</div>
-									</div>
+					<div class="item mover-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto">
 								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Mover App</h3>
-								<p>Develop a comprehensive mobile application designed to optimize the moving experience by facilitating efficient order management and customer engagement.</p>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Mover App</h3>
+									<p class="text-white">Develop a comprehensive mobile application designed to optimize the moving experience by facilitating efficient order management and customer engagement.</p>
+									<a href="{{url('/case-studies/mover-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
 							</div>
 						</div>
 					</div>
-					<div class="tab-pane container fade real-estate-app-tab" id="estate">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img real-estate-app-bg">
-								<div id="real_estate_slider" class="carousel slide" data-bs-ride="carousel">
-									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="0" class="active"></button>
-										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="1"></button>
-										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="2"></button>
-										<button type="button" data-bs-target="#real_estate_slider" data-bs-slide-to="3"></button>
-									</div>
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/real-estate-app/real-estate-app-2.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/real-estate-app/real-estate-app-3.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/real-estate-app/real-estate-app-4.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
-										</div>
-									</div>
+					<div class="item real-estate-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto">
 								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Real Estate App</h3>
-								<p>Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process.</p>
-							</div>
-						</div>
-					</div>
-					<!-- <div class="tab-pane container fade restaurant-app-tab" id="restaurant">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img restaurant-app-bg">
-								<div class="owl-carousel owl-theme restaurant-app-carousel">
-									<div class="item">
-										<img src="images/locations/restaurant-app/booking-app-1.webp" alt="Restaurant App" class="img-fluid">
-									</div>
-									<div class="item">
-										<img src="images/locations/restaurant-app/booking-app-2.webp" alt="Restaurant App" class="img-fluid">
-									</div>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Real Estate App</h3>
+									<p class="text-white">Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process.</p>
+									<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
 								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Restaurant App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
-							</div>
-						</div>
-					</div> -->
-					<!-- <div class="tab-pane container fade shopping-app-tab" id="shopping">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img shopping-app-bg">
-								<div class="owl-carousel owl-theme shopping-app-carousel">
-									<div class="item">
-										<img src="images/locations/shopping-app/booking-app-1.webp" alt="Shopping App" class="img-fluid">
-									</div>
-									<div class="item">
-										<img src="images/locations/shopping-app/booking-app-2.webp" alt="Shopping App" class="img-fluid">
-									</div>
-								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Shopping App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
-							</div>
-						</div>
-					</div> -->
-					<div class="tab-pane container fade sports-app-tab" id="sports">
-						<div class="wrap d-md-flex">
-							<div class="solution-bg-img sports-app-bg">
-								<div id="sports_slider" class="carousel slide" data-bs-ride="carousel">
-									<div class="carousel-indicators">
-										<button type="button" data-bs-target="#sports_slider" data-bs-slide-to="0" class="active"></button>
-										<button type="button" data-bs-target="#sports_slider" data-bs-slide-to="1"></button>
-									</div>
-
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img src="images/locations/sports-app/sports-app-1.webp" alt="Sports App" class="img-fluid d-block mx-auto">
-										</div>
-										<div class="carousel-item">
-											<img src="images/locations/sports-app/sports-app-2.webp" alt="Sports App" class="img-fluid d-block mx-auto">
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="login-wrap p-4 p-md-5 align-self-center">
-								<h3 class="mb-4">Sports App</h3>
-								<p>The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
 							</div>
 						</div>
 					</div>
 				</div>
+				<div id="counter" class="owl-counter"></div>
             </div>
         </div>
-    </div>
 </section>
 <!--End Solutions-->
 
@@ -1161,7 +1028,7 @@
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag text-center">
 					<div data-text="Our Industries" class="light-bg-text bg-text">
-						<h2><span>Industries</span> We Work With</h2>
+						<h2><span>Industries</span> We Work With in New York</h2>
 					</div>
 				</div>
 			</div>
@@ -1948,5 +1815,261 @@
 	</div>
 </section>
 <!--End Clients-->
+
+<!-- Start FAQS-->
+<section class="faq-section py-5" id="faqs">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 wow fadeIn">
+                <div class="common-heading">
+					<div data-text="FAQ" class="light-bg-text bg-text">
+                    	<h2>Frequently Asked Questions</h2>
+					</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 mt20 wow fadeIn">
+                <div class="accordion" id="accordionExample-a">
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-b">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
+								Will we sign an NDA to keep my Android app idea confidential?
+                            </button>
+                        </h2>
+                        <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
+								How do you allocate the resources for my app development in Android?
+                            </button>
+                        </h2>
+                        <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
+								Which tools and technologies do you use?
+                            </button>
+                        </h2>
+                        <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
+									<p class="pt-2">Mobile Frontend</p>
+									<ul class="ps-5">
+										<li>Native (Java/Kotlin)</li>
+										<li>Xamarin Native C</li>
+										<li>Xamarin Forms for Android</li>
+										<li>Cordova/PhoneGap</li>
+										<li>Ionic</li>
+										<li>React Native</li>
+									</ul>
+									<p class="pt-2">Operating System</p>
+									<ul class="ps-5">
+										<li>Android OS</li>
+									</ul>
+									<p class="pt-2">SDKs/Tools/Framework</p>
+									<ul class="ps-5">
+										<li>Android Studio</li>
+										<li>Google Fit SDK</li>
+										<li>Xamarin Forms for Android</li>
+										<li>OpenGL</li>
+										<li>ARCorec</li>
+										<li>Android Auto</li>
+									</ul>
+									<p class="pt-2">Platforms</p>
+									<ul class="ps-5">
+										<li>Amazon Web</li>
+										<li>Services (AWS)</li>
+										<li>Microsoft Azure</li>
+										<li>Google Cloud</li>
+										<li>Platform (GCP)</li>
+										<li>Firebase</li>
+										<li>AppCenter for CI/CD</li>
+										<li>Kubernetes</li>
+									</ul>
+									<p class="pt-2">Others</p>
+									<ul class="ps-5">
+										<li>Google Assistant</li>
+										<li>Google VR</li>
+										<li>Machine Language (ML Kit)</li>
+										<li>Cordova/PhoneGap</li>
+										<li>Google Cloud</li>
+										<li>Google Analytics</li>
+									</ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
+								Will you assist me to upload my Android app on the Play Store?
+                            </button>
+                        </h2>
+                        <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
+								Will I be getting any support after project completion?
+                            </button>
+                        </h2>
+                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
+								How much does it cost to make an Android App?
+                            </button>
+                        </h2>
+                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
+								Why your company might need Android application services?
+                            </button>
+                        </h2>
+                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
+								What should I pay attention to while looking for Android application developers?
+                            </button>
+                        </h2>
+                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
+									<ul class="ps-5">
+										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
+										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
+										<li>Android Studio knowledge is required.</li>
+										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
+										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
+										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
+									</ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
+								Will you assist me to upload my Android app on the Play Store?
+                            </button>
+                        </h2>
+                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
+									<ul class="ps-5">
+										<li>Analysis of Requirements.</li>
+										<li>App Development Strategies.</li>
+										<li>Wireframing & Designing.</li>
+										<li>Development.</li>
+										<li>Testing.</li>
+										<li>Deployment.</li>
+									</ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
+								How AppsNation meet the current trends in native Android app development?
+                            </button>
+                        </h2>
+                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
+								Will you assist me to upload my Android app on the Play Store?
+                            </button>
+                        </h2>
+                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
+									<ul class="ps-5">
+										<li>Free Consultation.</li>
+										<li>50+ Expert Android Developers.</li>
+										<li>Flexible Hiring Models.</li>
+										<li>Technical Support.</li>
+										<li>100% Transparency.</li>
+										<li>3-Month Support After Delivery.</li>
+									</ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item bdr0">
+                        <h2 class="accordion-header" id="heading-c">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
+								How can I hire Android app developers from AppsNation?
+                            </button>
+                        </h2>
+                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+                            <div class="accordion-body">
+                                <div class="data-reqs">
+                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End FAQS -->
 
 @endsection

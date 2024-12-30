@@ -14169,51 +14169,40 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .booking-app-bg {
     background-image: url(../images/locations/booking-app/booking-app-background.webp);
-}
-
-.booking-app-tab h3 {
-    color: var(--blue-color);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .fitness-app-bg {
     background-image: url(../images/locations/fitness-app/fitness-app-background.webp);
-}
-
-.fitness-app-tab h3 {
-    color: var(--orange-color);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .loyalty-app-bg {
     background-image: url(../images/locations/loyalty-app/loyalty-app-background.png);
-}
-
-.loyalty-app-tab h3 {
-    color: var(--red-color);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .mover-app-bg {
     background-image: url(../images/locations/mover-app/mover-app-background.webp);
-}
-
-.mover-app-tab h3 {
-    color: var(--green-color);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .real-estate-app-bg {
     background-image: url(../images/locations/real-estate-app/real-estate-app-background.webp);
-}
-
-.real-estate-app-tab h3 {
-    color: var(--golden-color);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .sports-app-bg {
     background-image: url(../images/locations/sports-app/sports-app-background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.sports-app-tab h3 {
-    color: var(--dark-green-color);
-}
 
 .booking-app-carousel .owl-dots, .fitness-app-carousel .owl-dots, .loyalty-app-carousel .owl-dots, .mover-app-carousel .owl-dots,
 .real-estate-app-carousel .owl-dots, .sports-app-carousel .owl-dots {
@@ -14245,8 +14234,86 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     object-fit: cover;
 }
 
-.pilot-slider .owl-stage {
+.solutions-carousel, .solutions-section {
+    position: relative;
+}
+
+.solutions-section .owl-counter {
+    position: absolute;
+    z-index: 999;
+    bottom: 18%;
+    right: 25%;
     display: flex;
+    justify-content: space-between;
+    width: 200px;
+    background: 0 0;
+    align-items: center;
+    pointer-events: none;
+}
+
+.solutions-section .owl-counter span {
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--white-color);
+}
+
+.solutions-section .owl-dots {
+    position: absolute;
+    bottom: 20%;
+    right: 26%;
+}
+
+.solutions-section .owl-dots .owl-dot {
+    width: 30px;
+    height: 3px;
+    background: rgba(255, 255, 255, .2196078431) !important;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.solutions-section .owl-dots .owl-dot.active {
+    width: 40px;
+    height: 8px;
+    background: #fff !important;
+    display: inline-block;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-bottom: 0px;
+}
+
+.solutions-section .owl-theme .owl-dots .owl-dot span {
+    background: transparent;
+}
+
+.solutions-section .owl-nav {
+    position: absolute;
+    top: auto;
+    bottom: 19.5%;
+    right: 13%;
+}
+
+.solutions-section .owl-nav button.owl-prev, .solutions-section .owl-nav button.owl-next {
+    background: #fff;
+    border: 1px solid var(--white-color);
+    width: 42px;
+    height: 42px;
+    border-radius: 100%;
+}
+
+.solutions-section .owl-nav i {
+    margin-top: 3px;
+    font-size: 20px;
+    color: var(--first-color);
+}
+
+.solutions-section .owl-nav [class*=owl-]:hover {
+    background: var(--first-color);
+    text-decoration: none;
+    border: 1px solid var(--first-color);
+}
+
+.solutions-section .owl-nav [class*=owl-]:hover i {
+    color: var(--white-color);
 }
 
 /* Start Testimonials */
@@ -14259,12 +14326,13 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .collapsible-text {
     display: -webkit-box;
-    -webkit-line-clamp: 5;
+    -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
     direction: ltr;
 }
+
 .collapsible-text.expanded {
     -webkit-line-clamp: unset;
     display: block;
@@ -14285,5 +14353,22 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     text-decoration: underline;
 }
 
+.pilot-slider .testimonial-items img {
+    display: block;
+    width: auto;
+}
+
+.pilot-slider .owl-stage {
+    display: flex;
+}
+
+.collapsible-heading {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    direction: ltr;
+}
 
 /* End Testimonials */

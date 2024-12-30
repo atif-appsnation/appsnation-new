@@ -87,11 +87,12 @@
     <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
-				<div class="col-12">
+                <div class="col-md-4">
+                    <img src="images/reviews/trustpilot.webp" class="img-fluid" alt="Trustpilot">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt text-center">
-                        <div data-text="Awards" class="dark-bg-text bg-text text-center">
-                            <h2 class="mb30">TrustPilot Reviews</h2>
-                        </div>
+                        <h2>TrustPilot Reviews</h2>
                     </div>
                 </div>
                 <div class="col-12">
@@ -107,7 +108,7 @@
                                             <img src="images/svg/stars-5.svg" alt="Star" style="height:20px;">
 
                                             {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
-                                            <h5 class="pt-3 text-start">{{ $testimonial->title }}</h5>
+                                            <h5 class="pt-3 text-start collapsible-heading">{{ $testimonial->title }}</h5>
                                             <p class="text-start collapsible-text pt-2">{{ $testimonial->comments }}</p>
                                             <button class="btn btn-link toggle-btn">View More</button>
                                             <div class="row">
@@ -124,7 +125,11 @@
                                 </div>
                             </div>
                         @endforeach
-
+                    </div>
+                </div>
+                <div class="col-12 mt-5">
+                    <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="65d354312f36b895aa0cbd56" data-style-height="52px" data-style-width="100%">
+                        <a href="https://www.trustpilot.com/review/appsnation.co" target="_blank" rel="noopener">Trustpilot</a>
                     </div>
                 </div>
             </div>

@@ -97,20 +97,39 @@
 <!--End Breadcrumb-->
 
 <!--Start About-->
-<section class="service py-5">
-	<div class=" container">
+<section class="about py-5">
+	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<div data-text="Android" class="light-bg-text bg-text">
+					<div data-text="Mobile" class="light-bg-text bg-text">
 						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in New York</h2>
 					</div>
-					<p>AppsNation is a business-grade, top mobile app development Agency in New york helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Miami. </p>
+					<p>AppsNation is a business-grade, top mobile app development Agency in New york helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in New York. </p>
 				</div>
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
 					<img src="images/locations/new-york/new-york.webp" alt="New York" class="img-fluid no-shadow" />
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End About-->
+
+<!--Start About-->
+<section class="about2 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
+				<div class="common-heading text-l pl25">
+					<div data-text="Mobile" class="light-bg-text bg-text">
+						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span><br> Company in New York</h2>
+					</div>
+					<p class="text-white">You cannot lag behind when 96% of the New York population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in New York to digitalize yourself.</p>
+					<p class="text-white">Partner with a leading mobile app development company in New York to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 		</div>
@@ -364,15 +383,6 @@
 			<li class="nav-item">
 				<a class="nav-link" data-bs-toggle="pill" href="#web">Web</a>
 			</li>
-			<!-- <li class="nav-item">
-				<a class="nav-link" data-bs-toggle="pill" href="#mobile-apps">Mobile Apps</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" data-bs-toggle="pill" href="#website">Website</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
-			</li> -->
 		</ul>
 		<div class="tab-content mt-5 wow fadeIn">
 			<div id="app" class="tab-pane active">
@@ -750,6 +760,24 @@
 </div>
 <!--End Services-->
 
+<!--Start About-->
+<section class="partner py-5 mt-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 block-1 wow fadeIn my-auto">
+				<div class="common-heading text-l pl25">
+					<div data-text="Partner" class="light-bg-text bg-text">
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in New York</h2>
+					</div>
+					<p class="text-white">Be a part of 100s of New York based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End About-->
+
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
@@ -785,7 +813,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
@@ -1816,8 +1844,29 @@
 </section>
 <!--End Clients-->
 
+<!-- Start Hire Developers -->
+<section class="location py-5">
+	<div class="container">
+		<div class="row wow fadeIn">
+			<div class="col-lg-6 my-auto">
+				<div class="common-heading">
+					<div data-text="Developers" class="dark-bg-text bg-text">
+						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in New York</h2>
+					</div>
+					<p class="pt-2">We are the No.1 mobile app development company in New York that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-lg-6 mt-3 mt-lg-0">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380.5933028430845!2d-73.9566717760113!3d40.67620832536594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b992569c5a3%3A0x62621967b4b600be!2sWork%20Heights%2C%20Your%20Neighborhood%20Coworking%20Company!5e1!3m2!1sen!2s!4v1735656717767!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Hire Developers -->
+
 <!-- Start FAQS-->
-<section class="faq-section py-5" id="faqs">
+<section class="faq-section py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeIn">

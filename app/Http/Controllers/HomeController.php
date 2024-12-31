@@ -2476,6 +2476,29 @@ class HomeController extends Controller
             ]
         );
     }
+    public function locations()
+    {
+        $metabank = Metabank::where('slug', 'locations')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'locations')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'locations')->get();
+        $metatitle = Metatitle::where('slug', 'locations')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'locations',
+            [
+                'awards' => $awards,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
 
     // /////////////////end location///////////////////////////////
 }

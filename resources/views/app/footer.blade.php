@@ -181,6 +181,7 @@
                             <li><a href="{{url('/company-policy')}}">Company Policy</a></li>
                             <li><a href="https://hub.appsnation.co/" target="_blank">Hub</a></li>
                             <li><a href="https://hub.appsnation.co/register" target="_blank">Register as New Customer</a></li>
+                            <li><a href="{{url('/locations')}}">Locations</a></li>
                         </ul>
                     </div>
                     <div class="col-12 col-sm-4 pt40">

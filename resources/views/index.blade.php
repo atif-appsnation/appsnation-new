@@ -5,7 +5,7 @@
 	<video playsinline autoplay muted loop width="100%" height="100%">
 		<source src="video/banner.mp4" type="video/mp4">
 	</video>
-	<div class="hero-main-rp container main-ban hidden">
+	<div class="hero-main-rp container main-ban">
 		<div class="row align-items-center">
 			<div class="col-sm-12 col-md-12 col-lg-8 v-center" data-rellax-speed="-3">
 				<div class="hero-heading-sec2 niwax" data-rellax-speed="3">

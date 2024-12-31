@@ -30,7 +30,6 @@ Route::get('/media-and-entertainment','HomeController@mediaAndEntertainment');
 Route::get('/travel-and-hospitality','HomeController@travelAndHospitality');
 Route::get('/real-estate-and-property','HomeController@realStateAndProperty');
 Route::get('/sports-teams-and-leagues','HomeController@sportsTeamsAndLeagues');
-
 Route::get('/booking-app','HomeController@bookingApp');
 Route::get('/fitness-app','HomeController@fitnessApp');
 Route::get('/fleet-app','HomeController@fleetApp');
@@ -40,14 +39,11 @@ Route::get('/realestate-app','HomeController@realEstateApp');
 Route::get('/restaurant-app','HomeController@restaurantApp');
 Route::get('/shopping-express-app','HomeController@shoppingExpressApp');
 Route::get('/sport-app','HomeController@sportApp');
-
 Route::get('/mobile-app-development','HomeController@mainmobileapp');
 Route::get('/web-portal-app-development','HomeController@mainwebapp');
 Route::get('/ar-vr-app-development','HomeController@mainarvrapp');
 Route::get('/connected-devices','HomeController@mainconnecteddevices');
 Route::get('/design-and-animation','HomeController@maindesignandanimation');
-
-
 Route::get('/android-app-development','HomeController@androidApp');
 Route::get('/ios-app-development','HomeController@iosApp');
 Route::get('/game-app-development','HomeController@gameApp');
@@ -58,7 +54,6 @@ Route::get('/ar-app-development','HomeController@arApp');
 Route::get('/vr-app-development','HomeController@vrApp');
 Route::get('/iot-app-development','HomeController@iotApp');
 Route::get('/wearable-app-development','HomeController@wearableApp');
-
 Route::get('/portfolio','HomeController@portfolio');
 Route::get('/contact-us','HomeController@contactus');
 Route::get('/about-us','HomeController@aboutus');
@@ -89,8 +84,6 @@ Route::get('/xr-app-development','HomeController@xrAppDevelopment');
 Route::get('/digital-marketing','HomeController@digitalMarketing');
 Route::get('/2d-art','HomeController@art2d');
 Route::get('/3d-art','HomeController@art3d');
-
-//casestudies
 Route::get('/case-studies/travel-agency-app','HomeController@travelAgencyApp');
 Route::get('/case-studies/travel-agency-web','HomeController@travelAgencyWeb');
 Route::get('/case-studies/real-estate-app','HomeController@realEstateAppPortfolio');
@@ -101,13 +94,9 @@ Route::get('/case-studies/gym-app','HomeController@gymApp');
 Route::get('/case-studies/gym-web','HomeController@gymWeb');
 Route::get('/case-studies/mover-app','HomeController@moverApps');
 Route::get('/case-studies/mover-web','HomeController@moverWeb');
-
-// solutions and industries pages
 Route::get('/solutions','HomeController@solutions');
 Route::get('/industries','HomeController@industries');
 Route::get('/services','HomeController@services');
-
-// new-location pages
 Route::get('/app-development-new-york','HomeController@new_york');
 Route::get('/location-2','HomeController@location2');
 Route::get('/location-3','HomeController@location3');
@@ -126,5 +115,5 @@ Route::get('/location-15','HomeController@location15');
 Route::get('/location-16','HomeController@location16');
 Route::get('/location-17','HomeController@location17');
 Route::get('/location-18','HomeController@location18');
-
 Route::get('/review-data','ScraperController@scrapeTestimonials');
+Route::get('/locations','HomeController@locations');

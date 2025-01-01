@@ -124,7 +124,7 @@
 					<div class="card-body">
 						<h4>San Francisco</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-san-francisco')}}" class="text-black">App Development in San Francisco</a></li>
 						</ul>
 					</div>
 				</div>
@@ -134,7 +134,7 @@
 					<div class="card-body">
 						<h4>Los Angeles</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-los-angeles')}}" class="text-black">App Development in Los Angeles</a></li>
 						</ul>
 					</div>
 				</div>
@@ -144,7 +144,7 @@
 					<div class="card-body">
 						<h4>Miami</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-miami')}}" class="text-black">App Development in Miami</a></li>
 						</ul>
 					</div>
 				</div>
@@ -154,7 +154,7 @@
 					<div class="card-body">
 						<h4>Houston</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-houston')}}" class="text-black">App Development in Houston</a></li>
 						</ul>
 					</div>
 				</div>
@@ -164,7 +164,7 @@
 					<div class="card-body">
 						<h4>Dallas</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-dallas')}}" class="text-black">App Development in Dallas</a></li>
 						</ul>
 					</div>
 				</div>
@@ -174,7 +174,7 @@
 					<div class="card-body">
 						<h4>Austin</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-austin')}}" class="text-black">App Development in Austin</a></li>
 						</ul>
 					</div>
 				</div>
@@ -184,7 +184,215 @@
 					<div class="card-body">
 						<h4>Washington</h4>
 						<ul class="mt-3">
-							<li>App Development in New York</li>
+							<li><a href="{{url('/app-development-washington')}}" class="text-black">App Development in Washington</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="GCC" class="light-bg-text bg-text">
+						<h2>GCC</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>UAE</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-dubai')}}" class="text-black">App Development in Dubai</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Qatar</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-qatar')}}" class="text-black">App Development in Qatar</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Saudi Arabia</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-riyadh')}}" class="text-black">App Development in Riyadh</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="United Kingdom" class="light-bg-text bg-text">
+						<h2>United Kingdom</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Leeds</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-leeds')}}" class="text-black">App Development in Leeds</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>London</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-london')}}" class="text-black">App Development in London</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Birmingham</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-birmingham')}}" class="text-black">App Development in Birmingham</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="South Africa" class="light-bg-text bg-text">
+						<h2>South Africa</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Johannesburg</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-johannesburg')}}" class="text-black">App Development in Johannesburg</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Italy" class="light-bg-text bg-text">
+						<h2>Italy</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Rome</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-rome')}}" class="text-black">App Development in Rome</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Australia" class="light-bg-text bg-text">
+						<h2>Australia</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Melbourne</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-melbourne')}}" class="text-black">App Development in Melbourne</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Pakistan" class="light-bg-text bg-text">
+						<h2>Pakistan</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Karachi</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-karachi')}}" class="text-black">App Development in Karachi</a></li>
 						</ul>
 					</div>
 				</div>

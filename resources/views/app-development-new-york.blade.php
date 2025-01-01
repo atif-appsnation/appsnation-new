@@ -119,13 +119,13 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="about2 py-5">
+<section class="about2 pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span><br> Company in New York</h2>
+						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in New York</h2>
 					</div>
 					<p class="text-white">You cannot lag behind when 96% of the New York population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in New York to digitalize yourself.</p>
 					<p class="text-white">Partner with a leading mobile app development company in New York to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
@@ -761,7 +761,7 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner py-5 mt-5">
+<section class="partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">

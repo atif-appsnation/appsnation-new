@@ -14230,31 +14230,8 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     border: 1px dashed var(--first-color);
 }
 
-/* New York */
-
-.new-york-banner {
-    background: url(../images/locations/new-york/new-york-background.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-}
-
-.new-york-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
-}
-
-.about2 {
-    background: url(../images/locations/new-york/expand.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-}
-
-.partner {
-    background: url(../images/locations/new-york/expand.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
+.locations .card .card-body ul li a:hover {
+    color: var(--first-color) !important;
 }
 
 .solutions-carousel, .solutions-section {
@@ -14342,6 +14319,95 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 .service-section .card {
     border: 1px dashed var(--first-color);
 }
+
+/* Start New York */
+
+.new-york-banner {
+    background: url(../images/locations/new-york/new-york-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.new-york-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+.about2 {
+    background: url(../images/locations/new-york/expand.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.partner {
+    background: url(../images/locations/new-york/expand.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End New York */
+
+/* Start Los Angeles */
+
+.los-angeles-banner {
+    background: url(../images/locations/los-angeles/los-angeles-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.los-angeles-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+/* End Los Angeles */
+
+/* Start Houston */
+
+.houston-banner {
+    background: url(../images/locations/houston/houston-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.houston-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+/* End Houston */
+
+/* Start Austin */
+
+.austin-banner {
+    background: url(../images/locations/austin/austin-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.austin-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+/* End Houston */
+
+/* Start Dallas */
+
+.dallas-banner {
+    background: url(../images/locations/dallas/dallas-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.dallas-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+/* End Houston */
 
 /* Start Testimonials */
 

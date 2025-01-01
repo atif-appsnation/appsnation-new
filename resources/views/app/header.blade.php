@@ -71,7 +71,18 @@
 	@else
 
 	@endif
-
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Product",
+			"name": "Mobile App Development Company in Los Angeles - Appsnation",
+			"aggregateRating": {
+			  "@type": "AggregateRating",
+			  "ratingValue": "4.5",
+			  "reviewCount": "24"
+			}
+		}
+	</script>
 </head>
 
 <body>

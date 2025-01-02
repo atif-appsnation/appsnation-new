@@ -141,13 +141,15 @@
     <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="common-heading w-tdxt text-center">
-                        <div data-text="Awards" class="dark-bg-text bg-text text-center">
-                            <h2 class="mb30">Techbehemoths Reviews</h2>
-                        </div>
+                <div class="col-md-4 mb-3">
+                    <img src="images/svg/techbehemoths.svg" class="img-fluid" alt="Trustpilot" style="height: 60px;">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>TechBehemoths Reviews</h2>
                     </div>
                 </div>
+                
                 <div class="col-12">
                     <div class="pilot-slider owl-carousel owl-theme">
                         @foreach ($techBehemothsTestimonials as $testimonial)
@@ -160,13 +162,13 @@
                                             <span>Verified</span> --}}
                                             
                                             <div class="pt-3">
-                                                <figcaption class="blockquote-footer">
+                                                <figcaption class="blockquote-footer" style="color: blue;font-size:small;">
                                                     {{-- <cite title="Source Title">Source Title</cite> --}}
                                                     {{ $testimonial->position }}
                                                 </figcaption>
                                             </div>
 
-                                            <img src="images/svg/stars-5.svg" alt="" style="height:20px;">
+                                            <img src="images/svg/stars-5-techbehemoths.svg" alt="" style="height:20px;">
 
                                             {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
                                             <h5 class="text-start collapsible-heading pt-3">{{ $testimonial->title }}</h5>
@@ -196,11 +198,12 @@
     <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="common-heading w-tdxt text-center">
-                        <div data-text="Awards" class="dark-bg-text bg-text text-center">
-                            <h2 class="mb30">Trustlist reviews</h2>
-                        </div>
+                <div class="col-md-4 mb-3">
+                    <img src="images/svg/trustlist.svg" class="img-fluid" alt="Trustpilot" style="height: 80px;">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>Trustlist Reviews</h2>
                     </div>
                 </div>
                 <div class="col-12">
@@ -211,7 +214,7 @@
                                     <div class="card h-100 d-flex">
                                         <div class="card-body">
                                             <h6 class="text-muted mb-2">{{ $testimonial->name }}</h6>
-                                            <img src="images/svg/stars-5.svg" alt="" style="height:20px;">
+                                            <img src="images/svg/stars_on.svg" alt="" style="height:20px;">
                                             <h5 class="text-start collapsible-heading pt-3">{{ $testimonial->title }}</h5>
                                             <p class="text-start collapsible-text pt-2">{{ $testimonial->comment }}</p>
                                             <div class="row">

@@ -237,6 +237,26 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Bahrain</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-bahrain')}}" class="text-black">App Development in Bahrain</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Oman</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-oman')}}" class="text-black">App Development in Oman</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -365,6 +385,44 @@
 						<h4>Melbourne</h4>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-melbourne')}}" class="text-black">App Development in Melbourne</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Sydney</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-sydney')}}" class="text-black">App Development in Sydney</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Locations-->
+
+<!--Start Locations-->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Canada" class="light-bg-text bg-text">
+						<h2>Canada</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Toronto</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-toronto')}}" class="text-black">App Development in Toronto</a></li>
 						</ul>
 					</div>
 				</div>
@@ -693,5 +751,36 @@
     </div>
 </section>
 <!--End Testinomial-->
+
+<!--Start Clients-->
+<section class="py-5 bg-gradient3 client">
+	<div class="container">
+		<div class="row fadeIn">
+			<div class="col-12">
+				<div class="common-heading">
+					<div data-text="Clients" class="light-bg-text bg-text text-center">
+						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center wow fadeIn mt-xl-5">
+			<div class="col-lg-12">
+				<div class="client-logoset">
+					<div class="row">
+						@foreach($clients as $item)
+						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+							<div class="brand-logo hoshd">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+							</div>
+						</div>
+						@endforeach
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Clients-->
 
 @endsection

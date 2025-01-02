@@ -9638,7 +9638,7 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
     font-size: 24px;
 }
 
-.technologies-stack .card {
+/* .technologies-stack .card {
     background-color: #ECEFF0;
     border-radius: 0px;
 }
@@ -9646,6 +9646,13 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
 .technologies-stack .card:hover, .technologies-stack .card:hover h4, .technologies-stack .card:hover h3 {
     background-color: var(--first-color);
     color: var(--white-color);
+} */
+
+.technologies-stack .nav-link {
+    color: var(--white-color);
+    background-color: var(--black-color);
+    margin-right: 8px;
+    margin-bottom: 5px;
 }
 
 /* Awards */

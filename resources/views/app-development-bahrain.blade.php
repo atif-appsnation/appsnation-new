@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 new-york-banner">
+<section class="breadcrumb-areav2 austin-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -11,7 +11,7 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Riyadh</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Bahrain</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the USA's leading mobile app development company based in Los Angeles. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
 				</div>
 				<div class="row mt-3">
@@ -103,14 +103,14 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Riyadh</h2>
+						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Bahrain</h2>
 					</div>
-					<p>AppsNation is a business-grade, top mobile app development Agency in Riyadh helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Riyadh. </p>
+					<p>AppsNation is a business-grade, top mobile app development Agency in Bahrain helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Bahrain. </p>
 				</div>
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/new-york/new-york.webp" alt="Riyadh" class="img-fluid no-shadow" />
+					<img src="images/locations/austin/austin.webp" alt="Bahrain" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -125,10 +125,10 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Riyadh</h2>
+						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Bahrain</h2>
 					</div>
-					<p class="text-white">You cannot lag behind when 96% of the Riyadh population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Riyadh to digitalize yourself.</p>
-					<p class="text-white">Partner with a leading mobile app development company in Riyadh to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
+					<p class="text-white">You cannot lag behind when 96% of the Bahrain population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Bahrain to digitalize yourself.</p>
+					<p class="text-white">Partner with a leading mobile app development company in Bahrain to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -144,7 +144,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text text-center">
-						<h2>App Development Services in <span>Riyadh</span></h2>
+						<h2>App Development Services in <span>Bahrain</span></h2>
 					</div>
 				</div>
 			</div>
@@ -549,7 +549,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Riyadh</h2>
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Bahrain</h2>
 					</div>
 				</div>
 			</div>
@@ -636,7 +636,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>App</span> Development Process in Riyadh</h2>
+						<h2>Our <span>App</span> Development Process in Bahrain</h2>
 					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
@@ -710,7 +710,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Services" class="light-bg-text bg-text mt-5 text-center">
-						<h2>Our <span>Services</span> in Riyadh</h2>
+						<h2>Our <span>Services</span> in Bahrain</h2>
 					</div>
 				</div>
 			</div>
@@ -767,9 +767,9 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Partner" class="light-bg-text bg-text">
-						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Riyadh</h2>
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Bahrain</h2>
 					</div>
-					<p class="text-white">Be a part of 100s of Riyadh based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
+					<p class="text-white">Be a part of 100s of Bahrain based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -948,7 +948,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
-						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Riyadh</h2>
+						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Bahrain</h2>
 					</div>
 				</div>
 			</div>
@@ -1056,7 +1056,7 @@
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag text-center">
 					<div data-text="Our Industries" class="light-bg-text bg-text">
-						<h2><span>Industries</span> We Work With in Riyadh</h2>
+						<h2><span>Industries</span> We Work With in Bahrain</h2>
 					</div>
 				</div>
 			</div>
@@ -1228,7 +1228,7 @@
 		<div class="col-12">
 			<div class="container">
 				<div class="free-cta-title v-center wow fadeIn">
-					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Riyadh-Based Mobile App Development Company Let’s Connect</h3>
+					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Bahrain-Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
 					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
@@ -1851,14 +1851,14 @@
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading">
 					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Riyadh</h2>
+						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Bahrain</h2>
 					</div>
-					<p class="pt-2">We are the No.1 mobile app development company in Riyadh that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
+					<p class="pt-2">We are the No.1 mobile app development company in Bahrain that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 mt-lg-0">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3625.6017712031!2d46.75289677594811!3d24.671832152778524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f07eec9c38d6b%3A0x7e0e73b0c0039eb9!2sAppsNation%20-%20DAK%20(Saudi%20Arabia)%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e0!3m2!1sen!2s!4v1735823869818!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380.5933028430845!2d-73.9566717760113!3d40.67620832536594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b992569c5a3%3A0x62621967b4b600be!2sWork%20Heights%2C%20Your%20Neighborhood%20Coworking%20Company!5e1!3m2!1sen!2s!4v1735656717767!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 		</div>
 	</div>

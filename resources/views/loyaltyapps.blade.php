@@ -14,8 +14,9 @@
 			<div class="col-lg-6 my-auto">
 			<img src="{{asset('images/case-studies/loyalty-app/header-logo.webp')}}" class="img-fluid" alt="Loyalty App Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white">Welcome To</h1>
-					<h1 class="span">Loyalty App</h1>
+					<h1 class="text-white">Welcome To
+						<span class="span">Loyalty App</span>
+					</h1>
 					<p class="pt-4 text-white">Welcome to Bonus Buddy! Shop smarter, save more, and enjoy exclusive cashback rewards. Happy shopping!"</p>
 				</div>
 			</div>

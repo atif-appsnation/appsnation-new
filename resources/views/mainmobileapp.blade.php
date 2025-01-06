@@ -87,7 +87,7 @@
 						<h4>iOS App Development</h4>
 					</div>
 					<div class="services-text-div">
-						<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
+						<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable and compatible with iPhone, iPad, Apple TV and Apple Watch.</p>
 						<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>

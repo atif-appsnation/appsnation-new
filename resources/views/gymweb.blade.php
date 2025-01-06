@@ -14,8 +14,9 @@
 			<div class="col-lg-6 my-lg-auto">
 			<img src="{{asset('images/case-studies/gym-web/header-logo.webp')}}" class="img-fluid" alt="Gym Web Logo">
 				<div class="bread-titlev2 mt-4">
-				<h1 class="text-white">Welcome to</h1>
-				<h1 class="span">GYMNASIUM</h1>
+					<h1 class="text-white">Welcome to
+						<span class="span">GYMNASIUM<span>
+					</h1>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">

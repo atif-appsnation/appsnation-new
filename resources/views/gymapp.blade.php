@@ -14,8 +14,9 @@
 			<div class="col-lg-6 my-auto">
 			<img src="{{asset('images/case-studies/gym-app/header-logo.webp')}}" class="img-fluid" alt="Gym App Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white">Welcome to</h1>
-					<h1 class="span">GYMNASIUM</h1>
+					<h1 class="text-white">Welcome to
+						<span class="span">GYMNASIUM<span>
+					</h1>
 					<h3 class="pt-4 text-white banner-heading">Your Ultimate Fitness Companion</h3>
 					<p class="pt-4 text-white">Welcome to Gymnasium, your ultimate fitness companion that revolutionizes how you approach health and wellness goals. Whether you're stepping into the world of fitness for the first time or a seasoned athlete looking to enhance your routine, Gymnasium is meticulously designed to support every aspect of your journey towards a healthier, stronger you. Our app blends cutting-edge technology with expert guidance to ensure that achieving and maintaining your fitness aspirations isn't just a goal, but a sustainable lifestyle choice.</p>
 				</div>

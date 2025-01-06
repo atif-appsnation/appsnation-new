@@ -14,8 +14,9 @@
 			<div class="col-lg-6 my-lg-auto">
 			<img src="{{asset('images/case-studies/mover-web/header-logo.webp')}}" class="img-fluid" alt="Mover Web Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1>Welcome To</h1>
-					<h1 class="span">Deliverables</h1>
+					<h1>Welcome To
+						<span class="span">Deliverables</span>
+					</h1>
 					<p class="pt-3">Relocate, Transfer, Packing</p>
 				</div>
 			</div>

@@ -141,11 +141,12 @@
     <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="common-heading w-tdxt text-center">
-                        <div data-text="Awards" class="dark-bg-text bg-text text-center">
-                            <h2 class="mb30">Techbehemoths Reviews</h2>
-                        </div>
+                <div class="col-md-4">
+                    <img src="images/reviews/techbehemoths.webp" class="img-fluid" alt="Trustlist">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>Techbehemoths Reviews</h2>
                     </div>
                 </div>
                 <div class="col-12">
@@ -196,11 +197,12 @@
     <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="common-heading w-tdxt text-center">
-                        <div data-text="Awards" class="dark-bg-text bg-text text-center">
-                            <h2 class="mb30">Trustlist reviews</h2>
-                        </div>
+                <div class="col-md-4">
+                    <img src="images/reviews/trustlist.webp" class="img-fluid" alt="Trustlist">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>Trustlist Reviews</h2>
                     </div>
                 </div>
                 <div class="col-12">
@@ -233,7 +235,7 @@
     </section>
     <!-- End Trustlist Testimonials -->
     {{-- end edit by talha --}}
-
+    
     <!-- Start Technologies -->
     <section class="technologies certificates py-5">
         <div class="container">

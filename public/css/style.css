@@ -11490,6 +11490,8 @@ i.fa-brands.fa-instagram {
 .recruitment-process .card {
     padding: 2em 1.5em;
     border-radius: 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid transparent;
 }
 
 .recruitment-process .card:before {
@@ -11543,6 +11545,8 @@ i.fa-brands.fa-instagram {
 .recruitment-process .card:hover {
     border-color: transparent;
 	/* background: #0f2834; */
+    transition: all 0.2s ease-out;
+    top: -4px;
 }
 
 .recruitment-process .card:hover:before {
@@ -11569,9 +11573,12 @@ i.fa-brands.fa-instagram {
     -web-kit-transition: 100ms height ease 300ms;
 }
 
+
 .perk .card {
     padding: 2em 1.5em;
     border-radius: 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid transparent;
 }
 
 .perk .card:before {
@@ -11625,6 +11632,8 @@ i.fa-brands.fa-instagram {
 .perk .card:hover {
     border-color: transparent;
 	/* background: #0f2834; */
+    transition: all 0.2s ease-out;
+    top: -4px;
 }
 
 .perk .card:hover:before {

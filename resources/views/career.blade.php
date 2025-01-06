@@ -34,11 +34,11 @@
 				<p>AppsNation aims to build high-quality software while also fostering an enjoyable work environment that allows everyone the opportunity to reach their highest potential.</p>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt70">
 			<div class="col-sm-12 col-md-4">
 				<div class="card">
 					<div class="card-body">
-						<img src="images/career/application.svg" class="career-icons">
+						<img src="images/career/application.svg" class="career-icons" alt="Application">
 						<h4 class="py-3">Application</h4>
 						<p>Submit your application through our website. Your application is being read by real humans.</p>
 					</div>
@@ -47,7 +47,7 @@
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
 				<div class="card">
 					<div class="card-body">
-						<img src="images/career/interview.svg" class="career-icons">
+						<img src="images/career/interview.svg" class="career-icons" alt="Interview">
 						<h4 class="py-3">Interview</h4>
 						<p>Let us get familiar with your competencies and experience in the field.</p>
 					</div>
@@ -56,7 +56,7 @@
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
 				<div class="card">
 					<div class="card-body">
-						<img src="images/career/offer.svg" class="career-icons">
+						<img src="images/career/offer.svg" class="career-icons" alt="Offer">
 						<h4 class="py-3">Offer</h4>
 						<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
 					</div>
@@ -71,10 +71,12 @@
 <section class="career-form block-1 dark-bg3 py-5">
 	<div class="container-fluid py-5">
 		<div class="row justify-content-center">
-			<div class="col-lg-8 ">
+			<div class="col-lg-6">
 			    <div class="card">
+					<div class="card-header">
+						<h5 class="card-title mb-0">Apply Here</h5>
+					</div>
 			        <div class="card-body">
-			            <h4 class="">Apply Here</h4>
         				<form action="{{route('applicant')}}" class="mt-3" method="post" enctype="multipart/form-data">
 						@csrf
 							<div class="row my-3">

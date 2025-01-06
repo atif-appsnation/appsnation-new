@@ -14,8 +14,9 @@
 			<div class="col-lg-6 my-lg-auto">
 			<img src="{{asset('images/case-studies/real-estate-web/header-logo.webp')}}" class="img-fluid" alt="Real Estate Web Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1 class="text-white">Welcome To</h1>
-					<h1 class="span">AVENUE</h1>
+					<h1 class="text-white">Welcome To
+						<span class="span">AVENUE</span>
+					</h1>
 					<h3 class="text-white pt-3">RealEstate</h3>
 				</div>
 			</div>

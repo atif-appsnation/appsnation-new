@@ -14,8 +14,9 @@
 			<div class="col-lg-6 my-auto">
 			<img src="{{asset('images/case-studies/mover-app/header-logo.webp')}}" class="img-fluid" alt="Mover App Logo">
 				<div class="bread-titlev2 mt-4">
-					<h1>Moving Life</h1>
-					<h1 class="span">In Better Way</h1>
+					<h1>Moving Life
+						<span class="span">In Better Way</span>
+					</h1>
 					<p class="pt-4">At Mover App, we are dedicated to redefining the moving experience through cutting-edge innovation and exceptional service. Our platform is designed to seamlessly connect customers with trusted moving professionals, ensuring a hassle-free journey from start to finish. Every step, from booking to the final move-in, is optimized for efficiency and ease, providing our users with a smooth and stress-free experience. Join us as we revolutionize the moving industry, creating a future where moving is as simple and enjoyable as possible. Embrace the future of moving with the Mover App, where every connection is seamless and every move is a success.</p>
 				</div>
 			</div>

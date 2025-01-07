@@ -420,49 +420,37 @@
 			</div>
 		</div>
 
-		<div class="row">
-			<div class="col-md-5 wow fadeIn">
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
+		<div class="row mt-3">
+			<div class="col-12 wow fadeIn">
+				<ul class="nav nav-tabs android-tech-tabs mt-5 justify-content-center">
 					@foreach($techstack as $k=>$item)
 
 					@if($k==0)
-					<li class="active">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed">
+					<li class="nav-item">
+						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
 							<img src="uploads/{{$item['image']}}" alt="">
 						</a>
 					</li>
 
 					@else
 
-					<li>
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed">
+					<li class="nav-item">
+						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
 							<img src="uploads/{{$item['image']}}" alt="">
 						</a>
 					</li>
-					@endif
-
-
-					@if(($k+1)%3==0 )
-					@if($k==0)
-
-					@else
-				</ul>
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@endif
 					@endif
 					@endforeach
 				</ul>
 
-			</div>
-			<div class="col-md-7 my-auto mt-5 mt-lg-0 wow fadeIn">
-				<div class="tab-content tab-body">
+				<div class="tab-content tab-body mt-4">
 
 					@foreach($techstack as $k=>$items)
 					@if($k==0)
 					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
 							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0">{{$items['heading']}}</h3>
+							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
 					</div>
@@ -471,7 +459,7 @@
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
 							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0">{{$items['heading']}}</h3>
+							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -481,7 +469,6 @@
 
 					@endforeach
 				</div>
-			</div>
 		</div>
 	</div>
 </div>
@@ -810,8 +797,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-sm-12 mt30 wow fadeIn">
+        <div class="row mt100">
+            <div class="col-sm-12 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">

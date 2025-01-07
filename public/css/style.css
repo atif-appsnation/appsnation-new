@@ -455,6 +455,10 @@ header .dropdown-menu {
     display: block;
 }
 
+.brand-logo:hover img {
+    transform: scale(1.1);
+}
+
 .top-header .navbar .custom-btn {
     padding: 0px 32px;
     color: var(--white-color);
@@ -8860,7 +8864,7 @@ html .mt15 {
 /* Technology */
 
 .boximageicon-seo {
-    padding: 0 10px 10px;
+    padding: 10px;
     margin-right: 25px;
     background: #fff;
     border-radius: 5px;
@@ -8912,6 +8916,18 @@ html .mt15 {
     border-radius: 5px;
     padding: 40px;
     border: 1px solid #d4f0ff;
+}
+
+.techonology-used .nav-link {
+    color: #495057;
+    background-color: #fff;
+    /* border-color: var(--black-color); */
+}
+
+.techonology-used .nav-link.active {
+    color: #495057;
+    background-color: var(--second-color);
+    /* border-color: var(--second-color); */
 }
 
 /* Mega Menu */
@@ -11730,6 +11746,10 @@ i.fa-brands.fa-instagram {
     filter: invert(1);
 }
 
+.accordion {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
 .accordion-item {
     background-color: #fff;
     border-bottom: 1px solid rgba(0, 0, 0, .125);
@@ -11768,7 +11788,12 @@ i.fa-brands.fa-instagram {
 .accordion-button {
 	color: var(--black-color);
 	background-color: var(--white-color);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
     /* border-bottom: 1px solid var(--gray-color); */
+}
+
+.accordion-body ul li {
+    list-style: circle;
 }
 
 /* Mobile App Development */

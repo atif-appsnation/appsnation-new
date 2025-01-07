@@ -951,6 +951,10 @@
 								<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo d-block mx-auto">
 								<h4 class="mt-2">Apache Hadoop</h4>
 							</div>
+							<div class="col-6 col-sm-6 col-md-3 col-lg-4 col-xl-2 mt-4">
+								<img src="images/tech/unity-logo.webp" alt="Unity Logo" class="tech-logo d-block mx-auto">
+								<h4 class="mt-2">Unity</h4>
+							</div>
 						</div>
 					</div>
 					<div id="frontent" class="tab-pane fade mt-4">

@@ -311,7 +311,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt70">
 			<div class="col-12">
 				<ul class="nav nav-pills justify-content-center custom-pills">
 					<li class="nav-item">

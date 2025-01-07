@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">EXTENDED REALITY (XR) DEVELOPMENT</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Extened Reality (XR) Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Enhance productivity and transform your business processes with the most renowned Extended Reality (XR) services provider – Dream, design, deliver the experience of new dimensions with AppsNation.</p>
 				</div>
 			</div>
@@ -83,7 +83,7 @@
 							<div class="col-lg-6 my-auto">
 								<div class="common-heading ptag">
 									<div data-text="VR" class="light-bg-text bg-text">
-										<h2><span>Virtual Reality (AR)</span> Development</h2>
+										<h2><span>Virtual Reality (VR)</span> Development</h2>
 									</div>
 									<p>Virtual Reality (VR) is a revolutionizing technology that offers users an immersive experience of an imaginary or real-world through computer modeling and simulation. In short, a person can interact with an artificially designed 3D world via VR headsets.</p>
 									<p>We are a professional and expert Virtual Reality (VR) development company on a mission to bring life to the ingenious dreams of businesses. With this powerful technology and expertise, your every fantasy of maximum customer engagement can be achieved.</p>
@@ -741,8 +741,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-sm-12 mt20 wow fadeIn">
+        <div class="row mt100">
+            <div class="col-sm-12 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">

@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Augmented Reality App Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Augmented Reality (AR) Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via an augmented reality app developed by our expert AR app developers.</p>
 				</div>
 			</div>
@@ -551,47 +551,37 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-md-5 wow fadeIn">
-				<ul class="nav nav-tabs android-tech-tabs">
+		<div class="row mt-3">
+			<div class="col-12 wow fadeIn">
+				<ul class="nav nav-tabs android-tech-tabs mt-5 justify-content-center">
 					@foreach($techstack as $k=>$item)
 
 					@if($k==0)
-					<li class="active">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed active">
+					<li class="nav-item">
+						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
 							<img src="uploads/{{$item['image']}}" alt="">
 						</a>
 					</li>
 
 					@else
 
-					<li>
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed">
+					<li class="nav-item">
+						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
 							<img src="uploads/{{$item['image']}}" alt="">
 						</a>
 					</li>
-					@endif
-
-					@if(($k+1)%3==0 )
-					@if($k==0)
-
-					@else
-				</ul>
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@endif
 					@endif
 					@endforeach
 				</ul>
-			</div>
 
-			<div class="col-md-7 mt-4 my-lg-auto wow fadeIn">
-				<div class="tab-content tab-body">
+				<div class="tab-content tab-body mt-4">
+
 					@foreach($techstack as $k=>$items)
 					@if($k==0)
-					<div id="a{{$items['id']}}" class="tab-pane active">
+					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
 							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0">{{$items['heading']}}</h3>
+							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
 					</div>
@@ -600,7 +590,8 @@
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
 							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0">{{$items['heading']}}</h3>
+							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
+
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
 					</div>
@@ -609,7 +600,6 @@
 
 					@endforeach
 				</div>
-			</div>
 		</div>
 	</div>
 </div>
@@ -938,7 +928,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row mt100">
             <div class="col-sm-12 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">

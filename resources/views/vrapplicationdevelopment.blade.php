@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Virtual Reality – VR App Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Virtual Reality (VR) Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Level up your marketing game and enrich consumer experience with our reliable Virtual Reality (VR) apps development services.</p>
 				</div>
 			</div>
@@ -749,7 +749,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row mt100">
             <div class="col-sm-12 wow fadeIn">
                 <div class="accordion" id="accordionExample-a">
                     <div class="accordion-item bdr0">

@@ -24,8 +24,8 @@
     </section>
     <!-- End Breadcrumb -->
 
-      <!-- Start Testimonials -->
-      <section class="reviews-block py-5">
+    <!-- Start Testimonials -->
+    <!-- <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -47,7 +47,6 @@
                                     <div class="review-text">
                                         <p class="collapsible-text">{{ $item['title'] }}</p>
                                         <button class="btn btn-link toggle-btn">View More</button>
-                                        <!--	<p>{{ $item['title'] }}</p>-->
                                     </div>
                                     <div class="-client-details-">
                                         <div class="reviewer-text">
@@ -56,17 +55,31 @@
                                             </p>
                                             <div class="star-rate">
                                                 <ul>
-                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                                aria-hidden="true"></i></a></li>
-                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                                aria-hidden="true"></i></a></li>
-                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                                aria-hidden="true"></i></a></li>
-                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                                aria-hidden="true"></i></a></li>
-                                                    <li><a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                                aria-hidden="true"></i></a></li>
-
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -75,7 +88,96 @@
                             </div>
                         @endforeach
                     </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- End Testimonials -->
 
+    <!-- Start Testimonials -->
+    <section class="reviews-block py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="images/reviews/clutch.webp" class="img-fluid" alt="Clutch">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>Clutch Reviews</h2>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="12" data-height="375" data-nofollow="true" data-expandifr="true" data-scale="100" data-scale="100" data-reviews="326969" data-clutchcompany-id="1991663"></div>
+                </div>
+                <div class="col-12 col-lg-2 mt-4 d-block mx-auto">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="1" data-height="40" data-nofollow="true" data-expandifr="true" data-scale="100" data-clutchcompany-id="1991663"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Testimonials -->
+
+    <!-- Start Testimonials -->
+    <section class="reviews-block py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="images/reviews/goodfirms.webp" class="img-fluid" alt="GoodFirms">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>GoodFirms Reviews</h2>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="goodfirm-widget" data-widget-type="goodfirms-widget-t7" data-widget-pattern="carousel" data-height="155" data-company-id="103093"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-3 mt-4 d-block mx-auto">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="goodfirm-widget" data-widget-type="goodfirms-widget-t3" data-widget-pattern="star-basic" data-height="100" data-company-id="103093"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Testimonials -->
+
+    <!-- Start Testimonials -->
+    <section class="reviews-block py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="images/reviews/sitejabber.webp" class="img-fluid" alt="Sitejabber">
+                </div>
+				<div class="col-md-8 mt-auto mb-3">
+                    <div class="common-heading w-tdxt">
+                        <h2>Sitejabber Reviews</h2>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stjr-review-carousel"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 mt-4 d-block mx-auto">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stjr-badge"></div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -119,7 +221,6 @@
                                                     <p class="text-end fw-bold pt-2">{{ $testimonial->location }}</p>
                                                 </div>
                                             </div>
-                                            
                                         </div>
                                     </div>
                                 </div>
@@ -127,7 +228,7 @@
                         @endforeach
                     </div>
                 </div>
-                <div class="col-12 mt-5">
+                <div class="col-12 mt-4">
                     <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="65d354312f36b895aa0cbd56" data-style-height="52px" data-style-width="100%">
                         <a href="https://www.trustpilot.com/review/appsnation.co" target="_blank" rel="noopener">Trustpilot</a>
                     </div>
@@ -186,8 +287,12 @@
                                 </div>
                             </div>
                         @endforeach
-
                     </div>
+                </div>
+                <div class="col-12 col-lg-2 mt-4 d-block mx-auto">
+                    <a href="https://www.trustpilot.com/review/appsnation.co" target="_blank" rel="noopener">
+                        <img src="images/reviews/tb.svg">
+                    </a>
                 </div>
             </div>
         </div>

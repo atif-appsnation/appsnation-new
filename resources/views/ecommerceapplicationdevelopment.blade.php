@@ -39,9 +39,9 @@
 					<div data-text="ECommerce" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our<br> <span class="flup-theme">E-Commerce Application Development Services</span></h2>
 					</div>
-					<p>AppsNation is a custom e-Commerce development company that specialises in creating beautiful platforms and accelerating e-Commerce initiatives. </p>
-					<p>As a reputable ecommerce website design company, we unlock the power of eCommerce platforms to provide you with feature-rich, distinctive, and dependable eCommerce websites. </p>
-					<p>Using Drupal, Magento development, WooCommerce, Shopify, and BigCommerce, our skilled team of highly qualified web developers produces customer-focused digital products Ecommerce web apps</p>
+					<p>AppsNation is a custom e-Commerce development company that specialises in creating beautiful platforms and accelerating e-Commerce initiatives.</p>
+					<p>As a reputable ecommerce website design company, we unlock the power of eCommerce platforms to provide you with feature-rich, distinctive, and dependable eCommerce websites.</p>
+					<p>Using Drupal, Magento development, WooCommerce, Shopify, and BigCommerce, our skilled team of highly qualified web developers produces customer-focused digital products Ecommerce web apps.</p>
 				</div>
 			</div>
 		</div>

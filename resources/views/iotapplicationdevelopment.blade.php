@@ -594,7 +594,7 @@
 <!--End Process-->
 
 <!--Start Tech-->
-<section class="py-5">
+<section class="techonology-used py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
@@ -608,7 +608,7 @@
 		</div>
 		<div class="row mt-3">
 			<div class="col-lg-12">
-				<ul class="nav nav-tabs justify-content-center wow fadeIn" role="tablist">
+				<ul class="nav nav-tabs features-tab justify-content-center wow fadeIn" role="tablist">
 					<li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#connectivity">Connectivity</a> </li>
 					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#hardware">Hardware</a> </li>
 					<li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#protocols">Protocols And Standards</a> </li>
@@ -618,31 +618,31 @@
 					<div id="connectivity" class="container tab-pane active">
 						<div class="row mt-3 d-flex justify-content-center">
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/4g-lte-logo.webp" alt="4G LTE Logo" class="tech-logo">
+								<!-- <img src="images/tech/4g-lte-logo.webp" alt="4G LTE Logo" class="tech-logo"> -->
 								<h6 class="pt-3">4G LTE</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/wifi-logo.webp" alt="WIFI Logo" class="tech-logo">
+								<!-- <img src="images/tech/wifi-logo.webp" alt="WIFI Logo" class="tech-logo"> -->
 								<h6 class="pt-3">WI-FI</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/bluetooth-logo.webp" alt="Bluetooth Logo" class="tech-logo">
+								<!-- <img src="images/tech/bluetooth-logo.webp" alt="Bluetooth Logo" class="tech-logo"> -->
 								<h6 class="pt-3">Bluetooth</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/nfc-logo.webp" alt="NFC Logo" class="tech-logo">
+								<!-- <img src="images/tech/nfc-logo.webp" alt="NFC Logo" class="tech-logo"> -->
 								<h6 class="pt-3">NFC</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/gsm-logo.webp" alt="GSM Logo" class="tech-logo">
+								<!-- <img src="images/tech/gsm-logo.webp" alt="GSM Logo" class="tech-logo"> -->
 								<h6 class="pt-3">GSM</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/ethernet-logo.webp" alt="Ethernet Logo" class="tech-logo">
+								<!-- <img src="images/tech/ethernet-logo.webp" alt="Ethernet Logo" class="tech-logo"> -->
 								<h6 class="pt-3">Ethernet</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<img src="images/tech/iot-gateway.webp" alt="IoT Gateway Logo" class="tech-logo">
+								<!-- <img src="images/tech/iot-gateway.webp" alt="IoT Gateway Logo" class="tech-logo"> -->
 								<h6 class="pt-3">IoT Gateway</h6>
 							</div>
 						</div>
@@ -651,27 +651,27 @@
 						<br>
 						<div class="row mt-3 d-flex justify-content-center">
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/raspberry-pi-logo.webp" alt="angular-js-logo" class="tech-logo">
+								<!-- <img src="images/tech/raspberry-pi-logo.webp" alt="angular-js-logo" class="tech-logo"> -->
 								<h6 class="pt-3">Raspberry PI</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<img src="images/tech/react-native-logo.webp" alt="react-js-logo" class="tech-logo">
+								<!-- <img src="images/tech/react-native-logo.webp" alt="react-js-logo" class="tech-logo"> -->
 								<h6 class="pt-3">Arduino</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/type-script-logo.webp" alt="type-script-logo" class="tech-logo">
+								<!-- <img src="images/tech/type-script-logo.webp" alt="type-script-logo" class="tech-logo"> -->
 								<h6 class="pt-3">Beacons</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<img src="images/tech/vue-js-logo.webp" alt="vue-js-logo" class="tech-logo">
+								<!-- <img src="images/tech/vue-js-logo.webp" alt="vue-js-logo" class="tech-logo"> -->
 								<h6 class="pt-3">NodeMCU</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo">
+								<!-- <img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo"> -->
 								<h6 class="pt-3">KNX</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo">
+								<!-- <img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo"> -->
 								<h6 class="pt-3">Crestron</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">

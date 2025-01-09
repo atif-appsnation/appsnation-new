@@ -243,7 +243,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/techbehemoths.webp" class="img-fluid" alt="Trustlist">
+                    <img src="images/reviews/techbehemoths.webp" class="img-fluid" alt="Techbehemoths">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -319,7 +319,36 @@
                                     <div class="card h-100 d-flex">
                                         <div class="card-body">
                                             <h6 class="text-muted mb-2">{{ $testimonial->name }}</h6>
-                                            <img src="images/svg/stars_on.svg" alt="" style="height:20px;">
+                                            {{-- <img src="images/svg/stars_on.svg" alt="" style="height:20px;"> --}}
+                                            <div class="star-rate">
+                                                <ul>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)" class="chked">
+                                                            <i class="fas fa-star" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
                                             <h5 class="text-start collapsible-heading pt-3">{{ $testimonial->title }}</h5>
                                             <p class="text-start collapsible-text pt-2">{{ $testimonial->comment }}</p>
                                             <div class="row">

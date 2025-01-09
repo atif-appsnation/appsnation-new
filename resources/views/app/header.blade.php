@@ -78,8 +78,8 @@
 			"name": "Mobile App Development Company in Los Angeles - Appsnation",
 			"aggregateRating": {
 			  "@type": "AggregateRating",
-			  "ratingValue": "4.5",
-			  "reviewCount": "24"
+			  "ratingValue": "4.9",
+			  "reviewCount": "1587"
 			}
 		}
 	</script>

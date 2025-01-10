@@ -206,7 +206,7 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="footer-copyrights">
-                <p class="py-2 text-white">© Copyrights 2024. All Rights Reserved. Appsnation.co</p>
+                <p class="py-2 text-white">© Copyrights {{date("Y");}}. All Rights Reserved. Appsnation.co</p>
             </div>
         </div>
     </div>

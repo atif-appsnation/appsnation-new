@@ -9654,7 +9654,7 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
     font-size: 24px;
 }
 
-/* .technologies-stack .card {
+.technologies-stack .card {
     background-color: #ECEFF0;
     border-radius: 0px;
 }
@@ -9662,7 +9662,7 @@ button.btn.btn-link[aria-expanded=false] .fa-minus {
 .technologies-stack .card:hover, .technologies-stack .card:hover h4, .technologies-stack .card:hover h3 {
     background-color: var(--first-color);
     color: var(--white-color);
-} */
+}
 
 .technologies-stack .nav-link {
     color: var(--white-color);
@@ -12528,17 +12528,18 @@ ul.list {
 }
 
 .twod-character-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 0px solid transparent;
-	border-left: 5px solid var(--second-color);
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .twod-character-design .nav-tabs .nav-item .nav-link.active {
     border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.twod-character-design .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .twod-character-design .tab-pane {
@@ -12584,17 +12585,18 @@ ul.list {
 }
 
 .twod-environment-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 5px solid var(--second-color);
-	border-left: 0px solid transparent;
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .twod-environment-design .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.twod-environment-design .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .twod-environment-design .tab-pane {
@@ -12632,17 +12634,18 @@ ul.list {
 }
 
 .twod-game-ui-ux-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 0px solid transparent;
-	border-left: 5px solid var(--second-color);
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .twod-game-ui-ux-design .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.twod-game-ui-ux-design .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .twod-game-ui-ux-design .tab-pane {
@@ -12680,17 +12683,18 @@ ul.list {
 }
 
 .twod-concept-art .nav-tabs .nav-item .nav-link:hover {
-	border-right: 5px solid var(--second-color);
-	border-left: 0px solid transparent;
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .twod-concept-art .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.twod-concept-art .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .twod-concept-art .tab-pane {
@@ -12858,17 +12862,18 @@ ul.list {
 }
 
 .threed-character-design .nav-tabs .nav-item .nav-link:hover {
-	border-right: 0px solid transparent;
-	border-left: 5px solid var(--second-color);
-	border-bottom: 0px solid transparent;
-	border-top: 0px solid transparent;
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .threed-character-design .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.threed-character-design .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .threed-character-design .tab-pane {
@@ -12914,15 +12919,18 @@ ul.list {
 }
 
 .threed-environment-design .nav-tabs .nav-item .nav-link:hover {
-	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .threed-environment-design .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.threed-environment-design .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .threed-environment-design .tab-pane {
@@ -12960,15 +12968,18 @@ ul.list {
 }
 
 .threed-game-assets-design .nav-tabs .nav-item .nav-link:hover {
-	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .threed-game-assets-design .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.threed-game-assets-design .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .threed-game-assets-design .tab-pane {
@@ -13006,15 +13017,18 @@ ul.list {
 }
 
 .threed-sculpting-service .nav-tabs .nav-item .nav-link:hover {
-	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+	border: 5px solid var(--first-color);
 	height: 100%;
 }
 
 .threed-sculpting-service .nav-tabs .nav-item .nav-link.active {
 	border: 3px solid var(--first-color);
-	/* border-left: 5px solid var(--second-color); */
+    background-color: var(--first-color);
 	height: 100%;
+}
+
+.threed-sculpting-service .nav-tabs .nav-item .nav-link.active p {
+	color: var(--white-color);
 }
 
 .threed-sculpting-service .tab-pane {

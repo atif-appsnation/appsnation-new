@@ -127,7 +127,7 @@
 						<h4>App Consultation</h4>
 					</div>
 					<div class="services-text-div">
-						<p>Get yourself professional guidance on the bespoke android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
+						<p>Get yourself professional guidance on the bespoke Android app development from the most experienced and competent experts with in-depth analysis of your business.</p>
 					</div>
 				</div>
 			</div>
@@ -391,7 +391,7 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled auality assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled quality assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -658,7 +658,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">REVOLUTIONIZE YOUR WORKFLOW WITH OUR AUTOMATION SERVICES</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Revolutionize Your Workflow With Our Automation Services</h1>
 					<p class="mt20 my-5 text-white" data-wow-delay=".4s">Are you ready to streamline your business and unlock its full potential? Our automation solutions are here to help. Our expert technicians are dedicated to finding the right automation solutions for your unique business needs.</p>
 				</div>
 			</div>
@@ -908,7 +908,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

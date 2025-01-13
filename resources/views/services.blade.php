@@ -763,7 +763,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

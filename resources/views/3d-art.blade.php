@@ -215,25 +215,25 @@
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#c-game">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#c-game">
                                             <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#c-cartoon">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#c-cartoon">
                                             <img src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Cartoon Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#photorealistic">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#photorealistic">
                                             <img src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Photorealistic Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#character">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#character">
                                             <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Design</p>
                                         </a>
@@ -349,25 +349,25 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#e-game">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#e-game">
                                             <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#e-cartoon">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#e-cartoon">
                                             <img src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Cartoon Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#argame">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#argame">
                                             <img src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">AR Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#vrgame">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#vrgame">
                                             <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">VR Game Environment</p>
                                         </a>
@@ -419,25 +419,25 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#ui-ux">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#ui-ux">
                                             <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Game Weapon Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#wireframing">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#wireframing">
                                             <img src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Game Vehicle Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#ar-game">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#ar-game">
                                             <img src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Product Modeling</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#vr-game">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#vr-game">
                                             <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid d-block mx-auto">
                                             <p class="text-center">3D Modeling for NFT</p>
                                         </a>
@@ -546,19 +546,19 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link px-4 active" data-bs-toggle="tab" href="#s-character">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#s-character">
                                             <img src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Sculpting</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#s-environment">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#s-environment">
                                             <img src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Environment Sculpting</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#props">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#props">
                                             <img src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Pros Sculpting</p>
                                         </a>
@@ -1101,7 +1101,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

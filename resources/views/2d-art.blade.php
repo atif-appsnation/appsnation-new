@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2 common-heading">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest <span> 2D Art Design </span>Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest 2D Art Design Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
 				</div>
 			</div>
@@ -214,25 +214,25 @@
                             <div class="col-lg-6 my-auto mx-auto d-block">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link active px-4" data-bs-toggle="tab" href="#realistic">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#realistic">
                                             <img src="images/services/2d-art/realistic-character-design.webp" alt="2D 2D Realistic Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Realistic Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#causal">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#causal">
                                             <img src="images/services/2d-art/casual-character-design.webp" alt="2D 2D Causal Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Causal Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#cartoon">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#cartoon">
                                             <img src="images/services/2d-art/cartoon-character-design.webp" alt="2D 2D Cartoon Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Cartoon Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#stylized">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#stylized">
                                             <img src="images/services/2d-art/stylized-character-design.webp" alt="2D 2D Stylized Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Stylized Character Design</p>
                                         </a>
@@ -316,7 +316,7 @@
                         	<div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="game">
-                                        <img src="images/services/2d-art/game-environments.webp" alt="2D 2D Game Environment Design" class="img-fluid twod-environment-design-img">
+                                        <img src="images/services/2d-art/game-environments.webp" alt="2D Game Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Game Environments</H4>
                                             <p class="text-white">With our expertise in 3D modeling and texturing, we create environment maps quickly, efficiently, and with high quality, creating an accurate representation of your game world.</p>
@@ -330,7 +330,7 @@
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="biomes">
-                                        <img src="images/services/2d-art/biomes.webp" alt="2D 2D Biomes Environment Design" class="img-fluid twod-environment-design-img">
+                                        <img src="images/services/2d-art/biomes-environment.webp" alt="2D Biomes Environment Design" class="img-fluid twod-environment-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Biomes</H4>
                                             <p class="text-white">Biomes give you a sense of realism by adding colorful, living plants, wandering creatures, plants, and water reflections to your 2D environment.</p>
@@ -348,25 +348,25 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link  active px-4" data-bs-toggle="tab" href="#game">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#game">
                                             <img src="images/services/2d-art/game-environments.webp" alt="2D Game Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Game Environments </p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link  px-4" data-bs-toggle="tab" href="#map-levels">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#map-levels">
                                             <img src="images/services/2d-art/map-levels.webp" alt="2D Map Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Maps &amp; Levels</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link  px-4" data-bs-toggle="tab" href="#biomes">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#biomes">
                                             <img src="images/services/2d-art/biomes-environment.webp" alt="2D Biomes Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Biomes</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link  px-4" data-bs-toggle="tab" href="#urban">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#urban">
                                             <img src="images/services/2d-art/urban-environments.webp" alt="2D Urban Environment Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Urban Environments</p>
                                         </a>
@@ -418,25 +418,25 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link active px-4" data-bs-toggle="tab" href="#ui-ux">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#ui-ux">
                                             <img src="images/services/2d-art/mobile-game-ui-ux.webp" alt="2D Mobile Game App UI/UX Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile Game App UI/UX Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#wireframing">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#wireframing">
                                             <img src="images/services/2d-art/mobile-game-wireframes.webp" alt="2D Mobile Game App Wireframing" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile Game App Wireframing</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#ar-game">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#ar-game">
                                             <img src="images/services/2d-art/ar-mobile-games.webp" alt="2D Mobile AR Game App" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile AR Game App</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#vr-game">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#vr-game">
                                             <img src="images/services/2d-art/vr-mobile-games.webp" alt="2D Mobile VR Game App" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Mobile VR Game App</p>
                                         </a>
@@ -552,25 +552,25 @@
                             <div class="col-lg-6 my-auto">
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
-                                        <a class="nav-link active px-4" data-bs-toggle="tab" href="#character">
+                                        <a class="nav-link active" data-bs-toggle="tab" href="#character">
                                             <img src="images/services/2d-art/character-concept-art.webp" alt="2D Character Concept Art" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Concept Art</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#environment">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#environment">
                                             <img src="images/services/2d-art/environment-concept-art.webp" alt="2D Environment Concept Art" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Environment Concept Art</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#level">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#level">
                                             <img src="images/services/2d-art/level-design-concept-art.webp" alt="2D Level Design Concept" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Level Design Concept</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link px-4" data-bs-toggle="tab" href="#concept">
+                                        <a class="nav-link" data-bs-toggle="tab" href="#concept">
                                             <img src="images/services/2d-art/vehicles-and-guns-concept-art.webp" alt="2D Concepts of Vehicles, Weapons, and Props" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Concepts of Vehicles, Weapons, and Props</p>
                                         </a>
@@ -943,7 +943,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

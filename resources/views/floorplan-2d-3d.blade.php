@@ -11,7 +11,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">2D & 3D FLOOR PLAN SERVICES</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">2D & 3D Floor Plan Services</h1>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
@@ -532,7 +532,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

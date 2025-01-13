@@ -813,7 +813,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel owl-theme">
+        <div class="testimonial-card-a owl-carousel owl-theme owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
@@ -1244,7 +1244,7 @@
 <!--Start Tech-->
 <section class="technologies-stack py-5">
 	<div class="container">
-		<div class="row fadeIn">
+		<div class="row wow fadeIn">
 			<div class="col-12">
 				<div class="common-heading">
 					<div data-text="Technologies" class="light-bg-text bg-text text-center">
@@ -1253,7 +1253,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row wow fadeIn">
+		<div class="row wow fadeIn tech-row">
 			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">

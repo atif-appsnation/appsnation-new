@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">3D INTERIOR RENDERING SERVICES</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">3D Interior Rendering Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">interior renderings are a necessary component of today's project visualization. interior rendering services are mostly used to visually present a design concept.</p>
 				</div>
 			</div>
@@ -707,7 +707,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

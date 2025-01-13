@@ -92,7 +92,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/montana.webp')}}" alt="USA" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Montana, USA</h4>
-                <p class="pt-3">1001 S. Main St., Kalispell, MT 59901, USA</p>
+                <p class="pt-3">1001 S Main St, Kalispell, MT 59901, USA</p>
                 <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -116,7 +116,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Karachi, PAK</h4>
-                <p class="pt-3">Suite # 309، Tariq Centre, Tariq Rd, Karachi, PAK</p>
+                <p class="pt-3">Suite # 309, Tariq Centre, Tariq Rd, Karachi, PAK</p>
                 <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -163,7 +163,7 @@
                         <h6 class="mt20 mb-0">CA, USA</h6>
                         <p>3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
                         <h6 class="mt20 mb-0">Montana, USA</h6>
-                        <p>1001 South Main Street, Kalispell, MT 59901, USA</p>
+                        <p>1001 S Main St, Kalispell, MT 59901, USA</p>
                         <h6 class="mt20 mb-0">Saudi Arabia</h6>
                         <p>Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
                         <!-- <h4 class="mt20 mb-0">Pakistan</h4>
@@ -176,12 +176,13 @@
                             <li><a href="{{url('/about-us')}}">About Us</a></li>
                             <li><a href="{{url('/portfolio')}}">Portfolio</a></li>
                             <li><a href="{{url('/career')}}">Career</a></li>
+                            <li><a href="{{url('/locations')}}">Locations</a></li>
                             <li><a href="{{url('/contact-us')}}">Contact Us</a></li>
                             <li><a href="{{url('/privacy-policy')}}">Privacy Policy</a></li>
                             <li><a href="{{url('/company-policy')}}">Company Policy</a></li>
                             <li><a href="https://hub.appsnation.co/" target="_blank">Hub</a></li>
                             <li><a href="https://hub.appsnation.co/register" target="_blank">Register as New Customer</a></li>
-                            <li><a href="{{url('/locations')}}">Locations</a></li>
+                            
                         </ul>
                     </div>
                     <div class="col-12 col-sm-4 pt40">

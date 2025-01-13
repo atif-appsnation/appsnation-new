@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">STELLAR VIDEO ANIMATION DEVELOPMENT</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Stellar Video Animation Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">With years of expertise in the enormous digital world, we have specialized in sophisticated video animations intending to increase your sales by enhancing user experience. So allow us to design your company's future lifeblood.</p>
 				</div>
 			</div>
@@ -578,7 +578,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">MIXED REALITY (MR) DEVELOPMENT</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mixed Reality (MR) Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Virtual Reality (VR) and Augmented Reality (AR) are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
 				</div>
 			</div>
@@ -659,7 +659,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel">
+        <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->

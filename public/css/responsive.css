@@ -845,7 +845,7 @@
 
 	.client-thumbs {
 		margin: 30px auto 0;
-		display: table;
+		/* display: table; */
 	}
 
 	.enquire-image {
@@ -4191,6 +4191,10 @@
 
 	.services-section .row:nth-child(2), .solutions-section .row:nth-child(2), .industries-section .row:nth-child(2), .service-section .row:nth-child(2) {
 		margin-top: 100px;
+	}
+
+	.technologies-stack .row:nth-child(2) {
+		margin-top: 0px;
 	}
 
 	.solution-bg-img, .login-wrap {

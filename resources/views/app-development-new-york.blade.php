@@ -1253,7 +1253,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row wow fadeIn">
+		<div class="row wow fadeIn tech-row">
 			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">

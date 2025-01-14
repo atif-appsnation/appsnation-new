@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 new-york-banner">
+<section class="breadcrumb-areav2 karachi-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -110,7 +110,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/new-york/new-york.webp" alt="Karachi" class="img-fluid no-shadow" />
+					<img src="images/locations/karachi/karachi.webp" alt="Karachi" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -119,7 +119,7 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="about2 pt60 pb60">
+<section class="karachi-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -761,7 +761,7 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner pt60 pb60 mt-5">
+<section class="karachi-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">

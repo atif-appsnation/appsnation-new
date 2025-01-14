@@ -14388,15 +14388,16 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     background: rgba(255, 255, 255, .65);
 }
 
-.about2 {
-    background: url(../images/locations/new-york/expand.webp);
+.new-york-about {
+    background: url(../images/locations/new-york/scale-your-business-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    position: relative;
 }
 
-.partner {
-    background: url(../images/locations/new-york/expand.webp);
+.new-york-partner {
+    background: url(../images/locations/new-york/partner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -14462,7 +14463,67 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     background: rgba(255, 255, 255, .65);
 }
 
-/* End Houston */
+/* End Dallas */
+
+/* Start San Francisco */
+
+.san-francisco-banner {
+    background: url(../images/locations/san-francisco/san-francisco-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.san-francisco-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+.san-francisco-about {
+    background: url(../images/locations/san-francisco/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.san-francisco-partner {
+    background: url(../images/locations/san-francisco/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End San Francisco */
+
+/* Start Karachi */
+
+.karachi-banner {
+    background: url(../images/locations/karachi/karachi-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.karachi-banner .niwax23form {
+    background: rgba(255, 255, 255, .65);
+}
+
+.karachi-about {
+    background: url(../images/locations/karachi/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.karachi-partner {
+    background: url(../images/locations/karachi/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Karachi */
 
 /* Start Testimonials */
 

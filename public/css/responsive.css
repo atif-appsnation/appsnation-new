@@ -3571,6 +3571,7 @@
 		bottom: 16%;
         right: 30.5%;
 	}
+
 }
 
 @media only screen and (min-width:1600px) and (max-width:1919px) {
@@ -3813,7 +3814,6 @@
 		bottom: 16%;
         right: 30.5%;
 	}
-
 }
 
 @media only screen and (min-width:1920px) {
@@ -4220,6 +4220,7 @@
 		top: -338px;
 		right: -160px;
 	}
+
 }
 
 @media screen and (max-width: 767px) {

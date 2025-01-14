@@ -119,7 +119,7 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="about2 pt60 pb60">
+<section class="new-york-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -131,6 +131,9 @@
 					<p class="text-white">Partner with a leading mobile app development company in New York to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
+			</div>
+			<div class="col-lg-6 block-1 wow fadeIn">
+				<img src="images/locations/new-york/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -761,7 +764,7 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner pt60 pb60 mt-5">
+<section class="new-york-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">

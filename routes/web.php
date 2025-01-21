@@ -119,5 +119,5 @@ Route::get('/app-development-bahrain','HomeController@bahrain');
 Route::get('/app-development-oman','HomeController@oman');
 Route::get('/app-development-sydney','HomeController@sydney');
 Route::get('/app-development-toronto','HomeController@toronto');
-Route::get('/review-data','ScraperController@scrapeTestimonials');
+Route::get('/review-data','ScraperController@scrapeTestimonials2');
 Route::get('/locations','HomeController@locations');

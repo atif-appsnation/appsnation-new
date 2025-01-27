@@ -859,7 +859,7 @@
 					@if($k==0)
 					<li class="active">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 
@@ -867,7 +867,7 @@
 
 					<li>
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 					@endif

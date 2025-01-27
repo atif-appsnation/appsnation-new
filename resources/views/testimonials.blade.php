@@ -269,7 +269,7 @@
                                                 </figcaption>
                                             </div>
 
-                                            <img src="images/svg/stars-5-techbehemoths.svg" alt="" style="height:20px;">
+                                            <img src="images/svg/stars-5-techbehemoths.svg" alt="Stars" style="height:20px;">
 
                                             {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
                                             <h5 class="text-start collapsible-heading pt-3">{{ $testimonial->title }}</h5>
@@ -319,7 +319,7 @@
                                     <div class="card h-100 d-flex">
                                         <div class="card-body">
                                             <h6 class="text-muted mb-2">{{ $testimonial->name }}</h6>
-                                            {{-- <img src="images/svg/stars_on.svg" alt="" style="height:20px;"> --}}
+                                            {{-- <img src="images/svg/stars_on.svg" alt="Stars" style="height:20px;"> --}}
                                             <div class="star-rate">
                                                 <ul>
                                                     <li>
@@ -371,14 +371,17 @@
     <!-- End Trustlist Testimonials -->
     {{-- end edit by talha --}}
 
-
-
-    <script src="https://static.elfsight.com/platform/platform.js" async></script>
     <div class="elfsight-app-008c9078-d7d5-4186-aba7-b1b00a9d36b2" data-elfsight-app-lazy></div>
 
     <div class="elfsight-app-de78bc16-90cc-4716-a65d-10e88172eabf" data-elfsight-app-lazy></div>
 
-    <div class="embedsocial-widget" data-ref="13831fe380fe3337953857f71835d9c2"> <a href="https://embedsocial.com/google-reviews-widget/" title="Add Google reviews on a website" target="_blank" class="powered-by-es es-slider" > <img src="https://embedsocial.com/cdn/icon/embedsocial-logo.webp" alt="EmbedSocial" > <span> Google reviews widget </span> </a> </div> <script> (function(d, s, id) { var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/aht.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialWidgetScript")); </script>
+    <div class="embedsocial-widget" data-ref="13831fe380fe3337953857f71835d9c2">
+        <a href="https://embedsocial.com/google-reviews-widget/" title="Add Google reviews on a website" target="_blank" class="powered-by-es es-slider" >
+            <img src="https://embedsocial.com/cdn/icon/embedsocial-logo.webp" alt="EmbedSocial" >
+            <span> Google reviews widget </span>
+        </a>
+    </div>
+    
     <!-- Start Technologies -->
     <section class="technologies certificates py-5">
         <div class="container">

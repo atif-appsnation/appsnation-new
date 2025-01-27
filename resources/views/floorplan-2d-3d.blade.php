@@ -277,6 +277,7 @@
 </section>
 <!--End Process-->
 
+<!--Start Floor Plan-->
 <section class="floor-plan py-5">
 	<div class="container">
 		<div class="row">
@@ -285,13 +286,13 @@
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn v-center pt-3 pt-sm-3 pt-md-3 pt-lg-0"fadeIn>
-				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-drawing.webp" alt="" height="100%" width="100%">
+				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-drawing.webp" alt="3D Floor Plan" height="100%" width="100%">
 			</div>
 		</div>
 
 		<div class="row pt-3">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn v-center"fadeIn>
-				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-layout.webp" alt="" height="100%" width="100%">
+				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-layout.webp" alt="3D Floor Plan" height="100%" width="100%">
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0"fadeIn>
@@ -300,7 +301,9 @@
 		</div>
 	</div>
 </section>
+<!--End Floor Plan-->
 
+<!--Start Floor Plan Services-->
 <section class="floor-plan-service service-section-app py-5">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -323,7 +326,9 @@
 		</div>
 	</div>
 </section>
+<!--End Floor Plan Services-->
 
+<!--Start Floor Plan Configuration-->
 <section class="floor-plan-configuration py-5">
     <div class="container">
         <div class="row justify-content-center">
@@ -341,12 +346,12 @@
     </div>
 </section>
 
-
 <section>
 	<div class="col-lg-12 col-md-12 col-sm-12">
 		<img src="images/services/2d-3d-floor-plan-services/2d-3d-floor-plan-center-banner.webp" alt="2D 3D Floor Plan Center Image">
 	</div>
 </section>
+<!--Start Floor Plan Configuration-->
 
 <!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">

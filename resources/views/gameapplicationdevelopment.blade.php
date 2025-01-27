@@ -499,7 +499,7 @@
 					@if($k==0)
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 
@@ -507,7 +507,7 @@
 
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 					@endif

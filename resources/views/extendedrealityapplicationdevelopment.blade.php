@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Extened Reality (XR) Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Extended Reality (XR) Development</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Enhance productivity and transform your business processes with the most renowned Extended Reality (XR) services provider – Dream, design, deliver the experience of new dimensions with AppsNation.</p>
 				</div>
 			</div>
@@ -360,7 +360,7 @@
 					@if($k==0)
 					<li class="active">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 
@@ -368,7 +368,7 @@
 
 					<li>
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 					@endif

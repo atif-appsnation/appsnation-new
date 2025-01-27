@@ -782,134 +782,10 @@
 					</div>
 				</div>
 			</div>
-			<!-- <div id="mobile-apps" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto mobile-app-first-cs">
-							<img src="images/case-study/vero-app.webp" class="img-fluid" alt="Verp App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/vero-logo.webp" alt="" class="icon-img" alt="Vero App Logo">
-							<h2 class="pt-3 case-study-heading">Vero App</h2>
-							<p class="pt-3 case-study-text">VERO is a hassle-free, one stop solution for your daily needs. Track what you want to buy, order food, or take a ride. Fit it all in a day with VERO!</p>
-							<a target="_blank" href="https://appsnation.com/vero" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto mobile-app-second-cs">
-							<img src="images/case-study/homestore-app.webp" class="img-fluid" alt="Home Store App" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Logo">
-							<h2 class="pt-3 case-study-heading">Home Store</h2>
-							<p class="pt-3 case-study-text">Order breakfast, lunch, or dinner, rate your favorite restaurants & track your order - one platform to curb your hunger.</p>
-							<a target="_blank" href="https://appsnation.com/hom-store-app" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div id="website" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
-							<img src="images/case-study/homestore-web.webp" class="img-fluid" alt="Home Store Web" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/homestore-logo.webp" class="icon-img" alt="Home Store Website">
-							<h2 class="pt-3 case-study-heading">Home Store Web</h2>
-							<p class="pt-3 case-study-text">An online store for buying our high quality cooking oils at best prices. Notch features that define the world’s best oil delivery app.</p>
-							<a target="_blank" href="https://appsnation.com/hom-store-web" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-second-cs">
-
-							<img src="images/case-study/erp-web.webp" class="img-fluid" alt="ERP Web" />
-
-							<img src="images/case-study/self_img.webp" class="imgResponsive" />
-
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/erp-logo.webp" class="icon-img" alt="ERP Logo">
-							<h2 class="pt-3 case-study-heading">ERP</h2>
-							<p class="pt-3 case-study-text">Improve your day-to-day business operations with our ERP tool. Boost productivity, improve customer experience, and boost operational efficiency!</p>
-							<a target="_blank" href="https://appsnation.com/erp" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn">&mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div id="design" class="tab-pane fade"><br>
-				<div class="scrollHalf">
-					<div class="scrollHalf__grupo row h-100" data-scroll>
-						<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto design-first-cs">
-							<img src="images/case-study/evil-witch-design.webp" class="img-fluid evil-witch-design" alt="Evil Witch Design" />
-						</div>
-						<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
-							<img src="images/case-study/evil-witch-logo.webp" alt="Evil Witch Design" class="icon-img">
-							<h2 class="pt-3 case-study-heading">Evil Witch</h2>
-							<p class="pt-3 case-study-text">After much effort, our team found a unique character idea covering the horror feel. It was crucial to converting ideas into reality, especially when it comes to character design from scratch.</p>
-							<a target="_blank" href="https://appsnation.com/evil-witch" class="btn btn-naked text-uppercase pt-5">
-								<span class="btn-line btn-line-before"></span>
-								<span class="btn-txt view-cs-btn"> &mdash;&#32;View Case Study</span>
-								<span class="btn-line btn-line-after"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div> -->
 		</div>
 	</section>
 </section>
 <!--End Portfolio-->
-
-<!--Start Case Studies-->
-<!-- <section class="py-5 dark-bg2">
-	<div class="container">
-		<div class="row justify-content-center fadeInDown">
-			<div class="col-lg-10">
-				<div class="common-heading">
-					<h2 class="mb20">Our Featured Work</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12 wow fadeIn">
-				<div class="case-slider owl-carousel mt20">
-					@foreach($casestudy as $item)
-					<div class="img-badge-">
-						<div class="row">
-							<div class="col-sm-12 col-md-6"> <img src="uploads/{{$item['image']}}" alt=""> </div>
-							<div class="col-sm-12 col-md-6 my-auto"> <img src="uploads/{{$item['icon']}}" alt="" class="icon-img">
-								<h6 class="text-uppercase ltr-sp-2 font-size-12 font-weight-semibold text-secondary">{{$item['tag']}}</h6>
-								<h2 class="mb-20 heading3 font-size-28 mt-3">{{$item['heading']}}</h2>
-								<p>{{$item['content']}}</p>
-								<a target="_blank" href="#" class="btn btn-naked text-uppercase ltr-sp-1 size-sm font-weight-bold liquid-lp-read-more"> <span class="btn-line btn-line-before" style="background-color:#0f63f4"></span> <span class="btn-txt" style="color:#0f63f4">View Case Study</span> <span class="btn-line btn-line-after" style="background-color:#0f63f4"></span> </a>
-							</div>
-						</div>
-					</div>
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--End Case Studies-->
 
 <!--Start Clients-->
 <section class="py-5 bg-gradient3">
@@ -917,7 +793,6 @@
 		<div class="row wow fadeIn">
 			<div class="col-lg-6">
 				<div class="common-heading">
-					<!-- <span>Our happy customers</span> -->
 					<h2 class="mb30">Some of our Clients</h2>
 				</div>
 			</div>

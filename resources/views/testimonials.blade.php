@@ -371,9 +371,13 @@
     <!-- End Trustlist Testimonials -->
     {{-- end edit by talha --}}
 
-    <div class="elfsight-app-008c9078-d7d5-4186-aba7-b1b00a9d36b2" data-elfsight-app-lazy></div>
+    <section class="reviews-block py-5">
+        <div class="elfsight-app-008c9078-d7d5-4186-aba7-b1b00a9d36b2" data-elfsight-app-lazy></div>
+    </section>
 
-    <div class="elfsight-app-de78bc16-90cc-4716-a65d-10e88172eabf" data-elfsight-app-lazy></div>
+    <section class="reviews-block py-5">
+        <div class="elfsight-app-de78bc16-90cc-4716-a65d-10e88172eabf" data-elfsight-app-lazy></div>
+    </section>
 
     <div class="embedsocial-widget" data-ref="13831fe380fe3337953857f71835d9c2">
         <a href="https://embedsocial.com/google-reviews-widget/" title="Add Google reviews on a website" target="_blank" class="powered-by-es es-slider" >

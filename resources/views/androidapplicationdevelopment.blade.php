@@ -45,6 +45,10 @@
 					<p><strong>Get an Android app that you deserve—an appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented Android developers, more like Android wizards, striving to create your innovative, unique Android app.</p>
 					<p>AppsNation is a data-driven Android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBs, and major enterprises the solution to thrive in the industry and make a statement with a remarkable Android application. AppsNation builds Android apps with visually appealing UI/UX that work flawlessly on all devices regardless of the screen size.</p>
+					<a href="pdf/android-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Android App Profile
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>

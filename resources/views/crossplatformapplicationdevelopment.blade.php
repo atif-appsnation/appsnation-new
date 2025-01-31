@@ -40,6 +40,10 @@
 					<p><strong>There are several reasons cross-platform mobile application benefits you and your business.</strong></p>
 					<p>First, cross-platform mobile app development has one programming language for coding that can work on any platform. Therefore, it branches into the other benefits of having a cross-platform app, such as the reduced cost of owning a mobile app for a great fortune. Want to rush mobile app development? A cross-platform mobile app is ideal for you.</p>
 					<p>Cross-platform mobile apps ease developers to customize apps based on their dynamic requirements conveniently. Thus, enabling you to follow the marketing and consumer psychology trends easily. The best thing about the cross-platform app is the versatility across the different platforms, delivering the same user experience on multiple devices - uniform branding.</p>
+					<a href="pdf/cross-platform-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Cross Platform App Profile
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>

@@ -42,6 +42,10 @@
 					<p><strong>Get yourself an industry-standard iOS application with AppsNation's most competent and expert iOS developers.</strong></p>
 					<p>AppsNation creates appealing iOS apps depending on your company's needs. Our highly skilled iOS developers create incredibly functional and user-friendly iPhone applications that can be deployed on various platforms. AppsNation is renowned for producing quality iOS apps for any business.</p>
 					<p>We are the leading iOS app development company with cost-effective methodologies to make our top iOS developers connect with everyone. We thrive on digitalizing businesses with our innovative iOS applications with edge-cutting technology and tools, including tempting UI/UX designs. We automate your business processes with your envisioned ideal iOS application. What you dream and imagine will be in the palm of your hands with our custom mobile app development service.</p>
+					<a href="pdf/ios-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download iOS App Profile
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
 			</div>
 		</div>

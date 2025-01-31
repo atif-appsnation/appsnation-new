@@ -41,6 +41,10 @@
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Mobile App Development Services</span></h2>
 					</div>
                     <p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest application development services.</p>
+					<a href="pdf/mobile-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Mobile App Profile
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
                 </div>
             </div>
         </div>

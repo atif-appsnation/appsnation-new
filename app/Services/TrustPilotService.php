@@ -23,16 +23,22 @@ class TrustPilotService
             $crawler = new Crawler($html);
 
             // Locate the testimonial section
-            $testimonialSection = $crawler->filter('.styles_reviewsContainer__3_GQw .styles_cardWrapper__LcCPA');
+            // $testimonialSection = $crawler->filter('.styles_reviewsContainer__3_GQw .styles_cardWrapper__LcCPA');
+            $testimonialSection = $crawler->filter('.styles_reviewsContainer__qcQUQ .styles_reviewCardInner__UZk1x');
+
 
             $testimonials = $testimonialSection->each(function (Crawler $node) {
                 try {
-                    $name = $node->filter('.typography_heading-xxs__QKBS8')->text();
-                    $title = $node->filter('.styles_reviewContent__0Q2Tg h2')->text();
-                    $comments = $node->filter('.typography_body-l__KUYFJ')->text();
-                    $location = $node->filter('div.typography_body-m__xgxZ_ span')->text();
-                    $dateOfExperience = $node->filter('p.typography_body-m__xgxZ_')->text();
-
+                    // $name = $node->filter('.typography_heading-xxs__QKBS8')->text();
+                    // $title = $node->filter('.styles_reviewContent__0Q2Tg h2')->text();
+                    // $comments = $node->filter('.typography_body-l__KUYFJ')->text();
+                    // $location = $node->filter('div.typography_body-m__xgxZ_ span')->text();
+                    // $dateOfExperience = $node->filter('p.typography_body-m__xgxZ_')->text();
+                    $name = $node->filter('.typography_heading-xxs__UmE9o')->text();
+                    $title = $node->filter('.typography_heading-s__RxVny')->text();
+                    $comments = $node->filter('.typography_body-l__v5JLj')->text();
+                    $location = $node->filter('div.styles_detailsIcon__ch_FY span')->text();
+                    $dateOfExperience = $node->filter('p.typography_body-m__k2UI7')->text();
                     
                     return [
                         'title' => trim($title),

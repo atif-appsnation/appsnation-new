@@ -2200,9 +2200,9 @@
 		height: 350px !important;
 	}
 
-	iframe {
-		height: auto !important;
-		width: auto !important;
+	.video iframe {
+		height: 450px !important;
+        width: 100% !important;
 	}
 
 	.bages-slider .owl-item {

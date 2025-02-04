@@ -13,7 +13,7 @@
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Transport App Development Company</h1>
-					<p class="banner-para mt20">The key to success is logistics or transport app development services for delivery and warehousing organizations. We will support you on your logistics and transportation digital transformation journey, whether you are a start-up or an enterprise-size organization.</p>
+					<p class="banner-para mt20">The key to success is logistics or transport app development services for delivery and warehousing organizations. We will support you on your logistics and transportation digital transformation journey, whether you are a start-up or an enterprise-digital organization.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -149,7 +149,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

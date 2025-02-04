@@ -15,7 +15,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="text-white" data-wow-delay=".2s">Fleet App Service</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Fleet is a mentoring car software that allows users to earn money while delivering a straightforward, cost-effective, and entertaining experience for customers.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Fleet a mentoring car software that allows users to earn money while delivering a straightforward, cost-effective, and entertaining experience for customers.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -35,7 +35,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-sm-12">
-				<h2>App Feature</h2>
+				<h2>App Features</h2>
 			</div>
 		</div>
 		<div class="row mt-5">
@@ -51,7 +51,7 @@
 							<p> <span>Work Orders</span>Drivers can instantly obtain the job and start working on it thanks to an easy real-time request accepting function.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/services.svg" alt="services" data-was-processed="true">
-							<p> <span>Preventive Maintenance</span>Regular servicing, inspections, and repairs, such as lubrication, adjustments, cleaning, testing, and the replacement of old parts, are all part of auto automobile servicing.</p>
+							<p> <span>Preventive Maintenance</span>Regular servicing, inspections, and repairs, such as lubrication, adjustments, cleaning, testing, and the replacement of old parts, are all part of automobile servicing.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" alt="property" data-was-processed="true">
 							<p> <span>Fuel Management</span>Fuel-management systems are intended to properly measure and manage fuel consumption in transportation. On each filling, an automated system evaluates the average gasoline consumption.</p>
@@ -120,7 +120,7 @@
 							<p> <span>Fuel Management</span>Through a simple and user-friendly fuel management system, you can view all of your vehicles' fuel statistics.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="notifications" data-was-processed="true">
-							<p> <span>Accidental Management</span>Through a simple and user-friendly accidental management system, you can view all of your vehicle's accident records and overall spending.</p>
+							<p> <span>Accidental Management</span>Through a simple and user-friendly accident management system, you can view all of your vehicle's accident records and overall spending.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="notifications" data-was-processed="true">
 							<p> <span>Notifications / Alerts</span>The notification/alerts tool will keep you up to date on your driver's acts and status.</p>
@@ -188,7 +188,7 @@
 				<div data-text="Partner" class="light-bg-text bg-text">
 					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
 				</div>
-				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its play stores where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its own play store where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 			</div>
 			<div class="col-lg-6">
 				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
@@ -209,7 +209,7 @@
 					<div class="card-body">
 						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
-						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
 				</div>
 			</div>

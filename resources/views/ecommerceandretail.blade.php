@@ -14,7 +14,7 @@
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Retail Shopping App Development Services</h1>
-					<p class="banner-para mt20">Effortlessly connect with your customers and boost sales with our tailored app and web development solutions. Enable your customers to make purchases with a simple click or tap. Our end-to-end ecommerce solutions cover everything from order processing to checkout. Contact us for a quote today.</p>
+					<p class="banner-para mt20">Effortlessly connect with your customers and boost sales with our tailored app and web development solutions. Enable your customers to make purchases with a simple click or tap. Our end-to-end e-commerce solutions cover everything from order processing to check out. Contact us for a quote today.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -31,8 +31,8 @@
 	<div class="container">
 		<div class="row small mt0">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
-				<h2>Smart Ecommerce Integrated Applications</h2>
-				<p class="pt-3">As online shopping continues to surge in popularity, many business owners are transitioning to ecommerce stores. Whether you're launching a new e-store or enhancing an existing marketplace, we can help bring your vision to life with our innovative apps. Our services include:</p>
+				<h2>Smart E-commerce Integrated Applications</h2>
+				<p class="pt-3">As online shopping continues to surge in popularity, many business owners are transitioning to e-commerce stores. Whether you're launching a new e-store or enhancing an existing marketplace, we can help bring your vision to life with our innovative apps. Our services include:</p>
 				<ul class="ps-5 pt-3">
 					<li>E-Commerce and M-Commerce based Smart Apps.</li>
 					<li>Quick checkout integrated custom web solutions.</li>
@@ -67,7 +67,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

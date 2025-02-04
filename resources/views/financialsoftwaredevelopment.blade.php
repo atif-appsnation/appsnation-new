@@ -77,12 +77,12 @@
 <!--Start Experties-->
 <section class="service py-5">
 	<div class="container">
-		<div class="row justify-content-center text-center">
+		<div class="row justify-content-center">
 			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Banking And Finance App Development Expertise</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
-				<p>AppsNation is one of the best mobile app development companies providing a range of custom banking and finance software solutions that enable financial businesses to increase customer loyalty and grow their revenues while also simplifying day-to-day processes. We have a great experience building various complex banking and finance applications for different industries.</p>
+				<p>AppsNation is one of the best mobile app development companies providing a range of custom banking and finance software solutions that enable financial businesses to increase customer loyalty and grow their revenues while also simplifying day-to-day processes. We have great experience building various complex banking and finance applications for different industries.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
@@ -114,7 +114,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Cryptocurrency & E-Wallets App Development</h4>
-						<p>One of the most trending apps in the market today are cryptocurrency apps & e-Wallets. It allows you to send money, pay with real money or digital currency, and store your cryptocurrencies digitally in an e-Wallet on your phone. Our app creation service provides the most up-to-date technologies to help bitcoin and e-Wallet businesses and users.</p>
+						<p>One of the most trending apps on the market today are cryptocurrency apps & e-Wallets. It allows you to send money, pay with real money or digital currency, and store your cryptocurrencies digitally in an e-Wallet on your phone. Our app creation service provides the most up-to-date technologies to help bitcoin and e-Wallet businesses and users.</p>
 					</div>
 				</div>
 			</div>
@@ -152,7 +152,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

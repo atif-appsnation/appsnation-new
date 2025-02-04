@@ -14,7 +14,7 @@
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Advertising Apps Development</h1>
-					<p class="banner-para mt20">The demand for app and web solutions is steadily increasing in the rapidly evolving advertising industry. We offer business-driven technical solutions to assist advertising companies and production houses worldwide.</p>
+					<p class="banner-para mt20">The demand for apps and web solutions is steadily increasing in the rapidly evolving advertising industry. We offer business-driven technical solutions to assist advertising companies and production houses worldwide.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -32,7 +32,7 @@
 		<div class="row small mt0">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Strategic Advertising App & Web Development</h2>
-				<p class="pt-3">Our unique approach to strategic planning distinguishes us from our competitors in the advertising industry. We have collaborated with numerous clients worldwide in the creative sector, offering them comprehensive app and web development solutions. Our expertise lies in the following areas:</p>
+				<p class="pt-3">Our unique approach to strategic planning distinguishes us from our competitors in the advertising industry. We have collaborated with numerous clients worldwide in the creative sector, offering them comprehensive apps and web development solutions. Our expertise lies in the following areas:</p>
 				<ul class="ps-5 pt-3">
 					<li>Custom Web Development for Advertising Agencies.</li>
 					<li>Strategic App Ideation for Advertising Campaigns.</li>
@@ -67,7 +67,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

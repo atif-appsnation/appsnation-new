@@ -14,7 +14,7 @@
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Sports Teams And Leagues</h1>
-					<p class="banner-para mt20">Sports is the biggest industry, with multiple sports of different categories holding billions of fans together. As technology revolutionized, these fans demanded a sports mobile app where they could witness the competition live in their palm of hands. We help the sports industry with innovative solutions.</p>
+					<p class="banner-para mt20">Sports is the biggest industry, with multiple sports of different categories holding billions of fans together. As technology revolutionized, these fans demanded a mobile sports app where they could witness the competition live in their palm of hands. We help the sports industry with innovative solutions.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -77,12 +77,12 @@
 <!--Start Experties-->
 <section class="service py-5">
 	<div class="container">
-		<div class="row justify-content-center text-center">
+		<div class="row justify-content-center">
 			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Sports App Development Expertise</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn">
-				<p>We design and build premium sports apps that create a unique experience for fans. Our services range from journey and data visualization to next-gen augmented reality, making us your one-stop destination for all your sports app's needs. We develop Android & iOS apps—and offer expertise in cross-platform app development.</p>
+				<p>We design and build premium sports apps that create a unique experience for fans. Our services range from journey and data visualization to next-gen augmented reality, making us your one-stop destination for all your sports app's needs. We develop Android & iOS apps and offer expertise in cross-platform app development.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
@@ -98,7 +98,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Betting App Development</h4>
-						<p>Show off your sporting prowess with sports betting apps and Pari-mutuel racing applications that include all of the essential aspects of such a product. Our developers have extensive experience developing betting apps, lottery apps, casino apps, and horse racing apps.</p>
+						<p>Show off your sporting prowess with sports betting apps and Pari-mutuel racing applications that include all the essential aspects of such a product. Our developers have extensive experience developing betting apps, lottery apps, casino apps, and horse racing apps.</p>
 					</div>
 				</div>
 			</div>
@@ -106,7 +106,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Coaching And Training App Development</h4>
-						<p>Sports coaching and training tool is designed to instruct and train athletes in any sports discipline combination. Every sports discipline is represented in the app, along with extensive descriptions and video instruction. We provide cutting-edge apps that help coaches, players, trainers, and parents understand injury prevention, performance enhancement, and recovery.</p>
+						<p>Sports coaching and training tools are designed to instruct and train athletes in any sport's discipline combination. Every sports discipline is represented in the app, along with extensive descriptions and video instruction. We provide cutting-edge apps that help coaches, players, trainers, and parents understand injury prevention, performance enhancement, and recovery.</p>
 					</div>
 				</div>
 			</div>
@@ -122,7 +122,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Sports Streaming App Development</h4>
-						<p>Whether your target audience is live game streaming specialists or those who want to watch their favorite sport, we will provide you with an app that will ensure your stardom as a sports streaming app development company. You have complete control over the type of material, sports league, or team you wish to showcase.</p>
+						<p>Whether your target audience is live game streaming specialists or those who want to watch their favorite sport, we will provide you with an app that will ensure your stardom as a sports streaming app development company. You have complete control over the type of equipment, sports league, or team you wish to showcase.</p>
 					</div>
 				</div>
 			</div>
@@ -146,7 +146,7 @@
 				<div class="s-block wide-sblock app-service-block last-featured">
 					<div class="health-experties">
 						<h4>AR VR Sports App Development</h4>
-						<p>AR is the next game-changer in sports broadcasting. With our VR app, you spend less time watching the action on your screen and more time living it. Our VR app creates a virtual reality experience. Also, it enhances your viewing experience of Major League Baseball, National Hockey League, National Basketball Association, Major League Soccer, PGA Tour, and more.</p>
+						<p>AR is the next game-changer in sports broadcasting. With our VR app, you spend less time watching the action on your screen and more time experiencing it. Our VR app creates a virtual reality experience. Also, it enhances your viewing experience of Major League Baseball, National Hockey League, National Basketball Association, Major League Soccer, PGA Tour, and more.</p>
 					</div>
 				</div>
 			</div>
@@ -160,7 +160,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

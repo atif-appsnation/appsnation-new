@@ -32,9 +32,9 @@
 		<div class="row small mt0">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>VR Ready Gaming App Development</h2>
-				<p class="pt-3">Our game development experts strive to make sure your audience can enjoy new games with better graphics and more exciting stories. By using advanced technology like augmented reality, we create unique games. Some of our successful projects include:</p>
+				<p class="pt-3">Our game development experts strive to make sure our audience can enjoy new games with better graphics and more exciting stories. By using advanced technology like augmented reality, we create unique games. Some of our successful projects include:</p>
 				<ul class="ps-5 pt-3">
-					<li>Augmented Reality Based Gaming Solutions.</li>
+					<li>Augmented Reality-Based Gaming Solutions.</li>
 					<li>Unity 2D and 3D Based Game Development.</li>
 					<li>VR Ready Game Development for iOS and Android.</li>
 					<li>Custom Storyline Gaming App Development.</li>
@@ -67,7 +67,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

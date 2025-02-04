@@ -15,7 +15,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="text-white" data-wow-delay=".2s">Fitness App Service</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation uses innovative technology to design and develop fitness apps that become a go-to for fitness and sports enthusiasts, with all of the necessary features to meet their needs. We are here to put your idea into action if you want it to be validated.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation uses innovative technology to design and develop fitness apps that become a go-to for fitness and sports enthusiasts, with all the necessary features to meet their needs. We are here to put your idea into action if you want it to be validated.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -48,7 +48,7 @@
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="search" data-was-processed="true">
-							<p> <span>Management of Profile</span>Set and Edit your profile information and change your account password with this feature. Our profile system allows you to connect with your friends.</p>
+							<p> <span>Management of Profile</span>Set and edit your profile information and change your account password with this feature. Our profile system allows you to connect with your friends.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="services" data-was-processed="true">
 							<p> <span>Management of Health</span>Set and track your fitness goals with the help of a calorie counter, a sleep tracker, and a heart rate monitor. You can also look at your prior work.</p>
@@ -57,7 +57,7 @@
 							<p> <span>Management of Timeline</span>Create and share updates/statuses with your friends to keep your timeline up to date.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" alt="booking" data-was-processed="true">
-							<p> <span>Management of Newsfeed</span>Configure your newsfeed items and read Admin's recipes, meals, blogs, and articles. Also, like and share your friends' posts and statuses on your page.</p>
+							<p> <span>Management of Newsfeed</span>Configure your newsfeed items and read the Admin's recipes, meals, blogs, and articles. Also, like and share your friends' posts and statuses on your page.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" alt="mortgage" data-was-processed="true">
 							<p> <span>Favorites Panel</span>Workouts, Meal Plans, and Recipes that have been designated as favorites can be seen at any time.</p>
@@ -80,7 +80,7 @@
 							<p> <span>View Videos</span>Recipes, meal plans, and workouts are all available in video format.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="payment" data-was-processed="true">
-							<p> <span>Live Workout Sessions</span>Live training sessions for the general public, with the option to rate or book a trainer for a one-on-one session.</p>
+							<p> <span>Live Workout Sessions</span>Live training sessions for the public, with the option to rate or book a trainer for a one-on-one session.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/booking.svg" alt="wallet" data-was-processed="true">
 							<p> <span>Management of Timetable</span>View your previous and prospective private sessions' schedules.</p>
@@ -92,7 +92,7 @@
 							<p> <span>Blogs and Articles</span>Read your favorite health and fitness blogs and publications.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" alt="property" data-was-processed="true">
-							<p> <span>Subscription and Memeberships</span>Use a promo code or a discount coupon to get a discount on a premium subscription and have access to all services.</p>
+							<p> <span>Subscription and Memberships</span>Use a promo code or a discount coupon to get a discount on a premium subscription and have access to all services.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="property" data-was-processed="true">
 							<p> <span>Management of Notifications</span>Even if you're not using the app, you'll get vital notifications. You won’t miss any critical notifications with our notifications panel.</p>
@@ -134,7 +134,7 @@
 							<p> <span>Trainer Management Option</span>Trainers must be managed. View the trainer leaderboard based on user ratings and block/unblock any trainer.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/history.svg" alt="user" data-was-processed="true">
-							<p> <span>Recipes Management Option</span>Manage Recipes with the ability to add/remove Recipes.</p>
+							<p> <span>Recipes Management Option</span>Manage Recipes with the ability to add/remove recipes.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="management" data-was-processed="true">
 							<p> <span>Meal Plans Management Option</span>Manage your meal plans with the ability to add and remove them.</p>
@@ -143,7 +143,7 @@
 							<p> <span>Workouts Management Option</span>Manage public and private workout sessions, as well as the ability to add and remove the workouts.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="management" data-was-processed="true">
-							<p> <span>Videos Management Option</span>Manage Recipes, Meal Plans, and Workout Videos, as well as the ability to add and remove them.</p>
+							<p> <span>Video Management Option</span>Manage Recipes, Meal Plans, and Workout Videos, as well as the ability to add and remove them.</p>
 						</li>
 					</ul>
 				</div>
@@ -231,7 +231,7 @@
 				<div data-text="Partner" class="light-bg-text bg-text">
 					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
 				</div>
-				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its play stores where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its own play store where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 			</div>
 			<div class="col-lg-6">
 				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
@@ -252,7 +252,7 @@
 					<div class="card-body">
 						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
-						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
 				</div>
 			</div>

@@ -15,7 +15,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="text-white" data-wow-delay=".2s">Booking App Service</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">The one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">A one-of-a-kind platform where users may look for different occupations in their spare time, book a slot, submit a request, choose an automated location, and enjoy the spotlight.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -83,7 +83,7 @@
 							<p> <span>E-Wallet</span>E-wallet that is both systematic and responsive, allowing consumers to make online payments with simplicity and minimal effort.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/history.svg" alt="history" data-was-processed="true">
-							<p> <span>Maintain History</span>History of previously booked services is maintained in an active and very well form.</p>
+							<p> <span>Maintain History</span>The history of previously booked services is maintained in an active and very good form.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="reviews" data-was-processed="true">
 							<p> <span>Reviews and Ratings</span>With a simple review and rating system, you can stay up to current on your customers' experiences.</p>
@@ -125,7 +125,7 @@
 							<p> <span>Dashboard &amp; Analytics</span>Through a full admin dashboard, you can manage and examine your app statistics and analytics, as well as get quick information on all of your users, sales earnings, and so on.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="content" data-was-processed="true">
-							<p> <span>Content Management</span>Using an easy and user-friendly content management system, you can create, upload, and manage all of the information on the app, as well as make run-time modifications.</p>
+							<p> <span>Content Management</span>Using an easy and user-friendly content management system, you can create, upload, and manage all the information on the app, as well as make run-time modifications.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="user" data-was-processed="true">
 							<p> <span>User Management</span>By using a user management system, you can control and manage all application users, as well as observe their activities and learn about their interests.</p>
@@ -151,7 +151,7 @@
 							<p> <span>Reviews &amp; Ratings Management</span>Using a review and ratings management system, you can stay up to speed on your valuable customers' thoughts and experiences, as well as manage their reviews and ratings on services.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="notifications" data-was-processed="true">
-							<p> <span>Pop Up Notifications Options</span>Use the notification tool to stay up to date on your customers' actions and status.</p>
+							<p> <span>Pop-Up Notifications Options</span>Use the notification tool to stay up to date on your customers' actions and status.</p>
 						</li>
 					</ul>
 				</div>
@@ -216,7 +216,7 @@
 				<div data-text="Partner" class="light-bg-text bg-text">
 					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
 				</div>
-				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its play stores where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its own play store where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 			</div>
 			<div class="col-lg-6">
 				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
@@ -237,7 +237,7 @@
 					<div class="card-body">
 						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
-						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
 				</div>
 			</div>

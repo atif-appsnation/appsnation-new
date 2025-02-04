@@ -7567,7 +7567,7 @@ body.hc-nav-open {
 
 .hc-offcanvas-nav.nav-levels-expand .nav-container ul ul .nav-item,
 .hc-offcanvas-nav.nav-levels-none .nav-container ul ul .nav-item {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .hc-offcanvas-nav.nav-levels-expand .nav-container li,
@@ -14581,3 +14581,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Testimonials */
+
+.statistics-wrap ul li {
+    list-style: circle;
+}

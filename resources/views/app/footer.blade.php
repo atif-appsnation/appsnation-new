@@ -11,7 +11,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-12 mt-4 mt-md-4 mt-lg-0">
                 <div class="niwax23form shadow">
-                    <div class="common-heading text-l">-
+                    <div class="common-heading text-l">
                         <!-- <span>Contact Now</span> -->
                             {!! NoCaptcha::renderJs() !!}
                         <h2 class="mt0 mb0">Have Question? Write a Message</h2>
@@ -108,7 +108,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/united-arab-emirates.webp')}}" alt="UAE" class="pt-4 img-fluid w-100">
                 <h4 class="pt-4">Dubai, UAE</h4>
-                <p class="pt-3">Level 23, Boulevard Plaza, Downtown Dubai, Dubai, UAE</p>
+                <p class="pt-3">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
                 <a href="https://maps.app.goo.gl/faJuH36XexzowGta7" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>

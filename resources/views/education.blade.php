@@ -15,7 +15,7 @@
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
 					<h1 class="banner-heading">Education</h1>
-					<p class="banner-para mt20">Promoting Education and helping students learn more effectively with the new Education system – remote learning – your learning Educational mobile application can play a significant role. As the top-rated Education development services, we deliver you a top-notch solution.</p>
+					<p class="banner-para mt20">Promoting education and helping students learn more effectively with the new education system – remote learning – your educational mobile applications can play a significant role. As the top-rated education development service, we deliver you a top-notch solution.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -83,7 +83,7 @@
 				<h2>Our Education App Development Expertise</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
-				<p>AppsNation offers a diverse range of Education app development services that make our clients' jobs more straightforward and thoughtful. Using our technology and services, we alter the way Education is delivered and present significant changes to the Education industry to make it more effective than ever.</p>
+				<p>AppsNation offers a diverse range of education app development services that make our clients' jobs more straightforward and thoughtful. Using our technology and services, we alter the way Education is delivered and present significant changes to the Education industry to make it more effective than ever.</p>
 			</div>
 		</div>
 		<div class="row upset link-hover">
@@ -99,7 +99,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Online Training App Development</h4>
-						<p>Online training allows students, teachers, and other staff to get training at any time and from any location. Our developers employ the right technology to create intuitive training solutions that fulfill the Educational demands of a wide range of people while including a variety of features.</p>
+						<p>Online training allows students, teachers, and other staff to get training at any time and from any location. Our developers employ the right technology to create intuitive training solutions that fulfill the educational demands of a wide range of people while including a variety of features.</p>
 					</div>
 				</div>
 			</div>
@@ -115,15 +115,15 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Educational Game App Development</h4>
-						<p>Games attract most of us, and here we are talking about the young blood; they love games. However, gamifying Education is blooming to be mainstream as it is one of the most effective ways to make online classes more interactive and engaging. We are already leading as a top game development company, creating Educational games app is one of our expertise.</p>
+						<p>Games attract most of us, and here we are talking about the young blood; they love games. However, gamifying education is becoming to be mainstream as it is one of the most effective ways to make online classes more interactive and engaging. We are already leading a top game development company. Creating educational games apps is one of our aspects.</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
-						<h4>Mobile applications for Schools</h4>
-						<p>Usually, students from the school have a hard time learning in online Education, incompetently young to adopt the change. An Educational mobile app for schools can be a game-changer. Our experienced mobile app developers build a feature-rich Educational mobile app to enhance students' learning.</p>
+						<h4>Mobile Applications for Schools</h4>
+						<p>Usually, students from school have a hard time learning in online education, and are incompetently young to adopt the change. An educational mobile app for schools can be a game-changer. Our experienced mobile app developers build a feature-rich educational mobile app to enhance students' learning.</p>
 					</div>
 				</div>
 			</div>
@@ -131,7 +131,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile Applications For College</h4>
-						<p>Through mobile applications for college, you can provide Education through video and audio lessons, access documents and assignments, and prohibit unwanted access in a complete study environment. Our skilled mobile app developers work hard to create such apps to make Education more superficial and accessible for everyone.</p>
+						<p>Through mobile applications for college, you can provide education through video and audio lessons, access documents and assignments, and prohibit unwanted access in a complete study environment. Our skilled mobile app developers work hard to create such apps to make education more superficial and accessible for everyone.</p>
 					</div>
 				</div>
 			</div>
@@ -139,7 +139,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>Mobile Applications For University</h4>
-						<p>We can design a suitable mobile application for the university for the sake of the entire Educational institute and Education itself. Operate your university operations effectively through a centralized university mobile app solution and allow professors and students to engage actively in learning remotely with exceptional app development services.</p>
+						<p>We can design a suitable mobile application for the university for the sake of the entire educational institute and education itself. Operate your university operations effectively through a centralized university mobile app solution and allow professors and students to engage actively in learning remotely with exceptional app development services.</p>
 					</div>
 				</div>
 			</div>
@@ -147,7 +147,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>AR Learning Apps Development</h4>
-						<p>Conventional systems of Education, as we know them, are becoming obsolete. The Education technology business, or EdTech, is predicted to be worth $680.1 billion by 2027. With our perfect AR learning app development services, you can be a part of the progress to make Education more interactive.</p>
+						<p>Conventional systems of education, as we know them, are becoming obsolete. The eEducation technology business, or EdTech, is predicted to be worth $680.1 billion by 2027. With our perfect AR learning app development services, you can be a part of the process making education more interactive.</p>
 					</div>
 				</div>
 			</div>
@@ -156,7 +156,7 @@
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
 						<h4>VR Learning Apps Development</h4>
-						<p>Virtual Reality (VR) is a blooming technology that offers the most effective, safe, and demonstrative training to employees of several industries. VR has the potential to make learning more exciting and engagingly fun. Build your VR learning app now with us to make Education the favorite thing for the students.</p>
+						<p>Virtual Reality (VR) is a blooming technology that offers the most effective, safe, and demonstrative training to employees of several industries. VR has the potential to make learning more exciting and engagingly fun. Build your VR learning app now with us to make education the favorite thing for students.</p>
 					</div>
 				</div>
 			</div>
@@ -182,7 +182,7 @@
 				<h2>Thriving To Achieve Smart,Unique And State Of The Art Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
-				<p>Our team of experts have mastered the art of enabling a brand to have a solid long term, long lasting online presence by offering the best, up to date iOS, Android and wearable apps design and development services in the industry.</p>
+				<p>Our team of experts have mastered the art of enabling a brand to have a solid long-term, long-lasting online presence by offering the best, up-to-date iOS, Android and wearable apps design and development services in the industry.</p>
 			</div>
 		</div>
 		<div class="row mt-5 wow fadeIn">

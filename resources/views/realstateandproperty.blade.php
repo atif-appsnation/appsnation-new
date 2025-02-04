@@ -54,7 +54,7 @@
 				<h2>Why A Real Estate Business Must Have A Mobile App?</h2>
 				<p class="pt-3">Yes, a website is excellent for a real estate business, but a mobile app is superior. The most significant advantage of a mobile app over a website is its versatility, especially if it is a native app. The native app uses the device's features to provide users with a more in-depth and comfortable experience. And the mobile lifestyle forces people to do everything on the go. That is why you are looking for real estate app development solutions.</p>
 				<p class="pt-2">The most significant advantage of a mobile app over a website is its versatility, mainly if it is a native app. The native app uses the device's features to provide users with a more in-depth and comfortable experience. And the mobile lifestyle forces individuals to accomplish everything on the go.</p>
-				<p class="pt-2">The app aims to enhance, accelerate, and optimize several standard procedures. Real estate applications also assist real estate agents in automating some operations and improving consumer interaction. </p>
+				<p class="pt-2">The app aims to enhance, accelerate, and optimize several standard procedures. Real estate applications also assist real estate agents with automating some operations and improving consumer interaction. </p>
 			</div>
 		</div>
 	</div>
@@ -77,7 +77,7 @@
 <!--Start Experties-->
 <section class="service py-5">
 	<div class="container">
-		<div class="row justify-content-center text-center">
+		<div class="row justify-content-center">
 			<div class="col-lg-6 wow fadeIn">
 				<h2>Our Real Estate App Development Expertise</h2>
 			</div>
@@ -136,7 +136,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
-				<h2>Striving to achieve innovative and cutting-edge solutions.</h2>
+				<h2>Striving To Achieve Innovative And Cutting-Edge Solutions</h2>
 			</div>
 			<div class="col-lg-6 wow fadeIn mt-4 mt-lg-0">
 				<p>Our expert team specializes in creating a strong, long-lasting online presence for brands. We offer top-notch iOS, Android, and wearable app design and development services, ensuring your brand stays ahead in the industry.</p>

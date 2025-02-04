@@ -225,7 +225,7 @@
 				<div data-text="Partner" class="light-bg-text bg-text">
 					<h2>Why Choose <span>AppsNation</span> As Your <span>Development Partner</span></h2>
 				</div>
-				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its play stores where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
+				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its own play store where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 			</div>
 			<div class="col-lg-6">
 				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
@@ -246,7 +246,7 @@
 					<div class="card-body">
 						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
-						<p class="mb-0">Streamlined delivery intended to achieve efficiency on time.</p>
+						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
 				</div>
 			</div>

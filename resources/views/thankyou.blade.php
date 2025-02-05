@@ -30,7 +30,7 @@
             <div class="col-lg-8">
                 <!-- <div class="blog-header"> -->
                 <!-- <h1 class="text-center mb-5">Thank You</h1> -->
-                <p class="text-center">We have successfully received your request and Appsnation will contact you shortly to discuss your requirements. Meanwhile, if you have any questions or concerns, please feel free to give us a call.</p>
+                <p class="text-center">AppsNation have successfully received your request and will contact you shortly to discuss your requirements. Meanwhile, if you have any questions or concerns, please feel free to give us a call.</p>
                 <div class="-cta-btn mt70">
                     <a href="{{url('/')}}" class="btn-main button-arounder lnk">Back to Site
                         <i class="fas fa-chevron-right fa-icon"></i>

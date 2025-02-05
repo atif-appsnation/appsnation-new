@@ -77,7 +77,7 @@
 							<p> <span>Map Integration</span>Maps that are dynamic and responsive to help you find the best routes and pinpoint specific locations.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="payment" data-was-processed="true">
-							<p> <span>Gallery</span>Beautiful photographs and videos of real estate locales are displayed in a prominent and gaze gallery.</p>
+							<p> <span>Gallery</span>Beautiful photographs and videos of real estate locales are displayed in a prominent and gazing gallery.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="wallet" data-was-processed="true">
 							<p> <span>Favorites</span>The Favorites option allows you to save and create a list of your favorite properties so that you can discover them easily afterward.</p>
@@ -85,9 +85,9 @@
 						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="history" data-was-processed="true">
 							<p> <span>Push Notifications</span>Get instant information about your customers' actions, contacts, and reviews.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="reviews" data-was-processed="true">
+						<!-- <li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="reviews" data-was-processed="true">
 							<p> <span>Testimonials</span>Testimonials</p>
-						</li>
+						</li> -->
 						<li> <img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" alt="property" data-was-processed="true">
 							<p> <span>Reviews &amp; Ratings</span>Users will receive instant notifications regarding their actions and reservations.</p>
 						</li>
@@ -125,10 +125,10 @@
 							<p> <span>Dashboard &amp; statistics</span>Through a full admin dashboard, you can manage and analyze your app statistics and analytics, as well as get quick information on all of your users, sales, and earnings.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="content" data-was-processed="true">
-							<p> <span>Content Management</span>Generate, edit, and organize all of the user's content, as well as make changes in real-time, using a simple and user-friendly content management system.</p>
+							<p> <span>Content Management</span>Generate, edit, and organize all the user's content, as well as make changes in real-time, using a simple and user-friendly content management system.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="user" data-was-processed="true">
-							<p> <span>User Management</span>By using the user management system, you can see and control all of the application users, as well as their behaviors and learn about their preferences.</p>
+							<p> <span>User Management</span>By using the user management system, you can see and control all the application users, as well as their behaviors, and learn about their preferences.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/services-management.svg" alt="management" data-was-processed="true">
 							<p> <span>Properties Management</span>Property management allows you to maintain and examine a variety of real estate listings.</p>

@@ -48,7 +48,7 @@
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="search" data-was-processed="true">
-							<p> <span>User Guide</span>It includes all of the application's primary parts, which will instruct and familiarise the user with the application.</p>
+							<p> <span>User Guide</span>It includes all the application's primary parts, which will instruct and familiarise the user with the application.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="services" data-was-processed="true">
 							<p> <span>Product Listing</span>A variety of product listings will be displayed to the user, from which he can add items to his cart.</p>
@@ -119,7 +119,7 @@
 							<p> <span>Dashboard</span>Through a full admin dashboard, you can manage and analyze your app statistics and analytics, as well as get quick information on all of your users, sales, and earnings.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="content" data-was-processed="true">
-							<p> <span>Content Management</span>Generate, upload, and maintain all of the application's content, as well as make changes if needed, using a simple and user-friendly content management system.</p>
+							<p> <span>Content Management</span>Generate, upload, and maintain all the application's content, as well as make changes if needed, using a simple and user-friendly content management system.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="user" data-was-processed="true">
 							<p> <span>User Management</span>By using a user management system, you can control and manage all application users, as well as observe their activities and learn about their interests.</p>

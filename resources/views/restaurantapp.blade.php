@@ -79,7 +79,7 @@
 							<p> <span>Payment Gateway Option</span>Easy payments and check-outs with popular and advanced payment methods.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="history" data-was-processed="true">
-							<p> <span>Push Notifications Option</span>History of previously booked services is maintained in an active and very well form.</p>
+							<p> <span>Push Notifications Option</span>The history of previously booked services is maintained in an active and very well form.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" alt="property" data-was-processed="true">
 							<p> <span>Digital Receipts Option</span>By using digital receipts and invoicing, you can keep track of your food budget and costs.</p>

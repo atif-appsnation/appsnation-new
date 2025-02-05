@@ -53,7 +53,7 @@
 					</div>
 					<div class="skype-card mt20 wow fadeIn" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">
 						<div class="info-card v-center">
-							<a href="https://www.facebook.com/AppsNationUS" target="_blank">
+							<a href="https://www.facebook.com/appsnation.co" target="_blank">
 								<span><i class="fa-brands fa-facebook"></i> Facebook</span>
 							</a>
 						</div>

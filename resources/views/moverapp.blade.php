@@ -15,7 +15,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="text-white" data-wow-delay=".2s">Mover App Service</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Do you have any plans to relocate your residence? Or do you require assistance in packing and transferring items from your home to a friend's home? All of this is possible with Apps Nation.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Do you have any plans to relocate your residence? Or do you require assistance with packing and transferring items from your home to a friend's home? All of this is possible with Apps Nation.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -48,10 +48,10 @@
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" alt="search" data-was-processed="true">
-							<p> <span>Profile Management</span>Change your password or edit your profile. You can also View Courier's Reviews and Ratings.</p>
+							<p> <span>Profile Management</span>Change your password or edit your profile. You can also the view Courier's Reviews and Ratings.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="services" data-was-processed="true">
-							<p> <span>Order Management</span>Create a new order and choose an order type based on your item. View your Order History and there is also an option of Cancel Order.</p>
+							<p> <span>Order Management</span>Create a new order and choose an order type based on your item. View your Order History and there is also an option to Cancel Order.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/search.svg" alt="property" data-was-processed="true">
 							<p> <span>Search Nearby Courier persons</span>For the customer’s ease, the app searches for close or nearby courier persons.</p>
@@ -68,13 +68,13 @@
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/check-out.svg" alt="check" data-was-processed="true">
-							<p> <span>Rate your experience with Courier</span>You can easily rate your experience with the courier person so you get the best service next time.</p>
+							<p> <span>Rate your experience with Courier</span>You can easily rate your experience with the person courier so you get the best service next time.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/payment-gateways.svg" alt="payment" data-was-processed="true">
-							<p> <span>Membership & Subscription</span>Customers can avail of Promo Code and Discount Coupons Premium with the availability of User Subscription plans.</p>
+							<p> <span>Membership & Subscription</span>Customers can avail of promo code and discount coupons premium with the availability of user subscription plans.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/e-wallet.svg" alt="wallet" data-was-processed="true">
-							<p> <span>Notifications Management</span>With Notification Listing Section, and Push Notifications options, you can manage the foreground and background app data.</p>
+							<p> <span>Notifications Management</span>With the notification listing section, and push notifications options, you can manage the foreground and background app data.</p>
 						</li>
 					</ul>
 				</div>
@@ -107,13 +107,13 @@
 				<div class="common-heading listSec text-l pl25">
 					<ul>
 						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" alt="analytics" data-was-processed="true">
-							<p> <span>Profile Management</span>Change your password or edit your profile Customer Reviews & Ratings are available to view.</p>
+							<p> <span>Profile Management</span>Change your password or edit your profile. Customer reviews & ratings are available to view.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="content" data-was-processed="true">
-							<p> <span>Request Management</span>Look at the Customer Requests Answer Customer's Requests Request Cancelled / Rejected History of Requests</p>
+							<p> <span>Request Management</span>Look at the customer requests. Answer customer's requests, request cancelled / rejected history of rrequests.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="user" data-was-processed="true">
-							<p> <span>Manage & Plan Travel Route</span>Make a travel itinerary Respond to Requests in the vicinity of the travel route Cancellation of Travel Plans View the Travel Plan timeline.</p>
+							<p> <span>Manage & Plan Travel Route</span>Make a travel itinerary. Respond to requests in the vicinity of the travel route. Cancellation of travel plans view the travel plan timeline.</p>
 						</li>
 						<li> <img class="lazy loaded" src="images/solutions/services-management.svg" alt="management" data-was-processed="true">
 							<p> <span>Live Navigation</span>With a live navigation option, it becomes easier for the users to navigate their orders.</p>

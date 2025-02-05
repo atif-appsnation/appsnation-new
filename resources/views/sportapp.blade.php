@@ -48,7 +48,7 @@
                 <div class="common-heading listSec text-l pl25">
                     <ul>
                         <li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="search" data-was-processed="true">
-                            <p> <span>User Guide</span>It includes all of the application's primary parts, which will instruct and familiarise the user with the application.</p>
+                            <p> <span>User Guide</span>It includes all the application's primary parts, which will instruct and familiarise the user with the application.</p>
                         </li>
                         <li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="services" data-was-processed="true">
                             <p> <span>Product Listing</span>A variety of product listings will be displayed to the user, from which he can add items to his cart.</p>

@@ -33,7 +33,7 @@
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Strategic Advertising App & Web Development</h2>
 				<p class="pt-3">Our unique approach to strategic planning distinguishes us from our competitors in the advertising industry. We have collaborated with numerous clients worldwide in the creative sector, offering them comprehensive apps and web development solutions. Our expertise lies in the following areas:</p>
-				<ul class="ps-5 pt-3">
+				<ul class="content-list mt-3">
 					<li>Custom Web Development for Advertising Agencies.</li>
 					<li>Strategic App Ideation for Advertising Campaigns.</li>
 					<li>Campaign-centic web and native app development.</li>

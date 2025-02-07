@@ -33,7 +33,7 @@
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>VR Ready Gaming App Development</h2>
 				<p class="pt-3">Our game development experts strive to make sure our audience can enjoy new games with better graphics and more exciting stories. By using advanced technology like augmented reality, we create unique games. Some of our successful projects include:</p>
-				<ul class="ps-5 pt-3">
+				<ul class="content-list mt-3">
 					<li>Augmented Reality-Based Gaming Solutions.</li>
 					<li>Unity 2D and 3D Based Game Development.</li>
 					<li>VR Ready Game Development for iOS and Android.</li>

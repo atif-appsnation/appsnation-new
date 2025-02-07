@@ -10657,12 +10657,16 @@ button:not(:disabled) {
 .content-list {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    list-style-type: circle;
-    padding-left: 20px;
 }
 
 .content-list li {
     margin-bottom: 15px;
+    margin-right: 15px;
+    padding: 20px;
+    background-color: #eee;
+    color: var(--black-color);
+    border-radius: 50px;
+    width: auto;
 }
 
 .ar-choose-section h2 {
@@ -14583,7 +14587,3 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Testimonials */
-
-.statistics-wrap ul li {
-    list-style: circle;
-}

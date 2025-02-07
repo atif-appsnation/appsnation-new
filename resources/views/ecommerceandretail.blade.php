@@ -33,7 +33,7 @@
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Smart E-commerce Integrated Applications</h2>
 				<p class="pt-3">As online shopping continues to surge in popularity, many business owners are transitioning to e-commerce stores. Whether you're launching a new e-store or enhancing an existing marketplace, we can help bring your vision to life with our innovative apps. Our services include:</p>
-				<ul class="ps-5 pt-3">
+				<ul class="content-list mt-3">
 					<li>E-Commerce and M-Commerce based Smart Apps.</li>
 					<li>Quick checkout integrated custom web solutions.</li>
 					<li>Conversion Tracking iOS and Android Ecommerce Applications.</li>

@@ -32,7 +32,7 @@
 			<div class="ccol-12 col-sm-12 col-md-12 col-lg-7 my-auto wow fadeIn">
 				<h2>Strategically Wireframed Tech Apps And Solutions</h2>
 				<p class="pt-3">We specialize in creating user-friendly apps that simplify complex functions, ensuring your development solutions are easy to use and human-friendly. Our dedicated software development team, combined with our skilled app and web engineers, is committed to helping you stay ahead in this industry. Notable developments include:</p>
-				<ul class="ps-5 pt-3">
+				<ul class="content-list mt-3">
 					<li>GPS Enabled Transportation Apps.</li>
 					<li>VR Ready Movie Player Applications.</li>
 					<li>Financial Debt Calculator Software.</li>

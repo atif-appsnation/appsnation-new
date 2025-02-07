@@ -33,7 +33,7 @@
 			<div class="col-12 col-sm-12 col-md-12 col-lg-8 my-auto wow fadeIn">
 				<h2>Customer-Centric Travel And Hospitality Application Development</h2>
 				<p class="pt-3">We offer diverse iOS and Android app development services in the travel and hospitality industry, ranging from assisting customers in finding the right hotel using GPS tracking to discovering the newest restaurants in the region. Our track record in this industry includes:</p>
-				<ul class="ps-5 pt-3">
+				<ul class="content-list mt-3">
 					<li>GPS enabled Hotel Finder Applications on iOS and Android.</li>
 					<li>Region Based Restaurant Location Apps.</li>
 					<li>NFC Payment enabled apps for smoother transactions.</li>

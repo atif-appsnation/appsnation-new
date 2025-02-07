@@ -12,18 +12,18 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Empower Your Business with Next-Gen Digital Solutions</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">At AppsNation, we are passionate about crafting transformative experiences that propel businesses forward. Our innovative approach and relentless focus on customer satisfaction help you navigate the complexities of the digital world, delivering results that matter and fostering impactful change.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">At <a href="{{url('/')}}">AppsNation</a> , we are passionate about crafting transformative experiences that propel businesses forward. Our innovative approach and relentless focus on customer satisfaction help you navigate the complexities of the digital world, delivering results that matter and fostering impactful change.</p>
 					<ul class="mt20 content-list text-white">
-						<li>Android App Development</li>
-						<li>iOS App Development</li>
-						<li>Game App Development</li>
-						<li>Cross Platform App Development</li>
-						<li>AR (Augmented Reality) App Development</li>
-						<li>VR (Virtual Reality) App Development</li>
-						<li>E-Commerce App Development</li>
-						<li>Web App Development</li>
-						<li>IoT (Internet of Things) App Development</li>
-						<li>Wearable App Development</li>
+						<li><a href="{{url('/android-app-development')}}">Android App Development</a></li>
+						<li><a href="{{url('/ios-app-development')}}">iOS App Development</a></li>
+						<li><a href="{{url('/game-app-development')}}">Game App Development</a></li>
+						<li><a href="{{url('/cross-platform-app-development')}}">Cross Platform App Development</a></li>
+						<li><a href="{{url('/ar-app-development')}}">AR (Augmented Reality) App Development</a></li>
+						<li><a href="{{url('/vr-app-development')}}">VR (Virtual Reality) App Development</a></li>
+						<li><a href="{{url('/e-commerce-app-development')}}">E-Commerce App Development</a></li>
+						<li><a href="{{url('/web-app-development')}}">Web App Development</a></li>
+						<li><a href="{{url('/iot-app-development')}}">IoT (Internet of Things) App Development</a></li>
+						<li><a href="{{url('/wearable-app-development')}}">Wearable App Development</a></li>
 					</ul>
 				</div>
 			</div>
@@ -93,8 +93,8 @@
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Services</span></h2>
 					</div>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
-					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. <a href="{{url('/')}}">AppsNation</a> is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
+					<p><a href="{{url('/')}}">AppsNation</a> is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. <a href="{{url('/')}}">AppsNation</a> builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
 				</div>
 			</div>
 		</div>

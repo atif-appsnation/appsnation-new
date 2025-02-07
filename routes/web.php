@@ -124,3 +124,5 @@ Route::get('/locations','HomeController@locations');
 
 
 Route::get('/review-data','ScraperController@scrapeTestimonials');
+Route::get('/upcity-review-data','ScraperController@upCityTestimonials');
+

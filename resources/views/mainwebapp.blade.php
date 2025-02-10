@@ -13,7 +13,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Web Portal Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via web portal developed by our expert AR app developers.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via web portal developed by our expert <a href="{{url('/ar-app-development')}}" target="_blank">AR app developers.</a></p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 mt-4 mt-md-auto wow fadeIn">
@@ -37,7 +37,7 @@
 				<div data-text="Web Portal" class="light-bg-text bg-text">
 					<h2>Top-Notch<br> <span class="flup-theme">Web Portal Development Services</span></h2>
 				</div>
-				<p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest application development services.</p>
+				<p>Turning your cellphone application and software related development cost into a foreseen revenue with strategically designed and modified algorithms to let you stand out in the competition. Our app developers are well equipped with the most recent tech gadgets to fulfill any of your required finest <a href="{{url('/web-app-development')}}" target="_blank">application development services</a>.</p>
 			</div>
 		</div>
 	</div>

@@ -12,7 +12,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Extended Reality (XR) Development</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Enhance productivity and transform your business processes with the most renowned Extended Reality (XR) services provider – Dream, design, deliver the experience of new dimensions with AppsNation.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Enhance productivity and transform your business processes with the most renowned Extended Reality (XR) services provider – Dream, design, deliver the experience of new dimensions with <a href="{{url('/')}}" target="_blank">AppsNation</a>.</p>
 				</div>
 			</div>
 		</div>
@@ -34,8 +34,8 @@
 					<div data-text="XR" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our <span class="flup-theme">Extended Reality (XR) </span>Development Services</h2>
 					</div>
-					<p>What is Extended Reality (XR)? Extended Reality (XR) is a collective term for all the immersive technological realities – Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). However, that is not it; these are just what we have until now. Any other relevant technology would count in as XR technology.</p>
-					<p>With the transforming world, AppsNation focuses on enabling businesses and major enterprises to revolutionize with ease with our extensive XR development services. We create custom solutions for a diverse range of problems a company may encounter. Our premium XR services deliver you the best bespoke AR, VR, and MR development strategies and services for enriched productivity, connectivity, engagement, and results.</p>
+					<p>What is Extended Reality (XR)? Extended Reality (XR) is a collective term for all the immersive technological realities – <a href="{{url('/vr-app-development')}}" target="_blank">Virtual Reality (VR)</a>, <a href="{{url('/ar-app-development')}}" target="_blank">Augmented Reality (AR)</a>, and <a href="{{url('/mr-app-development')}}" target="_blank">Mixed Reality (MR)</a>. However, that is not it; these are just what we have until now. Any other relevant technology would count in as XR technology.</p>
+					<p>With the transforming world, <a href="{{url('/')}}" target="_blank">AppsNation</a> focuses on enabling businesses and major enterprises to revolutionize with ease with our extensive XR development services. We create custom solutions for a diverse range of problems a company may encounter. Our premium XR services deliver you the best bespoke AR, VR, and MR development strategies and services for enriched productivity, connectivity, engagement, and results.</p>
 				</div>
 			</div>
 		</div>
@@ -72,8 +72,8 @@
 									<div data-text="AR" class="light-bg-text bg-text">
 										<h2><span>Augmented Reality (AR)</span> Development</h2>
 									</div>
-									<p>We are a full-service augmented reality game development company dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
-									<p>AppsNation shakes up the reality of your business with AR development services. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
+									<p>We are a full-service <a href="{{url('/ar-app-development')}}" target="_blank">augmented reality</a> <a href="{{url('/game-app-development')}}" target="_blank">game development company</a> dedicated to making your AR gaming dreams a reality. We assist you in understanding how an AR game is made, what it takes to create a game and the business elements of owning an AR game. Our specialists have been building AR games for years and have worked with various game themes and concepts.</p>
+									<p><a href="{{url('/')}}" target="_blank">AppsNation</a> shakes up the reality of your business with <a href="{{url('/ar-app-development')}}" target="_blank">AR development services</a>. Our AR development services primarily focus on arousing various human perceptions and receiving unparalleled levels of involvement.</p>
 								</div>
 							</div>
 						</div>

@@ -12,7 +12,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mixed Reality (MR) Development</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Virtual Reality (VR) and Augmented Reality (AR) are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s"><a href="{{url('/vr-app-development')}}" target="_blank">Virtual Reality (VR)</a> and <a href="{{url('/ar-app-development')}}" target="_blank">Augmented Reality (AR)</a> are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
 				</div>
 			</div>
 		</div>
@@ -52,7 +52,7 @@
 					<div data-text="Our Services" class="light-bg-text bg-text">
 						<h2>Our<span>Mixed Reality (MR)</span> Development Services</h2>
 					</div>
-					<p>We produce high-quality Mixed Reality (MR) experiences with our 3D and 2D visualizers. With our capabilities, you can create a diverse range of Mixed Reality experiences, a powerful blend of real-life objects, realistic environments, and computer-generated animation.</p>
+					<p>We produce high-quality Mixed Reality (MR) experiences with our <a href="{{url('/3d-art')}}" target="_blank">3D</a> and <a href="{{url('/2d-art')}}" target="_blank">2D</a> visualizers. With our capabilities, you can create a diverse range of Mixed Reality experiences, a powerful blend of real-life objects, realistic environments, and computer-generated animation.</p>
 				</div>
 			</div>
 		</div>

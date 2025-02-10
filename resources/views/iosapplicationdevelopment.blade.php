@@ -40,8 +40,8 @@
 						<h2>Top-Notch<br><span class="flup-theme">iOS App Development Services</span></h2>
 					</div>
 					<p><strong>Get yourself an industry-standard iOS application with AppsNation's most competent and expert iOS developers.</strong></p>
-					<p>AppsNation creates appealing iOS apps depending on your company's needs. Our highly skilled iOS developers create incredibly functional and user-friendly iPhone applications that can be deployed on various platforms. AppsNation is renowned for producing quality iOS apps for any business.</p>
-					<p>We are the leading iOS app development company with cost-effective methodologies to make our top iOS developers connect with everyone. We thrive on digitalizing businesses with our innovative iOS applications with edge-cutting technology and tools, including tempting UI/UX designs. We automate your business processes with your envisioned ideal iOS application. What you dream and imagine will be in the palm of your hands with our custom mobile app development service.</p>
+					<p><a href="{{url('/')}}" target="_blank">AppsNation</a> creates appealing iOS apps depending on your company's needs. Our highly skilled iOS developers create incredibly functional and user-friendly iPhone applications that can be deployed on various platforms. AppsNation is renowned for producing quality iOS apps for any business.</p>
+					<p>We are the leading iOS app development company with cost-effective methodologies to make our top iOS developers connect with everyone. We thrive on digitalizing businesses with our innovative iOS applications with edge-cutting technology and tools, including tempting UI/UX designs. We automate your business processes with your envisioned ideal iOS application. What you dream and imagine will be in the palm of your hands with our custom <a href="{{url('/mobile-app-development')}}" target="_blank">mobile app development service.</a></p>
 					<a href="pdf/ios-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download iOS App Profile
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -62,7 +62,7 @@
 					<div data-text="Our Services" class="light-bg-text bg-text">
 						<h2>Custom <span>iOS App</span> Development Services</h2>
 					</div>
-					<p class="mb-0">AppsNation is the top iOS app development company with a pool of services to create a bespoke iOS application</p>
+					<p class="mb-0"><a href="{{url('/')}}" target="_blank">AppsNation</a> is the top iOS app development company with a pool of services to create a bespoke iOS application</p>
 				</div>
 			</div>
 		</div>

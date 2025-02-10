@@ -38,8 +38,8 @@
 						<h2>Why You Must Have A <span class="flup-theme">Web App</span></h2>
 					</div>
 					<p><strong>Trying to find the best web app development company? </strong></p>
-					<p>Apps Nation is a custom web application development company that provides unique web applications for a variety of businesses. </p>
-					<p>We provide technological consultancy, customized web apps, eCommerce solutions, CMS web apps, and web portal creation as well as end-to-end custom web development and app development services.</p>
+					<p><a href="{{url('/')}}" target="_blank">AppsNation</a> is a custom web application development company that provides unique web applications for a variety of businesses. </p>
+					<p>We provide technological consultancy, customized web apps, <a href="{{url('/e-commerce-app-development')}}" target="_blank">eCommerce solutions</a>, CMS web apps, and web portal creation as well as end-to-end custom web development and <a href="{{url('/mobile-app-development')}}" target="_blank">app development services</a>.</p>
 				</div>
 			</div>
 		</div>
@@ -56,7 +56,7 @@
 					<div data-text="Our Services" class="light-bg-text bg-text">
 						<h2>Our Unrivaled <span>Web Application</span> Development Services</h2>
 					</div>
-					<p class="mb30">Our custom web application developers have extensive expertise in creating cross-platform apps utilizing cutting-edge technology.</p>
+					<p class="mb30">Our custom web application developers have extensive expertise in creating <a href="{{url('/cross-platform-app-development')}}" target="_blank">cross-platform apps</a> utilizing cutting-edge technology.</p>
 				</div>
 			</div>
 		</div>

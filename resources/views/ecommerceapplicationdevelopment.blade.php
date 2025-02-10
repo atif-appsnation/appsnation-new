@@ -13,7 +13,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">E-Commerce Development Company</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation focuses on creating E-commerce solutions that are both technically powerful and unique in the market, giving you a competitive advantage. You require someone to manage your existing digital assets and provide your company with a positive client experience.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s"><a href="{{url('/')}}" target="_blank">AppsNation</a> focuses on creating <a href="{{url('/ecommerce-and-retail')}}" target="_blank">E-commerce solutions</a> that are both technically powerful and unique in the market, giving you a competitive advantage. You require someone to manage your existing digital assets and provide your company with a positive client experience.</p>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
@@ -39,9 +39,9 @@
 					<div data-text="ECommerce" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our<br> <span class="flup-theme">E-Commerce Application Development Services</span></h2>
 					</div>
-					<p>AppsNation is a custom e-Commerce development company that specialises in creating beautiful platforms and accelerating e-Commerce initiatives.</p>
+					<p><a href="{{url('/')}}" target="_blank">AppsNation</a> is a custom <a href="{{url('/e-commerce-app-development')}}" target="_blank">e-Commerce development company</a> that specialises in creating beautiful platforms and accelerating e-Commerce initiatives.</p>
 					<p>As a reputable ecommerce website design company, we unlock the power of eCommerce platforms to provide you with feature-rich, distinctive, and dependable eCommerce websites.</p>
-					<p>Using Drupal, Magento development, WooCommerce, Shopify, and BigCommerce, our skilled team of highly qualified web developers produces customer-focused digital products Ecommerce web apps.</p>
+					<p>Using Drupal, Magento development, WooCommerce, Shopify, and BigCommerce, our skilled team of highly qualified <a href="{{url('/web-app-development')}}" target="_blank">web developers</a> produces customer-focused digital products Ecommerce web apps.</p>
 				</div>
 			</div>
 		</div>

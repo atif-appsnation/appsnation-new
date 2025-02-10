@@ -43,7 +43,7 @@
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 					</div>
 					<p><strong>Get an Android app that you deserve—an appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
-					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented Android developers, more like Android wizards, striving to create your innovative, unique Android app.</p>
+					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. <a href="{{url('/')}}" target="_blank">AppsNation</a> is making the most out of it with the top-talented Android developers, more like Android wizards, striving to create your innovative, unique Android app.</p>
 					<p>AppsNation is a data-driven Android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBs, and major enterprises the solution to thrive in the industry and make a statement with a remarkable Android application. AppsNation builds Android apps with visually appealing UI/UX that work flawlessly on all devices regardless of the screen size.</p>
 					<a href="pdf/android-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Android App Profile
 						<i class="fas fa-chevron-right fa-icon"></i>
@@ -65,7 +65,7 @@
 					<div data-text="Our Services" class="light-bg-text bg-text">
 						<h2>Our Unrivaled <span>Android App</span> Development Services</h2>
 					</div>
-					<p>AppsNation Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
+					<p><a href="{{url('/')}}" target="_blank">AppsNation</a> Android App development services are the light of hope for you to reshape your business with more digital traction.</p>
 				</div>
 			</div>
 		</div>
@@ -285,7 +285,7 @@
 					<div data-text="Choose Us" class="dark-bg-text bg-text">
 						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
 					</div>
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as <a href="{{url('/ar-app-development')}}" target="_blank">Augmented Reality</a>, <a href="{{url('/vr-app-development')}}" target="_blank">Virtual Reality</a>, <a href="{{url('/mr-app-development')}}" target="_blank">Mixed Reality</a>, and Blockchain.</p>
 				</div>
 			</div>
 		</div>

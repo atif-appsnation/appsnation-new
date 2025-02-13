@@ -27,11 +27,11 @@
 
 <!--Start About-->
 <section class="service py-5">
-	<div class="">
+	<div class="container">
 		<div class="row">
 			<div class="col-lg-5 my-auto wow fadeIn">
 				<div class="image-block">
-					<img src="images/connected-devices/connected-devices.webp" alt="Connected Devices" class="img-fluid no-shadow" />
+					<img src="images/services/ar-vr-app-development/ar-vr.webp" alt="AR VR" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-lg-auto">

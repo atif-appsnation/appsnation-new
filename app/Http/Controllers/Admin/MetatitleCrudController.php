@@ -145,6 +145,9 @@ class MetatitleCrudController extends CrudController
                 'gymWeb' => 'gymWeb',
                 'moverApps' => 'moverApps',
                 'moverWeb' => 'moverWeb',
+                'new_york' => 'new_york',
+                'los_angeles' => 'los_angeles',
+                'san_francisco' => 'san_francisco',
             ],
 
             'allows_null' => false,

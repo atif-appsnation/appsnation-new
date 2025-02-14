@@ -58,7 +58,7 @@
 					<div data-text="Our Services" class="light-bg-text bg-text">
 						<h2>Our Unrivaled <span>E-Commerce Development</span> Services</h2>
 					</div>
-					<p>IoT software development company can help you start a revolution in the IoT arena and accelerate business growth and progress. Utilize the power of our IoT solutions to create a digital bridge between machines and people through the convergence of innovative technologies.</p>
+					<p>Empower your online business with cutting-edge e-commerce solutions designed for seamless user experiences and accelerated growth. Our expertise in e-commerce development ensures secure, scalable, and high-performing platforms that drive conversions and customer engagement. Leverage the latest technologies to create a digital marketplace that stands out in the competitive landscape.</p>
 				</div>
 			</div>
 		</div>

@@ -2540,7 +2540,7 @@ class HomeController extends Controller
     }
     public function oman()
     {
-        $metabank = Metabank::where('slug', 'onoman')->where('type', 'Tag')->get();
+        $metabank = Metabank::where('slug', 'oman')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'oman')->where('type', 'Meta')->get();
         $metatag = Metatag::where('slug', 'oman')->get();
         $metatitle = Metatitle::where('slug', 'oman')->get();

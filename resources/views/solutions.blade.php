@@ -150,7 +150,7 @@
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
-				<a href="{{url('/loyalty-app')}}" class="solutions-link">
+				<a href="{{url('/loyaltyapp')}}" class="solutions-link">
 					<div class="solutions-image">
 						<img src="images/industries/education.webp" alt="Loyalty App" class="img-fluid">
 					</div>
@@ -163,7 +163,7 @@
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
-				<a href="{{url('/mover-app')}}" class="solutions-link">
+				<a href="{{url('/moverapp')}}" class="solutions-link">
 					<div class="solutions-image">
 						<img src="images/industries/financial-software-development.webp" alt="Moverg App" class="img-fluid">
 					</div>
@@ -176,7 +176,7 @@
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
-				<a href="{{url('/real-estate-app')}}" class="solutions-link">
+				<a href="{{url('/realestate-app')}}" class="solutions-link">
 					<div class="solutions-image">
 						<img src="images/industries/gaming-and-leisure.webp" alt="Real Estate App" class="img-fluid">
 					</div>

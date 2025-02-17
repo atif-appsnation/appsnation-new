@@ -88,7 +88,7 @@
 			"aggregateRating": {
 			  "@type": "AggregateRating",
 			  "ratingValue": "4.9",
-			  "reviewCount": "1587"
+			  "reviewCount": "769"
 			}
 		}
 	</script>
@@ -447,7 +447,7 @@
 													
 													<li class="pt-4">
 														<a href="{{url('/moverapp')}}">
-															<div class="menu-item-img"> <img src="{{asset('images/menu/mover-app.webp')}}" class="services-icons" alt="Mover App"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/moverapp.webp')}}" class="services-icons" alt="Mover App"> </div>
 															<div class="menu-item-title align-middle">Mover App</div>
 														</a>
 													</li>
@@ -611,7 +611,7 @@
 							<li><a href="{{url('/fitness-app')}}">Fitness App</a></li>
 							<li><a href="{{url('/fleet-app')}}">Fleet App</a></li>
 							<li><a href="{{url('/loyaltyapp')}}">Loyalty App</a></li>
-							<li><a href="{{url('/mover-app')}}">Mover App</a></li>
+							<li><a href="{{url('/moverapp')}}">Mover App</a></li>
 							<li><a href="{{url('/realestate-app')}}">Real Estate App</a></li>
 							<li><a href="{{url('/restaurant-app')}}">Restaurant App</a></li>
 							<li><a href="{{url('/shopping-express-app')}}">Shopping Express App</a></li>

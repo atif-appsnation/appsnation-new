@@ -447,7 +447,7 @@
 													
 													<li class="pt-4">
 														<a href="{{url('/moverapp')}}">
-															<div class="menu-item-img"> <img src="{{asset('images/menu/moverapp.webp')}}" class="services-icons" alt="Mover App"> </div>
+															<div class="menu-item-img"> <img src="{{asset('images/menu/mover-app.webp')}}" class="services-icons" alt="Mover App"> </div>
 															<div class="menu-item-title align-middle">Mover App</div>
 														</a>
 													</li>

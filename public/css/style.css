@@ -14394,7 +14394,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     background: rgba(255, 255, 255, .65);
 }
 
-.new-york-about {
+.new-york-about, .about2 {
     background: url(../images/locations/new-york/scale-your-business-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;

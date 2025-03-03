@@ -10654,6 +10654,17 @@ button:not(:disabled) {
     background: var(--black2-color);
 }
 
+.services-content-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+.services-content-list li {
+    margin-bottom: 15px;
+}
+
 .content-list {
     display: grid;
     grid-template-columns: 1fr 1fr;

@@ -14402,7 +14402,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .new-york-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
 }
 
 .new-york-about, .about2 {
@@ -14432,7 +14432,15 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .los-angeles-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
+}
+
+.los-angeles-about {
+    background: url(../images/locations/austin/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
 }
 
 /* End Los Angeles */
@@ -14447,7 +14455,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .houston-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
 }
 
 /* End Houston */
@@ -14462,7 +14470,15 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .austin-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
+}
+
+.austin-about {
+    background: url(../images/locations/austin/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
 }
 
 /* End Houston */
@@ -14477,7 +14493,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .dallas-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
 }
 
 /* End Dallas */
@@ -14492,7 +14508,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .san-francisco-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
 }
 
 .san-francisco-about {
@@ -14522,7 +14538,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .karachi-banner .niwax23form {
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255, 255, 255, 1);
 }
 
 .karachi-about {

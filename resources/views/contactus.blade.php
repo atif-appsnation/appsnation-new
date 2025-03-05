@@ -47,7 +47,7 @@
 							<span><i class="fas fa-envelope"></i> Email:</span>
 							<div class="info-body">
 								<p>Our support team will get back to in 24-h during standard business hours.</p>
-								<a href="mailto:info@appsnation.com">info@appsnation.com</a>
+								<a href="mailto:info@appsnation.co">info@appsnation.co</a>
 							</div>
 						</div>
 					</div>

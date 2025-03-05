@@ -123,7 +123,7 @@
 				</a>
 			</li>
 			<li class="sm-item">
-				<a href="tel:tel:+13237989803" class="white black">
+				<a href="tel:+13237989803" class="white black">
 					<span class="sm-icon">
 						<i class="fas fa-phone-alt"></i>
 					</span>
@@ -148,7 +148,7 @@
 			<div class="menu-header">
 				<div class="dsk-logo">
 					<a class="nav-brand" href="{{url('/')}}">
-						<img src="{{asset('images/logo/appsnation-white-logo.svg')}}" alt="Logo" class="mega-white-logo" />
+						<img src="{{asset('images/logo/appsnation-white-logo.webp')}}" alt="Logo" class="mega-white-logo" />
 						<img src="{{asset('images/logo/appsnation-black-logo.svg')}}" alt="Logo" class="mega-darks-logo" />
 					</a>
 				</div>

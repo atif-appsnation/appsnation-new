@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 new-york-banner">
+<section class="breadcrumb-areav2 los-angeles-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -11,7 +11,7 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in New York</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Los Angeles</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the USA's leading mobile app development company based in Los Angeles. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
 				</div>
 				<div class="row mt-3">
@@ -103,16 +103,14 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in New York</h2>
+						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Los Angeles</h2>
 					</div>
-					<p>Mobile applications are the new ways of customer engagement, having the solution always at the fingertips of the customers.</p>
-					<p>Headquartered in New York City, AppsNation is one name trusted for mobile app development. From innovative iOS and Android apps to seamless multi-platform solutions, our team crafts applications that speak to user needs and business goals.</p>
-					<p>From the heart of Manhattan to each and every business in New York, AppsNation creates powerful applications that are user-driven and meant for success. Having worked on over 100 projects in our portfolio, we are your partner to navigate the competitive New York market.</p>
+					<p>AppsNation is a business-grade, top mobile app development Agency in Los Angeles helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Los Angeles. </p>
 				</div>
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/new-york/new-york.webp" alt="New York" class="img-fluid no-shadow" />
+					<img src="images/locations/los-angeles/los-angeles.webp" alt="Los Angeles" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -121,21 +119,18 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="new-york-about pt60 pb60">
+<section class="about2 pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in New York</h2>
+						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Los Angeles</h2>
 					</div>
-					<p class="text-white">You cannot lag behind when 96% of the New York population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in New York to digitalize yourself.</p>
-					<p class="text-white">Partner with a leading mobile app development company in New York to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
+					<p class="text-white">You cannot lag behind when 96% of the Los Angeles population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Los Angeles to digitalize yourself.</p>
+					<p class="text-white">Partner with a leading mobile app development company in Los Angeles to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
-			</div>
-			<div class="col-lg-6 block-1 wow fadeIn">
-				<img src="images/locations/new-york/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -149,7 +144,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text text-center">
-						<h2>App Development Services in <span>New York</span></h2>
+						<h2>App Development Services in <span>Los Angeles</span></h2>
 					</div>
 				</div>
 			</div>
@@ -166,7 +161,7 @@
 							<h4>Android App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>All native apps worldwide become yours. With our tech stack Java or Kotlin, build your app ideas with precision and creativity, specifically tailored for San Francisco, California.</p>
+							<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
 							<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -184,7 +179,7 @@
 							<h4>iOS App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>With AppsNation iPhone app development, turn your vision into iOS heaven. Sophisticated, seamless native apps crafted to meet Apple standards and guidelines, tailored for the tech-savvy audience in San Francisco, California.</p>
+							<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
 							<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -202,7 +197,7 @@
 							<h4>Cross-Platform App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Deliver efficiency and success across multiple platforms with our cross-platform solutions tailored for businesses in California. AppsNation specializes in creating versatile apps that perform seamlessly, offering innovative solutions for companies in San Francisco looking to stay ahead in a competitive market.</p>
+							<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
 							<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -220,7 +215,7 @@
 							<h4>Game App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Step into the rapidly growing gaming industry with AppsNation’s mobile game development. Whether it’s shooting, arcade, RPG, or strategy games, we bring your ideas to life for the vibrant and diverse market of San Francisco, California. Our captivating and revenue-generating game apps are designed to leave a lasting impact.</p>
+							<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
 							<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -238,7 +233,7 @@
 							<h4>Web App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We excel in scalable web app development, blending advanced technologies with creative designs to set your business apart. AppsNation develops web applications that perfectly align with the dynamic business environment of San Francisco, California, offering outstanding functionality and exceptional user experiences.</p>
+							<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
 							<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -257,7 +252,7 @@
 							<h4>Wearable App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Harness the power of wearable technology with AppsNation’s expertise in wearable app development in San Francisco, California. From smartwatches to fitness trackers, we design intelligent and user-friendly apps that resonate with the ever-evolving wearable tech market in California.</p>
+							<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
 							<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -275,7 +270,7 @@
 							<h4>AR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Bring your ideas to life with immersive augmented reality experiences from AppsNation. Our AR app development services in San Francisco, California, are designed to engage users and create unforgettable interactions. We help businesses explore new dimensions in marketing, training, and consumer engagement with cutting-edge AR solutions.</p>
+							<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
 							<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -293,7 +288,7 @@
 							<h4>VR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Revolutionize user interaction with AppsNation’s VR app development in San Francisco, California. We create fully immersive virtual environments tailored to your business needs, offering unparalleled experiences that captivate your audience and redefine digital engagement in the California market.</p>
+							<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
 							<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -311,7 +306,7 @@
 							<h4>MR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Leading the charge in Mixed Reality innovation, AppsNation develops MR apps in San Francisco, California, that seamlessly blend real and virtual worlds. From retail to education, our solutions provide interactive, real-time experiences that empower businesses in California to innovate and thrive in a competitive landscape.</p>
+							<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
 							<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -554,7 +549,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in New York</h2>
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Los Angeles</h2>
 					</div>
 				</div>
 			</div>
@@ -641,7 +636,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>App</span> Development Process in New York</h2>
+						<h2>Our <span>App</span> Development Process in Los Angeles</h2>
 					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
@@ -697,7 +692,7 @@
 
 <!--Start Let's Work Together-->
 <div class="row justify-content-center hire-developer hire-developer-app-development">
-	<div class="col-lg-9">
+	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
 			<p class="text-center text-lg-start text-white">We Promise. <span>We Deliver.</span> </p>
 		</div>
@@ -715,7 +710,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Services" class="light-bg-text bg-text mt-5 text-center">
-						<h2>Our <span>Services</span> in New York</h2>
+						<h2>Our <span>Services</span> in Los Angeles</h2>
 					</div>
 				</div>
 			</div>
@@ -766,15 +761,15 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="new-york-partner pt60 pb60 mt-5">
+<section class="partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Partner" class="light-bg-text bg-text">
-						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in New York</h2>
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Los Angeles</h2>
 					</div>
-					<p class="text-white">Be a part of 100s of New York based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
+					<p class="text-white">Be a part of 100s of Los Angeles based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -818,7 +813,7 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel owl-theme">
+        <div class="testimonial-card-a owl-carousel owl-theme owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
                 <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
@@ -953,7 +948,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
-						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in New York</h2>
+						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Los Angeles</h2>
 					</div>
 				</div>
 			</div>
@@ -1061,7 +1056,7 @@
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag text-center">
 					<div data-text="Our Industries" class="light-bg-text bg-text">
-						<h2><span>Industries</span> We Work With in New York</h2>
+						<h2><span>Industries</span> We Work With in Los Angeles</h2>
 					</div>
 				</div>
 			</div>
@@ -1233,7 +1228,7 @@
 		<div class="col-12">
 			<div class="container">
 				<div class="free-cta-title v-center wow fadeIn">
-					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept New York-Based Mobile App Development Company Let’s Connect</h3>
+					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Los Angeles-Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
 					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
@@ -1258,7 +1253,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row wow fadeIn tech-row">
+		<div class="row wow fadeIn">
 			<div class="col-lg-6 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
@@ -1856,14 +1851,14 @@
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading">
 					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in New York</h2>
+						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Los Angeles</h2>
 					</div>
-					<p class="pt-2">We are the No.1 mobile app development company in New York that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
+					<p class="pt-2">We are the No.1 mobile app development company in Los Angeles that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-3 mt-lg-0">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380.5933028430845!2d-73.9566717760113!3d40.67620832536594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b992569c5a3%3A0x62621967b4b600be!2sWork%20Heights%2C%20Your%20Neighborhood%20Coworking%20Company!5e1!3m2!1sen!2s!4v1735656717767!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.9065614067304!2d-118.42673662379612!3d34.02060931939902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf4180cfb6b3%3A0x697ef1b840cadba5!2sAppsNation%20California%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%26%20Software%20Development%20Company)!5e0!3m2!1sen!2s!4v1735742793757!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 		</div>
 	</div>

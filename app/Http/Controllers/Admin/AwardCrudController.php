@@ -80,6 +80,8 @@ class AwardCrudController extends CrudController
         CRUD::column('heading');
         CRUD::column('content');
         CRUD::column('comment');
+        CRUD::column('alt');
+
         CRUD::column('created_at');
         CRUD::column('updated_at');
 
@@ -115,6 +117,8 @@ class AwardCrudController extends CrudController
         CRUD::field('heading');
         CRUD::field('content');
         CRUD::field('comment');
+        CRUD::field('alt');
+
         // CRUD::field('created_at');
         // CRUD::field('updated_at');
 
@@ -157,6 +161,8 @@ class AwardCrudController extends CrudController
         CRUD::column('heading');
         CRUD::column('content');
         CRUD::column('comment');
+        CRUD::column('alt');
+
         CRUD::column('created_at');
         CRUD::column('updated_at');
 

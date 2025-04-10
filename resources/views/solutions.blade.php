@@ -11,7 +11,7 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Transform Business Growth with Revolutionary Services</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Transform Business Growth with Revolutionary Solutions</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Our unwavering commitment to innovation and customer satisfaction drives us to deliver transformative services that effectively address the ever-evolving demands of businesses in the digital world, ensuring exceptional results and driving impactful transformations.</p>
 					<ul class="mt20 content-list text-white">
 						<li>Strategic roadmap planning</li>
@@ -320,7 +320,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -334,7 +334,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -350,7 +350,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -363,7 +363,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>

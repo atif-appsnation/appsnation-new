@@ -146,8 +146,8 @@ class HomeController extends Controller
         $metabank = Metabank::where('slug', 'E-commerceAndRetail')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'E-commerceAndRetail')->where('type', 'Meta')->get();
 
-        $metatag = Metatag::where('slug', 'commerceAndRetail')->get();
-        $metatitle = Metatitle::where('slug', 'commerceAndRetail')->get();
+        $metatag = Metatag::where('slug', 'E-commerceAndRetail')->get();
+        $metatitle = Metatitle::where('slug', 'E-commerceAndRetail')->get();
 
         return view('ecommerceandretail', ['metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag,]);
     }
@@ -1439,11 +1439,11 @@ class HomeController extends Controller
 
     public function industrialAutomation()
     {
-        $metabank = Metabank::where('slug', 'Automation')->where('type', 'Tag')->get();
-        $metabank2 = Metabank::where('slug', 'Automation')->where('type', 'Meta')->get();
+        $metabank = Metabank::where('slug', 'IndustrialAutomation')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'IndustrialAutomation')->where('type', 'Meta')->get();
 
-        $metatag = Metatag::where('slug', 'Automation')->get();
-        $metatitle = Metatitle::where('slug', 'Automation')->get();
+        $metatag = Metatag::where('slug', 'IndustrialAutomation')->get();
+        $metatitle = Metatitle::where('slug', 'IndustrialAutomation')->get();
 
 
 
@@ -2540,7 +2540,7 @@ class HomeController extends Controller
     }
     public function oman()
     {
-        $metabank = Metabank::where('slug', 'oman')->where('type', 'Tag')->get();
+        $metabank = Metabank::where('slug', 'onoman')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'oman')->where('type', 'Meta')->get();
         $metatag = Metatag::where('slug', 'oman')->get();
         $metatitle = Metatitle::where('slug', 'oman')->get();

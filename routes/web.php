@@ -122,7 +122,5 @@ Route::get('/app-development-toronto','HomeController@toronto');
 Route::get('/review-data2','ScraperController@scrapeTestimonials2');
 Route::get('/locations','HomeController@locations');
 
-
 Route::get('/review-data','ScraperController@scrapeTestimonials');
 Route::get('/upcity-review-data','ScraperController@upCityTestimonials');
-

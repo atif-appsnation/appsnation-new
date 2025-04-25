@@ -14528,6 +14528,66 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End San Francisco */
 
+/* Start Washington */
+
+.washington-banner {
+    background: url(../images/locations/washington/washington-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.washington-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.washington-about {
+    background: url(../images/locations/washington/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.washington-partner {
+    background: url(../images/locations/washington/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Washington */
+
+/* Start Miami */
+
+.miami-banner {
+    background: url(../images/locations/miami/miami-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.miami-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.miami-about {
+    background: url(../images/locations/miami/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.miami-partner {
+    background: url(../images/locations/miami/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Miami */
+
 /* Start Karachi */
 
 .karachi-banner {
@@ -14557,6 +14617,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Karachi */
+
 
 /* Start Testimonials */
 

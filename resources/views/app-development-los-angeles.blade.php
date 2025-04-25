@@ -765,7 +765,7 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner pt60 pb60 mt-5">
+<section class="los-angeles-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">

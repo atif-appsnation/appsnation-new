@@ -14443,6 +14443,13 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     position: relative;
 }
 
+.los-angeles-partner {
+    background: url(../images/locations/los-angeles/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 /* End Los Angeles */
 
 /* Start Houston */
@@ -14456,6 +14463,21 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .houston-banner .niwax23form {
     background: rgba(255, 255, 255, 1);
+}
+
+.houston-about {
+    background: url(../images/locations/houston/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.houston-partner {
+    background: url(../images/locations/houston/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 /* End Houston */
@@ -14481,6 +14503,13 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     position: relative;
 }
 
+.austin-partner {
+    background: url(../images/locations/austin/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 /* End Houston */
 
 /* Start Dallas */
@@ -14494,6 +14523,21 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .dallas-banner .niwax23form {
     background: rgba(255, 255, 255, 1);
+}
+
+.dallas-about {
+    background: url(../images/locations/dallas/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.dallas-partner {
+    background: url(../images/locations/dallas/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 /* End Dallas */
@@ -14588,6 +14632,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Miami */
 
+/* Start Montana */
+
+.montana-banner {
+    background: url(../images/locations/montana/montana-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.montana-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.montana-about {
+    background: url(../images/locations/montana/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.montana-partner {
+    background: url(../images/locations/montana/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End mMontana */
+
 /* Start Karachi */
 
 .karachi-banner {
@@ -14617,7 +14691,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Karachi */
-
 
 /* Start Testimonials */
 

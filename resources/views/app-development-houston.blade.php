@@ -119,7 +119,7 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="about2 pt60 pb60">
+<section class="houston-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -131,6 +131,9 @@
 					<p class="text-white"> When it comes down to quality, we firmly believe there are no boundaries and clients need to be served with absolute best. When it comes to spending time on mobile phones, 92.5% of users prefer to use mobile apps. According to recent stats, In 2024, consumer app spending reached $115 Billion in the App Store and $55 Billion in Google Play. Partner with us today and seal the deal and unlock your business’s full potential.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
+			</div>
+			<div class="col-lg-6 block-1 wow fadeIn">
+				<img src="images/locations/austin/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -762,7 +765,7 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner pt60 pb60 mt-5">
+<section class="houston-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">

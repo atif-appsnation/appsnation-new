@@ -168,6 +168,8 @@ class MetatitleCrudController extends CrudController
                 'oman' => 'oman',
                 'sydney' => 'sydney',
                 'toronto' => 'toronto',
+                'montana' => 'montana',
+
                 'locations' => 'locations',
                 
             ],

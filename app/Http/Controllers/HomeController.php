@@ -2622,6 +2622,34 @@ class HomeController extends Controller
             ]
         );
     }
+    public function montana()
+    {
+        $metabank = Metabank::where('slug', 'montana')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'montana')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'montana')->get();
+        $metatitle = Metatitle::where('slug', 'montana')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-montana',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }
     public function locations()
     {
         $metabank = Metabank::where('slug', 'locations')->where('type', 'Tag')->get();

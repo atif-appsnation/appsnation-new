@@ -149,7 +149,7 @@
 				<div class="dsk-logo">
 					<a class="nav-brand" href="{{url('/')}}">
 						<img src="{{asset('images/logo/appsnation-white-logo.webp')}}" alt="Logo" class="mega-white-logo" />
-						<img src="{{asset('images/logo/appsnation-black-logo.svg')}}" alt="Logo" class="mega-darks-logo" />
+						<img src="{{asset('images/logo/appsnation-black-logo.webp')}}" alt="Logo" class="mega-darks-logo" />
 					</a>
 				</div>
 				<div class="custom-nav d-block ml-auto" role="navigation">

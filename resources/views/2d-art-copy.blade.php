@@ -12,7 +12,7 @@
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2 common-heading">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Finest 2D Art Design Development</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Futurealiti brings together the best of traditional design and contemporary software to create unique designs. Our goal is to help you visualize your ideas in the most beautiful way possible through our exceptional 2D art design services.</p>
 				</div>
 			</div>
 		</div>
@@ -35,8 +35,8 @@
 						<h2>Elevate Your Brand with Our <br> <span class="flup-theme">Custom 2D Art Design Services</span></h2>
 					</div>
 					<p><strong>Craft Your Visual Story with Exquisite 2D Art</strong></p>
-					<p>AppsNation combines traditional artistry with modern techniques to bring your vision to life. Our 2D art design services are crafted to enhance your brand's visual appeal, helping you stand out in a crowded market.</p>
-					<p>Transform your ideas into beautiful, functional art with AppsNation. Let us help you create a lasting impression through exceptional 2D design.</p>
+					<p>Futurealiti combines traditional artistry with modern techniques to bring your vision to life. Our 2D art design services are crafted to enhance your brand's visual appeal, helping you stand out in a crowded market.</p>
+					<p>Transform your ideas into beautiful, functional art with Futurealiti. Let us help you create a lasting impression through exceptional 2D design.</p>
 				</div>
 			</div>
 		</div>
@@ -203,7 +203,7 @@
 				<div data-text="Character" class="dark-bg-text bg-text">
                 	<h2 class=" text-center text-white"><span>2D Character</span> Design</h2>
 				</div>
-                <p class="text-center text-white">Create high-quality 2D character designs in a snap with AppsNation. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
+                <p class="text-center text-white">Create high-quality 2D character designs in a snap with Futurealiti. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
             </div>
         </div>
         <div class="row mt-4 wow fadeIn">
@@ -245,21 +245,21 @@
                                         <img src="images/services/2d-art/realistic-character-design.webp" alt="2D 2D Realistic Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Realistic Character Design</h4>
-                                            <p class="text-white">Designed from the ground up to be realistic and lifelike, AppsNation will offer you that detail that makes your character stand out.</p>
+                                            <p class="text-white">Designed from the ground up to be realistic and lifelike, Futurealiti will offer you that detail that makes your character stand out.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="causal">
                                         <img src="images/services/2d-art/casual-character-design.webp" alt="2D 2D Causal Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Casual Character Design</h4>
-                                            <p class="text-white">AppsNation creates elegant, informal illustrations that you can use for your next casual project. We are very excited to be able to create outstanding characters for you!</p>
+                                            <p class="text-white">Futurealiti creates elegant, informal illustrations that you can use for your next casual project. We are very excited to be able to create outstanding characters for you!</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="cartoon">
                                         <img src="images/services/2d-art/cartoon-character-design.webp" alt="2D 2D Cartoon Character Design" class="img-fluid twod-character-design-img">
                                         <div class="twod-art-bottom-center">
                                             <h4 class="text-uppercase text-white">Cartoon Character Design</h4>
-                                            <p class="text-white">AppsNation is a cartoon character design studio that can bring your imagination to life. From a simple idea, every character has its design and personality.</p>
+                                            <p class="text-white">Futurealiti is a cartoon character design studio that can bring your imagination to life. From a simple idea, every character has its design and personality.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="stylized">
@@ -456,7 +456,7 @@
                                         <img src="images/services/2d-art/mobile-game-wireframes.webp" class="img-fluid twod-game-ui-ux-design-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Mobile Game App Wireframing</H4>
-                                            <p class="text-white">AppsNation offers the best 2D Game UI/UX designers who can help you design your gaming app wireframe as per the user requirement using the latest technology and design tools.</p>
+                                            <p class="text-white">Futurealiti offers the best 2D Game UI/UX designers who can help you design your gaming app wireframe as per the user requirement using the latest technology and design tools.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="ar-game">
@@ -509,7 +509,7 @@
 				<div data-text="Concept Art" class="dark-bg-text bg-text">
 					<h2 class=" text-center text-white"><span>2D Concept Art</span> Design</h2>
 				</div>
-                <p class="text-center text-white">AppsNation is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
+                <p class="text-center text-white">Futurealiti is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
             </div>
         </div>
         <div class="row mt-4 wow fadeIn">
@@ -523,7 +523,7 @@
                                         <img src="images/services/2d-art/character-concept-art.webp" alt="2D Character Concept Art" class="img-fluid twod-concept-art-img">
                                         <div class="twod-art-bottom-center">
                                             <H4 class="text-uppercase text-white">Character Concept Art</H4>
-                                            <p class="text-white">AppsNation provides 2D character concept art to design your next character as a part of your production by creating the best possible blueprint for your character.</p>
+                                            <p class="text-white">Futurealiti provides 2D character concept art to design your next character as a part of your production by creating the best possible blueprint for your character.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="environment">
@@ -1144,7 +1144,7 @@
 						<h2 class="text-white">Hire Dedicated <span>2D</span> Designer</h2>
 					</div>
 				</div>
-				<p class="pt-2 text-white">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients AppsNation also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
+				<p class="pt-2 text-white">Looking for a dedicated 2D Art Designer having a good experience? You are at the right place for our clients Futurealiti also provides dedicated design resources. Our designers are capable of completing the complicated task in no time. Contact us today to get started!</p>
 				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk mt-5">Hire Developers Now <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
 			</div>
 			<div class="col-xl-6 mt-3">

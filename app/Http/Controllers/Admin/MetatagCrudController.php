@@ -169,7 +169,7 @@ class MetatagCrudController extends CrudController
                 'sydney' => 'sydney',
                 'toronto' => 'toronto',
                 'montana' => 'montana',
-
+                'kuwait' => 'kuwait',
                 'locations' => 'locations',
                 
             ],

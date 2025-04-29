@@ -14153,7 +14153,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .hire-developer-app-development {
-    background: var(--black2-color);
+    background: url(../images/locations/hire-developer-background.webp);
     position: relative;
     padding: 100px 0px;
 }
@@ -14660,7 +14660,127 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     background-position: center center;
 }
 
-/* End mMontana */
+/* End Montana */
+
+/* Start Riyadh */
+
+.riyadh-banner {
+    background: url(../images/locations/riyadh/riyadh-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.riyadh-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.riyadh-about {
+    background: url(../images/locations/riyadh/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.riyadh-partner {
+    background: url(../images/locations/riyadh/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Riyadh */
+
+/* Start Bahrain */
+
+.bahrain-banner {
+    background: url(../images/locations/bahrain/bahrain-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.bahrain-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.bahrain-about {
+    background: url(../images/locations/bahrain/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.bahrain-partner {
+    background: url(../images/locations/bahrain/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Bahrain */
+
+/* Start Oman */
+
+.oman-banner {
+    background: url(../images/locations/oman/oman-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.oman-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.oman-about {
+    background: url(../images/locations/oman/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.oman-partner {
+    background: url(../images/locations/oman/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Oman */
+
+/* Start Kuwait */
+
+.kuwait-banner {
+    background: url(../images/locations/kuwait/kuwait-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.kuwait-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.kuwait-about {
+    background: url(../images/locations/kuwait/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.kuwait-partner {
+    background: url(../images/locations/kuwait/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Kuwait */
 
 /* Start Karachi */
 

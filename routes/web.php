@@ -120,6 +120,7 @@ Route::get('/app-development-oman','HomeController@oman');
 Route::get('/app-development-sydney','HomeController@sydney');
 Route::get('/app-development-toronto','HomeController@toronto');
 Route::get('/app-development-montana','HomeController@montana');
+Route::get('/app-development-kuwait','HomeController@kuwait');
 
 Route::get('/review-data2','ScraperController@scrapeTestimonials2');
 Route::get('/locations','HomeController@locations');

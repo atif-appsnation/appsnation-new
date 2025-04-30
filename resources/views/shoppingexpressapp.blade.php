@@ -14,7 +14,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="text-white" data-wow-delay=".2s">Shopping Express App Service</h1>
+					<h1 class="text-white" data-wow-delay=".2s">Best Express Shopping Apps Development Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">The goal of this project is to have a user with a better, more dependable, and more accessible e-commerce platform to engage potential and existing customers, as well as raise their pleasure and satisfaction through a mobile application by offering better services in the area.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

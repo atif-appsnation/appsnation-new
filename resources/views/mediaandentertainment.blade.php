@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Media and Entertainment Apps Development</h1>
+					<h1 class="banner-heading">Media and Entertainment Apps Development Services</h1>
 					<p class="banner-para mt20">Nowadays, media and entertainment is a diversified industry which is expanding on a daily basis. AppsNation believes in adapting to the world and delivering the best services in the media and entertainment industry by using the latest technologies. In order to stay one step ahead in this era of technology, we provide you with the platform where we listen to your prerequisites and convey the ideal and best services with vital collaboration and coordination with our clients. Our professional team of Media and entertainment App Developers has expertise in developing Media and Entertainment Websites and Mobile Apps for their clients.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

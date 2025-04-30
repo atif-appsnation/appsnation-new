@@ -11,7 +11,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">2D & 3D Floor Plan Services</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Best 2D to 3D Floor Plans Development Services</h1>
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">

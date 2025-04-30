@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Advertising Apps Development</h1>
+					<h1 class="banner-heading">Top Advertising Apps Development Services</h1>
 					<p class="banner-para mt20">The demand for apps and web solutions is steadily increasing in the rapidly evolving advertising industry. We offer business-driven technical solutions to assist advertising companies and production houses worldwide.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

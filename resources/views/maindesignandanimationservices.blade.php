@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Design & Animation Services</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top Creative Design Animation Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Bring your ideas to life with our design and animation services. From stunning visuals to engaging motion graphics, we create captivating experiences that tell your brand's story with impact.</p>
 				</div>
 			</div>

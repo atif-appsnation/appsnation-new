@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Retail Shopping App Development Services</h1>
+					<h1 class="banner-heading">Ecommerce Retail Shopping Apps Development Services</h1>
 					<p class="banner-para mt20">Effortlessly connect with your customers and boost sales with our tailored app and web development solutions. Enable your customers to make purchases with a simple click or tap. Our end-to-end e-commerce solutions cover everything from order processing to check out. Contact us for a quote today.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

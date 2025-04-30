@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Finance & Banking App Development</h1>
+					<h1 class="banner-heading">Mobile Banking App Development Company</h1>
 					<p class="banner-para mt20">We make banking and finance more effortless and more intuitive for you, allowing you to work more efficiently. We are technological, banking, and finance professionals. In a nutshell, we are excellent for any apps relating to financial and banking services.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

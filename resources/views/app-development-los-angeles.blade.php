@@ -11,7 +11,7 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Premier Mobile App Development Company</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Los Angeles</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Step into the future with AppsNation, a top-tier mobile app development company in Los Angeles, specializing in groundbreaking innovations in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, ECommerce apps and much more. We dedicate our time for detail-oriented personalization, providing seamless custom mobile app development services. Contact us now to transform your business vision into a reality.</p>
 				</div>
 				<div class="row mt-3">

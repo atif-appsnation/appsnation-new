@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2 common-heading">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mesmerizing 3D Art Design Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">3D Design Art App Development Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Art is not limited to being a picture on a wall. It can be a symbol of your ideas, feelings, and emotions. At AppsNation, we are passionate about 3D Art Design and world-class 3D renderings. We put our heart and soul into providing high-quality designs for you.</p>
 				</div>
 			</div>

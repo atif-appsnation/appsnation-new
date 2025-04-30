@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">IoT App Development Company</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Best IoT Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Enrich your brand’s mobility with a wearable app running across various wearables and connectivity with multi-platform devices - responsive, fast, and visually appealing.</p>
 				</div>
 			</div>

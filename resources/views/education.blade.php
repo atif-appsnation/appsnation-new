@@ -14,7 +14,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Education</h1>
+					<h1 class="banner-heading">Education App Development Company</h1>
 					<p class="banner-para mt20">Promoting education and helping students learn more effectively with the new education system – remote learning – your educational mobile applications can play a significant role. As the top-rated education development service, we deliver you a top-notch solution.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

@@ -11,7 +11,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Cross-Platform App Development Company </h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Cross Platform Mobile App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Expand your customer base with less expense and cross-platform apps that offer users an actual experience of a native application.</p>
 				</div>
 			</div>

@@ -11,7 +11,7 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Leading Mobile App Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Houston </h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation is a premier mobile app development company in Houston, representing the next generation of technology. We specialize in cutting-edge innovations in wearables, iOS, Android, IoT, AR/VR, gaming, cross-platform, and e-commerce apps, among other areas. We provide seamless tailored app development services in Houston, devoting our efforts to meticulous customization. Get in touch with us right now to turn your company's idea into a reality.</p>
 				</div>
 				<div class="row mt-3">

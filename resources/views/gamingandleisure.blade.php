@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">VR & Cross Platform Game Development Company</h1>
+					<h1 class="banner-heading">Game Development Services</h1>
 					<p class="banner-para mt20">As the gaming industry continues to grow rapidly, it's embracing the most cutting-edge technological advancements ever seen. Our team of gaming app development experts is dedicated to creating top-notch gaming applications for your customers to enjoy.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

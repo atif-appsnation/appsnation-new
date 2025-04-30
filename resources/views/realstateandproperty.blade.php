@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Real Estate App Development Company</h1>
+					<h1 class="banner-heading">Best Real Estate App Development Company</h1>
 					<p class="banner-para mt20">The real estate industry desperately craves a mobile app to enable buyers to inspect the property or site from around the world or within the region. As a prestigious app development company, we offer custom real estate app development services to enhance your business.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

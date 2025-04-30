@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Travel And Hospitality</h1>
+					<h1 class="banner-heading">Travel and Hospitality App Development Services</h1>
 					<p class="banner-para mt20">Our developers keep customers engaged and informed with custom apps tailored for the travel and hospitality industry. We connect hotel and restaurant owners with their target audience through innovative mobile app development solutions.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

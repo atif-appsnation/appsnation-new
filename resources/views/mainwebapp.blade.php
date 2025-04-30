@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Top-Rated Web Portal Development Company</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Web Portal Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Offer your consumers a real-time immersive user experience of your business via web portal developed by our expert <a href="{{url('/ar-app-development')}}" target="_blank">AR app developers.</a></p>
 				</div>
 			</div>

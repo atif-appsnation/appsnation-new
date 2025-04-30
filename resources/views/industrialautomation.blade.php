@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Revolutionize Your Workflow With Our Automation Services</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Industrial Automation App Development services</h1>
 					<p class="mt20 my-5 text-white" data-wow-delay=".4s">Are you ready to streamline your business and unlock its full potential? Our automation solutions are here to help. Our expert technicians are dedicated to finding the right automation solutions for your unique business needs.</p>
 				</div>
 			</div>

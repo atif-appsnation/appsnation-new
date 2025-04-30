@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="bread-titlev2 industry-title">
-					<h1 class="banner-heading">Sports Teams And Leagues</h1>
+					<h1 class="banner-heading">Custom Sports App Development Services</h1>
 					<p class="banner-para mt20">Sports is the biggest industry, with multiple sports of different categories holding billions of fans together. As technology revolutionized, these fans demanded a mobile sports app where they could witness the competition live in their palm of hands. We help the sports industry with innovative solutions.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main bg-btn3 lnk mt20">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

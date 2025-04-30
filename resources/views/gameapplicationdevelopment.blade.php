@@ -12,7 +12,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-4 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Professional Game Development Company</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile Game Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Be the top trend among the gamers and streamers with an ultimate game developed by our most reliable game developers.</p>
 				</div>
 			</div>

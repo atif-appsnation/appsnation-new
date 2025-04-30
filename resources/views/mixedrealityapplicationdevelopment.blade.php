@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mixed Reality (MR) Development</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">MR Mixed Reality Development Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s"><a href="{{url('/vr-app-development')}}" target="_blank">Virtual Reality (VR)</a> and <a href="{{url('/ar-app-development')}}" target="_blank">Augmented Reality (AR)</a> are the future of interactive marketing, and Mixed Reality (MR) helps users interact with the physical, virtual, and augmented worlds. Our MR development company focuses on creating new experiences for consumers, with a primary focus on your business needs.</p>
 				</div>
 			</div>

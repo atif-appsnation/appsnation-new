@@ -14,7 +14,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="text-white" data-wow-delay=".2s">Real Estate App Service</h1>
+					<h1 class="text-white" data-wow-delay=".2s">Best Real Estate App Development Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">The project's goal is to establish a unique and dynamic platform that allows users to easily search for houses for sale and rent. The project's goal is to develop a mobile application for users that allows them to conveniently seek for and search for properties, such as homes, offices, and apartments, based on their needs and requirements, and interact with real estate agents quickly and easily.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20" data-wow-delay=".6s">Get Quote
 						<i class="fas fa-chevron-right fa-icon"></i>

@@ -12,7 +12,7 @@
 		<div class="row justify-content-center">
 			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">E-Commerce Development Company</h1>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Ecommerce Mobile App Development Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s"><a href="{{url('/')}}" target="_blank">AppsNation</a> focuses on creating <a href="{{url('/ecommerce-and-retail')}}" target="_blank">E-commerce solutions</a> that are both technically powerful and unique in the market, giving you a competitive advantage. You require someone to manage your existing digital assets and provide your company with a positive client experience.</p>
 				</div>
 			</div>

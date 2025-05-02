@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 new-york-banner">
+<section class="breadcrumb-areav2 dubai-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -110,7 +110,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/new-york/new-york.webp" alt="Dubai" class="img-fluid no-shadow" />
+					<img src="images/locations/dubai/dubai.webp" alt="Dubai" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -119,7 +119,7 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="about2 pt60 pb60">
+<section class="dubai-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -131,6 +131,9 @@
 					<p class="text-white">Partner with a leading mobile app development company in Dubai to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
+			</div>
+			<div class="col-lg-6 block-1 wow fadeIn">
+				<img src="images/locations/dubai/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -697,7 +700,7 @@
 			<p class="text-center text-lg-start text-white">We Promise. <span>We Deliver.</span> </p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
-			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid">
+			<img src="images/locations/dubai/hire-developer.webp" alt="Hire Developer" class="img-fluid">
 		</div>
 	</div>
 </div>
@@ -761,13 +764,13 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner pt60 pb60 mt-5">
+<section class="dubai-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Partner" class="light-bg-text bg-text">
-						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Dubai</h2>
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span> Company in Dubai</h2>
 					</div>
 					<p class="text-white">Be a part of 100s of Dubai based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>

@@ -14782,6 +14782,156 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Kuwait */
 
+/* Start Dubai */
+
+.dubai-banner {
+    background: url(../images/locations/dubai/dubai-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.dubai-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.dubai-about {
+    background: url(../images/locations/dubai/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.dubai-partner {
+    background: url(../images/locations/dubai/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Dubai */
+
+/* Start Qatar */
+
+.qatar-banner {
+    background: url(../images/locations/qatar/qatar-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.qatar-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.qatar-about {
+    background: url(../images/locations/qatar/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.qatar-partner {
+    background: url(../images/locations/qatar/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Qatar */
+
+/* Start London */
+
+.london-banner {
+    background: url(../images/locations/london/london-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.london-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.london-about {
+    background: url(../images/locations/london/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.london-partner {
+    background: url(../images/locations/london/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End London */
+
+/* Start Leeds */
+
+.leeds-banner {
+    background: url(../images/locations/leeds/leeds-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.leeds-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.leeds-about {
+    background: url(../images/locations/leeds/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.leeds-partner {
+    background: url(../images/locations/leeds/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Leeds */
+
+/* Start Birmingham */
+
+.birmingham-banner {
+    background: url(../images/locations/birmingham/birmingham-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.birmingham-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.birmingham-about {
+    background: url(../images/locations/birmingham/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.birmingham-partner {
+    background: url(../images/locations/birmingham/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Birmingham */
+
 /* Start Karachi */
 
 .karachi-banner {

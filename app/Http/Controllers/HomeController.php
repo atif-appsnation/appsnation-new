@@ -2681,6 +2681,288 @@ public function kuwait()
             ]
         );
     }
+    // NEW COUNTRY FUNCTION
+    public function usa()
+
+    {
+        $metabank = Metabank::where('slug', 'usa')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'usa')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'usa')->get();
+        $metatitle = Metatitle::where('slug', 'usa')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-usa',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function gcc()
+
+    {
+        $metabank = Metabank::where('slug', 'gcc')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'gcc')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'gcc')->get();
+        $metatitle = Metatitle::where('slug', 'gcc')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-gcc',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function uk()
+
+    {
+        $metabank = Metabank::where('slug', 'uk')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'uk')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'uk')->get();
+        $metatitle = Metatitle::where('slug', 'uk')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-uk',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function africa()
+
+    {
+        $metabank = Metabank::where('slug', 'africa')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'africa')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'africa')->get();
+        $metatitle = Metatitle::where('slug', 'africa')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-africa',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function europe()
+
+    {
+        $metabank = Metabank::where('slug', 'europe')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'europe')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'europe')->get();
+        $metatitle = Metatitle::where('slug', 'europe')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-europe',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function australia()
+
+    {
+        $metabank = Metabank::where('slug', 'australia')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'australia')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'australia')->get();
+        $metatitle = Metatitle::where('slug', 'australia')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-australia',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function canada()
+
+    {
+        $metabank = Metabank::where('slug', 'canada')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'canada')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'canada')->get();
+        $metatitle = Metatitle::where('slug', 'canada')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-canada',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function pakistan()
+
+    {
+        $metabank = Metabank::where('slug', 'pakistan')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'pakistan')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'pakistan')->get();
+        $metatitle = Metatitle::where('slug', 'pakistan')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-pakistan',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function morocco()
+
+    {
+        $metabank = Metabank::where('slug', 'morocco')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'morocco')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'morocco')->get();
+        $metatitle = Metatitle::where('slug', 'morocco')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-morocco',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }public function germany()
+
+    {
+        $metabank = Metabank::where('slug', 'germany')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'germany')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'germany')->get();
+        $metatitle = Metatitle::where('slug', 'germany')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-germany',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }
 
     public function locations()
     {

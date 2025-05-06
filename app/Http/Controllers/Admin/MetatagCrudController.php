@@ -171,6 +171,18 @@ class MetatagCrudController extends CrudController
                 'montana' => 'montana',
                 'kuwait' => 'kuwait',
                 'locations' => 'locations',
+                // new country
+                'usa' => 'usa',
+                'gcc' => 'gcc',
+                'uk' => 'uk',
+                'africa' => 'africa',
+                'europe' => 'europe',
+                'australia' => 'australia',
+                'canada' => 'canada',
+                'pakistan' => 'pakistan',
+                'morocco' => 'morocoo',
+                'germany' => 'germany',
+                
                 
             ],
 

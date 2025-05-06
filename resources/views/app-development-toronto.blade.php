@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 new-york-banner">
+<section class="breadcrumb-areav2 toronto-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -110,7 +110,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/new-york/new-york.webp" alt="Toronto" class="img-fluid no-shadow" />
+					<img src="images/locations/toronto/toronto.webp" alt="Toronto" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -119,7 +119,7 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="about2 pt60 pb60">
+<section class="toronto-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -131,6 +131,9 @@
 					<p class="text-white">This makes our best app designs unique and enables us to create apps that are both innovative and futuristic for best user experiences.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
+			</div>
+			<div class="col-lg-6 block-1 wow fadeIn">
+				<img src="images/locations/toronto/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -762,7 +765,7 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="partner pt60 pb60 mt-5">
+<section class="toronto-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">

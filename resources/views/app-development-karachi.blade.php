@@ -128,11 +128,12 @@
 					<div data-text="Mobile" class="light-bg-text bg-text">
 						<h2 class="text-white">Elevate your business to greater success with our <span class="flup-theme">mobile app</span> designed for growth Development Company in Karachi</h2>
 					</div>
-					<p class="text-white">In Karachi, where 96% of the population uses smartphones and 84% of businesses see mobile apps as vital for their operations, it's simply not possible to lag behind. Investing in mobile app development in Karachi is essential to keep up with the digital times. 
-
-Partner with a leading mobile app development company in Karachi, and they'll transform your unique business needs into innovative solutions, setting you apart as an industry front-runner.</p>
+					<p class="text-white">In Karachi, where 96% of the population uses smartphones and 84% of businesses see mobile apps as vital for their operations, it's simply not possible to lag behind. Investing in mobile app development in Karachi is essential to keep up with the digital times. Partner with a leading mobile app development company in Karachi, and they'll transform your unique business needs into innovative solutions, setting you apart as an industry front-runner.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
+			</div>
+			<div class="col-lg-6 block-1 wow fadeIn">
+				<img src="images/locations/rome/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>

@@ -14932,6 +14932,156 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Birmingham */
 
+/* Start Johannesburg */
+
+.johannesburg-banner {
+    background: url(../images/locations/johannesburg/johannesburg-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.johannesburg-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.johannesburg-about {
+    background: url(../images/locations/johannesburg/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.johannesburg-partner {
+    background: url(../images/locations/johannesburg/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Johannesburg */
+
+/* Start Rome */
+
+.rome-banner {
+    background: url(../images/locations/rome/rome-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.rome-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.rome-about {
+    background: url(../images/locations/rome/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.rome-partner {
+    background: url(../images/locations/rome/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Rome */
+
+/* Start Melbourne */
+
+.melbourne-banner {
+    background: url(../images/locations/melbourne/melbourne-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.melbourne-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.melbourne-about {
+    background: url(../images/locations/melbourne/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.melbourne-partner {
+    background: url(../images/locations/melbourne/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Melbourne */
+
+/* Start Sydney */
+
+.sydney-banner {
+    background: url(../images/locations/sydney/sydney-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.sydney-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.sydney-about {
+    background: url(../images/locations/sydney/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.sydney-partner {
+    background: url(../images/locations/sydney/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Sydney */
+
+/* Start Toronto */
+
+.toronto-banner {
+    background: url(../images/locations/toronto/toronto-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.toronto-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.toronto-about {
+    background: url(../images/locations/toronto/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.toronto-partner {
+    background: url(../images/locations/toronto/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Toronto */
+
 /* Start Karachi */
 
 .karachi-banner {
@@ -14954,7 +15104,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .karachi-partner {
-    background: url(../images/locations/karachi/scale-your-business-banner.webp);
+    background: url(../images/locations/karachi/partner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

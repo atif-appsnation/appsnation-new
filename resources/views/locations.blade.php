@@ -102,8 +102,10 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="USA" class="light-bg-text bg-text">
-						<h2>USA</h2>
+					<div data-text="USA" class="light-bg-text bg-text location-heading">
+						<h2>
+							<a href="{{url('/app-development-usa')}}" class="text-black">USA</a>	
+						</h2>
 					</div>
 				</div>
 			</div>
@@ -336,8 +338,8 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="South Africa" class="light-bg-text bg-text">
-						<h2>South Africa</h2>
+					<div data-text="Africa" class="light-bg-text bg-text">
+						<h2>Africa</h2>
 					</div>
 				</div>
 			</div>
@@ -353,6 +355,16 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Morocco</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-morocco')}}" class="text-black">App Development in Morocco</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -364,8 +376,8 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="Italy" class="light-bg-text bg-text">
-						<h2>Italy</h2>
+					<div data-text="Europe" class="light-bg-text bg-text">
+						<h2>Europe</h2>
 					</div>
 				</div>
 			</div>
@@ -377,6 +389,16 @@
 						<h4>Rome</h4>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-rome')}}" class="text-black">App Development in Rome</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Germany</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-germany')}}" class="text-black">App Development in Germany</a></li>
 						</ul>
 					</div>
 				</div>

@@ -14302,6 +14302,10 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     border: 1px dashed var(--first-color);
 }
 
+.location-heading h2 a:hover {
+    color: var(--first-color) !important;
+}
+
 .locations .card .card-body ul li a:hover {
     color: var(--first-color) !important;
 }
@@ -14391,6 +14395,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 .service-section .card {
     border: 1px dashed var(--first-color);
 }
+
+/* Start USA */
+
+.usa-banner {
+    background: url(../images/locations/usa/usa-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.usa-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.usa-about, .about2 {
+    background: url(../images/locations/usa/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.usa-partner {
+    background: url(../images/locations/usa/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End USA */
 
 /* Start New York */
 
@@ -14962,6 +14996,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Johannesburg */
 
+/* Start Morocco */
+
+.morocco-banner {
+    background: url(../images/locations/morocco/morocco-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.morocco-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.morocco-about {
+    background: url(../images/locations/morocco/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.morocco-partner {
+    background: url(../images/locations/morocco/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Morocoo */
+
 /* Start Rome */
 
 .rome-banner {
@@ -14991,6 +15055,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Rome */
+
+/* Start Germany */
+
+.germany-banner {
+    background: url(../images/locations/germany/germany-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.germany-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.germany-about {
+    background: url(../images/locations/germany/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.germany-partner {
+    background: url(../images/locations/germany/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Germany */
 
 /* Start Melbourne */
 

@@ -148,7 +148,6 @@ class MetatitleCrudController extends CrudController
                 'new_york' => 'new_york',
                 'los_angeles' => 'los_angeles',
                 'san_francisco' => 'san_francisco',
-                // new added
                 'houston' => 'houston',
                 'austin' => 'austin',
                 'dallas' => 'dallas',
@@ -171,7 +170,6 @@ class MetatitleCrudController extends CrudController
                 'montana' => 'montana',
                 'kuwait' => 'kuwait',
                 'locations' => 'locations',
-                // new country
                 'usa' => 'usa',
                 'gcc' => 'gcc',
                 'uk' => 'uk',
@@ -182,7 +180,8 @@ class MetatitleCrudController extends CrudController
                 'pakistan' => 'pakistan',
                 'morocco' => 'morocoo',
                 'germany' => 'germany',
-                
+                'saudia_arabia' => 'saudia_arabia',
+                'uae' => 'uae'
             ],
 
             'allows_null' => false,

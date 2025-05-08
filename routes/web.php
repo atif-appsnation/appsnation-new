@@ -121,7 +121,6 @@ Route::get('/app-development-sydney','HomeController@sydney');
 Route::get('/app-development-toronto','HomeController@toronto');
 Route::get('/app-development-montana','HomeController@montana');
 Route::get('/app-development-kuwait','HomeController@kuwait');
-//  country
 Route::get('/app-development-usa','HomeController@usa');
 Route::get('/app-development-gcc','HomeController@gcc');
 Route::get('/app-development-uk','HomeController@uk');
@@ -132,10 +131,11 @@ Route::get('/app-development-canada','HomeController@canada');
 Route::get('/app-development-pakistan','HomeController@pakistan');
 Route::get('/app-development-morocco','HomeController@morocco');
 Route::get('/app-development-germany','HomeController@germany');
+Route::get('/app-development-saudi-arabia','HomeController@saudi_arabia');
+Route::get('/app-development-uae','HomeController@uae');
+Route::get('/locations','HomeController@locations');
 
 
 Route::get('/review-data2','ScraperController@scrapeTestimonials2');
-Route::get('/locations','HomeController@locations');
-
 Route::get('/review-data','ScraperController@scrapeTestimonials');
 Route::get('/upcity-review-data','ScraperController@upCityTestimonials');

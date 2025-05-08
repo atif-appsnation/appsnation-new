@@ -14696,6 +14696,66 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Montana */
 
+/* Start GCC */
+
+.gcc-banner {
+    background: url(../images/locations/gcc/gcc-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.gcc-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.gcc-about, .about2 {
+    background: url(../images/locations/gcc/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.gcc-partner {
+    background: url(../images/locations/gcc/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End GCC */
+
+/* Start Saudi Arabia */
+
+.saudi-arabia-banner {
+    background: url(../images/locations/saudi-arabia/saudi-arabia-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.saudi-arabia-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.saudi-arabia-about, .about2 {
+    background: url(../images/locations/saudi-arabia/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.saudi-arabia-partner {
+    background: url(../images/locations/saudi-arabia/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Saudi Arabia */
+
 /* Start Riyadh */
 
 .riyadh-banner {
@@ -14816,6 +14876,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Kuwait */
 
+/* Start UAE */
+
+.uae-banner {
+    background: url(../images/locations/uae/uae-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.uae-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.uae-about, .about2 {
+    background: url(../images/locations/uae/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.uae-partner {
+    background: url(../images/locations/uae/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End UAE */
+
 /* Start Dubai */
 
 .dubai-banner {
@@ -14875,6 +14965,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Qatar */
+
+/* Start UK */
+
+.uk-banner {
+    background: url(../images/locations/uk/uk-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.uk-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.uk-about, .about2 {
+    background: url(../images/locations/uk/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.uk-partner {
+    background: url(../images/locations/uk/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End UK */
 
 /* Start London */
 

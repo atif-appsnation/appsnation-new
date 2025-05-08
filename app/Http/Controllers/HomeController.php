@@ -1924,7 +1924,7 @@ class HomeController extends Controller
             ]
         );
     }
-    // solutions and industries and services
+
     public function solutions()
     {
         $metabank = Metabank::where('slug', 'Solutions')->where('type', 'Tag')->get();
@@ -1951,6 +1951,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function industries()
     {
         $metabank = Metabank::where('slug', 'Industries')->where('type', 'Tag')->get();
@@ -1977,6 +1978,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function services()
     {
         $metabank = Metabank::where('slug', 'Services')->where('type', 'Tag')->get();
@@ -2034,6 +2036,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function los_angeles()
     {
         $metabank = Metabank::where('slug', 'los_angeles')->where('type', 'Tag')->get();
@@ -2062,6 +2065,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function houston()
     {
         $metabank = Metabank::where('slug', 'houston')->where('type', 'Tag')->get();
@@ -2090,6 +2094,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function austin()
     {
         $metabank = Metabank::where('slug', 'austin')->where('type', 'Tag')->get();
@@ -2118,6 +2123,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function dallas()
     {
         $metabank = Metabank::where('slug', 'dallas')->where('type', 'Tag')->get();
@@ -2146,6 +2152,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function birmingham()
     {
         $metabank = Metabank::where('slug', 'birmingham')->where('type', 'Tag')->get();
@@ -2174,6 +2181,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function dubai()
     {
         $metabank = Metabank::where('slug', 'dubai')->where('type', 'Tag')->get();
@@ -2202,6 +2210,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function johannesburg()
     {
         $metabank = Metabank::where('slug', 'johannesburg')->where('type', 'Tag')->get();
@@ -2230,6 +2239,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function karachi()
     {
         $metabank = Metabank::where('slug', 'karachi')->where('type', 'Tag')->get();
@@ -2258,6 +2268,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function leeds()
     {
         $metabank = Metabank::where('slug', 'leeds')->where('type', 'Tag')->get();
@@ -2286,6 +2297,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function london()
     {
         $metabank = Metabank::where('slug', 'london')->where('type', 'Tag')->get();
@@ -2314,6 +2326,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function melbourne()
     {
         $metabank = Metabank::where('slug', 'melbourne')->where('type', 'Tag')->get();
@@ -2342,6 +2355,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function miami()
     {
         $metabank = Metabank::where('slug', 'miami')->where('type', 'Tag')->get();
@@ -2370,6 +2384,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function qatar()
     {
         $metabank = Metabank::where('slug', 'qatar')->where('type', 'Tag')->get();
@@ -2398,6 +2413,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function riyadh()
     {
         $metabank = Metabank::where('slug', 'riyadh')->where('type', 'Tag')->get();
@@ -2426,6 +2442,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function rome()
     {
         $metabank = Metabank::where('slug', 'rome')->where('type', 'Tag')->get();
@@ -2454,6 +2471,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function san_francisco()
     {
         $metabank = Metabank::where('slug', 'san_francisco')->where('type', 'Tag')->get();
@@ -2482,6 +2500,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function washington()
     {
         $metabank = Metabank::where('slug', 'washington')->where('type', 'Tag')->get();
@@ -2510,6 +2529,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function bahrain()
     {
         $metabank = Metabank::where('slug', 'bahrain')->where('type', 'Tag')->get();
@@ -2538,9 +2558,10 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function oman()
     {
-        $metabank = Metabank::where('slug', 'onoman')->where('type', 'Tag')->get();
+        $metabank = Metabank::where('slug', 'oman')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'oman')->where('type', 'Meta')->get();
         $metatag = Metatag::where('slug', 'oman')->get();
         $metatitle = Metatitle::where('slug', 'oman')->get();
@@ -2566,6 +2587,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function sydney()
     {
         $metabank = Metabank::where('slug', 'sydney')->where('type', 'Tag')->get();
@@ -2594,6 +2616,7 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function toronto()
     {
         $metabank = Metabank::where('slug', 'toronto')->where('type', 'Tag')->get();
@@ -2652,8 +2675,7 @@ class HomeController extends Controller
         );
     }
 
-public function kuwait()
-
+    public function kuwait()
     {
         $metabank = Metabank::where('slug', 'kuwait')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'kuwait')->where('type', 'Meta')->get();
@@ -2681,9 +2703,8 @@ public function kuwait()
             ]
         );
     }
-    // NEW COUNTRY FUNCTION
+    
     public function usa()
-
     {
         $metabank = Metabank::where('slug', 'usa')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'usa')->where('type', 'Meta')->get();
@@ -2710,8 +2731,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function gcc()
-
+    }
+    
+    public function gcc()
     {
         $metabank = Metabank::where('slug', 'gcc')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'gcc')->where('type', 'Meta')->get();
@@ -2738,8 +2760,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function uk()
-
+    }
+    
+    public function uk()
     {
         $metabank = Metabank::where('slug', 'uk')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'uk')->where('type', 'Meta')->get();
@@ -2766,8 +2789,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function africa()
-
+    }
+    
+    public function africa()
     {
         $metabank = Metabank::where('slug', 'africa')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'africa')->where('type', 'Meta')->get();
@@ -2794,8 +2818,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function europe()
-
+    }
+    
+    public function europe()
     {
         $metabank = Metabank::where('slug', 'europe')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'europe')->where('type', 'Meta')->get();
@@ -2822,8 +2847,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function australia()
-
+    }
+    
+    public function australia()
     {
         $metabank = Metabank::where('slug', 'australia')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'australia')->where('type', 'Meta')->get();
@@ -2850,8 +2876,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function canada()
-
+    }
+    
+    public function canada()
     {
         $metabank = Metabank::where('slug', 'canada')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'canada')->where('type', 'Meta')->get();
@@ -2878,8 +2905,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function pakistan()
-
+    }
+    
+    public function pakistan()
     {
         $metabank = Metabank::where('slug', 'pakistan')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'pakistan')->where('type', 'Meta')->get();
@@ -2906,8 +2934,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function morocco()
-
+    }
+    
+    public function morocco()
     {
         $metabank = Metabank::where('slug', 'morocco')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'morocco')->where('type', 'Meta')->get();
@@ -2934,8 +2963,9 @@ public function kuwait()
                 'clients' => $clients,
             ]
         );
-    }public function germany()
-
+    }
+    
+    public function germany()
     {
         $metabank = Metabank::where('slug', 'germany')->where('type', 'Tag')->get();
         $metabank2 = Metabank::where('slug', 'germany')->where('type', 'Meta')->get();
@@ -2949,6 +2979,64 @@ public function kuwait()
         $clients = Client::orderBy('lft', 'asc')->get()->toArray();
         return view(
             'app-development-germany',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }
+
+    public function saudi_arabia()
+    {
+        $metabank = Metabank::where('slug', 'saudi_arabia')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'saudi_arabia')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'saudi_arabia')->get();
+        $metatitle = Metatitle::where('slug', 'saudi_arabia')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-saudi-arabia',
+            [
+                'techstack' => $techstack,
+                'agencystack' => $agencystack,
+                'awards' => $awards,
+                'casestudy' => $casestudy,
+                'testimonials' => $testimonials,
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                'clients' => $clients,
+            ]
+        );
+    }
+
+    public function uae()
+    {
+        $metabank = Metabank::where('slug', 'uae')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'uae')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'uae')->get();
+        $metatitle = Metatitle::where('slug', 'uae')->get();
+        $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
+        $awards = Award::orderBy('lft', 'asc')->get()->toArray();
+        $casestudy = Casestudyapp::all();
+        $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
+        $clients = Client::orderBy('lft', 'asc')->get()->toArray();
+        return view(
+            'app-development-uae',
             [
                 'techstack' => $techstack,
                 'agencystack' => $agencystack,

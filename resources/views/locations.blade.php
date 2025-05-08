@@ -1,6 +1,6 @@
 @extends('app.main')
 @section('content')
-<!--Start Breadcrumb Area-->
+<!-- Start Breadcrumb Area -->
 <section class="breadcrumb-areav2 new-york-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
@@ -94,9 +94,9 @@
 		</div>
 	</div>
 </section>
-<!--End Breadcrumb-->
+<!-- End Breadcrumb -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
@@ -204,16 +204,18 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="GCC" class="light-bg-text bg-text">
-						<h2>GCC</h2>
+					<div data-text="GCC" class="light-bg-text bg-text location-heading">
+						<h2>
+							<a href="{{url('/app-development-gcc')}}" class="text-black">GCC</a>	
+						</h2>
 					</div>
 				</div>
 			</div>
@@ -282,16 +284,18 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="United Kingdom" class="light-bg-text bg-text">
-						<h2>United Kingdom</h2>
+					<div data-text="United Kingdom" class="light-bg-text bg-text location-heading">
+						<h2>
+							<a href="{{url('/app-development-uk')}}" class="text-black">United Kingdom</a>	
+						</h2>
 					</div>
 				</div>
 			</div>
@@ -330,9 +334,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
@@ -368,9 +372,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
@@ -406,9 +410,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
@@ -444,9 +448,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
@@ -472,9 +476,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
@@ -500,9 +504,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!-- Start Technologies -->
+<!--  Start Technologies  -->
 <section class="technologies certificates py-5">
 	<div class="container">
 		<div class="row fadeIn">
@@ -542,9 +546,9 @@
 		</div>
 	</div>
 </section>
-<!-- End Technologies -->
+<!--  End Technologies  -->
 
-<!--Start Badges-->
+<!-- Start Badges -->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
@@ -629,9 +633,9 @@
 		</div>
 	</div>
 </section>
-<!--End Badges-->
+<!-- End Badges -->
 
-<!--Start Let's Work Together-->
+<!-- Start Let's Work Together -->
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -649,9 +653,9 @@
 		</div>
 	</div>
 </div>
-<!--End Let's Work Together-->
+<!-- End Let's Work Together -->
 
-<!--Start Testinomial-->
+<!-- Start Testinomial -->
 <section class="testimonials-section-app pt100 pb-5">
     <div class="container">
         <div class="row">
@@ -667,9 +671,9 @@
 		
 		
         <div class="testimonial-card-a owl-carousel owl-theme owl-theme">
-            <!-- <div class="row mt-3 px-3"> -->
+            <!--  <div class="row mt-3 px-3">  -->
 			@foreach($testimonials as $item)
-                <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
+                <!--  <div class="col-lg-6 mt-3 wow fadeIn">  -->
 					<div class="tcd card h-100">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
@@ -678,7 +682,7 @@
 							</div>
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
+									<!--  <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div>  -->
 									<div class="media-body user-info v-center">
 										<h5>{{$item['name']}}</h5>
 										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
@@ -687,9 +691,9 @@
 							</div>
 						</div>
 					</div>
-                <!-- </div> -->
+                <!--  </div>  -->
             @endforeach
-            <!-- </div> -->
+            <!--  </div>  -->
         </div>
         <div class="row mt-5">
             <div class="col-12">
@@ -792,9 +796,9 @@
         </div>
     </div>
 </section>
-<!--End Testinomial-->
+<!-- End Testinomial -->
 
-<!--Start Clients-->
+<!-- Start Clients -->
 <section class="py-5 bg-gradient3 client">
 	<div class="container">
 		<div class="row fadeIn">
@@ -823,6 +827,6 @@
 		</div>
 	</div>
 </section>
-<!--End Clients-->
+<!-- End Clients -->
 
 @endsection

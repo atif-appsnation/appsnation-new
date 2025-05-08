@@ -1,6 +1,6 @@
 @extends('app.main')
 @section('content')
-<!--Start Breadcrumb Area-->
+<!-- Start Breadcrumb Area -->
 <section class="breadcrumb-areav2 usa-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
@@ -94,9 +94,9 @@
 		</div>
 	</div>
 </section>
-<!--End Breadcrumb-->
+<!-- End Breadcrumb -->
 
-<!--Start About-->
+<!-- Start About -->
 <section class="about py-5">
 	<div class="container">
 		<div class="row">
@@ -116,9 +116,9 @@
 		</div>
 	</div>
 </section>
-<!--End About-->
+<!-- End About -->
 
-<!--Start About-->
+<!-- Start About -->
 <section class="usa-about pt60 pb60">
 	<div class="container">
 		<div class="row">
@@ -138,9 +138,9 @@
 		</div>
 	</div>
 </section>
-<!--End About-->
+<!-- End About -->
 
-<!--Start Service-->
+<!-- Start Service -->
 <section class="service-section py-5 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -320,7 +320,7 @@
 		</div>
 	</div>
 </section>
-<!--End Service-->
+<!-- End Service -->
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
@@ -364,7 +364,7 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Portfolio-->
+<!-- Start Portfolio -->
 <section class="portfolio-section py-5">
 	<div class="container">
 		<div class="row">
@@ -543,9 +543,9 @@
 		</div>
 	</section>
 </section>
-<!--End Portfolio-->
+<!-- End Portfolio -->
 
-<!--Start Badges-->
+<!-- Start Badges -->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
@@ -630,9 +630,9 @@
 		</div>
 	</div>
 </section>
-<!--End Badges-->
+<!-- End Badges -->
 
-<!--Start Process-->
+<!-- Start Process -->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
@@ -691,9 +691,9 @@
 		</div>
 	</div>
 </section>
-<!--End Process-->
+<!-- End Process -->
 
-<!--Start Let's Work Together-->
+<!-- Start Let's Work Together -->
 <div class="row justify-content-center hire-developer hire-developer-app-development">
 	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -704,9 +704,9 @@
 		</div>
 	</div>
 </div>
-<!--End Let's Work Together-->
+<!-- End Let's Work Together -->
 
-<!--Start Services-->
+<!-- Start Services -->
 <section class="services-section mb-5">
 	<div class="container">
 		<div class="row">
@@ -761,9 +761,9 @@
 		</div>
 	</div>
 </div>
-<!--End Services-->
+<!-- End Services -->
 
-<!--Start About-->
+<!-- Start About -->
 <section class="usa-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
@@ -779,9 +779,9 @@
 		</div>
 	</div>
 </section>
-<!--End About-->
+<!-- End About -->
 
-<!--Start Let's Work Together-->
+<!-- Start Let's Work Together -->
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -799,9 +799,9 @@
 		</div>
 	</div>
 </div>
-<!--End Let's Work Together-->
+<!-- End Let's Work Together -->
 
-<!--Start Testinomial-->
+<!-- Start Testinomial -->
 <section class="testimonials-section-app pt100 pb-5">
     <div class="container">
         <div class="row">
@@ -942,9 +942,9 @@
         </div>
     </div>
 </section>
-<!--End Testinomial-->
+<!-- End Testinomial -->
 
-<!--Start Solutions-->
+<!-- Start Solutions -->
 <section class="solutions-section py-5">
     <div class="container">
 		<div class="row">
@@ -1050,9 +1050,9 @@
             </div>
         </div>
 </section>
-<!--End Solutions-->
+<!-- End Solutions -->
 
-<!--Start Industries-->
+<!-- Start Industries -->
 <section class="industries-section py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
@@ -1223,9 +1223,9 @@
 		</div>
 	</div>
 </section>
-<!--End Industries-->
+<!-- End Industries -->
 
-<!--Start Let's Connect-->
+<!-- Start Let's Connect -->
 <div class="lets-connect">
 	<div class="row justify-content-center pt50 pb50">
 		<div class="col-12">
@@ -1242,9 +1242,9 @@
 	</div>
 </div>
 
-<!--End et's Connect-->
+<!-- End et's Connect -->
 
-<!--Start Tech-->
+<!-- Start Tech -->
 <section class="technologies-stack py-5">
 	<div class="container">
 		<div class="row fadeIn">
@@ -1679,7 +1679,7 @@
 		</div>
 	</div>
 </section>
-<!--End Tech-->
+<!-- End Tech -->
 
 <!-- Start Hire Developers -->
 <section class="hire-developers py-5">
@@ -1690,7 +1690,7 @@
 					<div data-text="Developers" class="dark-bg-text bg-text">
 						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
 					</div>
-					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<!-- <p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p> -->
 					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
@@ -1816,7 +1816,7 @@
 </section>
 <!-- End Hire Us -->
 
-<!--Start Clients-->
+<!-- Start Clients -->
 <section class="py-5 bg-gradient3 client">
 	<div class="container">
 		<div class="row fadeIn">
@@ -1845,7 +1845,7 @@
 		</div>
 	</div>
 </section>
-<!--End Clients-->
+<!-- End Clients -->
 
 <!-- Start Location -->
 <section class="location py-5">
@@ -1868,16 +1868,14 @@
 </section>
 <!-- End Location -->
 
-<!--Start Locations-->
+<!-- Start Locations -->
 <section class="locations py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="USA" class="light-bg-text bg-text location-heading">
-						<h2>
-							<a href="{{url('/app-development-usa')}}" class="text-black">USA</a>	
-						</h2>
+					<div data-text="USA" class="light-bg-text bg-text">
+						<h2>USA</h2>
 					</div>
 				</div>
 			</div>
@@ -1976,9 +1974,9 @@
 		</div>
 	</div>
 </section>
-<!--End Locations-->
+<!-- End Locations -->
 
-<!-- Start FAQS-->
+<!-- Start FAQS -->
 <section class="faq-section py-5">
     <div class="container">
         <div class="row">

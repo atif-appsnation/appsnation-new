@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
-<!-- Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 gcc-banner">
+<!--Start Breadcrumb Area-->
+<section class="breadcrumb-areav2 saudi-arabia-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -11,8 +11,8 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Gulf Cooperation Council</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the GCC's leading mobile app development company based in GCC. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Saudi Arabia</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the Saudi Arabia's leading mobile app development company based in Saudi Arabia. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
 				</div>
 				<div class="row mt-3">
 					<div class="col-md-4">
@@ -94,60 +94,60 @@
 		</div>
 	</div>
 </section>
-<!-- End Breadcrumb-->
+<!--End Breadcrumb-->
 
-<!-- Start About-->
+<!--Start About-->
 <section class="about py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Gulf Cooperation Council</h2>
+						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Saudi Arabia</h2>
 					</div>
-					<p>AppsNation is a business-grade, top mobile app development Agency in Gulf Cooperation Council helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Gulf Cooperation Council. </p>
+					<p>AppsNation is a business-grade, top mobile app development Agency in Saudi Arabia helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Saudi Arabia. </p>
 				</div>
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/gcc/gcc.webp" alt="Gulf Cooperation Council" class="img-fluid no-shadow" />
+					<img src="images/locations/saudi-arabia/saudi-arabia.webp" alt="saudi-arabia" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- End About-->
+<!--End About-->
 
-<!-- Start About-->
-<section class="gcc-about pt60 pb60">
+<!--Start About-->
+<section class="saudi-arabia-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Gulf Cooperation Council</h2>
+						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Saudi Arabia</h2>
 					</div>
-					<p class="text-white">You cannot lag behind when 96% of the Gulf Cooperation Council population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Gulf Cooperation Council to digitalize yourself.</p>
-					<p class="text-white">Partner with a leading mobile app development company in Gulf Cooperation Council to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
+					<p class="text-white">You cannot lag behind when 96% of the Saudi Arabia population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Saudi Arabia to digitalize yourself.</p>
+					<p class="text-white">Partner with a leading mobile app development company in Saudi Arabia to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn">
-				<img src="images/locations/gcc/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
+				<img src="images/locations/saudi-arabia/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
 </section>
-<!-- End About-->
+<!--End About-->
 
-<!-- Start Service-->
+<!--Start Service-->
 <section class="service-section py-5 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text text-center">
-						<h2>App Development Services in <span>Gulf Cooperation Council</span></h2>
+						<h2>App Development Services in <span>Saudi Arabia</span></h2>
 					</div>
 				</div>
 			</div>
@@ -320,7 +320,7 @@
 		</div>
 	</div>
 </section>
-<!-- End Service-->
+<!--End Service-->
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">
@@ -364,7 +364,7 @@
 </section>
 <!-- End Technologies -->
 
-<!-- Start Portfolio-->
+<!--Start Portfolio-->
 <section class="portfolio-section py-5">
 	<div class="container">
 		<div class="row">
@@ -543,16 +543,16 @@
 		</div>
 	</section>
 </section>
-<!-- End Portfolio-->
+<!--End Portfolio-->
 
-<!-- Start Badges-->
+<!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Gulf Cooperation Council</h2>
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Saudi Arabia</h2>
 					</div>
 				</div>
 			</div>
@@ -630,16 +630,16 @@
 		</div>
 	</div>
 </section>
-<!-- End Badges-->
+<!--End Badges-->
 
-<!-- Start Process-->
+<!--Start Process-->
 <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>App</span> Development Process in Gulf Cooperation Council</h2>
+						<h2>Our <span>App</span> Development Process in Saudi Arabia</h2>
 					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
@@ -691,29 +691,29 @@
 		</div>
 	</div>
 </section>
-<!-- End Process-->
+<!--End Process-->
 
-<!-- Start Let's Work Together-->
+<!--Start Let's Work Together-->
 <div class="row justify-content-center hire-developer hire-developer-app-development">
 	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
 			<p class="text-center text-lg-start text-white">We Promise. <span>We Deliver.</span> </p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
-			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid">
+			<img src="images/locations/saudi-arabia/hire-developer.webp" alt="Hire Developer" class="img-fluid">
 		</div>
 	</div>
 </div>
-<!-- End Let's Work Together-->
+<!--End Let's Work Together-->
 
-<!-- Start Services-->
+<!--Start Services-->
 <section class="services-section mb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Services" class="light-bg-text bg-text mt-5 text-center">
-						<h2>Our <span>Services</span> in Gulf Cooperation Council</h2>
+						<h2>Our <span>Services</span> in Saudi Arabia</h2>
 					</div>
 				</div>
 			</div>
@@ -761,27 +761,27 @@
 		</div>
 	</div>
 </div>
-<!-- End Services-->
+<!--End Services-->
 
-<!-- Start About-->
-<section class="gcc-partner pt60 pb60 mt-5">
+<!--Start About-->
+<section class="saudi-arabia-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Partner" class="light-bg-text bg-text">
-						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Gulf Cooperation Council</h2>
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Saudi Arabia</h2>
 					</div>
-					<p class="text-white">Be a part of 100s of Gulf Cooperation Council based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
+					<p class="text-white">Be a part of 100s of Saudi Arabia based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- End About-->
+<!--End About-->
 
-<!-- Start Let's Work Together-->
+<!--Start Let's Work Together-->
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -799,9 +799,9 @@
 		</div>
 	</div>
 </div>
-<!-- End Let's Work Together-->
+<!--End Let's Work Together-->
 
-<!-- Start Testinomial-->
+<!--Start Testinomial-->
 <section class="testimonials-section-app pt100 pb-5">
     <div class="container">
         <div class="row">
@@ -942,16 +942,16 @@
         </div>
     </div>
 </section>
-<!-- End Testinomial-->
+<!--End Testinomial-->
 
-<!-- Start Solutions-->
+<!--Start Solutions-->
 <section class="solutions-section py-5">
     <div class="container">
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
-						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Gulf Cooperation Council</h2>
+						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Saudi Arabia</h2>
 					</div>
 				</div>
 			</div>
@@ -1050,16 +1050,16 @@
             </div>
         </div>
 </section>
-<!-- End Solutions-->
+<!--End Solutions-->
 
-<!-- Start Industries-->
+<!--Start Industries-->
 <section class="industries-section py-5 dark-bg2">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag text-center">
 					<div data-text="Our Industries" class="light-bg-text bg-text">
-						<h2><span>Industries</span> We Work With in Gulf Cooperation Council</h2>
+						<h2><span>Industries</span> We Work With in Saudi Arabia</h2>
 					</div>
 				</div>
 			</div>
@@ -1223,15 +1223,15 @@
 		</div>
 	</div>
 </section>
-<!-- End Industries-->
+<!--End Industries-->
 
-<!-- Start Let's Connect-->
+<!--Start Let's Connect-->
 <div class="lets-connect">
 	<div class="row justify-content-center pt50 pb50">
 		<div class="col-12">
 			<div class="container">
 				<div class="free-cta-title v-center wow fadeIn">
-					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Gulf Cooperation Council-Based Mobile App Development Company Let’s Connect</h3>
+					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Saudi Arabia Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
 					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
@@ -1242,9 +1242,9 @@
 	</div>
 </div>
 
-<!-- End et's Connect-->
+<!--End et's Connect-->
 
-<!-- Start Tech-->
+<!--Start Tech-->
 <section class="technologies-stack py-5">
 	<div class="container">
 		<div class="row fadeIn">
@@ -1679,7 +1679,7 @@
 		</div>
 	</div>
 </section>
-<!-- End Tech-->
+<!--End Tech-->
 
 <!-- Start Hire Developers -->
 <section class="hire-developers py-5">
@@ -1690,7 +1690,7 @@
 					<div data-text="Developers" class="dark-bg-text bg-text">
 						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
 					</div>
-					<!-- <p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
+					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
 					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
@@ -1816,7 +1816,7 @@
 </section>
 <!-- End Hire Us -->
 
-<!-- Start Clients-->
+<!--Start Clients-->
 <section class="py-5 bg-gradient3 client">
 	<div class="container">
 		<div class="row fadeIn">
@@ -1845,7 +1845,7 @@
 		</div>
 	</div>
 </section>
-<!-- End Clients -->
+<!--End Clients-->
 
 <!-- Start Location -->
 <section class="location py-5">
@@ -1854,9 +1854,9 @@
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading">
 					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Gulf Cooperation Council</h2>
+						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Saudi Arabia</h2>
 					</div>
-					<p class="pt-2">We are the No.1 mobile app development company in Gulf Cooperation Council that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
+					<p class="pt-2">We are the No.1 mobile app development company in Saudi Arabia that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -1874,8 +1874,8 @@
 		<div class="row">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
-					<div data-text="GCC" class="light-bg-text bg-text">
-						<h2>GCC</h2>
+					<div data-text="Saudi Arabia" class="light-bg-text bg-text">
+						<h2>Saudi Arabia"</h2>
 					</div>
 				</div>
 			</div>
@@ -1884,59 +1884,9 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>UAE</h4>
+						<h4>Riyadh</h4>
 						<ul class="mt-3">
-							<li><a href="{{url('/app-development-uae')}}" class="text-black">App Development in UAE</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="card">
-					<div class="card-body">
-						<h4>Qatar</h4>
-						<ul class="mt-3">
-							<li><a href="{{url('/app-development-qatar')}}" class="text-black">App Development in Qatar</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-				<div class="card">
-					<div class="card-body">
-						<h4>Saudi Arabia</h4>
-						<ul class="mt-3">
-							<li><a href="{{url('/app-development-saudi-arabia')}}" class="text-black">App Development in Saudi Arabia</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="card">
-					<div class="card-body">
-						<h4>Bahrain</h4>
-						<ul class="mt-3">
-							<li><a href="{{url('/app-development-bahrain')}}" class="text-black">App Development in Bahrain</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="card">
-					<div class="card-body">
-						<h4>Oman</h4>
-						<ul class="mt-3">
-							<li><a href="{{url('/app-development-oman')}}" class="text-black">App Development in Oman</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-				<div class="card">
-					<div class="card-body">
-						<h4>Kuwait</h4>
-						<ul class="mt-3">
-							<li><a href="{{url('/app-development-kuwait')}}" class="text-black">App Development in Kuwait</a></li>
+							<li><a href="{{url('/app-development-riyadh')}}" class="text-black">App Development in Riyadh</a></li>
 						</ul>
 					</div>
 				</div>

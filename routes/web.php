@@ -133,8 +133,8 @@ Route::get('/app-development-morocco','HomeController@morocco');
 Route::get('/app-development-germany','HomeController@germany');
 Route::get('/app-development-saudi-arabia','HomeController@saudi_arabia');
 Route::get('/app-development-uae','HomeController@uae');
+Route::get('/app-development-italy','HomeController@italy');
 Route::get('/locations','HomeController@locations');
-
 
 Route::get('/review-data2','ScraperController@scrapeTestimonials2');
 Route::get('/review-data','ScraperController@scrapeTestimonials');

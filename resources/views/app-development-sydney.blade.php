@@ -1847,8 +1847,8 @@
 </section>
 <!--End Clients-->
 
-<!-- Start Hire Developers -->
-<section class="location py-5">
+<!-- Start Location -->
+<!-- <section class="location py-5">
 	<div class="container">
 		<div class="row wow fadeIn">
 			<div class="col-lg-6 my-auto">
@@ -1865,8 +1865,8 @@
 			</div>
 		</div>
 	</div>
-</section>
-<!-- End Hire Developers -->
+</section> -->
+<!-- End Location -->
 
 <!-- Start FAQS-->
 <section class="faq-section py-5">

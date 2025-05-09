@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 washington-banner">
+<section class="breadcrumb-areav2 canada-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -11,8 +11,8 @@
 		<div class="row justify-content-between">
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in CANADA</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the USA's leading mobile app development company based in Los Angeles. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Canada</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the Canada's leading mobile app development company based in Canada. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
 				</div>
 				<div class="row mt-3">
 					<div class="col-md-4">
@@ -103,14 +103,14 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Washington</h2>
+						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Canada</h2>
 					</div>
-					<p>AppsNation is a business-grade, top mobile app development Agency in Washington helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Washington. </p>
+					<p>AppsNation is a business-grade, top mobile app development Agency in Canada helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Canada. </p>
 				</div>
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/washington/washington.webp" alt="Washington" class="img-fluid no-shadow" />
+					<img src="images/locations/canada/canada.webp" alt="canada" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -119,21 +119,21 @@
 <!--End About-->
 
 <!--Start About-->
-<section class="washington-about pt60 pb60">
+<section class="canada-about pt60 pb60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Washington</h2>
+						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Canada</h2>
 					</div>
-					<p class="text-white">You cannot lag behind when 96% of the Washington population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Washington to digitalize yourself.</p>
-					<p class="text-white">Partner with a leading mobile app development company in Washington to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
+					<p class="text-white">You cannot lag behind when 96% of the Canada population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Canada to digitalize yourself.</p>
+					<p class="text-white">Partner with a leading mobile app development company in Canada to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn">
-				<img src="images/locations/washington/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
+				<img src="images/locations/canada/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
 			</div>
 		</div>
 	</div>
@@ -147,7 +147,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text text-center">
-						<h2>App Development Services in <span>Washington</span></h2>
+						<h2>App Development Services in <span>Canada</span></h2>
 					</div>
 				</div>
 			</div>
@@ -552,7 +552,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Washington</h2>
+						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Canada</h2>
 					</div>
 				</div>
 			</div>
@@ -639,7 +639,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>App</span> Development Process in Washington</h2>
+						<h2>Our <span>App</span> Development Process in Canada</h2>
 					</div>
 					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
 				</div>
@@ -713,7 +713,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Services" class="light-bg-text bg-text mt-5 text-center">
-						<h2>Our <span>Services</span> in Washington</h2>
+						<h2>Our <span>Services</span> in Canada</h2>
 					</div>
 				</div>
 			</div>
@@ -764,15 +764,15 @@
 <!--End Services-->
 
 <!--Start About-->
-<section class="washington-partner pt60 pb60 mt-5">
+<section class="canada-partner pt60 pb60 mt-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Partner" class="light-bg-text bg-text">
-						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Washington</h2>
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Canada</h2>
 					</div>
-					<p class="text-white">Be a part of 100s of Washington based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
+					<p class="text-white">Be a part of 100s of Canada based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -951,7 +951,7 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn text-center">
 					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
-						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Washington</h2>
+						<h2><span>Solutions</span> We’ve Conquered As An Elite Custom <span>Mobile App Development Company</span> in Canada</h2>
 					</div>
 				</div>
 			</div>
@@ -1059,7 +1059,7 @@
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag text-center">
 					<div data-text="Our Industries" class="light-bg-text bg-text">
-						<h2><span>Industries</span> We Work With in Washington</h2>
+						<h2><span>Industries</span> We Work With in Canada</h2>
 					</div>
 				</div>
 			</div>
@@ -1231,7 +1231,7 @@
 		<div class="col-12">
 			<div class="container">
 				<div class="free-cta-title v-center wow fadeIn">
-					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Washington-Based Mobile App Development Company Let’s Connect</h3>
+					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept canada-Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
 					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
@@ -1847,16 +1847,16 @@
 </section>
 <!--End Clients-->
 
-<!-- Start Hire Developers -->
-<section class="location py-5">
+<!-- Start Location -->
+<!-- <section class="location py-5">
 	<div class="container">
 		<div class="row wow fadeIn">
 			<div class="col-lg-6 my-auto">
 				<div class="common-heading">
 					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Washington</h2>
+						<h2><span>Expand Your Market Presence with Our Top Mobile App </span>Development Company in Canada</h2>
 					</div>
-					<p class="pt-2">We are the No.1 mobile app development company in Washington that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
+					<p class="pt-2">We are the No.1 mobile app development company in Canada that offer impeccable solutions under cost-effective rates. We build high-quality, user-friendly mobile apps that drive growth and help you reach more customers & generate massive revenue. With our award-winning solutions and industry expertise, we help you in keeping ahead of your rivals.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -1865,8 +1865,34 @@
 			</div>
 		</div>
 	</div>
+</section> -->
+<!-- End Location -->
+
+<!-- Start Locations -->
+<section class="locations py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div data-text="Canada" class="light-bg-text bg-text">
+					<h2>Canada</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row mt70">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="card">
+					<div class="card-body">
+						<h4>Toronto</h4>
+						<ul class="mt-3">
+							<li><a href="{{url('/app-development-toronto')}}" class="text-black">App Development in Toronto</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
-<!-- End Hire Developers -->
+<!-- End Locations -->
 
 <!-- Start FAQS-->
 <section class="faq-section py-5">

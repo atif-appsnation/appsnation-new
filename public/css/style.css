@@ -15086,6 +15086,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Birmingham */
 
+/* Start Africa */
+
+.africa-banner {
+    background: url(../images/locations/africa/africa-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.africa-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.africa-about, .about2 {
+    background: url(../images/locations/africa/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.africa-partner {
+    background: url(../images/locations/africa/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Africa */
+
 /* Start Johannesburg */
 
 .johannesburg-banner {
@@ -15145,6 +15175,66 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Morocoo */
+
+/* Start Europe */
+
+.europe-banner {
+    background: url(../images/locations/europe/europe-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.europe-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.europe-about, .about2 {
+    background: url(../images/locations/europe/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.europe-partner {
+    background: url(../images/locations/europe/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Europe */
+
+/* Start Italy */
+
+.italy-banner {
+    background: url(../images/locations/italy/italy-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.italy-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.italy-about, .about2 {
+    background: url(../images/locations/italy/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.italy-partner {
+    background: url(../images/locations/italy/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Italy */
 
 /* Start Rome */
 
@@ -15206,6 +15296,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Germany */
 
+/* Start Australia */
+
+.australia-banner {
+    background: url(../images/locations/australia/australia-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.australia-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.australia-about, .about2 {
+    background: url(../images/locations/australia/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.australia-partner {
+    background: url(../images/locations/australia/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Australia */
+
 /* Start Melbourne */
 
 .melbourne-banner {
@@ -15266,6 +15386,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Sydney */
 
+/* Start Canada */
+
+.canada-banner {
+    background: url(../images/locations/canada/canada-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.canada-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.canada-about, .about2 {
+    background: url(../images/locations/canada/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.canada-partner {
+    background: url(../images/locations/canada/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Canada */
+
 /* Start Toronto */
 
 .toronto-banner {
@@ -15295,6 +15445,36 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Toronto */
+
+/* Start Pakistan */
+
+.pakistan-banner {
+    background: url(../images/locations/pakistan/pakistan-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.pakistan-banner .niwax23form {
+    background: rgba(255, 255, 255, 1);
+}
+
+.pakistan-about, .about2 {
+    background: url(../images/locations/pakistan/scale-your-business-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.pakistan-partner {
+    background: url(../images/locations/pakistan/partner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+/* End Pakistan */
 
 /* Start Karachi */
 

@@ -181,7 +181,8 @@ class MetatagCrudController extends CrudController
                 'morocco' => 'morocoo',
                 'germany' => 'germany',
                 'saudia_arabia' => 'saudia_arabia',
-                'uae' => 'uae' 
+                'uae' => 'uae',
+                'italy' => 'italy'
             ],
 
             'allows_null' => false,

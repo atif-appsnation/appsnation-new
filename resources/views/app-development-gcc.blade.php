@@ -1848,7 +1848,7 @@
 <!-- End Clients -->
 
 <!-- Start Location -->
-<section class="location py-5">
+<!-- <section class="location py-5">
 	<div class="container">
 		<div class="row wow fadeIn">
 			<div class="col-lg-6 my-auto">
@@ -1865,7 +1865,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!-- End Location -->
 
 <!-- Start Locations -->

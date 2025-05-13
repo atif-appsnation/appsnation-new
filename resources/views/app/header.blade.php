@@ -28,10 +28,6 @@
 	</script>
 
 	<meta charset="utf-8" />
-	<!-- <title>AppsNation | Top Rated Mobile App Development Company</title> -->
-	<!-- <meta name="description" content="Top Rated Mobile App Development Company"> -->
-	<!-- <meta name="keywords" content="AppsNation, Mobile App Development Company"> -->
-	<!-- <meta name="author" content="rajesh-doot"> -->
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	@foreach($metatitle as $item)
 	<title>{{ $item['title'] }}</title>

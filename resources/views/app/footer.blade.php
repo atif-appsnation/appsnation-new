@@ -346,7 +346,7 @@
 <script src="{{asset('js/owl.carousel.js')}}"></script>
 <script src="{{asset('js/owl.navigation.js')}}"></script>
 <script src="{{asset('js/owl.autoplay.js')}}"></script>
-<script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
+{{-- <script src="{{asset('js/image-comparison-slider.min.js')}}"></script> --}}
 <script src="{{asset('js/main.js')}}"></script>
 <script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
 <script type="text/javascript" src="https://assets.goodfirms.co/assets/js/widget.min.js"></script>
@@ -366,37 +366,6 @@
 
     $(window).on('load', function() {
 
-        // checkCookie.click();
-        // var now = new Date();
-        // var time = now.getTime();
-        // var expireTime = time + 1000 * 36000;
-        // now.setTime(expireTime);
-
-
-        // console.log(expireTime);
-
-        // if (aa == 'cookie=ok') {
-        //     console.log("yes");
-        // } else {
-        //     console.log("no");
-        //     var aa = document.cookie = 'cookie=ok';
-
-        // }
-
-        // var delayMs = 3000; // delay in milliseconds
-        // setTimeout(function() {
-        //     $('#leadModal').modal('show');
-        // }, delayMs);
-
-        // $.cookie('popup', 'seen', {
-        //     expires: 365,
-        //     path: '/'
-        // });
-
-
-        // }
-
-        // $("#focus-error").focus();  
     });
 
 </script>
@@ -487,7 +456,7 @@
     });
 </script>
 
-<!-- <body onload="checkCookie()"></body> -->
+
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
@@ -503,14 +472,6 @@
 </script>
 <!--End of Tawk.to Script-->
 
-<!-- <script>
-    window.onload = function() {
-        setTimeout(function() {
-            document.querySelector('.main-ban').classList.remove('hidden');
-        }, 500);
-        
-    };
-</script> -->
 </body>
 
 </html>

@@ -4332,3 +4332,810 @@
 		margin: 200px 0px 50px;
 	}
 }
+
+@media (max-width: 1920px) {
+	.cost-calculator .wizard-form .book-a-consultant-now {
+		bottom: -30px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now {
+		bottom: -30px;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now {
+		bottom: -30px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now {
+		bottom: -30px;
+	}
+}
+
+@media (max-width: 1399px) {
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 27%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0 13px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 100px;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 27%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0 13px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 100px;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -13%;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -13%;
+	}
+
+	.cost-calculator-new .business-analyst {
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding: 20px 0;
+		margin-top: 5rem;
+		background-position: right;
+		border-radius: 15px;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(1) {
+		bottom: -20px;
+	}
+
+	.cost-to-create-cta .img-cont img {
+		right: 0;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -13%;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -13%;
+	}
+
+	.cost-calculator-new .business-analyst {
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding: 20px 0;
+		margin-top: 5rem;
+		background-position: right;
+		border-radius: 15px;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(1) {
+		bottom: -20px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0 25px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 130px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .content {
+		min-height: auto;
+		margin-bottom: 20px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0 25px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 130px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .content {
+		min-height: auto;
+		margin-bottom: 20px;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -10%;
+	}
+
+	.cost-calculator .rough-estimate {
+		margin-top: 50px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -10%;
+	}
+
+	.cost-calculator-new .rough-estimate {
+		margin-top: 50px;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -10%;
+	}
+
+	.cost-calculator .rough-estimate {
+		margin-top: 50px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -10%;
+	}
+
+	.cost-calculator-new .rough-estimate {
+		margin-top: 50px;
+	}
+}
+
+@media (max-width: 991px) {
+	.cost-calculator .wizard-form .wizard .steps > ul {
+		flex-wrap: wrap;
+		display: flex !important;
+		border-right: 0;
+		padding-right: 0;
+	}
+
+	.cost-calculator .wizard-form .wizard .steps {
+		width: 100%;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 20%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content {
+		width: 100%;
+		margin-top: 80px;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 29%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 29%;
+	}
+
+	.cost-calculator .wizard-form .wizard .actions {
+		max-width: 100%;
+	}
+
+	.cost-calculator .wizard-form .wizard .actions ul {
+		margin: 50px 25px 80px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 20%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps {
+		width: 100%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul {
+		flex-wrap: wrap;
+		display: flex !important;
+		border-right: 0;
+		padding-right: 0;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0 10px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 90px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .content {
+		width: 100%;
+		margin-top: 10px;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 29%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 29%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions {
+		max-width: 100%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions ul {
+		margin: 50px 25px 30px;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 20%;
+	}
+
+	.cost-calculator .wizard-form .wizard .steps {
+		width: 100%;
+	}
+
+	.cost-calculator .wizard-form .wizard .steps > ul {
+		flex-wrap: wrap;
+		display: flex !important;
+		border-right: 0;
+		padding-right: 0;
+	}
+
+	.cost-calculator .wizard-form .wizard .content {
+		width: 100%;
+		margin-top: 80px;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 29%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 29%;
+	}
+
+	.cost-calculator .wizard-form .wizard .actions {
+		max-width: 100%;
+	}
+
+	.cost-calculator .wizard-form .wizard .actions ul {
+		margin: 50px 25px 80px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 20%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps {
+		width: 100%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul {
+		flex-wrap: wrap;
+		display: flex !important;
+		border-right: 0;
+		padding-right: 0;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0 10px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 90px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .content {
+		width: 100%;
+		margin-top: 10px;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 29%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 29%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions ul {
+		margin: 50px 25px 30px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions {
+		max-width: 100%;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -4%;
+	}
+
+	.cost-calculator .rough-estimate {
+		margin-top: 0;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -4%;
+	}
+
+	.cost-calculator-new .wizard-form {
+		margin-top: 20px;
+	}
+
+	.cost-calculator-new .rough-estimate {
+		margin-top: 0;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -4%;
+	}
+
+	.cost-calculator .rough-estimate {
+		margin-top: 0;
+	}
+
+	.cost-calculator-new .wizard-form {
+		margin-top: 20px;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -4%;
+	}
+
+	.cost-calculator-new .rough-estimate {
+		margin-top: 0;
+	}
+}
+
+@media (max-width: 767px) {
+	.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 35%;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 27%;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 35%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 70px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li a {
+		padding: 13px 12px;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 35%;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 27%;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
+		margin-left: 35%;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li {
+		margin: 0;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
+		width: 70px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .steps > ul li a {
+		padding: 13px 12px;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 27%;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -5.5%;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -5.5%;
+	}
+
+	.cost-calculator-new .wizard-form {
+		margin-top: 0;
+	}
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: -5.5%;
+	}
+
+	.cost-calculator-new .wizard-form {
+		margin-top: 0;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: -5.5%;
+	}
+}
+
+@media (max-width: 575px) {
+	.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons {
+		justify-content: center;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions ul {
+		display: block;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions ul li {
+		margin-bottom: 15px;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons {
+		justify-content: center;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions ul {
+		display: block;
+	}
+
+	.cost-calculator-new .wizard-form .wizard .actions ul li {
+		margin-bottom: 15px;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: 0;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: 0;
+	}
+
+	.cost-calculator-new .business-analyst {
+		background-image: none;
+		background: linear-gradient(270deg, #089674 0.15%, #000 99.75%);
+		border-radius: 12px;
+		margin-top: 0;
+	}
+
+	.cost-calculator-new .business-analyst ul li {
+		width: 100%;
+		text-align: center;
+	}
+
+	.cost-calculator-new .business-analyst ul {
+		display: block;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(1) {
+		position: static;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(2) {
+		margin-left: 0;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(3) {
+		position: static;
+	}
+
+	.cost-calculator-new .business-analyst ul li h5 {
+		margin-bottom: 10px;
+	}
+
+	.cost-calculator .wizard-form .book-a-consultant-now img {
+		left: 0;
+	}
+
+	.cost-calculator-new .wizard-form .book-a-consultant-now img {
+		left: 0;
+	}
+
+	.cost-calculator-new .business-analyst {
+		background-image: none;
+		background: linear-gradient(270deg, #089674 0.15%, #000 99.75%);
+		border-radius: 12px;
+		margin-top: 0;
+	}
+
+	.cost-calculator-new .business-analyst ul {
+		display: block;
+	}
+
+	.cost-calculator-new .business-analyst ul li {
+		width: 100%;
+		text-align: center;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(1) {
+		position: static;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(2) {
+		margin-left: 0;
+	}
+
+	.cost-calculator-new .business-analyst ul li:nth-child(3) {
+		position: static;
+	}
+
+	.cost-calculator-new .business-analyst ul li h5 {
+		margin-bottom: 10px;
+	}
+}
+
+@media (max-width: 465px) {
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 42%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 42%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 42%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 42%;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 42%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 42%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 42%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 42%;
+	}
+}
+
+@media (max-width: 375px) {
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 40%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 40%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 40%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 40%;
+	}
+
+	.cost-calculator
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 40%;
+	}
+
+	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+		width: 40%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset.more-than-6-labels
+    .radio-buttons
+    label {
+		width: 40%;
+	}
+
+	.cost-calculator-new
+    .wizard-form
+    .wizard
+    .content
+    fieldset
+    .radio-buttons
+    label {
+		width: 40%;
+	}
+}

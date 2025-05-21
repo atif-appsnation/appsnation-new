@@ -3081,12 +3081,12 @@ class HomeController extends Controller
         );
     }
 
-    public function locations()
+    public function cost_calculator()
     {
-        $metabank = Metabank::where('slug', 'locations')->where('type', 'Tag')->get();
-        $metabank2 = Metabank::where('slug', 'locations')->where('type', 'Meta')->get();
-        $metatag = Metatag::where('slug', 'locations')->get();
-        $metatitle = Metatitle::where('slug', 'locations')->get();
+        $metabank = Metabank::where('slug', 'costcalculator')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'costcalculator')->where('type', 'Meta')->get();
+        $metatag = Metatag::where('slug', 'costcalculator')->get();
+        $metatitle = Metatitle::where('slug', 'costcalculator')->get();
         $techstack = Techstack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
         $agencystack = Agencystack::where('mr', 1)->orderBy('lft', 'asc')->get()->toArray();
         $awards = Award::orderBy('lft', 'asc')->get()->toArray();
@@ -3094,7 +3094,7 @@ class HomeController extends Controller
         $testimonials = Testimonial::orderBy('lft', 'asc')->get()->toArray();
         $clients = Client::orderBy('lft', 'asc')->get()->toArray();
         return view(
-            'locations',
+            'costcalculator',
             [
                 'awards' => $awards,
                 'testimonials' => $testimonials,

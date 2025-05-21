@@ -15562,3 +15562,1760 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 /* End Testimonials */
+
+/* Start Cost Calculator */
+
+.cost-calculator-new {
+	margin-top: 100px;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .wizard-form {
+	margin-top: 40px;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now {
+	position: relative;
+	border-radius: 10px;
+	padding: 40px 0;
+	background: var(--vertical-gradient,linear-gradient(75deg,#089674 .15%,#000 100%));
+	z-index: 2;
+	bottom: 5%;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
+	margin-left: 45%;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now .text-cont h2 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now .text-cont p {
+	margin-bottom: 15px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.cost-calculator .cost-icons {
+	width: 36px;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now a {
+	border-radius: 10px;
+	background: #089674;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 15px;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 0;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.cost-calculator .wizard-form .wizard {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.cost-calculator .wizard-form .wizard .steps {
+	position: relative;
+	display: block;
+	width: 30%;
+	z-index: 1;
+	background: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .steps .current-info {
+	position: absolute;
+	left: -999em;
+}
+
+.cost-calculator .wizard-form .wizard .steps a {
+	display: block;
+	width: auto;
+	font-size: 14px;
+	padding: 5px 15px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.cost-calculator .wizard-form .wizard .steps .done a {
+	color: #000;
+}
+
+.cost-calculator .wizard-form .wizard .steps .current a {
+	border-radius: 4px;
+	background: #089674;
+	color: #fff;
+	cursor: default;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul {
+	display: block!important;
+	border-bottom: 0;
+	border-right: 1px solid #f6f6f6;
+	padding-right: 25px;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li a {
+	width: 100%;
+	border: 0;
+	border-radius: 0;
+	text-align: left;
+	color: #c2c2c2;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 13px 15px;
+	display: flex;
+	align-items: center;
+	margin-bottom: 15px;
+	cursor: auto;
+	background: #fff;
+	text-decoration: none;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li a span.number {
+	display: none;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li .active {
+	border-radius: 4px;
+	background: #089674;
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content {
+	display: block;
+	position: relative;
+	width: 100%;
+	margin-top: 8px;
+}
+
+.cost-calculator .wizard-form .wizard .content .title {
+	position: absolute;
+	left: -999em;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont {
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont h1 {
+	color: #000;
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont h1 span {
+	color: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont p {
+	color: #000;
+	font-size: 12px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+/* .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label {
+	width: 28%;
+} */
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label.error {
+	position: absolute;
+	bottom: -30px;
+	color: #089674;
+	font-weight: 600;
+	border: 0;
+	cursor: default;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio],.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox] {
+	position: absolute;
+	opacity: 0;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label,.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
+	width: 16%;
+	padding: 25px 0;
+	display: flex;
+	margin: 12px 16px;
+	align-items: center;
+	justify-content: center;
+	border-radius: 5px;
+	border: 1px solid #089674;
+	transition: .3s;
+	cursor: pointer;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
+	background: 0 0;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.form-input.body {
+	display: none;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.form-input.body.current {
+	display: block;
+}
+
+.cost-calculator .wizard-form .wizard .actions {
+	width: 100%;
+	max-width: 100%;
+	margin-left: auto;
+	margin-top: 25px;
+}
+
+.cost-calculator-new .wizard-form .wizard .actions ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 25px;
+	position: relative;
+	z-index: 999;
+	padding-left: 0px;
+}
+
+.cost-calculator .wizard-form .wizard .actions ul li a {
+	border-radius: 10px;
+	border: 1px solid #089674;
+	color: #089674;
+	font-size: 16px;
+	font-weight: 600;
+	text-decoration: none;
+	padding: 13px 0;
+	min-width: 150px;
+	display: block;
+	text-align: center;
+}
+
+.cost-calculator .wizard-form .wizard .actions ul li a:hover {
+	border: 1px solid #089674;
+	color: #ffffff;
+	background-color: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .actions ul .disabled {
+	opacity: 0;
+}
+
+.cost-calculator .wizard-form .wizard .actions ul .disabled a {
+	cursor: default;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form textarea {
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	width: 100%;
+	resize: none;
+	outline: 0;
+	padding: 0 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+}
+
+/* body:has(.cost-calculator) .modal-backdrop {
+	opacity: .8;
+} */
+
+.cost-calculator-new .wizard-form .book-a-consultant-now {
+	position: relative;
+	border-radius: 10px;
+	padding: 40px 0;
+	background: var(--vertical-gradient,linear-gradient(75deg,#089674 .15%,#000 100%));
+	z-index: 2;
+	bottom: 5%;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
+	margin-left: 45%;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont h2 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont p {
+	margin-bottom: 15px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now a {
+	border-radius: 10px;
+	background: #089674;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 15px;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 0;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.cost-calculator-new .wizard-form .wizard {
+	display: block;
+	width: 100%;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps {
+	position: relative;
+	display: block;
+	width: 30%;
+	z-index: 1;
+	background: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps a {
+	display: block;
+	width: auto;
+	font-size: 14px;
+	padding: 5px 15px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .done a {
+	color: #000;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .current a,.cost-calculator-new .wizard-form .wizard .steps .done a {
+	background: rgba(0,0,0,0);
+	color: #089674;
+	cursor: default;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .current a .number,.cost-calculator-new .wizard-form .wizard .steps .done a .number {
+	background: #089674;
+	color: #fff;
+	font-weight: 500;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .current:after,.cost-calculator-new .wizard-form .wizard .steps .done:after {
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul {
+	display: flex!important;
+	border: 0;
+	padding-right: 25px;
+	list-style: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li {
+	margin: 0 20px;
+	position: relative;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li:after {
+	content: "";
+	width: 120px;
+	height: 2px;
+	background: #d9d9d9;
+	position: absolute;
+	top: 35px;
+	left: 45px;
+	z-index: -1;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li a {
+	width: 100%;
+	border: 0;
+	border-radius: 0;
+	text-align: left;
+	color: #000;
+	font-size: 12px;
+	font-weight: 500;
+	padding: 13px 15px;
+	display: block;
+	align-items: center;
+	cursor: auto;
+	margin-bottom: 15px;
+	background: rgba(0,0,0,0);
+	text-decoration: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li a span.number {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 20px;
+	height: 20px;
+	margin: auto;
+	border-radius: 100%;
+	background: #d9d9d9;
+	color: #202020;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 10px;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li .active span.number {
+	background: #089674;
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li:nth-last-child(1):after {
+	display: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .title {
+	position: absolute;
+	left: -999em;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont {
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont h1 {
+	color: #000;
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont h1 span {
+	color: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont p {
+	color: #000;
+	font-size: 12px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label {
+	width: 16%;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio],.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox] {
+	position: absolute;
+	opacity: 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label,.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
+	background: 0 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.form-input.body {
+	display: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.form-input.body.current {
+	display: block;
+}
+
+.cost-calculator-new .wizard-form .wizard .actions ul .disabled {
+	opacity: 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .actions ul .disabled a {
+	cursor: default;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form textarea {
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	width: 100%;
+	resize: none;
+	outline: 0;
+	padding: 0 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now {
+	position: relative;
+	border-radius: 10px;
+	padding: 40px 0;
+	background: var(--vertical-gradient,linear-gradient(75deg,#089674 .15%,#000 100%));
+	z-index: 2;
+	bottom: 5%;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
+	margin-left: 45%;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now .text-cont h2 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now .text-cont p {
+	margin-bottom: 15px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now a {
+	border-radius: 10px;
+	background: #089674;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 15px;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 0;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.cost-calculator .wizard-form .wizard {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.cost-calculator .wizard-form .wizard .steps {
+	position: relative;
+	display: block;
+	width: 30%;
+	z-index: 1;
+	background: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .steps a {
+	display: block;
+	width: auto;
+	font-size: 14px;
+	padding: 5px 15px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.cost-calculator .wizard-form .wizard .steps .done a {
+	color: #000;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li a {
+	width: 100%;
+	border: 0;
+	border-radius: 0;
+	text-align: left;
+	color: #c2c2c2;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 13px 15px;
+	display: flex;
+	align-items: center;
+	margin-bottom: 15px;
+	cursor: auto;
+	background: #fff;
+	text-decoration: none;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li a span.number {
+	display: none;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li .active {
+	border-radius: 4px;
+	background: #089674;
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content .title {
+	position: absolute;
+	left: -999em;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont {
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont h1 {
+	color: #000;
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont h1 span {
+	color: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content .text-cont p {
+	color: #000;
+	font-size: 12px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio],.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox] {
+	position: absolute;
+	opacity: 0;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
+	background: 0 0;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.form-input.body {
+	display: none;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.form-input.body.current {
+	display: block;
+}
+
+.cost-calculator .wizard-form .wizard .actions ul .disabled {
+	opacity: 0;
+}
+
+.cost-calculator .wizard-form .wizard .actions ul .disabled a {
+	cursor: default;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form textarea {
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	width: 100%;
+	resize: none;
+	outline: 0;
+	padding: 0 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now {
+	position: relative;
+	border-radius: 10px;
+	padding: 40px 0;
+	background: var(--vertical-gradient,linear-gradient(75deg,#089674 .15%,#000 100%));
+	z-index: 2;
+	bottom: 5%;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
+	margin-left: 45%;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont h2 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont p {
+	margin-bottom: 15px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now a {
+	border-radius: 10px;
+	background: #089674;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 15px;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 0;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.cost-calculator-new .wizard-form .wizard {
+	display: block;
+	width: 100%;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps {
+	position: relative;
+	display: block;
+	width: 30%;
+	z-index: 1;
+	background: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps a {
+	display: block;
+	width: auto;
+	font-size: 14px;
+	padding: 5px 15px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .done a {
+	color: #000;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .current:after,.cost-calculator-new .wizard-form .wizard .steps .done:after {
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li a {
+	width: 100%;
+	border: 0;
+	border-radius: 0;
+	text-align: left;
+	color: #000;
+	font-size: 12px;
+	font-weight: 500;
+	padding: 13px 15px;
+	display: block;
+	align-items: center;
+	cursor: auto;
+	margin-bottom: 15px;
+	background: rgba(0,0,0,0);
+	text-decoration: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li a span.number {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 40px;
+	height: 40px;
+	margin: auto;
+	border-radius: 100%;
+	background: #d9d9d9;
+	color: #202020;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 10px;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li .active span.number {
+	background: #089674;
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li:nth-last-child(1):after {
+	display: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .title {
+	position: absolute;
+	left: -999em;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont {
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont h1 {
+	color: #000;
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont h1 span {
+	color: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content .text-cont p {
+	color: #000;
+	font-size: 12px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label.error:hover {
+	background: 0 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio],.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox] {
+	position: absolute;
+	opacity: 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover {
+	border: 1px solid #089674;
+	background: #089674;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
+	color: #fff;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
+	text-align: -webkit-center;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center p {
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0;
+	line-height: 20px;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
+	background: 0 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.form-input.body {
+	display: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.form-input.body.current {
+	display: block;
+}
+
+.cost-calculator-new .wizard-form .wizard .actions ul .disabled {
+	opacity: 0;
+}
+
+.cost-calculator-new .wizard-form .wizard .actions ul .disabled a {
+	cursor: default;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form textarea {
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	width: 100%;
+	resize: none;
+	outline: 0;
+	padding: 0 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now img {
+	position: absolute;
+	left: -11.5%;
+	bottom: 15%;
+}
+
+.cost-calculator .wizard-form .wizard .steps .done a img {
+	filter: brightness(0);
+}
+
+.cost-calculator .wizard-form .wizard .steps .current a img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li a img {
+	margin-right: 15px;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li .active img {
+	filter: brightness(9);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label img,.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator .rough-estimate {
+	background: #f6f6f6;
+	height: auto;
+	padding: 30px;
+}
+
+.cost-calculator .rough-estimate h2 {
+	color: #000;
+	font-size: 24px;
+	font-weight: 600;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+
+.cost-calculator .rough-estimate h2 span {
+	color: #089674;
+}
+
+.cost-calculator .rough-estimate form p {
+	color: #000;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.cost-calculator .rough-estimate form .input-group {
+	border-radius: 16px;
+	background: #fff;
+	box-shadow: 0 7px 25px 0 rgba(0,0,0,.07);
+	margin-bottom: 35px;
+	padding: 6px 10px;
+}
+
+.cost-calculator .rough-estimate form .input-group input {
+	border: 0;
+	box-shadow: none;
+	outline: 0;
+	font-size: 14px;
+	font-weight: 600;
+	color: rgba(0,0,0,0);
+	text-shadow: 0 0 8px #000;
+}
+
+.cost-calculator .rough-estimate form .input-group input::placeholder {
+	color: #000;
+}
+
+.cost-calculator .rough-estimate form .input-group .input-group-prepend .input-group-text {
+	border: 0;
+	background: #fff;
+	color: #089674;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog {
+	max-width: 875px;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content {
+	border-radius: 20px;
+	position: relative;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body {
+	padding: 55px 45px;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body .btn-close {
+	position: absolute;
+	right: -15px;
+	top: -15px;
+	height: 32px;
+	width: 32px;
+	background: #089674;
+	border-radius: 100%;
+	color: #fff;
+	opacity: 1;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 {
+	color: #000;
+	text-align: center;
+	font-size: 41px;
+	font-weight: 600;
+	margin-bottom: 35px;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 span {
+	color: #089674;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form p {
+	color: #089674;
+	font-size: 14px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form input {
+	border-radius: 0;
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	margin-bottom: 35px;
+	padding: 4px 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+	outline: 0;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form button {
+	border-radius: 16px;
+	background: #089674;
+	padding: 15px 58px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 3.2px;
+	border: 0;
+	margin-top: 43px;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now img {
+	position: absolute;
+	left: -11.5%;
+	bottom: 15%;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .done a img {
+	filter: brightness(0);
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li a img {
+	display: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li .active img {
+	filter: brightness(9);
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover img {
+	filter: brightness(30);
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label img,.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label img {
+	filter: brightness(30);
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover img {
+	filter: brightness(30);
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator-new .rough-estimate h2 span {
+	color: #089674;
+}
+
+.cost-calculator-new .rough-estimate form .input-group input {
+	border: 0;
+	box-shadow: none;
+	outline: 0;
+	font-size: 14px;
+	font-weight: 600;
+	color: rgba(0,0,0,0);
+	text-shadow: 0 0 8px #000;
+}
+
+.cost-calculator-new .rough-estimate form .input-group input::placeholder {
+	color: #000;
+}
+
+.cost-calculator-new .rough-estimate form .input-group .input-group-prepend .input-group-text {
+	border: 0;
+	background: #fff;
+	color: #089674;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog {
+	max-width: 875px;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content {
+	border-radius: 20px;
+	position: relative;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body {
+	padding: 55px 45px;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body .btn-close {
+	position: absolute;
+	right: -15px;
+	top: -15px;
+	height: 32px;
+	width: 32px;
+	background: #089674;
+	border-radius: 100%;
+	color: #fff;
+	opacity: 1;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 {
+	color: #000;
+	text-align: center;
+	font-size: 41px;
+	font-weight: 600;
+	margin-bottom: 35px;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 span {
+	color: #089674;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form p {
+	color: #089674;
+	font-size: 14px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form input {
+	border-radius: 0;
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	margin-bottom: 35px;
+	padding: 4px 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+	outline: 0;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form button {
+	border-radius: 16px;
+	background: #089674;
+	padding: 15px 58px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 3.2px;
+	border: 0;
+	margin-top: 43px;
+}
+
+.cost-calculator-new .business-analyst {
+	background-image: url("analyst-bg.webp");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 20px 0 0px;
+}
+
+.cost-calculator-new .business-analyst.lzl:not(.lzl-ed),.cost-calculator-new .business-analyst.lzl-ing:not(.lzl-ed) {
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS4AAABlCAYAAADzqA5YAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACLElEQVR4Ae3QMQEAAADCoPVPbQlPiEBhwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBwGxjdDAAB4FI1RAAAAABJRU5ErkJggg==");
+}
+
+.cost-calculator-new .business-analyst ul {
+	display: flex;
+	list-style: none;
+	padding: 0;
+	position: relative;
+	justify-content: space-between;
+}
+
+.cost-calculator-new .business-analyst ul li {
+	width: 33.333%;
+}
+
+.cost-calculator-new .business-analyst ul li:nth-child(1) {
+	position: absolute;
+	bottom: 0px;
+	left: 0;
+}
+
+.cost-calculator-new .business-analyst ul li:nth-child(2) {
+	margin-left: 5rem;
+}
+
+.cost-calculator-new .business-analyst ul li:nth-child(3) {
+	position: absolute;
+	right: 0;
+	bottom: 6px;
+}
+
+.cost-calculator-new .business-analyst ul li h3 {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .business-analyst ul li h4,.cost-calculator-new .business-analyst ul li h5 {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.cost-calculator-new .business-analyst ul li h5 {
+	margin-top: 20px;
+}
+
+.cost-calculator-new .business-analyst ul li a {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15px;
+	text-decoration: none;
+	border-radius: 10px;
+	background: #089674;
+	padding: 10px 20px;
+}
+
+.cost-calculator .wizard-form .book-a-consultant-now img {
+	position: absolute;
+	left: -11.5%;
+	bottom: 15%;
+}
+
+.cost-calculator .wizard-form .wizard .steps .done a img {
+	filter: brightness(0);
+}
+
+.cost-calculator .wizard-form .wizard .steps .current a img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li a img {
+	margin-right: 15px;
+}
+
+.cost-calculator .wizard-form .wizard .steps>ul li .active img {
+	filter: brightness(9);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label img,.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover img {
+	filter: brightness(30);
+}
+
+.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator .rough-estimate h2 span {
+	color: #089674;
+}
+
+.cost-calculator .rough-estimate form .input-group input {
+	border: 0;
+	box-shadow: none;
+	outline: 0;
+	font-size: 14px;
+	font-weight: 600;
+	color: rgba(0,0,0,0);
+	text-shadow: 0 0 8px #000;
+}
+
+.cost-calculator .rough-estimate form .input-group input::placeholder {
+	color: #000;
+}
+
+.cost-calculator .rough-estimate form .input-group .input-group-prepend .input-group-text {
+	border: 0;
+	background: #fff;
+	color: #089674;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog {
+	max-width: 875px;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content {
+	border-radius: 20px;
+	position: relative;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body {
+	padding: 55px 45px;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body .btn-close {
+	position: absolute;
+	right: -15px;
+	top: -15px;
+	height: 32px;
+	width: 32px;
+	background: #089674;
+	border-radius: 100%;
+	color: #fff;
+	opacity: 1;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 {
+	color: #000;
+	text-align: center;
+	font-size: 41px;
+	font-weight: 600;
+	margin-bottom: 35px;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 span {
+	color: #089674;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form p {
+	color: #089674;
+	font-size: 14px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form input {
+	border-radius: 0;
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	margin-bottom: 35px;
+	padding: 4px 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+	outline: 0;
+}
+
+.cost-calculator .cost-calculator-modal .modal-dialog .modal-content .modal-body form button {
+	border-radius: 16px;
+	background: #089674;
+	padding: 15px 58px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 3.2px;
+	border: 0;
+	margin-top: 43px;
+}
+
+.cost-calculator-new .wizard-form .book-a-consultant-now img {
+	position: absolute;
+	left: -11.5%;
+	bottom: 15%;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps .done a img {
+	filter: brightness(0);
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li a img {
+	display: none;
+}
+
+.cost-calculator-new .wizard-form .wizard .steps>ul li .active img {
+	filter: brightness(9);
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover img {
+	filter: brightness(30)
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label img,.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label img {
+	filter: brightness(30)
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover img {
+	filter: brightness(30)
+}
+
+.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center img {
+	display: block;
+}
+
+.cost-calculator-new .rough-estimate h2 span {
+	color: #089674;
+}
+
+.cost-calculator-new .rough-estimate form .input-group input {
+	border: 0;
+	box-shadow: none;
+	outline: 0;
+	font-size: 14px;
+	font-weight: 600;
+	color: rgba(0,0,0,0);
+	text-shadow: 0 0 8px #000;
+}
+
+.cost-calculator-new .rough-estimate form .input-group input::placeholder {
+	color: #000;
+}
+
+.cost-calculator-new .rough-estimate form .input-group .input-group-prepend .input-group-text {
+	border: 0;
+	background: #fff;
+	color: #089674;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog {
+	max-width: 875px;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content {
+	border-radius: 20px;
+	position: relative;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body {
+	padding: 55px 45px;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body .btn-close {
+	position: absolute;
+	right: -15px;
+	top: -15px;
+	height: 32px;
+	width: 32px;
+	background: #089674;
+	border-radius: 100%;
+	color: #fff;
+	opacity: 1;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 {
+	color: #000;
+	text-align: center;
+	font-size: 41px;
+	font-weight: 600;
+	margin-bottom: 35px;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body h2 span {
+	color: #089674;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form p {
+	color: #089674;
+	font-size: 14px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form input {
+	border-radius: 0;
+	border: 0;
+	border-bottom: 1px solid #bfbfbf;
+	margin-bottom: 35px;
+	padding: 4px 0 8px;
+	color: #7c7c7c;
+	font-size: 14px;
+	font-weight: 400;
+	box-shadow: none;
+	outline: 0;
+}
+
+.cost-calculator-new .cost-calculator-modal .modal-dialog .modal-content .modal-body form button {
+	border-radius: 16px;
+	background: #089674;
+	padding: 15px 58px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 3.2px;
+	border: 0;
+	margin-top: 43px;
+}
+
+.cost-calculator-new .business-analyst.lzl:not(.lzl-ed),.cost-calculator-new .business-analyst.lzl-ing:not(.lzl-ed) {
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS4AAABlCAYAAADzqA5YAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACLElEQVR4Ae3QMQEAAADCoPVPbQlPiEBhwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBwGxjdDAAB4FI1RAAAAABJRU5ErkJggg==");
+}
+
+.cost-calculator-new .business-analyst ul li {
+	width: 33.333%;
+}
+
+.cost-calculator-new .business-analyst ul li:nth-child(2) {
+	margin-left: 5rem;
+}
+
+.cost-calculator-new .business-analyst ul li:nth-child(3) {
+	position: absolute;
+	right: 0;
+	bottom: 15px;
+}
+
+.cost-calculator-new .business-analyst ul li h3 {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 0;
+}
+
+.cost-calculator-new .business-analyst ul li h4,.cost-calculator-new .business-analyst ul li h5 {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.cost-calculator-new .business-analyst ul li h5 {
+	margin-top: 20px;
+}
+
+.cost-calculator-new .business-analyst ul li a {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15px;
+	text-decoration: none;
+	border-radius: 10px;
+	background: #089674;
+	padding: 10px 20px;
+}
+
+.steps .error {
+    height: 0vh;
+}
+
+/* End Cost Calculator */

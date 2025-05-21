@@ -36,6 +36,34 @@
 
 	{!! htmlspecialchars_decode($item['tags']) !!}
 	@endforeach
+
+<!-- <meta property="og:title" content="AppsNation - Your Trusted App Development Company">
+    <meta property="og:site_name" content="AppsNation">
+    <meta property="og:url" content=https://appsnation.co/>
+    <meta property="og:description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content=https://appsnation.co/images/logo/appsnation-black-logo.webp> -->
+
+	<!-- HTML Meta Tags -->
+	<title>AppsNation - Your Trusted App Development Company</title>
+	<meta name="description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
+
+	<!-- Facebook Meta Tags -->
+	<meta property="og:url" content="https://appsnation.co">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="AppsNation - Your Trusted App Development Company">
+	<meta property="og:description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
+	<meta property="og:image" content="https://appsnation.co/images/logo/appsnation-black-logo.webp">
+
+	<!-- Twitter Meta Tags -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="twitter:domain" content="appsnation.co">
+	<meta property="twitter:url" content="https://appsnation.co">
+	<meta name="twitter:title" content="AppsNation - Your Trusted App Development Company">
+	<meta name="twitter:description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
+	<meta name="twitter:image" content="https://appsnation.co/images/logo/appsnation-black-logo.webp">
+
+
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- <meta name="theme-color" content="#4302b2"> -->
 	<link href="{{asset('images/logo/favicon.webp')}}" rel="icon">

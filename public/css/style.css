@@ -15736,11 +15736,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	width: 28%;
 } */
 
-.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -15759,11 +15754,15 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label.error {
 	position: absolute;
-	bottom: -30px;
+	top: -45px;
 	color: #089674;
 	font-weight: 600;
 	border: 0;
 	cursor: default;
+    z-index: 5;
+    width: 100%;
+    justify-content: left;
+    left: 0px;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons {
@@ -16079,11 +16078,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	width: 16%;
 }
 
-.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -16120,11 +16114,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	color: #fff;
 }
 
-.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -16141,9 +16130,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	line-height: 20px;
 }
 
-.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
-	background: 0 0;
-}
 
 .cost-calculator-new .wizard-form .wizard .content fieldset.form-input.body {
 	display: none;
@@ -16300,11 +16286,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	margin-bottom: 0;
 }
 
-.cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -16336,11 +16317,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	color: #fff;
 }
 
-.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -16355,10 +16331,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	margin-top: 12px;
 	margin-bottom: 0;
 	line-height: 20px;
-}
-
-.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
-	background: 0 0;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset.form-input.body {
@@ -16534,11 +16506,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	margin-bottom: 0;
 }
 
-.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -16553,10 +16520,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	margin-top: 12px;
 	margin-bottom: 0;
 	line-height: 20px;
-}
-
-.cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label.error:hover {
-	background: 0 0;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons {
@@ -16574,11 +16537,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	color: #fff;
 }
 
-.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover {
-	border: 1px solid #089674;
-	background: #089674;
-}
-
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
 	color: #fff;
 }
@@ -16593,10 +16551,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	margin-top: 12px;
 	margin-bottom: 0;
 	line-height: 20px;
-}
-
-.cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label.error:hover {
-	background: 0 0;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset.form-input.body {

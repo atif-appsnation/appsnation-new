@@ -1550,6 +1550,32 @@
 </section>
 <!-- End Cost Calculator -->
 
+<!-- Start Cost Calculator -->
+<section class="service-section-app py-5 dark-bg2">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 wow fadeIn">
+				<div class="common-heading ptag">
+					<div data-text="Cost Calculator" class="light-bg-text bg-text">
+						<h2>App Development <span>Cost Calculator</span></h2>
+					</div>
+					<p>Have an app idea and wondering what it might cost to build? Our app development cost calculator is designed to give you a clear and accurate estimate. Whether you're launching a startup or expanding an existing business, this tool helps you understand the potential investment required. By considering key factors like platform (iOS or Android), features, complexity, and design, it delivers a reliable cost estimate to guide your planning. With this insight, you can budget effectively, set realistic expectations, and take the first step toward transforming your idea into a successful digital product.</p>
+				</div>
+			</div>
+			<div class="col-12 wow fadeIn mt-3">
+				<div class="common-heading ptag">
+					<h2>Get an Instant Price Breakdown with Our <span>Mobile App Development Cost Calculator</span></h2>
+					<p>Our mobile app development cost calculator is a simple yet powerful tool designed to deliver accurate cost estimates tailored to your app’s specific features and requirements. Whether you’re building a straightforward app or a complex mobile solution, this tool provides a quick and transparent breakdown of expected expenses.</p>
+					<p>Just input key project details—such as app complexity, features, target platforms (iOS, Android, or both), UI/UX design needs, and more—to instantly receive a personalized cost estimate. The calculator covers all major stages of development, including design, coding, testing, and deployment.</p>
+					<p>Whether you're planning a basic app, a robust enterprise solution, or a cross-platform experience, this tool helps you make informed decisions about budgeting, timelines, and project scope. It’s the perfect first step toward transforming your app idea into a market-ready product.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Start Cost Calculator -->
+
+
 <div class="modal" id="submissionModal">
 	<div class="modal-dialog modal-lg modal-dialog-centered">
 		<div class="modal-content">

@@ -15787,7 +15787,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
 	width: 16%;
-	padding: 25px 0;
+	padding: 25px 10px;
 	display: flex;
 	margin: 12px 16px;
 	align-items: center;

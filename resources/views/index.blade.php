@@ -44,7 +44,7 @@
 					<div data-text="Achievements" class="light-bg-text bg-text text-center">
 						<h2 class="key-highlight text-center mt-5">Our Achievements</h2>
 					</div>
-					<h5 class="key-numbers text-center mt-5">Our work in numbers</h5>
+					<h3 class="key-numbers text-center mt-5">Our work in numbers</h3>
 				</div>
 			</div>
 			<div class="col-lg-8 wow fadeIn mt-3">
@@ -1630,7 +1630,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1644,7 +1644,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1660,7 +1660,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1673,7 +1673,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1730,7 +1730,7 @@
                     <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
                         <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
                     </div>
-                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+                    <h3 class="text-white">Over 1200+ Satisfied Clients and Growing</h3>
                 </div>
             </div>
         </div>
@@ -1749,7 +1749,7 @@
 								<div class="media v-center upset">
 									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
 									<div class="media-body user-info v-center">
-										<h5>{{$item['name']}}</h5>
+										<h3>{{$item['name']}}</h3>
 										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
 									</div>
 								</div>

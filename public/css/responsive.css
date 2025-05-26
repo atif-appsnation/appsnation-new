@@ -4352,19 +4352,6 @@
 }
 
 @media (max-width: 1399px) {
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 27%;
-	}
 
 	.cost-calculator-new .wizard-form .wizard .steps > ul li {
 		margin: 0 13px;
@@ -4374,46 +4361,12 @@
 		width: 100px;
 	}
 
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 27%;
-	}
-
 	.cost-calculator-new .wizard-form .wizard .steps > ul li {
 		margin: 0 13px;
 	}
 
 	.cost-calculator-new .wizard-form .wizard .steps > ul li:after {
 		width: 100px;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 27%;
 	}
 
 	.cost-calculator .wizard-form .book-a-consultant-now img {
@@ -4544,20 +4497,6 @@
 		margin-top: 80px;
 	}
 
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 29%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 29%;
-	}
-
 	.cost-calculator .wizard-form .wizard .actions {
 		max-width: 100%;
 	}
@@ -4592,26 +4531,6 @@
 	.cost-calculator-new .wizard-form .wizard .content {
 		width: 100%;
 		margin-top: 10px;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 29%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 29%;
 	}
 
 	.cost-calculator-new .wizard-form .wizard .actions {
@@ -4642,20 +4561,6 @@
 		margin-top: 80px;
 	}
 
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 29%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 29%;
-	}
-
 	.cost-calculator .wizard-form .wizard .actions {
 		max-width: 100%;
 	}
@@ -4690,26 +4595,6 @@
 	.cost-calculator-new .wizard-form .wizard .content {
 		width: 100%;
 		margin-top: 10px;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 29%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 29%;
 	}
 
 	.cost-calculator-new .wizard-form .wizard .actions ul {
@@ -4766,20 +4651,6 @@
 		margin-left: 35%;
 	}
 
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 27%;
-	}
-
 	.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
 		margin-left: 35%;
 	}
@@ -4794,46 +4665,12 @@
 
 	.cost-calculator-new .wizard-form .wizard .steps > ul li a {
 		padding: 13px 12px;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 27%;
 	}
 
 	.cost-calculator .wizard-form .book-a-consultant-now .text-cont {
 		margin-left: 35%;
 	}
 
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 27%;
-	}
-
 	.cost-calculator-new .wizard-form .book-a-consultant-now .text-cont {
 		margin-left: 35%;
 	}
@@ -4850,26 +4687,6 @@
 		padding: 13px 12px;
 	}
 
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 27%;
-	}
-
 	.cost-calculator .wizard-form .book-a-consultant-now img {
 		left: -5.5%;
 	}
@@ -4881,17 +4698,7 @@
 	.cost-calculator-new .wizard-form {
 		margin-top: 0;
 	}
-	.cost-calculator .wizard-form .book-a-consultant-now img {
-		left: -5.5%;
-	}
 
-	.cost-calculator-new .wizard-form {
-		margin-top: 0;
-	}
-
-	.cost-calculator-new .wizard-form .book-a-consultant-now img {
-		left: -5.5%;
-	}
 }
 
 @media (max-width: 575px) {
@@ -5000,142 +4807,14 @@
 	}
 }
 
-@media (max-width: 465px) {
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 42%;
-	}
-
+@media (max-width: 767px) {
 	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 42%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 42%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 42%;
-	}
-
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 42%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 42%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 42%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 42%;
+		width: 42% !important;
 	}
 }
 
-@media (max-width: 375px) {
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 40%;
-	}
-
+@media (min-width: 768px) and (max-width: 991px) {
 	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 40%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 40%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 40%;
-	}
-
-	.cost-calculator
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 40%;
-	}
-
-	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
-		width: 40%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset.more-than-6-labels
-    .radio-buttons
-    label {
-		width: 40%;
-	}
-
-	.cost-calculator-new
-    .wizard-form
-    .wizard
-    .content
-    fieldset
-    .radio-buttons
-    label {
-		width: 40%;
+		width: 28% !important;
 	}
 }

@@ -15565,10 +15565,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* Start Cost Calculator */
 
-.cost-calculator-new {
-	margin-top: 100px;
-	margin-bottom: 0;
-}
 
 .cost-calculator-new .wizard-form {
 	margin-top: 40px;
@@ -15628,7 +15624,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .wizard .steps {
 	position: relative;
-	display: block;
+	display: block !important;
 	width: 30%;
 	z-index: 1;
 	background: #fff;
@@ -15753,8 +15749,8 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label.error {
-	position: absolute;
-	top: -45px;
+	position: relative;
+	top: 0;
 	color: #089674;
 	font-weight: 600;
 	border: 0;
@@ -15763,6 +15759,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     width: 100%;
     justify-content: left;
     left: 0px;
+    height: 0vh !important;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons {
@@ -15836,6 +15833,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	max-width: 100%;
 	margin-left: auto;
 	margin-top: 25px;
+    display: block !important;
 }
 
 .cost-calculator-new .wizard-form .wizard .actions ul {
@@ -15937,14 +15935,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 .cost-calculator-new .wizard-form .wizard {
 	display: block;
 	width: 100%;
-}
-
-.cost-calculator-new .wizard-form .wizard .steps {
-	position: relative;
-	display: block;
-	width: 30%;
-	z-index: 1;
-	background: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .steps a {
@@ -16202,20 +16192,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	width: 100%;
 }
 
-.cost-calculator .wizard-form .wizard {
-	display: flex;
-	flex-wrap: wrap;
-	width: 100%;
-}
-
-.cost-calculator .wizard-form .wizard .steps {
-	position: relative;
-	display: block;
-	width: 30%;
-	z-index: 1;
-	background: #fff;
-}
-
 .cost-calculator .wizard-form .wizard .steps a {
 	display: block;
 	width: auto;
@@ -16402,19 +16378,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-}
-
-.cost-calculator-new .wizard-form .wizard {
-	display: block;
-	width: 100%;
-}
-
-.cost-calculator-new .wizard-form .wizard .steps {
-	position: relative;
-	display: block;
-	width: 30%;
-	z-index: 1;
-	background: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .steps a {

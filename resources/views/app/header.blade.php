@@ -162,6 +162,14 @@
 					<span class="sm-label">Get a Quote</span>
 				</a>
 			</li>
+			<li class="sm-item">
+				<a href="{{url('/cost-calculator')}}" class="white black">
+					<span class="sm-icon">
+						<i class="fas fa-calculator"></i>
+					</span>
+					<span class="sm-label">Cost Calculator</span>
+				</a>
+			</li>
 		</ul>
 	</div>
 	<!-- End Sidemenu -->

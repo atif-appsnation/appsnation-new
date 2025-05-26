@@ -1016,7 +1016,9 @@ $(document).on('click', '.business_selection', function () {
 
 var form = $("#example-advanced-form");
 form.validate({
-    errorPlacement: function errorPlacement(error, element) { element.before(error); }
+    errorPlacement: function errorPlacement(error, element) { 
+        element.before(error); 
+    }
 });
 
 form.children("div").steps({

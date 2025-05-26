@@ -35,7 +35,7 @@
 							<h3>Business</h3>
 							<fieldset class="form-input body current more-than-6-labels" id="example-advanced-form-p-0" role="tabpanel" aria-labelledby="example-advanced-form-h-0" aria-hidden="false" style="display: block;">
 								<div class="text-cont">
-									<h2>CHOOSE YOUR <span>BUSINESS</span></h2>
+									<h2>Choose Your <span>Business</span></h2>
 									<p>Choose any (1) one.</p>
 								</div>
 								<div class="radio-buttons">
@@ -114,7 +114,7 @@
 							<h3 id="example-advanced-form-h-1" tabindex="-1" class="title">Platform</h3>
 							<fieldset class="form-input body" id="example-advanced-form-p-1" role="tabpanel" aria-labelledby="example-advanced-form-h-1" aria-hidden="true" style="display: none;">
 								<div class="text-cont">
-									<h2>Platform <span>do you need?</span></h2>
+									<h2>Platform <span>Do You Need?</span></h2>
 									<p>Select one or more.</p>
 								</div>
 								<div class="radio-buttons">
@@ -144,7 +144,7 @@
 							<h3 id="example-advanced-form-h-2" tabindex="-1" class="title">Audience</h3>
 							<fieldset class="form-input body" id="example-advanced-form-p-2" role="tabpanel" aria-labelledby="example-advanced-form-h-2" aria-hidden="true" style="display: none;">
 								<div class="text-cont">
-									<h2>Who Will USE your <span> Product?</span></h2>
+									<h2>Who Will Use Your <span> Product?</span></h2>
 									<p>Select one or more.</p>
 								</div>
 								<div class="radio-buttons">
@@ -189,7 +189,7 @@
 							<fieldset class="form-input body more-than-6-labels" id="example-advanced-form-p-3" role="tabpanel" aria-labelledby="example-advanced-form-h-3" aria-hidden="true" style="display: none;">
 								<div class="shopping-features d-none" id="shopping-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -267,7 +267,7 @@
 								</div>
 								<div class="finance-features d-none" id="finance-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -359,7 +359,7 @@
 								</div>
 								<div class="health-features d-none" id="health-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -430,7 +430,7 @@
 								</div>
 								<div class="events-features d-none" id="events-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -522,7 +522,7 @@
 								</div>
 								<div class="socialmedia-features d-none" id="socialmedia-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -607,7 +607,7 @@
 								</div>
 								<div class="realestate-features d-none" id="realestate-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -692,7 +692,7 @@
 								</div>
 								<div class="ondemandservices-features d-none" id="ondemandservices-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -763,7 +763,7 @@
 								</div>
 								<div class="fooddelivery-features d-none" id="fooddelivery-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -834,7 +834,7 @@
 								</div>
 								<div class="game-features d-none" id="game-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -912,7 +912,7 @@
 								</div>
 								<div class="other-features d-none" id="other-features">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -986,7 +986,7 @@
 							<fieldset class="form-input body more-than-6-labels" id="example-advanced-form-p-4" role="tabpanel" aria-labelledby="example-advanced-form-h-4" aria-hidden="true" style="display: none;">
 								<div class="shopping-integrations d-none" id="shopping-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1029,7 +1029,7 @@
 								</div>
 								<div class="finance-integrations d-none" id="finance-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1058,7 +1058,7 @@
 								</div>
 								<div class="health-integrations d-none" id="health-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1122,7 +1122,7 @@
 								</div>
 								<div class="events-integrations d-none" id="events-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1165,7 +1165,7 @@
 								</div>
 								<div class="socialmedia-integrations d-none" id="socialmedia-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1208,7 +1208,7 @@
 								</div>
 								<div class="realestate-integrations d-none" id="realestate-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1244,7 +1244,7 @@
 								</div>
 								<div class="ondemandservices-integrations d-none" id="ondemandservices-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1287,7 +1287,7 @@
 								</div>
 								<div class="fooddelivery-integrations d-none" id="fooddelivery-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1316,7 +1316,7 @@
 								</div>
 								<div class="game-integrations d-none" id="game-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">
@@ -1359,7 +1359,7 @@
 								</div>
 								<div class="other-integrations d-none" id="other-integrations">
 									<div class="text-cont">
-										<h2>Feature(s) <span>you want to add</span></h2>
+										<h2>Feature(s) <span>You Want To Add</span></h2>
 										<p>Select one or more.</p>
 									</div>
 									<div class="radio-buttons">

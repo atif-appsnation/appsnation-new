@@ -1887,13 +1887,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								What types of apps does AppsNation develop in Dubai?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>AppsNation crafts a diverse suite of applications, meticulously designed to cater to the specific requirements of various sectors such as e-commerce, Real Estate, Travel, Healthcare, Education, and beyond. Our team excels in creating apps for both iOS and Android devices.</p>
                                 </div>
                             </div>
                         </div>
@@ -1901,13 +1901,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								What is the estimated cost and timeline for app development in Dubai?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>The cost and timeline for having an app developed by AppsNation can vary quite a bit. This depends on things like how complex the app is, the design of the user interface and user experience, the development strategy, and other details. Once we've carefully assessed all the requirements of your project, we'll provide you with a comprehensive proposal that clearly outlines the costs and the time frame involved.</p>
                                 </div>
                             </div>
                         </div>
@@ -1915,55 +1915,14 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								What makes AppsNation stand out from other app development companies in Dubai?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>The skilled team of developers, designers, and project managers at AppsNation joins forces with clients to craft solutions tailored to their specific business requirements. They also provide support after launch, handling maintenance and updates, including continuous assistance, bug resolution, and periodic feature enhancements.</p>
+									
                                 </div>
                             </div>
                         </div>
@@ -1971,13 +1930,16 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
+								How to hire an app development company in Dubai? 
                             </button>
                         </h2>
                         <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
+                                    <p>You can shortlist and hire the most professional app development company in Dubai, only if you follow these quick steps:
+-The first and foremost thing is to have a clear idea in your mind about what you are looking for, to find the ideal candidate 
+-Secondly, ask them to share their past work and portfolio so you can have an idea of what they’re going to produce as an end result. 
+-Set up a first kick-off meeting with them once you’ve gone through the entire portfolio, past client feedback, and everything essential necessary to finalize an app development company in Dubai.</p>
                                 </div>
                             </div>
                         </div>
@@ -1985,13 +1947,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
+								Does AppsNation offer ongoing app maintenance and updates?
                             </button>
                         </h2>
                         <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
+                                    <p>Sure, we provide ongoing maintenance and support even after the launch. Our team is available to address any client inquiries and also delivers updates and improvements to the application based on the client's needs and feedback. This ensures the app runs smoothly and remains engaging for users.</p>
                                 </div>
                             </div>
                         </div>
@@ -1999,125 +1961,18 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
+								How much does it cost to develop a mobile app?
                             </button>
                         </h2>
                         <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
+                                    <p>The cost to develop a mobile app in Dubai depends on different factors such as platforms, operating systems, features, and functionalities. However, if you want to determine the average cost of your mobile app development, then feel free to reach out, we’ll be glad to help.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>

@@ -45,9 +45,10 @@
     <meta property="og:image" content=https://appsnation.co/images/logo/appsnation-black-logo.webp> -->
 
 	<!-- HTML Meta Tags -->
-	<title>AppsNation - Your Trusted App Development Company</title>
-	<meta name="description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
+	{{-- <title>AppsNation - Your Trusted App Development Company</title>
+	<meta name="description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more"> --}}
 
+	<meta name="p:domain_verify" content="af7a903d8bc83746167d036e202de3d1"/>
 	<!-- Facebook Meta Tags -->
 	<meta property="og:url" content="https://appsnation.co">
 	<meta property="og:type" content="website">

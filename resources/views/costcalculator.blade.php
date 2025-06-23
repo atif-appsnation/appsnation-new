@@ -1100,8 +1100,8 @@
 										<input type="checkbox" id="radio-133" name="radio-group" data-money="1000" data-timesaved="1" value="Public APIs" data-projecttimeline="1" class="required heaint_select">
 										<label for="radio-133">
 											<div class="v-center">
-												<img loading="lazy" class="cost-icons" src="images/cost-calculator/public-api.png" alt="Public API’s">
-												<p>Public API’s</p>
+												<img loading="lazy" class="cost-icons" src="images/cost-calculator/public-api.png" alt="Public API's">
+												<p>Public API's</p>
 											</div>
 										</label>
 										<input type="checkbox" id="radio-134" name="radio-group" data-money="1000" data-timesaved="1" value="Backend Systems" data-projecttimeline="1" class="required heaint_select">
@@ -1401,8 +1401,8 @@
 										<input type="checkbox" id="radio-169" name="radio-group" data-money="1000" data-timesaved="1" value="Public APIs" data-projecttimeline="1" class="required othint_select">
 										<label for="radio-169">
 											<div class="v-center">
-												<img loading="lazy" class="cost-icons" src="images/cost-calculator/public-api.png" alt="Public API’s">
-												<p>Public API’s</p>
+												<img loading="lazy" class="cost-icons" src="images/cost-calculator/public-api.png" alt="Public API's">
+												<p>Public API's</p>
 											</div>
 										</label>
 										<input type="checkbox" id="radio-170" name="radio-group" data-money="1000" data-timesaved="1" value="Backend Systems" data-projecttimeline="1" class="required othint_select">
@@ -1565,9 +1565,9 @@
 			<div class="col-12 wow fadeIn mt-3">
 				<div class="common-heading ptag">
 					<h2>Get an Instant Price Breakdown with Our <span>Mobile App Development Cost Calculator</span></h2>
-					<p>Our mobile app development cost calculator is a simple yet powerful tool designed to deliver accurate cost estimates tailored to your app’s specific features and requirements. Whether you’re building a straightforward app or a complex mobile solution, this tool provides a quick and transparent breakdown of expected expenses.</p>
+					<p>Our mobile app development cost calculator is a simple yet powerful tool designed to deliver accurate cost estimates tailored to your app's specific features and requirements. Whether you're building a straightforward app or a complex mobile solution, this tool provides a quick and transparent breakdown of expected expenses.</p>
 					<p>Just input key project details—such as app complexity, features, target platforms (iOS, Android, or both), UI/UX design needs, and more—to instantly receive a personalized cost estimate. The calculator covers all major stages of development, including design, coding, testing, and deployment.</p>
-					<p>Whether you're planning a basic app, a robust enterprise solution, or a cross-platform experience, this tool helps you make informed decisions about budgeting, timelines, and project scope. It’s the perfect first step toward transforming your app idea into a market-ready product.</p>
+					<p>Whether you're planning a basic app, a robust enterprise solution, or a cross-platform experience, this tool helps you make informed decisions about budgeting, timelines, and project scope. It's the perfect first step toward transforming your app idea into a market-ready product.</p>
 				</div>
 			</div>
 		</div>
@@ -2309,8 +2309,8 @@
 					<h2 class="mb-4">Enter Data To Get a <span>Detailed Breakdown of Your App Cost</span></h2>
 				</div>
 				<div class="form-block header-quote-form">
-					<form action="" method="post" id="contactForm" data-toggle="validator" class="shake">
-						<input type="hidden" name="_token" value="3rEucQo7slHHYjYPs8wco9mjIYWCQtOTVX8HGLlY">
+					<form action="{{ route('cost-calculator.submit') }}" method="post" id="contactForm" data-toggle="validator" class="shake">
+						@csrf
 						<div class="row">
 							<div class="form-group col-sm-6 col-xl-4">
 								<input type="text" id="name" name="name" placeholder="Enter name" required="" data-error="Please fill Out" class="form-control" maxlength="50">
@@ -2328,15 +2328,15 @@
 								<textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
 								<div class="help-block with-errors"></div>
 							</div>
-							<div class="form-group mb-2">
-								<script src="images/cost-calculator/https://www.google.com/recaptcha/api.js?" async="" defer=""></script>
-
-								<div data-sitekey="6LdyuXgmAAAAAObnZG5LGMM90-8CNMpUXRgiMfVk" class="g-recaptcha"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-lp9k9dnbkaqy" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="images/cost-calculator/https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdyuXgmAAAAAObnZG5LGMM90-8CNMpUXRgiMfVk&amp;co=aHR0cHM6Ly9hcHBzbmF0aW9uLmNvOjQ0Mw..&amp;hl=en&amp;v=X-oVtzDcTGjZVms4LEgykmCV&amp;size=normal&amp;cb=met0ngpc7rsm"></iframe></div><textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
-							</div>
+							
+							<!-- Hidden input for selected calculator inputs -->
+							<input type="hidden" id="selected_inputs_data" name="selected_inputs_data" value="">
+							<!-- <input type="hidden" id="completeformdata" name="completeformdata" value=""> -->
 						</div>
 						<div class="modal-footer">
 							<button type="submit" name="submit" id="form-submit" class="btn lnk button-arounder bg-btn">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
 						</div>
+						
 					</form>
 				</div>
 			</div>
@@ -2344,5 +2344,114 @@
 		</div>
 	</div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('example-advanced-form');
+    
+    // Function to collect all selected inputs
+    function collectSelectedInputs() {
+        const selectedInputs = {
+            business: [],
+            platform: [],
+            audience: [],
+            features: [],
+            integrations: [],
+            revenue: [],
+            security: []
+        };
+
+        // Collect selected business (radio buttons)
+        const selectedBusiness = document.querySelector('input[name="radio-group"]:checked');
+        if (selectedBusiness) {
+            selectedInputs.business.push(selectedBusiness.value);
+        }
+
+        // Collect selected platforms (checkboxes)
+        document.querySelectorAll('.select_platform:checked').forEach(checkbox => {
+            selectedInputs.platform.push(checkbox.value);
+        });
+
+        // Collect selected audience (checkboxes)
+        document.querySelectorAll('.select_audience:checked').forEach(checkbox => {
+            selectedInputs.audience.push(checkbox.value);
+        });
+
+        // Collect selected features (checkboxes)
+        document.querySelectorAll('.shopfeat_select:checked, .heaint_select:checked, .eveint_select:checked, .othint_select:checked').forEach(checkbox => {
+            selectedInputs.features.push(checkbox.value);
+        });
+
+        // Collect selected integrations (checkboxes)
+        document.querySelectorAll('.select_integration:checked').forEach(checkbox => {
+            selectedInputs.integrations.push(checkbox.value);
+        });
+
+        // Collect selected revenue options (checkboxes)
+        document.querySelectorAll('.select_revenue:checked').forEach(checkbox => {
+            selectedInputs.revenue.push(checkbox.value);
+        });
+
+        // Collect selected security options (checkboxes)
+        document.querySelectorAll('.select_security:checked').forEach(checkbox => {
+            selectedInputs.security.push(checkbox.value);
+        });
+
+        console.log('Selected Inputs:', selectedInputs);
+        return selectedInputs;
+    }
+
+    // Add change event listeners to all inputs
+    const allInputs = form.querySelectorAll('input[type="radio"], input[type="checkbox"]');
+    allInputs.forEach(input => {
+        input.addEventListener('change', collectSelectedInputs);
+    });
+
+    // Handle form submission
+    form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        const formData = {
+            name: document.getElementById('name').value,
+            email: document.getElementById('email').value,
+            phone: document.getElementById('phone').value,
+            selected_inputs: collectSelectedInputs()
+        };
+
+        // Show loading state
+        const submitButton = document.getElementById('form-submit');
+        const originalButtonText = submitButton.innerHTML;
+        submitButton.innerHTML = 'Submitting...';
+        submitButton.disabled = true;
+
+        // Send data to server
+        fetch('/submit-cost-calculator', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
+            },
+            body: JSON.stringify(formData)
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                alert('Form submitted successfully! We will contact you soon.');
+                form.reset();
+            } else {
+                alert('Error: ' + (data.message || 'Something went wrong'));
+            }
+        })
+        .catch(error => {
+            alert('Error: ' + error.message+'ahahha');
+        })
+        .finally(() => {
+            // Reset button state
+            submitButton.innerHTML = originalButtonText;
+            submitButton.disabled = false;
+        });
+    });
+});
+</script>
 
 @endsection

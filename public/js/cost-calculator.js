@@ -1021,6 +1021,40 @@ form.validate({
     }
 });
 
+function collectSelectedInputs() {
+    let selectedInputs = {
+        business: $('#businessselect_cst').val(),
+        platform: $('#platformselect_cst').val(),
+        audience: $('#audienceselect_cst').val(),
+        features: $('#featuresselect_cst').val(),
+        integrations: $('#integrationselect_cst').val(),
+        revenue: $('#revenueselect_cst').val(),
+        security: $('#securityselect_cst').val(),
+        money_saved: $('#inlineFormInputGroupA').val(),
+        time_saved: $('#inlineFormInputGroupB').val(),
+        project_timeline: $('#inlineFormInputGroupC').val()
+    };
+    
+    // Create hidden input if it doesn't exist
+    if ($('#selected_inputs_data').length === 0) {
+        $('<input>').attr({
+            type: 'hidden',
+            id: 'selected_inputs_data',
+            name: 'selected_inputs_data'
+        }).appendTo('form');
+    }
+    
+    // Update the hidden input value
+    $('#selected_inputs_data').val(JSON.stringify(selectedInputs));
+    
+    return selectedInputs;
+}
+
+// Update the hidden input whenever any selection changes
+$(document).on('change', '.select_platform, .select_audience, .select_revenue, .select_security, .shopfeat_select, .finfeat_select, .heafear_select, .evefeat_select, .smfeat_select, .reafeat_select, .odsfeat_select, .fdfeat_select, .gamefeat_select, .othfeat_select, .shopint_select, .finint_select, .heaint_select, .eveint_select, .smint_select, .reaint_select, .odsint_select, .fdint_select, .gameint_select, .othint_select, .business_selection', function() {
+    collectSelectedInputs();
+});
+
 form.children("div").steps({
     headerTag: "h3",
     bodyTag: "fieldset",
@@ -1037,6 +1071,13 @@ form.children("div").steps({
     },
     onFinished: function (event, currentIndex)
     {
+        // Collect all form values
+        getAllValsCCSS();
+        
+        // Get selected inputs and update hidden field
+        collectSelectedInputs();
+        
+        // Show submission modal
         const submissionModal = new bootstrap.Modal(document.getElementById('submissionModal'));
         submissionModal.show();
     }

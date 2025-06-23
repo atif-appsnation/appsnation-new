@@ -3131,5 +3131,53 @@ class HomeController extends Controller
                 'clients' => $clients,
             ]
         );
+
+        return view('costcalculator', ['metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag]);
+    }
+
+    public function submitCostCalculator(Request $request)
+    {
+        dd($request->all());
+
+        // $validator = Validator::make($request->all(), [
+        //     'name' => 'required',
+        //     'email' => 'required|email',
+        //     'mobile' => 'required',
+        //     'message' => ''
+        // ]);
+
+        // if ($validator->fails()) {
+        //     return response()->json(['errors' => $validator->errors()], 422);
+        // }
+
+        // try {
+        //     // Save to database
+        //     $lead = new Lead();
+        //     $lead->name = $request->name;
+        //     $lead->email = $request->email;
+        //     $lead->mobile = $request->mobile;
+        //     $lead->message = json_encode($request->selected_inputs);
+        //     $lead->save();
+
+        //     // Send email to admin
+        //     $adminData = [
+        //         'name' => $request->name,
+        //         'email' => $request->email,
+        //         'phone' => $request->phone,
+        //         'selected_inputs' => $request->selected_inputs
+        //     ];
+            // Mail::to('admin@appsnation.co')->send(new SendMail($adminData));
+
+            // // Send confirmation email to user
+            // $userData = [
+            //     'name' => $request->name,
+            //     'email' => $request->email
+            // ];
+            // Mail::to($request->email)->send(new ReceivedMail($userData));
+
+        //     return response()->json(['success' => true, 'message' => 'Form submitted successfully']);
+        // } catch (\Exception $e) {
+        //     return response()->json(['error' => $e->getMessage()], 500);
+        // }
     }
 }

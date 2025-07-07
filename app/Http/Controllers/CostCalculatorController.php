@@ -36,9 +36,9 @@ class CostCalculatorController extends Controller
             $calculatorDetails .= "[Integrations] " . ($selectedInputs['integrations'] ?? 'N/A') . "\n";
             $calculatorDetails .= "[Revenue] " . ($selectedInputs['revenue'] ?? 'N/A') . "\n";
             $calculatorDetails .= "[Security] " . ($selectedInputs['security'] ?? 'N/A') . "\n";
-            $calculatorDetails .= "[Money Saved] " . ($selectedInputs['money_saved'] ?? 'N/A') . "\n";
-            $calculatorDetails .= "[Time Saved] " . ($selectedInputs['time_saved'] ?? 'N/A') . "\n";
-            $calculatorDetails .= "[Project Timeline] " . ($selectedInputs['project_timeline'] ?? 'N/A') . "\n";
+            // $calculatorDetails .= "[Money Saved] " . ($selectedInputs['money_saved'] ?? 'N/A') . "\n";
+            // $calculatorDetails .= "[Time Saved] " . ($selectedInputs['time_saved'] ?? 'N/A') . "\n";
+            // $calculatorDetails .= "[Project Timeline] " . ($selectedInputs['project_timeline'] ?? 'N/A') . "\n";
             $calculatorDetails .= "\n=== End of Calculator Details ===\n";
 
             // Combine original message with calculator details
@@ -54,11 +54,31 @@ class CostCalculatorController extends Controller
                 // 'status' => 'New'
             ]);
 
-            return redirect()->route('cost-calculator')->with('success', 'Thank you for your submission! We will contact you soon.');
+            // Prepare details for email
+            $details = [
+                'name' => $formData['name'],
+                'email' => $formData['email'],
+                'mobile' => $formData['mobile'],
+                'service' => 'Cost Calculator',
+                'company' => $formData['company'] ?? '',
+                'subject' => 'Cost Calculator Inquiry',
+                'message' => $combinedMessage,
+                'o_message' => $formData['message'],
 
+            ];
+
+            // Send email to admin
+            // Mail::to(config('talha.arif@appsnation.co', 'talha.arif@appsnation.co'))->send(new \Amail.admin_emailtails));
+            // Send thank you email to user
+            Mail::to(['webdevappsnation@gmail.com', 'sales@appsnation.co'])
+                ->send(new \App\Mail\CostCalculatorMail($details));
+
+            return redirect('/')->with('success', 'Thank you for your submission! We will contact you soon.');
+            // return "yesss";
         } catch (\Illuminate\Validation\ValidationException $e) {
             Log::error('Validation Error:', $e->errors());
             return redirect()->route('cost-calculator')->with('error', 'Please fill in all required fields correctly.');
+// return $e->getMessage();
         } catch (\Exception $e) {
             Log::error('Cost Calculator Error:', [
                 'message' => $e->getMessage(),
@@ -66,6 +86,8 @@ class CostCalculatorController extends Controller
             ]);
             
             return redirect()->route('cost-calculator')->with('error', 'An error occurred while processing your request. Please try again.');
+// return $e->getMessage();
+        
         }
     }
 } 

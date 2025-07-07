@@ -1,6 +1,31 @@
 @extends('app.main')
 @section('content')
-
+@if(session('success'))
+    <!-- Success Modal -->
+    <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header border-0">
+            <!-- <h5 class="modal-title w-100 text-center" id="successModalLabel">Success</h5> -->
+          </div>
+          <div class="modal-body text-center">
+            <div class="alert alert-success mb-0" style="font-size: 1.1rem;">
+                {{ session('success') }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var modal = new bootstrap.Modal(document.getElementById('successModal'));
+            modal.show();
+            setTimeout(function() {
+                modal.hide();
+            }, 3500); // 3.5 seconds
+        });
+    </script>
+@endif
 <section class="hero-slider hero-style" id="hero-slider">
 	<video playsinline autoplay muted loop width="100%" height="100%">
 		<source src="video/banner.mp4" type="video/mp4">

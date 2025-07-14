@@ -55,16 +55,22 @@ class CostCalculatorController extends Controller
             ]);
 
             // Prepare details for email
+
+            // Get first 8 words of the message
+            $firstWords = implode(' ', array_slice(explode(' ', strip_tags($formData['message'])), 0, 8));
+            $subject = 'Cost Calculator Inquiry';
+            if (!empty($firstWords)) {
+                $subject .= ': ' . $firstWords . (str_word_count($formData['message']) > 8 ? '...' : '');
+            }
+
             $details = [
                 'name' => $formData['name'],
                 'email' => $formData['email'],
                 'mobile' => $formData['mobile'],
                 'service' => 'Cost Calculator',
                 'company' => $formData['company'] ?? '',
-                'subject' => 'Cost Calculator Inquiry',
+                'subject' => $subject,
                 'message' => $combinedMessage,
-                'o_message' => $formData['message'],
-
             ];
 
             // Send email to admin

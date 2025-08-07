@@ -2,23 +2,27 @@
 
 @section('content')
 
-<!-- Start Breadcrumb -->
+<!--Breadcrumb Area-->
 <section class="breadcrumb-areav2">
-    <div class="text-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 v-center">
-                    <div class="bread-inner">
-                        <div class="bread-title wow fadeIn" data-wow-delay=".5s">
-                            <h2 class="text-center text-white">Privacy Policy</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	@if ($errors->has('g-recaptcha-response'))
+	<div class="alert alert-danger">
+		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
+	</div>
+	@endif
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 wow fadeIn">
+				<div class="bread-inner">
+					<div class="bread-title">
+						<h1 class="text-white">Privacy Policy</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
-<!-- End Breadcrumb -->
+<!--End Breadcrumb Area-->
 
 <!--Start Enquire Form-->
 <section class="contact-page py-5">

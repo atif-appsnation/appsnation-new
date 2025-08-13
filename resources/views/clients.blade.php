@@ -45,7 +45,7 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<div class="brand-logo hoshd">
-										<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+										<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto" width="100%" height="100%">
 									</div>
 								</div>
 							</div>

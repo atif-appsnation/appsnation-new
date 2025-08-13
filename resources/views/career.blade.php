@@ -38,7 +38,7 @@
 			<div class="col-sm-12 col-md-4">
 				<div class="card">
 					<div class="card-body">
-						<img src="images/career/application.svg" class="career-icons" alt="Application">
+						<img src="images/career/application.svg" class="career-icons" alt="Application" width="100%" height="100%">
 						<h4 class="py-3">Application</h4>
 						<p>Submit your application through our website. Your application is being read by real humans.</p>
 					</div>
@@ -47,7 +47,7 @@
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
 				<div class="card">
 					<div class="card-body">
-						<img src="images/career/interview.svg" class="career-icons" alt="Interview">
+						<img src="images/career/interview.svg" class="career-icons" alt="Interview" width="100%" height="100%">
 						<h4 class="py-3">Interview</h4>
 						<p>Let us get familiar with your competencies and experience in the field.</p>
 					</div>
@@ -56,7 +56,7 @@
 			<div class="col-sm-12 col-md-4 mt-3 mt-md-0">
 				<div class="card">
 					<div class="card-body">
-						<img src="images/career/offer.svg" class="career-icons" alt="Offer">
+						<img src="images/career/offer.svg" class="career-icons" alt="Offer" width="100%" height="100%">
 						<h4 class="py-3">Offer</h4>
 						<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
 					</div>
@@ -384,7 +384,7 @@
 			<div class="col-md-6 col-lg-3">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3 w-100" alt="Team Scalability">
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability">
 						<h3>Team Scalability</h3>
 						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
 					</div>
@@ -393,7 +393,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
 						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
@@ -402,7 +402,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3 w-100" alt="Cost Saving">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving">
 						<h3>Cost Saving</h3>
 						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
 					</div>
@@ -411,7 +411,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3 w-100" alt="Skilled Resources">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="100%" alt="Skilled Resources">
 						<h3>Skilled Resources</h3>
 						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>

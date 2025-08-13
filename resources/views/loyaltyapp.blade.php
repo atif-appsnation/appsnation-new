@@ -22,7 +22,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn text-end">
-				<img src="images/solutions/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid no-shadow w-100" />
+				<img src="images/solutions/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid no-shadow" width="100%" height="100%" />
 			</div>
 		</div>
 	</div>
@@ -40,22 +40,22 @@
 		<div class="row mt-5 wow fadeIn">
 			<div class="col-lg-6">
 				<div class="image-block">
-					<img src="images/solutions/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid no-shadow" />
+					<img src="images/solutions/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid no-shadow" width="100%" height="100%" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/history.svg" alt="search" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/history.svg" width="100%" height="100%" alt="search" data-was-processed="true">
 							<p> <span>Promotional Offers</span>Exciting promotions and offers await you as soon as you sign up for our loyalty program.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/payment-gateways.svg" alt="services" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/payment-gateways.svg" width="100%" height="100%" alt="services" data-was-processed="true">
 							<p> <span>Earn & Redeem Points</span>Enjoy a wide range of offers with our user-friendly earn and redeem points system.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="property" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" width="100%" height="100%" alt="property" data-was-processed="true">
 							<p> <span>Rewards</span>Our rewards' system is designed to be systematic and well-balanced, offering users a wide range of offers to enjoy.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="booking" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" width="100%" height="100%" alt="booking" data-was-processed="true">
 							<p> <span>Share with Friends</span>Easily invite your friends to join the app and earn points for both them and yourself.</p>
 						</li>
 					</ul>
@@ -77,19 +77,19 @@
 		<div class="row mt-5">
 			<div class="col-lg-6 my-auto wow fadeIn">
 				<div class="image-block">
-					<img src="images/solutions/loyalty-app-2.webp" alt="Loyalty App" class="img-fluid no-shadow" />
+					<img src="images/solutions/loyalty-app-2.webp" alt="Loyalty App" class="img-fluid no-shadow" width="100%" height="100%" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" alt="analytics" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" width="100%" height="100%" alt="analytics" data-was-processed="true">
 							<p> <span>Dashboard &amp; Analytics</span>Effortlessly track and analyze your app's performance with our comprehensive admin dashboard. Get rapid reports on your users, sales, profits, and more.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="content" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" width="100%" height="100%" alt="content" data-was-processed="true">
 							<p> <span>Content Management</span>Easily create, upload, and manage all your app content with our simple and user-friendly content management system. Make changes in real-time with ease.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="user" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" width="100%" height="100%" alt="user" data-was-processed="true">
 							<p> <span>User Management</span>Effortlessly manage all your app users and stay informed about their interests with our user-friendly user management system.</p>
 						</li>
 					</ul>
@@ -100,13 +100,13 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" alt="promotions" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" width="100%" height="100%" alt="promotions" data-was-processed="true">
 							<p> <span>Promotions &amp; Discounts Management</span>Create irresistible promotions and offers to attract users and encourage them to purchase your products, unlocking various discounts.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" alt="reviews" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" width="100%" height="100%" alt="reviews" data-was-processed="true">
 							<p> <span>Reviews &amp; Ratings Management</span>Stay updated with your valuable customers' thoughts and experiences, and manage their reviews and ratings with our easy-to-use management system.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="notifications" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" width="100%" height="100%" alt="notifications" data-was-processed="true">
 							<p> <span>Notifications/Alerts</span>Stay informed about your customers' activities and statuses with our notification/alert feature.</p>
 						</li>
 					</ul>
@@ -114,7 +114,7 @@
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/solutions/loyalty-app-3.webp" alt="Loyalty App" class="img-fluid no-shadow" />
+					<img src="images/solutions/loyalty-app-3.webp" alt="Loyalty App" class="img-fluid no-shadow" width="100%" height="100%" />
 				</div>
 			</div>
 		</div>
@@ -137,25 +137,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" width="100%" height="100%" alt="Google Developers">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" width="100%" height="100%" alt="Adobe Solution Partner">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" width="100%" height="100%" alt="Microsoft Certified Consulting">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" width="100%" height="100%" alt="Amazon Web Service">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -175,14 +175,14 @@
 				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its own play store where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3 w-100" alt="Team Scalability">
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability">
 						<h3>Team Scalability</h3>
 						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
 					</div>
@@ -191,7 +191,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
 						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
@@ -200,7 +200,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3 w-100" alt="Cost Saving">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving">
 						<h3>Cost Saving</h3>
 						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
 					</div>
@@ -209,7 +209,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3 w-100" alt="Skilled Resources">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="100%" alt="Skilled Resources">
 						<h3>Skilled Resources</h3>
 						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>

@@ -181,25 +181,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="100%" height="100%">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="100%" height="100%">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="100%" height="100%">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="100%" height="100%">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -219,14 +219,14 @@
 				<p class="pt-2">AppsNation has been working in the software development field since 2016. We have worked with 300+ businesses. Moreover, AppsNation has its own play store where we have 50+ different apps and software, which most development companies don't have. AppsNation has its own 50+ certified developers and designers team that helps you convert the idea into reality.</p>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 w-100">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3 w-100" alt="Team Scalability">
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability">
 						<h3>Team Scalability</h3>
 						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
 					</div>
@@ -235,7 +235,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3 w-100" alt="Quick Time to Market">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
 						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
@@ -244,7 +244,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3 w-100" alt="Cost Saving">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving">
 						<h3>Cost Saving</h3>
 						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
 					</div>
@@ -253,7 +253,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3 w-100" alt="Skilled Resources">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="100%" alt="Skilled Resources">
 						<h3>Skilled Resources</h3>
 						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>

@@ -59,7 +59,7 @@
 
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="uploads/{!!$items['icon']!!}" alt="{{$items['title']}}" class="img-fluid">
+									<img src="uploads/{!!$items['icon']!!}" alt="{{$items['title']}}" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>

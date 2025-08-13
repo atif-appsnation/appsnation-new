@@ -668,7 +668,7 @@
 									</div>
 									<div class="col-md-6 mt-3">
 										<h3>Skilled Resources</h3>
-										<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" alt="Skilled Resources">
+										<img src="images/<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="auto" alt="Skilled Resources">" class="img-fluid my-3" alt="Skilled Resources">
 										<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 									</div>
 								</div>

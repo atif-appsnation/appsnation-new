@@ -29,7 +29,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 v-center">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid w-100 h-100">
+				<img src="images/why-choose/why-choose.webp" width="100%" height="100%" class="img-fluid">
 			</div>
 			<div class="col-lg-6 v-center">
 				<div class="contact-details">

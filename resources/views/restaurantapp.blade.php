@@ -22,7 +22,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn text-end">
-				<img src="images/solutions/restaurant-app-1.webp" alt="Restaurant App" class="img-fluid no-shadow w-100" />
+				<img src="images/solutions/restaurant-app-1.webp" alt="Restaurant App" class="img-fluid no-shadow" width="100%" height="100%"/>
 			</div>
 		</div>
 	</div>
@@ -40,25 +40,30 @@
 		<div class="row mt-5">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/solutions/restaurant-app-1.webp" alt="Restaurant App" class="img-fluid no-shadow" />
+					<img src="images/solutions/restaurant-app-1.webp" alt="Restaurant App" class="img-fluid no-shadow" width="100%" height="100%" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/search.svg" alt="search" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/search.svg" width="100%" height="100%" alt="search" data-was-processed="true">
 							<p> <span>Restaurant Menu Option</span>Foodies can browse for their favorite meals in this intuitive and classified menu book.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" alt="services" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" width="100%" height="100%" alt="services" data-was-processed="true">
 							<p> <span>Discounts & Coupons Option</span>To entice your loyal consumers, offer exclusive discounts and vouchers.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="property" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/content-management.svg" width="100%" height="100%" alt="property" data-was-processed="true">
 							<p> <span>Gallery Option</span>A prominent and eye-catching gallery to display delicious meals and your restaurant's atmosphere.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" alt="mortgage" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" width="100%" height="100%" alt="mortgage" data-was-processed="true">
 							<p> <span>Favorites Option</span>Favorites meals allow you to save and create a list of your favorite foods so you can easily reorder again.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/check-out.svg" alt="promotions" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/check-out.svg" width="100%" height="100%" alt="promotions" data-was-processed="true">
 							<p> <span>Real Time Order Option</span>With our simple ordering system, you can order food in real-time, track your orders, and check the progress of your orders.</p>
 						</li>
 					</ul>
@@ -69,19 +74,24 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/history.svg" alt="check" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/history.svg" width="100%" height="100%" alt="check" data-was-processed="true">
 							<p> <span>Table Reservation Option</span>To avoid queuing and disturbing your party vibe, use our quick pre-booking system.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="payment" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" width="100%" height="100%" alt="payment" data-was-processed="true">
 							<p> <span>Reviews & Rating Option</span>With an easy review and rating system, you can stay up to current on your customers' experiences.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/e-wallet.svg" alt="wallet" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/e-wallet.svg" width="100%" height="100%" alt="wallet" data-was-processed="true">
 							<p> <span>Payment Gateway Option</span>Easy payments and check-outs with popular and advanced payment methods.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="history" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/notifications-alerts.svg" width="100%" height="100%" alt="history" data-was-processed="true">
 							<p> <span>Push Notifications Option</span>The history of previously booked services is maintained in an active and very well form.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" alt="property" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/bookings-management.svg" width="100%" height="100%" alt="property" data-was-processed="true">
 							<p> <span>Digital Receipts Option</span>By using digital receipts and invoicing, you can keep track of your food budget and costs.</p>
 						</li>
 					</ul>
@@ -89,7 +99,7 @@
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/solutions/restaurant-app-2.webp" alt="Restaurant App" class="img-fluid no-shadow" />
+					<img src="images/solutions/restaurant-app-2.webp" alt="Restaurant App" class="img-fluid no-shadow" width="100%" height="100%"/>
 				</div>
 			</div>
 		</div>
@@ -108,25 +118,30 @@
 		<div class="row mt-5">
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block">
-					<img src="images/solutions/restaurant-app-3.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/solutions/restaurant-app-3.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%" />
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" alt="analytics" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/dashboard-analytics.svg" width="100%" height="100%" alt="analytics" data-was-processed="true">
 							<p> <span>Dashboard Option</span>Through the Admin Dashboard, you can manage and examine your restaurant's app statistics and analytics, as well as get information on your users, sales, and profitability.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/content-management.svg" alt="content" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/content-management.svg" width="100%" height="100%" alt="content" data-was-processed="true">
 							<p> <span>Branch Management Option</span>Organize your restaurant locations using an intuitive branch management solution.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/user-management.svg" alt="user" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/user-management.svg" width="100%" height="100%" alt="user" data-was-processed="true">
 							<p> <span>User Management Option</span>View and manage all the application users and view their activities to know about their interests by the user management system.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/services-management.svg" alt="management" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/services-management.svg" width="100%" height="100%" alt="management" data-was-processed="true">
 							<p> <span>Menu Management Option</span>Menu management allows you to create and manage menus with comprehensive categories, food items, and pricing.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" alt="promotions" data-was-processed="true">
+						<li>
+							<img class="lazy loaded" src="images/solutions/promotions-and-discounts.svg" width="100%" height="100%" alt="promotions" data-was-processed="true">
 							<p> <span>Discounts Management Option</span>Monitor and generate a variety of promotional offers and discounts for customers to entice them to use the app by managing deals and coupons.</p>
 						</li>
 					</ul>
@@ -137,16 +152,16 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading listSec text-l pl25">
 					<ul>
-						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" alt="bookings" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/bookings-management.svg" width="100%" height="100%" alt="bookings" data-was-processed="true">
 							<p> <span>Promo Codes Management Option</span>Create and manage coupons and promo codes for app users to help them market the app using a coupon and promo code control system.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" alt="reviews" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/reviews-ratings-management.svg" width="100%" height="100%" alt="reviews" data-was-processed="true">
 							<p> <span>Order Management Option</span>The fast order management system allows you to keep track of, manage, and view all of your orders.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" alt="notifications" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/notifications-alerts.svg" width="100%" height="100%" alt="notifications" data-was-processed="true">
 							<p> <span>Reservation Management Option</span>Reservation management allows you to check availability and make bookings for your valued consumers.</p>
 						</li>
-						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" alt="promotions" data-was-processed="true">
+						<li> <img class="lazy loaded" src="images/solutions/reviews-and-ratings.svg" width="100%" height="100%" alt="promotions" data-was-processed="true">
 							<p> <span>Reviews & Ratings Management Option</span>Using our review and rating management system, you can stay up to speed on your valuable customers' ideas and experiences, as well as manage their reviews and ratings on your restaurant's cuisine and services.</p>
 						</li>
 					</ul>
@@ -154,7 +169,7 @@
 			</div>
 			<div class="col-lg-6 wow fadeIn">
 				<div class="image-block ">
-					<img src="images/solutions/restaurant-app-4.webp" alt="Restaurant App" class="img-fluid no-shadow" />
+					<img src="images/solutions/restaurant-app-4.webp" alt="Restaurant App" class="img-fluid no-shadow" width="100%" height="100%" />
 				</div>
 			</div>
 		</div>
@@ -177,25 +192,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="100%" height="100%">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="100%" height="100%">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="100%" height="100%">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="100%" height="100%">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>

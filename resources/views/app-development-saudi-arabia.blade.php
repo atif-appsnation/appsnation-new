@@ -12,7 +12,7 @@
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Saudi Arabia</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Welcome to AppsNation, the Saudi Arabia's leading mobile app development company based in Saudi Arabia. We specialize in iOS, Android, IoT, AR/VR, gaming, cross-platform, wearables, and eCommerce apps. Our expert team combines innovation and precision to deliver custom, high-impact mobile solutions tailored for your business. From development to QA testing and strategic design consulting, AppsNation is here to transform your vision into powerful digital experiences. Let’s build the future together!</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">AppsNation is a top-rated mobile app development company in Saudi Arabia, specialising in custom iOS, Android, cross-platform, and enterprise solutions. We help businesses across Riyadh, Jeddah, Dammam, and the entire Kingdom bring their ideas to life through high-performance mobile apps. Whether you’re a startup, SME, or large corporation, we guide you from concept to launch and beyond. Let’s build something exceptional made for the Saudi market.</p>
 				</div>
 				<div class="row mt-3">
 					<div class="col-md-4">
@@ -103,9 +103,9 @@
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2>Top<span class="flup-theme"> Mobile App Development</span><br> Company in Saudi Arabia</h2>
+						<h2>A Beginner’s Guide to Mobile App Innovation in Saudi Arabia</h2>
 					</div>
-					<p>AppsNation is a business-grade, top mobile app development Agency in Saudi Arabia helping startups and solopreneurs, founders, investors and small to medium-sized enterprises meet their revenue targets with mobile applications – faster, smarter and better. While we have mastered our technical skills for years in the industry, we have developed people, processes and policies that make us 100% more reliable and 10X faster than typical mobile app developers in Saudi Arabia. </p>
+					<p>With Saudi Arabia’s Vision 2030 driving rapid digital transformation, mobile applications have become essential across industries. From fintech and real estate to healthcare and logistics, companies are investing in mobile apps to engage their customers. At AppsNation, we deliver solutions that blend innovation, performance, and user experience. Our experts turn bold ideas into powerful platforms that thrive in the Saudi market.</p>
 				</div>
 			</div>
 			<div class="col-lg-5">
@@ -125,10 +125,9 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Mobile" class="light-bg-text bg-text">
-						<h2 class="text-white">Scale Your Business Effortlessly with a Result-Driven<span class="flup-theme"> Mobile App Development</span> Company in Saudi Arabia</h2>
+						<h2 class="text-white">Result-Driven Mobile App Development in <span class="flup-theme">Saudi Arabia</span> Built to Scale</h2>
 					</div>
-					<p class="text-white">You cannot lag behind when 96% of the Saudi Arabia population is using smartphones, and 84% of businesses consider mobile apps as a prerequisite in doing business. So, you must invest in mobile app development in Saudi Arabia to digitalize yourself.</p>
-					<p class="text-white">Partner with a leading mobile app development company in Saudi Arabia to translate your unique business needs into innovative solutions and establish yourself as an industry leader.</p>
+					<p class="text-white">Saudi Arabia has one of the highest mobile penetration rates in the region. With a tech-savvy population and increasing demand for digital services, mobile apps are no longer a luxury; they’re essential. Whether targeting Riyadh’s corporate sector or Jeddah’s retail scene, our mobile solutions help you scale faster, reach more users, and increase your ROI.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -147,7 +146,9 @@
 			<div class="col-12">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text text-center">
-						<h2>App Development Services in <span>Saudi Arabia</span></h2>
+						<h2>Our App Development Services in <span>Saudi Arabia</span></h2>
+						<p>Our comprehensive mobile app development services are designed to serve businesses across Saudi Arabia, from Riyadh to Jeddah, Dammam, and beyond.</p>
+
 					</div>
 				</div>
 			</div>
@@ -164,7 +165,7 @@
 							<h4>Android App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
+							<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.Our Android developers specialize in Kotlin, Java, and Flutter to create fast, scalable, and highly secure apps. Every feature is customized to meet the unique needs and expectations of the Saudi market.</p>
 							<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -182,7 +183,7 @@
 							<h4>iOS App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
+							<p>We craft Swift-based iOS applications that are sleek, secure, and optimized for iPhones, iPads, Apple Watches, and more. Our designs cater to both Saudi businesses and global scalability.</p>
 							<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -200,7 +201,7 @@
 							<h4>Cross-Platform App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
+							<p>Using React Native and Flutter, we build powerful cross-platform apps that ensure smooth performance across Android and iOS. This reduces costs while expanding your reach within the Saudi market.</p>
 							<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -218,7 +219,7 @@
 							<h4>Game App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
+							<p>We bring ideas to life with immersive game apps using Unity, Unreal Engine, and CryEngine. Tailored for Saudi Arabia’s rapidly growing mobile gaming community, we offer unique, engaging experiences.</p>
 							<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -236,7 +237,7 @@
 							<h4>Web App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
+							<p>Our responsive web apps utilize advanced stacks like Node.js and WebSockets, ensuring fast, secure, and scalable platforms that help Saudi businesses thrive.</p>
 							<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -255,7 +256,7 @@
 							<h4>Wearable App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
+							<p>We design smart, real-time apps for wearables, catering to the modern Saudi consumer’s diverse needs in health, fitness, logistics, and beyond.</p>
 							<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -273,7 +274,7 @@
 							<h4>AR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
+							<p>By combining the real and digital worlds, our augmented reality apps transform the tourism, retail, and education sectors in Saudi Arabia by providing virtual try-ons, smart guides, and many other features.</p>
 							<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -291,7 +292,7 @@
 							<h4>VR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
+							<p>We develop immersive virtual reality experiences for shopping, training, and exploration.  Our VR solutions engage users on a deeper level, driving customer interaction in Saudi Arabia.</p>
 							<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -309,7 +310,7 @@
 							<h4>MR App Development</h4>
 						</div>
 						<div class="services-text-div">
-							<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
+							<p>As pioneers in mixed reality, we blend digital and physical worlds to deliver innovative experiences for Saudi businesses, setting the stage for a future in the metaverse.</p>
 							<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">Read More
 								<i class="fas fa fa-arrow-circle-right"></i>
 							</a>
@@ -329,7 +330,7 @@
 			<div class="col-12">
 				<div class="common-heading text-center">
 					<div data-text="Partners" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+						<h2 class="text-white">We partner with <span>top global tech</span> leaders to deliver innovative solutions.</h2>
 					</div>
 				</div>
 			</div>
@@ -371,7 +372,7 @@
 			<div class="col-12 fadeIn">
 				<div class="common-heading">
 					<div data-text="Our Portfolio" class="light-bg-text bg-text text-center">
-						<h2 class="mb20 text-center">Our Latest Creative Work</h2>
+						<h2 class="mb20 text-center">Our Latest Innovative Projects</h2>
 					</div>
 				</div>
 			</div>
@@ -402,13 +403,13 @@
 								<div class="widebloktag mt-4">
 									<span class="text-white">Mobile App Development</span>
 								</div>
-								<h3 class="mt30 mb30">Gym App</h3>
-								<p class="mb30">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being.</p>
+								<h3 class="mt30 mb30">Gym App Saudi Arabia</h3>
+								<p class="mb30">Empowering fitness enthusiasts across Saudi Arabia with intelligent training programmes, timely reminders, and in-app purchases, all tailored to meet the wellness goals of a health-conscious audience.</p>
 								<ul class="info-list-ul">
-									<li>Management of Profile</li>
-									<li>Management of Timeline</li>
-									<li>Meal Plan</li>
-									<li>View Recipes</li>
+									<li>Personalized Workouts</li>
+									<li>Real-Time Coaching</li>
+									<li>Nutrition Plans</li>
+									<li>Subscription-Based Upgrades</li>
 								</ul>
 								<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study 
 									<i class="fas fa-chevron-right fa-icon"></i>
@@ -438,13 +439,13 @@
 								<div class="widebloktag mt-4">
 									<span class="text-white">Mobile App Development</span>
 								</div>
-								<h3 class="mt30 mb30">Real Estate App</h3>
-								<p class="mb30">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches.</p>
+								<h3 class="mt30 mb30">Real Estate App Saudi Arabia</h3>
+								<p class="mb30">Transforming the property market in Saudi Arabia with a user-friendly, map-integrated, multilingual platform designed for buyers and agents to easily discover and manage property listings.</p>
 								<ul class="info-list-ul">
-									<li>Management of Profile</li>
-									<li>Management of Timeline</li>
-									<li>Meal Plan</li>
-									<li>View Recipes</li>
+									<li>3D Virtual Tours</li>
+									<li>Mortgage Calculator</li>
+									<li>IDX Listings</li>
+									<li>Secure In-App Payments</li>
 								</ul>
 								<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study 
 									<i class="fas fa-chevron-right fa-icon"></i>
@@ -478,8 +479,8 @@
 								<div class="widebloktag mt-4">
 									<span class="text-white">Website Development</span>
 								</div>
-								<h3 class="mt30 mb30">Gym Web</h3>
-								<p class="mb30">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface.</p>
+								<h3 class="mt30 mb30">Gym Web Saudi Arabia</h3>
+								<p class="mb30">Gymnasium is more than just a fitness app; it is also a personal trainer, nutritionist, and coach all in one. It was made for Saudi Arabian gyms and has a sleek, easy-to-use interface.</p>
 								<ul class="info-list-ul">
 									<li>Content Management</li>
 									<li>User Management</li>
@@ -514,12 +515,12 @@
 								<div class="widebloktag mt-4">
 									<span class="text-white">Website Development</span>
 								</div>
-								<h3 class="mt30 mb30">Real Estate Web</h3>
-								<p class="mb30">Discover Avenue, the ultimate app for all your property buying and selling needs.</p>
+								<h3 class="mt30 mb30">Real Estate Web Saudi Arabia</h3>
+								<p class="mb30">Discover Avenue, Saudi Arabia's comprehensive real estate platform designed for ease of use and efficiency when purchasing and selling properties.</p>
 								<ul class="info-list-ul">
 									<li>Dashboard</li>
 									<li>Properties Management</li>
-									<li>Mortgage</li>
+									<li>Mortgage Tools</li>
 									<li>User Management</li>
 								</ul>
 								<a href="{{url('/case-studies/real-estate-web')}}" class="btn-outline lnk mt30">View Case Study 
@@ -552,7 +553,7 @@
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company in Saudi Arabia</h2>
+						<h2 class="text-white">Ranked #1 <span>Mobile App</span> Development Company in Saudi Arabia</h2>
 					</div>
 				</div>
 			</div>
@@ -639,9 +640,9 @@
 			<div class="col-12">
 				<div class="common-heading ptag wow fadeIn">
 					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>App</span> Development Process in Saudi Arabia</h2>
+						<h2>Our Proven <span>Mobile App Development</span> Process in Saudi Arabia</h2>
 					</div>
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
+					<p>AppsNation takes a smooth and flexible approach to building Android apps for its clients, always focusing on tangible results.</p>
 				</div>
 			</div>
 		</div>
@@ -650,42 +651,42 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<p class="description">Our Saudi Arabia app development begins with in-depth research into user behaviour and business needs.  We study your target audience, define essential features, and plan intuitive user journeys.  Using the latest technologies, we create culturally relevant UI/UX designs that match how users in Saudi Arabia engage with mobile apps daily.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<p class="description">Our Saudi-based developers specialise in building fast, cloud-powered mobile apps.  We emphasise smart planning, innovation, and rapid feature delivery.  Our strategies turn ambitious ideas into impactful apps that meet the evolving demands of businesses and users throughout the Kingdom.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<p class="description">We start with clear wireframes that lay the foundation for distinctive UI/UX designs tailored specifically for the Saudi market.  Whether your business is in Riyadh, Jeddah, or Dammam, our team ensures your app reflects local trends and user preferences with fully customised design solutions.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<p class="description">We develop scalable, high-performing apps for Saudi businesses.  Every element, from frontend design to backend architecture, is built for speed and reliability.  Our team handles all technical aspects so you can focus on your business while we deliver seamless mobile experiences.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<p class="description">We perform comprehensive testing to ensure your app operates smoothly and securely on all devices.  Our Saudi-focused QA process covers a wide range of scenarios to eliminate bugs and guarantee top performance, making your app dependable from day one.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<p class="description">After thorough testing, we prepare your app for launch on the Play Store, App Store, or internal platforms.  We manage all updates, database modifications, and API optimisations to keep your app competitive in the Saudi market and ensure ongoing smooth operation after launch.</p>
 				</div>
 			</div>
 		</div>
@@ -697,7 +698,7 @@
 <div class="row justify-content-center hire-developer hire-developer-app-development">
 	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
-			<p class="text-center text-lg-start text-white">We Promise. <span>We Deliver.</span> </p>
+			<p class="text-center text-lg-start text-white">We Keep Our <span>Promises</span> to Excellence</p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
 			<img src="images/locations/saudi-arabia/hire-developer.webp" alt="Hire Developer" class="img-fluid">
@@ -770,9 +771,9 @@
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
 					<div data-text="Partner" class="light-bg-text bg-text">
-						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span>Company in Saudi Arabia</h2>
+						<h2 class="text-white">Partner with a Leading<span class="flup-theme"> Mobile App Development</span> Company in Saudi Arabia</h2>
 					</div>
-					<p class="text-white">Be a part of 100s of Saudi Arabia based businesses who put their trust in AppsNation, and we just managed to exceed expectations. We await your business needs so our experts can create innovative and scalable mobile applications that fuel business success.</p>
+					<p class="text-white">Join hundreds of Saudi Arabian businesses that trust AppsNation to exceed their expectations. Let our experts understand your unique business goals and deliver innovative, scalable mobile applications that accelerate your growth. Contact us today to start building the future of your business.</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn mt-3 py-2 px-3">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -787,7 +788,7 @@
 		<div class="free-cta-title v-center wow fadeIn">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+					<p class="text-center text-lg-start">Engage a <span>Dedicated Developer</span> </p>
 				</div>
 				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
@@ -808,7 +809,7 @@
             <div class="col-12">
                 <div class="common-heading text-center">
                     <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+                        <h2 class="text-white">Here are some things our <span>clients</span> have said about <span>AppsNation</span>:</h2>
                     </div>
                     <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
                 </div>
@@ -968,7 +969,7 @@
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Booking App</h3>
-									<p class="text-white">Travelicious stands out as the ultimate travel planning tool, designed to cater to the diverse needs of modern travelers.</p>
+									<p class="text-white">Elder travellers worldwide. It's more than just an app; it's your go-to. Partner with us for a hassle-free trip that is made for the modern adventurer.</p>
 									<a href="{{url('/case-studies/travel-agency-app')}}" class="btn-outline lnk mt30">View Case Study
 										<i class="fas fa-chevron-right fa-icon"></i>
 										<span class="circle"></span>
@@ -985,7 +986,7 @@
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Fitness App</h3>
-									<p class="text-white">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface.</p>
+									<p class="text-white">Check out Gymnasium, our fresh, new fitness app! It's designed to be your go-to workout companion. With its cool, modern vibe, it's ready to help you smash your fitness targets, keep your training routine on point, and keep that passion for your health and well-being burning bright.</p>
 									<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study
 										<i class="fas fa-chevron-right fa-icon"></i>
 										<span class="circle"></span>
@@ -1002,7 +1003,7 @@
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Loyalty App</h3>
-									<p class="text-white">Enjoy exclusive cashback rewards, personalized deals, and a seamless experience across your favorite e-commerce platforms.</p>
+									<p class="text-white">Whether you're into the latest trends, timeless classics, or something in between, our all-in-one e-commerce and loyalty app is your go-to destination. Loved by millions, it brings you exclusive deals and cashback rewards, putting all your favourite stores right where you want them—on your phone.</p>
 									<a href="{{url('/case-studies/loyalty-app')}}" class="btn-outline lnk mt30">View Case Study
 										<i class="fas fa-chevron-right fa-icon"></i>
 										<span class="circle"></span>
@@ -1019,7 +1020,7 @@
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Mover App</h3>
-									<p class="text-white">Develop a comprehensive mobile application designed to optimize the moving experience by facilitating efficient order management and customer engagement.</p>
+									<p class="text-white">Our Mover App simplifies moving by managing all your moving orders in a single location. Relax and let our efficient order take care of the rest by booking your move using the app. Management and customer engagement features handle everything else.</p>
 									<a href="{{url('/case-studies/mover-app')}}" class="btn-outline lnk mt30">View Case Study
 										<i class="fas fa-chevron-right fa-icon"></i>
 										<span class="circle"></span>
@@ -1036,7 +1037,7 @@
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Real Estate App</h3>
-									<p class="text-white">Discover a simpler way to navigate real estate with our mobile app, designed to streamline the buying, selling, and renting process.</p>
+									<p class="text-white">Discover the new way to navigate the world of real estate. We've made buying, selling, or investing in property easier than ever before. You get the tools you need with our app: stay ahead of the game, no matter what your real estate goals are</p>
 									<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study
 										<i class="fas fa-chevron-right fa-icon"></i>
 										<span class="circle"></span>
@@ -1231,7 +1232,7 @@
 		<div class="col-12">
 			<div class="container">
 				<div class="free-cta-title v-center wow fadeIn">
-					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Saudi Arabia Based Mobile App Development Company Let’s Connect</h3>
+					<h3 class="text-center text-lg-start text-white">Get Help from Our Expert Mobile App Development Company in Saudi Arabia—Let’s Talk</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
 					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
@@ -1263,7 +1264,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">App Development</h3>
-								<p class="text-center pt-2">For App development, our developers use the latest technologies, which provide top notch app development solution.</p>
+								<p class="text-center pt-2">Our expert developers use the latest technologies to build high-performance mobile and web applications. We create custom solutions that are scalable, secure, and tailored to meet your business objectives.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1418,7 +1419,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">Frontend Development</h3>
-								<p class="text-center pt-2">To make the interactive user interface, our developers use all proven tools and languages that are helpful to enhance user focus and grab their attention.</p>
+								<p class="text-center pt-2">We design engaging and user-friendly interfaces using proven frontend technologies. Our goal is to deliver responsive designs that enhance user experience and ensure smooth interaction across all devices.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1501,7 +1502,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">Database Development</h3>
-								<p class="text-center pt-2">Our database experts are trained to provide robust database management solutions. We use all modern technologies to provide you secure database solution.</p>
+								<p class="text-center pt-2">Our database specialists deliver secure and scalable database solutions. Using modern tools, we ensure your data is well-structured, optimised, and protected for reliable performance at all times.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1560,7 +1561,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">Backend Development</h3>
-								<p class="text-center pt-2">Backend development is key that makes you unable to automate your system. Our backend developers use all modern techniques to develop top-notch solutions.</p>
+								<p class="text-center pt-2">We create powerful backend systems that keep processes running smoothly and automate them. Our backend solutions are crafted to integrate smoothly with your frontend and support real-time functionality.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1613,7 +1614,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">CMS Development</h3>
-								<p class="text-center pt-2">Our CMS engineers have first-hand knowledge of putting in place specialized solutions that make it easier to create, store, organize, edit, and publish web content.</p>
+								<p class="text-center pt-2">We develop flexible and intuitive CMS solutions that streamline the entire content management process. From creation and editing to publishing, we help you manage your website content efficiently.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1648,7 +1649,7 @@
 						<div class="row">
 							<div class="con-h">
 								<h3 class="text-center">Infra and Devops Development</h3>
-								<p class="text-center pt-2">The utilization of the most recent technologies and techniques by our infrastructure and DevOps developers improve an organization's capacity to offer apps and services at a highspeed.</p>
+								<p class="text-center pt-2">Our team of skilled infrastructure and DevOps developers uses the most up-to-date technologies and methods. This allows organisations to quickly and efficiently release applications and services.</p>
 							</div>
 						</div>
 						<div class="row pt-3">
@@ -1688,10 +1689,10 @@
 			<div class="col-xl-6 my-auto">
 				<div class="common-heading">
 					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+						<h2 class="text-white"> Need developers for your <span>Custom IT Projects</span> Let’s connect!</h2>
 					</div>
 					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
-					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
+					<p class="pt-2 text-white">Looking for a custom mobile app developer in Saudi Arabia?  Our team of experts builds powerful iOS, Android, and cross-platform apps tailored specifically to your business needs.  We combine cutting-edge features with engaging user interfaces and experiences to ensure your app stands out in the rapidly evolving tech landscape. Let’s get started on your next app project — contact Saudi Arabia’s trusted app development firm today!</p>
 					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
 				</div>
 			</div>
@@ -1823,7 +1824,7 @@
 			<div class="col-12">
 				<div class="common-heading">
 					<div data-text="Clients" class="light-bg-text bg-text text-center">
-						<h2 class="mb30 text-center">Some of <span>Our Clients</span></h2>
+						<h2 class="mb30 text-center">Some of <span>Our Clients</span> in Saudi Arabia</h2>
 					</div>
 				</div>
 			</div>
@@ -1914,13 +1915,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-b">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
-								Will we sign an NDA to keep my Android app idea confidential?
+								Will you sign an NDA to protect my Android app idea in Saudi Arabia?
                             </button>
                         </h2>
                         <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legal document that we employ when working on various projects to ensure that your ideas are not duplicated or leaked to rivals.</p>
+                                    <p>Yes, we strictly follow a Non-Disclosure Agreement (NDA) to ensure complete confidentiality of your Android app concept during and after the development process.</p>
                                 </div>
                             </div>
                         </div>
@@ -1928,13 +1929,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
-								How do you allocate the resources for my app development in Android?
+								What tools and technologies do you use for Android app development in Saudi Arabia?
                             </button>
                         </h2>
                         <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>For us, resource allocation is both an art and a science. Therefore, we thoroughly research your company and its competitors, including the target audience and their psychology, to provide an app that efficiently performs its objective.</p>
+                                    <p>Android Studio, Kotlin, Java, React Native, Firebase, AWS, ARCore, and Google Fit are the tools we use to create fast, secure, and scalable Saudi-specific Android apps.</p>
                                 </div>
                             </div>
                         </div>
@@ -1942,55 +1943,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
-								Which tools and technologies do you use?
+								Will you help publish my Android app on the Google Play Store?
                             </button>
                         </h2>
                         <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>AppsNation is equipped with developers that use the high-end latest technologies and tools to foster your ideal android application.</p>
-									<p class="pt-2">Mobile Frontend</p>
-									<ul class="ps-5">
-										<li>Native (Java/Kotlin)</li>
-										<li>Xamarin Native C</li>
-										<li>Xamarin Forms for Android</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Ionic</li>
-										<li>React Native</li>
-									</ul>
-									<p class="pt-2">Operating System</p>
-									<ul class="ps-5">
-										<li>Android OS</li>
-									</ul>
-									<p class="pt-2">SDKs/Tools/Framework</p>
-									<ul class="ps-5">
-										<li>Android Studio</li>
-										<li>Google Fit SDK</li>
-										<li>Xamarin Forms for Android</li>
-										<li>OpenGL</li>
-										<li>ARCorec</li>
-										<li>Android Auto</li>
-									</ul>
-									<p class="pt-2">Platforms</p>
-									<ul class="ps-5">
-										<li>Amazon Web</li>
-										<li>Services (AWS)</li>
-										<li>Microsoft Azure</li>
-										<li>Google Cloud</li>
-										<li>Platform (GCP)</li>
-										<li>Firebase</li>
-										<li>AppCenter for CI/CD</li>
-										<li>Kubernetes</li>
-									</ul>
-									<p class="pt-2">Others</p>
-									<ul class="ps-5">
-										<li>Google Assistant</li>
-										<li>Google VR</li>
-										<li>Machine Language (ML Kit)</li>
-										<li>Cordova/PhoneGap</li>
-										<li>Google Cloud</li>
-										<li>Google Analytics</li>
-									</ul>
+                                    <p>Yes, we handle the full Play Store submission process, ensuring your app meets all Google policies and is successfully published for users in Saudi Arabia and beyond.</p>
                                 </div>
                             </div>
                         </div>
@@ -1998,13 +1957,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
+								What post-launch support do you offer for Android apps in Saudi Arabia?
                             </button>
                         </h2>
                         <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Submitting your android app on Google Play Store is a vital part of our inclusive android app development services. AppsNation has years of experience launching android apps on the Play Store, sufficiently following the guidelines.</p>
+                                    <p>We provide 3 months of free maintenance and support post-launch, including bug fixes, performance monitoring, and minor updates based on real user feedback.</p>
                                 </div>
                             </div>
                         </div>
@@ -2012,13 +1971,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
-								Will I be getting any support after project completion?
+								How much does Android app development cost in Saudi Arabia?
                             </button>
                         </h2>
                         <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Our top-notch mobile app development services include a 3-months free support and maintenance program to guarantee a successful app journey by minimizing the glitches based on user feedback.</p>
+                                    <p>Pricing depends on the features and complexity of your app.  Basic apps start from SAR 18,000 (approx. $5,000), while feature-rich apps cost more based on your requirements.</p>
                                 </div>
                             </div>
                         </div>
@@ -2026,13 +1985,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
-								How much does it cost to make an Android App?
+								Why should businesses in Saudi Arabia invest in Android app development?
                             </button>
                         </h2>
                         <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>The pricing is influenced by various factors, including the complexity of the android app development. Typically, firms estimate the number of APIs and screens in an application and price accordingly. On the other hand, a standard app would cost you $5,000 or more.</p>
+                                    <p>Android apps help Saudi businesses expand their reach, enhance customer engagement, and drive revenue growth through personalised mobile solutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -2040,13 +1999,13 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
-								Why your company might need Android application services?
+								What is your Android app development process?
                             </button>
                         </h2>
                         <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Most businesses like the Android app because it allows them to reach many customers by expanding dedicated applications and growing their business. Android app development may help a company reach out to more people, increase revenue, boost brand image, and build a loyal client base.</p>
+                                    <p>With complete transparency and quality control, our agile methodology includes discovery, wireframing, UI/UX design, coding, testing, and deployment.</p>
                                 </div>
                             </div>
                         </div>
@@ -2054,97 +2013,18 @@
                     <div class="accordion-item bdr0">
                         <h2 class="accordion-header" id="heading-c">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
-								What should I pay attention to while looking for Android application developers?
+								How can I hire Android developers from AppsNation in Saudi Arabia?
                             </button>
                         </h2>
                         <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
                             <div class="accordion-body">
                                 <div class="data-reqs">
-                                    <p>Hiring top Android developers will assist you in developing a great app that will stand out from the crowd and earn a sizable profit. Here's how to find one for yourself.</p>
-									<ul class="ps-5">
-										<li>Developers must be conversant with fundamental programming languages such as syntax and basics, frameworks, multithreading and concurrency, functional programming, and generics.</li>
-										<li>To accelerate development processes, your developers will need to employ an SDK. Ascertain that they are familiar with Android SDKs.</li>
-										<li>Android Studio knowledge is required.</li>
-										<li>The developer must be well-versed in all APIs because they link applications to third-party services or apps.</li>
-										<li>Developers must be familiar with databases to manage significant volumes of data and interact with a database located outside of the smartphone.</li>
-										<li>Developers must comprehend the reasoning behind your company's actions. It will assist them in identifying key features, planning the development process, and delivering a mobile app solution that completely fulfils business needs.</li>
-									</ul>
+                                    <p>You can easily hire our Android experts by chatting with our team online or filling out the inquiry form to request a free quote tailored to your project needs.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We approach an agile android app development process to ease our clients for the smoothest interaction with us that includes;</p>
-									<ul class="ps-5">
-										<li>Analysis of Requirements.</li>
-										<li>App Development Strategies.</li>
-										<li>Wireframing & Designing.</li>
-										<li>Development.</li>
-										<li>Testing.</li>
-										<li>Deployment.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10a" aria-expanded="true" aria-controls="collapseOne">
-								How AppsNation meet the current trends in native Android app development?
-                            </button>
-                        </h2>
-                        <div id="collapse-10a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with a team of extremely tech-savvy individuals ready to learn and grow. As a result, self-study is what they do in their spare time. Furthermore, they are very engaged and driven in the subject; as a result, they crave evolution and keep up with the current developments in native Android app development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11a" aria-expanded="true" aria-controls="collapseOne">
-								Will you assist me to upload my Android app on the Play Store?
-                            </button>
-                        </h2>
-                        <div id="collapse-11a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation is equipped with top-rated android developers having years of experience in developing android developers for various industries. We have them on board to make the most out of them for your ideal android app. Besides, we offer our clients undeniable benefits such as;</p>
-									<ul class="ps-5">
-										<li>Free Consultation.</li>
-										<li>50+ Expert Android Developers.</li>
-										<li>Flexible Hiring Models.</li>
-										<li>Technical Support.</li>
-										<li>100% Transparency.</li>
-										<li>3-Month Support After Delivery.</li>
-									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12a" aria-expanded="true" aria-controls="collapseOne">
-								How can I hire Android app developers from AppsNation?
-                            </button>
-                        </h2>
-                        <div id="collapse-12a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We are easy to reach, just a click away. Tap on chat now or request a free quote by filling up the form mentioning your requirements for your bespoke Android app. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                 
                 </div>
             </div>
         </div>

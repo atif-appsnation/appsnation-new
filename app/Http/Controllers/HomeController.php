@@ -826,9 +826,6 @@ class HomeController extends Controller
 
     public function leads(Request $request)
     {
-        // return "hello world";
-        // dd($request);
-
         $visit = new Lead;
         $field = $request->validate([
             'name' => 'required|max:255',
@@ -854,7 +851,6 @@ class HomeController extends Controller
         $visit->save();
 
         $details = [
-
             "name" => $field['name'],
             "email" => $field['email'],
             "mobile" => $field['mobile'],
@@ -862,16 +858,15 @@ class HomeController extends Controller
             "company" => $field['company'],
             "subject" => $field['subject'],
             "message" => $field['message'],
-
         ];
 
-        // Mail::to("waqar@futurealiti.com")->send(new ReceivedMail($details));
-        // Mail::to("info@appsnation.co")->send(new ReceivedMail($details));
-        // Mail::to("sales@appsnation.co")->send(new ReceivedMail($details));
+        // Send to admin(s)
+        Mail::to("webdevappsnation@gmail.com")->send(new \App\Mail\ReceivedMail($details));
+    
+        // Send confirmation to user
         // Mail::to($field['email'])->send(new SendMail($details));
 
         return Redirect::to('/thank-you')->withSuccess('Great! Form successfully submit.');
-        // // return view('welcome');
     }
     public function leadsmobile(Request $request)
     {
@@ -912,7 +907,9 @@ class HomeController extends Controller
         // Mail::to("waqar@futurealiti.com")->send(new ReceivedMail($details));
         // Mail::to("info@appsnation.co")->send(new ReceivedMail($details));
         // Mail::to("sales@appsnation.co")->send(new ReceivedMail($details));
+        Mail::to("webdevappsnation@gmail.com")->send(new \App\Mail\ReceivedMail($details));
 
+      
         // Mail::to($field['email'])->send(new SendMail($details));
         return Redirect::to('/thank-you')->withSuccess('Great! Form successfully submit.');
         // // return view('welcome');
@@ -964,6 +961,8 @@ class HomeController extends Controller
         // Mail::to("waqar@futurealiti.com")->send(new ReceivedMail($details));
         // Mail::to("info@appsnation.co")->send(new ReceivedMail($details));
         // Mail::to("sales@appsnation.co")->send(new ReceivedMail($details));
+        Mail::to("webdevappsnation@gmail.com")->send(new \App\Mail\ReceivedMail($details));
+
 
         return Redirect::to('/thank-you')->with('success', 'Item created successfully!');
         // // return view('welcome');

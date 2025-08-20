@@ -35,7 +35,7 @@
 				<p class="pt-3">Media and entertainment apps not only transform media viewing patterns, but also pave a unique way in which videos,music and television shows get featured.</p>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
-				<img class="img-fluid" src="images/industries/media-app-1.webp">
+				<img class="img-fluid" src="images/industries/media-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -46,10 +46,10 @@
 <section class="service">
 	<div class="row wow fadeIn">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/media-app-2.webp" class="img-fluid image">
+			<img src="images/industries/media-app-2.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/media-app-3.webp" class="img-fluid image">
+			<img src="images/industries/media-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>

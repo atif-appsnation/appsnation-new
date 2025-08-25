@@ -37,7 +37,7 @@
 				<p class="pt-2">With the increasing use of smartphones among youngsters, mobile applications play an essential part in their learning process. Moreover, because education is viewed as bringing about change, it is critical to expose pupils to new and creative learning concepts. We are an educational app development company with extensive expertise in turning a mediocre idea into a commercially successful enterprise.</p>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
-				<img class="img-fluid" src="images/industries/education-and-hr-app-1.webp">
+				<img class="img-fluid" src="images/industries/education-and-hr-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -49,7 +49,7 @@
 	<div class="container">
 		<div class="row small mt0">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<img class="img-fluid" src="images/industries/education-and-hr-app-2.webp">
+				<img class="img-fluid" src="images/industries/education-and-hr-app-2.webp" width="100%" height="100%">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Education Industry</h2>
@@ -66,10 +66,10 @@
 <section class="service">
 	<div class="row wow fadeIn">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/education-and-hr-app-3.webp" class="img-fluid image">
+			<img src="images/industries/education-and-hr-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/education-and-hr-app-4.webp" class="img-fluid image">
+			<img src="images/industries/education-and-hr-app-4.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>

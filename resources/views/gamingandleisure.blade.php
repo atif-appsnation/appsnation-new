@@ -42,7 +42,7 @@
 				</ul>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 text-end wow fadeIn">
-				<img class="img-fluid" src="images/industries/game-app-1.webp">
+				<img class="img-fluid" src="images/industries/game-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -53,10 +53,10 @@
 <section class="service">
 	<div class="row wow fadeIn">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/game-app-2.webp" class="img-fluid image">
+			<img src="images/industries/game-app-2.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/game-app-3.webp" class="img-fluid image">
+			<img src="images/industries/game-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>

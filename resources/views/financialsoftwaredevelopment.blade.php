@@ -36,7 +36,7 @@
 				<p class="pt-2">Whether you need a bespoke app to assist back-office processes or a native mobile app with a complex user experience, our skilled mobile app developers are here to help. Our financial and banking applications handle all sectors and can help your institution function more effectively, increase brand visibility, and make it easier for clients to access your services.</p>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
-				<img class="img-fluid" src="images/industries/financial-app-1.webp">
+				<img class="img-fluid" src="images/industries/financial-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -65,10 +65,10 @@
 <section class="service">
 	<div class="row wow fadeIn">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/financial-app-3.webp" class="img-fluid image">
+			<img src="images/industries/financial-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/financial-app-4.webp" class="img-fluid image">
+			<img src="images/industries/financial-app-4.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>

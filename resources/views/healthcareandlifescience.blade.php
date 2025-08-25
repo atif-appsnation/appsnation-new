@@ -37,12 +37,12 @@
 				<p class="pt-2">When it comes to personalized healthcare apps, we work with people, corporations, and academic organizations. If you have a specific need in mind but are not sure how to make your ideas a reality, contact us now to learn more about our inexpensive services and see if we are a suitable fit for your company or organization.</p>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-4 mt-md-4 mt-lg-0 wow fadeIn">
-				<img class="img-fluid" src="images/industries/health-app-1.webp">
+				<img class="img-fluid" src="images/industries/health-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="row small mt-5">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<img class="img-fluid" src="images/industries/health-app-2.webp">
+				<img class="img-fluid" src="images/industries/health-app-2.webp" width="100%" height="100%">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-8 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Healthcare Industry</h2>

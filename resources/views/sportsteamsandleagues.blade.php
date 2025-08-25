@@ -36,7 +36,7 @@
 				<p class="pt-2">We work hard as a sports app development company to provide a seamless user experience. Our developers strategize, plan, wireframe, design, create and manage products to keep ahead of the technological curve. We provide unique sports software and applications to show detailed sports data in exciting and understandable ways for sports fans.</p>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4	mt-4 mt-md-4 mt-lg-0 wow fadeIn">
-				<img class="img-fluid" src="images/industries/sports-app-1.webp">
+				<img class="img-fluid" src="images/industries/sports-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -48,7 +48,7 @@
 	<div class="container">
 		<div class="row small mt0">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-				<img class="img-fluid" src="images/industries/sports-app-1.webp">
+				<img class="img-fluid" src="images/industries/sports-app-1.webp" width="100%" height="100%">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 mt-4 mt-md-4 my-lg-auto wow fadeIn">
 				<h2>Scope Of App Development In The Sports Industry</h2>
@@ -65,10 +65,10 @@
 <section class="service">
 	<div class="row wow fadeIn">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/sports-app-2.webp" class="img-fluid image">
+			<img src="images/industries/sports-app-2.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/sports-app-3.webp" class="img-fluid image">
+			<img src="images/industries/sports-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>

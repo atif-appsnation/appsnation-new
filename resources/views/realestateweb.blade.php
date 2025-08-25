@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="{{asset('images/case-studies/real-estate-web/header-logo.webp')}}" class="img-fluid" alt="Real Estate Web Logo">
+			<img src="{{asset('images/case-studies/real-estate-web/header-logo.webp')}}" class="img-fluid" alt="Real Estate Web Logo" width="100%" height="100%">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome To
 						<span class="span">AVENUE</span>

@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="{{asset('images/case-studies/mover-web/header-logo.webp')}}" class="img-fluid" alt="Mover Web Logo">
+			<img src="{{asset('images/case-studies/mover-web/header-logo.webp')}}" class="img-fluid" alt="Mover Web Logo" width="100%" height="100%">
 				<div class="bread-titlev2 mt-4">
 					<h1>Welcome To
 						<span class="span">Deliverables</span>
@@ -21,7 +21,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/mover-web/header-web.webp')}}" class="img-fluid" alt="Mover Web">
+				<img src="{{asset('images/case-studies/mover-web/header-web.webp')}}" class="img-fluid" alt="Mover Web" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -55,25 +55,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="mover-web-user-and-research">
-					<img src="{{asset('images/case-studies/mover-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">User And Research Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="mover-web-problem-and-solutions">
-					<img src="{{asset('images/case-studies/mover-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Problem And Solution</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="mover-web-competitive-analysis">
-					<img src="{{asset('images/case-studies/mover-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Competitive Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="mover-web-wireframe-icons">
-					<img src="{{asset('images/case-studies/mover-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid">
+					<img src="{{asset('images/case-studies/mover-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Wire Frame</h5>
 			</div>
@@ -93,7 +93,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -105,7 +105,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -129,7 +129,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -141,7 +141,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -165,7 +165,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -177,7 +177,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -201,7 +201,7 @@
 			</div>
 			<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
 				<div class="project-timeline-img-div pt-3">
-					<img src="{{asset('images/case-studies/mover-web/timeline.webp')}}" alt="Project Timeline" class="img-fluid w-100">
+					<img src="{{asset('images/case-studies/mover-web/timeline.webp')}}" alt="Project Timeline" class="img-fluid w-100" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -222,7 +222,7 @@
 		</div>
 	</div>
 	<div class="mover-sitemap-img pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/mover-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/mover-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Sitemap-->
@@ -239,7 +239,7 @@
 		</div>
 	</div>
 	<div class="pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/mover-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/mover-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Wiregrame-->
@@ -277,11 +277,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="{{asset('images/case-studies/mover-app/tints.webp')}}" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/tints.webp')}}" alt="Tints" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="{{asset('images/case-studies/mover-app/shades.webp')}}" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-app/shades.webp')}}" alt="Shades" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -298,7 +298,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/mover-web/typography.webp')}}" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/typography.webp')}}" alt="Typography" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div> 
 	</div>
@@ -325,13 +325,13 @@
 				<p>Block User Enable / Disable User option is available in this feature.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/mover-web/admin-features-01.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/admin-features-01.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/mover-web/admin-features-03.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/admin-features-03.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="mover-sub-heading">Notifications</h5>
@@ -351,7 +351,7 @@
 				<p>Reporting on product usage on a daily, weekly, and monthly basis.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/mover-web/admin-features-02.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/admin-features-02.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -378,13 +378,13 @@
 				<p>For the customer’s ease, the app searches for close or nearby courier persons.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-1.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/mover-web/mover-web-visuals-2.webp')}}" alt="Mover Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="mover-sub-heading">Track Order</h5>

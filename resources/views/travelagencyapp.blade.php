@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-auto">
-			<img src="{{asset('images/case-studies/travel-agency-app/header-logo.webp')}}" class="img-fluid" alt="Travel Agency App Logo">
+			<img src="{{asset('images/case-studies/travel-agency-app/header-logo.webp')}}" class="img-fluid w-25" alt="Travel Agency App Logo" width="100%" height="100%">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white banner-heading">Welcome to Travelicious</h1>
 					<h3 class="pt-4 text-white banner-heading">Your Ultimate Travel Companion!</h3>
@@ -21,7 +21,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/travel-agency-app/header-phone.webp')}}" class="img-fluid" alt="Travel Agency App">
+				<img src="{{asset('images/case-studies/travel-agency-app/header-phone.webp')}}" class="img-fluid" alt="Travel Agency App" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -40,7 +40,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/travel-agency-app/about-travel-app.webp')}}" alt="Travel App" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/about-travel-app.webp')}}" alt="Travel App" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -109,7 +109,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-3.webp')}}" alt="Travel App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-3.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -121,7 +121,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-4.webp')}}" alt="Travel App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-4.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -145,7 +145,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -157,7 +157,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluidimg-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluid">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -181,25 +181,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="travel-app-sketching-icon">
-					<img src="{{asset('images/case-studies/travel-agency-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Sketching</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="travel-app-wireframe-icon">
-					<img src="{{asset('images/case-studies/travel-agency-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Wireframe</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="travel-app-branding-icon">
-					<img src="{{asset('images/case-studies/travel-agency-app/branding-icon.webp')}}" alt="Branding" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-app/branding-icon.webp')}}" alt="Branding" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Branding</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="travel-app-visuals-icon">
-					<img src="{{asset('images/case-studies/travel-agency-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/travel-agency-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Visuals</h5>
 			</div>
@@ -220,7 +220,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/travel-agency-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/travel-agency-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Sketching-->
@@ -237,7 +237,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.6s">
-		<img src="{{asset('images/case-studies/travel-agency-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/travel-agency-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Wireframe-->
@@ -253,11 +253,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="{{asset('images/case-studies/travel-agency-web/tints.webp')}}" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/tints.webp')}}" alt="Tints" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="{{asset('images/case-studies/travel-agency-web/shades.webp')}}" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-web/shades.webp')}}" alt="Shades" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -274,7 +274,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/travel-agency-app/typography.webp')}}" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/typography.webp')}}" alt="Typography" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div> 
 	</div>
@@ -297,7 +297,7 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
-					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals mx-auto d-block">
+					<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals.webp')}}" alt="Travel App Visuals" class="img-fluid travel-app-visuals mx-auto d-block" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -325,13 +325,13 @@
 				<p>A large and diverse selection of services is available for valuable users to search for their chosen services.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-1.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-4.webp')}}" alt="Travel App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-4.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="travel-sub-heading">Filters</h5>
@@ -351,13 +351,13 @@
 				<p>To entice your loyal consumers, offer exclusive promotions and discounts.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-2.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="1.0s">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-3.webp')}}" alt="Travel App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/travel-agency-app/travel-app-visuals-3.webp')}}" alt="Travel App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="travel-sub-heading">Check Out</h5>
@@ -376,11 +376,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-end wow fadeIn" data-wow-delay="0.2s">
-				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="w-25">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="w-25" width="100%" height="100%">
 			</div>
 			
 			<div class="col-md-6 text-start wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="w-25">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="w-25" width="100%" height="100%">
 			</div>
 		</div>
 	</div>

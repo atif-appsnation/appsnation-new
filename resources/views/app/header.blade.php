@@ -64,6 +64,7 @@
 	<meta name="twitter:description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
 	<meta name="twitter:image" content="https://appsnation.co/images/logo/appsnation-black-logo.webp">
 
+	<meta name="msvalidate.01" content="B6573BB85FA171B912D3AA6D332A1886" />
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- <meta name="theme-color" content="#4302b2"> -->

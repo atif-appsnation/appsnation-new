@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-auto">
-			<img src="{{asset('images/case-studies/loyalty-app/header-logo.webp')}}" class="img-fluid" alt="Loyalty App Logo">
+			<img src="{{asset('images/case-studies/loyalty-app/header-logo.webp')}}" class="img-fluid" alt="Loyalty App Logo" width="100%" height="100%">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome To
 						<span class="span">Loyalty App</span>
@@ -21,7 +21,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/loyalty-app/header-phone.webp')}}" class="img-fluid" alt="Loyalty App">
+				<img src="{{asset('images/case-studies/loyalty-app/header-phone.webp')}}" class="img-fluid" alt="Loyalty App" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -39,7 +39,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/loyalty-app/about-loyalty.webp')}}" alt="Loyalty App" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/about-loyalty.webp')}}" alt="Loyalty App" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -72,7 +72,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -84,7 +84,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -109,7 +109,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -121,7 +121,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -152,7 +152,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -164,7 +164,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -188,25 +188,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="loyalty-app-sketching-icon">
-					<img src="{{asset('images/case-studies/loyalty-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-app/sketching-icon.webp')}}" alt="Sketching" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Sketching</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="loyalty-app-wireframe-icon">
-					<img src="{{asset('images/case-studies/loyalty-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-app/wireframe-icon.webp')}}" alt="Wireframe" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Wireframe</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="loyalty-app-branding-icon">
-					<img src="{{asset('images/case-studies/loyalty-app/branding-icon.webp')}}" alt="Branding" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-app/branding-icon.webp')}}" alt="Branding" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Branding</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="loyalty-app-visuals-icon">
-					<img src="{{asset('images/case-studies/loyalty-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid">
+					<img src="{{asset('images/case-studies/loyalty-app/visuals-icon.webp')}}" alt="Visuals" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Visuals</h5>
 			</div>
@@ -227,7 +227,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/loyalty-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/loyalty-app/sketching.webp')}}" alt="Sketching" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Sketching-->
@@ -244,7 +244,7 @@
 		</div>
 	</div>
 	<div class="sketching-img-div pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/loyalty-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/loyalty-app/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Wireframe-->
@@ -260,11 +260,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="{{asset('images/case-studies/loyalty-app/tints.webp')}}" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/tints.webp')}}" alt="Tints" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="{{asset('images/case-studies/loyalty-app/shades.webp')}}" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/shades.webp')}}" alt="Shades" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -281,7 +281,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/loyalty-app/typography.webp')}}" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/typography.webp')}}" alt="Typography" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div> 
 	</div>
@@ -298,7 +298,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/loyalty-app/components.webp')}}" alt="Components" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/components.webp')}}" alt="Components" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div> 
 	</div>
@@ -321,13 +321,13 @@
 		<div class="container">
 			<div class="row mt-4 mt-lg-0">
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.4s">
-					<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-1">
+					<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-1" width="100%" height="100%">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.6s">
-					<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-2">
+					<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-2" width="100%" height="100%">
 				</div>
 				<div class="col-12 col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.8s">
-					<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-3">
+					<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid loyalty-app-visuals-3" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -355,13 +355,13 @@
 				<p>Pleasing and exceptional earn & redeem points options for the user to avail broad range offers.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-3.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-2.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="loyalty-sub-heading">Rewards</h5>
@@ -381,7 +381,7 @@
 				<p>Keep update with your valuable customers' thoughts and experience and manage their reviews and rating management system.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/loyalty-app/loyalty-app-visuals-1.webp')}}" alt="Loyalty App Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -393,11 +393,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-end wow fadeIn" data-wow-delay="0.2s">
-				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="w-25">
+				<img src="{{asset('images/case-studies/app-store.webp')}}" alt="App Store" class="w-25" width="100%" height="100%">
 			</div>
 			
 			<div class="col-md-6 text-start wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="w-25">
+				<img src="{{asset('images/case-studies/google-play.webp')}}" alt="Google Play" class="w-25" width="100%" height="100%">
 			</div>
 		</div>
 	</div>

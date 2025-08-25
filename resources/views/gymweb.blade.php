@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="{{asset('images/case-studies/gym-web/header-logo.webp')}}" class="img-fluid" alt="Gym Web Logo">
+			<img src="{{asset('images/case-studies/gym-web/header-logo.webp')}}" class="img-fluid" alt="Gym Web Logo" width="100%" height="100%">
 				<div class="bread-titlev2 mt-4">
 					<h1 class="text-white">Welcome to
 						<span class="span">GYMNASIUM<span>
@@ -20,7 +20,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/gym-web/header-web.webp')}}" class="img-fluid" alt="Gym Web">
+				<img src="{{asset('images/case-studies/gym-web/header-web.webp')}}" class="img-fluid" alt="Gym Web" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -54,25 +54,25 @@
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
 				<div class="gym-web-user-and-research">
-					<img src="{{asset('images/case-studies/gym-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-web/user-and-research-analytics-icon.webp')}}" alt="User And Reseaarch Analysis" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">User And Research Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<div class="gym-web-problem-and-solutions">
-					<img src="{{asset('images/case-studies/gym-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-web/problem-and-solutions-icon.webp')}}" alt="Problem And Solution" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Problem And Solution</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="0.8s">
 				<div class="gym-web-competitive-analysis">
-					<img src="{{asset('images/case-studies/gym-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-web/competitive-analysis-icon.webp')}}" alt="Competitive Analysis" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Competitive Analysis</h5>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-5 text-center wow fadeIn" data-wow-delay="1.0s">
 				<div class="gym-web-wireframe-icons">
-					<img src="{{asset('images/case-studies/gym-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid">
+					<img src="{{asset('images/case-studies/gym-web/wireframe-icon.webp')}}" alt="Wire Frame" class="img-fluid" width="100%" height="100%">
 				</div>
 				<h5 class="pt-3">Wire Frame</h5>
 			</div>
@@ -92,7 +92,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -104,7 +104,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -128,7 +128,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -140,7 +140,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -164,7 +164,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 text-center text-lg-end mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -176,7 +176,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 text-center text-lg-start">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 my-lg-auto mt-5">
 				<div class="common-heading ptag">
@@ -200,7 +200,7 @@
 			</div>
 			<div class="col-12 wow fadeIn" data-wow-delay="0.4s">
 				<div class="project-timeline-img-div pt-3">
-					<img src="{{asset('images/case-studies/gym-web/timeline.webp')}}" alt="Project Timeline" class="img-fluid w-100">
+					<img src="{{asset('images/case-studies/gym-web/timeline.webp')}}" alt="Project Timeline" class="img-fluid w-100" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -221,7 +221,7 @@
 		</div>
 	</div>
 	<div class="gym-sitemap-img pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/gym-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/gym-web/sitemap.webp')}}" alt="Sitemap" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Sitemap-->
@@ -238,7 +238,7 @@
 		</div>
 	</div>
 	<div class="pt-3 wow fadeIn" data-wow-delay="0.4s">
-		<img src="{{asset('images/case-studies/gym-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100">
+		<img src="{{asset('images/case-studies/gym-web/wireframes.webp')}}" alt="Wireframe" class="img-fluid w-100" width="100%" height="100%">
 	</div>
 </section>
 <!--End Wiregrame-->
@@ -258,7 +258,7 @@
 	<div class="pt50">
 		<div class="row mt-4 mt-lg-0 wow fadeIn" data-wow-delay="0.4s">
 			<div class="col-12">
-				<img src="{{asset('images/case-studies/gym-web/ui-ux.webp')}}" alt="Gym Web UI/UX" class="img-fluid w-100">
+				<img src="{{asset('images/case-studies/gym-web/ui-ux.webp')}}" alt="Gym Web UI/UX" class="img-fluid w-100" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -276,11 +276,11 @@
 			</div>
 			<div class="col-lg-6 mt-5 wow fadeIn text-center" data-wow-delay="0.4s">
 				<h4 class="text-center">Tints</h4>
-				<img src="{{asset('images/case-studies/gym-app/tints.webp')}}" alt="Tints" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/tints.webp')}}" alt="Tints" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 text-center wow fadeIn" data-wow-delay="0.6s">
 				<h4 class="text-center">Shades</h4>
-				<img src="{{asset('images/case-studies/gym-app/shades.webp')}}" alt="Shades" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-app/shades.webp')}}" alt="Shades" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -297,7 +297,7 @@
 				</div>
 			</div>
 			<div class="col-12 mt-5 text-center wow fadeIn" data-wow-delay="0.4s">
-				<img src="{{asset('images/case-studies/gym-web/typography.webp')}}" alt="Typography" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/typography.webp')}}" alt="Typography" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div> 
 	</div>
@@ -324,13 +324,13 @@
 				<p>Using an easy and user-friendly content management system, you can create, upload, and manage all of the information on the app, as well as make run-time modifications.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/gym-web/admin-features-01.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/admin-features-01.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/gym-web/admin-features-03.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/admin-features-03.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="gym-sub-heading">User Management</h5>
@@ -350,7 +350,7 @@
 				<p>Start managing all bookings made on the application by different users, as well as accept/reject bookings based on service availability, using the booking management platform.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/gym-web/admin-features-02.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/admin-features-02.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -377,13 +377,13 @@
 				<p>Set and track your fitness goals with the help of a calorie counter, a sleep tracker, and a heart rate monitor. You can also look at your prior work.</p>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0 text-end">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-1.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 
 		<div class="row mt-5 wow fadeIn" data-wow-delay="0.6s">
 			<div class="col-lg-6 text-start">
-				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid">
+				<img src="{{asset('images/case-studies/gym-web/gym-web-visuals-2.webp')}}" alt="Gym Web Visuals" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-lg-6 mt-5 my-lg-auto text-end">
 				<h5 class="gym-sub-heading">Management of Timeline</h5>

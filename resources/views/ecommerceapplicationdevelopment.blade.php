@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/e-commerce-app-development/e-commerce-app-banner-img.webp" class="img-fluid" alt="E-Commerce App Development">
+				<img src="images/services/e-commerce-app-development/e-commerce-app-banner-img.webp" class="img-fluid" alt="E-Commerce App Development" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -31,7 +31,7 @@
 		<div class="row">
 			<div class="col-lg-5 wow fadeIn">
 				<div class="image-block">
-					<img src="images/services/e-commerce-app-development/e-commerce-app-development.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/e-commerce-app-development/e-commerce-app-development.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -66,7 +66,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/custom-e-commerce-development.svg" alt="Custom E-Commerce Development" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/custom-e-commerce-development.svg" alt="Custom E-Commerce Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Custom E-Commerce Development</h4>
@@ -79,7 +79,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/m-commerce-services.svg" alt="M-commerce Services" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/m-commerce-services.svg" alt="M-commerce Services" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>M-commerce Services</h4>
@@ -92,7 +92,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/development-of-multi-store-e-commerce-platform.svg" alt="Development of Multi Store E-Commerce Platform" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/development-of-multi-store-e-commerce-platform.svg" alt="Development of Multi Store E-Commerce Platform" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Development of Multi Store E-Commerce Platform</h4>
@@ -105,7 +105,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/custom-e-commerce-design-and-development.svg" alt="Custom E-Commerce Design and Development" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/custom-e-commerce-design-and-development.svg" alt="Custom E-Commerce Design and Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Custom E-Commerce Design and Development</h4>
@@ -118,7 +118,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/magento-e-commerce-development.svg" alt="Magento E-Commerce Development" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/magento-e-commerce-development.svg" alt="Magento E-Commerce Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Magento E-Commerce Development</h4>
@@ -131,7 +131,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/saas-e-commerce-solutions.svg" alt="SAAS E-Commerce Solutions" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/saas-e-commerce-solutions.svg" alt="SAAS E-Commerce Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>SAAS E-Commerce Solutions</h4>
@@ -144,7 +144,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/modules-and-plugins-development.svg" alt="Modules and Plugins Development" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/modules-and-plugins-development.svg" alt="Modules and Plugins Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Modules and Plugins Development</h4>
@@ -157,7 +157,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/data-analytics.svg" alt="Data Analytics" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/data-analytics.svg" alt="Data Analytics" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Data Analytics</h4>
@@ -179,10 +179,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/maintenance-and-migration.svg" alt="Maintenance & Migration" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/maintenance-and-migration.svg" alt="Maintenance & Migration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Maintenance & Migration</h4>
+						<h3>Maintenance & Migration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We are delighted to assist you in making your decision, whether to keep your current application or migrate. We speed up and responsibly load your website or application.</p>
@@ -192,10 +192,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/e-commerce-integration.svg" alt="E-commerce Integrations" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/e-commerce-integration.svg" alt="E-commerce Integrations" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>E-commerce Integrations</h4>
+						<h3>E-commerce Integrations</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We connect various systems to your present operation to create a smooth experience. We assist firms with integrating CRM, CMS, ERP, POS, and other systems for smooth workflows.</p>
@@ -205,10 +205,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/e-commerce-recommendation-system.svg" alt="E-commerce Recommendation System" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/e-commerce-recommendation-system.svg" alt="E-commerce Recommendation System" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>E-commerce Recommendation System</h4>
+						<h3>E-commerce Recommendation System</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We specialize in implementing machine learning and artificial intelligence (AI) into algorithms that propose products to customers based on their demographics and previous purchasing history.</p>
@@ -218,10 +218,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/marketplace-development.svg" alt="Marketplace Development" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/marketplace-development.svg" alt="Marketplace Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Marketplace Development</h4>
+						<h3>Marketplace Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We provide everything you need to quickly build a marketplace and begin working with sellers.</p>
@@ -231,10 +231,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/shopping-cart-development.svg" alt="Shopping Cart Developments" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/shopping-cart-development.svg" alt="Shopping Cart Developments" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Shopping Cart Development</h4>
+						<h3>Shopping Cart Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our expert developers will collaborate closely with you, offering a full explanation of all possibilities as well as a precise timeline. E-commerce development agency provides top-notch quality ecommerce shopping cart development services at a reasonable price.</p>
@@ -244,10 +244,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/online-store-customization.svg" alt="Online Store Customization" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/online-store-customization.svg" alt="Online Store Customization" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Online Store Customization</h4>
+						<h3>Online Store Customization</h3>
 					</div>
 					<div class="services-text-div">
 						<p>You can rest easy knowing that you're working with one of the world's best ecommerce website developers, who has built a reputation for producing high-quality, innovative products on time and on budget.</p>
@@ -257,10 +257,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/payment-gateway-integration.svg" alt="Payment Gateway Integration" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/payment-gateway-integration.svg" alt="Payment Gateway Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Payment Gateway Integration</h4>
+						<h3>Payment Gateway Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We employ integrated gateways to comply with the PCI DSS, which means they're in charge of storing, safeguarding, and performing initial transaction verification.</p>
@@ -270,10 +270,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/application-maintenance-and-support.svg" alt="Application Maintenance and Support" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/application-maintenance-and-support.svg" alt="Application Maintenance and Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Application Maintenance and Support</h4>
+						<h3>Application Maintenance and Support</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our eCommerce mobile app solutions are capable of meeting the immediate needs of the current market scenario and digitally aligning every retail operation procedure to assure business continuity.</p>
@@ -283,10 +283,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/customize-and-optimize-existing-e-commerce-applications.svg" alt="Customize and Optimize Existing E-Commerce Applications" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/customize-and-optimize-existing-e-commerce-applications.svg" alt="Customize and Optimize Existing E-Commerce Applications" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Customize and Optimize Existing E-Commerce Applications</h4>
+						<h3>Customize and Optimize Existing E-Commerce Applications</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Amazon AWS IoT services, Microsoft Azure, Google Cloud, and IBM Bluemix are just a few of the cloud computing platforms that our IoT Developers use.</p>
@@ -338,7 +338,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" />
+									<img src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -353,7 +353,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" />
+									<img src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -368,7 +368,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" />
+									<img src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -383,7 +383,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" />
+									<img src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1  my-auto">
@@ -398,7 +398,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" />
+									<img src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -413,7 +413,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" />
+									<img src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -447,10 +447,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/avoid-storing-sensitive-data.svg" alt="Avoid Storing Sensitive Data" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/avoid-storing-sensitive-data.svg" alt="Avoid Storing Sensitive Data" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Avoid Storing Sensitive Data</h4>
+						<h3>Avoid Storing Sensitive Data</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We don't collect sensitive information from clients, such as banking or credit card information, because we don't want attackers to steal from you.</p>
@@ -460,10 +460,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/integrate-trusted-payment-processors.svg" alt="Integrate Trusted Payment Processors" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/integrate-trusted-payment-processors.svg" alt="Integrate Trusted Payment Processors" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Integrate Trusted Payment Processors</h4>
+						<h3>Integrate Trusted Payment Processors</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We recognize the importance of your banking credentials. As a result, we make certain that each link in the payment process chain is properly secured.</p>
@@ -473,10 +473,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/two-factor-authentication.svg" alt="Two-Factor Authentication" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/two-factor-authentication.svg" alt="Two-Factor Authentication" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Two-Factor Authentication</h4>
+						<h3>Two-Factor Authentication</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Having two-factor authentication, whether you do it yourself or use a third-party service, will significantly increase the security of your application.</p>
@@ -486,10 +486,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/updated-platform-frameworks-and-libraries.svg" alt="Updated Platform, Frameworks, & Libraries" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/updated-platform-frameworks-and-libraries.svg" alt="Updated Platform, Frameworks, & Libraries" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Updated Platform, Frameworks, & Libraries</h4>
+						<h3>Updated Platform, Frameworks, & Libraries</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Unpatched software and extensions might put your e-commerce platform at risk, so we make sure you have the most up-to-date versions.</p>
@@ -517,10 +517,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/smart-search.svg" alt="Smart Search" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/smart-search.svg" alt="Smart Search" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Smart Search</h4>
+						<h3>Smart Search</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We've incorporated an advanced search feature that uses a filter, sorting choices, and an appropriate algorithm to help you locate products quickly. It might be a game-changer for your business even if you already have a catalogue.</p>
@@ -530,10 +530,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/instant-support.svg" alt="Instant Support" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/instant-support.svg" alt="Instant Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Instant Support</h4>
+						<h3>Instant Support</h3>
 					</div>
 					<div class="services-text-div">
 						<p>E-commerce app development specializes in developing strong chatbots that help companies and customers communicate more effectively. You may provide immediate assistance thanks to the instant support tool, which saves you time and effort.</p>
@@ -543,10 +543,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/multiple-payment-options.svg" alt="Multiple Payment Options" class="img-fluid">	
+						<img src="images/services/e-commerce-app-development/multiple-payment-options.svg" alt="Multiple Payment Options" class="img-fluid" width="100%" height="100%">	
 					</div>
 					<div class="service-heading">
-						<h4>Multiple Payment Options</h4>
+						<h3>Multiple Payment Options</h3>
 					</div>
 					<div class="services-text-div">
 						<p>For the convenience of our consumers, we combine numerous payment alternatives under one roof. Our programmers use dependable approaches and incorporate payment options such as net banking, credit cards, and debit cards.</p>
@@ -556,10 +556,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/social-media-integration.svg" alt="Social Media Integration" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/social-media-integration.svg" alt="Social Media Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Social Media Integration</h4>
+						<h3>Social Media Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>The integration of social media allows for faster login, registration, and sharing of product information. To raise brand recognition, you can share numerous discount coupons or promotional campaigns on social media channels.</p>
@@ -569,10 +569,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/quick-checkout.svg" alt="Quick Checkout" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/quick-checkout.svg" alt="Quick Checkout" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Quick Checkout</h4>
+						<h3>Quick Checkout</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Social media integration enables for speedier login, registration, and sharing of product information. You can use social media to promote your brand by sharing a variety of discount coupons or promotional activities.</p>
@@ -582,10 +582,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/e-wallet.svg" alt="E-Wallet" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/e-wallet.svg" alt="E-Wallet" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>E-Wallet</h4>
+						<h3>E-Wallet</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our professionals combine dependable and secure payment methods via a digital wallet, which are available through our online shopping apps. Customers can use this option to obtain quick checkout, EMIs, and much more.</p>
@@ -595,10 +595,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/chatbots.svg" alt="Chatbots" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/chatbots.svg" alt="Chatbots" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Chatbots</h4>
+						<h3>Chatbots</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We provide 24x7 help for your consumers by building and integrating an intelligent chatbot with cognitive abilities into your eCommerce website. By asking customers the proper questions, the chatbot improves customer service.</p>
@@ -608,10 +608,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/pos-integration.svg" alt="POS Integration" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/pos-integration.svg" alt="POS Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>POS Integration</h4>
+						<h3>POS Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>With Point-of-Sale (POS) Integration and to effectively compete and expand the company's reach, our eCommerce web developers have practical competence in the design, creation, and promotion of eCommerce websites.</p>
@@ -621,10 +621,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/erp-crm-integration.svg" alt="ERP/CRM Integration" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/erp-crm-integration.svg" alt="ERP/CRM Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>ERP/CRM Integration</h4>
+						<h3>ERP/CRM Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>The goal of ERP and CRM integration is to ensure that both systems share automated and consistent information, resulting in a single source of truth. We make sure your e-commerce app platform have it.</p>
@@ -647,11 +647,11 @@
 					@if($k==0)
 
 					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@endif
 
@@ -736,7 +736,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/scalable-solutions.svg" alt="Scalable Solutions" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/scalable-solutions.svg" alt="Scalable Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Scalable Solutions</h4>
@@ -749,7 +749,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/mobile-friendly.svg" alt="Mobile Friendly" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/mobile-friendly.svg" alt="Mobile Friendly" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Mobile Friendly</h4>
@@ -762,7 +762,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/superior-ui-ux.svg" alt="Superior UI/UX" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/superior-ui-ux.svg" alt="Superior UI/UX" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Superior UI/UX</h4>
@@ -775,7 +775,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/quick-deployment.svg" alt="Quick Deployment" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/quick-deployment.svg" alt="Quick Deployment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Quick Deployment</h4>
@@ -788,7 +788,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/specialized-in-e-commerce.svg" alt="Specialized in E-Commerce" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/specialized-in-e-commerce.svg" alt="Specialized in E-Commerce" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Specialized in E-Commerce</h4>
@@ -801,7 +801,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/innovative-designs.svg" alt="Innovative Designs" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/innovative-designs.svg" alt="Innovative Designs" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Innovative Designs</h4>
@@ -814,10 +814,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/on-time-delivery.svg" alt="On-time Delivery" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/on-time-delivery.svg" alt="On-time Delivery" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>On-time Delivery</h4>
+						<h3>On-time Delivery</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We promise to deliver the product i.e. the application being design and developed on time.</p>
@@ -827,10 +827,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/dedicated-team.svg" alt="Dedicated Team" class="img-fluid">
+						<img src="images/services/e-commerce-app-development/dedicated-team.svg" alt="Dedicated Team" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Dedicated Team</h4>
+						<h3>Dedicated Team</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Assistance according to the client's time zone, as well as post-deployment support from a dedicated project manager.</p>

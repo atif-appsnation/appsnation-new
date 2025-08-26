@@ -8832,6 +8832,12 @@ html .mt15 {
     padding-top: 20px;
 }
 
+.service-heading h3 {
+    color: var(--first-color);
+    font-size: 22px;
+    line-height: 32px;
+}
+
 .service-heading h4 {
     color: var(--first-color);
 }
@@ -10803,7 +10809,7 @@ button:not(:disabled) {
     background-position: 0 -100%;
 }
 
-.service-card-app:hover h4, .service-card-app:hover p, .service-card-app:hover a {
+.service-card-app:hover h3, .service-card-app:hover h4, .service-card-app:hover p, .service-card-app:hover a {
     color: var(--white-color);
 }
 
@@ -12125,6 +12131,11 @@ i.fa-brands.fa-instagram {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
+}
+
+.timeline-label h3 {
+    font-size: 22px;
+    line-height: 32px;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label .timeline-title,

@@ -27,7 +27,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/iot-app-development/iot-app-development.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/iot-app-development/iot-app-development.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -62,10 +62,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-consulting.svg" alt="IoT Consulting" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-consulting.svg" alt="IoT Consulting" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Consulting</h4>
+						<h3>IoT Consulting</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Plan your process with the support of the best IoT software development company, from linked devices and sensors through lifecycle management and connection.</p>
@@ -75,10 +75,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/poc-and-prototype-development.svg" alt="PoC & Prototype Development" class="img-fluid">
+						<img src="images/services/iot-app-development/poc-and-prototype-development.svg" alt="PoC & Prototype Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>PoC & Prototype Development</h4>
+						<h3>PoC & Prototype Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>IoT development company strives to provide products that complement your main functionality so you can get the most out of your IoT device. That is a promise!</p>
@@ -88,10 +88,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-firmware-development-and-integration.svg" alt="IoT Firmware Development & Integration" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-firmware-development-and-integration.svg" alt="IoT Firmware Development & Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Firmware Development & Integration</h4>
+						<h3>IoT Firmware Development & Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Allow our IoT professionals to work with your hardware designers to develop IoT firmware and embedded apps for IoT devices. Whatever your needs are, we'll help you get your IoT project up and running faster.</p>
@@ -101,10 +101,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-mobile-and-web-apps.svg" alt="IoT Mobile & Web Apps" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-mobile-and-web-apps.svg" alt="IoT Mobile & Web Apps" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Mobile & Web Apps</h4>
+						<h3>IoT Mobile & Web Apps</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our IoT application development services for mobile and web are designed to help you run your business more efficiently. We deliver timeless items by utilizing the most cutting-edge digital technologies.</p>
@@ -114,10 +114,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/ip-product-development-and-integration.svg" alt="IP Product Development & Integration" class="img-fluid">
+						<img src="images/services/iot-app-development/ip-product-development-and-integration.svg" alt="IP Product Development & Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IP Product Development & Integration</h4>
+						<h3>IP Product Development & Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Use the Hot software interface architecture to strengthen connectivity between IoT sensors and components. Our IoT developers are an expert at bolstering IP strategies.</p>
@@ -127,10 +127,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-wearable-apps.svg" alt="IoT Wearable Apps" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-wearable-apps.svg" alt="IoT Wearable Apps" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Wearable Apps</h4>
+						<h3>IoT Wearable Apps</h3>
 					</div>
 					<div class="services-text-div">
 						<p>With fantastic wearable gadget apps, you can jump on the health and fitness craze. Make getting in shape the ultimate goal for your customers. Create experiences that can be shared.</p>
@@ -140,10 +140,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-architecture-development.svg" alt="IoT Architecture Development" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-architecture-development.svg" alt="IoT Architecture Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Architecture Development</h4>
+						<h3>IoT Architecture Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Managing all aspects of their device's connectivity, from UI/UX to Architecture Designing. IoT Application Development Solutions that are carefully tested and bug-free to offer a faultless experience.</p>
@@ -153,10 +153,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/backend-and-api-integration.svg" alt="Backend & API Development" class="img-fluid">
+						<img src="images/services/iot-app-development/backend-and-api-integration.svg" alt="Backend & API Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Backend & API Development</h4>
+						<h3>Backend & API Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>To our renowned customers, our team of skilled internet of things programmers and coders provides entire backend and API development solutions.</p>
@@ -175,10 +175,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-data-analytics-and-data-visualization.svg" alt="IoT Data Analytics & Data Visualization" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-data-analytics-and-data-visualization.svg" alt="IoT Data Analytics & Data Visualization" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Data Analytics & Data Visualization</h4>
+						<h3>IoT Data Analytics & Data Visualization</h3>
 					</div>
 					<div class="services-text-div">
 						<p>At our company, data handling is a top priority. We specialise in creating business-friendly IoT data visualisation and analytics tools.</p>
@@ -188,10 +188,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-module-development.svg" alt="IoT Module Development" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-module-development.svg" alt="IoT Module Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Module Development</h4>
+						<h3>IoT Module Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Because we are one-stop internet of things development firms for all of your IoT development needs, we design IoT gateways for your app.</p>
@@ -201,10 +201,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-implementation-and-support.svg" alt="IoT Implementation & Support" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-implementation-and-support.svg" alt="IoT Implementation & Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Implementation & Support</h4>
+						<h3>IoT Implementation & Support</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our famous customers benefit from not only our internet of things app creation services, but also our entire support and maintenance services.</p>
@@ -214,10 +214,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-architecture-for-connected-ecosystems.svg" alt="Backend & API Development" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-architecture-for-connected-ecosystems.svg" alt="Backend & API Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Architecture for Connected Ecosystems</h4>
+						<h3>IoT Architecture for Connected Ecosystems</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Managing all aspects of their device's connectivity, from UI/UX to Architecture Designing. Providing IoT Application Development Services that are rigorous and bug-free to ensure a faultless experience.</p>
@@ -227,10 +227,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/user-experience-for-iot.svg" alt="User Experience for IoT" class="img-fluid">
+						<img src="images/services/iot-app-development/user-experience-for-iot.svg" alt="User Experience for IoT" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>User Experience for IoT</h4>
+						<h3>User Experience for IoT</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We assist clients in configuring IoT devices, analysing sensor data using business intelligence tools, managing IoT systems remotely and locally, and displaying data via responsive dashboards thus enhancing user experience.</p>
@@ -240,10 +240,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/testing-and-maintenance.svg" alt="Testing & Maintenance" class="img-fluid">
+						<img src="images/services/iot-app-development/testing-and-maintenance.svg" alt="Testing & Maintenance" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Testing & Maintenance</h4>
+						<h3>Testing & Maintenance</h3>
 					</div>
 					<div class="services-text-div">
 						<p>To reach a final conclusion, our IoT experts put your app through a comprehensive testing process that includes usability, dependability, data integrity, security, performance, and network testing.</p>
@@ -253,10 +253,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/industrial-iot-solutions.svg" alt="Industrial IoT Solutions" class="img-fluid">
+						<img src="images/services/iot-app-development/industrial-iot-solutions.svg" alt="Industrial IoT Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Industrial IoT Solutions</h4>
+						<h3>Industrial IoT Solutions</h3>
 					</div>
 					<div class="services-text-div">
 						<p>By installing IoTs, you may gain actionable information from your supply chain monitoring and manufacturing performance for increased efficiency.</p>
@@ -266,10 +266,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iomt-solutions.svg" alt="IoMT Solutions" class="img-fluid">
+						<img src="images/services/iot-app-development/iomt-solutions.svg" alt="IoMT Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoMT Solutions</h4>
+						<h3>IoMT Solutions</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Is it your goal to boost patient care, employee productivity, and asset utilisation? IoT cloud platform will assist you in developing and integrating cutting-edge IoMT apps into your business processes.</p>
@@ -279,10 +279,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/iot-cloud-solutions.svg" alt="IoT Cloud Solutions" class="img-fluid">
+						<img src="images/services/iot-app-development/iot-cloud-solutions.svg" alt="IoT Cloud Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT Cloud Solutions</h4>
+						<h3>IoT Cloud Solutions</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Amazon AWS IoT services, Microsoft Azure, Google Cloud, and IBM Bluemix are just a few of the cloud computing platforms that our IoT Developers use.</p>
@@ -292,10 +292,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/voice-enabled-technology-solutions.svg" alt="Voice-Enabled Technology Solutions" class="img-fluid">
+						<img src="images/services/iot-app-development/voice-enabled-technology-solutions.svg" alt="Voice-Enabled Technology Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Voice-Enabled Technology Solutions</h4>
+						<h3>Voice-Enabled Technology Solutions</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our internet of things app development firm is constantly working to give cutting-edge IoT mobile app development solutions as well as Voice-Enabled Technology Solutions.</p>
@@ -305,10 +305,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/iot-app-development/api-development-and-integration.svg" alt="API Development & Integration" class="img-fluid">
+						<img src="images/services/iot-app-development/api-development-and-integration.svg" alt="API Development & Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>API Development & Integration</h4>
+						<h3>API Development & Integration</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Join hands with us to recruit IoT developers who are skilled in creating IoT solutions that integrate smoothly with cloud, big data, and other technologies.</p>
@@ -330,11 +330,11 @@
 					@if($k==0)
 
 					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@endif
 
@@ -425,7 +425,7 @@
 						<div class="effect-cont-comm-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Effective & Continuous Communication</h4>
+						<h3>Effective & Continuous Communication</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We offer a wide range of IoT app development services.</p>
@@ -438,7 +438,7 @@
 						<div class="delivered-on-time-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Excellent Quality Delivered on Time</h4>
+						<h3>Excellent Quality Delivered on Time</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We develop IoT app development services across every platform and device.</p>
@@ -451,7 +451,7 @@
 						<div class="experienced-team-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Experienced Team</h4>
+						<h3>Experienced Team</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We create a single coded IoT app that works efficiently on multiple platforms.</p>
@@ -464,7 +464,7 @@
 						<div class="absolute-support-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Absolute Support</h4>
+						<h3>Absolute Support</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We serve all the industries across the world to leverage innovative technology.</p>
@@ -477,7 +477,7 @@
 						<div class="complete-technical-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Complete Technical Competency</h4>
+						<h3>Complete Technical Competency</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We have made our services affordable with on-time delivery to achieve customer satisfaction.</p>
@@ -490,7 +490,7 @@
 						<div class="full-confidential-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Full Confidentiality</h4>
+						<h3>Full Confidentiality</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our impeccable testing services ensure the IoT app is error-free.</p>
@@ -798,7 +798,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -812,7 +812,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -828,7 +828,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -841,7 +841,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -925,8 +925,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -936,8 +936,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -947,8 +947,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -958,8 +958,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -969,8 +969,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -980,8 +980,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -991,8 +991,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -1002,8 +1002,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

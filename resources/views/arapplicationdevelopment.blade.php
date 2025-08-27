@@ -37,7 +37,7 @@
 			</div>
 			<div class="col-lg-5 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/ar-app-development/ar-app-development.webp" alt="AR App Development" class="img-fluid no-shadow" />
+					<img src="images/services/ar-app-development/ar-app-development.webp" alt="AR App Development" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -50,7 +50,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-6 wow fadeIn my-auto">
-				<img src="images/services/ar-app-development/ar-game-development.webp" alt="AR Game Development" class="img-fluid">
+				<img src="images/services/ar-app-development/ar-game-development.webp" alt="AR Game Development" class="img-fluid" width="100%" height="100%">
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-4 mt-sm-4 mt-md-4 mt-lg-0">
 				<div class="row wow fadeIn">
@@ -62,47 +62,47 @@
 				</div>
 				<div class="row mt80 wow fadeIn">
                     <div class="col-md-4 game-development-col">
-                        <img src="images/services/ar-app-development/ar-action.webp" alt="AR Action" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-action.webp" alt="AR Action" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Action<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/services/ar-app-development/ar-fps.webp" alt="AR FPS" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-fps.webp" alt="AR FPS" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR FPS<p>
                     </div>
 
                     <div class="col-md-4 mt-3 mt-md-0 game-development-col">
-                        <img src="images/services/ar-app-development/ar-adventure.webp" alt="AR Adventure" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-adventure.webp" alt="AR Adventure" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Adventure<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/ar-app-development/ar-puzzle.webp" alt="AR Puzzle" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-puzzle.webp" alt="AR Puzzle" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Puzzle<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/ar-app-development/ar-sports.webp" alt="AR Sports" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-sports.webp" alt="AR Sports" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Sports<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/ar-app-development/ar-arcade.webp" alt="AR Arcade" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-arcade.webp" alt="AR Arcade" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Arcade<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/ar-app-development/ar-simulation.webp" alt="AR Simulation" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-simulation.webp" alt="AR Simulation" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Simulation<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/ar-app-development/ar-brain.webp" alt="AR Brain" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-brain.webp" alt="AR Brain" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Brain<p>
                     </div>
 
                     <div class="col-md-4 mt-3 game-development-col">
-                        <img src="images/services/ar-app-development/ar-combat.webp" alt="AR Combat" class="img-fluid">
+                        <img src="images/services/ar-app-development/ar-combat.webp" alt="AR Combat" class="img-fluid" width="100%" height="100%">
                         <p class="center-text">AR Combat<p>
                     </div>
                 </div>
@@ -165,7 +165,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/ar-apps-for-android-and-ios.webp" alt="AR Apps For Android & iOS" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -180,7 +180,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/market-based-augumented-reality-apps.webp" alt="Marker-based Augmented Reality Apps" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -195,7 +195,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/markless-augmented-reality-apps.webp" alt="Markerless Augmented Reality Apps" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -210,7 +210,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/e-commerce-ar-integration.webp" alt="E-Commerce AR Integration" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -225,7 +225,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/ar-game-app-development.webp" alt="AR Game App Development" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -240,7 +240,7 @@
 						<div class="row mt-3">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/ar-support-and-maintenance.webp" alt="AR Support & Maintenance" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -255,7 +255,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/super-imposition-based-ar.webp" alt="Superimposition-based AR" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -270,7 +270,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/recognition-based-ar.webp" alt="Recognition-based AR" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -285,7 +285,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/projection-based-ar.webp" alt="Projection-based AR" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -300,7 +300,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow">
+									<img src="images/services/ar-app-development/location-based-ar.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -328,11 +328,11 @@
 					@if($k==0)
 
 					<div class="tab-pane fade show active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@endif
 
@@ -420,7 +420,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Free AR App Consultation</h3>
 					<p class="description">With AppsNation, you can consult your way to success for free.</p>
@@ -429,7 +429,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ AR App Developers" class="img-fluid">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ AR App Developers" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">50+ AR App Developers</h3>
 					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
@@ -438,7 +438,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Flexible Hiring Models</h3>
 					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
@@ -447,7 +447,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
@@ -693,7 +693,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -707,7 +707,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -723,7 +723,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -736,7 +736,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -820,8 +820,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -831,8 +831,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -842,8 +842,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -853,8 +853,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -864,8 +864,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -875,8 +875,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -886,8 +886,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -897,8 +897,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

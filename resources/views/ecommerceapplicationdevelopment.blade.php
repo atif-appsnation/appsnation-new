@@ -739,7 +739,7 @@
 						<img src="images/services/e-commerce-app-development/scalable-solutions.svg" alt="Scalable Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Scalable Solutions</h4>
+						<h3>Scalable Solutions</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Because you want to grow your online business, scalability is a crucial factor to consider when selecting an ecommerce platform. We have a wide range of scalable solutions for your business.</p>
@@ -752,7 +752,7 @@
 						<img src="images/services/e-commerce-app-development/mobile-friendly.svg" alt="Mobile Friendly" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Mobile Friendly</h4>
+						<h3>Mobile Friendly</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Your website should be mobile-friendly as well. A mobile-optimized site can enhance your SEO rankings and gain more sales from on-the-go shoppers with our flexible and smart solutions.</p>
@@ -765,7 +765,7 @@
 						<img src="images/services/e-commerce-app-development/superior-ui-ux.svg" alt="Superior UI/UX" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Superior UI/UX</h4>
+						<h3>Superior UI/UX</h3>
 					</div>
 					<div class="services-text-div">
 						<p>You'll have a lightning-fast website that allows visitors to travel from browsing to checkout in seconds, thanks to the newest technology and standards.</p>
@@ -778,7 +778,7 @@
 						<img src="images/services/e-commerce-app-development/quick-deployment.svg" alt="Quick Deployment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Quick Deployment</h4>
+						<h3>Quick Deployment</h3>
 					</div>
 					<div class="services-text-div">
 						<p>With our best e-commerce platforms, you will the quick deployment of your perfectly created e-commerce mobile app.</p>
@@ -791,7 +791,7 @@
 						<img src="images/services/e-commerce-app-development/specialized-in-e-commerce.svg" alt="Specialized in E-Commerce" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Specialized in E-Commerce</h4>
+						<h3>Specialized in E-Commerce</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our e-commerce solutions are not just versatile but our developers hold the specialization in the e-commerce field which means you will get a fruitful outcome from our services.</p>
@@ -804,7 +804,7 @@
 						<img src="images/services/e-commerce-app-development/innovative-designs.svg" alt="Innovative Designs" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Innovative Designs</h4>
+						<h3>Innovative Designs</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We've got you covered on everything from fundamental eCommerce functionality to advanced product selections, characteristics, and filters. We don't turn down any requests for features or integrations.</p>
@@ -954,7 +954,7 @@
 					@if($k==0)
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
 						</a>
 					</li>
 
@@ -962,7 +962,7 @@
 
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
+							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
 						</a>
 					</li>
 					@endif
@@ -975,7 +975,7 @@
 					@if($k==0)
 					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -984,9 +984,8 @@
 					@else
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
 					</div>
@@ -1035,25 +1034,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -1088,7 +1087,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -1102,7 +1101,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -1118,7 +1117,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -1131,7 +1130,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -1215,8 +1214,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -1226,8 +1225,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -1237,8 +1236,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -1248,8 +1247,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -1259,8 +1258,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -1270,8 +1269,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -1281,8 +1280,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -1292,8 +1291,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

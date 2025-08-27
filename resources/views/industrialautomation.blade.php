@@ -26,7 +26,7 @@
 		<div class="row mb-3">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/industrial-automation/automation-service-img.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img src="images/services/industrial-automation/automation-service-img.webp" alt="Android App Development" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -38,69 +38,69 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5  wow fadeIn">
+		<div class="row mt-5 wow fadeIn">
 			<div class="col-12 col-md-6 col-lg-3">
 				<div class="card">
 					<div class="card-body text-center mt-3 mt-md-0">
-						<img src="images/services/industrial-automation/scada-hmi-icon.webp" alt="SCADA/HMI" class="img-fluid py-3 ind-auto-img">
-						<h5>SCADA/HMI
-					</h5></div>
+						<img src="images/services/industrial-automation/scada-hmi-icon.webp" alt="SCADA/HMI" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>SCADA/HMI</h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="card">
 					<div class="card-body text-center">
-						<img src="images/services/industrial-automation/industrial-controls-icon.webp" alt="Industrial Controls" class="img-fluid py-3 ind-auto-img">
-						<h5>Industrial Controls
-					</h5></div>
+						<img src="images/services/industrial-automation/industrial-controls-icon.webp" alt="Industrial Controls" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>Industrial Controls</h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-3 mt-lg-0">
 				<div class="card">
 					<div class="card-body text-center">
-						<img src="images/services/industrial-automation/system-automation-icon.webp" alt="System Automation" class="img-fluid py-3 ind-auto-img">
-						<h5>System Automation
-					</h5></div>
+						<img src="images/services/industrial-automation/system-automation-icon.webp" alt="System Automation" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>System Automation</h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-3 mt-lg-0">
 				<div class="card">
 					<div class="card-body text-center">
-						<img src="images/services/industrial-automation/upgrade-and-repair-icon.webp" alt="Upgrade and Repair" class="img-fluid py-3 ind-auto-img">
-						<h5>Upgrade and Repair
-					</h5></div>
+						<img src="images/services/industrial-automation/upgrade-and-repair-icon.webp" alt="Upgrade and Repair" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>Upgrade and Repair </h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="card">
 					<div class="card-body text-center mt-3 mt-md-0">
-						<img src="images/services/industrial-automation/machine-vision-icon.webp" alt="Machine Vision" class="img-fluid py-3 ind-auto-img">
-						<h5>Machine Vision
-					</h5></div>
+						<img src="images/services/industrial-automation/machine-vision-icon.webp" alt="Machine Vision" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>Machine Vision</h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="card">
 					<div class="card-body text-center">
-						<img src="images/services/industrial-automation/extended-reality-automatio-icon.webp" alt="Extended Reality Automation" class="img-fluid py-3 ind-auto-img">
-						<h5>Extended Reality Automation
-					</h5></div>
+						<img src="images/services/industrial-automation/extended-reality-automatio-icon.webp" alt="Extended Reality Automation" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>Extended Reality Automation</h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="card">
 					<div class="card-body text-center">
-						<img src="images/services/industrial-automation/embedded-systems-icon.webp" alt="Embedded Systems" class="img-fluid py-3 ind-auto-img">
-						<h5>Embedded Systems
-					</h5></div>
+						<img src="images/services/industrial-automation/embedded-systems-icon.webp" alt="Embedded Systems" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>Embedded Systems</h3>
+					</div>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-3 mt-3">
 				<div class="card">
 					<div class="card-body text-center">
-						<img src="images/services/industrial-automation/industrial-40-icon.webp" alt="Industrial 4.0" class="img-fluid py-3 ind-auto-img">
-						<h5>Industrial 4.0
-					</h5></div>
+						<img src="images/services/industrial-automation/industrial-40-icon.webp" alt="Industrial 4.0" class="img-fluid py-3 ind-auto-img" width="auto" height="auto">
+						<h3>Industrial 4.0</h3>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -230,7 +230,7 @@
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Troubleshooting</h4>
+						<h3>Troubleshooting</h3>
 					</div>
 					<div class="services-text-div">
 						<p>PLCs, robots, HMIs, and more.</p>
@@ -243,7 +243,7 @@
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Production Startup Emergencies</h4>
+						<h3>Production Startup Emergencies</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We can assist you because startups are difficult and may need to be corrected.</p>
@@ -256,7 +256,7 @@
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Hardware Replacements</h4>
+						<h3>Hardware Replacements</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We take pride in providing the proper hardware for your operations to run flawlessly.</p>
@@ -269,7 +269,7 @@
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>On-Site Help</h4>
+						<h3>On-Site Help</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We are available offline, too, with an engineer present on-site to assist you.</p>
@@ -282,7 +282,7 @@
 						<div class="android-app-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Debugging</h4>
+						<h3>Debugging</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Standalone controllers, robots, PCLs, etc.</p>
@@ -295,7 +295,7 @@
 						<div class="android-app-dev-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Unplanned Downtime Support</h4>
+						<h3>Unplanned Downtime Support</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We get the engines running regardless of any urgency.</p>
@@ -443,7 +443,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid">
+						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Free Consultation Services</h3>
 					<p class="description">With Industrial Automation Experts, you can receive a complimentary consultation to identify the best automation solutions for your needs.</p>
@@ -452,7 +452,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid">
+						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Experienced Automation Engineers</h3>
 					<p class="description">Unlock your potential with our team of expert engineers skilled in the latest automation technologies.</p>
@@ -461,7 +461,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid">
+						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Flexible Project Engagements</h3>
 					<p class="description">We offer adaptable engagement models, catering to businesses of all sizes with customized pricing packages.</p>
@@ -470,7 +470,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid">
+						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Our dedicated support team is available around the clock to address any issues and ensure smooth operations.</p>
@@ -479,7 +479,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid">
+						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Transparent Operations</h3>
 					<p class="description">We prioritize transparency, keeping you informed at every step to build trust and ensure satisfaction.</p>
@@ -488,7 +488,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid">
+						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">3-Months Free Maintenance Post-Delivery</h3>
 					<p class="description">Enjoy peace of mind with three months of free maintenance after project completion, ensuring the sustained performance of our solutions.</p>
@@ -588,7 +588,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-lg-6">
-                                <img src="images/services/industrial-automation/industrial-automation-img-1.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+                                <img src="images/services/industrial-automation/industrial-automation-img-1.webp" alt="Unplanned Downtime Support" class="d-block mx-auto" width="auto" height="auto">
                             </div>
                             <div class="col-lg-6 mt-4 mt-lg-0">
                                 <h2 class="common-heading">Delta Robot</h2>
@@ -612,7 +612,7 @@
                                 <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-4" data-wow-delay="0.8s">View Case Study</a>
                             </div>
                             <div class="col-lg-6 mt-4 mt-lg-0">
-                                <img src="images/services/industrial-automation/industrial-automation-img-2.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+                                <img src="images/services/industrial-automation/industrial-automation-img-2.webp" alt="Unplanned Downtime Support" class="d-block mx-auto" width="auto" height="auto">
                             </div>
                         </div>
                     </div>
@@ -626,7 +626,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-lg-6">
-                                <img src="images/services/industrial-automation/industrial-automation-img-3.webp" alt="Unplanned Downtime Support" class="d-block mx-auto">
+                                <img src="images/services/industrial-automation/industrial-automation-img-3.webp" alt="Unplanned Downtime Support" class="d-block mx-auto" width="auto" height="auto">
                             </div>
                             <div class="col-lg-6 mt-4 my-lg-auto">
                                 <h2 class="common-heading">Automated Guided Vehicle</h2>
@@ -759,25 +759,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -812,7 +812,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -826,7 +826,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -842,7 +842,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -855,7 +855,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -939,8 +939,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -950,8 +950,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -961,8 +961,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -972,8 +972,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -983,8 +983,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -994,8 +994,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -1005,8 +1005,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -1016,8 +1016,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

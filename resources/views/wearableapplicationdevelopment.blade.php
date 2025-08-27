@@ -27,7 +27,7 @@
 		<div class="row">
 			<div class="col-lg-5 my-auto wow fadeIn">
 				<div class="image-block">
-					<img src="images/services/wearable-app-development/wearable-app-development.webp" alt="Wearable App Development" class="img-fluid no-shadow" />
+					<img src="images/services/wearable-app-development/wearable-app-development.webp" alt="Wearable App Development" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn">
@@ -62,10 +62,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/custom-wearable-device-app-development.svg" alt="Custom Wearable Device App Development" class="img-fluid">
+						<img src="images/services/wearable-app-development/custom-wearable-device-app-development.svg" alt="Custom Wearable Device App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Custom Wearable Device App Development</h4>
+						<h3>Custom Wearable Device App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Offer your loyal customers a new standard of living with a custom wearable app of your business with our reliable wearable device app development services.</p>
@@ -75,10 +75,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/wearable-app-ui-ux-design.svg" alt="Wearable App UI/UX Design" class="img-fluid">
+						<img src="images/services/wearable-app-development/wearable-app-ui-ux-design.svg" alt="Wearable App UI/UX Design" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Wearable App UI/UX Design</h4>
+						<h3>Wearable App UI/UX Design</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our skilled UI/UX designers are driven to create wearable device app designs that are concise, simplified, user-friendly, and visually appealing.</p>
@@ -88,10 +88,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/android-wearable-app-development.svg" alt="Android Wearable App Development" class="img-fluid">
+						<img src="images/services/wearable-app-development/android-wearable-app-development.svg" alt="Android Wearable App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Android Wearable App Development</h4>
+						<h3>Android Wearable App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our brilliant android developers are experts in fusing modern devices with Android to create a flawless wearable android app for your brilliant business.</p>
@@ -101,10 +101,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/apple-watch-application-development.svg" alt="Apple Watch Application Development" class="img-fluid">
+						<img src="images/services/wearable-app-development/apple-watch-application-development.svg" alt="Apple Watch Application Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Apple Watch Application Development</h4>
+						<h3>Apple Watch Application Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We design slick, high-quality Apple Watch applications that are refined and effective in ways you never imagined and go above and beyond.</p>
@@ -114,10 +114,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/iot-based-werable-app-development.svg" alt="IoT based Wearable App Development" class="img-fluid">
+						<img src="images/services/wearable-app-development/iot-based-werable-app-development.svg" alt="IoT based Wearable App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>IoT based Wearable App Development</h4>
+						<h3>IoT based Wearable App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Make use of our IoT professionals, who are passionate about developing IoT wearables and apps tailored to your specific business requirements.</p>
@@ -127,10 +127,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/augument-reality-app-development.svg" alt="Augmented Reality App Development for Wearables" class="img-fluid">
+						<img src="images/services/wearable-app-development/augument-reality-app-development.svg" alt="Augmented Reality App Development for Wearables" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Augmented Reality App Development for Wearables</h4>
+						<h3>Augmented Reality App Development for Wearables</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We enjoy how AR provide companies with an immersive experience to sell themselves. With our Augmented Reality app development for wearables, you can get started right now.</p>
@@ -140,10 +140,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/wearables-apps-compatibility-testing.svg" alt="Wearable Apps Compatibility Testing" class="img-fluid">
+						<img src="images/services/wearable-app-development/wearables-apps-compatibility-testing.svg" alt="Wearable Apps Compatibility Testing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Wearable Apps Compatibility Testing</h4>
+						<h3>Wearable Apps Compatibility Testing</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We provide complete wearable app testing services to guarantee that businesses get the most out of their unique wearable device application.</p>
@@ -153,10 +153,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/recreating-existing-apps.svg" alt="Recreating Existing Apps for Wearables" class="img-fluid">
+						<img src="images/services/wearable-app-development/recreating-existing-apps.svg" alt="Recreating Existing Apps for Wearables" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Recreating Existing Apps for Wearables</h4>
+						<h3>Recreating Existing Apps for Wearables</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Not a single creation is a failure. Reach our recreating existing apps for wearables services to make that amateur app live and deliver a seamless user experience.</p>
@@ -166,10 +166,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/wearable-app-development/maintenance-and-support.svg" alt="Maintenance and Support" class="img-fluid">
+						<img src="images/services/wearable-app-development/maintenance-and-support.svg" alt="Maintenance and Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Maintenance and Support</h4>
+						<h3>Maintenance and Support</h3>
 					</div>
 					<div class="services-text-div">
 						<p>To preserve the integrity of the wearable device app and offer your users a smooth experience, we provide sustainable support and maintenance services.</p>
@@ -198,7 +198,7 @@
 	<div class="row mt-5">
 		<div class="col-lg-6">
 			<div class="image-block wow fadeIn">
-				<img src="images/services/wearable-app-development/smart-band-apps.webp" alt="Smart Band Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/smart-band-apps.webp" alt="Smart Band Apps" class="img-fluid no-shadow" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -217,14 +217,14 @@
 		</div>
 		<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
 			<div class="image-block wow fadeIn">
-				<img src="images/services/wearable-app-development/apple-watch-apps.webp" alt="Apple Watch Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/apple-watch-apps.webp" alt="Apple Watch Apps" class="img-fluid no-shadow" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
 	<div class="row mt-5">
 		<div class="col-lg-6">
 			<div class="image-block wow fadeIn">
-				<img src="images/services/wearable-app-development/google-glass-apps.webp" alt="Google Glass Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/google-glass-apps.webp" alt="Google Glass Apps" class="img-fluid no-shadow" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -243,14 +243,14 @@
 		</div>
 		<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
 			<div class="image-block wow fadeIn">
-				<img src="images/services/wearable-app-development/virtual-reality-apps.webp" alt="Virtual Reality Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/virtual-reality-apps.webp" alt="Virtual Reality Apps" class="img-fluid no-shadow" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
 	<div class="row mt-5">
 		<div class="col-lg-6">
 			<div class="image-block wow fadeIn">
-				<img src="images/services/wearable-app-development/iot-wearable-apps.webp" alt="IoT Wearable Apps" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/iot-wearable-apps.webp" alt="IoT Wearable Apps" class="img-fluid no-shadow" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="col-lg-6 block-1 wow fadeIn my-auto">
@@ -269,7 +269,7 @@
 		</div>
 		<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
 			<div class="image-block wow fadeIn">
-				<img src="images/services/wearable-app-development/wearable-payment-app.webp" alt="Wearable Payment App" class="img-fluid no-shadow" />
+				<img src="images/services/wearable-app-development/wearable-payment-app.webp" alt="Wearable Payment App" class="img-fluid no-shadow" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -286,11 +286,11 @@
 					@if($k==0)
 
 					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
 					</div>
 					@endif
 
@@ -381,7 +381,7 @@
 						<div class="comprehensive-experties-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Comprehensive Expertise</h4>
+						<h3>Comprehensive Expertise</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We offer a wide range of wearable app development services.</p>
@@ -394,7 +394,7 @@
 						<div class="extensive-versatility-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Extensive Versatility</h4>
+						<h3>Extensive Versatility</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We develop wearable app development services across every platform and device.</p>
@@ -407,7 +407,7 @@
 						<div class="cross-device-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Cross-Device Capability</h4>
+						<h3>Cross-Device Capability</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We create a single coded wearable app that works efficiently on multiple platforms.</p>
@@ -420,7 +420,7 @@
 						<div class="cross-industry-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Cross-industry Experience</h4>
+						<h3>Cross-industry Experience</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We serve all the industries across the world to leverage innovative technology.</p>
@@ -433,7 +433,7 @@
 						<div class="competitive-delivery-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Competitive Pricing & Timely Delivery</h4>
+						<h3>Competitive Pricing & Timely Delivery</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We have made our services affordable with on-time delivery to achieve customer satisfaction.</p>
@@ -446,7 +446,7 @@
 						<div class="bug-free-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Bug-free Wearable App Development</h4>
+						<h3>Bug-free Wearable App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our impeccable testing services ensure the wearable app is error-free.</p>
@@ -566,25 +566,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -619,7 +619,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -633,7 +633,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -649,7 +649,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -662,7 +662,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -746,8 +746,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -757,8 +757,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -768,8 +768,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -779,8 +779,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -790,8 +790,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -801,8 +801,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -812,8 +812,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -823,8 +823,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

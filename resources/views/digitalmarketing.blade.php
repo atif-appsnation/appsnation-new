@@ -26,7 +26,7 @@
 		<div class="row"> 
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/digital-marketing/digital-marketing-services.webp" alt="Digital Marketing" class="img-fluid no-shadow" />
+					<img src="images/services/digital-marketing/digital-marketing-services.webp" alt="Digital Marketing" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -64,10 +64,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/website-development.svg" alt="Website Development" class="img-fluid">
+						<img src="images/services/digital-marketing/website-development.svg" alt="Website Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Website Development</h4>
+						<h3>Website Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Establish a strong online presence with professional website development. Our team creates visually appealing and user-friendly websites that reflect your brand identity and engage visitors, ensuring a seamless user experience.</p>
@@ -77,10 +77,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/email-marketing.svg" alt="Email Marketing" class="img-fluid">
+						<img src="images/services/digital-marketing/email-marketing.svg" alt="Email Marketing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Email Marketing</h4>
+						<h3>Email Marketing</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Stay connected with your customers through email marketing. We design personalized email campaigns that engage your audience, promote your products or services, and encourage loyalty and repeat business.</p>
@@ -90,10 +90,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/seo.svg" alt="SEO (Search Engine Optimization)" class="img-fluid">
+						<img src="images/services/digital-marketing/seo.svg" alt="SEO (Search Engine Optimization)" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>SEO (Search Engine Optimization)</h4>
+						<h3>SEO (Search Engine Optimization)</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Enhance your visibility on search engines with SEO. By optimizing your website content and structure, we help you rank higher in search results, driving more organic traffic and increasing your online reach.</p>
@@ -103,10 +103,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/sem.svg" alt="Search Engine Marketing" class="img-fluid">
+						<img src="images/services/digital-marketing/sem.svg" alt="Search Engine Marketing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Search Engine Marketing</h4>
+						<h3>Search Engine Marketing</h3>
 					</div>
 					<div class="services-text-div">
 						<p>With the most experienced Quality Assurance experts in the industry, we test your android app thoroughly with manual and automated testing to ensure a seamless user experience.</p>
@@ -116,10 +116,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/smm.svg" alt="SMM (Social Media Marketing)" class="img-fluid">
+						<img src="images/services/digital-marketing/smm.svg" alt="SMM (Social Media Marketing)" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>SMM (Social Media Marketing)</h4>
+						<h3>SMM (Social Media Marketing)</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Connect with your audience through social media marketing. We create engaging content and strategic campaigns to build brand awareness, foster community engagement, and drive traffic to your website.</p>
@@ -129,10 +129,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/cro.svg" alt="CRO (Conversion Rate Optimization)" class="img-fluid">
+						<img src="images/services/digital-marketing/cro.svg" alt="CRO (Conversion Rate Optimization)" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>CRO (Conversion Rate Optimization)</h4>
+						<h3>CRO (Conversion Rate Optimization)</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our android app development services are based primarily on research and data analysis. Therefore, we offer you result-driven strategies for a custom android application.</p>
@@ -142,10 +142,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/content-writing.svg" alt="Content Writing" class="img-fluid">
+						<img src="images/services/digital-marketing/content-writing.svg" alt="Content Writing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Content Writing</h4>
+						<h3>Content Writing</h3>
 					</div>
 					<div class="services-text-div">
 						<p>High-quality content is key to communicating your brand message. Our skilled writers craft engaging and informative content that resonates with your audience, supports SEO, and establishes your authority in the industry.</p>
@@ -155,10 +155,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/marketing-automation.svg" alt="Marketing Automation" class="img-fluid">
+						<img src="images/services/digital-marketing/marketing-automation.svg" alt="Marketing Automation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Marketing Automation</h4>
+						<h3>Marketing Automation</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Simplify and streamline your marketing efforts with automation. We implement tools that automate repetitive tasks, allowing you to focus on strategy and delivering more personalized customer experiences.</p>
@@ -168,10 +168,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/pay-per-click.svg" alt="PPC (Pay Per Click)" class="img-fluid">
+						<img src="images/services/digital-marketing/pay-per-click.svg" alt="PPC (Pay Per Click)" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>PPC (Pay Per Click)</h4>
+						<h3>PPC (Pay Per Click)</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Quickly drive targeted traffic to your site with PPC advertising. Our campaigns are designed to reach your ideal customers, maximize conversions, and provide a measurable return on investment.</p>
@@ -181,10 +181,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/content-marketing.svg" alt="Content Marketing" class="img-fluid">
+						<img src="images/services/digital-marketing/content-marketing.svg" alt="Content Marketing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Content Marketing</h4>
+						<h3>Content Marketing</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Build trust and authority with content marketing. We develop and distribute valuable content that educates, entertains, and informs your audience, fostering engagement and driving profitable customer action.</p>
@@ -194,10 +194,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/copywriting.svg" alt="Copywriting" class="img-fluid">
+						<img src="images/services/digital-marketing/copywriting.svg" alt="Copywriting" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Copywriting</h4>
+						<h3>Copywriting</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Effective copywriting turns prospects into customers. We create persuasive and compelling copy for ads, websites, and other marketing materials, helping you communicate your value proposition clearly and effectively.</p>
@@ -207,10 +207,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/influencer-marketing.svg" alt="Influencer Marketing" class="img-fluid">
+						<img src="images/services/digital-marketing/influencer-marketing.svg" alt="Influencer Marketing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Influencer Marketing</h4>
+						<h3>Influencer Marketing</h3>
 					</div>
 					<div class="services-text-div">
 						<p> Leverage the power of influencers to reach new audiences. We connect your brand with influencers who resonate with your target market, enhancing brand credibility and driving engagement.</p>
@@ -220,10 +220,10 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/digital-marketing/affiliate-marketing.svg" alt="Affiliate Marketing" class="img-fluid">
+						<img src="images/services/digital-marketing/affiliate-marketing.svg" alt="Affiliate Marketing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
-						<h4>Affiliate Marketing</h4>
+						<h3>Affiliate Marketing</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Expand your reach and boost sales through affiliate marketing. We set up and manage partnerships with affiliates who promote your products or services, providing a cost-effective way to increase revenue.</p>
@@ -242,14 +242,14 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-lg-6">
-                        <img src="images/services/digital-marketing/seo-img.webp" alt="SEO" class="img-fluid">
+                        <img src="images/services/digital-marketing/seo-img.webp" alt="SEO" class="img-fluid" width="auto" height="auto">
                     </div>
                     <div class="col-lg-6 my-5">
                         <!-- <div class="common-heading text-l"> -->
                             <h3 class="common-heading">SEO (Search Engine Optimization)</h3>
                             <p class="pt-3">A good SEO strategy will make sure that your site is found by as many people as possible. By having a good SEO strategy, you will be able to generate leads and increase your sales. For Good SEO you need SEO experts who can brings your website on Google's top rankings like our Experts do.</p>
                             <div class="hire-button mt-3">
-                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                                <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s">Get Your Free Consultation</a>
                             </div>
                         <!-- </div> -->
                     </div>
@@ -264,11 +264,11 @@
                         <h3 class="common-heading">Content Marketing</h3>
                         <p class="pt-3">Many companies are using content marketing to promote their products and services. Content marketing gives them the chance to tell their story and create a relationship with their audience. If you want to promote your business, you can use content marketing. Content marketing is a great strategy. Content marketing can help you to reach out to a wide audience.</p>
                         <div class="hire-button mt-3">
-                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s">Get Your Free Consultation</a>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <img src="images/services/digital-marketing/content-writing-img.webp" alt="Content Marketing" class="img-fluid">
+                    <div class="col-lg-6 text-end">
+                        <img src="images/services/digital-marketing/content-writing-img.webp" alt="Content Marketing" class="img-fluid" width="auto" height="auto">
                     </div>
                 </div>
             </div>
@@ -278,13 +278,13 @@
             <div class="card-body">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
-                        <img src="images/services/digital-marketing/smm-img.webp" alt="Social Media Marketing" class="img-fluid">
+                        <img src="images/services/digital-marketing/smm-img.webp" alt="Social Media Marketing" class="img-fluid" width="auto" height="auto">
                     </div>
                     <div class="col-lg-6 my-auto px-4 ps-lg-5 py-3 py-md-3 py-lg-3 py-xl-0">
                         <h3 class="common-heading">SMM (Social Media Marketing)</h3>
                         <p class="pt-3">Social media marketing is a very popular form of marketing today. Using the Internet and social media is a great way to generate traffic to your website. It also allows you to interact directly with your customers. AppsNation has the best and most experienced Social media marketer who can help your brand in order to get awareness.</p>
                         <div class="hire-button mt-3">
-                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s">Get Your Free Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -298,11 +298,11 @@
                         <h3 class="common-heading">Advertisement</h3>
                         <p class="pt-3">When we take about the advertisement in digital marketing so, first two names comes our mind google ads and fb ads.Both ads have their own value.Fb ads are best for branding and target base marketing while google ads is best for local base businesses or already existing services or products.We have FB &amp; Google ads experts who can give you unlimited leads and sales.</p>
                         <div class="hire-button mt-3">
-                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Get Your Free Consultation</a>
+                            <a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk" data-wow-delay="0.8s">Get Your Free Consultation</a>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <img src="images/services/digital-marketing/advertisment-img.webp" alt="Advertisment" class="img-fluid">
+                    <div class="col-lg-6 text-end">
+                        <img src="images/services/digital-marketing/advertisment-img.webp" alt="Advertisment" class="img-fluid" width="auto" height="auto">
                     </div>
                 </div>
             </div>
@@ -348,7 +348,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/digital-marketing/certified-professionals.svg" alt="Certified Professionals" class="img-fluid">
+						<img src="images/services/digital-marketing/certified-professionals.svg" alt="Certified Professionals" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Certified Professionals</h3>
 					<p class="description">We have certified digital marketing professionals who have years of experience in the industry.</p>
@@ -357,7 +357,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/digital-marketing/best-marketing-packages.svg" alt="Best Marketing Packages" class="img-fluid">
+						<img src="images/services/digital-marketing/best-marketing-packages.svg" alt="Best Marketing Packages" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Best Marketing Packages</h3>
 					<p class="description">We provide affordable digital marketing packages for small and medium sized businesses.</p>
@@ -366,7 +366,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/digital-marketing/24x7-customer-support.svg" alt="24x7 Customer Support" class="img-fluid">
+						<img src="images/services/digital-marketing/24x7-customer-support.svg" alt="24x7 Customer Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">24x7 Customer Support</h3>
 					<p class="description">We work 24×7 to ensure that your business reaches the maximum possible audience.</p>
@@ -375,7 +375,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/digital-marketing/free-consultation.svg" alt="Free Consultation" class="img-fluid">
+						<img src="images/services/digital-marketing/free-consultation.svg" alt="Free Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Free Consultation</h3>
 					<p class="description">We help you to understand your customer requirements and provide a customized solution to your needs.</p>
@@ -384,7 +384,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/digital-marketing/transparency.svg" alt="We Believe in Transparency" class="img-fluid">
+						<img src="images/services/digital-marketing/transparency.svg" alt="We Believe in Transparency" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">We Believe in Transparency</h3>
 					<p class="description">We work with you throughout the project so that you can see the improvement of your business.</p>
@@ -566,25 +566,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -619,7 +619,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -633,7 +633,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -649,7 +649,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -662,7 +662,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -746,8 +746,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -757,8 +757,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -768,8 +768,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -779,8 +779,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -790,8 +790,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -801,8 +801,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -812,8 +812,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -823,8 +823,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

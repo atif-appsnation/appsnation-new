@@ -26,7 +26,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/banner/animation-banner-img.png" alt="Animation Development" class="img-fluid no-shadow" />
+					<img src="images/banner/animation-banner-img.png" alt="Animation Development" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -63,7 +63,7 @@
 						<div class="android-designing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Explainer Video Animation Services</h4>
+						<h3>Explainer Video Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Get your company's message out there uniquely with an animated explainer video. Our explainer videos are a means of transforming viewers into buyers. We create explainer videos to assist companies in telling their story in a way that is easy to remember and share. Our staff is prepared to make your pitch stand out, attract attention, and convey your message.</p>
@@ -76,7 +76,7 @@
 						<div class="android-web-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Logo Animation Services</h4>
+						<h3>Logo Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Reinvent your brand's identity with our logo animation services. Animated logos breathe new life into any brand, promoting it unexpectedly. With a team of professionals and cutting-edge tools, we blend innovative styles and bright colors and create scripts to create a wholly distinctive and animated brand identity for you.</p>
@@ -89,7 +89,7 @@
 						<div class="android-app-porting-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>3D Animation Services</h4>
+						<h3>3D Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Open your door to the next level of animation. We have a large staff of skilled 3D artists that can create spectacular graphics, videos, and renderings to help you sell, advertise, or promote new products. Our 3D animation services cover everything from product live-action advertising content to delivering scenes that bring life to your story.</p>
@@ -102,7 +102,7 @@
 						<div class="android-app-testing-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>2D Animation Services</h4>
+						<h3>2D Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our professionals know what works when it comes to digital 2D content. Our 2D industry specialists are here to bring your digital creations to life. We have worked on 2D projects for small businesses and big organizations. Plus, we collaborate with you to guarantee that your 2D animated video fulfills your objectives and delivers the outcomes you expect.</p>
@@ -115,7 +115,7 @@
 						<div class="android-app-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Whiteboard Animation Services</h4>
+						<h3>Whiteboard Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Say goodbye to erasing and redrawing since we have discovered a workaround. Instead, we convert your concept into a whiteboard video that will leave your viewers wanting more with our whiteboard animation services. Our drawings, voice-overs, and motion graphics enable us to create concise and compelling whiteboard animations.</p>
@@ -128,7 +128,7 @@
 						<div class="android-app-dev-consultation-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Character Animation Services</h4>
+						<h3>Character Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Whether you are a production company searching for a character animation service or seeking a freelancer to work with, we help you bring your narrative to life - whatever way you choose. We are a video animation company you can always rely on for high-quality character animation services that will add visual impact to your stories.</p>
@@ -141,7 +141,7 @@
 						<div class="custom-android-app-dev-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>TV Commercial Animation Services</h4>
+						<h3>TV Commercial Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We offer full TV commercial animation services, from idea to completion. Our writers, animators, and designers are committed to creating effective, attention-grabbing advertising that boosts sales and maximizes ROI. Future Reality’s high-quality corporate TV commercial animation includes storyboards, logo design, TV commercials, and audio production.</p>
@@ -154,7 +154,7 @@
 						<div class="android-multi-platform-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Product Animation Videos</h4>
+						<h3>Product Animation Videos</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We assist businesses in developing excellent product animation videos that teach customers what the product does and how to utilize it. Our professionals collaborate with you to ensure that your definition is clearly presented in an engaging way that leaves the audience interested in your product and, most importantly, that they know how to purchase it.</p>
@@ -167,7 +167,7 @@
 						<div class="android-watch-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Feature Film Animation Services</h4>
+						<h3>Feature Film Animation Services</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We will develop your feature film with the same cutting-edge animation production technologies that have been used to create huge blockbuster films. Our team will convey your storyline with comprehensive animation production services, from plot concept to character design, environments, and cinematic quality.</p>
@@ -183,13 +183,13 @@
 <section class="motion-animation py-5" id="about">
 	<div class="container">
 		<div class="row">
-		<div class="col-lg-6 block-1 wow fadeIn pt-3 pt-sm-3 pt-md-3 pt-lg-0" style="visibility: visible; animation-name: fadeIn;">
-				<img src="images/banner/animation-graphic.png" alt="AR Game Changer" class="img-fluid">
+		<div class="col-lg-6 block-1 wow fadeIn pt-3 pt-sm-3 pt-md-3 pt-lg-0">
+				<img src="images/banner/animation-graphic.png" alt="AR Game Changer" class="img-fluid" width="100%" height="100%">
 			</div>
-			<div class="col-lg-6 wow fadeIn my-auto" style="visibility: visible; animation-name: fadeIn;">
+			<div class="col-lg-6 wow fadeIn my-auto">
 				<h2><span>Motion Graphic</span> Services</h2>
 				<p class="pt-2">Our motion graphic services enable you to add an appealing graphical element to your product pages to pique your customers' interest and send that all-important purchase decision their way. We offer a variety of motion graphics, visual effects, and design services to assist you in developing dynamic brand events or productions.</p>
-				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-3" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Let's Start Your Project</a>
+				<a data-bs-toggle="modal" data-bs-target="#leadModal" class="btn-main button-arounder lnk wow fadeIn mt-3" data-wow-delay="0.8s">Let's Start Your Project</a>
 			</div>
 		</div>
 	</div>
@@ -429,25 +429,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -482,7 +482,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -496,7 +496,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -512,7 +512,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -525,7 +525,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -609,8 +609,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -620,8 +620,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -631,8 +631,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -642,8 +642,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -653,8 +653,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -664,8 +664,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -675,8 +675,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -686,8 +686,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

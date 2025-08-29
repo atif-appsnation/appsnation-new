@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="2D & 3D FLOOR PLAN">
+				<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="2D & 3D FLOOR PLAN" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -28,7 +28,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="wow fadeIn">
-					<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="2D & 3D FLOOR PLAN">
+					<img src="images/services/2d-3d-floor-plan-services/twod-threed-floor-plan-banner-img.webp" class="img-fluid" alt="2D & 3D FLOOR PLAN" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -166,27 +166,27 @@
 		<div class="row upset justify-content-center mt30">
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
+					<!-- <div class="timeline-year">
 						<div class="free-mobile-app-consultation"></div>
-					</div>
+					</div> -->
 					<h3 class="title">ACHIEVE PERFECTION</h3>
 					<p class="description">2D and 3D floor plan services help in achieving perfection in architectural and interior design projects by providing precise and detailed visual representations. These plans ensure that every aspect of the design is carefully considered and accurately depicted, allowing for precise measurements and clear communication of ideas.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
+					<!-- <div class="timeline-year">
 						<div class="expert-android-developers"></div>
-					</div>
+					</div> -->
 					<h3 class="title">VERSATILITY</h3>
 					<p class="description">2D and 3D floor plans offer versatility, allowing designers to experiment with different layouts and styles. This flexibility makes it easy to explore various design options, adapt to client preferences, and make changes without the need for physical alterations. It also helps in visualizing different configurations and optimizing space usage.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
+					<!-- <div class="timeline-year">
 						<div class="flexible-hiring-models"></div>
-					</div>
+					</div> -->
 					<h3 class="title">BENEFICIAL SPACES</h3>
 					<p class="description">Utilizing 2D and 3D floor plan services leads to the creation of beneficial spaces that are functional and aesthetically pleasing. These plans enable designers to plan layouts that maximize space efficiency and cater to the specific needs of the users, ultimately enhancing the overall quality and usability of the environment.</p>
 				</div>
@@ -290,7 +290,7 @@
 			</div>
 		</div>
 
-		<div class="row pt-3">
+		<div class="row pt-5">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 wow fadeIn v-center"fadeIn>
 				<img src="images/services/2d-3d-floor-plan-services/threed-floor-plan-layout.webp" alt="3D Floor Plan" height="100%" width="100%">
 			</div>
@@ -536,7 +536,6 @@
             </div>
         </div>
 		
-		
         <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
@@ -561,6 +560,7 @@
             @endforeach
             <!-- </div> -->
         </div>
+
         <div class="row mt-5">
             <div class="col-12">
                 <div class="row">
@@ -568,8 +568,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -579,8 +579,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -590,8 +590,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -601,8 +601,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -612,8 +612,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -623,8 +623,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -634,8 +634,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -645,8 +645,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

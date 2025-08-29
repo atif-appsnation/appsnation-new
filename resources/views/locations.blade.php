@@ -114,7 +114,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>New York</h4>
+						<h3>New York</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-new-york')}}" class="text-black">App Development in New York</a></li>
 						</ul>
@@ -124,7 +124,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>San Francisco</h4>
+						<h3>San Francisco</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-san-francisco')}}" class="text-black">App Development in San Francisco</a></li>
 						</ul>
@@ -134,7 +134,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Los Angeles</h4>
+						<h3>Los Angeles</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-los-angeles')}}" class="text-black">App Development in Los Angeles</a></li>
 						</ul>
@@ -144,7 +144,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Miami</h4>
+						<h3>Miami</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-miami')}}" class="text-black">App Development in Miami</a></li>
 						</ul>
@@ -154,7 +154,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Houston</h4>
+						<h3>Houston</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-houston')}}" class="text-black">App Development in Houston</a></li>
 						</ul>
@@ -164,7 +164,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Dallas</h4>
+						<h3>Dallas</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-dallas')}}" class="text-black">App Development in Dallas</a></li>
 						</ul>
@@ -174,7 +174,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Austin</h4>
+						<h3>Austin</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-austin')}}" class="text-black">App Development in Austin</a></li>
 						</ul>
@@ -184,7 +184,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Washington</h4>
+						<h3>Washington</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-washington')}}" class="text-black">App Development in Washington</a></li>
 						</ul>
@@ -194,7 +194,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Montana</h4>
+						<h3>Montana</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-montana')}}" class="text-black">App Development in Montana</a></li>
 						</ul>
@@ -224,7 +224,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>UAE</h4>
+						<h3>UAE</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-uae')}}" class="text-black">App Development in UAE</a></li>
 						</ul>
@@ -234,7 +234,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Qatar</h4>
+						<h3>Qatar</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-qatar')}}" class="text-black">App Development in Qatar</a></li>
 						</ul>
@@ -244,7 +244,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Saudi Arabia</h4>
+						<h3>Saudi Arabia</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-saudi-arabia')}}" class="text-black">App Development in Saudi Arabia</a></li>
 						</ul>
@@ -254,7 +254,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Bahrain</h4>
+						<h3>Bahrain</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-bahrain')}}" class="text-black">App Development in Bahrain</a></li>
 						</ul>
@@ -264,7 +264,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Oman</h4>
+						<h3>Oman</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-oman')}}" class="text-black">App Development in Oman</a></li>
 						</ul>
@@ -274,7 +274,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Kuwait</h4>
+						<h3>Kuwait</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-kuwait')}}" class="text-black">App Development in Kuwait</a></li>
 						</ul>
@@ -304,7 +304,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Leeds</h4>
+						<h3>Leeds</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-leeds')}}" class="text-black">App Development in Leeds</a></li>
 						</ul>
@@ -314,7 +314,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>London</h4>
+						<h3>London</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-london')}}" class="text-black">App Development in London</a></li>
 						</ul>
@@ -324,7 +324,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Birmingham</h4>
+						<h3>Birmingham</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-birmingham')}}" class="text-black">App Development in Birmingham</a></li>
 						</ul>
@@ -354,7 +354,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Johannesburg</h4>
+						<h3>Johannesburg</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-johannesburg')}}" class="text-black">App Development in Johannesburg</a></li>
 						</ul>
@@ -364,7 +364,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Morocco</h4>
+						<h3>Morocco</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-morocco')}}" class="text-black">App Development in Morocco</a></li>
 						</ul>
@@ -392,7 +392,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Italy</h4>
+						<h3>Italy</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-italy')}}" class="text-black">App Development in Italy</a></li>
 						</ul>
@@ -402,7 +402,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Germany</h4>
+						<h3>Germany</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-germany')}}" class="text-black">App Development in Germany</a></li>
 						</ul>
@@ -432,7 +432,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Melbourne</h4>
+						<h3>Melbourne</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-melbourne')}}" class="text-black">App Development in Melbourne</a></li>
 						</ul>
@@ -442,7 +442,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Sydney</h4>
+						<h3>Sydney</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-sydney')}}" class="text-black">App Development in Sydney</a></li>
 						</ul>
@@ -470,7 +470,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Toronto</h4>
+						<h3>Toronto</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-toronto')}}" class="text-black">App Development in Toronto</a></li>
 						</ul>
@@ -500,7 +500,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="card">
 					<div class="card-body">
-						<h4>Karachi</h4>
+						<h3>Karachi</h3>
 						<ul class="mt-3">
 							<li><a href="{{url('/app-development-karachi')}}" class="text-black">App Development in Karachi</a></li>
 						</ul>
@@ -527,25 +527,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -580,7 +580,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -594,7 +594,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -610,7 +610,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -623,7 +623,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -708,8 +708,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -719,8 +719,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -730,8 +730,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -741,8 +741,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -752,8 +752,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -763,8 +763,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -774,8 +774,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -785,8 +785,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>
@@ -823,7 +823,7 @@
 						@foreach($clients as $item)
 						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
 							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto">
+								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto" width="auto" height="auto">
 							</div>
 						</div>
 						@endforeach

@@ -30,7 +30,7 @@
 		<div class="row">
 			<div class="col-lg-6 v-center">
 				<div class="about-image">
-					<img src="images/about-us/about-us.webp" width="100%" height="100%" alt="About Us" class="img-fluid">
+					<img src="images/about-us/about-us.webp" width="auto" height="auto" alt="About Us" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-6 mt-30 mt-lg-0">
@@ -86,7 +86,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/client-first.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2 mt-3">Client First</h4>
+					<h3 class="mb-2 mt-3">Client First</h3>
 					<p>For any business, Clients are always at the core. Being a leading developer of web and mobile applications, our concept goes beyond our direct customers.We always start from where you are with your ideas and we think from the viewpoints of your end users, their areas of pain, and formulate a solution that solves key issues to help your business.</p>
 				</div>
 			</div>
@@ -95,7 +95,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/effective-synergy.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2 mt-2">Effective Synergy</h4>
+					<3 class="mb-2 mt-2">Effective Synergy</h3>
 					<p>Communication is to hear what isn't being said. We appear at times to over-communicate. While it sounds overwhelming, it works wonders for our clients and our company ultimately. With communication alone we solve real-world problems. Our Development team remains in contact with customers through channels and media that allow performance, transparency and accuracy, feasible with all time zones across the World.</p>
 				</div>
 			</div>
@@ -104,7 +104,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/on-time-delivery.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2 mt-3">On Time Delivery</h4>
+					<h3 class="mb-2 mt-3">On Time Delivery</h3>
 					<p>We do not over promise we over-deliver our promise.We have a great collection of internal frameworks with best-in-class infrastructure with a decade of experience in the IT software development industry that helps us to deliver solutions with superior quality at all times. We have learned how to avoid mistakes and repeat success all these years. We don't brag about consistency alone. In time, we describe and produce it. Our Products are here to notify the same.</p>
 				</div>
 			</div>
@@ -113,7 +113,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/strong-experties.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2 mt-3">Strong Expertise</h4>
+					<h3 class="mb-2 mt-3">Strong Expertise</h3>
 					<p>With our core field of expertise being Ruby on Rails, Angular, React, our coding experts remain on the cutting edge of the newest and most successful technology trends and popular applications on the market. So you can expect a greater level of ownership, commitments &amp; deliveries in less time with higher quality while following all the best practices for the development. Thereby providing the best values for our customers. It is always that we believe in Quality &gt; Quantity &amp; “Value” is what is valued.</p>
 				</div>
 			</div>
@@ -122,7 +122,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/total-ownership-and-feedback-based.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2 mt-3">Total Ownership &amp; Feedback Based</h4>
+					<h3 class="mb-2 mt-3">Total Ownership &amp; Feedback Based</h3>
 					<p>We do not follow the criteria or requirements just like that. Right from the beginning we have a direct influence on the project. We take spontaneous feedback from our clients, their customers, and other stakeholders that have an impact on the product. And we take your product and its feedback seriously. With this we make sure that we all are heading towards the right direction. Which saves really everything that matters.</p>
 				</div>
 			</div>
@@ -131,7 +131,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/results-focused.svg" alt="service" width="100%" height="100%" class="img-fluid about-icon">
 					</div>
-					<h4 class="mb-2 mt-3">Results Focused</h4>
+					<h3 class="mb-2 mt-3">Results Focused</h3>
 					<p>We create digitally adaptable products, not just features. These are the real world problems and the solutions are futuristic.And we make sure we deliver them regardless of any factors that may hinder the development or progress. Everything is in control. You know your destination? We know how to take you there. In the long term, our priority is on making your company succeed.</p>
 				</div>
 			</div>

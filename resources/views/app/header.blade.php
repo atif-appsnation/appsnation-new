@@ -79,6 +79,7 @@
 	<link href="{{asset('css/style.css')}}" rel="stylesheet">
 	<link href="{{asset('css/responsive.css')}}" rel="stylesheet">
 	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">
+	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
 	<link rel="canonical" href="{{url()->current()}}" />
 
 	<!-- Meta Pixel Code -->
@@ -97,6 +98,43 @@
 	<noscript>
 		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=899453631775439&ev=PageView&noscript=1"/>
 	</noscript>
+
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "ProfessionalService",
+			"name": "Appsnation Karachi",
+			"image": "https://lh3.googleusercontent.com/p/AF1QipNdxah5OPKR0Z-YlJ8Mg_QoT97p6YyY-yD6Bs-i=s680-w680-h510-rw",
+			"@id": "https://appsnation.co/karachi/#localbusiness",
+			"url": "https://appsnation.co/app-development-karachi",
+			"telephone": "0322 2738009",
+			"priceRange": "Project Base",
+			"address": {
+				"@type": "PostalAddress",
+				"streetAddress": "Villa 21 A, Amir Khusro Road, Overseas Co-Operative Housing Society Block B Shabbirabad",
+				"addressLocality": "Karachi",
+				"postalCode": "74500",
+				"addressCountry": "PK"
+			},
+			"openingHoursSpecification": {
+				"@type": "OpeningHoursSpecification",
+				"dayOfWeek": [
+				"Monday",
+				"Tuesday",
+				"Wednesday",
+				"Thursday",
+				"Friday"
+				],
+				"opens": "00:00",
+				"closes": "23:59"
+			},
+			"sameAs": [
+				"https://www.facebook.com/p/AppsNationist-61565661077928/",
+				"https://www.linkedin.com/company/appsnationistt"
+			]
+		}
+		</script>
+
 	<!-- End Meta Pixel Code -->
 
 	@if(Request::url()==URL::to('/floor-plan') ||Request::url()==URL::to('/smart-room'))

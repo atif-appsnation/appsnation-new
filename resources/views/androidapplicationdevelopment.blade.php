@@ -661,7 +661,6 @@
             </div>
         </div>
 		
-		
         <div class="testimonial-card-a owl-carousel owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
 			@foreach($testimonials as $item)
@@ -686,6 +685,7 @@
             @endforeach
             <!-- </div> -->
         </div>
+		
         <div class="row mt-5">
             <div class="col-12">
                 <div class="row">

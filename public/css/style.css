@@ -11320,6 +11320,11 @@ i.fa-brands.fa-instagram {
     color: var(--first-color);
 }
 
+.why-choose-us h3 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
 .main-timeline {
 	position: relative;
 }
@@ -11517,6 +11522,11 @@ i.fa-brands.fa-instagram {
 
 .career-icons {
     width: 48px;
+}
+
+.recruitment-process h3, .perk h3 {
+    font-size: 22px;
+    line-height: 32px;
 }
 
 .career-form {
@@ -13195,6 +13205,11 @@ ul.list {
     width: 100%;
 }
 
+.threed-art-extra-services-heading {
+    font-size: 22px;
+    line-height: 32px;
+}
+
 /* End 3D Exterior */
 
 /* End Services Page */
@@ -14311,6 +14326,11 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 .locations ul li {
     list-style: disc;
     margin-left: 20px;
+}
+
+.locations h3 {
+    font-size: 22px;
+    line-height: 32px;
 }
 
 .locations .card {

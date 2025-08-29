@@ -39,7 +39,7 @@
 				<div class="card">
 					<div class="card-body">
 						<img src="images/career/application.svg" class="career-icons" alt="Application" width="100%" height="100%">
-						<h4 class="py-3">Application</h4>
+						<h3 class="py-3">Application</h3>
 						<p>Submit your application through our website. Your application is being read by real humans.</p>
 					</div>
 				</div>
@@ -48,7 +48,7 @@
 				<div class="card">
 					<div class="card-body">
 						<img src="images/career/interview.svg" class="career-icons" alt="Interview" width="100%" height="100%">
-						<h4 class="py-3">Interview</h4>
+						<h3 class="py-3">Interview</h3>
 						<p>Let us get familiar with your competencies and experience in the field.</p>
 					</div>
 				</div>
@@ -57,7 +57,7 @@
 				<div class="card">
 					<div class="card-body">
 						<img src="images/career/offer.svg" class="career-icons" alt="Offer" width="100%" height="100%">
-						<h4 class="py-3">Offer</h4>
+						<h3 class="py-3">Offer</h3>
 						<p>Congratulations! You have made it. Sign the agreement and you are on-board with us.</p>
 					</div>
 				</div>
@@ -173,7 +173,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
+								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Unity</p> -->
 							</div>
 						</div>
@@ -181,7 +181,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-sm-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Unreal Engine</p> -->
 							</div>
 						</div>
@@ -189,7 +189,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
+								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">WordPress</p> -->
 							</div>
 						</div>
@@ -197,7 +197,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
+								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">PHP</p> -->
 							</div>
 						</div>
@@ -205,7 +205,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
+								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Angular JS</p> -->
 							</div>
 						</div>
@@ -213,7 +213,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
+								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">C++</p> -->
 							</div>
 						</div>
@@ -221,7 +221,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Blender</p> -->
 							</div>
 						</div>
@@ -229,7 +229,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
+								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Python</p> -->
 							</div>
 						</div>
@@ -237,7 +237,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
+								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Node JS</p> -->
 							</div>
 						</div>
@@ -245,7 +245,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
+								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Photon</p> -->
 							</div>
 						</div>
@@ -253,7 +253,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
+								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">React Native</p> -->
 							</div>
 						</div>
@@ -261,7 +261,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
+								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">JavaScript</p> -->
 							</div>
 						</div>
@@ -269,7 +269,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
+								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">HTML</p> -->
 							</div>
 						</div>
@@ -277,7 +277,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
+								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Laravel</p> -->
 							</div>
 						</div>
@@ -306,8 +306,8 @@
 			<div class="col-sm-12 col-md-6 col-lg-4">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/career/bonus.svg" class="career-icons">
-						<h4 class="py-3">Bonuses</h4>
+						<img src="images/career/bonus.svg" class="career-icons" width="auto" height="auto">
+						<h3 class="py-3">Bonuses</h3>
 						<p>Pay rise, promotions, and top opportunities for professional development.</p>
 					</div>
 				</div>
@@ -315,8 +315,8 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4 mt-md-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/career/vehicle.svg" class="career-icons mb-md-4">
-						<h4 class="py-3">Vehicle</h4>
+						<img src="images/career/vehicle.svg" class="career-icons" width="auto" height="auto">
+						<h3 class="py-3">Vehicle</h3>
 						<p>Company maintained car.</p>
 					</div>
 				</div>
@@ -324,8 +324,8 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/career/medical.svg" class="career-icons">
-						<h4 class="py-3">Health insurance</h4>
+						<img src="images/career/medical.svg" class="career-icons" width="auto" height="auto">
+						<h3 class="py-3">Health insurance</h3>
 						<p>We ensure all your healthcare needs, we believe in human right.</p>
 					</div>
 				</div>
@@ -333,8 +333,8 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/career/leaves.svg" class="career-icons">
-						<h4 class="py-3">Parental leaves</h4>
+						<img src="images/career/leaves.svg" class="career-icons" width="auto" height="auto">
+						<h3 class="py-3">Parental leaves</h3>
 						<p>When it comes to feelings, work isn’t the priority.</p>
 					</div>
 				</div>
@@ -342,8 +342,8 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/career/funds.svg" class="career-icons">
-						<h4 class="py-3">Gratuity funds</h4>
+						<img src="images/career/funds.svg" class="career-icons" width="auto" height="auto">
+						<h3 class="py-3">Gratuity funds</h3>
 						<p>A company sponsored fund that enables you to maximize benefits.</p>
 					</div>
 				</div>
@@ -351,8 +351,8 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-4">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/career/training.svg" class="career-icons">
-						<h4 class="py-3">Training</h4>
+						<img src="images/career/training.svg" class="career-icons" width="auto" height="auto">
+						<h3 class="py-3">Training</h3>
 						<p>Mentors to guide and support you. Training programs to polish your skills.</p>
 					</div>
 				</div>
@@ -377,14 +377,14 @@
 				</a>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block mx-auto ms-lg-auto">
+				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4 d-block mx-auto ms-lg-auto" width="auto" height="auto">
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability">
+						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability" width="auto" height="auto">
 						<h3>Team Scalability</h3>
 						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
 					</div>
@@ -393,7 +393,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market">
+						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market" width="auto" height="auto">
 						<h3>Quick Time to Market</h3>
 						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
@@ -402,7 +402,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving">
+						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving" width="auto" height="auto">
 						<h3>Cost Saving</h3>
 						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
 					</div>
@@ -411,7 +411,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="100%" alt="Skilled Resources">
+						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="auto" height="auto" alt="Skilled Resources">
 						<h3>Skilled Resources</h3>
 						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>

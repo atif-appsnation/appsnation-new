@@ -346,7 +346,7 @@
 <script src="{{asset('js/owl.carousel.js')}}"></script>
 <script src="{{asset('js/owl.navigation.js')}}"></script>
 <script src="{{asset('js/owl.autoplay.js')}}"></script>
-{{-- <script src="{{asset('js/image-comparison-slider.min.js')}}"></script> --}}
+<script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
 <script src="{{asset('js/main.js')}}"></script>
 <script src="{{asset('js/validate.js')}}"></script>
 <script src="{{asset('js/jquery.steps.js')}}"></script>

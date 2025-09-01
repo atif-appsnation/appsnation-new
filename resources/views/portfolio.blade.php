@@ -102,7 +102,7 @@
 						<div class="pbwide shadow bg-gradient1">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid">
+									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>
@@ -138,7 +138,7 @@
 						<div class="pbwide shadow bg-gradient1">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid">
+									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>

@@ -18,8 +18,8 @@
 					<div class="col-md-4">
 						<div class="card h-100">
 							<div class="card-body">
-								<img src="images/locations/clutch.webp" alt="Clutch" class="img-fluid d-block mx-auto">
-								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
+								<img src="images/locations/clutch.webp" alt="Clutch" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
 								<p class="text-white text-center pt-2">Recognized as Top App Developers by Clutch</p>
 							</div>
 						</div>
@@ -27,8 +27,8 @@
 					<div class="col-md-4 mt-3 mt-md-0">
 						<div class="card h-100">
 							<div class="card-body">
-								<img src="images/locations/goodfirms.webp" alt="GoodFirms" class="img-fluid d-block mx-auto">
-								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
+								<img src="images/locations/goodfirms.webp" alt="GoodFirms" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
 								<p class="text-white text-center pt-2">Recognized as Top App Developers by GoodFirms</p>
 							</div>
 						</div>
@@ -36,8 +36,8 @@
 					<div class="col-md-4 mt-3 mt-md-0">
 						<div class="card h-100">
 							<div class="card-body">
-								<img src="images/locations/designrush.webp" alt="DesignRush" class="img-fluid d-block mx-auto">
-								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3">
+								<img src="images/locations/designrush.webp" alt="DesignRush" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
 								<p class="text-white text-center pt-2">Recognized as Top App Developers by DesignRush</p>
 							</div>
 						</div>

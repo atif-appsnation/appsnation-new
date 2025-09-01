@@ -131,25 +131,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -289,8 +289,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -300,8 +300,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -311,8 +311,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -322,8 +322,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -333,8 +333,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -344,8 +344,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -355,8 +355,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -366,8 +366,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star">
+									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

@@ -144,19 +144,19 @@
 						<div class="carousel-item active">
 							<div class="row">
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
@@ -164,19 +164,19 @@
 						<div class="carousel-item">
 							<div class="row">
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
@@ -184,19 +184,19 @@
 						<div class="carousel-item">
 							<div class="row">
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/google-certifie-agency.webp" alt="Google Developers">
+									<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 									<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner">
+									<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 									<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting">
+									<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 									<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 								</div>
 								<div class="col-md-6 col-lg-3 mt-3 text-center">
-									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service">
+									<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 									<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 								</div>
 							</div>
@@ -884,139 +884,139 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apple-logo.webp" alt="iOS Logo" class="tech-logo">
+										<img src="images/tech/apple-logo.webp" alt="iOS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">iOS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/android-logo.webp" alt="Android Logo" class="tech-logo">
+										<img src="images/tech/android-logo.webp" alt="Android Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Android</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/flutter-logo.webp" alt="Flutter Logo" class="tech-logo">
+										<img src="images/tech/flutter-logo.webp" alt="Flutter Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Flutter</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/ionic-logo.webp" alt="Ionic Logo" class="tech-logo">
+										<img src="images/tech/ionic-logo.webp" alt="Ionic Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Ionic</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/swift-logo.webp" alt="Swift Logo" class="tech-logo">
+										<img src="images/tech/swift-logo.webp" alt="Swift Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Swift</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/kotlin-logo.webp" alt="Kotlin Logo" class="tech-logo">
+										<img src="images/tech/kotlin-logo.webp" alt="Kotlin Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Kotlin</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/objective-c-logo.webp" alt="Objective C Logo" class="tech-logo">
+										<img src="images/tech/objective-c-logo.webp" alt="Objective C Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Objective C</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo">
+										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">React Native</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/google-fit-sdk.webp" alt="Google Fit SDK Logo" class="tech-logo">
+										<img src="images/tech/google-fit-sdk.webp" alt="Google Fit SDK Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Google Fit SDK</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo">
+										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Alamofire</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/xcode-logo.webp" alt="XCode Logo" class="tech-logo">
+										<img src="images/tech/xcode-logo.webp" alt="XCode Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">XCode</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/node-red-logo.webp" alt="Node-Red Logo" class="tech-logo">
+										<img src="images/tech/node-red-logo.webp" alt="Node-Red Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Node-Red</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo">
+										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Alamofire</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/graphql-logo.webp" alt="Graph QL Logo" class="tech-logo">
+										<img src="images/tech/graphql-logo.webp" alt="Graph QL Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Graph QL</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/grafana-logo.webp" alt="Grafana Logo" class="tech-logo">
+										<img src="images/tech/grafana-logo.webp" alt="Grafana Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Grafana</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/tensorflow-logo.webp" alt="Tensor Flow Logo" class="tech-logo">
+										<img src="images/tech/tensorflow-logo.webp" alt="Tensor Flow Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Tensor Flow</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/tableau-logo.webp" alt="Tableau Logo" class="tech-logo">
+										<img src="images/tech/tableau-logo.webp" alt="Tableau Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Tableau</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/android-sdk-logo.webp" alt="Android SDK Logo" class="tech-logo">
+										<img src="images/tech/android-sdk-logo.webp" alt="Android SDK Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Android SDK</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apache-kafka-logo.webp" alt="Apache Kafka Logo" class="tech-logo">
+										<img src="images/tech/apache-kafka-logo.webp" alt="Apache Kafka Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Apache Kafka</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/android-studio.webp" alt="Android Studio Logo" class="tech-logo">
+										<img src="images/tech/android-studio.webp" alt="Android Studio Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Android Studio</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/xamarin-native-c-logo.webp" alt="Xamarin Native C Logo" class="tech-logo">
+										<img src="images/tech/xamarin-native-c-logo.webp" alt="Xamarin Native C Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Xamarin Native C</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/amazon-sumerian-logo.webp" alt="Amazon Sumerian Logo" class="tech-logo">
+										<img src="images/tech/amazon-sumerian-logo.webp" alt="Amazon Sumerian Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Amazon Sumerian</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo">
+										<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo"width="auto" height="auto">
 										<h4 class="mt-2">Apache Hadoop</h4>
 									</div>
 								</div>
@@ -1039,67 +1039,67 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/angular-logo.webp" alt="Angular Logo" class="tech-logo">
+										<img src="images/tech/angular-logo.webp" alt="Angular Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Angular JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo">
+										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">React JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/html-logo.webp" alt="HTML Logo" class="tech-logo">
+										<img src="images/tech/html-logo.webp" alt="HTML Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">HTML</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/css-logo.webp" alt="CSS Logo" class="tech-logo">
+										<img src="images/tech/css-logo.webp" alt="CSS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">CSS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/js-logo.webp" alt="JavaScript Logo" class="tech-logo">
+										<img src="images/tech/js-logo.webp" alt="JavaScript Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">JavaScript</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/next-js-logo.webp" alt="Next JS Logo" class="tech-logo">
+										<img src="images/tech/next-js-logo.webp" alt="Next JS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Next JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/json-logo.webp" alt="JSON Logo" class="tech-logo">
+										<img src="images/tech/json-logo.webp" alt="JSON Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">JSON</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/rest-logo.webp" alt="Rest Logo" class="tech-logo">
+										<img src="images/tech/rest-logo.webp" alt="Rest Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Rest</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/soap-logo.webp" alt="Soap Logo" class="tech-logo">
+										<img src="images/tech/soap-logo.webp" alt="Soap Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Soap</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/xml-logo.webp" alt="XML Logo" class="tech-logo">
+										<img src="images/tech/xml-logo.webp" alt="XML Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">XML</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/spark-ml-logo.webp" alt="Spark ML Logo" class="tech-logo">
+										<img src="images/tech/spark-ml-logo.webp" alt="Spark ML Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Spark ML</h4>
 									</div>
 								</div>

@@ -113,10 +113,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
 				<a href="{{url('/advertising')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid">
+						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Advertising</h5>	
+						<h3 class="text-center text-white text-center">Advertising</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -126,10 +126,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<a href="{{url('/automative-and-transport')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid">
+						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Automative and Transport</h5>	
+						<h3 class="text-center text-white text-center">Automative and Transport</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -139,10 +139,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<a href="{{url('/ecommerce-and-retail')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid">
+						<img src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Ecommerce and Retail</h5>	
+						<h3 class="text-center text-white text-center">Ecommerce and Retail</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -152,10 +152,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
 				<a href="{{url('/education')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/education.webp" alt="Education" class="img-fluid">
+						<img src="images/industries/education.webp" alt="Education" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Education</h5>	
+						<h3 class="text-center text-white text-center">Education</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -165,10 +165,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/financial-software-development')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid">
+						<img src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Financial Software Development</h5>	
+						<h3 class="text-center text-white text-center">Financial Software Development</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -178,10 +178,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/gaming-and-leisure')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid">
+						<img src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Gaming and Leisure</h5>	
+						<h3 class="text-center text-white text-center">Gaming and Leisure</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -191,10 +191,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/healthcare-and-life-science')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid">
+						<img src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Healthcare and Life Science</h5>	
+						<h3 class="text-center text-white text-center">Healthcare and Life Science</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -204,10 +204,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/media-and-entertainment')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid">
+						<img src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Media and Entertainment</h5>	
+						<h3 class="text-center text-white text-center">Media and Entertainment</h3>
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -217,10 +217,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/real-estate-and-property')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid">
+						<img src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Real Estate and Property</h5>	
+						<h3 class="text-center text-white text-center">Real Estate and Property</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -230,10 +230,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/software-and-high-tech')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid">
+						<img src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Software and High Tech</h5>	
+						<h3 class="text-center text-white text-center">Software and High Tech</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -243,10 +243,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/sports-teams-and-leagues')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid">
+						<img src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Sports Teams and Leagues</h5>	
+						<h3 class="text-center text-white text-center">Sports Teams and Leagues</h3>	
 					</div><div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
 					</div>
@@ -255,10 +255,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/travel-and-hospitality')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid">
+						<img src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
-						<h5 class="text-center text-white text-center">Travel and Hospitality</h5>	
+						<h3 class="text-center text-white text-center">Travel and Hospitality</h3>	
 					</div>
 					<div class="industries-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -358,7 +358,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -372,7 +372,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -388,7 +388,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -401,7 +401,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>

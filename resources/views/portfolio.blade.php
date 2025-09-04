@@ -127,7 +127,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid">
+											<img src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
@@ -163,7 +163,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid">
+											<img src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>

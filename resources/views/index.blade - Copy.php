@@ -242,7 +242,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -256,7 +256,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -272,7 +272,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -285,7 +285,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img">
+									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
@@ -347,7 +347,7 @@
 						<div class="android-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development</h4>
+						<h3>Android App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
@@ -363,7 +363,7 @@
 						<div class="ios-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>iOS App Development</h4>
+						<h3>iOS App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
@@ -379,7 +379,7 @@
 						<div class="cross-platform-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Cross-Platform App Development</h4>
+						<h3>Cross-Platform App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
@@ -395,7 +395,7 @@
 						<div class="game-app-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Game App Development</h4>
+						<h3>Game App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
@@ -411,7 +411,7 @@
 						<div class="web-app-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Web App Development</h4>
+						<h3>Web App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our web app development services assist with the design, development, and evolution of web-based software. You can rely on us to create web apps that are effective, efficient, and simple to use.</p>
@@ -427,7 +427,7 @@
 						<div class="wearable-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>Wearable App Development</h4>
+						<h3>Wearable App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
@@ -443,7 +443,7 @@
 						<div class="ar-app-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>AR App Development</h4>
+						<h3>AR App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation, for overlaying the best virtual content.</p>
@@ -459,7 +459,7 @@
 						<div class="vr-app-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>VR App Development</h4>
+						<h3>VR App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
@@ -475,7 +475,7 @@
 						<div class="metaverse-img"></div>
 					</div>
 					<div class="service-heading">
-						<h4>MR App Development</h4>
+						<h3>MR App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
@@ -1122,43 +1122,43 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/firebase-logo.webp" alt="Firebase Logo" class="tech-logo">
+										<img src="images/tech/firebase-logo.webp" alt="Firebase Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Firebase</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/sqlite-logo.webp" alt="SQLite Logo" class="tech-logo">
+										<img src="images/tech/sqlite-logo.webp" alt="SQLite Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">SQLite</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/core-data-logo.webp" alt="CoreData Logo" class="tech-logo">
+										<img src="images/tech/core-data-logo.webp" alt="CoreData Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">CoreData</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/realm-logo.webp" alt="Realm Logo" class="tech-logo">
+										<img src="images/tech/realm-logo.webp" alt="Realm Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Realm</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/mysql-logo.webp" alt="MySQL Logo" class="tech-logo">
+										<img src="images/tech/mysql-logo.webp" alt="MySQL Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">MySQL</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/sql-logo.webp" alt="SQL Logo" class="tech-logo">
+										<img src="images/tech/sql-logo.webp" alt="SQL Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">SQL</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/opentsdb-logo.webp" alt="OpenTSDB Logo" class="tech-logo">
+										<img src="images/tech/opentsdb-logo.webp" alt="OpenTSDB Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">OpenTSDB</h4>
 									</div>
 								</div>
@@ -1181,37 +1181,37 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/php-logo.webp" alt="PHP Logo" class="tech-logo">
+										<img src="images/tech/php-logo.webp" alt="PHP Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">PHP</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/java-logo.webp" alt="Java Logo" class="tech-logo">
+										<img src="images/tech/java-logo.webp" alt="Java Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Java</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/node-js-logo.webp" alt="Node JS Logo" class="tech-logo">
+										<img src="images/tech/node-js-logo.webp" alt="Node JS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Node JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/python-logo.webp" alt="Python Logo" class="tech-logo">
+										<img src="images/tech/python-logo.webp" alt="Python Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Python</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/c-sharp-logo.webp" alt="C# Logo" class="tech-logo">
+										<img src="images/tech/c-sharp-logo.webp" alt="C# Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">C#</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/c++-logo.webp" alt="C/C++ Logo" class="tech-logo">
+										<img src="images/tech/c++-logo.webp" alt="C/C++ Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">C/C++</h4>
 									</div>
 								</div>
@@ -1234,19 +1234,19 @@
 							<div class="tech-slider2 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/wordpress-logo.webp" alt="WordPress Logo" class="tech-logo">
+										<img src="images/tech/wordpress-logo.webp" alt="WordPress Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">WordPress</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/magento-logo.webp" alt="Magento Logo" class="tech-logo">
+										<img src="images/tech/magento-logo.webp" alt="Magento Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Magento</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/shopify-logo.webp" alt="Shopify Logo" class="tech-logo">
+										<img src="images/tech/shopify-logo.webp" alt="Shopify Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Shopify</h4>
 									</div>
 								</div>
@@ -1269,19 +1269,19 @@
 							<div class="tech-slider2 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/aws-logo.webp" alt="AWS Logo" class="tech-logo">
+										<img src="images/tech/aws-logo.webp" alt="AWS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">AWS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/azure-logo.webp" alt="Azure Logo" class="tech-logo">
+										<img src="images/tech/azure-logo.webp" alt="Azure Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Azure</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/google-cloud-logo.webp" alt="Google Cloud Logo" class="tech-logo">
+										<img src="images/tech/google-cloud-logo.webp" alt="Google Cloud Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Google Cloud</h4>
 									</div>
 								</div>
@@ -1578,7 +1578,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity">
+												<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
 												<p class="text-center pt-2">Unity</p>
 											</div>
 										</div>
@@ -1586,7 +1586,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-sm-0">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+												<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
 												<p class="text-center pt-2">Unreal Engine</p>
 											</div>
 										</div>
@@ -1594,7 +1594,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress">
+												<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
 												<p class="text-center pt-2">WordPress</p>
 											</div>
 										</div>
@@ -1602,7 +1602,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP">
+												<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
 												<p class="text-center pt-2">PHP</p>
 											</div>
 										</div>
@@ -1610,7 +1610,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular">
+												<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
 												<p class="text-center pt-2">Angular JS</p>
 											</div>
 										</div>
@@ -1618,7 +1618,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++">
+												<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
 												<p class="text-center pt-2">C++</p>
 											</div>
 										</div>
@@ -1626,7 +1626,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+												<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
 												<p class="text-center pt-2">Blender</p>
 											</div>
 										</div>
@@ -1634,7 +1634,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python">
+												<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
 												<p class="text-center pt-2">Python</p>
 											</div>
 										</div>
@@ -1642,7 +1642,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js">
+												<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
 												<p class="text-center pt-2">Node JS</p>
 											</div>
 										</div>
@@ -1650,7 +1650,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon">
+												<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
 												<p class="text-center pt-2">Photon</p>
 											</div>
 										</div>
@@ -1658,7 +1658,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native">
+												<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
 												<p class="text-center pt-2">React Native</p>
 											</div>
 										</div>
@@ -1666,7 +1666,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS">
+												<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
 												<p class="text-center pt-2">JavaScript</p>
 											</div>
 										</div>
@@ -1674,7 +1674,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML">
+												<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
 												<p class="text-center pt-2">HTML</p>
 											</div>
 										</div>
@@ -1682,7 +1682,7 @@
 									<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 										<div class="card stack-hov">
 											<div class="card-body">
-												<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel">
+												<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
 												<p class="text-center pt-2">Laravel</p>
 											</div>
 										</div>

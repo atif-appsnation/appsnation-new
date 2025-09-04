@@ -128,7 +128,7 @@
 						<img src="images/services/mobile-app-development/android-app-development.svg" alt="Android App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Android App Development</h4>
+						<h3>Android App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our Android app developers leverage cutting-edge technologies
@@ -145,7 +145,7 @@
 						<img src="images/services/mobile-app-development/ios-app-development.svg" alt="Android App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>iOS App Development</h4>
+						<h3>iOS App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We focus on crafting comprehensive iOS mobile applications that
@@ -163,7 +163,7 @@
 						<img src="images/services/mobile-app-development/cross-platform-app-development.svg" alt="Android App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Cross-Platform App Development</h4>
+						<h3>Cross-Platform App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We develop apps that work on multiple platforms and devices,
@@ -181,7 +181,7 @@
 						<img src="images/services/mobile-app-development/game-app-development.svg" alt="Android App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Game App Development</h4>
+						<h3>Game App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We've got some of the best mobile game developers around, and
@@ -218,7 +218,7 @@
 						<img src="images/services/web-portal-development/web-app-development.svg" alt="Web App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Web App Development</h4>
+						<h3>Web App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our web app development team is here to help you with every
@@ -237,7 +237,7 @@
 						<img src="images/services/xr-app-development/mixed-reality-app-development.svg" alt="MR App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>MR App Development</h4>
+						<h3>MR App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We help businesses design, build, and grow their online
@@ -256,7 +256,7 @@
 						<img src="images/services/xr-app-development/augmented-reality-app-development.svg" alt="AR App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>AR App Development</h4>
+						<h3>AR App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We help businesses design, build, and refine web-based software
@@ -275,7 +275,7 @@
 						<img src="images/services/xr-app-development/virtual-reality-app-development.svg" alt="VR App Development" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>VR App Development</h4>
+						<h3>VR App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>We're here to help you with every stage of creating web-based
@@ -312,7 +312,7 @@
 						<img src="images/services/connected-devices/wearable-app-development.svg" alt="Wearable App Developmen" class="img-fluid">
 					</div>
 					<div class="service-heading">
-						<h4>Wearable App Development</h4>
+						<h3>Wearable App Development</h3>
 					</div>
 					<div class="services-text-div">
 						<p>Our cutting-edge technology enables us to craft truly exceptional

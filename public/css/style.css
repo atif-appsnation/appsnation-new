@@ -10480,6 +10480,11 @@ button:not(:disabled) {
     line-height: 25px;
 }
 
+.industries-text h3 {
+    line-height: 25px;
+    font-size: 20px;
+}
+
 .industries-links {
     position: absolute;
     top: 80%;
@@ -14210,7 +14215,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     width: 100%;
 }
 
-.services-carousel .text h2 {
+.services-carousel .text h3 {
     color: #fff;
     font-weight: 400;
     font-size: 1.3rem;

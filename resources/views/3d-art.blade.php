@@ -1334,7 +1334,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
 								<p class="text-center pt-2">Blender</p>
 							</div>
 						</div>
@@ -1390,7 +1390,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
 								<p class="text-center pt-2">Unreal Engine</p>
 							</div>
 						</div>

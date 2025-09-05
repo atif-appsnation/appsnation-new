@@ -113,7 +113,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/montana/montana.webp" alt="Montana" class="img-fluid no-shadow" />
+					<img src="images/locations/montana/montana.webp" alt="Montana" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -136,7 +136,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn">
-				<img src="images/locations/montana/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
+				<img src="images/locations/montana/scale-your-business.webp" alt="Scale Your Business" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -707,7 +707,7 @@
 			<p class="text-center text-lg-start text-white">We Keep Our Promises to <span>Excellence</span> </p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
-			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid">
+			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
 		</div>
 	</div>
 </div>
@@ -965,97 +965,97 @@
 		</div>
     </div>
 	<div class="row">
-            <div class="col-12">
-				<div class="owl-carousel owl-theme solutions-carousel">
-					<div class="item booking-app-bg">
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-6">
-									<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto" width="100%" height="100%">
-								</div>
-								<div class="col-lg-6 my-auto">
-									<h3 class="mb-4 text-white">Booking App</h3>
-									<p class="text-white">Take the stress out of travel and breeze through your journeys with Travelicious, our state-of-the-art app for globetrotters. It's not just an app; it's your ultimate travel companion, crafted to make every adventure seamless and enjoyable for the modern-day explorer.</p>
-									<a href="{{url('/case-studies/travel-agency-app')}}" class="btn-outline lnk mt30">View Case Study
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
+		<div class="col-12">
+			<div class="owl-carousel owl-theme solutions-carousel">
+				<div class="item booking-app-bg">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6">
+								<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto" width="100%" height="100%">
 							</div>
-						</div>
-					</div>
-					<div class="item fitness-app-bg">
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-6">
-									<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto" width="100%" height="100%">
-								</div>
-								<div class="col-lg-6 my-auto">
-									<h3 class="mb-4 text-white">Fitness App</h3>
-									<p class="text-white">Check out Gymnasium, our fresh, new fitness app! It's designed to be your go-to workout companion. With its cool, modern vibe, it's ready to help you smash your fitness targets, keep your training routine on point, and keep that passion for your health and well-being burning bright.</p>
-									<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="item loyalty-app-bg">
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-6">
-									<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto" width="100%" height="100%">
-								</div>
-								<div class="col-lg-6 my-auto">
-									<h3 class="mb-4 text-white">Loyalty App</h3>
-									<p class="text-white">Our Loyalty app is your all-in-one ecommerce destination, featuring the newest styles, enduring favorites, and pretty much anything you could desire. Millions rely on our app, and it's no wonder. We provide exclusive offers and cashback incentives to our customers. Your go-to stores are now conveniently accessible right on your phone.</p>
-									<a href="{{url('/case-studies/loyalty-app')}}" class="btn-outline lnk mt30">View Case Study
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="item mover-app-bg">
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-6">
-									<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto" width="100%" height="100%">
-								</div>
-								<div class="col-lg-6 my-auto">
-									<h3 class="mb-4 text-white">Mover App</h3>
-									<p class="text-white">Our Mover App simplifies moving by managing all your moving orders in a single location. Just book your move through the app, relax, and let our efficient order management and customer engagement features handle everything else.</p>
-									<a href="{{url('/case-studies/mover-app')}}" class="btn-outline lnk mt30">View Case Study
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="item real-estate-app-bg">
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-6">
-									<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto" width="100%" height="100%">
-								</div>
-								<div class="col-lg-6 my-auto">
-									<h3 class="mb-4 text-white">Real Estate App</h3>
-									<p class="text-white">Get ready to experience the future of real estate! We've streamlined the entire property process just for you. No matter if you're in the market to buy, sell, or invest, our app provides seamless, effective tools to keep you one step ahead in today's dynamic market.</p>
-									<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
+							<div class="col-lg-6 my-auto">
+								<h3 class="mb-4 text-white">Booking App</h3>
+								<p class="text-white">Take the stress out of travel and breeze through your journeys with Travelicious, our state-of-the-art app for globetrotters. It's not just an app; it's your ultimate travel companion, crafted to make every adventure seamless and enjoyable for the modern-day explorer.</p>
+								<a href="{{url('/case-studies/travel-agency-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div id="counter" class="owl-counter"></div>
-            </div>
-        </div>
+				<div class="item fitness-app-bg">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6">
+								<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+							</div>
+							<div class="col-lg-6 my-auto">
+								<h3 class="mb-4 text-white">Fitness App</h3>
+								<p class="text-white">Check out Gymnasium, our fresh, new fitness app! It's designed to be your go-to workout companion. With its cool, modern vibe, it's ready to help you smash your fitness targets, keep your training routine on point, and keep that passion for your health and well-being burning bright.</p>
+								<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item loyalty-app-bg">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6">
+								<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+							</div>
+							<div class="col-lg-6 my-auto">
+								<h3 class="mb-4 text-white">Loyalty App</h3>
+								<p class="text-white">Our Loyalty app is your all-in-one ecommerce destination, featuring the newest styles, enduring favorites, and pretty much anything you could desire. Millions rely on our app, and it's no wonder. We provide exclusive offers and cashback incentives to our customers. Your go-to stores are now conveniently accessible right on your phone.</p>
+								<a href="{{url('/case-studies/loyalty-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item mover-app-bg">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6">
+								<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+							</div>
+							<div class="col-lg-6 my-auto">
+								<h3 class="mb-4 text-white">Mover App</h3>
+								<p class="text-white">Our Mover App simplifies moving by managing all your moving orders in a single location. Just book your move through the app, relax, and let our efficient order management and customer engagement features handle everything else.</p>
+								<a href="{{url('/case-studies/mover-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item real-estate-app-bg">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6">
+								<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+							</div>
+							<div class="col-lg-6 my-auto">
+								<h3 class="mb-4 text-white">Real Estate App</h3>
+								<p class="text-white">Get ready to experience the future of real estate! We've streamlined the entire property process just for you. No matter if you're in the market to buy, sell, or invest, our app provides seamless, effective tools to keep you one step ahead in today's dynamic market.</p>
+								<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="counter" class="owl-counter"></div>
+		</div>
+	</div>
 </section>
 <!--End Solutions-->
 
@@ -1241,7 +1241,7 @@
 					<h3 class="text-center text-lg-start text-white">Seek assistance from our expert mobile app development team in Montana. Contact us today.</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
-					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
+					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
 				</div>
 			</div>
 			

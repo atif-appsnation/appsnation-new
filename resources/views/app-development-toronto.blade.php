@@ -110,7 +110,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/toronto/toronto.webp" alt="Toronto" class="img-fluid no-shadow" />
+					<img src="images/locations/toronto/toronto.webp" alt="Toronto" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -133,7 +133,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn">
-				<img src="images/locations/toronto/scale-your-business.webp" alt="Scale Your Business" class="img-fluid">
+				<img src="images/locations/toronto/scale-your-business.webp" alt="Scale Your Business" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -701,7 +701,7 @@
 			<p class="text-center text-lg-start text-white">BLENDING ARTISTRY AND <span>EVOLUTION</span> </p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
-			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid">
+			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
 		</div>
 	</div>
 </div>
@@ -1236,7 +1236,7 @@
 					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept Toronto-Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
-					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid">
+					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
 				</div>
 			</div>
 			

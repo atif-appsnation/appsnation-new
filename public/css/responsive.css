@@ -4210,9 +4210,9 @@
 	}
 
 	.lets-connect img {
-		width: 60%;
+		/* width: 60%; */
 		right: -70px;
-		top: -515px;
+		top: -445px;
 	}
 
 	.hire-developer-app-development img {
@@ -4262,7 +4262,6 @@
 		width: 50%;
 	}
 }
-
 
 @media (min-width: 355px) and (max-width: 399px) {
 
@@ -4816,5 +4815,21 @@
 @media (min-width: 768px) and (max-width: 991px) {
 	.cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
 		width: 28% !important;
+	}
+}
+
+@media (min-width:1200px) and (max-width:1399px) {
+	.hire-developer-app-development img {
+		right: -250px;
+	}
+
+	.lets-connect .free-cta-title {
+        width: 50%;
+    }
+
+	.lets-connect img {
+		width: 62.5%;
+		right: -70px;
+		top: -360px;
 	}
 }

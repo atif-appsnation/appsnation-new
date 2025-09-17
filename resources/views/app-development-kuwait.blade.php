@@ -696,7 +696,8 @@
 <!--Start Let's Work Together-->
 <div class="row justify-content-center hire-developer hire-developer-app-development">
 	<div class="col-lg-7">
-		<div class="free-cta-title v-center wow fadeIn">Where Dedication Meets Excellence</p>
+		<div class="free-cta-title v-center wow fadeIn">
+			<p class="text-center text-lg-start text-white">Where Dedication Meets<br> Excellence</p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
 			<img src="images/locations/kuwait/hire-developer.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">

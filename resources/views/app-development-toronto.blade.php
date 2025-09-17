@@ -698,7 +698,7 @@
 <div class="row justify-content-center hire-developer hire-developer-app-development">
 	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
-			<p class="text-center text-lg-start text-white">BLENDING ARTISTRY AND <span>EVOLUTION</span> </p>
+			<p class="text-center text-lg-start text-white">BLENDING ARTISTRY AND <span><br>EVOLUTION</span> </p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
 			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">

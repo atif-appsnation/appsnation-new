@@ -14202,6 +14202,7 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
     position: absolute;
     top: -338px;
     right: 0px;
+     width: 500px;
 }
 
 .services-carousel img {

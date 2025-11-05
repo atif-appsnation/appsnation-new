@@ -145,6 +145,7 @@ class MetatagCrudController extends CrudController
                 'gymWeb' => 'gymWeb',
                 'moverApps' => 'moverApps',
                 'moverWeb' => 'moverWeb',
+                'abcWeb' => 'abcWeb',
                 'new_york' => 'new_york',
                 'los_angeles' => 'los_angeles',
                 'san_francisco' => 'san_francisco',

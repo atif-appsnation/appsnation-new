@@ -94,6 +94,7 @@ Route::get('/case-studies/gym-app','HomeController@gymApp');
 Route::get('/case-studies/gym-web','HomeController@gymWeb');
 Route::get('/case-studies/mover-app','HomeController@moverApps');
 Route::get('/case-studies/mover-web','HomeController@moverWeb');
+Route::get('/case-studies/abc-web','HomeController@abcWeb');
 Route::get('/solutions','HomeController@solutions');
 Route::get('/industries','HomeController@industries');
 Route::get('/services','HomeController@services');

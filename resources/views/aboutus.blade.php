@@ -95,7 +95,7 @@
 					<div class="s-card-icon">
 						<img src="images/about-us/effective-synergy.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
-					<3 class="mb-2 mt-2">Effective Synergy</h3>
+					<h3 class="mb-2 mt-2">Effective Synergy</h3>
 					<p>Communication is to hear what isn't being said. We appear at times to over-communicate. While it sounds overwhelming, it works wonders for our clients and our company ultimately. With communication alone we solve real-world problems. Our Development team remains in contact with customers through channels and media that allow performance, transparency and accuracy, feasible with all time zones across the World.</p>
 				</div>
 			</div>

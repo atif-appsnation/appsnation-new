@@ -82,6 +82,8 @@
 	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
 	<link rel="canonical" href="{{url()->current()}}" />
 
+	<script defer async src='https://cdn.trustindex.io/loader-cert.js?e602dd35651a2533dc5613101eb'></script>
+
 	<!-- Meta Pixel Code -->
 	<script>
 		!function(f,b,e,v,n,t,s)
@@ -311,7 +313,7 @@
 								<div class="sub-menu-section">
 									<div class="container">
 										<div class="row">
-											<div class="col-md-4 megamenu">
+											<div class="col-md-3 megamenu">
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/mobile-app-development')}}">
@@ -337,7 +339,7 @@
 													</li>
 												</ul>
 											</div>
-											<div class="col-md-4 megamenu">
+											<div class="col-md-3 megamenu">
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/xr-app-development')}}">
@@ -363,7 +365,7 @@
 													</li>
 												</ul>
 											</div>
-											<div class="col-md-4 megamenu">
+											<div class="col-md-3 megamenu">
 												<ul class="main-menu">
 													<li>
 														<a href="{{url('/design-and-animation')}}">
@@ -371,13 +373,27 @@
 															<div class="menu-item-title align-middle">Design & Animation Services</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/digital-marketing')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Digital Marketing</a> </li>
 															<li> <a href="{{url('/animation-services')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Animation Services</a> </li>
 															<li> <a href="{{url('/exterior-3d')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>3D Exterior Rendering Services</a> </li>
 															<li> <a href="{{url('/interior-3d')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>3D Interior Rendering Services</a> </li>
 															<li> <a href="{{url('/floor-plan')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>2D 3D Floor Plan Service</a> </li>
 															<li> <a href="{{url('/2d-art')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>2D Art Services</a> </li>
 															<li> <a href="{{url('/3d-art')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>3D Art Services</a> </li>
+														</ul>
+													</li>
+												</ul>
+											</div>
+											<div class="col-md-3 megamenu">
+												<ul class="main-menu">
+													<li>
+														<a href="{{url('/digital-marketing')}}">
+															<div class="menu-item-img"> <img src="{{asset('images/menu/design-and-animation-services.webp')}}" class="services-icons" alt="Digital Marketing"> </div>
+															<div class="menu-item-title align-middle">Digital Marketing</div>
+														</a>
+														<ul class="main-submenu">
+															<li> <a href="{{url('/iot-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Social Media Marketing</a> </li>
+															<li> <a href="{{url('/wearable-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Search Engine Marketing</a> </li>
+															<li> <a href="{{url('/industrial-automation')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Search Engine Optimization</a> </li>
 														</ul>
 													</li>
 												</ul>

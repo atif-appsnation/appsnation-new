@@ -1866,6 +1866,26 @@ class HomeController extends Controller
         );
     }
 
+    public function abcWeb()
+    {
+        $metabank = Metabank::where('slug', 'abcWeb')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'abcWeb')->where('type', 'Meta')->get();
+
+        $metatag = Metatag::where('slug', 'abcWeb')->get();
+        $metatitle = Metatitle::where('slug', 'abcWeb')->get();
+
+        return view(
+            'abcweb',
+            [
+                'metabank' => $metabank,
+                'metabank2' => $metabank2,
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                // 'data' => $data,
+            ]
+        );
+    }
+
     public function art3d()
     {
         $metabank = Metabank::where('slug', 'Art-3D')->where('type', 'Tag')->get();

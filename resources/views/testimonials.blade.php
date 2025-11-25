@@ -300,7 +300,8 @@
     <!-- End TechBehemoths Testimonials -->
 
     <!-- Start Trustlist Testimonials -->
-    <section class="reviews-block py-5">
+  
+    {{-- <section class="reviews-block py-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -319,7 +320,6 @@
                                     <div class="card h-100 d-flex">
                                         <div class="card-body">
                                             <h6 class="text-muted mb-2">{{ $testimonial->name }}</h6>
-                                            {{-- <img src="images/svg/stars_on.svg" alt="Stars" style="height:20px;"> --}}
                                             <div class="star-rate">
                                                 <ul>
                                                     <li>
@@ -367,7 +367,8 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
+  
     <!-- End Trustlist Testimonials -->
     {{-- end edit by talha --}}
 

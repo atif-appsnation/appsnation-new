@@ -155,7 +155,8 @@ class MetabankCrudController extends CrudController
                 'gymWeb' => 'gymWeb',
                 'moverApps' => 'moverApps',
                 'moverWeb' => 'moverWeb',
-                'abcWeb' => 'abcWeb',
+                'royalRideApp' => 'royalRideApp',
+                'boujeeBeachinApp' => 'boujeeBeachinApp'
             ],
 
             'allows_null' => false,

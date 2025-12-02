@@ -17279,9 +17279,6 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 /* End Cost Calculator */
 
-
-
-
 /* royal ride case study by hassan */
 /*  hero section by hassan */
 .hero-section-royalRide{
@@ -17971,15 +17968,6 @@ width: 110px;
     }
 }
 
-
-
-
-
-
-
-
-
-
 .section-wrapper {
     position: relative;
     padding-top: 100px;
@@ -18177,3 +18165,1060 @@ width: 110px;
         padding-left: 50px;
     }
 }
+
+
+/* End Boujee Beachin */
+
+.hero-section-Boujee-beachin {
+    background:
+        linear-gradient(to bottom, #00A9F8 0%, #00A9F8 8%, transparent 25%),
+        url("../images/case-studies/boujee-beachin/HERO-BACKGROUND.webp") center/cover no-repeat;
+    padding: 120px 0;
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+
+
+.Boujee-beachin-Logo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+}
+
+
+.logo-img {
+    width: 100%;
+    max-width: 220px;
+}
+
+
+    
+ 
+
+.Boujee-beachin-Logo h1 {
+    font-size: 2.9rem;
+    font-weight: 700;
+    line-height: 1.3;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+}
+
+.Boujee-beachin-Logo h1 span {
+    font-size: 2.9rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #0097DE;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+}
+
+.Boujee-beachin-Logo p {
+    font-size: 1.1rem;
+    color: black;
+    max-width: 600px;
+    font-weight: 400;
+}
+
+
+ 
+
+.case-tag {
+    background-color: #0097DE;
+    color: #fff;
+    padding: 10px 25px;
+    font-size: 1.1rem;
+    border-radius: 18px;
+    font-weight: 700;
+    display: inline-block;
+}
+
+
+.hero-main-img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+}
+
+
+/* ========================= */
+/* RESPONSIVE BREAKPOINTS   */
+/* ========================= */
+
+
+@media (max-width: 991px) {
+    .hero-section-Boujee-beachin {
+        padding: 90px 0;
+    }
+
+    .logo-img {
+        max-width: 200px;
+    }
+
+    .Boujee-beachin-Logo h1 {
+        font-size: 2.2rem;
+    }
+
+    .hero-main-img {
+        max-width: 100%;
+    }
+}
+/* Medium Mobiles (Max 1400px) */
+
+@media (max-width: 1400px) {
+
+    .hero-section-Boujee-beachin {
+        text-align: start;
+        padding-top: 140px;
+    }
+
+    
+
+    .logo-img {
+        max-width: 120px;
+    }
+
+    .Boujee-beachin-Logo h1 {
+        font-size: 1.9rem;
+        font-weight: 800;
+    }
+    .Boujee-beachin-Logo h1 span{
+        font-size: 1.9rem;
+        font-weight: 800;
+    }
+
+    .Boujee-beachin-Logo p {
+        font-size: 1rem;
+    }
+
+    .case-tag {
+        padding: 8px 20px;
+        font-size: 1rem;
+    }
+
+    .hero-main-img {
+        margin-top: 20px;
+    }
+}
+/* Medium Mobiles (Max 767px) */
+
+@media (max-width: 767px) {
+
+    .hero-section-Boujee-beachin {
+        text-align: center;
+        padding-top: 140px;
+    }
+
+    .Boujee-beachin-Logo {
+        align-items: center;
+        text-align: center;
+    }
+
+    .logo-img {
+        max-width: 170px;
+    }
+
+    .Boujee-beachin-Logo h1 {
+        font-size: 1.8rem;
+    }
+
+    .Boujee-beachin-Logo p {
+        font-size: 1rem;
+    }
+
+    .case-tag {
+        padding: 8px 20px;
+        font-size: 1rem;
+    }
+
+    .hero-main-img {
+        margin-top: 20px;
+    }
+}
+
+/* Small Mobiles (Max 575px) */
+@media (max-width: 575px) {
+
+    .logo-img {
+        max-width: 150px;
+    }
+
+    .Boujee-beachin-Logo h1 {
+        font-size: 1.6rem;
+        line-height: 1.4;
+    }
+
+    .case-tag {
+        padding: 6px 16px;
+        font-size: 0.9rem;
+    }
+}
+
+/* end hero by hassan */
+
+/* by hassan Objectives & Goals  section */
+.Objectives-section-Boujee-beachin h3 {
+    background-color: #0097DE;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+
+
+}
+
+.Objectives-section-Boujee-beachin {
+    margin-top: 22px;
+}
+
+.info-card-Boujee-beachin {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+}
+
+.info-card-Boujee-beachin:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.card-number-circle-Boujee-beachin {
+    width: 45px;
+    height: 45px;
+    background-color: white;
+    border: 4px solid #00A9F8;
+    color: black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.card-title-Boujee-beachin {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #343a40;
+    margin-bottom: 10px;
+}
+
+.card-description-Boujee-beachin {
+    font-size: 0.95rem;
+    color: #6c757d;
+    line-height: 1.6;
+}
+
+
+.phone-screen-Boujee-beachin img {
+    width: 289px;
+
+}
+
+
+@media (max-width:992px) {
+
+    .Objectives-section-Boujee-beachin h3 {
+        text-align: center;
+        margin-top: 22px;
+    }
+}
+
+/* end hassan Objectives & Goals section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* by hassan Design Goals   */
+.timeline-container h3,
+h4 {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+.timeline-container p {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+}
+
+.text-theme-blue {
+    color: #009FE3;
+    font-weight: 600;
+}
+
+.feature-box {
+    background: #fff;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+    position: relative;
+    z-index: 2;
+    border: 1px solid #e9ecef;
+}
+
+
+.timeline-container {
+    position: relative;
+}
+
+
+.central-line {
+    display: none;
+    position: absolute;
+    width: 4px;
+    background-color: #009FE3;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 999;
+}
+
+
+/* --- DESKTOP SPECIFIC STYLES (992px and up) --- */
+@media (min-width: 992px) {
+
+    .central-line {
+        display: block;
+    }
+
+
+    .right-column-wrapper {
+        margin-top: 80px;
+    }
+
+    .feature-box:hover {
+        transform: scaley(1.2);
+        transition: transform 0.3s ease;
+    }
+
+    .left-item .feature-box::after {
+
+        content: '';
+        position: absolute;
+        top: 50%;
+        right: -60px;
+        width: 60px;
+        height: 12px;
+
+        background-image: linear-gradient(to right, #009FE3 33%, rgba(255, 255, 255, 0) 0%);
+        background-position: bottom;
+        background-size: 16px 2px;
+        background-repeat: repeat-x;
+    }
+
+
+    .right-item .feature-box::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: -60px;
+        width: 60px;
+        height: 12px;
+        background-image: linear-gradient(to right, #009FE3 33%, rgba(255, 255, 255, 0) 0%);
+        background-position: bottom;
+        background-size: 16px 2px;
+        background-repeat: repeat-x;
+    }
+}
+
+/* End by hassan Design Goals   */
+
+
+/* Wireframes Section */
+.wireframes-section h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+.wireframes-section p,
+li {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+
+.wireframes-section {
+    padding: 2rem 0;
+}
+
+.wireframes-section h3 {
+    font-size: 2rem;
+    color: #007bff;
+    font-weight: 600;
+}
+
+.wireframes-section p {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 1.5rem;
+}
+
+/* Improved UL */
+.wireframes-section ul {
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 1.5rem 0;
+    list-style: none;
+}
+
+.wireframes-section ul li {
+    background: #f8f9fa;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #e5e5e5;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #007bff;
+    transition: all 0.3s ease;
+    cursor: default;
+}
+
+/* Hover effect */
+.wireframes-section ul li:hover {
+    background: #007bff;
+    color: #fff;
+    border-color: #007bff;
+    transform: translateY(-3px);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .wireframes-section {
+        text-align: center;
+    }
+
+    .wireframes-section ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .wireframes-section ul li {
+        width: 100%;
+        max-width: 320px;
+        text-align: center;
+    }
+}
+
+/* Images */
+.wireframes-section .img-fluid {
+    border: 1px solid #e0e0e0;
+    padding: 5px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.wireframes-section .img-fluid:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+
+/* by hassan Target Users- */
+.Target-Users-card {
+    height: 90px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+}
+
+
+.Target-Users-card img {
+    width: 22px;
+    height: auto;
+    object-fit: contain;
+}
+
+.Target-Users-card p {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+/*End hassan Target Users- */
+
+/*  start hassan Challenges & Iterations section  */
+.Challenges-section p,
+span,
+li {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+}
+
+.Challenges-section {
+    line-height: 50px;
+}
+
+.Challenges-heading span {
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+    background-color: #007bff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 14px;
+    word-spacing: 4px;
+}
+
+.Challenges-heading p {
+    font-size: 16px;
+    margin-top: 10px;
+    color: #555;
+}
+
+.Challenges ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.Challenges ul li {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.Challenges ul li img {
+    width: 24px;
+    height: 24px;
+}
+
+.Challenges ul li p {
+    margin: 0;
+    font-size: 15px;
+    color: #444;
+}
+
+.Challenges-img {
+    width: 100%;
+    max-width: 680px;
+    border-radius: 10px;
+}
+
+/* --------- RESPONSIVE --------- */
+@media (max-width: 1400px) {
+    .Challenges-heading span {
+        font-size: 24px;
+    }
+
+    .Challenges-section {
+        padding: 40px 0;
+    }
+
+    .Challenges ul li {
+        align-items: center;
+    }
+
+    .Challenges-img {
+        margin-top: 20px;
+    }
+
+    .Challenges-img img {
+        width: 100%;
+        max-width: 510px;
+
+    }
+}
+
+@media (max-width: 991px) {
+    .Challenges-heading span {
+        font-size: 24px;
+    }
+
+    .Challenges-section {
+        padding: 40px 0;
+    }
+
+    .Challenges ul li {
+        align-items: center;
+        font-size: 20px;
+    }
+
+    .Challenges-img {
+        margin-top: 20px;
+    }
+
+    .Challenges-img img {
+        width: 100%;
+        max-width: 480px;
+        border-radius: 10px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .Challenges-heading span {
+        font-size: 24px;
+    }
+
+    .Challenges-section {
+        padding: 40px 0;
+    }
+
+    .Challenges ul li {
+        align-items: center;
+    }
+
+    .Challenges-img {
+        margin-top: 20px;
+    }
+
+    .Challenges-img img {
+        width: 100%;
+        max-width: 480px;
+        border-radius: 10px;
+    }
+
+}
+
+
+
+/* End hassan Challenges & Iterations section  */
+
+
+/*by hassan boujee-beachin  persona section*/
+.pernal-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+.right-info {
+    border-left: 3px solid white;
+    padding-left: 22px;
+}
+
+.persona-heading {
+    color: wheat;
+}
+
+.persona-wrapper {
+    background-color: #3a3a3a;
+    color: #ffffff;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.persona-wrapper h1,
+h2,
+h3,
+h4 {
+    font-family: "Urbanist", sans-serif;
+    font-weight: 700;
+}
+
+.persona-wrapper p,
+span,
+li {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+
+}
+
+.persona-card {
+    background-color: #4f4f4f;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    height: 100%;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+
+.border-top-accent {
+    border-top: 4px solid #0097DE !important;
+}
+
+
+
+
+.text-accent {
+    color: #67e0e3 !important;
+}
+
+.text-secondary-light {
+    color: #dcdcdc;
+}
+
+
+.custom-list {
+    padding-left: 1.2rem;
+}
+
+.custom-list li {
+    list-style: circle;
+    margin-bottom: 0.5rem;
+    color: #dcdcdc;
+}
+
+
+.profile-img-container {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto 1.5rem;
+    padding: 5px;
+    border: 3px solid #ffffff;
+    border-radius: 50%;
+}
+
+.profile-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.demographics-table {
+    margin: 2rem auto;
+    width: 80%;
+    font-size: 0.9rem;
+}
+
+.demographics-table td {
+    padding: 4px 0;
+}
+
+.demog-label {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: right;
+    padding-right: 15px;
+    width: 50%;
+    color: white;
+}
+
+.demog-value {
+    color: white;
+    text-align: left;
+}
+
+
+.personality-tag {
+    background-color: #f8f9fa;
+    color: #0097DE;
+
+    font-weight: 600;
+    padding: 1em;
+    font-size: 0.85rem;
+}
+
+
+.progress-label {
+    font-size: 0.85rem;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.progress {
+    height: 8px;
+    background-color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.progress-bar-accent {
+    background-color: #0097DE;
+}
+
+
+
+/*End hassan boujee-beachin  persona section*/
+
+/* by hassan User Testing & Feedback  */
+.userTestingCard p,
+span,
+li {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+}
+
+.userTestingCard {
+    height: auto;
+    position: relative;
+    border: 2px solid #000;
+    border-radius: 12px;
+    padding: 60px 20px 20px;
+    background: #fff;
+    transition: 0.3s ease;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.0.8);
+}
+
+.userTestingCard:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+}
+
+
+.userTesting-img-section {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+
+}
+
+.userTesting-img-section img {
+    width: 85px;
+    height: auto;
+    object-fit: contain;
+}
+
+.userTesting-img-section p {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+.userTestingCard ul {
+    margin: 0;
+    padding-left: 18px;
+}
+
+.userTestingCard li {
+    list-style: circle;
+    margin-top: 18px;
+    line-height: 1.6;
+    padding-left: 22px;
+}
+
+
+@media (max-width: 768px) {
+    .userTesting-img-section {
+        top: -28px;
+    }
+
+    .userTesting-img-section img {
+        width: 60px;
+    }
+}
+
+@media (max-width: 480px) {
+    .userTesting-img-section {
+        top: -35px;
+    }
+
+    .userTesting-img-section img {
+        width: 55px;
+    }
+}
+
+/*End hassan User Testing & Feedback  */
+
+
+/* by hassan Client Testimonial  --> */
+
+.boujee-Testimonial h4 {
+    font-family: "Urbanist", sans-serif;
+    font-weight: 700;
+}
+
+.boujee-Testimonial p,
+b {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+}
+
+.testimonialsCard {
+    background: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.07);
+    transition: 0.3s ease;
+}
+
+.testimonialsCard:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 22px rgba(0, 0, 0, 0.12);
+}
+
+.testimonials-img-section p {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #444;
+}
+
+@media (max-width: 576px) {
+    .testimonial-text {
+        font-size: 15px;
+    }
+
+    .testimonialsCard {
+        padding: 20px;
+    }
+}
+
+/*End hassan Client Testimonial  --> */
+
+
+/* by hassan Conclusion section */
+.conclusion-section h3 {
+    font-family: "Urbanist", sans-serif;
+}
+
+.conclusion-section p {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+}
+
+.conclusion-section {
+    padding: 60px 0;
+}
+
+
+.conclusion-heading {
+    font-size: 32px;
+    margin-bottom: 18px;
+}
+
+.conclusion-paragraph {
+    font-size: 16px;
+    line-height: 1.9;
+    border-left: 7px solid #0097DE;
+    padding-left: 22px;
+    color: #444;
+}
+
+.conclusion-right img {
+    max-width: 100%;
+    border-radius: 14px;
+    transition: 0.3s ease;
+}
+
+.conclusion-right img:hover {
+    transform: scaley(1.02);
+}
+
+@media (max-width: 768px) {
+    .conclusion-heading {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .conclusion-paragraph {
+        text-align: center;
+    }
+
+    .conclusion-right img {
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .conclusion-heading {
+        font-size: 24px;
+    }
+}
+
+/* End hassan Conclusion section */
+
+/* by hassan Tech Behind the App section */
+
+.tech-behind-section h1,
+h2,
+h3,
+h4 {
+    font-family: "Urbanist", sans-serif;
+    font-weight: 700;
+}
+
+.tech-behind-section p,
+span,
+li {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+}
+
+
+.tech-card {
+    background: #fff;
+    padding: 20px 10px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+    transition: 0.3s ease;
+    height: 100%;
+}
+
+.tech-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+}
+
+.tech-card h6 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.tech-card img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 8px;
+}
+
+.tech-card p {
+    font-size: 13px;
+    margin: 0;
+    font-weight: 500;
+}
+
+/* MOBILE RESPONSIVE FIXES */
+@media(max-width: 576px) {
+    .tech-card {
+        padding: 15px;
+    }
+
+    .tech-card img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+/* End hassan Tech Behind the App section */
+
+
+.morkup-boujee-beachin img {
+    width: 100%;
+    max-width: 1800px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* Start Boujee Beachin */

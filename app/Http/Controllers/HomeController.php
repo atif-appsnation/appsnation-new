@@ -1866,26 +1866,6 @@ class HomeController extends Controller
         );
     }
 
-    public function abcWeb()
-    {
-        $metabank = Metabank::where('slug', 'abcWeb')->where('type', 'Tag')->get();
-        $metabank2 = Metabank::where('slug', 'abcWeb')->where('type', 'Meta')->get();
-
-        $metatag = Metatag::where('slug', 'abcWeb')->get();
-        $metatitle = Metatitle::where('slug', 'abcWeb')->get();
-
-        return view(
-            'abcweb',
-            [
-                'metabank' => $metabank,
-                'metabank2' => $metabank2,
-                'metatitle' => $metatitle,
-                'metatag' => $metatag,
-                // 'data' => $data,
-            ]
-        );
-    }
-
     public function art3d()
     {
         $metabank = Metabank::where('slug', 'Art-3D')->where('type', 'Tag')->get();
@@ -3199,6 +3179,7 @@ class HomeController extends Controller
         //     return response()->json(['error' => $e->getMessage()], 500);
         // }
     }
+
     public function royalRideApp()
     {
         $metabank = Metabank::where('slug', 'royalRideApp')->where('type', 'Tag')->get();
@@ -3208,6 +3189,22 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'royalRideApp')->get();
 
         return view('royalrideapp', ['metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag,]);
+    }
+
+    public function boujeeBeachinApp()
+    {
+
+        $metatag = Metatag::where('slug', 'boujeeBeachinApp')->get();
+        $metatitle = Metatitle::where('slug', 'boujeeBeachinApp')->get();
+
+        return view(
+            'boujeebeachin',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                // 'data' => $data,
+            ]
+        );
     }
 
 }

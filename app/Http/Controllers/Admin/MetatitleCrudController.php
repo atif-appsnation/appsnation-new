@@ -184,7 +184,9 @@ class MetatitleCrudController extends CrudController
                 'saudia_arabia' => 'saudia_arabia',
                 'uae' => 'uae',
                 'italy' => 'italy',
-                'costcalculator' => 'costcalculator'
+                'costcalculator' => 'costcalculator',
+                'royalRideApp' => 'royalRideApp',
+                'boujeeBeachinApp' => 'boujeeBeachinApp'
             ],
 
             'allows_null' => false,

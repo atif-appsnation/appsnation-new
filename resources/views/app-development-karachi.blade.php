@@ -12,8 +12,7 @@
 			<div class="col-sm-12 col-xl-6 my-auto wow fadeIn">
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Mobile App Development Company in Karachi</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Hello and welcome to AppsNation, a leading mobile app development firm nestled in the heart of Karachi, Pakistan! We specialize in bringing your digital visions to life, whether it's for iOS, Android, IoT, AR/VR, gaming, cross-platform, wearable tech, or even eCommerce. Our team, a blend of creative minds and detail-oriented experts, is dedicated to crafting unique and powerful mobile solutions tailored precisely to your business's unique requirements. We're with you every step of the way, from development and rigorous quality assurance testing to providing expert design consultations. Consider AppsNation your go-to partner for transforming your innovative concepts into captivating digital experiences. Let's collaborate and forge the future together!
-</p>
+					<p class="mt20 text-white" data-wow-delay=".4s">Hello and welcome to AppsNation, a leading mobile app development firm nestled in the heart of Karachi, Pakistan! We specialize in bringing your digital visions to life, whether it's for iOS, Android, IoT, AR/VR, gaming, cross-platform, wearable tech, or even eCommerce. Our team, a blend of creative minds and detail-oriented experts, is dedicated to crafting unique and powerful mobile solutions tailored precisely to your business's unique requirements. We're with you every step of the way, from development and rigorous quality assurance testing to providing expert design consultations. Consider AppsNation your go-to partner for transforming your innovative concepts into captivating digital experiences. Let's collaborate and forge the future together!</p>
 				</div>
 				<div class="row mt-3">
 					<div class="col-md-4">

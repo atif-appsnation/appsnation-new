@@ -2203,8 +2203,8 @@ a.play-video::after {
 }
 
 #scrollUp {
-    bottom: 20px;
-    right: 20px;
+    bottom: 50px;
+    right: 30px;
     width: 50px;
     height: 50px;
     -webkit-border-radius: 100px;
@@ -3573,7 +3573,7 @@ footer.ftshap:before {
 }
 
 .info-card p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 28px;
     margin: 20px 0 10px 0;
 }
@@ -8642,7 +8642,7 @@ html .mt15 {
 /* Custom */
 
 .main-header {
-    background-color: transparent;
+    background-color: #000;
 }
 
 .main-header.sticky {
@@ -17282,14 +17282,14 @@ input::-ms-input-placeholder, textarea::-ms-input-placeholder {
 
 
 
+
+
+
+
 /* royal ride case study by hassan */
 /*  hero section by hassan */
 .hero-section-royalRide{
-  background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 20%);
-
-
-    padding-top: 295px;
-     background-color: #f8f8f8; 
+    margin-top: 195px;
 }
 
 .royalRideLogo  p{
@@ -17311,8 +17311,7 @@ width: 110px;
 /* 992px */
 @media (min-width: 768px) and (max-width: 992px) {
     .hero-section-royalRide{
-          background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 20%);
-   padding-top: 90px;
+   margin-top: 90px;
   margin-bottom: 2px;
 
 }
@@ -17335,8 +17334,7 @@ width: 110px;
 /* 767px */
  @media (min-width:375px) and (max-width: 767px) {
     .hero-section-royalRide{
-           background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 10%);
-   padding-top: 100px;
+   margin-top: 100px;
   margin-bottom: 2px;
 
 }
@@ -17362,7 +17360,7 @@ width: 110px;
 }
  @media  (max-width: 374px) {
 .hero-section-royalRide{
-   padding-top: 140px;
+   margin-top: 140px;
   margin-bottom: 32px;
 
 }
@@ -17968,212 +17966,5 @@ width: 110px;
 
     .comp-analysis-image {
         width: 70%;  
-    }
-}
-
-
-
-
-
-
-
-
-
-
-.section-wrapper {
-    position: relative;
-    padding-top: 100px;
-}
-
-.start-connector {
-    position: absolute;
-    top: 0;
-    left: 120px;
-    z-index: 10;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.start-plus-circle {
-    width: 60px;
-    height: 60px;
-    background-color: #dcb880;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    font-weight: bold;
-    color: #000;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
-.connector-line-vertical {
-    width: 2px;
-    height: 140px;
-    background-color: #dcb880;
-}
-
-.connector-line-horizontal {
-    position: absolute;
-    top: 200px;
-    left: 50px;
-    width: 50px;
-    height: 2px;
-    background-color: #dcb880;
-    display: none;
-}
-
-@media (min-width: 992px) {
-    .start-connector {
-        left: calc((100% - 1320px) / 226 + 20px);
-    }
-    .section-wrapper::before {
-        content: '';
-        position: absolute;
-        top: 60px;
-        left: 50px;
-        width: 2px;
-        height: 150px;
-        background-color: #dcb880;
-        z-index: 0;
-    }
-    .section-wrapper::after {
-        content: '';
-        position: absolute;
-        top: 210px;
-        left: 50px;
-        width: 60px;
-        height: 2px;
-        background-color: #dcb880;
-        z-index: 0;
-    }
-}
-
-@media (max-width: 991px) {
-    .section-wrapper::before,
-    .section-wrapper::after,
-    .start-connector {
-        display: none;
-    }
-    .section-wrapper {
-        padding-top: 20px;
-    }
-}
-
-.card-custom {
-    border: none;
-    border-radius: 15px;
-    padding: 30px 20px;
-    min-height: 420px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    position: relative;
-    transition: transform 0.3s ease;
-}
-
-.card-custom:hover {
-    transform: translateY(-5px);
-}
-
-.bg-gold {
-    background-color: #dcb880;
-    color: #2c2c2c;
-}
-
-.bg-white-custom {
-    background-color: #fff;
-    color: #2c2c2c;
-    border: 1px solid #eee;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-}
-
-.number-circle {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    border: 2px solid #000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 600;
-    font-size: 18px;
-    margin-bottom: 30px;
-}
-
-.card-title-custom {
-    font-weight: 600;
-    font-size: 1.1rem;
-    margin-bottom: 20px;
-    line-height: 1.4;
-}
-
-.card-text-custom {
-    font-size: 0.9rem;
-    line-height: 1.6;
-    opacity: 0.9;
-}
-
-.card-connector-plus {
-    position: absolute;
-    top: 50%;
-    right: -25px;
-    transform: translateY(-50%);
-    width: 30px;
-    height: 30px;
-    background-color: #eaddcf;
-    color: #000;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
-    z-index: 5;
-    font-size: 18px;
-}
-
-.col-custom:last-child .card-connector-plus {
-    display: none;
-}
-
-@media (max-width: 991px) {
-    .card-connector-plus {
-        display: none;
-    }
-    .card-custom {
-        min-height: auto;
-        margin-bottom: 20px;
-    }
-    .number-circle {
-        margin-bottom: 15px;
-    }
-}
-
-.row-five-cols {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.row-five-cols > .col-custom {
-    width: 100%;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-@media (min-width: 768px) {
-    .row-five-cols > .col-custom {
-        width: 50%;
-    }
-}
-
-@media (min-width: 992px) {
-    .row-five-cols > .col-custom {
-        width: 20%;
-        padding: 0 10px;
-    }
-    .section-wrapper {
-        padding-left: 50px;
     }
 }

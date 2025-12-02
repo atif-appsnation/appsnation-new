@@ -141,3 +141,6 @@ Route::get('/review-data2','ScraperController@scrapeTestimonials2');
 Route::get('/review-data','ScraperController@scrapeTestimonials');
 Route::get('/upcity-review-data','ScraperController@upCityTestimonials');
 Route::post('/submit-cost-calculator', [App\Http\Controllers\CostCalculatorController::class, 'submit'])->name('cost-calculator.submit');
+
+// new case study
+Route::get('/case-studies/royal-ride-app','HomeController@royalRideApp');

@@ -3199,4 +3199,15 @@ class HomeController extends Controller
         //     return response()->json(['error' => $e->getMessage()], 500);
         // }
     }
+    public function royalRideApp()
+    {
+        $metabank = Metabank::where('slug', 'royalRideApp')->where('type', 'Tag')->get();
+        $metabank2 = Metabank::where('slug', 'LoyaltroyalRideAppyApp')->where('type', 'Meta')->get();
+
+        $metatag = Metatag::where('slug', 'royalRideApp')->get();
+        $metatitle = Metatitle::where('slug', 'royalRideApp')->get();
+
+        return view('royalrideapp', ['metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag,]);
+    }
+
 }

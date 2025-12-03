@@ -1,261 +1,198 @@
 @extends('app.main')
 @section('content')
-	<!-- by hassan hero section -->
 
-    <section class="hero-section-Boujee-beachin">
-        <div class="container">
-            <div class="row align-items-center text-center text-md-start">
+<!--Breadcrumb Area-->
+<section class="breadcrumb-areav2 boujee-beachin-app">
+	@if ($errors->has('g-recaptcha-response'))
+	<div class="alert alert-danger">
+		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
+	</div>
+	@endif
 
-                <!-- Left Column -->
-                <div class="col-12 col-md-6 mb-4 mb-md-0 wow fadeInUp">
-                    <div class="Boujee-beachin-Logo">
-                        <img src="{{asset('images/case-studies/boujee-beachin/Logo.png')}}"
-                            alt="Royal Ride" class="img-fluid logo-img">
+	<div class="container wow fadeIn" data-wow-delay="0.2s">
+		<div class="row">
+			<div class="col-lg-6 my-lg-auto">
+			<img src="{{asset('images/case-studies/boujee-beachin/header-logo.webp')}}" class="w-50" alt="Boujee Beachin App Logo" width="100%" height="100%">
+				<div class="bread-titlev2 mt-4">
+					<h1>
+                        <span>100+</span> Goals Achieved,
+                        <span>1,000+</span> Active Users, and
+                        <span>2</span> Magnificent Years of Innovation.
+                    </h1>
+					<p class="pt-3">Discover Rise Up Kings, Where Personal Development Meets Community!</p>
+                    <p class="case-tag mt-3">Case Study</p>
+				</div>
+			</div>
+			<div class="col-lg-6 mt-5 mt-lg-0">
+				<img src="{{asset('images/case-studies/boujee-beachin/header-web.webp')}}" class="img-fluid" alt="Boujee Beachin App" width="100%" height="100%">
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Breadcrumb Area-->
 
-                        <h1>
-                            <span>100+</span> Goals Achieved,
-                            <span>1,000+</span> Active Users, and
-                            <span>2</span> Magnificent Years of Innovation.
-                        </h1>
-
-                        <p>Discover Rise Up Kings, Where Personal Development Meets Community!</p>
-
-                        <span class="case-tag">Case Study</span>
-                    </div>
-                </div>
-
-                <!-- Right Column -->
-                <div class="col-12 col-md-6 wow fadeInUp">
-                    <div class="Boujee-beachin-hero-img">
-                        <img src="{{asset('images/case-studies/boujee-beachin/1.webp')}}"
-                            alt="" class="img-fluid hero-main-img">
-                    </div>
-                </div>
-
+<!-- Start Problem Section -->
+<section class="boujee-beachin-problem py-5 wow fadeIn" data-wow-delay="0.4s">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6">
+				<img src="{{asset('images/case-studies/boujee-beachin/problem-statement.webp')}}" alt="Boujee Beachin Problem Statement" width="100%" height="100%">
+			</div>
+            <div class="col-lg-6 my-lg-auto">
+                <div class="common-heading">
+					<h2>Problem Statement</h1>
+					<p>Many beachgoers struggle with finding aesthetically pleasing, exclusive, and well-reviewed beach experiences. Standard apps don’t cater to the trendy, upscale, Instagram-worthy lifestyle many modern beach lovers seek.</p>
+                    <p>Boujee Beachin’ aims to provide curated, premium beach experience discovery with features like reservations, fashion tips, and local recommendations.</p>
+				</div>
             </div>
-        </div>
-    </section>
+		</div>
+	</div>
+</section>
+<!-- End Problem Section -->
 
-
-    <!-- end hassan hero section -->
-
-    <!-- by hassan problem section -->
-
-    <section class="Problem-section wow fadeInUp">
-        <div class="container">
-            <div class="row align-items-center text-center text-md-start">
-                <div class="col-12 col-md-6 mb-4 mb-md-0 problem-left-container">
-                    <img src="{{asset('images/case-studies/boujee-beachin/2.webp')}}" alt="">
-                </div>
-
-                <div class="col-md-6 uiux-text-col">
-                    <h3 class="uiux-main-title">Problem Statement</h3>
-
-                    <div class="uiux-content-block">
-                        <h6 class="uiux-subtitle">Problem Statement</h6>
-                        <p class="uiux-paragraph">Many beachgoers struggle with finding aesthetically pleasing, exclusive, and well-reviewed beach experiences. Standard apps don’t cater to the trendy, upscale, Instagram-worthy lifestyle many modern beach lovers seek.</p>
-                        <p class="uiux-paragraph">
-                            Boujee Beachin’ aims to provide curated, premium beach experience discovery with features like reservations, fashion tips, and local recommendations.</p>
-
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- end hassan problem section -->
-
-    <!-- by hassan Objectives & Goals section -->
-
-    <section class="Objectives-section-Boujee-beachin wow fadeInUp">
-        <div class="container py-5">
-            <h3 class="my-4 text-center">Objectives & Goals</h3>
-
-            <div class="row align-items-start">
-
-                <!-- LEFT CONTENT -->
-                <div class="col-lg-8">
-                    <div class="row  ">
-
-                        <div class="col-lg-7  col-md-12  col-sm-12">
-                            <div class="info-card-Boujee-beachin">
-                                <div class="card-number-circle-Boujee-beachin">01</div>
-                                <h5>Royal Experience in Qatar</h5>
-                                <p class=" card-description">Create Qatar's most luxurious ride-booking app with a smooth, stylish, and safe user experience.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-5 col-md-12   col-sm-12">
-                            <div class="info-card-Boujee-beachin">
-                                <div class="card-number-circle-Boujee-beachin">02</div>
-                                <h5>Easy & Elegant Booking</h5>
-                                <p class=" card-description">Simplify ride booking with an elegant UI, fast navigation, car previews, and real-time tracking.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-5 col-md-12  col-sm-12">
-                            <div class="info-card-Boujee-beachin">
-                                <div class="card-number-circle-Boujee-beachin">03</div>
-                                <h5>VIP Features for Trust</h5>
-                                <p class=" card-description">Build user trust with features like chauffeur info, elite car options, and premium support.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-7 col-md-12  col-sm-12">
-                            <div class="info-card-Boujee-beachin">
-                                <div class="card-number-circle-Boujee-beachin">04</div>
-                                <h5>Premium User Support</h5>
-                                <p class=" card-description">Deliver a top-tier support experience to enhance user satisfaction and reliability.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-                <!-- RIGHT PHONE SCREEN -->
-                <div class="col-lg-4 col-md-12 d-flex justify-content-center align-items-start">
-                    <div class="phone-screen-Boujee-beachin">
-                        <img src="{{asset('images/case-studies/boujee-beachin/App (3).webp')}}" alt="">
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <!-- end hassan Objectives & Goals section -->
-
-    <!--by hassan Design Goals -->
-
-    <section class="my-5 wow fadeInUp">
-        <div class="container timeline-container">
-            <h3 class="my-3">Design Goals</h3>
-
-            <div class="central-line"></div>
-
-            <div class="row font-sans-serif">
-
-                <!-- Left Column -->
-                <div class="col-lg-6    left-column-wrapper">
-
-                    <div class="feature-box-group">
-
-                        <div class="feature-box mb-5 left-item">
-                            <h4 class="text-theme-blue mb-3">User-Centric Interface</h4>
-                            <p class="text-muted mb-0">
-                                Create a clean, intuitive, and visually aesthetic interface that prioritizes user experience and ease of navigation.
-                            </p>
-                        </div>
-
-                        <div class="feature-box mb-5 left-item">
-                            <h4 class="text-theme-blue mb-3">Seamless Booking Flow</h4>
-                            <p class="text-muted mb-0">
-                                Design a simple yet efficient beach reservation system that enables quick planning with minimal steps.
-                            </p>
-                        </div>
-
-                        <div class="feature-box mb-5 left-item">
-                            <h4 class="text-theme-blue mb-3">Community Interaction</h4>
-                            <p class="text-muted mb-0">
-                                Allow users to upload photos, write reviews, and engage with a like-minded beachgoer community.
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!-- Right Column -->
-                <div class="col-lg-6   right-column-wrapper">
-
-                    <div class="feature-box-group">
-
-                        <div class="feature-box mb-5 right-item">
-                            <h4 class="text-theme-blue mb-3">Lifestyle-Based Curation</h4>
-                            <p class="text-muted mb-0">
-                                Present beach content tailored to users' lifestyle preferences, including luxury, aesthetics, and social relevance.
-                            </p>
-                        </div>
-
-                        <div class="feature-box mb-5 right-item">
-                            <h4 class="text-theme-blue mb-3">Style Guidance</h4>
-                            <p class="text-muted mb-0">
-                                Offer fashion and beachwear recommendations aligned with trends, trip types, and destination vibes.
-                            </p>
-                        </div>
-
-                        <div class="feature-box mb-5 right-item">
-                            <h4 class="text-theme-blue mb-3">Visual Storytelling</h4>
-                            <p class="text-muted mb-0">
-                                Use imagery, animations, and transitions to convey luxury and create emotional resonance.
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <!--end hassan Design Goals -->
-
-    <!-- by hassan mobile screen  -->
-        <section class="my-5 wow fadeInUp morkup-boujee-beachin">
-            <div class="container">
+<!-- Start Objective & Goal Section -->
+<section class="boujee-beachin-objectives wow fadeIn py-5">
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col-lg-8 my-auto">
+                <h2 class="my-4">Objectives & Goals</h2>
                 <div class="row">
-                    <div class="col-12 text-center">
-                        <img src="{{asset('images/case-studies/boujee-beachin/9.webp')}}" alt="" class="img-fluid">
+                    <div class="col-12 col-lg-7">
+                        <div class="info-card">
+                            <div class="card-number-circle">01</div>
+                            <h5>Royal Experience in Qatar</h5>
+                            <p>Create Qatar's most luxurious ride-booking app with a smooth, stylish, and safe user experience.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-5">
+                        <div class="info-card">
+                            <div class="card-number-circle">02</div>
+                            <h5>Easy & Elegant Booking</h5>
+                            <p>Simplify ride booking with an elegant UI, fast navigation, car previews, and real-time tracking.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-5">
+                        <div class="info-card">
+                            <div class="card-number-circle">03</div>
+                            <h5>VIP Features for Trust</h5>
+                            <p>Build user trust with features like chauffeur info, elite car options, and premium support.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-7">
+                        <div class="info-card">
+                            <div class="card-number-circle">04</div>
+                            <h5>Premium User Support</h5>
+                            <p>Deliver a top-tier support experience to enhance user satisfaction and reliability.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-        </section>
-    <!-- End by hassan mobile screen  -->
 
-    <!-- by hassan Wireframes-->
-    <section class="my-5">
-        <div class="container">
-            <div class="wireframes-section">
-                <h3 class="mb-3">Wireframes</h3>
-                <p class="mb-4">An overview of the initial wireframes created during the design process:</p>
+            <div class="col-12 col-lg-4">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-objectives.webp')}}" alt="Boujee Beachin Objectives" class="img-fluid d-block mx-auto">
+            </div>
+        </div>
+    </div>
+</section>
 
-                <ul class="mb-4">
-                    <li>Low-fidelity sketches</li>
-                    <li>Iterative design process</li>
-                    <li>Feedback received from peers</li>
-                </ul>
+<!-- End Objectives & Goals Section -->
 
-                <div class="row g-3">
-                    <div class="col-6 col-md-2">
-                        <img src="{{asset('images/case-studies/boujee-beachin/WIREFRAM (1).webp')}}" alt="Wireframe 1" class="img-fluid rounded">
+<!-- Start Design Goals Section -->
+<section class="boujee-beachin-designs my-5 wow fadeIn">
+    <div class="container">
+        <h2 class="mb-3">Design Goals</h2>
+        <div class="central-line"></div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="feature-box-group">
+                    <div class="feature-box mb-5 left-item">
+                        <h4 class="text-theme-blue mb-3">User-Centric Interface</h4>
+                        <p class="text-muted mb-0">Create a clean, intuitive, and visually aesthetic interface that prioritizes user experience and ease of navigation.</p>
                     </div>
-                    <div class="col-6 col-md-2">
-                        <img src="{{asset('images/case-studies/boujee-beachin/WIREFRAM (2).webp')}}" alt="Wireframe 2" class="img-fluid rounded">
+                    <div class="feature-box mb-5 left-item">
+                        <h4 class="text-theme-blue mb-3">Seamless Booking Flow</h4>
+                        <p class="text-muted mb-0">Design a simple yet efficient beach reservation system that enables quick planning with minimal steps.</p>
                     </div>
-                    <div class="col-6 col-md-2">
-                        <img src="{{asset('images/case-studies/boujee-beachin/WIREFRAM (3).webp')}}" alt="Wireframe 3" class="img-fluid rounded">
+                    <div class="feature-box mb-5 left-item">
+                        <h4 class="text-theme-blue mb-3">Community Interaction</h4>
+                        <p class="text-muted mb-0">Allow users to upload photos, write reviews, and engage with a like-minded beachgoer community.</p>
                     </div>
-                    <div class="col-6 col-md-2">
-                        <img src="{{asset('images/case-studies/boujee-beachin/WIREFRAM (4).webp')}}" alt="Wireframe 4" class="img-fluid rounded">
+                </div>
+            </div>
+
+            <div class="col-lg-6 right-column-wrapper">
+                <div class="feature-box-group">
+                    <div class="feature-box mb-5 right-item">
+                        <h4 class="text-theme-blue mb-3">Lifestyle-Based Curation</h4>
+                        <p class="text-muted mb-0">Present beach content tailored to users' lifestyle preferences, including luxury, aesthetics, and social relevance.</p>
                     </div>
-                    <div class="col-6 col-md-2">
-                        <img src="{{asset('images/case-studies/boujee-beachin/WIREFRAM (5).webp')}}" alt="Wireframe 5" class="img-fluid rounded">
+                    <div class="feature-box mb-5 right-item">
+                        <h4 class="text-theme-blue mb-3">Style Guidance</h4>
+                        <p class="text-muted mb-0">Offer fashion and beachwear recommendations aligned with trends, trip types, and destination vibes.</p>
                     </div>
-                    <div class="col-6 col-md-2">
-                        <img src="{{asset('images/case-studies/boujee-beachin/WIREFRAM (6).webp')}}" alt="Wireframe 6" class="img-fluid rounded">
+                    <div class="feature-box mb-5 right-item">
+                        <h4 class="text-theme-blue mb-3">Visual Storytelling</h4>
+                        <p class="text-muted mb-0">Use imagery, animations, and transitions to convey luxury and create emotional resonance.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+<!-- End Design Goals Section -->
 
-    <!-- end hassan Wireframes -->
+<!-- Start Mockup Section  -->
+<section class="my-5 wow fadeIn boujee-beachin-mockup">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-mockup.webp')}}" alt="Boujee Beachin Mockup" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Mockup Section -->
+
+<!-- Start Wireframes Section -->
+<section class="boujee-beachin-wireframe my-5">
+    <div class="container">
+        <h2 class="mb-3">Wireframes</h2>
+        <p class="mb-4">An overview of the initial wireframes created during the design process:</p>
+        <ul class="mb-4">
+            <li>Low-fidelity sketches</li>
+            <li>Iterative design process</li>
+            <li>Feedback received from peers</li>
+        </ul>
+
+        <div class="row g-3">
+            <div class="col-6 col-md-3 col-xl-2">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
+            </div>
+            <div class="col-6 col-md-3 col-xl-2">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-2.webp')}}" alt="Boujee Beachin Wireframe 2" class="img-fluid rounded">
+            </div>
+            <div class="col-6 col-md-3 col-xl-2">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-3.webp')}}" alt="Boujee Beachin Wireframe 3" class="img-fluid rounded">
+            </div>
+            <div class="col-6 col-md-3 col-xl-2">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-4.webp')}}" alt="Boujee Beachin Wireframe 4" class="img-fluid rounded">
+            </div>
+            <div class="col-6 col-md-3 col-xl-2">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-5.webp')}}" alt="Boujee Beachin Wireframe 5" class="img-fluid rounded">
+            </div>
+            <div class="col-6 col-md-3 col-xl-2">
+                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-6.webp')}}" alt="Boujee Beachin Wireframe 6" class="img-fluid rounded">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Wireframes Section -->
 
     <!-- by hassan Target Users-->
-    <section class="my-5 wow fadeInUp">
+    <section class="my-5 wow fadeIn">
         <div class="container">
             <h3 class="mb-4">Target Users</h3>
 
@@ -296,7 +233,7 @@
     <!-- end hassanTarget Users -->
 
     <!-- by hassan Challenges & Iterations section -->
-    <section class="Challenges-section wow fadeInUp">
+    <section class="Challenges-section wow fadeIn">
             <div class="container">
                 <div class="row align-items-center">
 
@@ -340,7 +277,7 @@
 
     <!-- End hassan Challenges & Iterations section -->
     <!-- persona section -->
-    <section class="my-5 wow fadeInUp persona-section">
+    <section class="my-5 wow fadeIn persona-section">
         <div class="container">
             <div class="persona-wrapper">
                 <div class="row g-4">
@@ -545,7 +482,7 @@
 
     <!-- by hassan app screens section -->
 
-    <section class="my-5 wow fadeInUp">
+    <section class="my-5 wow fadeIn">
         <div class="container">
             <h3 class="my-4 text-center">App Screens</h3>
 
@@ -570,7 +507,7 @@
     <!-- end hassan app screens section -->
 
     <!-- by hassan  User Testing & Feedback -->
-    <section class="py-5 wow fadeInUp">
+    <section class="py-5 wow fadeIn">
         <div class="container">
             <h3 class="my-5 text-sm-center">User Testing & Feedback</h3>
             <div class="row g-4 align-items-stretch">
@@ -609,7 +546,7 @@
     <!-- End hassan  User Testing & Feedback -->
 
     <!-- by hassan Tech Behind the App section  -->
-   <section class="my-5 tech-behind-section  wow fadeInUp">
+   <section class="my-5 tech-behind-section  wow fadeIn">
     <div class="container">
         <h3 class="text-center mb-4">Tech Behind the App</h3>
 
@@ -693,7 +630,7 @@
     <!-- End hassan Conclusion section-->
 
     <!-- by hassan app screens section -->
-    <section class="my-5 wow fadeInUp">
+    <section class="my-5 wow fadeIn">
         <div class="container">
             <h3 class="my-4 text-center">VENDOR APP</h3>
 
@@ -713,7 +650,7 @@
     <!-- end hassan app screens section -->
 
     <!-- by hassan  Client Testimonial  -->
-    <section class="py-5 wow fadeInUp  boujee-Testimonial">
+    <section class="py-5 wow fadeIn  boujee-Testimonial">
         <div class="container">
             <h4 class="my-5 text-center">Client Testimonial</h4>
 
@@ -753,7 +690,7 @@
     <!-- end hassan  Client Testimonial  -->
 
     <!-- by hassan last mork-up  -->
-    <section class="my-5 wow fadeInUp">
+    <section class="my-5 wow fadeIn">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">

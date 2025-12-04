@@ -762,10 +762,6 @@
 		</div>
 	</div>
 </section>
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 <!--End Services-->
 
 <!--Start About-->

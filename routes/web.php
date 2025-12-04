@@ -145,3 +145,4 @@ Route::post('/submit-cost-calculator', [App\Http\Controllers\CostCalculatorContr
 // new case study
 Route::get('/case-studies/royal-ride-app','HomeController@royalRideApp');
 Route::get('/case-studies/boujee-beachin-app','HomeController@boujeeBeachinApp');
+Route::get('/case-studies/wood-land-app','HomeController@woodLandApp');

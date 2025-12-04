@@ -186,7 +186,8 @@ class MetatagCrudController extends CrudController
                 'italy' => 'italy',
                 'costcalculator' => 'costcalculator',
                 'royalRideApp' => 'royalRideApp',
-                'boujeeBeachinApp' => 'boujeeBeachinApp'
+                'boujeeBeachinApp' => 'boujeeBeachinApp',
+                'woodLandApp' => 'woodLandApp'
             ],
 
             'allows_null' => false,

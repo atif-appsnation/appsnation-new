@@ -3207,4 +3207,20 @@ class HomeController extends Controller
         );
     }
 
+    public function woodLandApp()
+    {
+
+        $metatag = Metatag::where('slug', 'woodLandApp')->get();
+        $metatitle = Metatitle::where('slug', 'woodLandApp')->get();
+
+        return view(
+            'boujeebeachin',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                // 'data' => $data,
+            ]
+        );
+    }
+
 }

@@ -765,7 +765,7 @@ With years of industry experience, we’ve refined not only our technical expert
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Services-->
 
 <!--Start About-->

@@ -761,7 +761,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!-- End Services-->
 
 <!-- Start About-->

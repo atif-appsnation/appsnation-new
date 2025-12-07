@@ -8030,9 +8030,9 @@ a.smllbtnn {
     box-shadow: 0 10px 15px 0px rgb(3 35 68 / 15%);
 }
 
-.wptbb+.wptbb {
+/* .wptbb+.wptbb {
     margin-top: 40px;
-}
+} */
 
 .forfullcard {
     display: grid;

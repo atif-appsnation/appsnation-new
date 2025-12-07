@@ -40,7 +40,7 @@
 		</div>
 	</div>
 
-	<section class="container py-lg-5 mt-3">
+	<section class="container py-lg-5 mt-5">
 		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
 			<li class="nav-item ms-2">
 				<a class="nav-link active" data-bs-toggle="-" href="?a=Mobile">App</a>
@@ -50,51 +50,61 @@
 			</li>
 		</ul>
 		<div class="tab-content mt-5 wow fadeIn">
-
-			@foreach($portfolio as $items)
-			<div id="{!!$items['type']!!}" class="tab-pane active">
+			<div class="tab-pane active">
 				<div class="row mt60">
-					<div class="col-lg-12 col-sm-12 wptbb">
-						<div class="pbwide shadow bg-gradient1">
-
-							<div class="portfolio-item-info-tt">
-								<div class="logowide mb20">
-									<img src="uploads/{!!$items['icon']!!}" alt="{{$items['title']}}" class="img-fluid" width="100%" height="100%">
+					@foreach($portfolio as $items)
+					<div class="col-sm-12 col-md-6 wptbb">
+						<div id="{!!$items['type']!!}">
+							<div class="isotope_item up-hor">
+								<div class="item-image">
+									<a href="{{url('/').'/'.$items['comments']}}">
+										<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid w-50 d-block mx-auto mb-3">
+									</a>
 								</div>
-								<div class="widebloktag">
-									<span class="text-white">UI/UX Design</span>
+								<div class="item-info-div shdo">
+									<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
+									<p>iOs, Android</p>
 								</div>
-								<div class="widebloktag mt-4">
-									<span class="text-white">Mobile App Development</span>
-								</div>
-								<h3 class="mt30 mb30">{{$items['title']}}</h3>
-								<p class="mb30">{{$items['content']}}</p>
-								<ul class="info-list-ul">
-									<li>{{$items['bullet_1']}}</li>
-									<li>{{$items['bullet_2']}}</li>
-									<li>{{$items['bullet_3']}}</li>
-									<li>{{$items['bullet_4']}}</li>
-								</ul>
-								<a href="{{url('/').'/'.$items['comments']}}" class="btn-outline lnk mt30">View Case Study
-									<i class="fas fa-chevron-right fa-icon"></i>
-									<span class="circle"></span>
-								</a>
 							</div>
-							<div class="portfolio-wide-image">
-								<div class="img-wide-blocktt tilt-outer">
-									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-										<div>
-											<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid">
+							<!-- <div class="pbwide shadow bg-gradient1">
+								<div class="portfolio-item-info-tt">
+									<div class="logowide mb20">
+										<img src="uploads/{!!$items['icon']!!}" alt="{{$items['title']}}" class="img-fluid" width="100%" height="100%">
+									</div>
+									<div class="widebloktag">
+										<span class="text-white">UI/UX Design</span>
+									</div>
+									<div class="widebloktag mt-4">
+										<span class="text-white">Mobile App Development</span>
+									</div>
+									<h3 class="mt30 mb30">{{$items['title']}}</h3>
+									<p class="mb30">{{$items['content']}}</p>
+									<ul class="info-list-ul">
+										<li>{{$items['bullet_1']}}</li>
+										<li>{{$items['bullet_2']}}</li>
+										<li>{{$items['bullet_3']}}</li>
+										<li>{{$items['bullet_4']}}</li>
+									</ul>
+									<a href="{{url('/').'/'.$items['comments']}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
+								<div class="portfolio-wide-image">
+									<div class="img-wide-blocktt tilt-outer">
+										<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+											<div>
+												<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid">
+											</div>
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
+					@endforeach
 				</div>
 			</div>
-			@endforeach
-
 
 			<!-- <div id="web" class="tab-pane fade">
 				<div class="row mt60">

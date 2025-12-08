@@ -83,7 +83,7 @@
 		<div class="row justify-content-center">
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/california.webp')}}" alt="USA" width="100%" height="100%" class="pt-4 img-fluid">
-                <h4 class="pt-4">California, USA</h4>
+                <h3 class="pt-4">California, USA</h3>
                 <p class="pt-3">3415 S Sepulveda Blvd, Los Angeles, CA, USA</p>
                 <a href="https://maps.app.goo.gl/TqBHrPsEMyjLiEHP6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
@@ -91,7 +91,7 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/montana.webp')}}" alt="USA" class="pt-4 img-fluid" width="100%" height="100%">
-                <h4 class="pt-4">Montana, USA</h4>
+                <h3 class="pt-4">Montana, USA</h3>
                 <p class="pt-3">1001 S Main St, Kalispell, MT 59901, USA</p>
                 <a href="https://maps.app.goo.gl/naWDhdSXjXCBXpzq6" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
@@ -99,7 +99,7 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/saudia-arabia.webp')}}" alt="Saudia Arabia" class="pt-4 img-fluid" width="100%" height="100%">
-                <h4 class="pt-4">Riyadh, KSA</h4>
+                <h3 class="pt-4">Riyadh, KSA</h3>
                 <p class="pt-3">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
                 <a href="https://maps.app.goo.gl/fEeqH5rq3gdBEMsJA" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
@@ -107,7 +107,7 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/united-arab-emirates.webp')}}" alt="UAE" class="pt-4 img-fluid" width="100%" height="100%">
-                <h4 class="pt-4">Dubai, UAE</h4>
+                <h3 class="pt-4">Dubai, UAE</h3>
                 <p class="pt-3">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
                 <a href="https://maps.app.goo.gl/faJuH36XexzowGta7" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
@@ -115,7 +115,7 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl">
                 <img src="{{asset('images/locations/pakistan.webp')}}" alt="Pakistan" class="pt-4 img-fluid" width="100%" height="100%">
-                <h4 class="pt-4">Karachi, PAK</h4>
+                <h3 class="pt-4">Karachi, PAK</h3>
                 <p class="pt-3">Suite # 309, Tariq Centre, Tariq Rd, Karachi, PAK</p>
                 <a href="https://maps.app.goo.gl/ZT38EBPEhifKzRaN9" target="blank" class="btn-outline mt-3">View on Map
                     <i class="fas fa-chevron-right fa-icon"></i>
@@ -138,7 +138,7 @@
                         <a href="tel:+13237989803"><span><i class="fa-solid fa-mobile pe-2"></i></span> +1 (323) 798-9803</a>
                     </div>
                     <div class="fttlnks flexend mt-3">
-                        <h5>Follow Us</h5>
+                        <h3>Follow Us</h3>
                         <div class="ff-social-icons mt30">
                             <a href="https://www.facebook.com/appsnation.co" target="blank">
                                 <i class="fa-brands fa-facebook"></i>
@@ -159,18 +159,18 @@
             <div class="col-lg-8 col-sm-12">
                 <div class="row fttlnks">
                     <div class="col-12 col-sm-4 pt40">
-                        <h5>Our Address</h5>
-                        <h6 class="mt20 mb-0">CA, USA</h6>
+                        <h3>Our Address</h3>
+                        <h4 class="mt20 mb-0">CA, USA</h4>
                         <p>3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
-                        <h6 class="mt20 mb-0">Montana, USA</h6>
+                        <h4 class="mt20 mb-0">Montana, USA</h4>
                         <p>1001 S Main St, Kalispell, MT 59901, USA</p>
-                        <h6 class="mt20 mb-0">Saudi Arabia</h6>
+                        <h4 class="mt20 mb-0">Saudi Arabia</h4>
                         <p>Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
                         <!-- <h4 class="mt20 mb-0">Pakistan</h4>
                         <p>Plot # 115-B, P.E.C.H.S Block 2, 75400, Karachi, Pakistan</p> -->
                     </div>
                     <div class="col-12 col-sm-4 pt40">
-                        <h5>Useful Link</h5>
+                        <h3>Useful Link</h3>
                         <ul class="footer-address-list link-hover">
                             <li><a href="{{url('/')}}">Home</a></li>
                             <li><a href="{{url('/about-us')}}">About Us</a></li>
@@ -186,7 +186,7 @@
                         </ul>
                     </div>
                     <div class="col-12 col-sm-4 pt40">
-                        <h5>Services</h5>
+                        <h3>Services</h3>
                         <ul class="footer-address-list link-hover">
                             <li><a href="{{url('/android-app-development')}}">Android App Development</a></li>
                             <li><a href="{{url('/ios-app-development')}}">iOS App Development</a></li>
@@ -273,7 +273,7 @@
         <div class="modal-content">
             <!-- Modal Header -->
             <div class="modal-header">
-                <h4 class="modal-title">Get A Quote</h4>
+                <h3 class="modal-title">Get A Quote</h3>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <!-- Modal body -->

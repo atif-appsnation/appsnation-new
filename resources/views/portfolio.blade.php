@@ -63,7 +63,7 @@
 								</div>
 								<div class="item-info-div shdo">
 									<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
-									<p>iOs, Android</p>
+									<p>{!!$items['type']!!}</p>
 								</div>
 							</div>
 							<!-- <div class="pbwide shadow bg-gradient1">

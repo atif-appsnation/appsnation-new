@@ -819,7 +819,7 @@ class HomeController extends Controller
             $portfolio = Portfolio::where('type', request('a'))->orderBy('lft', 'asc')->paginate(3)->appends('a', request('a'));
         } else {
 
-            $portfolio = Portfolio::orderBy('lft', 'asc')->paginate(3);
+            $portfolio = Portfolio::orderBy('lft', 'asc')->paginate(6);
         }
         return view('portfolio', ['portfolio' => $portfolio, 'metabank' => $metabank, 'metabank2' => $metabank2, 'metatitle' => $metatitle, 'metatag' => $metatag,]);
     }
@@ -3214,7 +3214,7 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'woodLandApp')->get();
 
         return view(
-            'boujeebeachin',
+            'woodland',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,

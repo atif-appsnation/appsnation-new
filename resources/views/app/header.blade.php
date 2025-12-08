@@ -235,19 +235,19 @@
 									<div class="container">
 										<div class="row">
 											<div class="col-md-3 megamenu">
-												<h5 class="megamenu-heading">About Us</h5>
+												<h2 class="megamenu-heading">About Us</h2>
 												<div class="menu-item-descriptions">A full-cycle software and mobile app development company with a world-class team of innovators.</div>
 												<div class="row mt-3">
 													<div class="col-md-6">
 														<div class="companydetailmenu">
-															<h4>8+</h4>
-															<h5>Years</h5>
+															<h3>8+</h3>
+															<h4>Years</h4>
 														</div>
 													</div>
 													<div class="col-md-6">
 														<div class="companydetailmenu">
-															<h4>200+</h4>
-															<h5>Employees</h5>
+															<h3>200+</h3>
+															<h4>Employees</h4>
 														</div>
 													</div>
 												</div>

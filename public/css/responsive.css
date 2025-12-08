@@ -5139,3 +5139,183 @@
         font-size: 24px;
     }
 }
+
+@media (min-width: 1600px) {
+    
+    .wood-land-hero-img img {
+        width: 70%;
+        padding-left: 0;
+        margin: 20px auto 0;
+        display: block;
+    }
+}
+
+@media (max-width: 1399px) {
+
+    /* Client Overview */
+    .client-wood-land-wrapper {
+        background-color: #F8F8F8;
+        border-radius: 20px;
+        padding: 20px;
+    }
+
+    .wood-land-client-overview h2,
+    .wood-land-client-overview h6 {
+        padding-top: 10px;
+    }
+
+    .wood-land-client-overview h2 {
+        color: black;
+    }
+
+    .wood-land-client-overview p {
+        color: #000;
+    }
+
+    .wood-land-client-overview .left-border-clint-overview {
+        padding-left: 10px;
+        border-left: 2px solid #67FFBB;
+    }
+
+    /* Development Challenges */
+    .wood-land-development-challenges {
+        background: url("../images/case-studies/wood-land-app/development-challange-background-img.webp") center/cover no-repeat;
+        border-radius: 30px;
+        padding: 40px 25px;
+    }
+
+    .development-challenges-left {
+        border-left: 2px solid #67FFBB;
+        padding-left: 15px;
+    }
+
+    .development-challenges-left h2,
+    .development-challenges-left p {
+        color: #fff;
+    }
+
+    .wood-land-development-challenges .info-card {
+        height: 240px;
+        margin: 10px 0;
+        background: rgba(255, 255, 255, 0.75);
+        border-radius: 12px;
+        padding: 20px;
+        transition: all 0.3s ease;
+    }
+
+    .wood-land-development-challenges .info-card:hover {
+        background: rgba(255, 255, 255, 0.95);
+        transform: translateY(-5px);
+    }
+
+    .wood-land-development-challenges .info-card .card-number-circle {
+        border: 4px solid #67FFBB;
+        color: #000;
+        width: 45px;
+        height: 45px;
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+    .wood-land-development-challenges .info-card p {
+        color: #000;
+        font-size: 12px;
+        line-height: 21px;
+    }
+}
+
+@media (max-width: 992px) {
+
+    .wood-land-app {
+        margin: auto;
+        text-align: center;
+        background-position: center;
+    }
+
+    .bread-titlev2 {
+        margin: 0 auto;
+    }
+
+    .wood-land-button {
+        width: 70%;
+        
+    }
+
+    .wood-land-hero-img img {
+        width: 80%;
+        padding-left: 0;
+        margin: 20px auto 0;
+        display: block;
+    }
+    /* development-challenges section */
+    .development-challenges-left{
+        border-left: none;
+    }
+    .development-challenges-left h2, .development-challenges-left p{
+        padding-top: 22px;
+    }
+    .wood-land-designs .wood-land-central-line{
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .wood-land-app h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .wood-land-button {
+        width: 100%;
+        padding: 12px 20px;
+    }
+
+    .wood-land-hero-img img {
+        width: 90%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .wood-land-project-goals .info-card {
+        padding: 18px 20px;
+    }
+
+    .wood-land-project-goals .info-card h5 {
+        font-size: 16px;
+    }
+
+    .wood-land-project-goals .info-card p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 576px) {
+    .goals-img {
+        max-height: 250px;
+    }
+
+    .goals-cards {
+        gap: 18px;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .wood-land-app h1 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+
+    .wood-land-button {
+        font-size: 10px;
+    }
+
+    .wood-land-hero-img img {
+        width: 90%;
+    }
+}

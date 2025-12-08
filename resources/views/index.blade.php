@@ -1602,25 +1602,25 @@
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
 					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
-					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+					<h3 class="pt-3">Google Developer<br>Certified Agency</h3>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
 					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
-					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+					<h3 class="pt-3">Adobe Solution<br>Partner Program</h3>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
 					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
-					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+					<h3 class="pt-3">Microsoft Certified<br>Consulting Partner</h3>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
 					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
-					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
+					<h3 class="pt-3">Amazon Web<br>Service Partner</h3>
 				</div>
 			</div>
 		</div>
@@ -1655,7 +1655,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1669,7 +1669,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1685,7 +1685,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1698,7 +1698,7 @@
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
 									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
@@ -1759,7 +1759,6 @@
                 </div>
             </div>
         </div>
-		
 		
         <div class="testimonial-card-a owl-carousel owl-theme owl-theme">
             <!-- <div class="row mt-3 px-3"> -->
@@ -1919,9 +1918,9 @@
 						</span>
 					</div>
 					<div class="card-body">
-						<h4 class="mb-0">
+						<h3 class="mb-0">
 							<a href="{{ $post['guid'] }}">{{$post['post_title']}}</a>
-						</h4>
+						</h3>
 					</div>
 				</div>
 			</div>

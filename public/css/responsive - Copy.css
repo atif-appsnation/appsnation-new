@@ -1,3 +1,5 @@
+/**width 1920 to 992**/
+
 @media screen and (max-width:1920px) and (min-width:992px) {
 	.dropdown:hover>.dropdown-menu {
 		display: block;
@@ -13,6 +15,7 @@
 }
 
 @media only screen and (max-width: 1700px) {
+    /**start update 1.9**/
 	html .hero-card-web.mobile-app- {
 		height: auto;
 	}
@@ -25,7 +28,11 @@
     .hero-digital-agency-1 {
 		height: 100vh !important;
 	}
+    /**end update 1.9**/
 }
+
+
+/**width 1200**/
 
 /* @media (min-width:1200px) {
 	.container,
@@ -36,6 +43,9 @@
 		max-width: 1200px;
 	}
 } */
+
+
+/**width 1370**/
 
 @media only screen and (max-width:1370px) {
 	.navbar-light .navbar-nav .nav-link {
@@ -75,7 +85,7 @@
 		padding-bottom: 100px;
 		height: 750px;
 	}
-
+    /**start update 1.8**/
 	.hero-service-cards {
 		margin-top: 50px;
 	}
@@ -135,7 +145,8 @@
 		min-height: 780px;
 		height: auto;
 	}
-
+    /**end update 1.8**/
+    /**start update 2.0**/
 	.digitalagency20 {
 		height: auto;
 		padding-top: 120px;
@@ -165,8 +176,12 @@
 		font-size: 16px;
 		line-height: 26px;
 	}
+    /**end update 2.0**/
+    ;
 }
 
+
+/**width 1150**/
 
 @media only screen and (max-width:1320px) {
 	.mouse-cursor {
@@ -214,7 +229,11 @@
 	}
 }
 
+
+/**width 911**/
+
 @media only screen and (max-width:991px) {
+    /**start update 2.0**/
 	.contact-block-btm {
 		padding: 30px 30px;
 		margin-left: 0;
@@ -335,7 +354,7 @@
 		font-size: 42px;
 		line-height: 52px;
 	}
-
+    /**end update 2.0**/
 	.pvcpolcy p {
 		text-align: left;
 	}
@@ -934,7 +953,10 @@
 }
 
 
+/**width 767**/
+
 @media only screen and (max-width:767px) {
+    /**start update 2.0**/
 	h1 {
 		font-size: 38px;
 		line-height: 48px;
@@ -987,7 +1009,8 @@
 		font-size: 35px;
 		line-height: 45px;
 	}
-
+    /**end update 2..**/
+    /**start update 1.7**/
 	.rpb-cart-table table tr td.rpbrs-titl::before,
     .rpb-cart-table table tr td.rpbrs-titl::before {
 		content: attr(data-title) ":";
@@ -1029,7 +1052,7 @@
 		border: 6px solid rgb(255 255 255 / 50%);
 		border-radius: 12px;
 	}
-
+    /**end update 1.7**/
 	.psforgt {
 		margin-top: 10px;
 		display: block;
@@ -1298,6 +1321,8 @@
 }
 
 
+/**width 576**/
+
 @media (min-width:576px) {
 	.modal-dialog {
 		max-width: 800px;
@@ -1305,6 +1330,8 @@
 	}
 }
 
+
+/**width 580**/
 
 @media (max-width:580px) {
 	.ftr-brand-pp .btn-main {
@@ -1318,7 +1345,11 @@
 	}
 }
 
+
+/**width 520**/
+
 @media only screen and (max-width:520px) {
+    /**start update 2.0**/
 	.row-forfullcard {
 		grid-template-columns: repeat(1, 1fr);
 	}
@@ -1354,7 +1385,8 @@
 		font-size: 22px;
 		margin: 0px 15px 0 0px;
 	}
-
+    /**end update 2.0**/
+    /**start update 1.7**/
 	.btn-grp a+a {
 		margin-top: 15px;
 	}
@@ -1370,7 +1402,7 @@
 		text-indent: 1px;
 		line-height: 16px;
 	}
-
+    /**end update 1.7**/
 	.service-point-2 li {
 		float: none;
 		width: 100%;
@@ -1484,6 +1516,8 @@
 }
 
 
+/**width 350**/
+
 @media only screen and (max-width:350px) {
 	.header-heading h1 {
 		font-size: 30px;
@@ -1517,6 +1551,7 @@
 		margin: 10px 0 0;
 	}
 }
+
 
 /* Custom */
 
@@ -5283,101 +5318,4 @@
     .wood-land-hero-img img {
         width: 90%;
     }
-	
-	.bread-titlev2 .logo {
-        display: block;
-        margin: 0 auto;
-        text-align: center;
-    }
-
-    .neuro-knight-app h1 {
-        font-size: 22px;
-        line-height: 23px;
-        text-align: center;
-    }
-
-    .neuro-knight-app p {
-        font-size: 16px;
-        line-height: 23px;
-        text-align: center;
-    }
-
-	.neuro-night-hero-img img {
-        width: 90%;
-    }
-}
-
-@media (min-width: 1600px) {
-    
-    .neuro-night-hero-img img {
-        width: 70%;
-        padding-left: 0;
-        margin: 20px auto 0;
-        display: block;
-    }
-}
- 
-@media (max-width: 992px) {
-
-    .neuro-knight-app{
-        margin: auto;
-        text-align: center;
-        background-position: center;
-    }
-
- 
-    .neuro-night-hero-img img {
-        width: 80%;
-        padding-left: 0;
-        margin: 20px auto 0;
-        display: block;
-    }
-
-    .neuro-night-designs .neuro-night-central-line {
-        display: none;
-    }
-
-    .neuro-knight-right {
-        text-align: center;
-        margin-top: 30px;
-    }
-
-    .neuro-knight-right .common-heading {
-        text-align: center;
-    }
-
-    .neuro-knight-right img {
-        margin: 0 auto;
-        display: block;
-    }  
-
-    .col-12.d-flex {
-        flex-direction: column;
-        gap: 20px;
-    }
-
-    .tech-img-box {
-        width: 100%;
-        justify-content: flex-start;
-        padding: 15px 10px;
-    }
-}
-
-@media (max-width: 768px) {
-
-    .neuro-knight-app h1 {
-        font-size: 28px;
-        line-height: 36px;
-    }
-
-    .neuro-knight-app p {
-        font-size: 15px;
-        line-height: 26px;
-    }
-
-    .neuro-night-hero-img img {
-        width: 90%;
-        margin: 0 auto;
-        display: block;
-    }  
 }

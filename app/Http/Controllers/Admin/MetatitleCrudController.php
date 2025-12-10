@@ -187,7 +187,8 @@ class MetatitleCrudController extends CrudController
                 'costcalculator' => 'costcalculator',
                 'royalRideApp' => 'royalRideApp',
                 'boujeeBeachinApp' => 'boujeeBeachinApp',
-                'woodLandApp' => 'woodLandApp'
+                'woodLandApp' => 'woodLandApp',
+                'neuroKnightsApp' => 'neuroKnightsApp'
             ],
 
             'allows_null' => false,

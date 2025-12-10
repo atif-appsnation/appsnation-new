@@ -3223,4 +3223,20 @@ class HomeController extends Controller
         );
     }
 
+    public function neuroKnightsApp()
+    {
+
+        $metatag = Metatag::where('slug', 'neuroKnightsApp')->get();
+        $metatitle = Metatitle::where('slug', 'neuroKnightsApp')->get();
+
+        return view(
+            'neuroknights',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+                // 'data' => $data,
+            ]
+        );
+    }
+
 }

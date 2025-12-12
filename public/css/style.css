@@ -5380,11 +5380,11 @@ h3 a {
 
 .item-info-div {
     background: #fff;
-    padding: 15px;
+    padding: 20px 30px;
     position: relative;
     top: -40px;
     width: 95%;
-    border-radius: 40px 8px 8px 8px;
+    border-radius: 40px 8px 40px 8px;
     margin: 0 auto;
     text-align: center;
 }
@@ -10699,12 +10699,9 @@ button:not(:disabled) {
 }
 
 .content-list li {
-    margin-bottom: 15px;
-    margin-right: 15px;
-    padding: 20px;
-    background-color: #eee;
-    color: var(--black-color);
-    border-radius: 50px;
+    list-style: inside;
+    margin-left: 15px;
+    color: var(--white-color);
     width: auto;
 }
 

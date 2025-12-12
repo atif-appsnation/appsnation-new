@@ -58,12 +58,13 @@
 							<div class="isotope_item up-hor">
 								<div class="item-image">
 									<a href="{{url('/').'/'.$items['comments']}}">
-										<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid w-50 d-block mx-auto my-3">
+										<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid">
 									</a>
 								</div>
 								<div class="item-info-div shdo">
 									<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
-									<p>{!!$items['type']!!}</p>
+									<h5 class="mt10">{!!$items['type']!!}</h5>
+									<p class="mt10">{{$items['content']}}</p>
 								</div>
 							</div>
 							<!-- <div class="pbwide shadow bg-gradient1">

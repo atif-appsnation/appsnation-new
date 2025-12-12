@@ -1650,17 +1650,17 @@
 					
 					 @if($item['heading']=="Top Website design Agencies")
 					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
-									<p class="text-center pt-2">{{$item['content']}}</p>
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h3 class="text-center pt-3">{{$item['heading']}}</h3>
+										<p class="text-center pt-2">{{$item['content']}}</p>
+									</div>
 								</div>
 							</div>
 						</div>
-					 </div>
 					 </a>
 
 					 @else

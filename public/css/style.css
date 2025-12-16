@@ -18431,7 +18431,7 @@ width: 110px;
  .Objectives-section{
     margin-top: 22px;
  }
-.info-card {
+.Objectives-section .info-card {
             background-color: #fff;
             border-radius: 15px;
             padding: 25px;
@@ -18440,7 +18440,7 @@ width: 110px;
             transition: all 0.3s ease;
         }
 
-        .info-card:hover {
+        .Objectives-section .info-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
         }

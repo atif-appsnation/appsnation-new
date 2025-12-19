@@ -76,7 +76,7 @@ class CostCalculatorController extends Controller
             // Send email to admin
             // Mail::to(config('talha.arif@appsnation.co', 'talha.arif@appsnation.co'))->send(new \Amail.admin_emailtails));
             // Send thank you email to user
-            Mail::to(['webdevappsnation@gmail.com', 'sales@appsnation.co'])
+            Mail::to('sales@appsnation.co')
                 ->send(new \App\Mail\CostCalculatorMail($details));
 
             return redirect('/')->with('success', 'Thank you for your submission! We will contact you soon.');

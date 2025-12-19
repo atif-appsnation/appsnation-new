@@ -861,7 +861,7 @@ class HomeController extends Controller
         ];
 
         // Send to admin(s)
-        Mail::to("webdevappsnation@gmail.com")->send(new \App\Mail\ReceivedMail($details));
+        Mail::to("sales@appsnation.co")->send(new \App\Mail\ReceivedMail($details));
     
         // Send confirmation to user
         // Mail::to($field['email'])->send(new SendMail($details));
@@ -907,7 +907,7 @@ class HomeController extends Controller
         // Mail::to("waqar@futurealiti.com")->send(new ReceivedMail($details));
         // Mail::to("info@appsnation.co")->send(new ReceivedMail($details));
         // Mail::to("sales@appsnation.co")->send(new ReceivedMail($details));
-        Mail::to("webdevappsnation@gmail.com")->send(new \App\Mail\ReceivedMail($details));
+        Mail::to("sales@appsnation.co")->send(new \App\Mail\ReceivedMail($details));
 
       
         // Mail::to($field['email'])->send(new SendMail($details));
@@ -961,7 +961,7 @@ class HomeController extends Controller
         // Mail::to("waqar@futurealiti.com")->send(new ReceivedMail($details));
         // Mail::to("info@appsnation.co")->send(new ReceivedMail($details));
         // Mail::to("sales@appsnation.co")->send(new ReceivedMail($details));
-        Mail::to("webdevappsnation@gmail.com")->send(new \App\Mail\ReceivedMail($details));
+        Mail::to("sales@appsnation.co")->send(new \App\Mail\ReceivedMail($details));
 
 
         return Redirect::to('/thank-you')->with('success', 'Item created successfully!');

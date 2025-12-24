@@ -75,12 +75,10 @@
 										<div class="item-info-div  ">
 											<div class="left">
 												<h3>
-													<a href="{{url('/').'/'.$items['comments']}}">Neuro
-														Knights</a>
+													<a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a>
 												</h3>
-												<h5 class="mt10">Mobile App</h5>
-												<p class="mt10">A case study of Neuro Knights showcasing mobile application
-													design and development.</p>
+												<h5 class="mt10">{!!$items['type']!!}</h5>
+												<p class="mt10">{{$items['content']}}</p>
 											</div>
 										</div>
 									</div>

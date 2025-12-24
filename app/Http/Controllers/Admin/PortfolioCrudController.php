@@ -87,6 +87,20 @@ class PortfolioCrudController extends CrudController
             ],
             'both'
         );
+         CRUD::addColumn(
+            [   // Upload
+                'name'      => 'back_image',
+                'label'     => 'Image',
+                'type'      => 'image',
+                // 'upload'    => true,
+                // 'disk'      => 'uploads', // if you store files in the /public folder, please omit this; if you store them in /storage or S3, please specify it;
+                // optional:
+                // 'temporary' => 10 // if using a service, such as S3, that requires you to make temporary URLs this will make a URL that is valid for the number of minutes specified
+
+                'prefix' => 'uploads/',
+            ],
+            'both'
+        );
         CRUD::column('title');
         CRUD::column('content');
 
@@ -152,6 +166,19 @@ class PortfolioCrudController extends CrudController
             [   // Upload
                 'name'      => 'image',
                 'label'     => 'Image',
+                'type'      => 'upload',
+                'upload'    => true,
+                'disk'      => 'uploads', // if you store files in the /public folder, please omit this; if you store them in /storage or S3, please specify it;
+                // 'prefix'    => 'uploads/',
+                // optional:
+                // 'temporary' => 10 // if using a service, such as S3, that requires you to make temporary URLs this will make a URL that is valid for the number of minutes specified
+            ],
+            'both'
+        );
+         $this->crud->addField(
+            [   // Upload
+                'name'      => 'back_image',
+                'label'     => 'Back Image',
                 'type'      => 'upload',
                 'upload'    => true,
                 'disk'      => 'uploads', // if you store files in the /public folder, please omit this; if you store them in /storage or S3, please specify it;

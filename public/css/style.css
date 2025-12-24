@@ -5378,7 +5378,7 @@ h3 a {
     background: #4302ae;
 }
 
-.item-info-div {
+/* .item-info-div {
     background: #fff;
     padding: 20px 30px;
     position: relative;
@@ -5387,7 +5387,7 @@ h3 a {
     border-radius: 40px 8px 40px 8px;
     margin: 0 auto;
     text-align: center;
-}
+} */
 
 .item-info-div h4 {
     margin: 0;
@@ -19137,4 +19137,62 @@ width: 110px;
         padding-left: 50px;
     }
 }
+.card-inner {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  height: 450px; /* same as image height */
+  max-height: 500px;
+  transform-style: preserve-3d; /* important for 3D flip */
+  transition: transform 0.9s;
+}
+/* Flip on hover */
+.isotope_item.up-hor:hover .card-inner {
+  transform: rotateY(180deg);
+}
+/* Front and back images stay as is */
+.item-image-front,
+.item-image-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  backface-visibility: hidden; /* hide the back when rotated */
+  border-radius: 10px;
+  overflow: hidden;
+}
+.item-image-front img,
+.item-image-back img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;   /* :fire: main cheez */
+  display: block;
+  padding-left: 40px;
+}
+.item-image-back {
+  transform: rotateY(180deg); /* back is initially flipped */
+}
 
+.left{
+    border-left: 1px solid #000;
+    padding-left: 20px;
+}
+.item-info-div {
+    padding: 25px;
+    position: relative;
+    top: 15px;
+    width: 95%;
+    margin: 0 auto;
+    text-align: start;
+        font-family: Poppins, sans-serif;
+}
+.item-info-div a,
+.item-info-div h5 {
+    margin: 0;
+    color: #314252;
+}
+.item-info-div p {
+      color: #314252;
+   font-weight: normal;
+}

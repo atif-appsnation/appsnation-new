@@ -68,6 +68,24 @@ class Portfolio extends Model
         $this->uploadFileToDisk($value, $attribute_name, $disk, $destination_path);
 
     }
+     public function setBackImageAttribute($value)
+{
+    $attribute_name = "back_image";
+    $disk = "uploads";
+    $destination_path = "/portfolio/back-images";
+
+    if ($value == null) {
+        // delete old image from disk
+        \Storage::disk($disk)->delete($this->{$attribute_name});
+
+        // set null in database
+        $this->attributes[$attribute_name] = null;
+        return;
+    }
+
+    // upload new image
+    $this->uploadFileToDisk($value, $attribute_name, $disk, $destination_path);
+}
     public function setIconAttribute($value)
     {
         $attribute_name = "icon";

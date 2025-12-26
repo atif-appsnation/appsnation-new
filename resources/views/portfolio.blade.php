@@ -14,8 +14,7 @@
 				<div class="col-lg-6">
 					<div class="bread-titlev2">
 						<h1 class="text-white">Portfolio</h1>
-						<p class="banner-para mt20 w-100 pt-3">We create IoT Apps and help you connect with people, systems,
-							and other applications to collect or share data.</p>
+						<p class="banner-para mt20 w-100 pt-3">Discover a collection of high-performance applications and digital solutions built using modern technologies to solve real-world business challenges.</p>
 						<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20">Discuss Your Project With
 							Us
 							<i class="fas fa-chevron-right fa-icon"></i>

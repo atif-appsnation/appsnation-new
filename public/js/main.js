@@ -1,4 +1,4 @@
-(function($) {
+(function ($) {
     "use strict";
 
     //wow animation
@@ -33,7 +33,7 @@
             $(".navfix").removeClass("sticky");
         }
     }
-    $(function() {
+    $(function () {
         $(window).scroll(updateScroll);
         updateScroll();
     });
@@ -41,10 +41,10 @@
     //Header mega menu
     var $nav = $('li.sbmenu');
     $nav.hover(
-        function() {
+        function () {
             $(this).addClass('hover');
         },
-        function() {
+        function () {
             $(this).removeClass('hover');
         }
     );
@@ -55,6 +55,54 @@
         mainClass: 'mfp-fade',
         removalDelay: 160,
     });
+
+// home counter
+
+document.addEventListener("DOMContentLoaded", () => {
+  const section = document.querySelector("#mycounterSection");
+  if (!section) return;
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        animateCounter("count1", 10, "+");
+        animateCounter("count2", 900, "+");
+        animateCounter("count3", 10, "k");
+        animateCounter("count4", 67);
+      }
+    });
+  }, {
+    threshold: 0.6
+  });
+
+  observer.observe(section);
+});
+
+function animateCounter(id, target, suffix = "") {
+  const element = document.getElementById(id);
+  if (!element) return;
+
+ 
+  let startTime = null;
+  const duration = 1500;
+
+  function updateCounter(timestamp) {
+    if (!startTime) startTime = timestamp;
+    const progress = Math.min((timestamp - startTime) / duration, 1);
+    const value = Math.floor(progress * target);
+
+    element.innerText = value + suffix;
+
+    if (progress < 1) {
+      requestAnimationFrame(updateCounter);
+    } else {
+      element.innerText = target + suffix;
+    }
+  }
+
+  requestAnimationFrame(updateCounter);
+}
+// home counter
 
     // Tooltips
     // $('[data-bs-toggle="tooltip"]').tooltip();
@@ -92,42 +140,118 @@
             },
         }
     });
+    // services cards
+    var owl = $('.services-card-rows');
+    owl.owlCarousel({
+        items: 9,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 45,
+        nav: true,
+        dots: false,
+        autoplayTimeout: 9000,
+        autoplayHoverPause: true,
+        smartSpeed: 6000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1 ,
+                dots: true,
+                  nav: false,
+            },
+            768: {
+                items: 2,
+                 dots: true,
+                  nav: false,
+            },
+            1200: {
+                items: 3
+            },
+            1400: {
+                items: 3
+            },
+            1600: {
+                items: 3
+            },
+        }
+    });
 
     //Owl-Carousel - Home testimonial
     var owl = $('.testimonial-card-a');
     owl.owlCarousel({
         items: 4,
-		loop: true,
-		autoplay: true,
-		centre: true,
-		margin: 15,
-		nav: false,
-		dots: true,
-		autoplayTimeout: 3000,
-		autoplayHoverPause: true,
-		smartSpeed: 2000,
-		responsiveClass: true,
-		rewind: true,
-		responsive: {
-		    0: {
-			    items: 1
-		    },
-		    520: {
-			    items: 1
-		    },
-		    768: {
-		        items: 2
-		    },
-		    1200: {
-			    items: 2
-		    },
-		    1400: {
-			    items: 2
-		    },
-		    1600: {
-			    items: 2
-		    },
-		}
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 15,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1
+            },
+            768: {
+                items: 1
+            },
+            1200: {
+                items: 1
+            },
+            1400: {
+                items: 1
+            },
+            1600: {
+                items: 1
+            },
+        }
+    });
+    //Owl-Carousel - Home banner
+    var owl = $('.banner-slider');
+    owl.owlCarousel({
+        items: 4,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 15,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1
+            },
+            768: {
+                items: 1
+            },
+            1200: {
+                items: 1
+            },
+            1400: {
+                items: 1
+            },
+            1600: {
+                items: 1
+            },
+        }
     });
 
     //Owl-Carousel - Reviews testimonial
@@ -140,7 +264,7 @@
         autoplayHoverPause: true,
         smartSpeed: 500,
         autoHeight: true,
-        margin:10,
+        margin: 10,
         responsive: {
             0: {
                 items: 1
@@ -467,146 +591,146 @@
     });
 
     //Owl-Carousel - awards-slider
-	$('.awards-slider').owlCarousel({
-		items: 4,
-		loop: true,
-		autoplay: true,
-		centre: true,
-		margin: 15,
-		nav: false,
-		dots: true,
-		autoplayTimeout: 3000,
-		autoplayHoverPause: true,
-		smartSpeed: 2000,
-		responsiveClass: true,
-		rewind: true,
-		responsive: {
-		    0: {
-			    items: 1
-		    },
-		    520: {
-			    items: 1
-		    },
-		    768: {
-		        items: 2
-		    },
-		    1200: {
-			    items: 3
-		    },
-		    1400: {
-			    items: 4
-		    },
-		    1600: {
-			    items: 4
-		    },
-		}
-	});
+  $('.awards-slider').owlCarousel({
+        items: 4,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 25,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 2
+            },
+            768: {
+                items: 2
+            },
+            1200: {
+                items: 3
+            },
+            1400: {
+                items: 4
+            },
+            1600: {
+                items: 4
+            },
+        }
+    });
 
-    //Owl-Carousel - awards-slider
-	$('.pilot-slider').owlCarousel({
-		items: 4,
-		loop: true,
-		autoplay: true,
-		centre: true,
-		margin: 15,
-		nav: false,
-		dots: true,
-		autoplayTimeout: 3000,
-		autoplayHoverPause: true,
-		smartSpeed: 2000,
-		responsiveClass: true,
-		rewind: true,
-		responsive: {
-		    0: {
-			    items: 1
-		    },
-		    520: {
-			    items: 1
-		    },
-		    768: {
-		        items: 2
-		    },
-		    1200: {
-			    items: 4
-		    },
-		    1400: {
-			    items: 4
-		    },
-		    1600: {
-			    items: 4
-		    },
-		}
-	});
+    //Owl-Carousel - pilot-slider
+    $('.pilot-slider').owlCarousel({
+        items: 4,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 15,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            1200: {
+                items: 4
+            },
+            1400: {
+                items: 4
+            },
+            1600: {
+                items: 4
+            },
+        }
+    });
 
     $('.testimonial-slider').owlCarousel({
-		items: 4,
-		loop: true,
-		autoplay: true,
-		centre: true,
-		margin: 15,
-		nav: false,
-		dots: true,
-		autoplayTimeout: 3000,
-		autoplayHoverPause: true,
-		smartSpeed: 2000,
-		responsiveClass: true,
-		rewind: true,
-		responsive: {
-		    0: {
-			    items: 1
-		    },
-		    520: {
-			    items: 1
-		    },
-		    768: {
-		        items: 2
-		    },
-		    1200: {
-			    items: 4
-		    },
-		    1400: {
-			    items: 4
-		    },
-		    1600: {
-			    items: 4
-		    },
-		}
-	});
-    
+        items: 4,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 15,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            1200: {
+                items: 4
+            },
+            1400: {
+                items: 4
+            },
+            1600: {
+                items: 4
+            },
+        }
+    });
+
     $('.services-carousel').owlCarousel({
-		items: 1,
-		loop: true,
-		autoplay: true,
-		centre: true,
-		margin: 15,
-		nav: false,
-		dots: true,
-		autoplayTimeout: 3000,
-		autoplayHoverPause: true,
-		smartSpeed: 2000,
-		responsiveClass: true,
-		rewind: true,
-		responsive: {
-		    0: {
-			    items: 1
-		    },
-		    520: {
-			    items: 1
-		    },
-		    768: {
-		        items: 2
-		    },
-		    1200: {
-			    items: 3
-		    },
-		    1400: {
-			    items: 3
-		    },
-		    1600: {
-			    items: 3
-		    },
-		}
-	});
+        items: 1,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 15,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            1200: {
+                items: 3
+            },
+            1400: {
+                items: 3
+            },
+            1600: {
+                items: 3
+            },
+        }
+    });
 
     $('.servies-slider').owlCarousel({
         items: 4,
@@ -712,35 +836,35 @@
         }
     });
 
-    $(function(){
+    $(function () {
         var owl = $('.solutions-carousel');
         owl.owlCarousel({
-        autoplay: true,
-        autoplayTimeout: 5000,
-        dots:true,
-        nav:true,
-        navText: ["<i class='fa fa-long-arrow-left'></i>", "<i class='fa fa-long-arrow-right'></i>"],
-        items:1,
-        animateOut: 'fadeOut',
-        mouseDrag: false,
-        loop: false,
-        onInitialized  : counter, //When the plugin has initialized.
-        onTranslated : counter //When the translation of the stage has finished.
+            autoplay: true,
+            autoplayTimeout: 5000,
+            dots: true,
+            nav: true,
+            navText: ["<i class='fa fa-long-arrow-left'></i>", "<i class='fa fa-long-arrow-right'></i>"],
+            items: 1,
+            animateOut: 'fadeOut',
+            mouseDrag: false,
+            loop: false,
+            onInitialized: counter, //When the plugin has initialized.
+            onTranslated: counter //When the translation of the stage has finished.
         });
-    
+
         function counter(event) {
-            var element   = event.target;         // DOM element, in this example .owl-carousel
-                var items     = event.item.count;     // Number of items
-                var item      = event.item.index + 1;     // Position of the current item
-            
+            var element = event.target;         // DOM element, in this example .owl-carousel
+            var items = event.item.count;     // Number of items
+            var item = event.item.index + 1;     // Position of the current item
+
             // it loop is true then reset counter from 1
-            if(item > items) {
+            if (item > items) {
                 item = item - items
             }
             // $('#counter').html("item "+item+" of "+items)
             $('#counter').html("<span>" + item + " </span> " + "<span>" + items + "</span>");
         }
-    });    
+    });
 
     //Counter Up	
     $(".counter").counterUp({
@@ -758,7 +882,7 @@
     });
 
     //Portfolio Filter		
-    $('.card-list').imagesLoaded(function() {
+    $('.card-list').imagesLoaded(function () {
         // init Isotope
         var $grid = $('.card-list').isotope({
             itemSelector: '.single-card-item',
@@ -769,7 +893,7 @@
             }
         });
         // filter items on button click
-        $('.filter-menu').on('click', 'li', function() {
+        $('.filter-menu').on('click', 'li', function () {
             var filterValue = $(this).attr('data-filter');
             $grid.isotope({
                 filter: filterValue
@@ -777,14 +901,14 @@
         });
     });
     //for menu active class
-    $('.filter-menu li').on('click', function(event) {
+    $('.filter-menu li').on('click', function (event) {
         $(this).siblings('.is-checked').removeClass('is-checked');
         $(this).addClass('is-checked');
         event.preventDefault();
     });
 
     // background image
-    $("[data-background]").each(function() {
+    $("[data-background]").each(function () {
         $(this).css("background-image", "url(" + $(this).attr("data-background") + ")")
     })
 
@@ -792,7 +916,7 @@
 })(jQuery);
 
 
-$(document).on('click', '#headingtab a', function(e) {
+$(document).on('click', '#headingtab a', function (e) {
     otherTabs = $(this).attr('data-bs-secondary').split(',');
     for (i = 0; i < otherTabs.length; i++) {
         nav = $('<ul class="nav d-none" id="tmpNav"></ul>');
@@ -807,17 +931,17 @@ var swiper = new Swiper(".services", {
     centeredSlides: true,
     slidesPerView: "auto",
     coverflowEffect: {
-      rotate: 0,
-      stretch: 0,
-      depth: 100,
-      modifier: 2,
-      slideShadows: true
+        rotate: 0,
+        stretch: 0,
+        depth: 100,
+        modifier: 2,
+        slideShadows: true
     },
     spaceBetween: 60,
     loop: true,
     pagination: {
-      el: ".swiper-pagination",
-      clickable: true
+        el: ".swiper-pagination",
+        clickable: true
     },
     autoplay: {
         delay: 3000,
@@ -825,12 +949,12 @@ var swiper = new Swiper(".services", {
     },
     breakpoints: {
         640: {
-          slidesPerView: 1.25,
-          spaceBetween: 20
+            slidesPerView: 1.25,
+            spaceBetween: 20
         },
         1024: {
-          slidesPerView: 2,
-          spaceBetween: 20
+            slidesPerView: 2,
+            spaceBetween: 20
         }
     }
 });
@@ -849,3 +973,28 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
+
+
+
+
+
+
+// demo
+
+function openTab(tabId, btn) {
+     
+    let tabs = document.getElementsByClassName("tabs");
+    for (let i = 0; i < tabs.length; i++) {
+      tabs[i].style.display = "none";
+    }
+ 
+    let buttons = document.getElementsByClassName("tabBtn");
+    for (let i = 0; i < buttons.length; i++) {
+      buttons[i].classList.remove("active");
+    }
+ 
+    document.getElementById(tabId).style.display = "block";
+    btn.classList.add("active");
+  }
+ 
+  document.getElementById("tab1").style.display = "block";

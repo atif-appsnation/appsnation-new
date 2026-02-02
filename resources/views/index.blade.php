@@ -1,30 +1,30 @@
 @extends('app.main')
 @section('content')
 @if(session('success'))
-    <!-- Success Modal -->
-    <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header border-0">
-            <!-- <h5 class="modal-title w-100 text-center" id="successModalLabel">Success</h5> -->
-          </div>
-          <div class="modal-body text-center">
-            <div class="alert alert-success mb-0" style="font-size: 1.1rem;">
-                {{ session('success') }}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var modal = new bootstrap.Modal(document.getElementById('successModal'));
-            modal.show();
-            setTimeout(function() {
-                modal.hide();
-            }, 3500); // 3.5 seconds
-        });
-    </script>
+<!-- Success Modal -->
+<div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-centered">
+		<div class="modal-content">
+			<div class="modal-header border-0">
+				<!-- <h5 class="modal-title w-100 text-center" id="successModalLabel">Success</h5> -->
+			</div>
+			<div class="modal-body text-center">
+				<div class="alert alert-success mb-0" style="font-size: 1.1rem;">
+					{{ session('success') }}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		var modal = new bootstrap.Modal(document.getElementById('successModal'));
+		modal.show();
+		setTimeout(function() {
+			modal.hide();
+		}, 3500); // 3.5 seconds
+	});
+</script>
 @endif
 <section class="hero-slider hero-style" id="hero-slider">
 	<video playsinline autoplay muted loop width="100%" height="100%">
@@ -48,8 +48,9 @@
 							<b>VR App</b>
 							<b>AR App</b>
 						</span>
-					Development Company</h1>
-					<p class="wow fadeIn">Our app developers are glad to state that they are always accessible to meet and discuss project requirements and progress.</p>
+						Development Company
+					</h1>
+					<p class="wow fadeIn">Our App Developers Are Glad To State That They Are Always Accessible To Meet And Discuss Project Requirements And Progress.</p>
 					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
@@ -60,47 +61,113 @@
 	</div>
 </section>
 
+
+
+
 <!-- Start Key Highlights -->
-<section class="key-highlights py-5">
-	<div class="container">
-		<div class="row justify-content-center">
+<section id="mycounterSection" class="key-highlights  my-5 ">
+	<div class="container ">
+		<!-- <div class="row justify-content-center">
 			<div class="col-12 fadeIn">
 				<div class="common-heading">
 					<div data-text="Achievements" class="light-bg-text bg-text text-center">
 						<h2 class="key-highlight text-center mt-5">Our Achievements</h2>
 					</div>
-					<h3 class="key-numbers text-center mt-5">Our work in numbers</h3>
+					<h3 class="key-numbers text-center mt-5">Our Work In Numbers</h3>
 				</div>
 			</div>
 			<div class="col-lg-8 wow fadeIn mt-3">
 				<p class="key-desc text-center">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success. We do not speak about our success, our work speaks about our success.</p>
 			</div>
-		</div>
+		</div> -->
+		<div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-4">
+				<div class="common-heading ptag fadeIn py-5">
+					<div data-text="Goals" class="light-bg-text bg-text">
+						<h2>Our <span>Progress </span> </h2>
+					</div>
+					<p>AppsNation delivers real results and real impact by transforming ideas into scalable digital products, driving growth, engagement, and measurable success for startups.</p>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-8">
 
-		<div class="row justify-content-center mt-5 wow fadeIn achievements-count">
-			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">8+</h2>
-				<p class="numbers-about">Years On The market</p>
-			</div>
-			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">900+</h2>
-				<p class="numbers-about">People On Board</p>
-			</div>
-			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">1k+</h2>
-				<p class="numbers-about">Projects Delivered</p>
-			</div>
-			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">67</h2>
-				<p class="numbers-about">Our Current NPS Score</p>
+
+				<div class="row justify-content-center   wow fadeIn achievements-count m-3">
+					<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+						<h2 id="count1" class="numbers-count">0+</h2>
+						<p class="numbers-about">Years On The market</p>
+					</div>
+					<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+						<h2 id="count2" class="numbers-count">0+</h2>
+						<p class="numbers-about">People On Board</p>
+					</div>
+					<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+						<h2 id="count3" class="numbers-count">0k</h2>
+						<p class="numbers-about">Projects Delivered</p>
+					</div>
+					<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+						<h2 id="count4" class="numbers-count">0</h2>
+						<p class="numbers-about">Our Current NPS Score</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 <!-- End Key Highlights -->
 
+<section class="banner-box-section p-100 text-white py-5">
+	<div class="h-100 container">
+		<div class="mb-4 row">
+			<div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-12">
+				<h2 style="color: rgb(49, 66, 82);">What's New at AppsNation</h2>
+			</div>
+		</div>
+		<div class="banner-slider owl-carousel owl-theme wow fadeIn">
+
+			<div class="banner-box-image" style="background-image: url(images/banner/boujee-beachin-banner.png); background-repeat: no-repeat; background-size: cover;">
+				<div class="h-100 align-items-center row">
+					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
+						<h2>Experience the World of <span>Boujee Beachin</span></h2>
+						<p>A stylish shopping experience designed to bring premium beach essentials right to your fingertips with ease and elegance. From discovering trending products to finding everything for your perfect beach day, Boujee Beachin is built to make every moment effortless and luxurious.</p>
+						<div class="banner-btn">
+							<a href="{{url('/case-studies/boujee-beachin-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="banner-box-image" style="background-image: url(images/banner/wood-land-banner.png); background-repeat: no-repeat; background-size: cover;">
+				<div class="h-100 align-items-center row">
+					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
+						<h2>Discover What <span> Wood Land </span>Can Do For You</h2>
+						<p>A smart digital solution designed to simplify your daily needs by combining innovation with seamless user experience. From managing tasks efficiently to accessing services faster, Wood Land is built to make your life easier and more productive.</p>
+						<div class="banner-btn">
+							<a href="{{url('/case-studies/wood-land-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="banner-box-image" style="background-image: url(images/banner/neuro-knight-banner.png); background-repeat: no-repeat; background-size: cover;">
+				<div class="h-100 align-items-center row">
+					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
+						<h2>Explore the World of <span> Neuro Knights </span></h2>
+						<p>An engaging learning experience designed to strengthen young minds by blending fun gameplay with cognitive development. From sharpening memory skills to boosting problem-solving abilities, Neuro Knights is built to make learning exciting and impactful.</p>
+						<div class="banner-btn">
+							<a href="{{url('/case-studies/neuro-knights-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <!--Start Service-->
-<section class="py-5 dark-bg2">
+<!-- <section class="py-5 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12">
@@ -110,11 +177,11 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Service-->
 
 <!--Start Service-->
-<section class="service-section-app py-5 mt-4 dark-bg2">
+<!-- <section class="service-section-app py-5 mt-4 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12 fadeIn">
@@ -213,7 +280,7 @@
 							</a>
 						</div>
 					</div>
-					
+
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
@@ -290,6 +357,210 @@
 			</div>
 		</div>
 	</div>
+</section> -->
+
+
+<section class="service-section-app py-5 mt-4 dark-bg2">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12 fadeIn my-5">
+				<div data-text="Our Services" class="light-bg-text bg-text text-start">
+					<div class="sctxt">Our Expertise</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row  mt-5 wow fadeIn">
+			<div class="services-card-rows owl-carousel owl-theme">
+				<div class="col-12 fadeIn servive-card-col service-one">
+					<div class="card">
+						<div class="card-body">
+							<div class="services-tital">
+
+								<div class="services-img-div">
+									<img src="images/home/android-app-development-icon.svg" alt="Android App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>Android App Development</h3>
+								</div>
+							</div>
+
+							<div class="services-text-div">
+								<p>Our Android app developers use the most up-to-date technologies to produce native apps with strong and adaptive architecture.</p>
+								<a href="{{url('/android-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12  fadeIn servive-card-col service-two">
+					<div class="card  ">
+						<div class="card-body">
+							<div class="services-tital">
+								<div class="services-img-div">
+									<img src="images/home/ios-app-development-icon.svg" alt="iOS App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>iOS App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>We specialize in developing full-featured iOS mobile apps that are reliable, scalable, and compatible with iPhone, iPad, Apple TV, and Apple Watch.</p>
+								<a href="{{url('/ios-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12  fadeIn servive-card-col service-three">
+					<div class="card  ">
+
+						<div class="card-body">
+							<div class="services-tital ">
+								<div class="services-img-div">
+									<img src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>Cross-Platform App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>We create cross-platform and hybrid apps that help you save money by using a single code base and reducing time to market.</p>
+								<a href="{{url('/cross-platform-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-12   wow fadeIn servive-card-col service-four">
+					<div class="card ">
+						<div class="card-body">
+							<div class="services-tital">
+								<div class="services-img-div">
+									<img src="images/home/game-app-development-icon.svg" alt="Game App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>Game App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>We have the top mobile game app developers working for us, and they've created a wide range of highly entertaining games.</p>
+								<a href="{{url('/game-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12   wow fadeIn servive-card-col service-five">
+					<div class="card ">
+						<div class="card-body">
+							<div class="services-tital ">
+								<div class="services-img-div">
+									<img src="images/home/web-app-development-icon.svg" alt="Web App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>Web App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>Our web app development services assist with the design, development, and evolution of web-based software. </p>
+								<a href="{{url('/web-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="col-12  wow fadeIn servive-card-col service-six">
+					<div class="card  ">
+						<div class="card-body">
+							<div class="services-tital">
+								<div class="services-img-div">
+									<img src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>Wearable App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>Our wearable device app development services are powered by new technology, allowing us to create amazing wearable apps for both iOS and Android.</p>
+								<a href="{{url('/wearable-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-12  fadeIn servive-card-col service-seven">
+					<div class="card  ">
+						<div class="card-body">
+							<div class="services-tital">
+								<div class="services-img-div">
+									<img src="images/home/ar-app-development-icon.svg" alt="AR App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>AR App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>We create high-end augmented reality applications with an emphasis on 3D model design and algorithm implementation for overlaying the best virtual content.</p>
+								<a href="{{url('/ar-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12   fadeIn servive-card-col service-eight">
+					<div class="card  ">
+						<div class="card-body">
+							<div class="services-tital">
+								<div class="services-img-div">
+									<img src="images/home/vr-app-development-icon.svg" alt="VR App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>VR App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>We focus on the construction of software that allows users to interact with simulated worlds and deliver competitive VR apps with high and swift user adoption.</p>
+								<a href="{{url('/vr-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12   fadeIn servive-card-col service-nine">
+					<div class="card">
+						<div class="card-body">
+							<div class="services-tital">
+								<div class="services-img-div">
+									<img src="images/home/mr-app-development-icon.svg" alt="MR App Development" class="img-fluid" width="100%" height="100%">
+								</div>
+								<div class="service-heading">
+									<h3>MR App Development</h3>
+								</div>
+							</div>
+							<div class="services-text-div">
+								<p>We are at the forefront of pioneering MR App development, crafting cutting-edge software that enables users to seamlessly interact with immersive digital worlds.</p>
+								<a href="{{url('/mr-app-development')}}" class="mt20 link-prbs">
+									<i class="fa-solid fa-arrow-right" style="color: #b6c0c8;"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Service-->
 
@@ -326,18 +597,18 @@
 				<div class="tab-content" id="imagetab">
 
 					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
+					@if($k==0)
 
-                    <div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-                        <img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-                    </div>
-                    @else
-                    <div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-                        <img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-                    </div>
-                    @endif
+					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+					</div>
+					@else
+					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+					</div>
+					@endif
 
-                    @endforeach
+					@endforeach
 
 				</div>
 			</div>
@@ -345,39 +616,39 @@
 				<h2>Different Industries We Serve:</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
 				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
-					
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
 
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+					<li class="nav-item">
+						<a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+					</li>
+
+					@else
+					<li class="nav-item">
+						<a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+					</li>
+					@endif
+					@endforeach
 
 				</ul>
 				<div class="tab-content pt-3" id="texttab">
 
 					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
+					@if($k==0)
 
-                    <div class="tab-pane image-content active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-                        <h3>{!!$items['heading']!!}</h3>
-                        <p class="py-3">{!!$items['content']!!}</p>
-                    </div>
-                    @else
+					<div class="tab-pane image-content active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<h3>{!!$items['heading']!!}</h3>
+						<p class="py-3">{!!$items['content']!!}</p>
+					</div>
+					@else
 
-                    <div class="tab-pane image-content fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-                        <h3>{!!$items['heading']!!}</h3>
-                        <p class="py-3">{!!$items['content']!!}</p>
-                    </div>
+					<div class="tab-pane image-content fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<h3>{!!$items['heading']!!}</h3>
+						<p class="py-3">{!!$items['content']!!}</p>
+					</div>
 
-                    @endif
-                    @endforeach
+					@endif
+					@endforeach
 				</div>
 			</div>
 		</div>
@@ -386,7 +657,7 @@
 <!--End Features-->
 
 <!--Start Process-->
-<section class="process-block bg-gradient3 py-5">
+<!-- <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -455,8 +726,400 @@
 			</div>
 		</div>
 	</div>
+</section> -->
+<section class="py-5 process-tabs-section">
+	<div class="container">
+		<div class="row my-5">
+			<div class="col-12">
+				<div class="common-heading ptag fadeIn">
+					<div data-text="Process" class="light-bg-text bg-text">
+						<h2>Our <span>Mobile App</span> Development Process</h2>
+					</div>
+					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 col-lg-4">
+				<div class="process-btns">
+
+					<button class="tabBtn active" onclick="openTab('tab1',this)">
+						<i class="fa-solid fa-chart-line"></i>
+						<span>Project Analysis of Requirements</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab2',this)">
+						<i class="fa-solid fa-pen-ruler"></i>
+						<span>Wireframing & Designing</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab3',this)">
+						<i class="fa-solid fa-mobile-screen-button"></i>
+						<span>App Development</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab4',this)">
+						<i class="fa-solid fa-check-to-slot"></i>
+						<span>App Testing</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab5',this)">
+						<i class="fa-solid fa-cloud-arrow-up"></i>
+						<span>App Deployment</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab6',this)">
+						<i class="fa-solid fa-wrench"></i>
+						<span>Maintenance</span>
+					</button>
+
+				</div>
+
+			</div>
+			<div class="col-md-12 col-lg-8">
+				<div class="process-tabs">
+					<div id="tab1" class="tabs ">
+						<div class="tabs-inner">
+							<h2>Project Analysis of Requirements</h2>
+							<ul>
+								<li>Analyze target audience, region, age, and language.</li>
+								<li>Define UX/UI design direction.</li>
+								<li>Choose appropriate typography for the app.</li>
+								<li>Select the right technology stack.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-chart-line"></i>
+									<span>Trend Analysis</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-magnifying-glass"></i>
+									<span>Requirement Research</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-check"></i>
+									<span>Task Validation</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-lightbulb"></i>
+									<span>Idea Generation</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab2" class="tabs">
+						<div class="tabs-inner">
+							<h2>Wireframing & Designing</h2>
+							<ul>
+								<li>Draw a rough sketch of the user journey on paper.</li>
+								<li>Identify key steps and touchpoints for users.</li>
+								<li>Use sketching to explore ideas beyond tracking movements.</li>
+								<li>Refine concepts and arrange all design components properly.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-pen-ruler"></i>
+									<span>UI Design</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-palette"></i>
+									<span>Color Scheme</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-object-group"></i>
+									<span>Layout Structure</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-pencil-alt"></i>
+									<span>Wireframe Draft</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab3" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Development</h2>
+							<ul>
+								<li>The app goes through multiple development stages.</li>
+								<li>Essential functionality is often not fully tested in early stages.</li>
+								<li>Additional functionality is added in the second stage.</li>
+								<li>We follow an agile approach for flexible planning.</li>
+							</ul>
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-mobile-screen-button"></i>
+									<span>Mobile App</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-code"></i>
+									<span>App Coding</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-laptop-code"></i>
+									<span>Build Setup</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-plug"></i>
+									<span>API Integration</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab4" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Testing</h2>
+							<ul>
+								<li>Test app usability, compatibility, security, and performance.</li>
+								<li>Check essential functionality in early stages.</li>
+								<li>Gather feedback from beta users.</li>
+								<li>Ensure app functions correctly in real-world scenarios.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-bug"></i>
+									<span>Bug Check</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-vial"></i>
+									<span>Test Cases</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-check"></i>
+									<span>QA Approval</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-chart-line"></i>
+									<span>Test Report</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab5" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Deployment</h2>
+							<ul>
+								<li>Complete final testing of the app.</li>
+								<li>Prepare deployment procedures.</li>
+								<li>Deploy the app to production or beta environment.</li>
+								<li>Go live and monitor initial performance.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-rocket"></i>
+									<span>App Launch</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-cloud-arrow-up"></i>
+									<span>Cloud Upload</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-server"></i>
+									<span>Server Setup</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-box-open"></i>
+									<span>App Delivery</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab6" class="tabs">
+						<div class="tabs-inner">
+							<h2>Maintenance</h2>
+							<ul>
+								<li>Provide excellent app maintenance solutions.</li>
+								<li>Support you throughout the development process.</li>
+								<li>Offer top-quality options and services.</li>
+								<li>Ensure smooth app performance and updates.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-wrench"></i>
+									<span>System Fix</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-gear"></i>
+									<span>Configuration</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-rotate-right"></i>
+									<span>System Update</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-shield-halved"></i>
+									<span>Security Check</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Process-->
+
+<!-- Start Hire Developers -->
+<section class="hire-developers py-5">
+	<div class="container">
+		<div class="row justify-content-center wow fadeIn">
+			<div class="col-xl-6 my-auto">
+				<div class="common-heading">
+					<div data-text="Developers" class="dark-bg-text bg-text">
+						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
+					</div>
+					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
+					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+			<div class="col-xl-6 mt-3">
+				<div class="row scroller">
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-sm-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3 mt-lg-0">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3 ">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								<!-- <p class="text-center pt-2">Laravel</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/sql-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								<!-- <p class="text-center pt-2">Laravel</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
+						<div class="card stack-hov">
+							<div class="card-body">
+								<img src="images/tech/vuejs-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								<!-- <p class="text-center pt-2">Laravel</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Hire Us -->
+
 
 <!--Start Portfolio-->
 <section class="portfolio-section py-5">
@@ -494,26 +1157,28 @@
 			<div id="app" class="tab-pane active">
 				<div class="row mt60">
 					<div class="col-lg-12 col-sm-12 wptbb">
-						<div class="pbwide shadow bg-gradient1">
+						<div class="pbwide ">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 								</div>
-								<div class="widebloktag">
-									<span class="text-white">UI/UX Design</span>
+								<h3 class="mt30 mb30">Boujee Beachin</h3>
+
+								<div class="portfolio-main-tag">
+									<div class="widebloktag">
+										<span class="">UI/UX Design</span>
+									</div>
+									<div class="widebloktag green-tag ">
+										<span class=""># Mobile App Development</span>
+									</div>
 								</div>
-								<div class="widebloktag mt-4">
-									<span class="text-white">Mobile App Development</span>
-								</div>
-								<h3 class="mt30 mb30">Gym App</h3>
-								<p class="mb30">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being.</p>
+								<p class="my-3">A stylish shopping experience designed to bring premium beach essentials right to your fingertips with ease and elegance. From discovering trending products to finding everything for your perfect beach day, Boujee Beachin is built to make every moment effortless and luxurious.</p>
 								<ul class="info-list-ul">
 									<li>Management of Profile</li>
 									<li>Management of Timeline</li>
 									<li>Meal Plan</li>
 									<li>View Recipes</li>
 								</ul>
-								<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study 
+								<a href="{{url('/case-studies/boujee-beachin-app')}}" class="btn-outline lnk mt30">View Case Study
 									<i class="fas fa-chevron-right fa-icon"></i>
 									<span class="circle"></span>
 								</a>
@@ -522,34 +1187,75 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/gym-app.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
+											<img src="images/case-studies/boujee-beachin/boujee-bouchen-thumbnail.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-12 col-sm-12 wptbb">
-						<div class="pbwide shadow bg-gradient1">
-							<div class="portfolio-item-info-tt">
+					<div class="col-lg-12 col-sm-12 wptbb gap-5">
+						<div class="pbwide ">
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/case-studies/royal-ride/royal-ride-thumbnail.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="portfolio-item-info-tt ps-5">
 								<div class="logowide mb20">
-									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
 								</div>
-								<div class="widebloktag">
-									<span class="text-white">UI/UX Design</span>
+								<h3 class="mt30 mb30">Royal Ride App</h3>
+
+								<div class="portfolio-main-tag">
+									<div class="widebloktag">
+										<span class=" ">UI/UX Design</span>
+									</div>
+									<div class="widebloktag  green-tag ">
+										<span class=""># Mobile App Development</span>
+									</div>
 								</div>
-								<div class="widebloktag mt-4">
-									<span class="text-white">Mobile App Development</span>
-								</div>
-								<h3 class="mt30 mb30">Real Estate App</h3>
-								<p class="mb30">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches.</p>
+								<p class="my-3">Royal Ride is a luxury ride-booking app designed for business and VIP visitors in Qatar, delivering a seamless and dependable digital experience. It offers high-end transportation with a refined reservation system tailored to premium travel needs in Doha.</p>
 								<ul class="info-list-ul">
 									<li>Management of Profile</li>
 									<li>Management of Timeline</li>
 									<li>Meal Plan</li>
 									<li>View Recipes</li>
 								</ul>
-								<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study 
+								<a href="{{url('/case-studies/royal-ride-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+
+						</div>
+					</div>
+					<div class="col-lg-12 col-sm-12 wptbb">
+						<div class="pbwide ">
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20">
+								</div>
+								<h3 class="mt30 mb30">Wood Land App</h3>
+
+								<div class="portfolio-main-tag">
+									<div class="widebloktag">
+										<span class="">UI/UX Design</span>
+									</div>
+									<div class="widebloktag green-tag ">
+										<span class=""># Mobile App Development</span>
+									</div>
+								</div>
+								<p class="my-3">A smart digital solution designed to simplify your daily needs by combining innovation with seamless user experience. From managing tasks efficiently to accessing services faster, Wood Land is built to make your life easier and more productive.</p>
+								<ul class="info-list-ul">
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
+								</ul>
+								<a href="{{url('/case-studies/wood-land-app')}}" class="btn-outline lnk mt30">View Case Study
 									<i class="fas fa-chevron-right fa-icon"></i>
 									<span class="circle"></span>
 								</a>
@@ -558,7 +1264,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/real-estate-app.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
+											<img src="images/case-studies/wood-land-app/wood-land-thumbnail.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
@@ -567,29 +1273,32 @@
 					</div>
 				</div>
 			</div>
+
 			<div id="web" class="tab-pane fade">
 				<div class="row mt60">
 					<div class="col-lg-12 col-sm-12 wptbb">
-						<div class="pbwide shadow bg-gradient1">
+						<div class="pbwide ">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 								</div>
-								<div class="widebloktag">
-									<span class="text-white">UI/UX Design</span>
+								<h3 class="mt30 mb30">Gym App</h3>
+
+								<div class="portfolio-main-tag">
+									<div class="widebloktag">
+										<span class="">UI/UX Design</span>
+									</div>
+									<div class="widebloktag green-tag ">
+										<span class=""># web Development</span>
+									</div>
 								</div>
-								<div class="widebloktag mt-4">
-									<span class="text-white">Website Development</span>
-								</div>
-								<h3 class="mt30 mb30">Gym Web</h3>
-								<p class="mb30">More than just a fitness app, Gymnasium acts as your personal trainer, nutritionist, and motivational coach—all conveniently housed within a user-friendly interface.</p>
+								<p class="my-3">Gymnasium emerges as the definitive application dedicated to offering a comprehensive guide for enhancing physical health and overall well-being.</p>
 								<ul class="info-list-ul">
-									<li>Content Management</li>
-									<li>User Management</li>
-									<li>Bookings Management</li>
-									<li>Promotions</li>
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
 								</ul>
-								<a href="{{url('/case-studies/gym-web')}}" class="btn-outline lnk mt30">View Case Study 
+								<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study
 									<i class="fas fa-chevron-right fa-icon"></i>
 									<span class="circle"></span>
 								</a>
@@ -606,30 +1315,7 @@
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12 wptbb">
-						<div class="pbwide shadow bg-gradient1">
-							<div class="portfolio-item-info-tt">
-								<div class="logowide mb20">
-									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
-								</div>
-								<div class="widebloktag">
-									<span class="text-white">UI/UX Design</span>
-								</div>
-								<div class="widebloktag mt-4">
-									<span class="text-white">Website Development</span>
-								</div>
-								<h3 class="mt30 mb30">Real Estate Web</h3>
-								<p class="mb30">Discover Avenue, the ultimate app for all your property buying and selling needs.</p>
-								<ul class="info-list-ul">
-									<li>Dashboard</li>
-									<li>Properties Management</li>
-									<li>Mortgage</li>
-									<li>User Management</li>
-								</ul>
-								<a href="{{url('/case-studies/real-estate-web')}}" class="btn-outline lnk mt30">View Case Study 
-									<i class="fas fa-chevron-right fa-icon"></i>
-									<span class="circle"></span>
-								</a>
-							</div>
+						<div class="pbwide ">
 							<div class="portfolio-wide-image">
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
@@ -639,6 +1325,32 @@
 									</div>
 								</div>
 							</div>
+							<div class="portfolio-item-info-tt ps-5">
+								<div class="logowide mb20">
+								</div>
+								<h3 class="mt30 mb30">Real Estate App</h3>
+
+								<div class="portfolio-main-tag">
+									<div class="widebloktag">
+										<span class=" ">UI/UX Design</span>
+									</div>
+									<div class="widebloktag  green-tag ">
+										<span class=""># web Development</span>
+									</div>
+								</div>
+								<p class="my-3">Our project goals for the real estate initiative are to integrate seamlessly with MLS platforms for accurate property listings, optimize mobile usability, implement robust security measures, and provide an intuitive interface for easy property searches.</p>
+								<ul class="info-list-ul">
+									<li>Management of Profile</li>
+									<li>Management of Timeline</li>
+									<li>Meal Plan</li>
+									<li>View Recipes</li>
+								</ul>
+								<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+
 						</div>
 					</div>
 				</div>
@@ -648,140 +1360,114 @@
 </section>
 <!--End Portfolio-->
 
-<!-- Start Hire Developers -->
-<section class="hire-developers py-5">
-	<div class="container">
-		<div class="row justify-content-center wow fadeIn">
-			<div class="col-xl-6 my-auto">
-				<div class="common-heading">
-					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2 class="text-white">Hire Developers For <span>Custom IT Projects</span></h2>
-					</div>
-					<!--<p class="pt-2">AppsNation offers you to hire your dedicated development team. Which would connect with you 24 hours to ensure your development solution quality up to the mark. The benefit of hiring a dedicated team is you can contact them you will get a dedicated project manager for your project that makes sure your project satisfaction.</p>-->
-					<p class="pt-2 text-white">Our team of skilled and experienced developers specializes in creating tailored IT solutions that perfectly align with your business requirements. From software development to web applications, mobile apps, database management, and more, we have the expertise to deliver innovative solutions that meet your unique needs.</p>
-					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
-				</div>
-			</div>
-			<div class="col-xl-6 mt-3">
-				<div class="row scroller">
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Unity</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-sm-0">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Unreal Engine</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">WordPress</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">PHP</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Angular JS</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">C++</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Blender</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Python</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Node JS</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Photon</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">React Native</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">JavaScript</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">HTML</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card stack-hov">
-							<div class="card-body">
-								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
-								<!-- <p class="text-center pt-2">Laravel</p> -->
-							</div>
-						</div>
+<!--Start Solutions-->
+<!-- <section class="solutions-section py-5">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn text-center">
+					<div data-text="Solutions" class="light-bg-text bg-text mt-5 text-center">
+						<h2>Our Prestigious <span>App Development</span> Portfolio</h2>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
-<!-- End Hire Us -->
+
+		<div class="row">
+			<div class="col-12">
+				<div class="owl-carousel owl-theme solutions-carousel">
+					<div class="item booking-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+								</div>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Booking App</h3>
+									<p class="text-white">Experience a hassle-free travel journey with our global and innovative app—Travelicious. It’s not just an app but a wanderlust partner to cater to modern travelers for a seamless voyage.</p>
+									<a href="{{url('/case-studies/travel-agency-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item fitness-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+								</div>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Fitness App</h3>
+									<p class="text-white">Introducing our interactive and dynamic fitness app— Gymnasium. Built with a sleek and modern design, it becomes a fitness pal to help users stay at the top of their health goals, training plans, and motivation for wellness.</p>
+									<a href="{{url('/case-studies/gym-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item loyalty-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+								</div>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Loyalty App</h3>
+									<p class="text-white">Trends, classics, and everything in between, our one-stop shop E-commerce app—Loyalty app. Trusted by millions, our app offers exclusive deals and cashback rewards for customers. All your favorite stores are now at your fingertips.</p>
+									<a href="{{url('/case-studies/loyalty-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item mover-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+								</div>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Mover App</h3>
+									<p class="text-white">Moving is made easy with our Mover App, a holistic approach to all moving orders. Our app lets users book and relax as it provides efficient order management and customer engagement.</p>
+									<a href="{{url('/case-studies/mover-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item real-estate-app-bg">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-6">
+									<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+								</div>
+								<div class="col-lg-6 my-auto">
+									<h3 class="mb-4 text-white">Real Estate App</h3>
+									<p class="text-white">Experience the future of real estate, we have streamlined the real estate journey for you whether it is a property you want to buy, sell, or invest in, our app provides seamless solutions to keep you one step ahead in the market</p>
+									<a href="{{url('/case-studies/real-estate-app')}}" class="btn-outline lnk mt30">View Case Study
+										<i class="fas fa-chevron-right fa-icon"></i>
+										<span class="circle"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="counter" class="owl-counter"></div>
+			</div>
+		</div>
+</section> -->
+<!--End Solutions-->
+
 
 <!-- Start Why Choose -->
 <section class="why-choose-section py-5">
@@ -842,6 +1528,30 @@
 	</div>
 </section>
 <!-- End Why Choose -->
+
+
+
+<section class="banner-box-section p-100 text-white my-5 py-5">
+	<div class="h-100 container">
+		<div class="mb-4 row">
+			<div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-12">
+			</div>
+		</div>
+		<div class="banner-box-image" style="background-image: url(images/banner/royal-spa-banner.png); background-repeat: no-repeat; background-size: cover;">
+			<div class="h-100 align-items-center row">
+				<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
+					<h2>Indulge in the <span> Royal Spa </span> Experience</h2>
+					<p>A luxurious well-being destination designed to rejuvenate your body and mind with premium treatments and tranquil ambiance. From soothing therapies to personalized care, Royal Spa is built to deliver unparalleled relaxation and pure serenity.</p>
+					<div class="banner-btn">
+						<a
+							href="#" target="_blank" aria-label="Appsnation Contact">Explore Rev AI</a>
+						<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 <!--Start Tech-->
 <!-- <section class="technologies-stack py-5">
@@ -1307,7 +2017,7 @@
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo"width="auto" height="auto">
+										<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Apache Hadoop</h4>
 									</div>
 								</div>
@@ -1628,92 +2338,63 @@
 </section>
 <!-- End Technologies -->
 
-<!--Start Badges-->
 <section class="badges-section py-5">
 	<div class="container">
 		<div class="row fadeIn">
 			<div class="col-12">
 				<div class="common-heading w-tdxt text-center">
 					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Mobile App</span> Development Company</h2>
+						<h2 class="text-white">
+							Ranked as #1 <span>Mobile App</span> Development Company
+						</h2>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
-				<div class="awards-slider owl-carousel owl-theme">
+				 
+					<div class="awards-slider  owl-carousel owl-theme">
 
-					@foreach($awards as $k => $item)
+						@foreach($awards as $item)
 
-					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-						<div class="award-item">
-							<div class="item">
-								<div class="card">
-									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-										<h3 class="text-center pt-3">{{$item['heading']}}</h3>
-										<p class="text-center pt-2">{{$item['content']}}</p>
+						@php
+						$isLink = $item['heading'] === 'Top Website design Agencies';
+						@endphp
+
+						@if($isLink)
+						<a href="{{ $item['comment'] }}" target="_blank">
+							@endif
+
+							<div class="award-item">
+								<div class="item">
+									<div class="card">
+										<div class="card-body text-center">
+											<img
+												src="{{ asset('uploads/'.$item['image']) }}"
+												class="award-img"
+												alt="{{ $item['heading'] }}" />
+											<h5 class="pt-3">{{ $item['heading'] }}</h5>
+										</div>
 									</div>
 								</div>
 							</div>
-						</div>
-					 </a>
 
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					 </div>
-					 @endif
+							@if($isLink)
+						</a>
+						@endif
 
-					@else
-					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					<div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
+						@endforeach
+
 					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h3 class="text-center pt-3">{{$item['heading']}}</h3>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					@endif
-					@endif
-					@endforeach
-
-				</div>
+			 
 			</div>
 		</div>
+
 	</div>
 </section>
-<!--End Badges-->
+
 
 <!--Start Clients-->
 <section class="py-5 bg-gradient3 client">
@@ -1748,148 +2429,77 @@
 
 <!--Start Testinomial-->
 <section class="testimonials-section-app pt100 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="common-heading text-center">
-                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-                    </div>
-                    <h3 class="text-white">Over 1200+ Satisfied Clients and Growing</h3>
-                </div>
-            </div>
-        </div>
-		
-        <div class="testimonial-card-a owl-carousel owl-theme owl-theme">
-            <!-- <div class="row mt-3 px-3"> -->
-			@foreach($testimonials as $item)
-                <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
-					<div class="tcd card h-100">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h3 class="text-white">Over 1200+ Satisfied Clients and Growing</h3>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="testimonial-card-a owl-carousel owl-theme">
+			@foreach($testimonials as $key => $item)
+
+			<div class="tcd card h-100">
+				<div class="row ">
+					<div class="col-lg-6 position-relative">
+
+
+
+						<!-- YouTube Video -->
+						<iframe
+							id="player-{{$key}}"
+							class="youtube-player testimonial-video"
+
+							src="{{$item['comments']}}"
+							title="Client Testimonial"
+
+							frameborder="0"
+							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+							referrerpolicy="strict-origin-when-cross-origin"
+							allowfullscreen>
+						</iframe>
+
+					</div>
+
+					<div class="col-lg-6">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
 								<p>{{$item['title']}}</p>
 							</div>
+
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
 									<div class="media-body user-info v-center">
 										<h3>{{$item['name']}}</h3>
-										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+										<p>{{$item['location']}}</p>
+										<i class="fas fa-quote-right posiqut"></i>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-                <!-- </div> -->
-            @endforeach
-            <!-- </div> -->
-        </div>
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 fadeIn my-auto text-center">
-                <div class="review-title-ref mt40">
-                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
+				</div>
+			</div>
+
+			@endforeach
+		</div>
 </section>
 <!--End Testinomial-->
 
+
+
 <!--Start Blogs-->
+
+
 <section class="blogs-section py-5">
-@if(count($data['data']) > 0)
+	@if(count($data['data']) > 0)
 	<div class="container">
 		<div class="row mb100">
 			<div class="col-lg-6">
@@ -1960,5 +2570,47 @@
 		f.parentNode.insertBefore(j, f);
 	})(window, document, 'script', 'dataLayer', 'GTM-5ZVNH97');
 </script>
+
+
+<script>
+	// Load YouTube API
+	var tag = document.createElement('script');
+	tag.src = "https://www.youtube.com/iframe_api";
+	document.getElementsByTagName('script')[0].parentNode.insertBefore(tag, null);
+
+	var players = {};
+
+	function onYouTubeIframeAPIReady() {
+		document.querySelectorAll('.youtube-player').forEach(function(iframe) {
+			var playerId = iframe.getAttribute('id');
+
+			players[playerId] = new YT.Player(playerId, {
+				playerVars: {
+					autoplay: 1,
+					mute: 1,
+					loop: 1,
+					controls: 0,
+					rel: 0,
+					modestbranding: 1,
+					playsinline: 1
+				}
+			});
+		});
+	}
+
+	// CLICK → Unmute video
+	document.addEventListener('click', function(e) {
+		if (e.target.classList.contains('video-overlay')) {
+			var targetId = e.target.getAttribute('data-target');
+			if (players[targetId]) {
+				players[targetId].unMute();
+				e.target.style.display = 'none';
+			}
+		}
+	});
+</script>
+
+
+
 <!-- End Google Tag Manager -->
 @endsection

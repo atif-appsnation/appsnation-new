@@ -3239,4 +3239,135 @@ class HomeController extends Controller
         );
     }
 
+    public function mikeMathisApp()
+    {
+
+        $metatag = Metatag::where('slug', 'mikeMathisApp')->get();
+        $metatitle = Metatitle::where('slug', 'mikeMathisApp')->get();
+
+        return view(
+            'mikemathis',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+     public function graveLove()
+    {
+
+        $metatag = Metatag::where('slug', 'graveLove')->get();
+        $metatitle = Metatitle::where('slug', 'graveLove')->get();
+
+        return view(
+            'gravelove',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+    public function bombDefuse()
+    {
+
+        $metatag = Metatag::where('slug', 'bombDefuse')->get();
+        $metatitle = Metatitle::where('slug', 'bombDefuse')->get();
+
+        return view(
+            'bombdefuse',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+    public function coupleApp()
+    {
+
+        $metatag = Metatag::where('slug', 'coupleApp')->get();
+        $metatitle = Metatitle::where('slug', 'coupleApp')->get();
+
+        return view(
+            'coupleapp',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+    public function carMechanic()
+    {
+
+        $metatag = Metatag::where('slug', 'carMechanic')->get();
+        $metatitle = Metatitle::where('slug', 'carMechanic')->get();
+
+        return view(
+            'carmechanic',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+    
+    public function toySortPuzzle()
+    {
+
+        $metatag = Metatag::where('slug', 'toySortPuzzle')->get();
+        $metatitle = Metatitle::where('slug', 'toySortPuzzle')->get();
+
+        return view(
+            'toysortpuzzle',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+    public function royalrelaxspa()
+    {
+
+        $metatag = Metatag::where('slug', 'royalrelaxspa')->get();
+        $metatitle = Metatitle::where('slug', 'royalrelaxspa')->get();
+
+        return view(
+            'royalrelaxspa',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+    
+     public function Loadboard()
+    {
+
+        $metatag = Metatag::where('slug', 'Loadboard')->get();
+        $metatitle = Metatitle::where('slug', 'Loadboard')->get();
+
+        return view(
+            'Loadboard',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+
+
+     public function alltraders()
+    {
+
+        $metatag = Metatag::where('slug', 'alltraders')->get();
+        $metatitle = Metatitle::where('slug', 'alltraders')->get();
+
+        return view(
+            'alltraders',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+
 }

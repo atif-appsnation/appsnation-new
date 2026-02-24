@@ -2,5 +2,7 @@
 
     RewriteEngine On
     RewriteRule ^(.*)$ public/$1 [L]
+
+    Header set X-Robots-Tag "noamp"
     
 </IfModule>

@@ -81,7 +81,8 @@
 	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">
 	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
 	<link rel="canonical" href="{{url()->current()}}" />
-
+	<meta name="robots" content="index,follow">
+	<meta name="robots" content="noamp">
 	<script defer async src='https://cdn.trustindex.io/loader-cert.js?e602dd35651a2533dc5613101eb'></script>
 
 	<!-- Meta Pixel Code -->

@@ -1,5 +1,3 @@
-/* Version: 1.0 | Last updated: 2026-02-16 */
-
 :root {
     --first-color: #0dacaf;
     --second-color: #089674;
@@ -360,7 +358,7 @@ span.circle2 {
 .dropdown-item:hover {
     color: #16181b;
     text-decoration: none;
-    background-color: var(--white-color);
+    background-color: #ffffff;
     outline: none;
 }
 
@@ -368,7 +366,7 @@ span.circle2 {
 .dropdown-item:active {
     color: #0a2233;
     text-decoration: none;
-    background-color: var(--white-color);
+    background-color: #ffffff;
     outline: none;
 }
 
@@ -766,7 +764,7 @@ div.custom-nav>ul>li:hover .nx-dropdown {
     width: 100%;
     padding: 0px 0;
     display: inline-block;
-    background-color: var(--white-color);
+    background-color: #ffffff;
     margin-top: 4px;
 }
 
@@ -1541,7 +1539,7 @@ a.play-video::after {
 
 .portfolio-section .nav-tabs .nav-item.show .nav-link,
 .portfolio-section .nav-tabs .nav-link.active {
-    color: var(--white-color);
+    color: #fff;
     background-color: var(--first-color);
     border-color: var(--first-color);
 }
@@ -2357,6 +2355,7 @@ footer.ftshap:before {
     display: flex;
     font-weight: 400;
     font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .footer-address-list li>span {
@@ -2376,6 +2375,7 @@ footer.ftshap:before {
 
 .footer-address-list li a {
     color: #6a6a8e;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 24px;
 }
@@ -2787,6 +2787,7 @@ footer.ftshap:before {
 }
 
 .portfolio-meta ul li p span {
+    font-family: 'Open Sans', sans-serif;
     display: block;
     margin-top: 2px;
     color: #6a6a8e;
@@ -3809,7 +3810,7 @@ footer.ftshap:before {
 .outline-tabs.tabs-layout .nav-tabs .nav-link {
     border: 1px solid #efefef;
     color: #6a6a8e;
-    background-color: var(--white-color);
+    background-color: #ffffff;
     border-radius: 100px;
 }
 
@@ -5338,58 +5339,15 @@ h3 a {
             rgba(0, 0, 0, 0.6)), url("../images/services-banner/mr-app-development.webp") center /cover no-repeat;
 
 }
-.services-card-rows .servive-card-col.iot-app-development .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/iot-app-development.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.industrial-app-development .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/industrial-app-development.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.animation-services .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/animation-services.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.Three-D-exterior .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/3D-exterior.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.Three-D-Interior .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/3D-Interior.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.floor-Plan .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/floor-Plan.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.two-d-art .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/2d-art.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.three-d-art .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/3D-art.jpg") center /cover no-repeat;
-
-}
-.services-card-rows .servive-card-col.e-commerce-service .card:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)), url("../images/services-banner/e-commerce-service.jpg") center /cover no-repeat;
-
-}
 
 .services-card-rows .servive-card-col .card:hover .services-img-div {
     display: none;
 }
 
 .services-card-rows .servive-card-col .card .services-text-div p {
-    text-align: left;
+    font-family: 'Roboto', sans-serif;
+
+    color: black;
     font-weight: 500;
     word-spacing: 2px;
 }
@@ -5406,19 +5364,6 @@ h3 a {
     color: white;
 }
 
-.scale-up-services-section{
-    background: var(--light-grey);
-    /* background: linear-gradient(135deg, #FFFFFF 0%, var(--light-grey) 100%); */
-}
-
-.scale-up-services-section img{
-    border-radius: 10px;
-    margin-top: 32px;
-}
-.scale-up-services-section .achievements-count{
-    background-color: white;
-    border-radius: 30px;
-}
 
 .servive-card-col .link-prbs {
     position: absolute;
@@ -5899,7 +5844,7 @@ body .bg-text:hover:after {
 
 .shop-tags-list li a {
     display: inline-block;
-    background-color: var(--white-color);
+    background-color: #ffffff;
     border: 1px solid #f2effc;
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 225, 0.08);
     color: #050748;
@@ -6039,7 +5984,7 @@ body .bg-text:hover:after {
 
 .rpb-shop-inf-rr a.rpb-shop-prev {
     display: inline-block;
-    background-color: var(--white-color);
+    background-color: #ffffff;
     border: 1px solid #f2effc;
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 225, 0.08);
     color: #050748;
@@ -6881,9 +6826,7 @@ html .pb140 {
     /* -webkit-box-shadow: 0 10px 15px 0px rgba(56, 0, 189, .2);
 	box-shadow: 0 10px 15px 0px rgba(56, 0, 189, .2); */
 }
-.bg-btn-scalup{
-    padding: 10px 13px;
-}
+
 .bg-btn4 {
     background: transparent;
     -webkit-box-shadow: none;
@@ -8198,7 +8141,7 @@ a.smllbtnn {
     font-size: 14px;
     border-radius: 26px;
     border: 1px solid gray;
-    color: var(--white-color);
+    color: #fff;
 }
 
 .green-tag span {
@@ -8269,6 +8212,7 @@ a.smllbtnn {
     font-size: 50px;
     line-height: 40px;
     font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #314252;
 }
 
@@ -9061,7 +9005,7 @@ html .mt15 {
 }
 
 .choose-us {
-    background: var(--light-grey);
+    background: #fff;
     /* text-align: center; */
     background-size: 200%;
     background-position: top right;
@@ -9087,11 +9031,6 @@ html .mt15 {
     background-position: 0 100%;
 }
 
-.choose-us img {
-  filter: brightness(0) saturate(100%) 
-            invert(55%) sepia(45%) 
-            saturate(600%) hue-rotate(135deg) 
-            brightness(95%) contrast(90%);}
 .choose-us:hover img {
     filter: invert(1);
 }
@@ -9107,7 +9046,6 @@ html .mt15 {
 
 .service-heading {
     padding-top: 20px;
-    text-align: left;
 }
 
 .service-heading h3 {
@@ -9206,7 +9144,7 @@ html .mt15 {
 
 .techonology-used .nav-link {
     color: #495057;
-    background-color: var(--white-color);
+    background-color: #fff;
     /* border-color: var(--black-color); */
 }
 
@@ -11221,12 +11159,12 @@ video {
 
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-    color: var(--white-color);
+    color: #fff;
     background-color: var(--first-color);
 }
 
 .nav-pills .nav-link:hover {
-    color: var(--white-color);
+    color: #fff;
     background-color: var(--first-color);
 }
 
@@ -11239,13 +11177,13 @@ video {
 
 .features-tab .nav-item.show .nav-link,
 .features-tab .nav-link.active {
-    color: var(--white-color);
+    color: #fff;
     background-color: var(--first-color);
     border-color: var(--first-color);
 }
 
 .features-tab .nav-link:hover {
-    color: var(--white-color);
+    color: #fff;
     background-color: var(--first-color);
 }
 
@@ -11713,27 +11651,16 @@ i.fa-brands.fa-instagram {
 /* Start About Us Page */
 
 .about-us-banner {
-     background-image: 
-        linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url('../images/about-us/about-us-hero-background.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url(../images/banner/about-us-banner.webp);
 }
 
-.about-us-banner h1 span{
+.about-us h1 span {
     color: var(--first-color);
-    border-bottom: 4px solid var(--first-color);
 }
-.about-us-banner p{
-    margin-top: 20px;
-}
+
 .why-choose-us h3 {
     font-size: 22px;
     line-height: 32px;
-}
-.why-choose-us .choose-us:hover h3 {
-    color: white;
 }
 
 .main-timeline {
@@ -12196,7 +12123,7 @@ i.fa-brands.fa-instagram {
 }
 
 .accordion-item {
-    background-color: var(--white-color);
+    background-color: #fff;
     border-bottom: 1px solid rgba(0, 0, 0, .125);
     border-top: 1px solid rgba(0, 0, 0, 0);
     border-left: 1px solid rgba(0, 0, 0, 0);
@@ -12580,7 +12507,7 @@ i.fa-brands.fa-instagram {
 }
 
 .center-text {
-    color: var(--white-color);
+    color: #fff;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -12976,7 +12903,7 @@ ul.list {
 .twod-character-design .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13033,7 +12960,7 @@ ul.list {
 .twod-environment-design .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13082,7 +13009,7 @@ ul.list {
 .twod-game-ui-ux-design .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13131,7 +13058,7 @@ ul.list {
 .twod-concept-art .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13169,9 +13096,9 @@ ul.list {
 }
 
 .twod-art-consultation .btn {
-    background-color: var(--white-color);
+    background-color: #fff;
     color: #5D1EAA;
-    border-color: var(--white-color);
+    border-color: #fff;
     font-weight: 700;
     -moz-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
@@ -13180,8 +13107,8 @@ ul.list {
 }
 
 .twod-art-consultation .btn:hover {
-    background-color: var(--white-color);
-    color: var(--white-color);
+    background-color: #fff;
+    color: #fff;
     border-color: #5D1EAA;
     font-weight: 700;
     box-shadow: 0 0 0 0 #5D1EAA, inset 6em 3.5em 0 0 #5D1EAA;
@@ -13313,7 +13240,7 @@ ul.list {
 .threed-character-design .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13370,7 +13297,7 @@ ul.list {
 .threed-environment-design .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13419,7 +13346,7 @@ ul.list {
 .threed-game-assets-design .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13468,7 +13395,7 @@ ul.list {
 .threed-sculpting-service .nav-tabs .nav-item {
     margin: 0px 10px 10px 0px;
     width: 230px;
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 0px;
 }
 
@@ -13506,9 +13433,9 @@ ul.list {
 }
 
 .threed-art-consultation .btn {
-    background-color: var(--white-color);
+    background-color: #fff;
     color: #5D1EAA;
-    border-color: var(--white-color);
+    border-color: #fff;
     font-weight: 700;
     -moz-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
@@ -13517,8 +13444,8 @@ ul.list {
 }
 
 .threed-art-consultation .btn:hover {
-    background-color: var(--white-color);
-    color: var(--white-color);
+    background-color: #fff;
+    color: #fff;
     border-color: #5D1EAA;
     font-weight: 700;
     box-shadow: 0 0 0 0 #5D1EAA, inset 6em 3.5em 0 0 #5D1EAA;
@@ -14548,7 +14475,7 @@ footer h4 {
 }
 
 .boujee-beachin-objectives .info-card1 {
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 15px;
     border: 1px solid #007599;
     padding: 25px;
@@ -14639,7 +14566,7 @@ footer h4 {
 
 .wireframes-section ul li:hover {
     background: #007bff;
-    color: var(--white-color);
+    color: #fff;
     border-color: #007bff;
     transform: translateY(-3px);
 }
@@ -14896,15 +14823,21 @@ footer h4 {
 /* ========================= */
 
 
+
+
 /*End hassan User Testing & Feedback  */
+
 
 /* by hassan Client Testimonial  --> */
 
 .boujee-Testimonial h4 {
+    font-family: "Urbanist", sans-serif;
     font-weight: 700;
 }
 
-.boujee-Testimonial p, b {
+.boujee-Testimonial p,
+b {
+    font-family: "Nunito", sans-serif;
     font-weight: 300;
 }
 
@@ -15094,7 +15027,7 @@ h6 {
 
 .development-challenges-left h2,
 .development-challenges-left p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .wood-land-development-challenges .info-card {
@@ -15727,7 +15660,7 @@ textarea::-ms-input-placeholder {
 }
 
 .services-carousel .text h3 {
-    color: var(--white-color);
+    color: #fff;
     font-weight: 400;
     font-size: 1.3rem;
     line-height: 1.4;
@@ -15737,7 +15670,7 @@ textarea::-ms-input-placeholder {
 
 .solutions-section .nav-tabs .nav-item.show .nav-link,
 .solutions-section .nav-tabs .nav-link.active {
-    color: var(--white-color);
+    color: #fff;
     background-color: var(--first-color);
     border-color: var(--first-color);
 }
@@ -17159,14 +17092,14 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .book-a-consultant-now .text-cont h2 {
     font-size: 16px;
-    color: var(--white-color);
+    color: #fff;
     font-weight: 600;
     margin-bottom: 0;
 }
 
 .cost-calculator .wizard-form .book-a-consultant-now .text-cont p {
     margin-bottom: 15px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
 }
@@ -17178,7 +17111,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator .wizard-form .book-a-consultant-now a {
     border-radius: 10px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 500;
     line-height: 15px;
@@ -17226,7 +17159,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator .wizard-form .wizard .steps .current a {
     border-radius: 4px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
     cursor: default;
 }
 
@@ -17263,7 +17196,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator .wizard-form .wizard .steps>ul li .active {
     border-radius: 4px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content {
@@ -17307,7 +17240,7 @@ textarea::-ms-input-placeholder {
 } */
 
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
@@ -17356,7 +17289,7 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label {
@@ -17378,7 +17311,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
@@ -17482,14 +17415,14 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .wizard-form .book-a-consultant-now .text-cont h2 {
     font-size: 16px;
-    color: var(--white-color);
+    color: #fff;
     font-weight: 600;
     margin-bottom: 0;
 }
 
 .cost-calculator-new .wizard-form .book-a-consultant-now .text-cont p {
     margin-bottom: 15px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
 }
@@ -17497,7 +17430,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator-new .wizard-form .book-a-consultant-now a {
     border-radius: 10px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 500;
     line-height: 15px;
@@ -17538,7 +17471,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator-new .wizard-form .wizard .steps .current a .number,
 .cost-calculator-new .wizard-form .wizard .steps .done a .number {
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
     font-weight: 500;
     display: flex;
     justify-content: center;
@@ -17608,7 +17541,7 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .wizard-form .wizard .steps>ul li .active span.number {
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .steps>ul li:nth-last-child(1):after {
@@ -17649,7 +17582,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
@@ -17684,11 +17617,11 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
@@ -17748,14 +17681,14 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .book-a-consultant-now .text-cont h2 {
     font-size: 16px;
-    color: var(--white-color);
+    color: #fff;
     font-weight: 600;
     margin-bottom: 0;
 }
 
 .cost-calculator .wizard-form .book-a-consultant-now .text-cont p {
     margin-bottom: 15px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
 }
@@ -17763,7 +17696,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator .wizard-form .book-a-consultant-now a {
     border-radius: 10px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 500;
     line-height: 15px;
@@ -17813,7 +17746,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator .wizard-form .wizard .steps>ul li .active {
     border-radius: 4px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content .title {
@@ -17846,7 +17779,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
@@ -17875,11 +17808,11 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
@@ -17938,14 +17871,14 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .wizard-form .book-a-consultant-now .text-cont h2 {
     font-size: 16px;
-    color: var(--white-color);
+    color: #fff;
     font-weight: 600;
     margin-bottom: 0;
 }
 
 .cost-calculator-new .wizard-form .book-a-consultant-now .text-cont p {
     margin-bottom: 15px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
 }
@@ -17953,7 +17886,7 @@ textarea::-ms-input-placeholder {
 .cost-calculator-new .wizard-form .book-a-consultant-now a {
     border-radius: 10px;
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 500;
     line-height: 15px;
@@ -18019,7 +17952,7 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .wizard-form .wizard .steps>ul li .active span.number {
     background: #089674;
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .steps>ul li:nth-last-child(1):after {
@@ -18056,7 +17989,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset.more-than-6-labels .radio-buttons label .v-center {
@@ -18085,11 +18018,11 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=radio]:checked+label p,
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons input[type=checkbox]:checked+label p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label:hover p {
-    color: var(--white-color);
+    color: #fff;
 }
 
 .cost-calculator-new .wizard-form .wizard .content fieldset .radio-buttons label .v-center {
@@ -18252,7 +18185,7 @@ textarea::-ms-input-placeholder {
     width: 32px;
     background: #089674;
     border-radius: 100%;
-    color: var(--white-color);
+    color: #fff;
     opacity: 1;
 }
 
@@ -18292,7 +18225,7 @@ textarea::-ms-input-placeholder {
     border-radius: 16px;
     background: #089674;
     padding: 15px 58px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 3.2px;
@@ -18386,7 +18319,7 @@ textarea::-ms-input-placeholder {
     width: 32px;
     background: #089674;
     border-radius: 100%;
-    color: var(--white-color);
+    color: #fff;
     opacity: 1;
 }
 
@@ -18426,7 +18359,7 @@ textarea::-ms-input-placeholder {
     border-radius: 16px;
     background: #089674;
     padding: 15px 58px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 3.2px;
@@ -18475,7 +18408,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator-new .business-analyst ul li h3 {
-    color: var(--white-color);
+    color: #fff;
     font-size: 14px;
     font-weight: 500;
     line-height: normal;
@@ -18484,7 +18417,7 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .business-analyst ul li h4,
 .cost-calculator-new .business-analyst ul li h5 {
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
     line-height: normal;
@@ -18495,7 +18428,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator-new .business-analyst ul li a {
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
     line-height: 15px;
@@ -18595,7 +18528,7 @@ textarea::-ms-input-placeholder {
     width: 32px;
     background: #089674;
     border-radius: 100%;
-    color: var(--white-color);
+    color: #fff;
     opacity: 1;
 }
 
@@ -18635,7 +18568,7 @@ textarea::-ms-input-placeholder {
     border-radius: 16px;
     background: #089674;
     padding: 15px 58px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 3.2px;
@@ -18729,7 +18662,7 @@ textarea::-ms-input-placeholder {
     width: 32px;
     background: #089674;
     border-radius: 100%;
-    color: var(--white-color);
+    color: #fff;
     opacity: 1;
 }
 
@@ -18769,7 +18702,7 @@ textarea::-ms-input-placeholder {
     border-radius: 16px;
     background: #089674;
     padding: 15px 58px;
-    color: var(--white-color);
+    color: #fff;
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 3.2px;
@@ -18797,7 +18730,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator-new .business-analyst ul li h3 {
-    color: var(--white-color);
+    color: #fff;
     font-size: 14px;
     font-weight: 500;
     line-height: normal;
@@ -18806,7 +18739,7 @@ textarea::-ms-input-placeholder {
 
 .cost-calculator-new .business-analyst ul li h4,
 .cost-calculator-new .business-analyst ul li h5 {
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
     line-height: normal;
@@ -18817,7 +18750,7 @@ textarea::-ms-input-placeholder {
 }
 
 .cost-calculator-new .business-analyst ul li a {
-    color: var(--white-color);
+    color: #fff;
     font-size: 12px;
     font-weight: 400;
     line-height: 15px;
@@ -18887,6 +18820,63 @@ textarea::-ms-input-placeholder {
     }
 }
 
+/* 767px */
+@media (min-width:375px) and (max-width: 767px) {
+    .hero-section-royalRide {
+        background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 10%);
+        padding-top: 100px;
+        margin-bottom: 2px;
+
+    }
+
+    .royalRideLogo p {
+        text-align: center;
+    }
+
+    .royalRideLogo h1 {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 50px;
+        line-height: 62px;
+    }
+
+    .royalRideLogo img {
+        width: 110px;
+    }
+
+    .hero-img-1 img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 374px) {
+    .hero-section-royalRide {
+        padding-top: 140px;
+        margin-bottom: 32px;
+
+    }
+
+    .royalRideLogo p {
+        text-align: center;
+    }
+
+    .royalRideLogo h1 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+
+    .royalRideLogo img {
+        width: 110px;
+    }
+
+    .hero-img-1 img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
 /* end hero by hassan */
 
 
@@ -18899,15 +18889,65 @@ textarea::-ms-input-placeholder {
 /* Text Styles */
 .Problem-section h2 {
     font-size: 32px;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
     margin-bottom: 20px;
 }
 
 .Problem-section p {
+    font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 19px;
+}
+
+/* --- Large Screens (Desktops) --- */
+@media (min-width: 1200px) {
+
+    .problem-left-container img,
+    .problem-right-container img {
+        width: 800px;
+        height: 600px;
+    }
+}
+
+/* --- Tablets (768px to 1199px) --- */
+@media (max-width: 1199px) {
+    .Problem-section {
+        padding: 50px 0;
+    }
+
+    .problem-left-container img,
+    .problem-right-container img {
+        max-width: 420px;
+    }
+}
+
+/* --- Mobile (up to 767px) --- */
+@media (max-width: 767px) {
+    .Problem-section {
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .problem-left-container,
+    .problem-right-container {
+        margin-bottom: 30px;
+    }
+
+    .Problem-section h2 {
+        font-size: 26px;
+    }
+
+    .Problem-section p {
+        font-size: 15px;
+    }
+
+    .problem-left-container img,
+    .problem-right-container img {
+        max-width: 100%;
+    }
 }
 
 /* End hassan Problem-section  */
@@ -18919,7 +18959,7 @@ textarea::-ms-input-placeholder {
 }
 
 .Objectives-section .info-card {
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 15px;
     padding: 25px;
     margin-bottom: 25px;
@@ -18969,7 +19009,7 @@ textarea::-ms-input-placeholder {
 
 
 .calendar-card {
-    background-color: var(--white-color);
+    background-color: #fff;
     border-radius: 15px;
     padding: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
@@ -19011,7 +19051,7 @@ textarea::-ms-input-placeholder {
 
 .date-number.selected {
     background-color: #ff7f00;
-    color: var(--white-color);
+    color: #fff;
     font-weight: bold;
 }
 
@@ -19135,6 +19175,7 @@ textarea::-ms-input-placeholder {
 
 .persona-name-section h4 {
     font-size: 1.8rem;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
     color: #212529;
@@ -19143,6 +19184,7 @@ textarea::-ms-input-placeholder {
 .persona-name-section p {
     font-size: 1rem;
     color: #6c757d;
+    font-family: "Poppins", sans-serif;
     font-weight: 200;
     font-style: normal;
     margin-bottom: 30px;
@@ -19238,6 +19280,7 @@ textarea::-ms-input-placeholder {
 
 .uiux-subtitle {
     font-size: 20px;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
     margin-bottom: 8px;
@@ -19555,7 +19598,7 @@ textarea::-ms-input-placeholder {
 }
 
 .bg-white-custom {
-    background-color: var(--white-color);
+    background-color: #fff;
     color: #2c2c2c;
     border: 1px solid #eee;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
@@ -19710,6 +19753,7 @@ textarea::-ms-input-placeholder {
     width: 95%;
     margin: 0 auto;
     text-align: start;
+    font-family: Poppins, sans-serif;
 }
 
 .item-info-div a,
@@ -20980,6 +21024,7 @@ textarea::-ms-input-placeholder {
     border-radius: 10px;
     padding: 10px;
     margin: 10px 0 10px 0px;
+    font-family: sans-serif;
     letter-spacing: 0.1px;
     word-spacing: 1.2px;
     line-height: 36px;
@@ -21303,13 +21348,13 @@ textarea::-ms-input-placeholder {
 
 
 .load-board-tech .common-heading h2 {
-    color: var(--white-color);
+    color: #fff;
     font-size: 2rem;
     margin-bottom: 1rem;
 }
 
 .load-board-tech .common-heading p {
-    color: var(--white-color);
+    color: #fff;
     font-size: 1.05rem;
     max-width: 800px;
     margin: 0 auto 50px auto;
@@ -21331,7 +21376,7 @@ textarea::-ms-input-placeholder {
 }
 
 .load-board-tech-card p {
-    color: var(--white-color);
+    color: #fff;
     font-weight: 500;
     margin: 0;
 }
@@ -21741,134 +21786,6 @@ textarea::-ms-input-placeholder {
 /* End challenges turned section */
 /* all traders case study end */
 
-
-/* start Alejandro Case study */
-
-/* start Alejandro hero section */
-.Alejandro-hero-section {
-    background: url("../images/case-studies/Alejandro-app/hero-background.webp") center/cover no-repeat;
-    padding: 20px;
-    text-align: center;
-}
-
-.Alejandro-hero-section.breadcrumb-areav2 {
-    align-items: start;
-}
-
- 
-.Alejandro-hero-section .bread-titlev2 h1,
-.Alejandro-hero-section .bread-titlev2 p {
-    text-align: center;
-    color: white;
-}
-
-.Alejandro-hero-section .logo {
-    display: block;
-    margin: 10% auto 0 auto;
-    width: 100%;
-    max-width: 120px;
-
-}
-
-.Alejandro-hero-section .hero-img {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-    max-width: 1120px;
-    /* margin-top: 1px; */
-}
-/* End Alejandro hero section */
-
-/* start Alejandro client overview section*/
-.Alejandro-client-overview .left-border-clint-overview{
-border-left: 1px solid #191463;
-margin: 10px 0;
-padding: 0 0 0 10px;
-}
-/* End Alejandro client overview section*/
-
-
-/*Start Alejandro problem solution section */
-.Alejandro-problem-solution .bg-custom-gray{
-    background-color: #191463;
-}
-.Alejandro-problem-solution .start-plus-circle,
-.Alejandro-problem-solution .card-connector-plus,
-.Alejandro-problem-solution .section-wrapper::before,
-.Alejandro-problem-solution .section-wrapper::after{
-    background-color: #191463 ;
-    color: white;
-    z-index: 10;
-}
-.Alejandro-problem-solution .card-custom{
-    display: flex;
-    justify-content: space-evenly;
-    z-index: 20;
-}
-/*End Alejandro problem solution section */
-
-/*start Alejandro objective Goals section*/
-.Alejandro-objectives-section{
-    position: relative;
-}
-.Alejandro-objectives-section .central-line {
-    position: absolute;
-    background-color: #343536;
-    width: 4px;
-    height: 70%;
-    transform: translateX(-50%);
-    top: 160px;
-    bottom: 0;
-    left: 50%;
-    z-index: 999;
-}
-.Alejandro-objectives-section .feature-box-group .feature-box{
-        border: 1px dotted #026DBF; 
-}
-.Alejandro-objectives-section .feature-box {
-    background: var(--white-color);
-    border-radius: 12px;
-    padding: 25px;
-    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
-    position: relative;
-    z-index: 2;
-    border: 1px solid var(--gray-color-2);
-}
-
-.Alejandro-objectives-section .feature-box-group .text-theme{
-    color: #026DBF;
-}
-/*End Alejandro objective Goals section*/
-
-/*Start Alejandro wireframe  section*/
-.Alejandro-wireframe {
-    background: url("../images/case-studies/Alejandro-app/wireFram-background.webp") center/cover no-repeat;
-    padding: 20px;
-    color: white;
-}
-.Alejandro-wireframe h2,
-.Alejandro-wireframe h4{
-    color: white;
-
-}
-/*End Alejandro wireframe  section*/
-
-
-
-/*start Alejandro Designs section */
-.Alejandro-Designs-section h2,
-.Alejandro-Designs-section p{
-    text-align: center;
-}
-.Alejandro-Designs-section h2{
-    color: #191463;
-}
-
-/*End Alejandro Designs section */
-
-/* End Alejandro Case study */
-
-
 /* ===== Start BANNERS Section ===== */
 .banner-box-section .banner-box-image {
     aspect-ratio: 1728 / 549;
@@ -21879,6 +21796,7 @@ padding: 0 0 0 10px;
 .banner-box-image h2 {
     color: white;
     font-weight: bolder;
+    text-align: left;
 }
 
 .banner-box-image h2 span {
@@ -21888,6 +21806,7 @@ padding: 0 0 0 10px;
 .banner-box-image p {
     margin: 10px 0 10px 0;
     font-size: 14px;
+    text-align: left;
 }
 
 .banner-box-image .banner-btn {
@@ -21919,30 +21838,7 @@ padding: 0 0 0 10px;
     color: white;
     border: none;
 }
-
 /* ===== End BANNERS Section ===== */
-
-/* ===== Start services BANNERS Section ===== */
-.services-box-section .banner-box-image {
-    aspect-ratio: 1171 / 549;
-    border-radius: 30px;
-    padding: 24px 0 23px 63px;
-}
-.services-box-section .owl-theme .owl-dots .owl-dot.active{
-    padding: 0;
-    border: 3px solid var(--first-color) !important;
-    border-radius: 50%;
-}
-.services-box-section .owl-theme .owl-dots .owl-dot span{
-    height: 0.6em;
-    width: 0.6em;
-    margin: 5px;
-}
-
-.services-box-section .owl-theme .owl-nav.disabled+.owl-dots{
-    margin-top: -46px;
-}
-/* ===== End services BANNERS Section ===== */
 
 
 
@@ -21961,9 +21857,8 @@ padding: 0 0 0 10px;
     gap: 12px;
     padding: 10px;
     background: url("../images/banner/banner.webp") no-repeat left;
-    background-size: 25% 100%;
-    /* width 10%, height 10% */
-    border-radius: 20px;
+background-size: 25% 100%; /* width 10%, height 10% */
+border-radius: 20px;
 
 }
 
@@ -21973,7 +21868,7 @@ padding: 0 0 0 10px;
     align-items: center;
     width: 100%;
     padding: 18px 25px;
-    background-color: var(--white-color);
+    background-color: #FFFFFF;
     border: none;
     border-radius: 16px;
     cursor: pointer;
@@ -21992,6 +21887,7 @@ padding: 0 0 0 10px;
 }
 
 .tabBtn span {
+    font-family: 'Inter', sans-serif;
     font-size: 15px;
     font-weight: 500;
     color: #475569;
@@ -22035,7 +21931,7 @@ padding: 0 0 0 10px;
 /* ===== Tabs Content ===== */
 .process-tabs .tabs {
     display: none;
-    background-color: var(--white-color);
+    background-color: #FFFFFF;
     border-radius: 24px;
     padding: 40px;
     max-width: 800px;
@@ -22051,6 +21947,7 @@ padding: 0 0 0 10px;
 
 .process-tabs .tabs h2 {
     color: #111827;
+    font-family: 'Poppins', sans-serif;
     font-size: 31px;
     font-weight: 600;
     margin-bottom: 17px;
@@ -22082,13 +21979,14 @@ padding: 0 0 0 10px;
 }
 
 .process-tabs .tabs a {
-    background-color: var(--first-color);
+    background-color: #4F46E5;
     color: #FFFFFF;
     display: inline-flex;
     align-items: center;
     gap: 10px;
     padding: 12px 28px;
     margin: 50px 0;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-weight: 500;
     text-decoration: none;
@@ -22100,9 +21998,9 @@ padding: 0 0 0 10px;
 }
 
 .process-tabs .tabs a:hover {
-    background-color: var(--first-color);
+    background-color: #4338CA;
     box-shadow: 0 6px 20px rgba(79, 70, 229, 0.6);
-    /* transform: translateY(-2px); */
+    transform: translateY(-2px);
 }
 
 .process-tabs .tabs .tabs-icons {
@@ -22170,130 +22068,4 @@ padding: 0 0 0 10px;
 .process-btn-effect:active {
     top: 2px;
 }
-
 /* ===== End new process section css ===== */
-
-
-/* hero bages slider start */
-.hero-bages-slides-div {
-    margin-top: 45px;
-}
-
-.hero-slider {}
-
-.hero-slider .hero-bage-p {
-    margin-top: 7%;
-    border-right: 2px solid var(--first-color);
-    line-height: 100px;
-    color: white;
-    font-weight: 800;
-    font-size: 18px;
-}
-
-
-
-
-.hero-bages-slider .h-img img {
-    width: 100%;
-    max-width: 150px;
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(11px);
-    -webkit-backdrop-filter: blur(11px);
-    border-radius: 16px;
-    padding: 12px 8px;
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    box-shadow:
-        0 8px 32px rgba(0, 0, 0, 0.35),
-        inset 0 0 0.5px rgba(255, 255, 255, 0.6);
-    color: #ffffff;
-}
-
-/* hero bages slider End */
-
-/* start about page bages slider */
-.about-bages-slides-div {
-    margin-top: 45px;
-}
- 
-
-
-
-.about-bages-slider .h-img {
-    width: 100%;
-    max-width: 450px;
-    height: 100%;
-    max-height: 420px;
-    background: rgb(150 185 185 / 22%);
-    padding: 10px 20px;
-    backdrop-filter: blur(11px);
-    -webkit-backdrop-filter: blur(11px);
-    border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    
-    color: #ffffff;
-    display: block;
-    margin: auto 0;
-}
-
-.about-bages-slider .h-img img{
-    width: 100%;
-    max-width: 120px;
-         filter: brightness(2) ;
-}
-
-/* End about page bages slider */
-
- .vision-section {
-    background: var(--light-grey);
-}
-
-.vision-tabs .nav-link {
-    border-radius: 30px;
-    border: 1px solid gray;
-    padding: 10px 30px;
-    margin: 5px;
-    color:gray;
-    background: white;
-    font-weight: 500;
-    transition: 0.3s;
-}
-
-.vision-tabs .nav-link:hover {
-    background: var(--first-color);
-    color: var(--white-color);
-}
-
-.vision-tabs .nav-link.active {
-    background: var(--first-color);
-    color: var(--white-color);
-    box-shadow: 0 4px 15px rgba(13, 110, 253, 0.3);
-}
-
-.vision-title {
-    font-size: 32px;
-    font-weight: 700;
-    margin-bottom: 15px;
-}
-
-.vision-text {
-    font-size: 16px;
-    color: #555;
-    line-height: 1.7;
-}
-
-.vision-img {
-    max-width: 100%;
-    border-radius: 12px;
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-    .vision-title {
-        font-size: 26px;
-        text-align: center;
-    }
-
-    .vision-text {
-        text-align: center;
-    }
-}

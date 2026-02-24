@@ -1,5 +1,3 @@
-/* Version: 1.0 | Last updated: 2026-02-16 */
-
 @media screen and (max-width:1920px) and (min-width:992px) {
 	.dropdown:hover>.dropdown-menu {
 		display: block;
@@ -3883,12 +3881,6 @@
 	/* all traders case study start */
 	.challenges-turned-section .challenges-turned-box img {}
 
-	/*Alejandro hero section case study start */
-	.Alejandro-hero-section .hero-img {
-		max-width: 900px;
-	}
-
-
 }
 
 @media only screen and (min-width:1600px) and (max-width:1919px) {
@@ -4201,13 +4193,6 @@
 	.load-board-hero-section .load-board-hero-img img {
 		max-width: 900px;
 	}
-
-	/* Alejandro case study start */
-	.Alejandro-hero-section .hero-img {
-		max-width: 950px;
-		margin-top: 86px;
-	}
-
 }
 
 @media only screen and (min-width:1920px) {
@@ -4330,7 +4315,7 @@
 	.real-estate h1,
 	.sports h1 {
 		font-size: 88px;
-		line-height: 80px;
+		line-height: 100px;
 	}
 
 	.portfolio .button-arounder {
@@ -4346,7 +4331,7 @@
 	/* Home */
 
 	.hero-main-rp {
-		padding: 200px 0px 100px;
+		padding: 280px 0px 100px;
 		left: 10%;
 	}
 
@@ -4819,7 +4804,9 @@
 		width: 50%;
 	}
 
-	.service-section-app .owl-theme .owl-nav .owl-prev {}
+	.service-section-app .owl-theme .owl-nav .owl-prev{
+		
+	}
 }
 
 @media (min-width: 355px) and (max-width: 399px) {
@@ -5495,16 +5482,6 @@
 		margin-top: 0;
 	}
 
-	/*start service pages banner section */
-	.services-box-section .banner-box-image {
-		aspect-ratio: 910 / 549;
-		border-radius: 30px;
-		padding: 24px 0 23px 63px;
-	}
-
-	/*End service pages banner section */
-
-
 	/*start banners section*/
 	.banner-box-section .banner-box-image {
 		aspect-ratio: 1592 / 981;
@@ -5687,23 +5664,10 @@
 
 	/*End banner setion */
 
-		/*start service pages banner section */
-	.services-box-section .banner-box-image {
-		aspect-ratio: 696 / 549;
-		border-radius: 30px;
-		padding: 24px 0 23px 63px;
-	}
-
-	/*End service pages banner section */
-
 }
 
 @media (max-width: 767px) {
-		/*Start services section banner */
-	
-.services-box-section .owl-theme .owl-nav.disabled+.owl-dots{
-    margin-top: -22px !important;
-}
+
 	/* services card slider */
 	.service-section-app .owl-theme .owl-nav .owl-next {
 		right: -475px;
@@ -5749,21 +5713,20 @@
 		font-size: 16px;
 		padding: 0 50px 0 50px;
 	}
-
+	
 	/* new process section */
-	.process-btns {
+	.process-btns{
 		background: none;
 		flex-direction: row;
 		flex-wrap: wrap;
 
 	}
-
 	.tabBtn.active {
-		background-color: #0F766E;
-		border-left: 2px solid #74E3D3;
-	}
+    background-color: #0F766E;
+    border-left: 2px solid #74E3D3;
+}
 
-	.process-btns button span {
+	.process-btns button span{
 
 		font-size: 10px;
 		gap: 0;
@@ -5771,35 +5734,22 @@
 
 	}
 
-	.process-btns button {
+	.process-btns button{
 		display: flex;
 		flex-direction: row;
-		width: fit-content;
+				width: fit-content;
 	}
-
-	.process-tabs .tabs {
+	.process-tabs .tabs{
 		height: 735px;
 
 	}
-
-	.process-tabs .tabs .tabs-icons {
+	.process-tabs .tabs .tabs-icons{
 		gap: 10px;
 		grid-template-columns: repeat(2, 1fr);
 		line-height: 25px;
 	}
-
-	.process-tabs .tabs .tabs-icons-wrapper i {
+	.process-tabs .tabs .tabs-icons-wrapper i{
 		font-size: 30px;
-
-	}
-
-	/* hero bages slider start */
-	.hero-slider .hero-bage-p {
-		margin-top: -7%;
-		border-right: none;
-		line-height: 100px;
-		font-weight: 800;
-		font-size: 24px;
 
 	}
 }
@@ -5880,21 +5830,20 @@
 	}
 
 
-
+	
 	/* new process section */
-	.process-btns {
+	.process-btns{
 		background: none;
 		flex-direction: row;
 		flex-wrap: wrap;
 
 	}
-
 	.tabBtn.active {
-		background-color: #0F766E;
-		border-left: 2px solid #74E3D3;
-	}
+    background-color: #0F766E;
+    border-left: 2px solid #74E3D3;
+}
 
-	.process-btns button span {
+	.process-btns button span{
 
 		font-size: 10px;
 		gap: 0;
@@ -5902,21 +5851,11 @@
 
 	}
 
-	.process-btns button {
+	.process-btns button{
 		display: flex;
 		flex-direction: row;
-		width: fit-content;
+				width: fit-content;
 	}
-
-	/* hero bages slider start */
-	.hero-slider .hero-bage-p {
-		margin-top: 9%;
-		line-height: 100px;
-		font-weight: 800;
-		font-size: 12px;
-
-	}
-
 }
 
 @media (min-width:992px) and (max-width:1199px) {
@@ -6056,11 +5995,10 @@
 	}
 
 	/* new process setion */
-	.tabBtn {
+	.tabBtn{
 		gap: 15px;
 		padding: 10px 7px;
 	}
-
 	.tabBtn span {
 
 		font-size: 12px;
@@ -6069,23 +6007,13 @@
 	.tabBtn.active span {
 		font-size: 12px;
 	}
-
-	.process-tabs .tabs .tabs-icons {
-		gap: 5px;
-	}
-
-	.process-tabs .tabs .tabs-icons-wrapper i {
+.process-tabs .tabs .tabs-icons{
+	gap: 5px;
+}
+	.process-tabs .tabs .tabs-icons-wrapper i{
 		font-size: 28px;
 	}
 
-	/* hero bages slider start */
-	.hero-slider .hero-bage-p {
-		margin-top: 9%;
-		line-height: 100px;
-		font-weight: 800;
-		font-size: 12px;
-
-	}
 }
 
 @media (min-width:1200px) and (max-width:1399px) {
@@ -6140,14 +6068,6 @@
 	.tabBtn.active span {
 		font-size: 13px;
 	}
-
-	/* hero bages slider start */
-	.hero-slider .hero-bage-p {
-		margin-top: 12%;
-		line-height: 100px;
-		font-weight: 800;
-		font-size: 13px;
-	}
 }
 
 @media (max-width: 991px) {
@@ -6167,11 +6087,6 @@
 
 	.hero-main-img {
 		max-width: 100%;
-	}
-
-	/* Alejandro objectives section case study start */
-	.Alejandro-objectives-section .central-line {
-		display: none;
 	}
 
 	/* all traders case study start */
@@ -6815,18 +6730,7 @@
 }
 
 @media (max-width: 991px) {
-	/*Start services section banner */
-	
-.services-box-section .owl-theme .owl-nav.disabled+.owl-dots{
-    margin-top: -28px;
-}
-	.services-box-section .owl-theme .owl-dots .owl-dot span{
-    height: 0.3em;
-    width: 0.3em;
-    margin: 3px;
-}
 
-	/*end services section banner */
 	/* home  */
 	.portfolio-wide-image img {
 		display: block;
@@ -6962,17 +6866,6 @@
 }
 
 @media (max-width: 480px) {
-
-	
-		/*start service pages banner section */
-	.services-box-section .banner-box-image {
-		aspect-ratio: 531 / 549;
-		border-radius: 30px;
-		padding: 24px 0 23px 63px;
-	}
-
-	/*End service pages banner section */	
-
 	.user-testing-img {
 		top: -35px;
 	}
@@ -7419,25 +7312,23 @@
 	}
 
 
-	/* new process section */
-
-	.process-tabs .tabs {
+		/* new process section */
+	 
+	.process-tabs .tabs{
 		height: 815px;
 
 	}
-
+	 
 	.process-tabs .tabs .tabs-icons-wrapper {
 		gap: 10px;
 		margin: 10px 0;
 
 	}
-
-	.process-tabs .tabs .tabs-icons-wrapper i {
+	.process-tabs .tabs .tabs-icons-wrapper i{
 		font-size: 25px;
 
 	}
-
-	.process-tabs .tabs ul li {
+	.process-tabs .tabs ul li{
 		font-size: 16px;
 	}
 }
@@ -7722,106 +7613,3 @@
         display: block;
     }  
 } */
-
-@media (min-width:375px) and (max-width: 767px) {
-    .hero-section-royalRide {
-        background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 10%);
-        padding-top: 100px;
-        margin-bottom: 2px;
-
-    }
-
-    .royalRideLogo p {
-        text-align: center;
-    }
-
-    .royalRideLogo h1 {
-        font-weight: 600;
-        font-style: normal;
-        font-size: 50px;
-        line-height: 62px;
-    }
-
-    .royalRideLogo img {
-        width: 110px;
-    }
-
-    .hero-img-1 img {
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-@media (max-width: 374px) {
-    .hero-section-royalRide {
-        padding-top: 140px;
-        margin-bottom: 32px;
-
-    }
-
-    .royalRideLogo p {
-        text-align: center;
-    }
-
-    .royalRideLogo h1 {
-        font-size: 50px;
-        line-height: 62px;
-    }
-
-    .royalRideLogo img {
-        width: 110px;
-    }
-
-    .hero-img-1 img {
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-/* --- Large Screens (Desktops) --- */
-@media (min-width: 1200px) {
-
-    .problem-left-container img,
-    .problem-right-container img {
-        width: 800px;
-        height: 600px;
-    }
-}
-
-/* --- Tablets (768px to 1199px) --- */
-@media (max-width: 1199px) {
-    .Problem-section {
-        padding: 50px 0;
-    }
-
-    .problem-left-container img,
-    .problem-right-container img {
-        max-width: 420px;
-    }
-}
-
-/* --- Mobile (up to 767px) --- */
-@media (max-width: 767px) {
-    .Problem-section {
-        padding: 10px 0;
-        text-align: center;
-    }
-
-    .problem-left-container,
-    .problem-right-container {
-        margin-bottom: 30px;
-    }
-
-    .Problem-section h2 {
-        font-size: 26px;
-    }
-
-    .Problem-section p {
-        font-size: 15px;
-    }
-
-    .problem-left-container img,
-    .problem-right-container img {
-        max-width: 100%;
-    }
-}

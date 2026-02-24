@@ -1,3 +1,5 @@
+/* Version: 1.0 | Last updated: 2026-02-16 */
+
 (function ($) {
     "use strict";
 
@@ -148,8 +150,8 @@ function animateCounter(id, target, suffix = "") {
         autoplay: true,
         centre: true,
         margin: 45,
-        nav: true,
-        dots: false,
+        nav: false,
+        dots: true,
         autoplayTimeout: 9000,
         autoplayHoverPause: true,
         smartSpeed: 6000,
@@ -161,13 +163,11 @@ function animateCounter(id, target, suffix = "") {
             },
             520: {
                 items: 1 ,
-                dots: true,
-                  nav: false,
+                 
             },
             768: {
                 items: 2,
-                 dots: true,
-                  nav: false,
+                 
             },
             1200: {
                 items: 3
@@ -217,6 +217,35 @@ function animateCounter(id, target, suffix = "") {
             },
         }
     });
+
+    //Owl-Carousel - Reviews testimonial
+    var owl = $('.hero-bages-slider');
+    owl.owlCarousel({
+        items: 1,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 6000,
+        autoplayHoverPause: true,
+        smartSpeed: 500,
+          nav: false,
+        dots: false,
+        autoHeight: true,
+        margin: 13,
+        responsive: {
+            0: {
+                items: 3
+            },
+            768: {
+                items: 2
+            },
+            1024: {
+                items: 3
+            },
+            1400: {
+                items: 3
+            }
+        }
+    });
     //Owl-Carousel - Home banner
     var owl = $('.banner-slider');
     owl.owlCarousel({
@@ -253,7 +282,45 @@ function animateCounter(id, target, suffix = "") {
             },
         }
     });
+    
+    //Owl-Carousel - services pages banner
 
+    var owl = $('.service-banner-slider');
+    owl.owlCarousel({
+        items: 4,
+        loop: true,
+        autoplay: true,
+        centre: true,
+        margin: 15,
+        nav: false,
+        dots: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 2000,
+        responsiveClass: true,
+        rewind: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            520: {
+                items: 1
+            },
+            768: {
+                items: 1
+            },
+            1200: {
+                items: 1
+            },
+            1400: {
+                items: 1
+            },
+            1600: {
+                items: 1
+            },
+        }
+    });
+    
     //Owl-Carousel - Reviews testimonial
     var owl = $('.reviews-slider');
     owl.owlCarousel({

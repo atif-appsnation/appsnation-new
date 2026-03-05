@@ -156,7 +156,7 @@
 
 
 
-						<a data-bs-toggle="modal" data-bs-target="#myModal" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Let's Connect
+						<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Let's Connect
 							<span class="circle"> </span>
 						</a>
 					</div>

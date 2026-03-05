@@ -8,7 +8,7 @@
 
 				<div class="col-12 col-md-6 mb-4 mb-md-0">
 					<div class="royalRideLogo">
-						<img src="{{ asset('images/case-studies/royal-ride/Logo.webp') }}" alt="Royal ride"
+						<img src="{{ asset('images/case-studies/Royal-Ride/Logo.webp') }}" alt="Royal ride"
 							class="img-fluid mb-3">
 						<p class=" mb-1">Case Study</p>
 						<h1 class="fw-bold">Royal Ride <br> Mobile App</h1>
@@ -17,7 +17,7 @@
 
 				<div class="col-12 col-md-6 mb-4 mb-md-0">
 					<div class="hero-img-1 text-center">
-						<img src="{{ asset('images/case-studies/royal-ride/1.webp') }}" alt="" class="img-fluid">
+						<img src="{{ asset('images/case-studies/Royal-Ride/1.webp') }}" alt="" class="img-fluid">
 					</div>
 				</div>
 
@@ -35,7 +35,7 @@
 		<div class="container">
 			<div class="row align-items-center text-center text-md-start">
 				<div class="col-12 col-md-6 mb-4 mb-md-0 problem-left-container">
-					<img src="{{ asset('images/case-studies/royal-ride/ride-booking-process.webp') }}" class="img-fluid" alt="">
+					<img src="{{ asset('images/case-studies/Royal-Ride/new4.webp') }}" class="img-fluid" alt="">
 				</div>
 
 				<div class="col-md-6 uiux-text-col">
@@ -65,7 +65,7 @@
 			<div class="row">
 				<div class="col-lg-4 d-flex justify-content-center mb-5 mb-lg-0">
 					<div class="phone-screen">
-						<img src="{{ asset('images/case-studies/royal-ride/6.webp') }}" alt="" srcset="">
+						<img src="{{ asset('images/case-studies/Royal-Ride/6.webp') }}" alt="" srcset="">
 					</div>
 
 				</div>
@@ -183,13 +183,13 @@
 					</div>
 
 					<div class="busniess-img-paytem">
-						<img src="{{ asset('images/case-studies/royal-ride/business3.webp') }}" alt="">
+						<img src="{{ asset('images/case-studies/Royal-Ride/business3.webp') }}" alt="">
 					</div>
 				</div>
 
 				<div class="col-lg-4 order-lg-2 order-1  busniess-img-phone    justify-content-center mb-5 mb-lg-0">
 					<div class="bussness-img">
-						<img src="{{ asset('images/case-studies/royal-ride/business1.webp') }}"
+						<img src="{{ asset('images/case-studies/Royal-Ride/business1.webp') }}"
 							class="img-fluid person-image mb-4" alt="Person using phone">
 					</div>
 					<div class="info-card">
@@ -208,7 +208,7 @@
 							load times, easy booking and more luxurious experience</p>
 					</div>
 					<div class="bussness-img-lady">
-						<img src="{{ asset('images/case-studies/royal-ride/business2.webp') }}"
+						<img src="{{ asset('images/case-studies/Royal-Ride/business2.webp') }}"
 							class="img-fluid person-image mb-4" alt="Person using phone">
 					</div>
 
@@ -328,7 +328,7 @@
 						<div class="col-md-4">
 							<div class="persona-card persona-left-column-card">
 								<div class="persona-name-section">
-									<img src="{{ asset('images/case-studies/royal-ride/avtar1.webp') }}"
+									<img src="{{ asset('images/case-studies/Royal-Ride/avtar1.webp') }}"
 										alt="Fatima Al-Thani Avatar">
 									<h4>Sara</h4>
 									<p> Lifestyle & Events User</p>
@@ -373,7 +373,7 @@
 					<div class="col-md-4">
 						<div class="persona-card persona-left-column-card">
 							<div class="persona-name-section">
-								<img src="{{ asset('images/case-studies/royal-ride/Avatar2.webp') }}"
+								<img src="{{ asset('images/case-studies/Royal-Ride/Avatar2.webp') }}"
 									alt="Andrew Smith Avatar">
 								<h4>John</h4>
 								<p>International Visitor </p>
@@ -416,7 +416,7 @@
 					<div class="col-md-4">
 						<div class="persona-card persona-left-column-card">
 							<div class="persona-name-section">
-								<img src="{{ asset('images/case-studies/royal-ride/Avatar3.webp') }}"
+								<img src="{{ asset('images/case-studies/Royal-Ride/Avatar3.webp') }}"
 									alt="Ahmed Al-Kuwari Avatar">
 								<h4>Ahmed </h4>
 								<p> Corporate Executive</p>
@@ -468,7 +468,7 @@
 				</div>
 				<div class="col-lg-10 col-md-10 col-12 d-flex justify-content-center">
 					<div class="comp-analysis-image-wrapper">
-						<img src="{{ asset('images/case-studies/royal-ride/9.webp') }}" alt="Competitor Analysis Chart"
+						<img src="{{ asset('images/case-studies/Royal-Ride/9.webp') }}" alt="Competitor Analysis Chart"
 							class="comp-analysis-image">
 					</div>
 				</div>
@@ -504,7 +504,7 @@
 
 				<div class="col-md-6 uiux-image-col">
 					<div class="uiux-image-card">
-						<img src="{{ asset('images/case-studies/royal-ride/10.webp') }}" alt="UI/UX Design Mockup"
+						<img src="{{ asset('images/case-studies/Royal-Ride/10.webp') }}" alt="UI/UX Design Mockup"
 							class="uiux-image">
 					</div>
 				</div>
@@ -520,53 +520,53 @@
 			<h3 class="my-4 text-center">App Screens</h3>
 
 			<div class="row">
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-1.webp')  }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-1.webp')  }}"
 					    class="img-fluid" alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-2.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-2.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-3.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-3.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-4.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-4.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-5.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-5.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-6.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-6.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-7.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-7.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-8.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-8.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-9.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-9.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-10.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-10.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-11.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-11.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-12.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-12.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-13.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-13.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-14.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-14.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-15.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-15.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-16.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-16.webp') }}"
 						    class="img-fluid" alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-17.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-17.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-18.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-18.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-19.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-19.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-21.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-21.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-22.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-22.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-23.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-23.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-24.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-24.webp') }}"
 					    class="img-fluid"	alt=""></div>
-				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/royal-ride/app-screen-25.webp') }}"
+				<div class="col-md-3 col-6 my-3"><img src="{{ asset('images/case-studies/Royal-Ride/app-screen-25.webp') }}"
 					    class="img-fluid"	alt=""></div>
 			</div>
 		</div>
@@ -596,7 +596,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 order-1 order-md-2 text-center text-md-end">
-					<img src="{{ asset('images/case-studies/royal-ride/last.webp') }}"
+					<img src="{{ asset('images/case-studies/Royal-Ride/last.webp') }}"
 						alt="A depiction of the streamlined ride booking user interface" class="img-fluid research-image">
 				</div>
 			</div>
@@ -614,7 +614,7 @@
 				</div>
 				<div class="col-lg-10 col-md-10 col-12 d-flex justify-content-center">
 					<div class="comp-analysis-image-wrapper">
-						<img src="{{ asset('images/case-studies/royal-ride/morkup-last.webp') }}" alt="" srcset="">
+						<img src="{{ asset('images/case-studies/Royal-Ride/morkup-last.webp') }}" alt="" srcset="">
 					</div>
 				</div>
 			</div>

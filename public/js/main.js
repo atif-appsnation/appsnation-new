@@ -1,5 +1,3 @@
-/* Version: 1.0 | Last updated: 2026-02-16 */
-
 (function ($) {
     "use strict";
 
@@ -218,7 +216,7 @@ function animateCounter(id, target, suffix = "") {
         }
     });
 
-    //Owl-Carousel - Reviews testimonial
+    //Owl-Carousel - Reviews bages home
     var owl = $('.hero-bages-slider');
     owl.owlCarousel({
         items: 1,
@@ -237,6 +235,34 @@ function animateCounter(id, target, suffix = "") {
             },
             768: {
                 items: 2
+            },
+            1024: {
+                items: 3
+            },
+            1400: {
+                items: 3
+            }
+        }
+    });
+    //Owl-Carousel - Reviews bages about
+    var owl = $('.about-bages-slider');
+    owl.owlCarousel({
+        items: 1,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 6000,
+        autoplayHoverPause: true,
+        smartSpeed: 500,
+          nav: false,
+        dots: false,
+        autoHeight: true,
+        margin: 13,
+        responsive: {
+            0: {
+                items: 3
+            },
+            768: {
+                items: 3
             },
             1024: {
                 items: 3

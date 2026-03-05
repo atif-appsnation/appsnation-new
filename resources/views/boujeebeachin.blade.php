@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="{{asset('images/case-studies/boujee-beachin/header-logo.webp')}}" class="w-50" alt="Boujee Beachin App Logo" width="100%" height="100%">
+			<img src="{{asset('images/case-studies/boujee-beachin/header-logo.webp')}}" class="boujee-beachin-logo" alt="Boujee Beachin App Logo" >
 				<div class="bread-titlev2 mt-4">
 					<h1>
                         <span>100+</span> Goals Achieved,
@@ -36,7 +36,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<img src="{{asset('images/case-studies/boujee-beachin/problem-statement.webp')}}" alt="Boujee Beachin Problem Statement" width="100%" height="100%">
+				<img src="{{asset('images/case-studies/boujee-beachin/problem-statement.webp')}}" alt="Boujee Beachin Problem Statement"  >
 			</div>
             <div class="col-lg-6 my-lg-auto">
                 <div class="common-heading">
@@ -60,28 +60,28 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-lg-7">
-                        <div class="info-card">
+                        <div class="info-card1">
                             <div class="card-number-circle">01</div>
                             <h5>Royal Experience in Qatar</h5>
                             <p>Create Qatar's most luxurious ride-booking app with a smooth, stylish, and safe user experience.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5">
-                        <div class="info-card">
+                        <div class="info-card1">
                             <div class="card-number-circle">02</div>
                             <h5>Easy & Elegant Booking</h5>
                             <p>Simplify ride booking with an elegant UI, fast navigation, car previews, and real-time tracking.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5">
-                        <div class="info-card">
+                        <div class="info-card1">
                             <div class="card-number-circle">03</div>
                             <h5>VIP Features for Trust</h5>
                             <p>Build user trust with features like chauffeur info, elite car options, and premium support.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-7">
-                        <div class="info-card">
+                        <div class="info-card1">
                             <div class="card-number-circle">04</div>
                             <h5>Premium User Support</h5>
                             <p>Deliver a top-tier support experience to enhance user satisfaction and reliability.</p>
@@ -479,7 +479,7 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-1.webp')}}" alt="App Screens"   class="img-fluid"></div>
             <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-2.webp')}}" alt="App Screens" class="img-fluid"></div>
             <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-3.webp')}}" alt="App Screens" class="img-fluid"></div>
             <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
@@ -620,14 +620,14 @@
         </div>
 
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-1.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-2.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-3.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-4.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-5.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-6.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-7.webp')}}" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-8.webp')}}" alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-1.webp')}}" class="img-fluid" alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-2.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-3.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-4.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-5.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-6.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-7.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-8.webp')}}" class="img-fluid"  alt="Vendor App"></div>
         </div>
     </div>
 </section>

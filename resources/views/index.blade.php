@@ -163,7 +163,7 @@
 						<p>A stylish shopping experience designed to bring premium beach essentials right to your fingertips with ease and elegance. From discovering trending products to finding everything for your perfect beach day/p>
 						<div class="banner-btn">
 							<a href="{{url('/case-studies/boujee-beachin-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+								<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -177,7 +177,7 @@
 						<p>A smart digital solution designed to simplify your daily needs by combining innovation with seamless user experience. From managing tasks efficiently to accessing services faster, Wood Land is built to make your life easier and more productive.</p>
 						<div class="banner-btn">
 							<a href="{{url('/case-studies/wood-land-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+								<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -189,7 +189,7 @@
 						<p>An engaging learning experience designed to strengthen young minds by blending fun gameplay with cognitive development. From sharpening memory skills to boosting problem-solving abilities, Neuro Knights is built to make learning exciting and impactful.</p>
 						<div class="banner-btn">
 							<a href="{{url('/case-studies/neuro-knights-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -558,7 +558,7 @@
 								<li>Select the right technology stack.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -591,7 +591,7 @@
 								<li>Refine concepts and arrange all design components properly.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -623,7 +623,7 @@
 								<li>Additional functionality is added in the second stage.</li>
 								<li>We follow an agile approach for flexible planning.</li>
 							</ul>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -656,7 +656,7 @@
 								<li>Ensure app functions correctly in real-world scenarios.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -690,7 +690,7 @@
 							</ul>
 
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -723,7 +723,7 @@
 								<li>Ensure smooth app performance and updates.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -1208,7 +1208,7 @@
 					<div class="banner-btn">
 						<a
 							href="#" target="_blank" aria-label="Appsnation Contact">Explore App</a>
-						<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+						<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 					</div>
 				</div>
 			</div>

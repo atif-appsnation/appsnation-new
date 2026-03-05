@@ -9,7 +9,7 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-between">
-			<div class="col-md-12 col-lg-4 order-2 order-md-1 my-auto wow fadeIn">
+			<div class="col-md-12 col-lg-6 order-2 order-md-1 my-auto wow fadeIn">
 
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Empower Your Business with Next-Gen Digital Services</h1>
@@ -129,7 +129,7 @@
 
 
 
-						<a data-bs-toggle="modal" data-bs-target="#myModal" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Book Mobile App Consultation
+						<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Book Mobile App Consultation
 							<span class="circle"> </span>
 						</a>
 					</div>
@@ -691,7 +691,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/ar-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -704,7 +704,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/android-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -718,7 +718,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/cross-platform-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -817,7 +817,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12 fadeIn my-5">
-				<div data-text="Connected" class="light-bg-text bg-text text-start">
+				<div data-text="Connected service" class="light-bg-text bg-text text-start">
 					<div class="sctxt">Connected Devices</div>
 				</div>
 
@@ -914,7 +914,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/e-commerce-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -928,7 +928,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/game-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -942,7 +942,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/ios-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -1208,7 +1208,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/iot-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -1223,7 +1223,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/vr-app-development')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -1238,7 +1238,7 @@
 						<div class="banner-btn">
 							<a
 								href="{{url('/web-app-development	t')}}" target="_blank" aria-label="Appsnation Contact">Explore Our Services</a>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -1519,7 +1519,7 @@
 								<li>Select the right technology stack.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -1552,7 +1552,7 @@
 								<li>Refine concepts and arrange all design components properly.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -1584,7 +1584,7 @@
 								<li>Additional functionality is added in the second stage.</li>
 								<li>We follow an agile approach for flexible planning.</li>
 							</ul>
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -1617,7 +1617,7 @@
 								<li>Ensure app functions correctly in real-world scenarios.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -1651,7 +1651,7 @@
 							</ul>
 
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -1684,7 +1684,8 @@
 								<li>Ensure smooth app performance and updates.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup
+							" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">

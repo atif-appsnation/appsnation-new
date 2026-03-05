@@ -37,7 +37,7 @@
 					<div data-text="Cross" class="light-bg-text bg-text ">
 						<h2>Why You Must Have A<br><span class="flup-theme">Cross-Platform Mobile Application</span></h2>
 					</div>
-					<p><strong>There are several reasons cross-platform mobile application benefits you and your business.</strong></p>
+					<p><strong>There are Several Reasons Cross-Platform Mobile Application Benefits You and Your Business.</strong></p>
 					<p>First, cross-platform <a href="{{url('/mobile-app-development')}}" target="_blank">mobile app development</a> has one programming language for coding that can work on any platform. Therefore, it branches into the other benefits of having a cross-platform app, such as the reduced cost of owning a mobile app for a great fortune. Want to rush mobile app development? A cross-platform mobile app is ideal for you.</p>
 					<p>Cross-platform mobile apps ease developers to customize apps based on their dynamic requirements conveniently. Thus, enabling you to follow the <a href="{{url('/digital-marketing')}}" target="_blank">marketing</a> and consumer psychology trends easily. The best thing about the cross-platform app is the versatility across the different platforms, delivering the same user experience on multiple devices - uniform branding.</p>
 					<a href="pdf/cross-platform-app.pdf" target="_blank" class="btn-main button-arounder lnk mt-4">Download Cross Platform App Profile
@@ -500,7 +500,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -514,7 +513,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -530,7 +528,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -543,7 +540,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -594,30 +590,58 @@
         </div>
 		
 		
-        <div class="testimonial-card-a owl-carousel owl-theme">
-            <!-- <div class="row mt-3 px-3"> -->
-			@foreach($testimonials as $item)
-                <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
-					<div class="tcd card h-100">
+       <div class="testimonial-card-a owl-carousel owl-theme">
+			@foreach($testimonials as $key => $item)
+
+			<div class="tcd card h-100">
+				<div class="row">
+					<div class="col-lg-6 position-relative">
+
+						<!-- Overlay -->
+						<div class="video-overlay"
+							data-target="player-{{$key}}"
+							style="position:absolute;top:0;left:0;width:100%;height:100%;cursor:pointer;z-index:2;">
+						</div>
+
+						<!-- YouTube Video -->
+						<iframe
+							id="player-{{$key}}"
+							class="youtube-player testimonial-video"
+
+						src="{{$item['comments']}}"	
+						title="Client Testimonial"
+
+							frameborder="0"
+							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+							referrerpolicy="strict-origin-when-cross-origin"
+							allowfullscreen>
+						</iframe>
+
+					</div>
+
+					<div class="col-lg-6">
 						<div class="testimonial-card card-body">
 							<div class="tt-text">
 								<p>{{$item['title']}}</p>
 							</div>
+
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
 									<div class="media-body user-info v-center">
-										<h5>{{$item['name']}}</h5>
-										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+										<h3>{{$item['name']}}</h3>
+										<p>{{$item['location']}}</p>
+										<i class="fas fa-quote-right posiqut"></i>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-                <!-- </div> -->
-            @endforeach
-            <!-- </div> -->
-        </div>
+
+				</div>
+			</div>
+
+			@endforeach
+		</div>
         <div class="row mt-5">
             <div class="col-12">
                 <div class="row">

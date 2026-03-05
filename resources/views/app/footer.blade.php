@@ -6,13 +6,13 @@
 @endif
 
 <!--Start Enquire Form-->
-<section class="contact py-5">
+<!-- <section class="contact py-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 mt-4 mt-md-4 mt-lg-0">
                 <div class="niwax23form shadow">
                     <div class="common-heading text-l">
-                        <!-- <span>Contact Now</span> -->
+
                         {!! NoCaptcha::renderJs() !!}
                         <h2 class="mt0 mb0">Have Question? Write a Message</h2>
                         <p class="mb60 mt20 text-start">We will catch you as early as we receive the message</p>
@@ -74,7 +74,111 @@
                 </div>
             </div>
         </div>
+</section> -->
+
+<section class="contact py-5">
+    <div class="container">
+        <div class="row justify-content-center shadow inquiry-from">
+            <div class="col-lg-4">
+                <img src="images/about-us/office-boy4.png" class="img-fluid d-block mx-auto">
+            </div>
+            <div class="col-lg-4 mt-5 ">
+                <div class="common-heading text-l">
+                    <!-- <span>Contact Now</span> -->
+                    {!! NoCaptcha::renderJs() !!}
+                    <h2 class="mt0 mb0"><span>Let’s Create <br>
+                        </span> Digital Success Together</h2>
+                    <p class="mb20 mt20 text-start">We design, develop, and market solutions that drive real business growth.
+                    </p>
+                    <div class="d-md-flex flex-lg-column   justify-content-between">
+
+                        <ul>
+                            <li><i class="fa-solid fa-phone"></i><a href="tel:+13237989803">+1 (323) 798-9803 </a></li>
+                            <li><i class="fas fa-envelope"></i> <a href="mailto:info@appsnation.co">info@appsnation.co</a> </li>
+                            <li><i class="fas fa-envelope"></i> <a href="mailto:sales@appsnation.co">sales@appsnation.co</a> </li>
+                        </ul>
+                        <div class="fttlnks flexend mt-3">
+                            <h3>Follow Us</h3>
+                            <div class="ff-social-icons mt10 mt-md-0">
+                                <a href="https://www.facebook.com/appsnation.co" target="blank">
+                                    <i class="fa-brands fa-facebook"></i>
+                                </a>
+                                <a href="https://x.com/AppsnationCo" target="blank">
+                                    <i class="fa-brands fa-x-twitter"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/appsnation/" target="blank">
+                                    <i class="fa-brands fa-linkedin-in"></i>
+                                </a>
+                                <a href="https://www.instagram.com/appsnation.us/" target="blank">
+                                    <i class="fa-brands fa-instagram"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="col-lg-4 ">
+                <div class="niwax23form ">
+                    <div class="common-heading text-l">
+                        <!-- <span>Contact Now</span> -->
+                        {!! NoCaptcha::renderJs() !!}
+                        <h4 class="mt-2 mb-2">Contact Us</h4>
+                    </div>
+                    <div class="form-block contact-us-form">
+                        <form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
+                            @csrf
+                            <div class="row">
+                                <div class="form-group col-sm-12">
+                                    <input type="text" name="name" id="name" placeholder=" Enter your full name" required="" data-error="Please fill Out" maxlength="50">
+                                    <div class="help-block with-errors"></div>
+
+                                    <input type="email" name="email" id="email" placeholder=" Enter your email address" required="" maxlength="50">
+                                    <div class="help-block with-errors"></div>
+
+                                    <input type="text" id="mobile" name="mobile" placeholder=" Enter your phone number" required="" data-error="Please fill Out" maxlength="20">
+                                    <div class="help-block with-errors"></div>
+
+
+                                    <select name="service" class="custom-select">
+                                        <option selected=""> Select a service</option>
+                                        <option value="mobile-app-development">Mobile App Development</option>
+                                        <option value="ar-vr-app-development">AR & VR App Development</option>
+                                        <option value="strategic-design-consultancy">Strategic Design Consultancy</option>
+                                        <option value="mobile-app-qa-and-testing">Mobile App QA and Testing</option>
+                                        <option value="web-portal-development">Web Portal Development</option>
+                                        <option value="connected-devices">Connected Devices</option>
+                                    </select>
+                                    <div class="help-block with-errors"></div>
+
+                                    <input type="text" id="company" name="company" placeholder=" Enter company name (optional)" required="" data-error="" maxlength="50">
+
+                                    <!-- <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out" maxlength="50">
+                                    <div class="help-block with-errors"></div> -->
+
+                                    <textarea id="message" name="message" rows="5" placeholder=" Tell us about your project" required="" maxlength="500"></textarea>
+                                    <div class="help-block with-errors"></div>
+
+                                </div>
+                            </div>
+
+                            <div class="form-group mb-2 captchaContainer3" id="captchaContainer">
+                                {!! NoCaptcha::display() !!}
+                            </div>
+                            <button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+                                <i class="fas fa-chevron-right fa-icon"></i>
+                            </button>
+                            <div id="msgSubmit" class="h3 text-center hidden"></div>
+                            <div class="clearfix"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
 </section>
+
+
 <!--End Enquire Form-->
 
 <!--Start Location-->
@@ -337,7 +441,10 @@
                         <div class="row">
                             <div class="form-group col-sm-5 from-cta-left-img">
                                 <div class="from-cta-img-content">
-                                    <h3> Let’s Build <br> Some Extraordinary </h3>
+                                    <h3>
+                                        Let’s Build
+                                        <br> Some Extraordinary
+                                    </h3>
                                     <p> We design and develop high-performance digital solutions that help businesses grow and scale. </p>
                                     <div class="modal-icons">
                                         <div class="modal-icon">
@@ -348,8 +455,10 @@
                                             <i class="fas fa-user-headset"></i>
                                             <p>24/7 Support</p>
                                         </div>
+
                                     </div>
                                     <div class="modal-icons">
+
                                         <div class="modal-icon">
                                             <i class="fas fa-pencil-ruler"></i>
                                             <p>Premium UI/UX Design</p>
@@ -373,10 +482,14 @@
                                     <div class="col-md-6">
                                         <input type="text" id="name" name="name" placeholder="Your Full Name" required="" data-error="Please fill Out" class="form-control" maxlength="50">
                                         <div class="help-block with-errors"></div>
+
                                         <input type="email" id="email" name="email" placeholder="Business Email Address" required="" maxlength="50">
                                         <div class="help-block with-errors"></div>
+
                                         <input type="text" id="mobile" name="mobile" placeholder="Phone Number" required="" data-error="Please fill Out">
                                         <div class="help-block with-errors"></div>
+
+
                                     </div>
                                     <div class="col-md-6">
                                         <input type="text" name="company" id="company" placeholder="Company Name (Optional)" required="" data-error="" maxlength="50">
@@ -393,20 +506,34 @@
                                             <option value="connected-devices">Connected Devices</option>
                                         </select>
                                         <div class="help-block with-errors"></div>
+
+
                                     </div>
                                     <div class="col-md-12">
                                         <textarea id="message" name="message" rows="5" placeholder="Tell us about your project requirements, objectives, and timeline… " required="" maxlength="500"></textarea>
                                         <div class="help-block with-errors"></div>
+
+
                                         {!! NoCaptcha::renderJs() !!}
                                         {!! NoCaptcha::display() !!}
                                     </div>
                                 </div>
+
+
+
                                 <div class="modal-footer">
                                     <button type="submit" name="submit" id="form-submit" class="btn lnk button-arounder bg-btn">Get Free Consultation
                                         <i class="fas fa-chevron-right fa-icon"></i></button>
                                 </div>
+
+
                             </div>
+
                         </div>
+
+
+
+
                     </form>
                 </div>
             </div>
@@ -425,7 +552,7 @@
 <script src="{{asset('js/owl.navigation.js')}}"></script>
 <script src="{{asset('js/owl.autoplay.js')}}"></script>
 <script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
-<script src="{{asset('js/main.js?v=1.0')}}"></script>
+<script src="{{asset('js/main.js')}}"></script>
 <script src="{{asset('js/validate.js')}}"></script>
 <script src="{{asset('js/jquery.steps.js')}}"></script>
 <script src="{{asset('js/cost-calculator.js')}}"></script>
@@ -505,25 +632,23 @@
 
     function checkCookie() {
         let user = getCookie("username11");
-            if (window.innerWidth >= 1320) {
-        if (user != "") {
-            // alert("Welcome again " + user);
-            console.log("no");
-        } else {
-                let delay = (Math.floor(Math.random() * 6) + 5) * 1000;
+        if (window.innerWidth >= 1320) {
+            if (user != "") {
+                // alert("Welcome again " + user);
+                console.log("no");
+            } else {
+                let delay = (Math.floor(Math.random() * 6) + 65) * 1000;
                 setTimeout(() => {
                     $('#myModal').modal('show');
                 }, delay);
                 console.log(delay);
-                
-
             }
             console.log("yes");
 
             user = "talha";
             // user = prompt("Please enter your name:", "");
             if (user != "" && user != null) {
-                setCookie("username11", user, 0.5);
+                setCookie("username11", user, 1);
             }
         }
     }

@@ -66,7 +66,7 @@
 
 	<meta name="msvalidate.01" content="B6573BB85FA171B912D3AA6D332A1886" />
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 	<!-- <meta name="theme-color" content="#4302b2"> -->
 	<link href="{{asset('images/logo/favicon.webp')}}" rel="icon">
 	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
@@ -76,13 +76,12 @@
 	<link href="{{asset('css/owl.theme.default.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/all.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/manrope.css')}}" rel="stylesheet">
-	<link href="{{asset('css/style.css?v=1.1')}}" rel="stylesheet">
-	<link href="{{asset('css/responsive.css?v=1.1')}}" rel="stylesheet">
+	<link href="{{asset('css/style.css')}}" rel="stylesheet">
+	<link href="{{asset('css/responsive.css')}}" rel="stylesheet">
 	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">
 	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
 	<link rel="canonical" href="{{url()->current()}}" />
-	<meta name="robots" content="index,follow">
-	<meta name="robots" content="noamp">
+
 	<script defer async src='https://cdn.trustindex.io/loader-cert.js?e602dd35651a2533dc5613101eb'></script>
 
 	<!-- Meta Pixel Code -->
@@ -723,15 +722,15 @@
 	</header>
 
 	<!-- Mobile Contact -->
-	<div class="popup-modal">
-		<div class="modal" id="menu-popup">
+	<div class="popup-modal bg-modal">
+		<div class="modal" id="menu-popup" >
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<div class="common-heading">
 							<h4 class="mt0 mb0">Write a Message</h4>
 						</div>
-						<button type="button" class="closes" data-dismiss="modal">&times;</button>
+						<button type="button" class="btn-close" data-bs-dismiss="modal"></button>
 					</div>
 					<!-- Modal body -->
 					<div class="modal-body">
@@ -741,7 +740,7 @@
 
 								<div class="fieldsets row">
 									<div class="col-md-12">
-										<input type="text" placeholder="Full Name" name="name">
+										<input type="text" placeholder="Full Name" name=" ssname">
 									</div>
 									<div class="col-md-12">
 										<input type="email" placeholder="Email Address" name="email">
@@ -767,57 +766,56 @@
 		</div>
 	</div>
 	<!-- Mobile Contact -->
-
 	<script>
-		function setCookie(cname, cvalue, exdays) {
-			const d = new Date();
-			d.setTime(d.getTime() + ((exdays * 0.000694444) * 24 * 60 * 60 * 1000));
-			let expires = "expires=" + d.toUTCString();
-			document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-		}
+    function setCookie(cname, cvalue, exdays) {
+        const d = new Date();
+        d.setTime(d.getTime() + ((exdays * 0.000694444) * 24 * 60 * 60 * 1000));
+        let expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
 
-		function getCookie(cname) {
-			let name = cname + "=";
-			let decodedCookie = decodeURIComponent(document.cookie);
-			let ca = decodedCookie.split(';');
-			for (let i = 0; i < ca.length; i++) {
-				let c = ca[i];
-				while (c.charAt(0) == ' ') {
-					c = c.substring(1);
-				}
-				if (c.indexOf(name) == 0) {
-					return c.substring(name.length, c.length);
-				}
-			}
-			return "";
-		}
+    function getCookie(cname) {
+        let name = cname + "=";
+        let decodedCookie = decodeURIComponent(document.cookie);
+        let ca = decodedCookie.split(';');
+        for (let i = 0; i < ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
 
-		function checkCookie() {
-			let user = getCookie("username11");
-				if (window.innerWidth <= 1320) {	
+    function checkCookie() {
+        let user = getCookie("username11");
+            if (window.innerWidth <= 1320) {	
 
-			if (user != "") {
-				// alert("Welcome again " + user);
-				console.log("no");
-			} else {
-					let delay = (Math.floor(Math.random() * 6) + 5) * 1000;
-					setTimeout(() => {
-						$('#menu-popup').modal('show');
-					}, delay);
-					console.log(delay);
-					
+        if (user != "") {
+            // alert("Welcome again " + user);
+            console.log("no");
+        } else {
+                let delay = (Math.floor(Math.random() * 6) + 5) * 1000;
+                setTimeout(() => {
+                    $('#menu-popup').modal('show');
+                }, delay);
+                console.log(delay);
+                
 
-				}
-				console.log("yes");
+            }
+            console.log("yes");
 
-				user = "talha";
-				// user = prompt("Please enter your name:", "");
-				if (user != "" && user != null) {
-					setCookie("username11", user, 0.5);
-				}
-			}
-		}
-		checkCookie()
-	</script>
-	
+            user = "talha";
+            // user = prompt("Please enter your name:", "");
+            if (user != "" && user != null) {
+                setCookie("username11", user, 0.5);
+            }
+        }
+    }
+    checkCookie()
+</script>
+
 	<!--End Header -->

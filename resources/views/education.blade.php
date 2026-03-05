@@ -90,7 +90,7 @@
 			<div class="col-12 col-sm-6 col-md-6 col-lg-3 mt30 wow fadeIn">
 				<div class="s-block wide-sblock app-service-block">
 					<div class="health-experties">
-						<h4>eLearning App Development</h4>
+						<h4>E-Learning App Development</h4>
 						<p>An eLearning App is a central platform for students to access different learning content that includes videos, documents, eBooks, and more. Our expert mobile app developers are proficient in having bespoke features in an Education app with an approach to offering students an interactive learning environment.</p>
 					</div>
 				</div>

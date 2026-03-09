@@ -16,24 +16,14 @@
 
             <div class="col-12">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/Alejandro-app/logo.webp')}}"
-                        class="img-fluid logo"
-                        alt="Alejandro logo">
-
+                    <img src="{{asset('images/case-studies/alejandro-app/logo.webp')}}" class="img-fluid logo" alt="Alejandro logo">
                     <h1>Effortless Appraisal Management at Your Fingertips</h1>
-
                     <p class="pt-3">Schedule, assign, and track appraisal tasks all from a mobile first platform. </p>
-
                 </div>
-
-                <img src="{{asset('images/case-studies/Alejandro-app/hero-images.webp')}}"
-                    class="img-fluid hero-img"
-                    alt="Alejandro hero img">
+                <img src="{{asset('images/case-studies/alejandro-app/hero-images.webp')}}" class="img-fluid hero-img" alt="Alejandro hero img">
             </div>
-
         </div>
     </div>
-
 </section>
 <!-- End Breadcrumb Area-->
 <!-- end hero Alejandro section  -->
@@ -62,7 +52,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="{{asset('images/case-studies\Alejandro-app/clients-overview.webp')}}" alt="client-overview" width="100%" height="100%">
+                <img src="{{asset('images/case-studies/alejandro-app/clients-overview.webp')}}" alt="client-overview" width="100%" height="100%">
             </div>
 
         </div>
@@ -233,7 +223,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/Alejandro-app/Avatar-1.webp')}}" alt="Avatar" class="img-fluid">
+                            <img src="{{asset('images/case-studies/alejandro-app/Avatar-1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>Mark Sullivan</h4>
                             <p>Appraisal Firm Owner</p>
                         </div>
@@ -280,7 +270,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/Alejandro-app/Avatar-2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                            <img src="{{asset('images/case-studies/alejandro-app/Avatar-2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>Jessica Reed</h4>
                             <p>Mobile Field Appraiser</p>
                         </div>
@@ -375,7 +365,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/Alejandro-app/final-ui-design.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img src="{{asset('images/case-studies/alejandro-app/final-ui-design.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -390,22 +380,22 @@
             <h2 class="my-3 text-center">App Screens  </h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-12.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-13.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-14.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-15.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/Alejandro-app/appscreen-16.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-13.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-14.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-15.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-16.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -491,7 +481,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 mike-mathis-design-phase-left-container">
-                <img src="{{asset('images/case-studies/Alejandro-app/uiux-pase-image.webp')}}" class="img-fluid" alt="project description">
+                <img src="{{asset('images/case-studies/alejandro-app/uiux-pase-image.webp')}}" class="img-fluid" alt="project description">
             </div>
 
         </div>
@@ -505,7 +495,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/Alejandro-app/morkup.jpg')}}" alt="wood-land morkup" class="img-fluid">
+                <img src="{{asset('images/case-studies/alejandro-app/morkup.jpg')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

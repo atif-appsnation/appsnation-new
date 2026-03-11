@@ -1,3 +1,5 @@
+/* Version: 1.1 | Last updated: 11-03-2026 */
+
 (function ($) {
     "use strict";
 

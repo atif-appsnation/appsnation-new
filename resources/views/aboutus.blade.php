@@ -278,11 +278,8 @@
 </section>
 <!--End why-choose-->
 
-
 <section class="vision-section py-5">
 	<div class="container">
-
-		<!-- Tabs Buttons -->
 		<ul class="nav nav-pills justify-content-center mb-4 vision-tabs" id="visionTab" role="tablist">
 			<li class="nav-item" role="presentation">
 				<button class="nav-link active" data-bs-toggle="pill" data-bs-target="#mission" type="button">
@@ -300,23 +297,17 @@
 				</button>
 			</li>
 		</ul>
-
-		<!-- Tabs Content -->
 		<div class="tab-content">
-
 			<!-- Mission -->
 			<div class="tab-pane fade show active" id="mission">
 				<div class="row align-items-center g-4">
 					<div class="col-lg-6">
 						<h2 class="vision-title">Our Mission</h2>
 						<h3 class="vision-title">Complete Digital Solutions Under One Roof</h3>
-						<p class="vision-text">
-							At AppsNation, our challenge is to provide end-to-give up digital services which include App Development, Web Development, digital marketing, and many more. We construct modern, scalable, and performance-pushed solutions tailor-made to each commercial enterprise need. Our aim is to empower startups and organizations with generation that drives increase, strengthens emblem effect, and provides measurable lengthy-time period success.
-
-						</p>
+						<p class="vision-text">At AppsNation, our challenge is to provide end-to-give up digital services which include App Development, Web Development, digital marketing, and many more. We construct modern, scalable, and performance-pushed solutions tailor-made to each commercial enterprise need. Our aim is to empower startups and organizations with generation that drives increase, strengthens emblem effect, and provides measurable lengthy-time period success.</p>
 					</div>
 					<div class="col-lg-6 text-center">
-						<img src="images/about-us/Mission.png" class="img-fluid vision-img" alt="Mission">
+						<img src="images/about-us/mission.png" class="img-fluid vision-img" alt="Mission">
 					</div>
 				</div>
 			</div>
@@ -327,13 +318,10 @@
 					<div class="col-lg-6">
 						<h2 class="vision-title">Our Vision</h2>
 						<h3 class="vision-title">Shaping the Future Through Innovation</h3>
-						<p class="vision-text">
-							Our vision is to push the boundaries of technology and create effective digital solutions that lift businesses and local communities around the world. Our mission is to empower millions of people through innovation, enable sustainable growth opportunities, scale high-performing businesses globally, and establish a workplace culture recognized for excellence, creativity and long-term value in the digital economy.
-
-						</p>
+						<p class="vision-text">Our vision is to push the boundaries of technology and create effective digital solutions that lift businesses and local communities around the world. Our mission is to empower millions of people through innovation, enable sustainable growth opportunities, scale high-performing businesses globally, and establish a workplace culture recognized for excellence, creativity and long-term value in the digital economy.</p>
 					</div>
 					<div class="col-lg-6 text-center">
-						<img src="images/about-us/Vision.png" class="img-fluid vision-img" alt="Vision">
+						<img src="images/about-us/vision.png" class="img-fluid vision-img" alt="Vision">
 					</div>
 				</div>
 			</div>
@@ -343,21 +331,16 @@
 				<div class="row align-items-center g-4">
 					<div class="col-lg-6">
 						<h2 class="vision-title">Our Values</h2>
-						<h3 class="vision-title">Principles That Define Us
-</h3>
-						<p class="vision-text">At AppsNation, our values shape every solution we create and every partnership we build. We believe in innovation with purpose, transparency in communication, and commitment to excellence. Collaboration, integrity, and continuous improvement drive our team to deliver measurable results while maintaining long-term relationships built on trust, accountability, and shared success.
-
-						</p>
+						<h3 class="vision-title">Principles That Define Us</h3>
+						<p class="vision-text">At AppsNation, our values shape every solution we create and every partnership we build. We believe in innovation with purpose, transparency in communication, and commitment to excellence. Collaboration, integrity, and continuous improvement drive our team to deliver measurable results while maintaining long-term relationships built on trust, accountability, and shared success.</p>
 					</div>
 					<div class="col-lg-6 text-center">
 						<img src="images/about-us/value.png" class="img-fluid vision-img" alt="Values">
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</div>
-	
 </section>
 <!--Start Statistics-->
 <!-- <section class="py-5">
@@ -379,10 +362,6 @@
 	</div>
 </section> -->
 <!--End Statistics-->
-
-
-
-
 
 <section class="my-4">
 	<div class="container">
@@ -438,9 +417,5 @@
 </section>
 <!-- End Technologies -->
  
-
-
-
-
 
 @endsection

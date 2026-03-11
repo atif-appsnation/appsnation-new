@@ -37,40 +37,22 @@
 	</div>
 </div>
 <section class="map-new my-5">
-
-
 	<div class="container">
-
-
-
 		<div class="row">
-
 			<div class="col-12 distribution-map">
-
-
-				<img src="images/contactus/map-bg.png" class="d-block mx-auto img-fluid" alt="">
-				<button class="map-point map-button-first" >
+				<img src="images/contact-us/map-bg.png" class="d-block mx-auto img-fluid" alt="">
+				<button class="map-point map-button-first">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
-						<iframe
-							src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11690.619418161337!2d-1.8458442!3d52.4456049!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bbcc98d70ba3%3A0x4f7a3b223ad6df38!2sAppsNation%20Birmingham%20UK!5e1!3m2!1sen!2s!4v1772091456328"
-							width="600"
-							height="450"
-							style="border:0;"
-							loading="lazy"
-							referrerpolicy="no-referrer-when-downgrade">
-						</iframe>
-
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11690.619418161337!2d-1.8458442!3d52.4456049!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bbcc98d70ba3%3A0x4f7a3b223ad6df38!2sAppsNation%20Birmingham%20UK!5e1!3m2!1sen!2s!4v1772091456328" width="600" height="450" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info" onclick="window.open('https://maps.app.goo.gl/JXGHweLtiAdgJ7bb9', '_blank')">
 							<h2>AppsNation – Birmingham</h2>
 							<p>Driving digital innovation in Birmingham with cutting-edge mobile apps, games, and enterprise solutions.</p>
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-second"  >
+				<button class="map-point map-button-second">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14274.095804780358!2d12.524164!3d41.9087828!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61405472417d%3A0xe4857110bc425f2d!2sAppsNation%20Rome%20Italy%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171521448!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
@@ -79,9 +61,8 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-third"  >
+				<button class="map-point map-button-third">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15153.144248123956!2d144.966442!3d-37.8107359!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad643013f466353%3A0xfe6b56f1b8b557e5!2sAppsNation%20Melbourne%2C%20Victoria%2C%20Australia%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171679284!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
@@ -90,9 +71,8 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-four" >
+				<button class="map-point map-button-four">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content ">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13878.542938178958!2d-79.3817439!3d43.6486362!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b359c37db700f%3A0xc5b596e5fa6b45b9!2sAppsNation%20Toronto%2C%20Canada%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171740700!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
@@ -101,11 +81,9 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-five" >
+				<button class="map-point map-button-five">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
-
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3974.316295705815!2d-118.42416170000001!3d34.020604899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf4180cfb6b3%3A0x697ef1b840cadba5!2sAppsNation%20California%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171789940!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
 							<h2 onclick="window.open('https://maps.app.goo.gl/iPtnoiHP7d3M9aF48', '_blank')">AppsNation – California</h2>
@@ -113,9 +91,8 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-six" >
+				<button class="map-point map-button-six">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11329.650966461091!2d-1.5566791!3d53.7936914!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795fe11df69c89%3A0x2512f4713f704572!2sAppsNation%20Leads%20UK%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171836547!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
@@ -124,9 +101,8 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-seven"  >
+				<button class="map-point map-button-seven">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d17429.325859458597!2d46.7554717!3d24.6718273!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f07eec9c38d6b%3A0x7e0e73b0c0039eb9!2sAppsNation%20-%20DAK%20(Saudi%20Arabia)%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171890372!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
@@ -135,9 +111,8 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-eight" >
+				<button class="map-point map-button-eight">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d73626204.69556536!2d19.4136454053761!3d20.41822444147691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f4312d8c0053f%3A0x77db15d689880e9!2sAppsNation%20Dubai%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772184498946!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
@@ -146,24 +121,20 @@
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-nine"  >
+				<button class="map-point map-button-nine">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2983.6686596909567!2d-0.10854269999999999!3d51.52020170000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761bdfe7610d2b%3A0x69c74dab4d1016bf!2sAppsNation%20London%20UK%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772172511803!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-							
 						<div class="info">
 							<h2  onclick="window.open('https://maps.app.goo.gl/M7Y2gLTxS11AC3rR9', '_blank')">AppsNation – London UK</h2>
 							<p>Creating innovative apps, games, and enterprise platforms for global brands from London.</p>
 						</div>
 					</div>
 				</button>
-				<button class="map-point map-button-ten" >
+				<button class="map-point map-button-ten">
 					<i class="fa-solid fa-location-dot"></i>
-
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4350.111723759623!2d67.07638947596762!3d24.877692444566698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33fa63bb04945%3A0xb8d931eabee961a0!2sAppsNation%20Karachi%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772518664410!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-							
 						<div class="info">
 							<h2  onclick="window.open('https://maps.app.goo.gl/ix1FuxjXWYjeweXm6', '_blank')">AppsNation – Karachi, Pakistan</h2>
 							<p>Powering digital success in Karachi with scalable apps, interactive games, and enterprise platforms.	</p>
@@ -233,7 +204,6 @@
 	</div>
 </section>
 
- 
 
 <!--Start Enquire Form-->
 <!-- <section class="contact-page py-5">

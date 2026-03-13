@@ -73,27 +73,72 @@
 <!--End Breadcrumb-->
 
 <!--Start About-->
-<section class="service py-5">
-	<div class=" container">
+ 
+<section id="mycounterSection" class="py-5 scale-up-services-section">
+	<div class="container">
 		<div class="row">
-			<div class="col-lg-5">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
-				</div>
-			</div>
-			<div class="col-lg-7 block-1 wow fadeIn my-auto">
-				<div class="common-heading text-l pl25">
-					<div data-text="Android" class="light-bg-text bg-text">
+
+			<!-- Left Content -->
+			<div class="col-lg-7 col-md-12 order-2 order-lg-1 d-flex align-items-center">
+
+				<div>
+				<div data-text="Android" class="light-bg-text bg-text">
 						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 					</div>
+				 
+
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
+					<br>
 					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
+				
+
+					<!-- Button -->
+					<div class="square mt-4">
+
+
+
+						<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Let's Connect
+							<span class="circle"> </span>
+						</a>
+					</div>
+
+					<!-- Counters -->
+
 				</div>
+			</div>
+
+			<!-- Right Image -->
+			<div class="col-lg-5 col-md-12 text-center order-1 order-lg-2">
+
+				<div class="wow fadeIn">
+
+				<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+				</div>
+			</div>
+
+		</div>
+		<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 " style="visibility: visible; animation-name: fadeIn;">
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count1" class="numbers-count">10+</h2>
+				<p class="numbers-about">Years On The market</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count2" class="numbers-count">900+</h2>
+				<p class="numbers-about">People On Board</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count3" class="numbers-count">10k</h2>
+				<p class="numbers-about">Projects Delivered</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count4" class="numbers-count">67</h2>
+				<p class="numbers-about">Our Current NPS Score</p>
 			</div>
 		</div>
 	</div>
 </section>
+
 <!--End About-->
 
 <!--Start Service-->

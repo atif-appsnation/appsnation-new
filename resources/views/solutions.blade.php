@@ -9,19 +9,19 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-between">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
+			<div class="col-12 col-lg-6 order-2 order-lg-1 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Transform Business Growth with Revolutionary Solutions</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Our unwavering commitment to innovation and customer satisfaction drives us to deliver transformative services that effectively address the ever-evolving demands of businesses in the digital world, ensuring exceptional results and driving impactful transformations.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Drive Business Growth with Advanced Solutions</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">With a deep commitment to innovation and customer success, we deliver powerful solutions that address the evolving challenges of today’s digital business environment. Our approach ensures outstanding outcomes while supporting long-term business transformation.</p>
 					<ul class="mt20 content-list text-white">
-						<li>Strategic roadmap planning</li>
-						<li>Process automation implementation</li>
-						<li>Strategic roadmap planning</li>
-						<li>Process automation implementation</li>
+						<li>Digital Strategy</li>
+						<li>Smart Automation</li>
+						<li>Data Insights</li>
+						<li>Business Transformation</li>
 					</ul>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-4 wow fadeIn">
+			<div class="col-12 col-lg-4 order-1 order-lg-2 wow fadeIn">
 				<div class="niwax23form shadow">
                     <div class="common-heading text-l">
                             {!! NoCaptcha::renderJs() !!}

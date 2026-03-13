@@ -9,19 +9,19 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-between">
-			<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
+			<div class="col-12 col-lg-6 order-2 order-lg-1 my-auto wow fadeIn">
 				<div class="bread-titlev2">
-					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Transform Business Growth with Revolutionary Services</h1>
-					<p class="mt20 text-white" data-wow-delay=".4s">Our unwavering commitment to innovation and customer satisfaction drives us to deliver transformative services that effectively address the ever-evolving demands of businesses in the digital world, ensuring exceptional results and driving impactful transformations.</p>
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Accelerate Business Growth with Innovative Services</h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Our strong focus on innovation and client satisfaction enables us to provide impactful services designed to meet the constantly changing needs of modern businesses in the digital landscape. We deliver reliable solutions that produce measurable results and help organizations achieve meaningful transformation.</p>
 					<ul class="mt20 content-list text-white">
-						<li>Strategic roadmap planning</li>
-						<li>Process automation implementation</li>
-						<li>Strategic roadmap planning</li>
-						<li>Process automation implementation</li>
+					<li>Strategic Roadmap</li>
+						<li>Process Automation</li>
+						<li>Growth Strategy</li>
+						<li>Business Optimization</li>
 					</ul>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-4 wow fadeIn">
+			<div class="col-12 col-lg-4 order-1 order-lg-2 wow fadeIn">
 				<div class="niwax23form shadow">
                     <div class="common-heading text-l">
                             {!! NoCaptcha::renderJs() !!}
@@ -98,7 +98,7 @@
 
 
 
-						<a data-bs-toggle="modal" data-bs-target="#myModal" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Let's Connect
+						<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Let's Connect
 							<span class="circle"> </span>
 						</a>
 					</div>
@@ -160,7 +160,7 @@
 			</div>
 		</div>
 		<div class="row mt-5">
-			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
+			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0  wow fadeIn">
 				<a href="{{url('/advertising')}}" class="industries-link">
 					<div class="industries-image">
 						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid" width="100%" height="100%">
@@ -321,6 +321,9 @@
 <!--End Industries-->
 
 <!--Start Let's Work Together-->
+<section>
+
+<div class="container">
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -338,6 +341,9 @@
 		</div>
 	</div>
 </div>
+</div>
+</section>
+
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -470,6 +476,9 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
+<section>
+
+<div class="container">
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-8">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -487,6 +496,9 @@
 		</div>
 	</div>
 </div>
+</div>
+</section>
+
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->

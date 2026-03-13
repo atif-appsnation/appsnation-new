@@ -9,7 +9,7 @@
 	@endif
 	<div class="container">
 		<div class="row justify-content-between">
-			<div class="col-md-12 col-lg-6 order-2 order-md-1 my-auto wow fadeIn">
+			<div class="col-md-12 col-lg-6 order-2 order-lg-1 my-auto wow fadeIn">
 
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Empower Your Business with Next-Gen Digital Services</h1>
@@ -27,7 +27,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-12 col-lg-4 order-1 order-md-2 wow fadeIn">
+			<div class="col-md-12 col-lg-4 order-1 order-lg-2 wow fadeIn">
 
 				<div class="niwax23form shadow">
 					<div class="common-heading text-l">

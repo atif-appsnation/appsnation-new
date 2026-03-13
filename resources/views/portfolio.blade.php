@@ -1,29 +1,30 @@
 @extends('app.main')
 @section('content')
 
-	<!-- Start Breadcrumb -->
-	<section class="breadcrumb-areav2 portfolio">
-		@if ($errors->has('g-recaptcha-response'))
-			<div class="alert alert-danger">
-				<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
-			</div>
-		@endif
+<!-- Start Breadcrumb -->
+<section class="breadcrumb-areav2 portfolio-new-section">
+	@if ($errors->has('g-recaptcha-response'))
+	<div class="alert alert-danger">
+		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
+	</div>
+	@endif
 
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-12 col-md-12 col-lg-8 my-auto">
-					<div class="bread-titlev2">
-						<h1 class="text-white">Portfolio</h1>
-						<p class="banner-para mt20 w-100 pt-3">Discover a collection of high-performance applications and digital solutions built using modern technologies to solve real-world business challenges.</p>
-						<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20">Discuss Your Project With
-							Us
-							<i class="fas fa-chevron-right fa-icon"></i>
-							<span class="circle"></span>
-						</a>
-					</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-8 order-2 order-lg-1 my-auto">
+				<div class="bread-titlev2">
+					<h1 class="text-white">Portfolio</h1>
+					<p class="banner-para mt20 w-100 pt-3">Discover a collection of high-performance applications and digital solutions built using modern technologies to solve real-world business challenges.</p>
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk mt20">Discuss Your Project With
+						Us
+						<i class="fas fa-chevron-right fa-icon"></i>
+						<span class="circle"></span>
+					</a>
 				</div>
-				<div class="col-sm-12 col-md-12 mt-md-4 my-4 col-lg-4   wow fadeIn">
-					<div class="niwax23form shadow">
+			</div>
+			<div class="col-md-12 col-lg-4 order-1 order-lg-2 wow fadeIn">
+
+				<div class="niwax23form shadow">
 					<div class="common-heading text-l">
 						{!! NoCaptcha::renderJs() !!}
 						<h2 class="mt0 mb0">Book a Free <span>Consultation</span></h2>
@@ -69,94 +70,94 @@
 					</div>
 				</div>
 			</div>
-			</div>
 		</div>
-	</section>
-	<!-- End Breadcrumb -->
-
-	<!--Start Portfolio-->
-	<section class="portfolio-section py-5">
-		<div class="container">
-			<div class="row">
-				<div class="col-12 fadeIn">
-					<div class="common-heading">
-						<div data-text="Our Portfolio" class="light-bg-text bg-text text-center">
-							<h2 class="mb20 text-center">Our Latest Creative Work</h2>
-						</div>
+	</div>
+</section>
+<!-- End Breadcrumb -->
+ 
+<!--Start Portfolio-->
+<section class="portfolio-section py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 fadeIn">
+				<div class="common-heading">
+					<div data-text="Our Portfolio" class="light-bg-text bg-text text-center">
+						<h2 class="mb20 text-center">Our Latest Creative Work</h2>
 					</div>
 				</div>
-				
 			</div>
-		</div>
 
-		<section class="container py-lg-5 mt-5">
-			<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
-				<li class="nav-item ms-2">
-					<a class="nav-link active" data-bs-toggle="-" href="?a=Mobile">App</a>
-				</li>
-				<li class="nav-item ms-2">
-					<a class="nav-link active" data-bs-toggle="-" href="?a=Web">Web</a>
-				</li>
-			</ul>
-			<div class="tab-content mt-5 wow fadeIn">
-				<div class="tab-pane active">
-					<div class="row mt60">
-						@foreach($portfolio as $items)
-							<div class="col-sm-12 col-md-6 wptbb">
-								<div id="{!!$items['type']!!}">
-									<div class="isotope_item up-hor">
-										<div class="card-inner">
-											<div class="item-image-front">
-												<a href="{{url('/').'/'.$items['comments']}}">
-													<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" alt="Neuro Knights App Front"
-														class="img-fluid">
-												</a>
-											</div>
-											<div class="item-image-back">
-												<a href="{{url('/').'/'.$items['comments']}}">
-													<img src="uploads/{!!$items['back_image']!!}" alt="{{$items['title']}}"
-														class="img-fluid">
-												</a>
-											</div>
-										</div>
-										<div class="item-info-div  ">
-											<div class="left">
-												<h3>
-													<a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a>
-												</h3>
-												<h5 class="mt10">{!!$items['type']!!}</h5>
-												<p class="mt10">{{$items['content']}}</p>
-												<div  class="casestudyButton" >
-													<a href="{{url('/').'/'.$items['comments']}}">View case Study</a>
-												</div>
-											</div>
+		</div>
+	</div>
+
+	<section class="container py-lg-5 mt-5">
+		<ul class="nav nav-pills justify-content-center fadeIn" role="tablist">
+			<li class="nav-item ms-2">
+				<a class="nav-link active" data-bs-toggle="-" href="?a=Mobile">App</a>
+			</li>
+			<li class="nav-item ms-2">
+				<a class="nav-link active" data-bs-toggle="-" href="?a=Web">Web</a>
+			</li>
+		</ul>
+		<div class="tab-content mt-5 wow fadeIn">
+			<div class="tab-pane active">
+				<div class="row mt60">
+					@foreach($portfolio as $items)
+					<div class="col-sm-12 col-md-6 wptbb">
+						<div id="{!!$items['type']!!}">
+							<div class="isotope_item up-hor">
+								<div class="card-inner">
+									<div class="item-image-front">
+										<a href="{{url('/').'/'.$items['comments']}}">
+											<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" alt="Neuro Knights App Front"
+												class="img-fluid">
+										</a>
+									</div>
+									<div class="item-image-back">
+										<a href="{{url('/').'/'.$items['comments']}}">
+											<img src="uploads/{!!$items['back_image']!!}" alt="{{$items['title']}}"
+												class="img-fluid">
+										</a>
+									</div>
+								</div>
+								<div class="item-info-div  ">
+									<div class="left">
+										<h3>
+											<a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a>
+										</h3>
+										<h5 class="mt10">{!!$items['type']!!}</h5>
+										<p class="mt10">{{$items['content']}}</p>
+										<div class="casestudyButton">
+											<a href="{{url('/').'/'.$items['comments']}}">View case Study</a>
 										</div>
 									</div>
 								</div>
 							</div>
-							{{-- <div class="col-sm-12 col-md-6 wptbb">
+						</div>
+					</div>
+					{{-- <div class="col-sm-12 col-md-6 wptbb">
 								<div id="{!!$items['type']!!}">
 									<div class="isotope_item up-hor">
 										<div class="item-image">
 											<a href="{{url('/').'/'.$items['comments']}}">
-												<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}"
-													class="img-fluid">
-											</a>
-										</div>
-										<div class="item-info-div shdo">
-											<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
-											<h5 class="mt10">{!!$items['type']!!}</h5>
-											<p class="mt10">{{$items['content']}}</p>
-										</div>
-									</div>
-									
-								</div>
-							</div> --}}
-						@endforeach
-					</div>
+					<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}"
+						class="img-fluid">
+					</a>
 				</div>
+				<div class="item-info-div shdo">
+					<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
+					<h5 class="mt10">{!!$items['type']!!}</h5>
+					<p class="mt10">{{$items['content']}}</p>
+				</div>
+			</div>
 
-				<!-- <div id="web" class="tab-pane fade">
+		</div>
+		</div> --}}
+		@endforeach
+		</div>
+		</div>
+
+		<!-- <div id="web" class="tab-pane fade">
 					<div class="row mt60">
 						<div class="col-lg-12 col-sm-12 wptbb">
 							<div class="pbwide shadow bg-gradient1">
@@ -232,13 +233,13 @@
 						</div>
 					</div>
 				</div> -->
-			</div>
-			<div class="mt-5">
-				<center>
-					{!! $portfolio->links() !!}
-				</center>
-			</div>
-		</section>
+		</div>
+		<div class="mt-5">
+			<center>
+				{!! $portfolio->links() !!}
+			</center>
+		</div>
 	</section>
-	<!--End Portfolio-->
+</section>
+<!--End Portfolio-->
 @endsection

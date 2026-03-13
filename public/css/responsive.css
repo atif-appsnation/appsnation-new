@@ -5433,6 +5433,8 @@
 		min-height: 150vh;
 	}
 
+	
+
 }
 
 @media (max-width: 767px) {
@@ -7512,7 +7514,7 @@
 
 @media only screen and (min-width: 1025px) and (max-width: 1280px) and (max-height: 800px) {
 	.hero-main-rp {
-		padding: 233px 60px 80px;
+		padding: 213px 60px 80px !important;
 	}
 
 	.hero-heading-sec2 h1 {
@@ -7520,7 +7522,7 @@
 		line-height: 50px;
 	}
 }
-
+ 
 
 @media only screen and (min-width: 720px) and (max-width: 1024px) and (max-height: 600px) {
 	.hero-main-rp {
@@ -7535,7 +7537,7 @@
 
 @media only screen and (min-width: 1025px) and (max-width: 1640px) and (max-height: 600px) {
 	.hero-main-rp {
-		padding: 90px 60px 80px;
+		padding: 80px 60px 80px;
 	}
 
 	.hero-heading-sec2 h1 {
@@ -7544,7 +7546,15 @@
 	}
 
 	.hero-bages-slides-div {
-		margin-top: 29px;
+		margin-top: 10px;
+	}
+	.hero-slider .hero-bage-p{
+		font-size: 14px;
+		line-height: 20px;
+		margin-top: 37px;
+	}
+	.hero-bages-slider .h-img img{
+		max-width: 120px;
 	}
 }
 

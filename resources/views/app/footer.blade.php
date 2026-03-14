@@ -80,7 +80,7 @@
     <div class="container">
         <div class="row justify-content-center shadow inquiry-from">
             <div class="col-lg-4">
-                <img   src="{{asset('images/about-us/office-boy.png')}}" class="img-fluid d-block mx-auto">
+                <img src="{{asset('images/about-us/office-colleague.png')}}" class="img-fluid d-block mx-auto">
             </div>
             <div class="col-lg-4 mt-5">
                 <div class="common-heading text-l">
@@ -90,7 +90,7 @@
                         </span> Digital Success Together</h2>
                     <p class="mb20 mt20 text-start">We design, develop, and market solutions that drive real business growth.
                     </p>
-                    <div class="d-md-flex flex-lg-column   justify-content-between">
+                    <div class="d-md-flex flex-lg-column justify-content-between">
                         <ul>
                             <li><i class="fa-solid fa-phone"></i><a href="tel:+13237989803">+1 (323) 798-9803 </a></li>
                             <li><i class="fas fa-envelope"></i> <a href="mailto:info@appsnation.co">info@appsnation.co</a> </li>
@@ -147,7 +147,6 @@
                                     <input type="text" id="company" name="company" placeholder=" Enter company name (optional)" required="" data-error="" maxlength="50">
                                     <!-- <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out" maxlength="50">
                                     <div class="help-block with-errors"></div> -->
-
                                     <textarea id="message" name="message" rows="5" placeholder=" Tell us about your project" required="" maxlength="500"></textarea>
                                     <div class="help-block with-errors"></div>
                                 </div>
@@ -167,8 +166,6 @@
         </div>
     </div>
 </section>
-
-
 <!--End Enquire Form-->
 
 <!--Start Location-->
@@ -507,7 +504,6 @@
     </div>
 </div>
 
-
 <script src="{{asset('js/vendor/modernizr-3.5.0.min.js')}}"></script>
 <script src="{{asset('js/jquery.min.js')}}"></script>
 <script src="{{asset('js/bootstrap.bundle.min.js')}}"></script>
@@ -517,7 +513,7 @@
 <script src="{{asset('js/owl.navigation.js')}}"></script>
 <script src="{{asset('js/owl.autoplay.js')}}"></script>
 <script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
-<script src="{{asset('js/main.js')}}"></script>
+<script src="{{asset('js/main.js?v1.1')}}"></script>
 <script src="{{asset('js/validate.js')}}"></script>
 <script src="{{asset('js/jquery.steps.js')}}"></script>
 <script src="{{asset('js/cost-calculator.js')}}"></script>

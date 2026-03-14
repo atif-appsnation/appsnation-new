@@ -24,7 +24,7 @@
 			<div class="col-12 col-lg-4 order-1 order-lg-2 wow fadeIn">
 				<div class="niwax23form shadow">
                     <div class="common-heading text-l">
-                            {!! NoCaptcha::renderJs() !!}
+                        {!! NoCaptcha::renderJs() !!}
                         <h2 class="mt0 mb0">Book a Free <span>Consultation</span></h2>
                     </div>
                     <div class="form-block contact-us-form">
@@ -48,22 +48,22 @@
                         </div>
                         <div class="row">
 							<div class="form-group col-sm-12">
-									<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out" maxlength="20">
-									<div class="help-block with-errors"></div>
-								</div>
+								<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out" maxlength="20">
+								<div class="help-block with-errors"></div>
 							</div>
-                        <div class="form-group">
-                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
+							<div class="form-group col-sm-12">
+								<textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
+								<div class="help-block with-errors"></div>
+							</div>
+                        	<div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
                                 {!! NoCaptcha::display() !!}
                             </div>
-                        <button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
-                            <i class="fas fa-chevron-right fa-icon"></i>
-                        </button>
-                        <div id="msgSubmit" class="h3 text-center hidden"></div>
-                        <div class="clearfix"></div>
+							<button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+								<i class="fas fa-chevron-right fa-icon"></i>
+							</button>
+							<div id="msgSubmit" class="h3 text-center hidden"></div>
+							<div class="clearfix"></div>
+						</div>
                     </form>
                 </div>
 			</div>
@@ -333,28 +333,24 @@
 		<div class="row mt-5 wow fadeIn">
 			<div class="col-12">
 				<div class="awards-slider owl-carousel owl-theme">
-
 					@foreach($awards as $k => $item)
-
 					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									</div>
 								</div>
 							</div>
 						</div>
-					 </div>
-					 </a>
+					</a>
 
 					 @else
-					 <div class="award-item">
+					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
@@ -364,26 +360,26 @@
 								</div>
 							</div>
 						</div>
-					 </div>
-					 @endif
+					</div>
+					@endif
 
 					@else
 					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					<div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+										
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
+					</a>
+					@else
+					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
@@ -397,7 +393,6 @@
 					@endif
 					@endif
 					@endforeach
-
 				</div>
 			</div>
 		</div>
@@ -439,13 +434,11 @@
             </div>
         </div>
 		
-	<div class="testimonial-card-a owl-carousel owl-theme">
+		<div class="testimonial-card-a owl-carousel owl-theme">
 			@foreach($testimonials as $key => $item)
-
 			<div class="tcd card h-100">
 				<div class="row">
 					<div class="col-lg-6 position-relative">
-
 						<!-- Overlay -->
 						<div class="video-overlay"
 							data-target="player-{{$key}}"
@@ -453,18 +446,7 @@
 						</div>
 
 						<!-- YouTube Video -->
-						<iframe
-							id="player-{{$key}}"
-							class="youtube-player testimonial-video"
-
-						src="{{$item['comments']}}"	
-						title="Client Testimonial"
-
-							frameborder="0"
-							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-							referrerpolicy="strict-origin-when-cross-origin"
-							allowfullscreen>
-						</iframe>
+						<iframe d="player-{{$key}}" class="youtube-player testimonial-video" src="{{$item['comments']}}"	title="Client Testimonial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 					</div>
 
@@ -473,7 +455,6 @@
 							<div class="tt-text">
 								<p>{{$item['title']}}</p>
 							</div>
-
 							<div class="client-thumbs mt30">
 								<div class="media v-center upset">
 									<div class="media-body user-info v-center">
@@ -485,10 +466,8 @@
 							</div>
 						</div>
 					</div>
-
 				</div>
 			</div>
-
 			@endforeach
 		</div>
         <div class="row mt-5">

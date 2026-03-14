@@ -1,4 +1,4 @@
-/* Version: 1.2 | Last updated: 11-03-2026 */
+/* Version: 1.3 | Last updated: 14-03-2026 */
 
 :root {
     --first-color: #0dacaf;
@@ -11683,7 +11683,7 @@ i.fa-brands.fa-instagram {
 
 .niwax23form {
     background: #fff;
-    padding: 30px;
+    padding: 20px 30px;
     margin: 30px 0;
     border-radius: 14px;
     border: 2px solid var(--light-grey);

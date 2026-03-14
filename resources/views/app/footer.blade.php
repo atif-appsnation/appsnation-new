@@ -80,16 +80,16 @@
     <div class="container">
         <div class="row justify-content-center shadow inquiry-from">
             <div class="col-lg-4">
-                <img src="{{asset('images/about-us/office-boy.png')}}" class="img-fluid d-block mx-auto">
+                <img   src="{{asset('images/about-us/office-boy.png')}}" class="img-fluid d-block mx-auto">
             </div>
             <div class="col-lg-4 mt-5">
                 <div class="common-heading text-l">
                     <!-- <span>Contact Now</span> -->
                     {!! NoCaptcha::renderJs() !!}
                     <h2 class="mt0 mb0"><span>Let’s Create <br>
-                        </span> Digital Success Together
-                    </h2>
-                    <p class="mb20 mt20 text-start">We design, develop, and market solutions that drive real business growth.</p>
+                        </span> Digital Success Together</h2>
+                    <p class="mb20 mt20 text-start">We design, develop, and market solutions that drive real business growth.
+                    </p>
                     <div class="d-md-flex flex-lg-column   justify-content-between">
                         <ul>
                             <li><i class="fa-solid fa-phone"></i><a href="tel:+13237989803">+1 (323) 798-9803 </a></li>
@@ -121,7 +121,7 @@
                     <div class="common-heading text-l">
                         <!-- <span>Contact Now</span> -->
                         {!! NoCaptcha::renderJs() !!}
-                        <h4 class="mt-2 mb-2">Contact Us</h4>
+                        <h4 class="mb-2">Contact Us</h4>
                     </div>
                     <div class="form-block contact-us-form">
                         <form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
@@ -147,6 +147,7 @@
                                     <input type="text" id="company" name="company" placeholder=" Enter company name (optional)" required="" data-error="" maxlength="50">
                                     <!-- <input type="text" id="subject" name="subject" placeholder="Enter subject" required="" data-error="Please fill Out" maxlength="50">
                                     <div class="help-block with-errors"></div> -->
+
                                     <textarea id="message" name="message" rows="5" placeholder=" Tell us about your project" required="" maxlength="500"></textarea>
                                     <div class="help-block with-errors"></div>
                                 </div>
@@ -430,10 +431,7 @@
                         <div class="row">
                             <div class="form-group col-sm-5 from-cta-left-img">
                                 <div class="from-cta-img-content">
-                                    <h3>
-                                        Let’s Build
-                                        <br> Some Extraordinary
-                                    </h3>
+                                    <h3> Let’s Build <br> Some Extraordinary </h3>
                                     <p> We design and develop high-performance digital solutions that help businesses grow and scale. </p>
                                     <div class="modal-icons">
                                         <div class="modal-icon">
@@ -519,7 +517,7 @@
 <script src="{{asset('js/owl.navigation.js')}}"></script>
 <script src="{{asset('js/owl.autoplay.js')}}"></script>
 <script src="{{asset('js/image-comparison-slider.min.js')}}"></script>
-<script src="{{asset('js/main.js?v1.1')}}"></script>
+<script src="{{asset('js/main.js')}}"></script>
 <script src="{{asset('js/validate.js')}}"></script>
 <script src="{{asset('js/jquery.steps.js')}}"></script>
 <script src="{{asset('js/cost-calculator.js')}}"></script>

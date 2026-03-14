@@ -14,7 +14,7 @@
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Accelerate Business Growth with Innovative Services</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">Our strong focus on innovation and client satisfaction enables us to provide impactful services designed to meet the constantly changing needs of modern businesses in the digital landscape. We deliver reliable solutions that produce measurable results and help organizations achieve meaningful transformation.</p>
 					<ul class="mt20 content-list text-white">
-					<li>Strategic Roadmap</li>
+						<li>Strategic Roadmap</li>
 						<li>Process Automation</li>
 						<li>Growth Strategy</li>
 						<li>Business Optimization</li>
@@ -52,18 +52,19 @@
 									<div class="help-block with-errors"></div>
 								</div>
 							</div>
-                        <div class="form-group">
-                            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
-                                {!! NoCaptcha::display() !!}
-                            </div>
-                        <button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
-                            <i class="fas fa-chevron-right fa-icon"></i>
-                        </button>
-                        <div id="msgSubmit" class="h3 text-center hidden"></div>
-                        <div class="clearfix"></div>
+							<div class="form-group">
+								<textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
+								<div class="help-block with-errors"></div>
+							</div>
+							<div class="form-group mb-2 captchaContainer3" id="captchaContainer" >
+								{!! NoCaptcha::display() !!}
+							</div>
+							<button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+								<i class="fas fa-chevron-right fa-icon"></i>
+							</button>
+							<div id="msgSubmit" class="h3 text-center hidden"></div>
+							<div class="clearfix"></div>
+						</div>
                     </form>
                 </div>
 			</div>
@@ -77,48 +78,29 @@
 <section id="mycounterSection" class="py-5 scale-up-services-section">
 	<div class="container">
 		<div class="row">
-
 			<!-- Left Content -->
 			<div class="col-lg-7 col-md-12 order-2 order-lg-1 d-flex align-items-center">
-
-				<div>
 				<div data-text="Android" class="light-bg-text bg-text">
-						<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
-					</div>
-				 
-
+					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 					<p><strong>Get an android app that you deserve - appealing user interface, robust responsiveness and functionality, feature-rich, and highly scalable.</strong></p>
 					<p>Did you know? Android accounts for 88% of the global smartphone market, with Google Android OS powering over 2 billion smart devices. AppsNation is making the most out of it with the top-talented android developers, more like android wizards - striving to create your innovative, unique android app.</p>
 					<br>
 					<p>AppsNation is a data-driven android app development agency that solely relies on analytics and numbers to create an app. We offer startups, SMBS, and major enterprises the solution to thrive in the industry and make a statement with a remarkable android application. AppsNation builds android apps with visually appealing UI/UX that works flawlessly on all devices regardless of the screen size.</p>
-				
-
-					<!-- Button -->
 					<div class="square mt-4">
-
-
-
 						<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="btn-br bg-btn3 bg-btn-scalup btshad-b2 lnk">Let's Connect
-							<span class="circle"> </span>
+							<span class="circle"></span>
 						</a>
 					</div>
-
-					<!-- Counters -->
-
 				</div>
 			</div>
-
 			<!-- Right Image -->
 			<div class="col-lg-5 col-md-12 text-center order-1 order-lg-2">
-
 				<div class="wow fadeIn">
-
 				<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
-
 		</div>
-		<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 " style="visibility: visible; animation-name: fadeIn;">
+		<div class="row justify-content-center wow fadeIn achievements-count mt-3 " style="visibility: visible; animation-name: fadeIn;">
 			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
 				<h2 id="count1" class="numbers-count">10+</h2>
 				<p class="numbers-about">Years On The market</p>
@@ -140,11 +122,6 @@
 </section>
 
 <!--End About-->
-
-
-
-
-
 
 <!--Start Industries-->
 <section class="industries-section-app py-5 dark-bg2">

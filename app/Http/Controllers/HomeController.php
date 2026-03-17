@@ -3246,21 +3246,21 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'mikeMathisApp')->get();
 
         return view(
-            'mikemathis',
+            'mikemathisapp',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
             ]
         );
     }
-     public function graveLove()
+     public function graveLoveApp()
     {
 
-        $metatag = Metatag::where('slug', 'graveLove')->get();
-        $metatitle = Metatitle::where('slug', 'graveLove')->get();
+        $metatag = Metatag::where('slug', 'graveLoveApp')->get();
+        $metatitle = Metatitle::where('slug', 'graveLoveApp')->get();
 
         return view(
-            'gravelove',
+            'graveloveapp',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
@@ -3346,7 +3346,7 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'Loadboard')->get();
 
         return view(
-            'Loadboard',
+            'loadboard',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,

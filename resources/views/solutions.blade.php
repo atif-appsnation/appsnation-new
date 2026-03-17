@@ -77,7 +77,7 @@
 <section id="mycounterSection" class="py-5 scale-up-services-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-7 col-md-12 order-2 order-lg-1 d-flex align-items-center">
+			<div class="col-lg-7 col-md-12 order-2 order-lg-1  ">
 				<div data-text="Android" class="light-bg-text bg-text">
 					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 				</div>
@@ -137,10 +137,10 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 wow fadeIn">
 				<a href="{{url('/booking-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/advertising.webp" alt="Booking App" class="img-fluid">
+						<img src="images/industries/advertising.webp" alt="advertising" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Booking App</h5>	
+						<h5 class="text-center text-white text-center">advertising</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -153,7 +153,7 @@
 						<img src="images/industries/automative-and-transport.webp" alt="Fitness App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Fitness App</h5>	
+						<h5 class="text-center text-white text-center">automative and transport</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -166,7 +166,7 @@
 						<img src="images/industries/ecommerce-and-retail.webp" alt="Fleet App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Fleet App</h5>	
+						<h5 class="text-center text-white text-center">ecommerce and retail</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -179,7 +179,7 @@
 						<img src="images/industries/education.webp" alt="Loyalty App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Loyalty App</h5>	
+						<h5 class="text-center text-white text-center">education</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -192,7 +192,7 @@
 						<img src="images/industries/financial-software-development.webp" alt="Moverg App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Mover App</h5>	
+						<h5 class="text-center text-white text-center">financial software development</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -205,7 +205,7 @@
 						<img src="images/industries/gaming-and-leisure.webp" alt="Real Estate App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Real Estate App</h5>	
+						<h5 class="text-center text-white text-center">gaming and leisure</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -218,7 +218,7 @@
 						<img src="images/industries/healthcare-and-life-science.webp" alt="Restaurant App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Restaurant App</h5>	
+						<h5 class="text-center text-white text-center">healthcare and life science</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -231,7 +231,7 @@
 						<img src="images/industries/media-and-entertainment.webp" alt="Shopping Express" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Shopping Express App</h5>	
+						<h5 class="text-center text-white text-center">media and entertainment</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>
@@ -244,7 +244,7 @@
 						<img src="images/industries/real-estate-and-property.webp" alt="Sport App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
-						<h5 class="text-center text-white text-center">Sport App</h5>	
+						<h5 class="text-center text-white text-center">real estate and property</h5>	
 					</div>
 					<div class="solutions-links">
 						<i class="fa-solid fa-circle-arrow-up-right"></i>

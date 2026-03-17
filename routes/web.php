@@ -147,3 +147,16 @@ Route::get('/case-studies/royal-ride-app','HomeController@royalRideApp');
 Route::get('/case-studies/boujee-beachin-app','HomeController@boujeeBeachinApp');
 Route::get('/case-studies/wood-land-app','HomeController@woodLandApp');
 Route::get('/case-studies/neuro-knights-app','HomeController@neuroKnightsApp');
+
+
+Route::get('/case-studies/mike-mathis-app','HomeController@mikeMathisApp');
+Route::get('/case-studies/grave-love-app','HomeController@graveLove');
+Route::get('/case-studies/bomb-defuse-app','HomeController@bombDefuse');
+Route::get('/case-studies/couple-app','HomeController@coupleApp');
+Route::get('/case-studies/car-mechanic-app','HomeController@carMechanic');
+Route::get('/case-studies/toy-sort-puzzle','HomeController@toySortPuzzle');
+Route::get('/case-studies/royal-relax-spa','HomeController@royalrelaxspa');
+Route::get('/case-studies/Load-board','HomeController@Loadboard');
+Route::get('/case-studies/all-traders-app','HomeController@alltraders');
+Route::get('/case-studies/alejandro-app','HomeController@alejandro');
+                

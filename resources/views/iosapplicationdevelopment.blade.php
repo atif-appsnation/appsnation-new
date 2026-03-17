@@ -25,7 +25,7 @@
 <!--End Breadcruumb Area-->
 
 <!--Start About-->
-<section class="service py-5">
+<section class="service py-5" id="mycounterSection">
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
@@ -47,6 +47,24 @@
 						<span class="circle"></span>
 					</a>
 				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center wow fadeIn  achievements-count mt-3">
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count1" class="numbers-count">10+</h2>
+				<p class="numbers-about">Years On The market</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count2" class="numbers-count">900+</h2>
+				<p class="numbers-about">People On Board</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count3" class="numbers-count">10k</h2>
+				<p class="numbers-about">Projects Delivered</p>
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+				<h2 id="count4" class="numbers-count">67</h2>
+				<p class="numbers-about">Our Current NPS Score</p>
 			</div>
 		</div>
 	</div>
@@ -193,18 +211,18 @@
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-5 fadeIn">
 				<div class="tab-content" id="imagetab">
 
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
 
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
+					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
+					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -213,40 +231,40 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<div class="common-heading ptag">
-					<div data-text="Industries" class="light-bg-text bg-text">
-						<h2>Creative <span>iOS App</span> Development Agency</h2>
-					</div>
-					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
-				</div>
-				<ul class="nav nav-tabs features-tab mt50" id="headingtab" role="tablist">
-					
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
+				<h2>Different Industries We Serve:</h2>
+				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+					<li class="nav-item">
+						<a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+					</li>
+
+					@else
+					<li class="nav-item">
+						<a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+					</li>
+					@endif
+					@endforeach
 
 				</ul>
 				<div class="tab-content pt-3" id="texttab">
+
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+
+					<div class="tab-pane image-content active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="py-3">{!!$items['content']!!}</p>
 					</div>
 					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+
+					<div class="tab-pane image-content fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="py-3">{!!$items['content']!!}</p>
 					</div>
+
 					@endif
 					@endforeach
 				</div>
@@ -257,23 +275,27 @@
 <!--End Features-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-2">
+	<div class="container">
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Why Choose-->
@@ -350,7 +372,7 @@
 <!--Start Why Choose-->
 
 <!--Start Process-->
-<section class="process-block bg-gradient3 py-5">
+<!-- <section class="process-block bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -407,8 +429,270 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--End Process-->
+
+
+<section class="py-5 process-tabs-section">
+	<div class="container">
+		<div class="row my-5">
+			<div class="col-12">
+				<div class="common-heading ptag fadeIn">
+					<div data-text="Process" class="light-bg-text bg-text">
+						<h2>Our <span>Mobile App</span> Development Process</h2>
+					</div>
+					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 col-lg-4">
+				<div class="process-btns">
+
+					<button class="tabBtn active" onclick="openTab('tab1',this)">
+						<i class="fa-solid fa-chart-line"></i>
+						<span>Requirement Gathering</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab2',this)">
+						<i class="fa-solid fa-pen-ruler"></i>
+						<span>App Development Strategies</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab3',this)">
+						<i class="fa-solid fa-mobile-screen-button"></i>
+						<span>Wireframing And Designing</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab4',this)">
+						<i class="fa-solid fa-check-to-slot"></i>
+						<span>Development Phase</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab5',this)">
+						<i class="fa-solid fa-cloud-arrow-up"></i>
+						<span>App Testing</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab6',this)">
+						<i class="fa-solid fa-wrench"></i>
+						<span>App Deployment</span>
+					</button>
+
+				</div>
+
+			</div>
+			<div class="col-md-12 col-lg-8">
+				<div class="process-tabs">
+					<div id="tab1" class="tabs ">
+						<div class="tabs-inner">
+							<h2>Project Analysis of Requirements</h2>
+							<ul>
+								<li>Identify target audience, region, age, and language.</li>
+								<li>Define UX/UI design strategy.</li>
+								<li>Select suitable typography and visual style.</li>
+								<li>Choose the right technology stack.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-chart-line"></i>
+									<span>Trend Analysis</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-list"></i>
+									<span>Requirement Analysis</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-check"></i>
+									<span>Task Validation</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-lightbulb"></i>
+									<span>Idea Generation</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+					<div id="tab2" class="tabs">
+						<div class="tabs-inner">
+							<h2>Wireframing & Designing</h2>
+							<ul>
+								<li>Analyze business goals, target audience, and competitors.</li>
+								<li>Create a result-driven Android app strategy.</li>
+								<li>Develop a custom solution tailored to your app needs.</li>
+								<li>Maximize user engagement and conversion rates.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-pen-ruler"></i>
+									<span>UI Design</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-palette"></i>
+									<span>Color Scheme</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-object-group"></i>
+									<span>Layout Structure</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-pencil-alt"></i>
+									<span>Wireframe Draft</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab3" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Development</h2>
+							<ul>
+								<li>Create visually appealing UI/UX designs and prototypes.</li>
+								<li>Ensure designs are scalable, reliable, and technology-rich.</li>
+								<li>Incorporate client feedback and required revisions.</li>
+								<li>Finalize designs after customer approval.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-mobile-screen-button"></i>
+									<span>Mobile App</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-code"></i>
+									<span>App Coding</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-laptop-code"></i>
+									<span>Build Setup</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-plug"></i>
+									<span>API Integration</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab4" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Testing</h2>
+							<ul>
+								<li>Develop Android apps following coding standards.</li>
+								<li>Build solutions based on client requirements.</li>
+								<li>Use cutting-edge tools and technologies.</li>
+								<li>Solve complex problems and enhance business value.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-bug"></i>
+									<span>Bug Check</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-vial"></i>
+									<span>Test Cases</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-check"></i>
+									<span>QA Approval</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-chart-line"></i>
+									<span>Test Report</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab5" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Deployment</h2>
+							<ul>
+								<li>Test the app thoroughly for security and performance.</li>
+								<li>Detect and resolve bugs with rigorous QA processes.</li>
+								<li>Validate functionality across multiple scenarios.</li>
+								<li>Ensure quality through expert end-to-end testing.</li>
+							</ul>
+
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-rocket"></i>
+									<span>App Launch</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-cloud-arrow-up"></i>
+									<span>Cloud Upload</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-server"></i>
+									<span>Server Setup</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-box-open"></i>
+									<span>App Delivery</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab6" class="tabs">
+						<div class="tabs-inner">
+							<h2>Maintenance</h2>
+							<ul>
+								<li>Release the app after successful testing and client approval.</li>
+								<li>Deploy the application on the Google Play Store.</li>
+								<li>Ensure compliance with Google Play guidelines.</li>
+								<li>Leverage proven experience in Play Store submissions.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-wrench"></i>
+									<span>System Fix</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-gear"></i>
+									<span>Configuration</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-rotate-right"></i>
+									<span>System Update</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-shield-halved"></i>
+									<span>Security Check</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 <!--Start Tech-->
 <div class="techonology-used py-5">
@@ -473,29 +757,35 @@
 
 					@endforeach
 				</div>
+			</div>
 		</div>
 	</div>
 </div>
 <!--End Tech-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-4">
+	<div class="container">
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
+
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -559,38 +849,23 @@
 					@foreach($awards as $k => $item)
 
 					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
-								</div>
-							</div>
-						</div>
-					 </div>
-					 </a>
 
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+										<p class="text-center pt-2">{{$item['content']}}</p>
+									</div>
 								</div>
 							</div>
 						</div>
-					 </div>
-					 @endif
+					</a>
 
 					@else
-					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
 					<div class="award-item">
 						<div class="item">
 							<div class="card">
@@ -601,9 +876,24 @@
 							</div>
 						</div>
 					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
+					@endif
+
+					@else
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					@else
+					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
@@ -625,41 +915,45 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-4">
+	<div class="container">
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
 <section class="testimonials-section-app pt100 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="common-heading text-center">
-                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-                    </div>
-                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-                </div>
-            </div>
-        </div>
-		
-		
-       <div class="testimonial-card-a owl-carousel owl-theme">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="testimonial-card-a owl-carousel owl-theme">
 			@foreach($testimonials as $key => $item)
 
 			<div class="tcd card h-100">
@@ -677,8 +971,8 @@
 							id="player-{{$key}}"
 							class="youtube-player testimonial-video"
 
-						src="{{$item['comments']}}"	
-						title="Client Testimonial"
+							src="{{$item['comments']}}"
+							title="Client Testimonial"
 
 							frameborder="0"
 							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -711,10 +1005,10 @@
 
 			@endforeach
 		</div>
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="row mt-5">
+			<div class="col-12">
+				<div class="row">
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
@@ -724,8 +1018,8 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
@@ -735,8 +1029,8 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
@@ -746,8 +1040,8 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
@@ -757,7 +1051,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -768,7 +1062,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -779,7 +1073,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -790,7 +1084,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -801,100 +1095,100 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 fadeIn my-auto text-center">
-                <div class="review-title-ref mt40">
-                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-12 fadeIn my-auto text-center">
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 wow fadeIn">
-                <div class="common-heading">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 wow fadeIn">
+				<div class="common-heading">
 					<div data-text="FAQ" class="light-bg-text bg-text">
-                    	<h2>Frequently Asked Questions</h2>
+						<h2>Frequently Asked Questions</h2>
 					</div>
-                </div>
-            </div>
-        </div>
-        <div class="row mt100">
-            <div class="col-sm-12 wow fadeIn">
-                <div class="accordion" id="accordionExample-a">
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-b">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
+				</div>
+			</div>
+		</div>
+		<div class="row mt100">
+			<div class="col-sm-12 wow fadeIn">
+				<div class="accordion" id="accordionExample-a">
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-b">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
 								I want to keep my iOS app idea confidential. Will you sign an NDA with me?
-                            </button>
-                        </h2>
-                        <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>A Non-Disclosure Agreement (NDA) is a legally binding contract that we use while working on different projects to ensure that your ideas are not copied or leaked to competitors. As a result, you should not be concerned about the security of your iOS app.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>A Non-Disclosure Agreement (NDA) is a legally binding contract that we use while working on different projects to ensure that your ideas are not copied or leaked to competitors. As a result, you should not be concerned about the security of your iOS app.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
 								Do I own the ownership and the code of my application?
-                            </button>
-                        </h2>
-                        <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Without a doubt, you are the only owner of the iOS app we created for you based on the agreement you signed and agreed to the AppsNation terms and conditions. We are an award-winning mobile app development studio for a reason: we adore and respect our clients.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Without a doubt, you are the only owner of the iOS app we created for you based on the agreement you signed and agreed to the AppsNation terms and conditions. We are an award-winning mobile app development studio for a reason: we adore and respect our clients.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
 								Do you have flexible hiring models?
-                            </button>
-                        </h2>
-                        <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
+							</button>
+						</h2>
+						<div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
 									<p>Flexible hiring is a novel employment technique that benefits businesses and resource providers. It enables you to satisfy immediate business requirements or make alternate arrangements in emergency scenarios. AppsNation offers flexible employment options to help you manage your staff, support new initiatives, and meet your short-term or seasonal needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
 								How do you allocate the resources for my app development in iOS?
-                            </button>
-                        </h2>
-                        <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>For us, allocating resources is both an art and a science. As a result, we conduct extensive research about your company and rivals, as well as the target demographic and their psychology, to deliver an app that effectively achieves its goal.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>For us, allocating resources is both an art and a science. As a result, we conduct extensive research about your company and rivals, as well as the target demographic and their psychology, to deliver an app that effectively achieves its goal.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
 								Which tools and technologies do you use?
-                            </button>
-                        </h2>
-                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>AppsNation has developers who employ cutting-edge technology and tools to create your dream iOS application.</p>
+							</button>
+						</h2>
+						<div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>AppsNation has developers who employ cutting-edge technology and tools to create your dream iOS application.</p>
 									<p class="pt-2">Programming Languages</p>
 									<ul class="ps-5">
 										<li>Swift</li>
@@ -929,89 +1223,89 @@
 										<li>Fabric</li>
 										<li>AF-networking</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
 								Will I be getting regular updates from you?
-                            </button>
-                        </h2>
-                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Our design and development team is led by a project manager who oversees the whole process of developing your iOS app. Indeed, we provide our clients with an engaging atmosphere in which project managers coordinate every step of the ongoing project's development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Our design and development team is led by a project manager who oversees the whole process of developing your iOS app. Indeed, we provide our clients with an engaging atmosphere in which project managers coordinate every step of the ongoing project's development.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
 								Will you assist me to upload my iOS app on the App store?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Submitting your iOS software to the Apple App Store is a critical component of our comprehensive iOS app development services. AppsNation has years of expertise in successfully publishing iPhone apps on the App Store while adhering to the requirements.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Submitting your iOS software to the Apple App Store is a critical component of our comprehensive iOS app development services. AppsNation has years of expertise in successfully publishing iPhone apps on the App Store while adhering to the requirements.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
 								How much does an iPhone app development cost?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We can only provide an estimate for the cost of app development because each app development process contains several aspects that jointly determine a final cost amount. However, the breakdown of app development costs is as follows:</p>
+							</button>
+						</h2>
+						<div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>We can only provide an estimate for the cost of app development because each app development process contains several aspects that jointly determine a final cost amount. However, the breakdown of app development costs is as follows:</p>
 									<ul class="ps-5">
 										<li>Functionality and purpose of the app Points of integration, the complexity of visual elements inside an app, the number of features such as GPS navigation, NFC technology, motion co-processors, Augmented Reality technology, and other technologies, and the maintenance plan.</li>
 										<li>However, a simple iOS app with a minimal User Interface and a set of must-have features costs $5,000 or more.</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
 								How many hours does it take to develop an app?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>The average time it takes to construct an app is between 4-6 months, although this might vary depending on the various elements that influence how long it takes to design an app which includes;</p>
+							</button>
+						</h2>
+						<div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>The average time it takes to construct an app is between 4-6 months, although this might vary depending on the various elements that influence how long it takes to design an app which includes;</p>
 									<ul class="ps-5">
 										<li>The definition of the scope of the app, setting down precisely what is required, finalizing UI/UX designs, selecting the platform, features, integrations, project team efficiency, and, of course, project friction. All of this has an impact on the app's development time.</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!-- End FAQS -->
 
 <!--Start Blogs-->
 <section class="blogs-section py-5">
-@if(count($data['data']) > 0)
+	@if(count($data['data']) > 0)
 	<div class="container">
 		<div class="row mb100">
 			<div class="col-lg-6">
 				<div class="common-heading wow fadeIn">
 					<div data-text="Blogs" class="light-bg-text bg-text">
-                    	<h2 class="mb0 common-heading">Latest Stories</h2>
+						<h2 class="mb0 common-heading">Latest Stories</h2>
 					</div>
 				</div>
 			</div>

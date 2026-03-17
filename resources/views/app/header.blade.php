@@ -798,7 +798,7 @@
             // alert("Welcome again " + user);
             console.log("no");
         } else {
-                let delay = (Math.floor(Math.random() * 6) + 5) * 1000;
+               let delay = (Math.floor(Math.random() * 6) + 65) * 1000;
                 setTimeout(() => {
                     $('#menu-popup').modal('show');
                 }, delay);

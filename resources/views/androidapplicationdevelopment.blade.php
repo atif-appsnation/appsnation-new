@@ -33,7 +33,7 @@
 	<div class="container">
 		<div class="row">
 			<!-- Left Content -->
-			<div class="col-lg-7 col-md-12 order-2 order-lg-1 d-flex align-items-center">
+			<div class="col-lg-7 col-md-12 order-2 order-lg-1 ">
 				<div data-text="Android" class="light-bg-text bg-text">
 					<h2>Scale-Up With Our<br> <span class="flup-theme">Custom Android App</span> Development Services</h2>
 				</div>
@@ -217,21 +217,24 @@
 </section>
 <!--End Service-->
 
+ 
+
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-5 fadeIn">
 				<div class="tab-content" id="imagetab">
+
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
 
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
+					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
+					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -240,13 +243,10 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<div class="common-heading ptag">
-					<div data-text="Industries" class="light-bg-text bg-text">
-						<h2>Creative <span>Android App</span> Development Agency</h2>
-					</div>
-					<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
-				</div>
-				<ul class="nav nav-tabs features-tab mt50" id="headingtab" role="tablist">
+				<h2>Different Industries We Serve:</h2>
+				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
+				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
+
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
 					<li class="nav-item">
@@ -259,19 +259,24 @@
 					</li>
 					@endif
 					@endforeach
+
 				</ul>
 				<div class="tab-content pt-3" id="texttab">
+
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+
+					<div class="tab-pane image-content active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="py-3">{!!$items['content']!!}</p>
 					</div>
 					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+
+					<div class="tab-pane image-content fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="py-3">{!!$items['content']!!}</p>
 					</div>
+
 					@endif
 					@endforeach
 				</div>
@@ -281,24 +286,31 @@
 </section>
 <!--End Features-->
 
+
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-4">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
+
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Why Choose-->
@@ -495,7 +507,7 @@
 								<li>Choose the right technology stack.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -530,7 +542,7 @@
 							</ul>
 
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -563,7 +575,7 @@
 								<li>Finalize designs after customer approval.</li>
 							</ul>
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -597,7 +609,7 @@
 							</ul>
 
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -632,7 +644,7 @@
 
 
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -666,7 +678,7 @@
 							</ul>
 
 
-							<a data-bs-toggle="modal" data-bs-target="#myModal" class="process-btn-effect">Call a Schedule
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
 								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
 							</a>
 							<div class="tabs-icons">
@@ -904,23 +916,27 @@
 	<!--End Tech-->
 
 	<!--Start Let's Work Together-->
-	<div class="row py-5 justify-content-center hire-developer">
-		<div class="col-lg-8">
-			<div class="free-cta-title v-center wow fadeIn">
-				<div class="row justify-content-center">
-					<div class="col-lg-8 my-auto">
-						<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-					</div>
-					<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-						<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-							<i class="fas fa-chevron-right fa-icon"></i>
-							<span class="circle"></span>
-						</a>
+	<section class="my-4">
+		<div class="container">
+			<div class="row py-5 justify-content-center hire-developer">
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 my-auto">
+								<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+							</div>
+							<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
+	</section>
 	<!--End Let's Work Together-->
 
 	<!-- Start Technologies -->
@@ -1049,23 +1065,27 @@
 	<!--End Badges-->
 
 	<!--Start Let's Work Together-->
-	<div class="row py-5 justify-content-center hire-developer">
-		<div class="col-lg-8">
-			<div class="free-cta-title v-center wow fadeIn">
-				<div class="row justify-content-center">
-					<div class="col-lg-7 my-auto">
-						<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-					</div>
-					<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-						<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-							<i class="fas fa-chevron-right fa-icon"></i>
-							<span class="circle"></span>
-						</a>
+	<section class="my-4">
+		<div class="container">
+			<div class="row py-5 justify-content-center hire-developer">
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-7 my-auto">
+								<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+							</div>
+							<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
+	</section>
 	<!--End Let's Work Together-->
 
 	<!--Start Testinomial-->

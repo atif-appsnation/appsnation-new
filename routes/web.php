@@ -156,3 +156,4 @@ Route::get('/case-studies/toy-sort-puzzle','CaseStudyController@toySortPuzzle');
 Route::get('/case-studies/royal-relax-spa','CaseStudyController@royalrelaxspa');
 Route::get('/case-studies/load-board','CaseStudyController@Loadboard');
 Route::get('/case-studies/all-traders-app','CaseStudyController@alltraders');
+

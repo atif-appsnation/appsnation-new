@@ -3901,7 +3901,7 @@
 
 }
 
-@media only screen and (min-width:1600px) and (max-width:1919px) {
+@media only screen and (min-width:1600px) and (max-width:1919px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 	body .bg-text:after {
 		font-size: 150px;
@@ -4216,6 +4216,11 @@
 	.Alejandro-hero-section .hero-img {
 		max-width: 950px;
 		margin-top: 86px;
+	}
+
+	/* home bages */
+	.hero-bages-slides-div{
+		margin-top: 10px;
 	}
 
 }

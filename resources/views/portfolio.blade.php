@@ -136,26 +136,25 @@
 						</div>
 					</div>
 					{{-- <div class="col-sm-12 col-md-6 wptbb">
-								<div id="{!!$items['type']!!}">
-									<div class="isotope_item up-hor">
-										<div class="item-image">
-											<a href="{{url('/').'/'.$items['comments']}}">
-					<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}"
-						class="img-fluid">
-					</a>
-				</div>
-				<div class="item-info-div shdo">
-					<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
-					<h5 class="mt10">{!!$items['type']!!}</h5>
-					<p class="mt10">{{$items['content']}}</p>
-				</div>
-			</div>
-
-		</div>
-		</div> --}}
-		@endforeach
-		</div>
-		</div>
+							<div id="{!!$items['type']!!}">
+								<div class="isotope_item up-hor">
+									<div class="item-image">
+										<a href="{{url('/').'/'.$items['comments']}}">
+											<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}"
+												class="img-fluid">
+											</a>
+										</div>
+										<div class="item-info-div shdo">
+											<h4><a href="{{url('/').'/'.$items['comments']}}">{{$items['title']}}</a></h4>
+											<h5 class="mt10">{!!$items['type']!!}</h5>
+											<p class="mt10">{{$items['content']}}</p>
+										</div>
+									</div>
+								</div>
+							</div> --}}
+							@endforeach
+						</div>
+					</div>
 
 		<!-- <div id="web" class="tab-pane fade">
 					<div class="row mt60">

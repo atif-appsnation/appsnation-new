@@ -83,8 +83,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
+		<div class="row mt-5 d-flex justify-content-center align-items-center">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/cross-app-development/flutter-app-development.svg" alt="Flutter App Development" class="img-fluid" width="100%" height="100%">
@@ -93,11 +93,12 @@
 						<h3>Flutter App Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Flutter is a toolkit for creating visually attractive and highly responsive mobile apps for Android, iOS, and other platforms from a single codebase.</p>
+						<p>Flutter enables us to build fast, visually appealing apps for Android and iOS using a single codebase with high performance.
+						</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/cross-app-development/react-native-app-development.svg" alt="React Native App Development" class="img-fluid" width="100%" height="100%">
@@ -106,11 +107,12 @@
 						<h3>React Native App Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>React Native is a framework that allows developers to use JavaScript to create innovative and powerful cross-platform mobile apps.</p>
+						<p>React Native allows us to create powerful cross-platform apps using JavaScript with a native-like experience.
+						</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/cross-app-development/xamarin-app-development.svg" alt="Xamarin App Development" class="img-fluid" width="100%" height="100%">
@@ -119,11 +121,12 @@
 						<h3>Xamarin App Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Xamarin has the power to create mobile applications across diverse platforms with a similar code that can be utilized to reach a wider audience.</p>
+						<p>Xamarin helps build cross-platform apps with shared code, ensuring consistent performance and wider audience reach.
+						</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/cross-app-development/ionic-app-development.svg" alt="Ionic App Development" class="img-fluid" width="100%" height="100%">
@@ -132,7 +135,8 @@
 						<h3>Ionic App Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Ionic is an open-source framework that enables developers to create cross-platform mobile apps with an expansive library of optimized components and features.</p>
+						<p>Ionic is an open-source framework for building cross-platform apps with rich UI components and smooth performance.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -212,7 +216,6 @@
 <!--Start Let's Work Together-->
 <section class="my-5">
 	<div class="container">
-
 		<div class="row py-5 justify-content-center hire-developer">
 			<div class="col-lg-10">
 				<div class="free-cta-title v-center wow fadeIn">
@@ -255,7 +258,8 @@
 						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
+					<p class="description">Get expert consultation at no cost and discover the best strategy to turn your app idea into a successful product.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
@@ -264,7 +268,8 @@
 						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Cross Platform App Developers" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">50+ Expert Cross Platform App Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class Cross Platform app developers across the globe.</p>
+					<p class="description">Work with 50+ skilled developers who build high-quality cross-platform apps for global business success.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -273,7 +278,8 @@
 						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
+					<p class="description">Choose from customized pricing and hiring models designed to fit businesses of all sizes and industries.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -282,7 +288,8 @@
 						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
+					<p class="description">Our support team is available 24/7 to quickly resolve issues and ensure smooth app performance.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -291,7 +298,8 @@
 						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
+					<p class="description">We maintain full transparency in processes and communication to build trust and ensure client satisfaction.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -300,7 +308,8 @@
 						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">3-Month Free Support After Delivery</h3>
-					<p class="description">We offer 3-month of free support after app launch to ensure the app's integrity.</p>
+					<p class="description">Enjoy 3 months of free support after launch to maintain performance and ensure your app runs smoothly.
+					</p>
 				</div>
 			</div>
 		</div>
@@ -326,42 +335,313 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<p class="description">We analyze your target audience, region, and goals to define UX/UI and choose the right technology for your app development.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven Cross Platform app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<p class="description">We create a result-driven strategy by analyzing your business, competitors, and audience to maximize performance and conversions.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<p class="description">Our designers build engaging UI/UX prototypes that are scalable, user-friendly, and refined based on your feedback.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create Cross Platform apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<p class="description">We develop high-performance apps using modern tools and coding standards to meet your business needs and solve user challenges.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Cross Platform app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<p class="description">Our QA team performs rigorous testing to ensure your app is secure, bug-free, and delivers a seamless user experience.
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Cross Platform apps to the Google Play Store.</p>
+					<p class="description">After approval, we launch your app on platforms like Google Play Store, ensuring compliance and smooth release.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+<section class="py-5 process-tabs-section">
+	<div class="container">
+		<div class="row my-5">
+			<div class="col-12">
+				<div class="common-heading ptag fadeIn">
+					<div data-text="Process" class="light-bg-text bg-text">
+						<h2>Our <span>Mobile App</span> Development Process</h2>
+					</div>
+					<p>Our Mobile app development process is a well-structured journey that begins with a thorough project scope determination early in the project life cycle. We then venture into a series of iterative cycles, leveraging Agile methodologies and sprints, to bring your product to life.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 col-lg-4">
+				<div class="process-btns">
+
+					<button class="tabBtn active" onclick="openTab('tab1',this)">
+						<i class="fa-solid fa-chart-line"></i>
+						<span>Requirement Gathering</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab2',this)">
+						<i class="fa-solid fa-pen-ruler"></i>
+						<span>App Development Strategies</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab3',this)">
+						<i class="fa-solid fa-mobile-screen-button"></i>
+						<span>Wireframing And Designing</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab4',this)">
+						<i class="fa-solid fa-check-to-slot"></i>
+						<span>Development Phase</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab5',this)">
+						<i class="fa-solid fa-cloud-arrow-up"></i>
+						<span>App Testing</span>
+					</button>
+
+					<button class="tabBtn" onclick="openTab('tab6',this)">
+						<i class="fa-solid fa-wrench"></i>
+						<span>App Deployment</span>
+					</button>
+
+				</div>
+
+			</div>
+			<div class="col-md-12 col-lg-8">
+				<div class="process-tabs">
+					<div id="tab1" class="tabs ">
+						<div class="tabs-inner">
+							<h2>Project Analysis of Requirements</h2>
+							<ul>
+								<li>Identify target audience, region, age, and language.</li>
+								<li>Define UX/UI design strategy.</li>
+								<li>Select suitable typography and visual style.</li>
+								<li>Choose the right technology stack.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-chart-line"></i>
+									<span>Trend Analysis</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-list"></i>
+									<span>Requirement Analysis</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-check"></i>
+									<span>Task Validation</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-lightbulb"></i>
+									<span>Idea Generation</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+					<div id="tab2" class="tabs">
+						<div class="tabs-inner">
+							<h2>Wireframing & Designing</h2>
+							<ul>
+								<li>Analyze business goals, target audience, and competitors.</li>
+								<li>Create a result-driven Android app strategy.</li>
+								<li>Develop a custom solution tailored to your app needs.</li>
+								<li>Maximize user engagement and conversion rates.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-pen-ruler"></i>
+									<span>UI Design</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-palette"></i>
+									<span>Color Scheme</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-object-group"></i>
+									<span>Layout Structure</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-pencil-alt"></i>
+									<span>Wireframe Draft</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab3" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Development</h2>
+							<ul>
+								<li>Create visually appealing UI/UX designs and prototypes.</li>
+								<li>Ensure designs are scalable, reliable, and technology-rich.</li>
+								<li>Incorporate client feedback and required revisions.</li>
+								<li>Finalize designs after customer approval.</li>
+							</ul>
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-mobile-screen-button"></i>
+									<span>Mobile App</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-code"></i>
+									<span>App Coding</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-laptop-code"></i>
+									<span>Build Setup</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-plug"></i>
+									<span>API Integration</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab4" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Testing</h2>
+							<ul>
+								<li>Develop Android apps following coding standards.</li>
+								<li>Build solutions based on client requirements.</li>
+								<li>Use cutting-edge tools and technologies.</li>
+								<li>Solve complex problems and enhance business value.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-bug"></i>
+									<span>Bug Check</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-vial"></i>
+									<span>Test Cases</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-clipboard-check"></i>
+									<span>QA Approval</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-chart-line"></i>
+									<span>Test Report</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab5" class="tabs">
+						<div class="tabs-inner">
+							<h2>App Deployment</h2>
+							<ul>
+								<li>Test the app thoroughly for security and performance.</li>
+								<li>Detect and resolve bugs with rigorous QA processes.</li>
+								<li>Validate functionality across multiple scenarios.</li>
+								<li>Ensure quality through expert end-to-end testing.</li>
+							</ul>
+
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-rocket"></i>
+									<span>App Launch</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-cloud-arrow-up"></i>
+									<span>Cloud Upload</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-server"></i>
+									<span>Server Setup</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-box-open"></i>
+									<span>App Delivery</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tab6" class="tabs">
+						<div class="tabs-inner">
+							<h2>Maintenance</h2>
+							<ul>
+								<li>Release the app after successful testing and client approval.</li>
+								<li>Deploy the application on the Google Play Store.</li>
+								<li>Ensure compliance with Google Play guidelines.</li>
+								<li>Leverage proven experience in Play Store submissions.</li>
+							</ul>
+
+
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect">Call a Schedule
+								<i class="fa-solid fa-angles-right vibrate-arrow"></i>
+							</a>
+							<div class="tabs-icons">
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-wrench"></i>
+									<span>System Fix</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-gear"></i>
+									<span>Configuration</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-rotate-right"></i>
+									<span>System Update</span>
+								</div>
+								<div class="tabs-icons-wrapper">
+									<i class="fa-solid fa-shield-halved"></i>
+									<span>Security Check</span>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -441,7 +721,7 @@
 		<div class="container">
 
 			<div class="row py-5 justify-content-center hire-developer">
-				<div class="col-lg-6">
+				<div class="col-lg-8">
 					<div class="free-cta-title v-center wow fadeIn">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 my-auto">

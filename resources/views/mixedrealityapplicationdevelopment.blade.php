@@ -66,7 +66,7 @@
 						<h3>Mixed Reality Apps Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Our Mixed Reality Apps Development services are of the highest quality. We make optimum use of our years of experience in this field to develop high-end holographic apps, Virtual Reality experiences, and Augmented Reality applications for you that boost your business productivity and sales.</p>
+						<p> Leverage our expertise to develop high-end holographic apps, VR, and AR solutions that boost productivity and sales</p>
 					</div>
 				</div>
 			</div>
@@ -79,7 +79,8 @@
 						<h3>Mixed Reality Games Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Our Mixed Reality games development services are tailored to drive success for your brand through exceptional storytelling. We bring your brand to life in a playful, immersive, and interactive way by connecting you with consumers using next-generation technology.</p>
+						<p>Tailored mixed reality games to immerse consumers with exceptional storytelling, enhancing brand interaction.
+</p>
 					</div>
 				</div>
 			</div>
@@ -92,7 +93,8 @@
 						<h3>Custom MR Development</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Our custom MR development services will transform your business, saving time and money with experience in all kinds of devices, from large-scale installations to mobile applications.</p>
+						<p> Transform your business with custom MR solutions, from large installations to mobile apps, saving time and money.
+</p>
 					</div>
 				</div>
 			</div>
@@ -105,7 +107,8 @@
 						<h3>MR Support & Maintenance</h3>
 					</div>
 					<div class="services-text-div">
-						<p>We provide ongoing support and maintenance of your application to ensure a flawless user experience throughout the product's journey.</p>
+						<p> Ensure seamless user experiences with ongoing support and maintenance throughout your Mixed Reality product's journey.
+</p>
 					</div>
 				</div>
 			</div>
@@ -118,7 +121,7 @@
 						<h3>Mixed Reality Experience Design</h3>
 					</div>
 					<div class="services-text-div">
-						<p>With our expertise in various disciplines, including Information Architecture, 3D prototyping, front-end UI/UX design, product management, and development, we help you turn your Mixed Reality ideas into concepts, from concept to design and ultimately to implementation.</p>
+						<p>Turning your MR ideas into reality with expert design, including 3D prototyping, UI/UX, and development expertise.</p>
 					</div>
 				</div>
 			</div>
@@ -131,7 +134,8 @@
 						<h3>Training Solutions</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Our Mixed Reality Training Solutions services are designed to help you train your users and employees with a modern, immersive, and interactive learning experience. We develop immersive training solutions that build skills through an understanding of the concepts.</p>
+						<p>Develop immersive, interactive training solutions that enhance skills and understanding through modern MR learning experiences.
+</p>
 					</div>
 				</div>
 			</div>
@@ -144,7 +148,8 @@
 						<h3>Remote Assistants</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Our Mixed Reality Remote Assistance services help bring a remote employee's environment directly into the office and provide real-time visibility and assistance. We can develop and deploy your Mixed Reality project using the latest technology, no matter how large or complex it may be.</p>
+						<p> Provide real-time visibility and remote support with Mixed Reality to assist employees, no matter the project size.
+</p>
 					</div>
 				</div>
 			</div>
@@ -157,7 +162,7 @@
 						<h3>Product Configurators</h3>
 					</div>
 					<div class="services-text-div">
-						<p>Our MR product configurators create customized digital prototypes and configurators for your products or services. We make it easy for you to see exactly what your client is getting, allowing them to interact with the product in a visual and immersive way.</p>
+						<p> Create customized, interactive digital prototypes with our MR product configurators, offering clients a visual experience.</p>
 					</div>
 				</div>
 			</div>
@@ -170,7 +175,7 @@
 						<h3>Digital Twins</h3>
 					</div>
 					<div class="services-text-div">
-						<p>We are a Mixed Reality Development Company specializing in developing Digital Twins for Manufacturing, Facility Maintenance, and Operations. We bring digital assets to life, enabling more accessible and efficient maintenance, monitoring, and operations in industrial facilities.</p>
+						<p> Specializing in developing Digital Twins for manufacturing and operations to enable efficient maintenance and monitoring.</p>
 					</div>
 				</div>
 			</div>
@@ -180,23 +185,27 @@
 <!--End Service-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Features-->
@@ -279,7 +288,7 @@
 						<img src="images/services/xr-app-development/experience.svg" alt="Experience" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Experience</h3>
-					<p class="description">When you hire us, you receive access to our extensive experience developing sophisticated custom apps.</p>
+					<p class="description">Gain access to our vast experience in developing sophisticated custom apps tailored to your business needs.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
@@ -288,7 +297,7 @@
 						<img src="images/services/xr-app-development/focus-on-expertise.svg" alt="Focus on Expertise" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Focus on Expertise</h3>
-					<p class="description">We cultivate a mobile expert culture that maintains a great commitment to stay at the forefront of our business through specialization.</p>
+					<p class="description">We nurture a mobile expert culture, ensuring we stay ahead of the curve with specialization and innovation.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
@@ -297,7 +306,7 @@
 						<img src="images/services/xr-app-development/cost-reduction.svg" alt="Cost Reduction" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Cost Reduction</h3>
-					<p class="description">We offer a cost-effective way to develop excellent mobile apps thanks to our time-tested development competence and large code repository.</p>
+					<p class="description">We offer cost-effective mobile app development, leveraging our extensive experience and a vast code repository.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -306,7 +315,7 @@
 						<img src="images/services/xr-app-development/lower-the-risk.svg" alt="Lower The Risk" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Lower The Risk</h3>
-					<p class="description">We eliminate risk and give quick time-to-value to step-out into the continually shifting market by delivering quickly and efficiently.</p>
+					<p class="description">Minimize risk and accelerate time-to-market with our fast, efficient development process tailored for a shifting market</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -315,7 +324,7 @@
 						<img src="images/services/xr-app-development/reliable-and-flexile.svg" alt="Reliable and Flexile" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Reliable and Flexile</h3>
-					<p class="description">We avoid difficulties and are adaptive to client needs by using the most up-to-date practises and technological skills.</p>
+					<p class="description">We stay adaptable to client needs, using the latest practices and tech skills to avoid issues and deliver results.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
@@ -324,7 +333,7 @@
 						<img src="images/services/xr-app-development/one-partner-for-everyone.svg" alt="One Partner For Everyone" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">One Partner For Everyone</h3>
-					<p class="description">Avoid costly resource onboarding and inefficiencies caused by many vendors. Our team is ready to help you with end-to-end business solutions.</p>
+					<p class="description">Streamline your process with one partner offering end-to-end solutions, avoiding inefficiencies from multiple vendors.</p>
 				</div>
 			</div>
 		</div>
@@ -350,42 +359,47 @@
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
+					<p class="description">Analyze your target audience, design, and technology needs to effectively create an app that meets your goals.
+</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
+					<p class="description"> In-depth analysis of your business and competitors to create a result-driven Android app development strategy.
+</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
+					<p class="description"> Our skilled designers create attractive, scalable, and reliable UI/UX designs, ensuring an outstanding user experience.
+</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
+					<p class="description"> We build Android apps using cutting-edge technology, adhering to coding standards to solve complex customer challenges.
+</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled Quality Assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
+					<p class="description">Our expert QA team rigorously tests your app to ensure security, functionality, and bug-free performance before deployment.</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
+					<p class="description"> After thorough testing and customer approval, we deploy your app to the Google Play Store with proven experience.
+</p>
 				</div>
 			</div>
 		</div>
@@ -476,23 +490,29 @@
 <!--End Tech-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -556,59 +576,59 @@
 					@foreach($awards as $k => $item)
 
 					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
-								</div>
-							</div>
-						</div>
-					 </div>
-					 </a>
 
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-							 
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+
+									</div>
 								</div>
 							</div>
 						</div>
-					 </div>
-					 @endif
+					</a>
 
 					@else
-					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
 					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-								 
+
 								</div>
 							</div>
 						</div>
 					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
+					@endif
+
+					@else
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					@else
+					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
+
 								</div>
 							</div>
 						</div>
@@ -625,40 +645,44 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
 <section class="testimonials-section-app pt100 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="common-heading text-center">
-                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-                    </div>
-                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-                </div>
-            </div>
-        </div>
-		
-        <div class="testimonial-card-a owl-carousel owl-theme">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+				</div>
+			</div>
+		</div>
+
+		<div class="testimonial-card-a owl-carousel owl-theme">
 			@foreach($testimonials as $key => $item)
 
 			<div class="tcd card h-100">
@@ -676,8 +700,8 @@
 							id="player-{{$key}}"
 							class="youtube-player testimonial-video"
 
-						src="{{$item['comments']}}"	
-						title="Client Testimonial"
+							src="{{$item['comments']}}"
+							title="Client Testimonial"
 
 							frameborder="0"
 							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -710,10 +734,10 @@
 
 			@endforeach
 		</div>
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="row mt-5">
+			<div class="col-12">
+				<div class="row">
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
@@ -723,8 +747,8 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
@@ -734,8 +758,8 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
@@ -745,8 +769,8 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
@@ -756,7 +780,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -767,7 +791,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -778,7 +802,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -789,7 +813,7 @@
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
@@ -800,59 +824,59 @@
 								</a>
 							</div>
 						</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 fadeIn my-auto text-center">
-                <div class="review-title-ref mt40">
-                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-       
-    </div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-12 fadeIn my-auto text-center">
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
 </section>
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 wow fadeIn">
-                <div class="common-heading">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 wow fadeIn">
+				<div class="common-heading">
 					<div data-text="FAQ" class="light-bg-text bg-text">
-                    	<h2>Frequently Asked Questions</h2>
+						<h2>Frequently Asked Questions</h2>
 					</div>
-                </div>
-            </div>
-        </div>
-        <div class="row mt100">
-            <div class="col-sm-12 wow fadeIn">
-                <div class="accordion" id="accordionExample-a">
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-b">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
+				</div>
+			</div>
+		</div>
+		<div class="row mt100">
+			<div class="col-sm-12 wow fadeIn">
+				<div class="accordion" id="accordionExample-a">
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-b">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
 								What is MR?
-                            </button>
-                        </h2>
-                        <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Mixed reality, or MR, is a technology that blends natural and virtual realities. It is often described as new technologies that combine physical and digital elements to create immersive experiences. For example, augmented reality (AR) integrates computer graphics into the user's view of the real world or virtual reality (VR), immersing people in an entirely digital environment.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Mixed reality, or MR, is a technology that blends natural and virtual realities. It is often described as new technologies that combine physical and digital elements to create immersive experiences. For example, augmented reality (AR) integrates computer graphics into the user's view of the real world or virtual reality (VR), immersing people in an entirely digital environment.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
 								What is difference between AR, MR and VR?
-                            </button>
-                        </h2>
-                        <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
+							</button>
+						</h2>
+						<div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
 									<p>If you are new to augmented and mixed reality, you have probably heard these three terms thrown around a lot. But what do they mean?</p>
 									<p class="pt-2">Let us breakdown each of these terms;</p>
 									<ul class="ps-5">
@@ -860,48 +884,48 @@
 										<li><strong>Mixed Reality (MR)</strong> is a more advanced version of AR. Whereas AR adds objects to your field of vision, MR overlays them directly onto your body to look like they are there.</li>
 										<li><strong>Virtual Reality (VR)</strong> is an entirely immersive experience where you're completely cut off from the real world around you and transported into another world.</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
 								How much does it cost to develop an MR application?
-                            </button>
-                        </h2>
-                        <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>There is no set price for developing a mixed reality application. The cost depends on the size and type of the project, the project's scope, and how much time you have before the launch date. In addition, the price can be anywhere from $1000 to $1 million.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>There is no set price for developing a mixed reality application. The cost depends on the size and type of the project, the project's scope, and how much time you have before the launch date. In addition, the price can be anywhere from $1000 to $1 million.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
 								How long does it take to make an MR project?
-                            </button>
-                        </h2>
-                        <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
+							</button>
+						</h2>
+						<div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
 									<p>It depends on the scope of your project, but generally, it can take anywhere from 2-6 months.</p>
 									<p class="pt-2">It is essential to keep in mind that this is just an estimate, and your timeline will depend on many factors: goal, type, size, complexity, of the project, and many other elements.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
 								What kind of testing will you do?
-                            </button>
-                        </h2>
-                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
+							</button>
+						</h2>
+						<div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
 									<p>We use many different types of testing for each project that helps us get closer to ensuring the product is ready for market. Our testing methods are as below:</p>
 									<ul class="ps-5">
 										<li>Usability Testing</li>
@@ -909,28 +933,28 @@
 										<li>Performance Testing</li>
 										<li>Compatibility Testing</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
 								Will we sign an NDA to keep my MR software/application idea confidential?
-                            </button>
-                        </h2>
-                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>A non-disclosure agreement (NDA) is a contract where two parties agree not to disclose certain information. Yes, we will sign an NDA with you. Without such an agreement, there could be enforceable technical issues. We cannot have those kinds of problems in this project because the exact idea and steps to accomplish your goals can be crucial for authentication.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+							</button>
+						</h2>
+						<div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>A non-disclosure agreement (NDA) is a contract where two parties agree not to disclose certain information. Yes, we will sign an NDA with you. Without such an agreement, there could be enforceable technical issues. We cannot have those kinds of problems in this project because the exact idea and steps to accomplish your goals can be crucial for authentication.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!-- End FAQS -->
 

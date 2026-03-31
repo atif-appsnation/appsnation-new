@@ -163,7 +163,7 @@
 						<p>A stylish shopping experience designed to bring premium beach essentials right to your fingertips with ease and elegance. From discovering trending products to finding everything for your perfect beach day/p>
 						<div class="banner-btn">
 							<a href="{{url('/case-studies/boujee-beachin-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
-								<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -177,7 +177,7 @@
 						<p>A smart digital solution designed to simplify your daily needs by combining innovation with seamless user experience. From managing tasks efficiently to accessing services faster, Wood Land is built to make your life easier and more productive.</p>
 						<div class="banner-btn">
 							<a href="{{url('/case-studies/wood-land-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
-								<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
+							<a data-bs-toggle="modal" data-bs-target="#menu-popup" class="process-btn-effect" class="active">Request A Quote</a>
 						</div>
 					</div>
 				</div>
@@ -928,7 +928,17 @@
 				<div class="row mt60">
 					<div class="col-lg-12 col-sm-12 wptbb">
 						<div class="pbwide ">
-							<div class="portfolio-item-info-tt order-2 order-lg-1">
+
+							<div class="portfolio-wide-image order-2 order-lg-1">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/case-studies/boujee-beachin/boujee-beachin-gif.gif" alt="Gym App" class="img-fluid rounded" width="100%" height="100%">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="portfolio-item-info-tt order-1 order-lg-2">
 								<div class="logowide mb20">
 								</div>
 								<h3 class="mt30 mb30">Boujee Beachin</h3>
@@ -953,29 +963,13 @@
 									<span class="circle"></span>
 								</a>
 							</div>
-							<div class="portfolio-wide-image order-1 order-lg-2">
-								<div class="img-wide-blocktt tilt-outer">
-									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-										<div>
-											<img src="images/case-studies/boujee-beachin/boujee-bouchen-thumbnail.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
-										</div>
-									</div>
-								</div>
-							</div>
+
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12 wptbb gap-5">
 						<div class="pbwide ">
-							<div class="portfolio-wide-image">
-								<div class="img-wide-blocktt tilt-outer">
-									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-										<div>
-											<img src="images/case-studies/royal-ride/royal-ride-thumbnail.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="portfolio-item-info-tt ps-5">
+
+							<div class="portfolio-item-info-tt  ">
 								<div class="logowide mb20">
 								</div>
 								<h3 class="mt30 mb30">Royal Ride App</h3>
@@ -1000,12 +994,30 @@
 									<span class="circle"></span>
 								</a>
 							</div>
+							<div class="portfolio-wide-image">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/case-studies/royal-ride/royal-ride-thumbnail.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
+										</div>
+									</div>
+								</div>
+							</div>
 
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12 wptbb">
 						<div class="pbwide ">
-							<div class="portfolio-item-info-tt  order-2 order-lg-1">
+							<div class="portfolio-wide-image   ">
+								<div class="img-wide-blocktt tilt-outer">
+									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
+										<div>
+											<img src="images/case-studies/wood-land-app/wood-land-gif.gif" alt="wood land app" class="img-fluid rounded" width="100%" height="100%">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="portfolio-item-info-tt  ">
 								<div class="logowide mb20">
 								</div>
 								<h3 class="mt30 mb30">Wood Land App</h3>
@@ -1014,7 +1026,7 @@
 									<div class="widebloktag">
 										<span class="">UI/UX Design</span>
 									</div>
-									<div class="widebloktag green-tag ">
+									<div class="widebloktag green-tag "> 
 										<span class=""># Mobile App Development</span>
 									</div>
 								</div>
@@ -1030,15 +1042,7 @@
 									<span class="circle"></span>
 								</a>
 							</div>
-							<div class="portfolio-wide-image  order-1 order-lg-2">
-								<div class="img-wide-blocktt tilt-outer">
-									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-										<div>
-											<img src="images/case-studies/wood-land-app/wood-land-thumbnail.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
-										</div>
-									</div>
-								</div>
-							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -1126,6 +1130,7 @@
 				</div>
 			</div>
 		</div>
+		
 	</section>
 </section>
 <!--End Portfolio-->

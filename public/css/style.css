@@ -5501,6 +5501,12 @@ h3 a {
     color: white;
 }
 
+ .service-card:hover .service-heading h3 {
+     color: white;
+    }
+    .service-card:hover .services-img-div img{
+        filter: invert(1);
+    }
 .scale-up-services-section {
     background: var(--light-grey);
     /* background: linear-gradient(135deg, #FFFFFF 0%, var(--light-grey) 100%); */
@@ -10856,7 +10862,7 @@ button:not(:disabled) {
 /* Start Solutions Page */
 
 .solutions-banner {
-    background: var(--black2-color);
+    background: url('../images/banner/Solution.png')  center center/ cover no-repeat;
 }
 
 .solutions-link {
@@ -10947,7 +10953,9 @@ button:not(:disabled) {
 /* Industries Page */
 
 .industries-banner {
-    background: var(--black2-color);
+
+
+    background:url('../images/banner/Indusries.png')  right/ cover no-repeat;
 }
 
 .industries-link {
@@ -11317,6 +11325,7 @@ h3.modal-title {
 }
 
 .service-card-app:hover h3,
+.service-heading:hover h3,
 .service-card-app:hover h4,
 .service-card-app:hover p,
 .service-card-app:hover a {
@@ -22841,3 +22850,10 @@ textarea::-ms-input-placeholder {
 .info-cards .cont-prt {
     text-align: center;
 }
+
+
+
+
+/* test */
+
+

@@ -22,7 +22,7 @@
 <!--End Breadcrumb Area-->
 
 <!--Start About-->
-<section class="service py-5">
+<section id="mycounterSection"  class="service py-5">
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
@@ -41,6 +41,24 @@
 				</div>
 			</div>
 		</div>
+		<div class="row justify-content-center wow fadeIn  achievements-count mt-3">
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count1" class="numbers-count">10+</h2>
+					<p class="numbers-about">Years On The market</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count2" class="numbers-count">900+</h2>
+					<p class="numbers-about">People On Board</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count3" class="numbers-count">10k</h2>
+					<p class="numbers-about">Projects Delivered</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count4" class="numbers-count">67</h2>
+					<p class="numbers-about">Our Current NPS Score</p>
+				</div>
+			</div>
 	</div>
 </section>
 <!--End About-->
@@ -48,7 +66,7 @@
 <!--Start Service -->
 <section class="service-section-app py-5">
 	<div class="container">
-		<div class="row justify-content-center">
+		<div class="row ">
 			<div class="col-12 wow fadeIn">
 				<div class="common-heading ptag">
 					<div data-text="Our Services" class="light-bg-text bg-text">
@@ -58,8 +76,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-sm-12 col-md-12 col-lg-3 wow fadeIn">
+		<div class="row mt-5 d-flex justify-content-center">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/iot-consulting.svg" alt="IoT Consulting" class="img-fluid" width="100%" height="100%">
@@ -72,7 +90,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/poc-and-prototype-development.svg" alt="PoC & Prototype Development" class="img-fluid" width="100%" height="100%">
@@ -85,7 +103,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/iot-firmware-development-and-integration.svg" alt="IoT Firmware Development & Integration" class="img-fluid" width="100%" height="100%">
@@ -98,7 +116,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/iot-mobile-and-web-apps.svg" alt="IoT Mobile & Web Apps" class="img-fluid" width="100%" height="100%">
@@ -111,7 +129,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/ip-product-development-and-integration.svg" alt="IP Product Development & Integration" class="img-fluid" width="100%" height="100%">
@@ -124,7 +142,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/iot-wearable-apps.svg" alt="IoT Wearable Apps" class="img-fluid" width="100%" height="100%">
@@ -137,7 +155,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/iot-architecture-development.svg" alt="IoT Architecture Development" class="img-fluid" width="100%" height="100%">
@@ -150,7 +168,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-3 mt-3 wow fadeIn">
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<img src="images/services/iot-app-development/backend-and-api-integration.svg" alt="Backend & API Development" class="img-fluid" width="100%" height="100%">
@@ -171,7 +189,7 @@
 <!--Start Service -->
 <section class="service-section py-5">
 	<div class="container">
-		<div class="row">
+		<div class="row d-flex justify-content-center">
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app gradient-border">
 					<div class="services-img-div">
@@ -320,62 +338,65 @@
 </section>
 <!--End Service -->
 
+
 <!--Start Features-->
 <section class="features-section-app dark-bg2 py-5">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5">
+			<div class="col-sm-12 col-md-12 col-lg-5 fadeIn">
 				<div class="tab-content" id="imagetab">
+
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
 
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
+					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid" width="100%" height="100%">
+					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
 					@endforeach
+
 				</div>
 			</div>
-
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0">
-				<div class="common-heading ptag">
-					<div data-text="Industries" class="light-bg-text bg-text">
-						<h2>Creative <span>IoT App</span> Development Agency</h2>
-					</div>
-				</div>
+			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
+				<h2>Different Industries We Serve:</h2>
 				<p class="py-3">We help a diverse clientele build result-driven mobile apps for different industries.</p>
-				<ul class="nav nav-tabs features-tab mt50" id="headingtab" role="tablist">
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
+				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
 
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
-				</ul>
-
-				<div class="tab-content pt-3" id="texttab">
 					@foreach($agencystack as $k=>$items)
 					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+					<li class="nav-item">
+						<a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+					</li>
+
+					@else
+					<li class="nav-item">
+						<a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
+					</li>
+					@endif
+					@endforeach
+
+				</ul>
+				<div class="tab-content pt-3" id="texttab">
+
+					@foreach($agencystack as $k=>$items)
+					@if($k==0)
+
+					<div class="tab-pane image-content active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="py-3">{!!$items['content']!!}</p>
 					</div>
 					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
+
+					<div class="tab-pane image-content fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
 						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
+						<p class="py-3">{!!$items['content']!!}</p>
 					</div>
+
 					@endif
 					@endforeach
 				</div>
@@ -386,23 +407,28 @@
 <!--End Features-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Why Choose -->
@@ -515,8 +541,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-3">
+		<div class="row upset d-flex justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">01</p>
@@ -525,7 +551,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">02</p>
@@ -534,7 +560,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">03</p>
@@ -543,7 +569,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
+			<div class="col-12 col-md-6 col-lg-4 mt-3 ">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">04</p>
@@ -552,7 +578,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">05</p>
@@ -561,7 +587,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">06</p>
@@ -570,7 +596,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">07</p>
@@ -579,7 +605,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="card timeline wow fadeIn h-100">
 					<div class="card-body">
 						<p class="timeline-year">08</p>
@@ -618,31 +644,31 @@
 					<div id="connectivity" class="container tab-pane active">
 						<div class="row mt-3 d-flex justify-content-center">
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-								<!-- <img src="images/tech/4g-lte-logo.webp" alt="4G LTE Logo" class="tech-logo"> -->
+								<img src="images/tech/4g-lte-logo.webp" alt="4G LTE Logo" class="tech-logo">
 								<h6 class="pt-3">4G LTE</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-								<!-- <img src="images/tech/wifi-logo.webp" alt="WIFI Logo" class="tech-logo"> -->
+								<img src="images/tech/wifi-logo.webp" alt="WIFI Logo" class="tech-logo">
 								<h6 class="pt-3">WI-FI</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-								<!-- <img src="images/tech/bluetooth-logo.webp" alt="Bluetooth Logo" class="tech-logo"> -->
+								<img src="images/tech/bluetooth-logo.webp" alt="Bluetooth Logo" class="tech-logo">
 								<h6 class="pt-3">Bluetooth</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-								<!-- <img src="images/tech/nfc-logo.webp" alt="NFC Logo" class="tech-logo"> -->
+								  <img src="images/tech/nfc-logo.webp" alt="NFC Logo" class="tech-logo"> 
 								<h6 class="pt-3">NFC</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/gsm-logo.webp" alt="GSM Logo" class="tech-logo"> -->
+							  <img src="images/tech/gsm-logo.webp" alt="GSM Logo" class="tech-logo">  
 								<h6 class="pt-3">GSM</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/ethernet-logo.webp" alt="Ethernet Logo" class="tech-logo"> -->
+								 <img src="images/tech/ethernet-logo.webp" alt="Ethernet Logo" class="tech-logo">  
 								<h6 class="pt-3">Ethernet</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/iot-gateway.webp" alt="IoT Gateway Logo" class="tech-logo"> -->
+							  <img src="images/tech/iot-gateway.webp" alt="IoT Gateway Logo" class="tech-logo">  
 								<h6 class="pt-3">IoT Gateway</h6>
 							</div>
 						</div>
@@ -651,35 +677,35 @@
 						<br>
 						<div class="row mt-3 d-flex justify-content-center">
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-								<!-- <img src="images/tech/raspberry-pi-logo.webp" alt="angular-js-logo" class="tech-logo"> -->
+								<img src="images/tech/raspberry-pi-logo.webp" alt="angular-js-logo" class="tech-logo">
 								<h6 class="pt-3">Raspberry PI</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-								<!-- <img src="images/tech/react-native-logo.webp" alt="react-js-logo" class="tech-logo"> -->
+								 <img src="images/tech/react-native-logo.webp" alt="react-js-logo" class="tech-logo"> 
 								<h6 class="pt-3">Arduino</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-								<!-- <img src="images/tech/type-script-logo.webp" alt="type-script-logo" class="tech-logo"> -->
+								 <img src="images/tech/type-script-logo.webp" alt="type-script-logo" class="tech-logo"> 
 								<h6 class="pt-3">Beacons</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-								<!-- <img src="images/tech/vue-js-logo.webp" alt="vue-js-logo" class="tech-logo"> -->
+								<img src="images/tech/vue-js-logo.webp" alt="vue-js-logo" class="tech-logo"> 
 								<h6 class="pt-3">NodeMCU</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo"> -->
+							 <img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo"> 
 								<h6 class="pt-3">KNX</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo"> -->
+								 <img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo"> 
 								<h6 class="pt-3">Crestron</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> -->
+								<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
 								<h6 class="pt-3">Microcontrollers</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> -->
+								<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> 
 								<h6 class="pt-3">Miniature Boards</h6>
 							</div>
 						</div>
@@ -688,59 +714,59 @@
 						<br>
 						<div class="row mt-3 justify-content-center">
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<!-- <img src="images/tech/mangodb-logo.webp" alt="mangodb-logo" class="tech-logo"> -->
+								 <img src="images/tech/mangodb-logo.webp" alt="mangodb-logo" class="tech-logo"> 
 								<h6 class="pt-3">MQTT</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-								<!-- <img src="images/tech/mysql-logo.webp" alt="mysql-logo" class="tech-logo"> -->
+								 <img src="images/tech/mysql-logo.webp" alt="mysql-logo" class="tech-logo"> 
 								<h6 class="pt-3">Modbus</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<!-- <img src="images/tech/mssql-logo.webp" alt="mssql-logo" class="tech-logo"> -->
+								 <img src="images/tech/mssql-logo.webp" alt="mssql-logo" class="tech-logo"> 
 								<h6 class="pt-3">SNMP</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-								<!-- <img src="images/tech/firebase-logo.webp" alt="firebase-logo" class="tech-logo"> -->
+								 <img src="images/tech/firebase-logo.webp" alt="firebase-logo" class="tech-logo"> 
 								<h6 class="pt-3">AMQP</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<!-- <img src="images/tech/dynamodb-logo.webp" alt="dynamodb-logo" class="tech-logo"> -->
+								 <img src="images/tech/dynamodb-logo.webp" alt="dynamodb-logo" class="tech-logo"> 
 								<h6 class="pt-3">HTTP,HTTPS</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-								<!-- <img src="images/tech/redis-logo.webp" alt="redis-logo" class="tech-logo"> -->
+								 <img src="images/tech/redis-logo.webp" alt="redis-logo" class="tech-logo"> 
 								<h6 class="pt-3">Z-Wave</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> -->
+								 <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> 
 								<h6 class="pt-3">ZigBee</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> -->
+								 <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> 
 								<h6 class="pt-3">LoRAWAN</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> -->
+								 <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> 
 								<h6 class="pt-3">iBeacon</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> -->
+								<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> 
 								<h6 class="pt-3">TCP & UDP</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> -->
+								 <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> 
 								<h6 class="pt-3">CoAp</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> -->
+								 <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
 								<h6 class="pt-3">BLE</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> -->
+								 <img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo"> 
 								<h6 class="pt-3">Cellular 2G,3G,4G,5G</h6>
 							</div>
 							<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-								<!-- <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> -->
+								 <img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo"> 
 								<h6 class="pt-3">UDS</h6>
 							</div>
 						</div>
@@ -753,23 +779,28 @@
 <!--End Tech-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+		
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Badges-->
@@ -856,23 +887,28 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+		
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->

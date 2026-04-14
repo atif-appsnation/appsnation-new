@@ -21,7 +21,7 @@
 <!--End Breadcrumb-->
 
 <!--Start About-->
-<section class="service py-5">
+<section id="mycounterSection" class="service py-5">
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
@@ -39,6 +39,25 @@
 				</div>
 			</div>
 		</div>
+		<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 "
+				style="visibility: visible; animation-name: fadeIn;">
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count1" class="numbers-count">10+</h2>
+					<p class="numbers-about">Years On The market</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count2" class="numbers-count">900+</h2>
+					<p class="numbers-about">People On Board</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count3" class="numbers-count">10k</h2>
+					<p class="numbers-about">Projects Delivered</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count4" class="numbers-count">67</h2>
+					<p class="numbers-about">Our Current NPS Score</p>
+				</div>
+			</div>
 	</div>
 </section>
 <!--End About-->
@@ -196,23 +215,28 @@
 </section>
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="y-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!-- <section class="features-section-app dark-bg2 py-5">
@@ -395,23 +419,28 @@
 <!--End Process-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -540,23 +569,28 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+
+<section class="my-1">
+	<div class="container">
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->

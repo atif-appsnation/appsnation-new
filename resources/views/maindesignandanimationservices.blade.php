@@ -23,7 +23,7 @@
 <!--Start Breadcrumb Area-->
 
 <!--Start About-->
-<section class="service py-5">
+<section  id="mycounterSection" class="service py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5 my-auto">
@@ -40,6 +40,26 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 "
+				style="visibility: visible; animation-name: fadeIn;">
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count1" class="numbers-count">10+</h2>
+					<p class="numbers-about">Years On The market</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count2" class="numbers-count">900+</h2>
+					<p class="numbers-about">People On Board</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count3" class="numbers-count">10k</h2>
+					<p class="numbers-about">Projects Delivered</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count4" class="numbers-count">67</h2>
+					<p class="numbers-about">Our Current NPS Score</p>
+				</div>
+			</div>
 	</div>
 </section>
 <!--End About-->
@@ -68,7 +88,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>Stand out online and get measurable outcomes with our full-service digital marketing services which include SEO, PPC & paid advertising, social media marketing, email marketing and much more. Leave it to the experts we have on our team because they understand all the ways in which your business can succeed. </p>
-						<a href="{{url('/digital-marketing')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/digital-marketing')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -84,7 +104,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>Convert your good ideas into great stories with our animated films. Whether it is a 2D animation or 3D animation or motion graphics, our expert team of artists will work with you to design spectacular animations that are likely to influence the audience.</p>
-						<a href="{{url('/animation-services')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/animation-services')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -100,7 +120,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>Here at 3D exterior rendering services, all your architectural designs come alive in stunning photorealistic 3D presentations with consideration of all details. Our architectural visualization services therefore offer the end users an exclusive feel through production of high- definition visuals of your designs.</p>
-						<a href="{{url('/exterior-3d')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/exterior-3d')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -116,7 +136,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>3D floor plans can be described as detailed 2D and 3D flats which help give more interactivity to a property. Real estate floor plans can greatly increase engagement with potential buyers and investors while making your own property more attractive. Ideal for realtors, designers, architects, and builders, our floor plans ensure that presenting or explaining spaces is easy.</p>
-						<a href="{{url('/interior-3d')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/interior-3d')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -132,7 +152,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>3D floor plans can be described as detailed 2D and 3D flats which help give more interactivity to a property. Real estate floor plans can greatly increase engagement with potential buyers and investors while making your own property more attractive. Ideal for realtors, designers, architects, and builders, our floor plans ensure that presenting or explaining spaces is easy.</p>
-						<a href="{{url('/floor-plan')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/floor-plan')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -148,7 +168,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>Our 2D art services help create a true representation of your idea through artwork and illustrations. For character design, page layout, digital art and more, we stick to making beautiful pieces of art that your audience will respond to. Available for gaming, branding, and advertising, our 2D art services improve your project’s aesthetic appeal to reflect detail and imagination.</p>
-						<a href="{{url('/2d-art')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/2d-art')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -165,7 +185,7 @@
 					</div>
 					<div class="services-text-div">
 						<p>Bring out the best in your project with flexible 3D art services that we offer to clients. Our 3D services range from 3D modeling and drafting, 3D visualization, to 3D animation that can meet your represented goals. No matter if it is a game, advertisement or a product design, our specialists in 3D rendering deliver spectacular visualizations that illustrate your idea in detail.</p>
-						<a href="{{url('/3d-art')}}" class="mt20 link-prbs">Read More
+						<a href="{{url('/3d-art')}}" class="mt20 link-prbs">
 							<i class="fas fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -177,24 +197,28 @@
 </section>
 <!--End Service-->
 
-<!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<!--Start Let's Work Together-->	<section class="my-1">
+		<div class="container">
+			
+			<div class="row py-5 justify-content-center hire-developer">
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 my-auto">
+								<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+							</div>
+							<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
+	</section>
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -267,7 +291,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -281,7 +304,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -297,7 +319,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -310,7 +331,6 @@
 								<div class="card-body">
 									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									<p class="text-center pt-2">{{$item['content']}}</p>
 								</div>
 							</div>
 						</div>
@@ -327,165 +347,215 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+	<section class="my-1">
+		<div class="container">
+			
+			<div class="row py-5 justify-content-center hire-developer">
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-7 my-auto">
+								<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+							</div>
+							<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
+	</section>
 <!--End Let's Work Together-->
 
-<!--Start Testinomial-->
-<section class="testimonials-section-app pt100 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="common-heading text-center">
-                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-                    </div>
-                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-                </div>
-            </div>
-        </div>
-		
-		
-        <div class="testimonial-card-a owl-carousel owl-theme">
-            <!-- <div class="row mt-3 px-3"> -->
-			@foreach($testimonials as $item)
-                <!-- <div class="col-lg-6 mt-3 wow fadeIn"> -->
+
+	<!--Start Testinomial-->
+	<section class="testimonials-section-app pt100 pb-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="common-heading text-center">
+						<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+							<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+						</div>
+						<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+					</div>
+				</div>
+			</div>
+
+			<div class="testimonial-card-a owl-carousel owl-theme">
+				@foreach($testimonials as $key => $item)
+
 					<div class="tcd card h-100">
-						<div class="testimonial-card card-body">
-							<div class="tt-text">
-								<p>{{$item['title']}}</p>
+						<div class="row">
+							<div class="col-lg-6 position-relative">
+
+								<!-- Overlay -->
+								<div class="video-overlay" data-target="player-{{$key}}"
+									style="position:absolute;top:0;left:0;width:100%;height:100%;cursor:pointer;z-index:2;">
+								</div>
+
+								<!-- YouTube Video -->
+								<iframe id="player-{{$key}}" class="youtube-player testimonial-video"
+									src="{{$item['comments']}}" title="Client Testimonial" frameborder="0"
+									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+									referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+								</iframe>
+
 							</div>
-							<div class="client-thumbs mt30">
-								<div class="media v-center upset">
-									<!-- <div class="user-image bdr-radius"> <img src="images/user-thumb/girl.webp" alt="girl" class="img-fluid rounded-circle" /> </div> -->
-									<div class="media-body user-info v-center">
-										<h5>{{$item['name']}}</h5>
-										<p>{{$item['location']}}</p> <i class="fas fa-quote-right posiqut"></i>
+
+							<div class="col-lg-6">
+								<div class="testimonial-card card-body">
+									<div class="tt-text">
+										<p>{{$item['title']}}</p>
 									</div>
+
+									<div class="client-thumbs mt30">
+										<div class="media v-center upset">
+											<div class="media-body user-info v-center">
+												<h3>{{$item['name']}}</h3>
+												<p>{{$item['location']}}</p>
+												<i class="fas fa-quote-right posiqut"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+
+				@endforeach
+			</div>
+			<div class="row mt-5">
+				<div class="col-12">
+					<div class="row">
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
+										<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch"
+											width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch
+										</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
+										<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark"
+											width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
+										<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto"
+											alt="DesignRush" width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
+											DesignRush</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
+										<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto"
+											alt="GoodFirms" width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms
+										</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
+										<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto"
+											alt="Trustpilot" width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
+											Trustpilot</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
+										<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto"
+											alt="Sortlist" width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist
+										</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://upcity.com/profiles/appsnation" target="_blank">
+										<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity"
+											width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity
+										</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
+										<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto"
+											alt="SiteJabber" width="auto" height="auto">
+										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+											width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
+											SiteJabber</p>
+									</a>
 								</div>
 							</div>
 						</div>
 					</div>
-                <!-- </div> -->
-            @endforeach
-            <!-- </div> -->
-        </div>
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 fadeIn my-auto text-center">
-                <div class="review-title-ref mt40">
-                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Testinomial-->
+				</div>
+				<div class="col-lg-12 fadeIn my-auto text-center">
+					<div class="review-title-ref mt40">
+						<a href="{{url('/testimonials')}}"
+							class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i
+								class="fas fa-chevron-right fa-ani"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--End Testinomial-->
 
 @endsection

@@ -65,23 +65,28 @@
 <!--End Showcase-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Visualization-->
@@ -369,80 +374,110 @@
 <!--End Service-->
 
 
-<!--Start Why Choose-->
-<!-- <section class="why-choose bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+
+	<!--Start Why Choose -->
+	<section class="why-choose bg-gradient3 py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="common-heading ptag wow fadeIn">
+						<div data-text="Choose Us" class="dark-bg-text bg-text">
+							<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+						</div>
+						<p class="text-white">We have transformed the IoT sector by delivering exceptional digital products,
+							platforms, and IoT-based services. Trust us to create an IoT ecosystem linking people,
+							equipment, and processes to optimize your business. Our integrated IoT systems convert data into
+							actionable insights, enabling automation and real-time decision-making.</p>
+					</div>
 				</div>
 			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
+			<div class="row mt-5">
+				<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+					<div class="service-card-app home-services gradient-border h-100">
+						<div class="services-img-div">
+							<div class="effect-cont-comm-img"></div>
+						</div>
+						<div class="service-heading">
+							<h3>Effective & Continuous Communication</h3>
+						</div>
+						<div class="services-text-div">
+							<p> Full range of IoT app development services.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+					<div class="service-card-app home-services gradient-border h-100">
+						<div class="services-img-div">
+							<div class="delivered-on-time-img"></div>
+						</div>
+						<div class="service-heading">
+							<h3>Excellent Quality Delivered on Time</h3>
+						</div>
+						<div class="services-text-div">
+							<p>Apps developed across all platforms and devices.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+					<div class="service-card-app home-services gradient-border h-100">
+						<div class="services-img-div">
+							<div class="experienced-team-img"></div>
+						</div>
+						<div class="service-heading">
+							<h3>Experienced Team</h3>
+						</div>
+						<div class="services-text-div">
+							<p>Single-code apps that work seamlessly across platforms.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+					<div class="service-card-app home-services gradient-border h-100">
+						<div class="services-img-div">
+							<div class="absolute-support-img"></div>
+						</div>
+						<div class="service-heading">
+							<h3>Absolute Support</h3>
+						</div>
+						<div class="services-text-div">
+							<p>Serving industries globally to leverage innovative technology.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+					<div class="service-card-app home-services gradient-border h-100">
+						<div class="services-img-div">
+							<div class="complete-technical-img"></div>
+						</div>
+						<div class="service-heading">
+							<h3>Complete Technical Competency</h3>
+						</div>
+						<div class="services-text-div">
+							<p>Affordable services with on-time delivery.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+					<div class="service-card-app home-services gradient-border h-100">
+						<div class="services-img-div">
+							<div class="full-confidential-img"></div>
+						</div>
+						<div class="service-heading">
+							<h3>Full Confidentiality</h3>
+						</div>
+						<div class="services-text-div">
+							<p> Impeccable testing ensures error-free IoT apps.</p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
-					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
-					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
-					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="technical-support"></div>
-					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="transparency"></div>
-					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--Start Why Choose-->
+	</section>
+	<!--End Why Choose -->
 
 <!--Start New Project-->
 <!-- <section class="service-block py-5">
@@ -524,23 +559,28 @@
 <!--End Process-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -669,23 +709,28 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->

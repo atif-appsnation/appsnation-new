@@ -13,9 +13,9 @@
 				<div class="col-sm-12 col-md-6 my-auto wow fadeIn">
 					<div class="bread-titlev2">
 						<h1 class="banner-heading pt-3" data-wow-delay=".2s">Wearable App Development Company</h1>
-						<p class="mt20 text-white" data-wow-delay=".4s">Enrich your brand’s mobility with a wearable app
-							running across various wearables and connectivity with multi-platform devices - responsive,
-							fast, and visually appealing.</p>
+						<p class="mt20 text-white" data-wow-delay=".4s">Make your brand more mobile with a robust wearable
+							app that works with a lot of different devices and platforms. Our solutions are fast, easy to
+							use, responsive, and look good.</p>
 					</div>
 				</div>
 			</div>
@@ -36,16 +36,16 @@
 				<div class="col-lg-7 block-1 wow fadeIn">
 					<div class="common-heading text-l pl25">
 						<div data-text="Wearables" class="light-bg-text bg-text">
-							<h2>Affordable Solutions For<br> <span class="flup-theme">Wearables App</span> Development
-								Services</h2>
+							<h2><span class="flup-theme">Wearable App Development </span>Services at a
+								Low Cost</h2>
 						</div>
-						<p><strong>Wearable technology drives success for 79% of businesses.</strong></p>
-<p>Wearables are smart devices focused on health tracking and real-time insights, offering high mobility.</p>
-<p>They enhance user experience across industries. AppsNation builds custom wearable apps to boost engagement and efficiency.</p>
+						<p><strong>Many firms that have used wearable technology have shown demonstrable success. Wearable gadgets are enabling brands to give smarter, faster, and more personalised digital experiences given that technology is moving so quickly. Wearable gadgets are smart technologies that act like mobile devices but have a more specific usage.</strong></p>
+						<p> People use them a lot to keep track of their fitness, health, work productivity, safety, payments, and communication in real time. Wearable technology is more than just health and fitness these days. It is now a part of everyday life. Wearable app development solutions can help you get more people to interact with your business and have a better experience, no matter what field you're in. AppsNation is a reliable firm that makes wearable apps with smart sensors, bespoke integrations, and the ability to work on several devices.</p>
+						<p>Our services for developing wearable apps help organisations improve customer interactions, make their employees more mobile, and boost productivity.</p>
 					</div>
 				</div>
 			</div>
-				<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 "
+			<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 "
 				style="visibility: visible; animation-name: fadeIn;">
 				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
 					<h2 id="count1" class="numbers-count">10+</h2>
@@ -75,10 +75,11 @@
 				<div class="col-12 wow fadeIn">
 					<div class="common-heading ptag">
 						<div data-text="Our Services" class="light-bg-text bg-text">
-							<h2>Our Unrivaled <span>Wearable Devices App</span> Development Services</h2>
+							<h2>Our Unmatched
+<span>App Development Services </span>  for Wearable Devices</h2>
 						</div>
-						<p>Step into the technological revolution to stand out in the competition and thrive in the digital
-							world with intelligent apps for wearable devices.</p>
+						<p>With smart wearable devices app development services, you can step into the future of digital innovation and help your business stand out, compete better, and expand quicker.
+</p>
 					</div>
 				</div>
 			</div>
@@ -90,11 +91,11 @@
 								alt="Custom Wearable Device App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Custom Wearable Device App Development</h3>
+							<h3>Creating Apps for Wearable Devices That Are Unique to You</h3>
 						</div>
 						<div class="services-text-div">
-							<p>Offer your loyal customers a new standard of living with a custom wearable app of your
-								business with our reliable wearable device app development services.</p>
+							<p>A personalised wearable app that fits your business goals will provide your customers a smarter digital experience. Our company makes wearable apps that are reliable, scalable, and full of features for a variety of industries.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -105,11 +106,10 @@
 								alt="Wearable App UI/UX Design" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Wearable App UI/UX Design</h3>
+							<h3>Designing the UI and UX for Wearable Apps</h3>
 						</div>
 						<div class="services-text-div">
-							<p>Our skilled UI/UX designers are driven to create wearable device app designs that are
-								concise, simplified, user-friendly, and visually appealing.</p>
+							<p>Our skilled UI/UX designers make wearable app interfaces that are clean, straightforward, and easy on the eyes. We build things that are straightforward to use and make it easy to find your way around on small screens.</p>
 						</div>
 					</div>
 				</div>
@@ -120,11 +120,10 @@
 								alt="Android Wearable App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Android Wearable App Development</h3>
+							<h3>Building Apps for Android Wearable Devices</h3>
 						</div>
 						<div class="services-text-div">
-							<p>Our brilliant android developers are experts in fusing modern devices with Android to create
-								a flawless wearable android app for your brilliant business.</p>
+							<p>Our expert Android developers are specialists in making apps for smartwatches, fitness bands, and other connected devices. We make apps for modern wearable platforms that are smooth, safe, and fast.</p>
 						</div>
 					</div>
 				</div>
@@ -135,11 +134,12 @@
 								alt="Apple Watch Application Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Apple Watch Application Development</h3>
+							<h3>Making Apps for the Apple Watch
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We design slick, high-quality Apple Watch applications that are refined and effective in ways
-								you never imagined and go above and beyond.</p>
+							<p>We create high-quality Apple Watch apps with polished functionality, seamless performance, and beautiful user experiences. We make watchOS apps that are useful to people.
+</p>
 						</div>
 					</div>
 				</div>
@@ -150,11 +150,12 @@
 								alt="IoT based Wearable App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>IoT based Wearable App Development</h3>
+							<h3>Making Apps for Wearables that Use the Internet of Things
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>Make use of our IoT professionals, who are passionate about developing IoT wearables and apps
-								tailored to your specific business requirements.</p>
+							<p>Our IoT experts make wearable apps that work with smart devices, sensors, and cloud platforms. We make IoT wearable app development solutions that fit your business needs.
+</p>
 						</div>
 					</div>
 				</div>
@@ -166,11 +167,12 @@
 								height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Augmented Reality App Development for Wearables</h3>
+							<h3>Making Augmented Reality Apps for Wearable Devices
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We enjoy how AR provide companies with an immersive experience to sell themselves. With our
-								Augmented Reality app development for wearables, you can get started right now.</p>
+							<p>Augmented Reality lets organisations make experiences that are both immersive and interactive. With our AR wearable app development services, your brand can give people sophisticated digital experiences on wearable devices.
+</p>
 						</div>
 					</div>
 				</div>
@@ -181,11 +183,12 @@
 								alt="Wearable Apps Compatibility Testing" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Wearable Apps Compatibility Testing</h3>
+							<h3>Making Apps for Healthcare Wearables
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We provide complete wearable app testing services to guarantee that businesses get the most
-								out of their unique wearable device application.</p>
+							<p>We make healthcare wearable apps that help with fitness tracking, remote monitoring, getting patients involved, and managing health data. Our apps are made to help with accuracy, safety, and better care for users.
+</p>
 						</div>
 					</div>
 				</div>
@@ -196,11 +199,12 @@
 								alt="Recreating Existing Apps for Wearables" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Recreating Existing Apps for Wearables</h3>
+							<h3>Testing Compatibility of Wearable Apps
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>Not a single creation is a failure. Reach our recreating existing apps for wearables services
-								to make that amateur app live and deliver a seamless user experience.</p>
+							<p>We offer full testing services for wearable apps to make sure they work well on all devices, platforms, screen sizes, sensors, and operating systems.
+</p>
 						</div>
 					</div>
 				</div>
@@ -211,11 +215,12 @@
 								alt="Maintenance and Support" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
-							<h3>Maintenance and Support</h3>
+							<h3>Support and Maintenance
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>To preserve the integrity of the wearable device app and offer your users a smooth
-								experience, we provide sustainable support and maintenance services.</p>
+							<p>We offer ongoing support and maintenance to make sure your wearable app is safe, up-to-date, free of bugs, and works with the newest devices and platforms.
+</p>
 						</div>
 					</div>
 				</div>
@@ -225,17 +230,16 @@
 	<!--End Service -->
 
 	<!--Start Services-->
-<section class="service py-5">
+	<section class="service py-5">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-12">
 					<div class="common-heading ptag wow fadeIn">
 						<div data-text="Our Expertise" class="light-bg-text bg-text">
-							<h2>Our <span>Wearables App Development</span> Core Expertise</h2>
+							<h2>Our Main Area of Expertise is  <span>Wearable App</span> Development</h2>
 						</div>
-						<p class="mb30">Leading Wearables Device App Development Services With Extensive Expertise. We are a
-							leading wearable app development company, offering undeniable benefits to our clients with a
-							fantastic wearable device app.</p>
+						<p class="mb30">AppsNation is one of the best businesses for developing wearable apps. They have a lot of experience making smart, scalable, and engaging wearable apps for a variety of business purposes.
+</p>
 					</div>
 				</div>
 			</div>
@@ -249,18 +253,20 @@
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Smart Band Apps</h2>
-					<p>We design and develop reliable and immersive smart band apps for accurate monitoring of health and
-						fitness conditions.</p>
+					<h2>Apps for Smart Bands
+</h2>
+					<p>We make smart band apps that let you keep track of your fitness, health, activities, and performance in real time.
+</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Apple Watch Apps</h2>
-					<p>Our watchOS experts build Apple Watch apps with bespoke functionalities and features with a
-						user-friendly design.</p>
+					<h2>Apps for the Apple Watch
+</h2>
+					<p>Our watchOS professionals make Apple Watch apps that have unique features, work well, and are easy to use, all of which improve the user experience.
+</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
@@ -279,18 +285,19 @@
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Google Glass Apps</h2>
-					<p>We have our hands on the latest technology of Google Glass to create the supporting apps for your
-						business.</p>
+					<h2>Apps for Google Glass
+</h2>
+					<p>We make apps that work with Google Glass and other smart wearable equipment to help businesses learn about more advanced ways to connect with digital technology.
+</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Virtual Reality Apps</h2>
-					<p>We create amazing VR apps for businesses to leverage Oculus Quest, HTC Vive, Valve Index, and other
-						VR platforms.</p>
+					<h2>Apps for Virtual Reality</h2>
+					<p>We make fun VR apps for devices like the Oculus Quest, HTC Vive, Valve Index, and other virtual reality headsets.
+</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
@@ -309,18 +316,20 @@
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>IoT Wearable Apps</h2>
-					<p>Grow your business with an intuitive IoT wearable app that supports every device and operating
-						system.</p>
+					<h2>Apps for IoT Wearables
+</h2>
+					<p>Use easy-to-use IoT wearable apps that work with a lot of devices, sensors, and operating systems to grow your business.
+</p>
 				</div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-lg-6 block-1 wow fadeIn my-auto">
 				<div class="common-heading text-l pl25">
-					<h2>Wearable Payment App</h2>
-					<p>Introduce the easiest and quickest payment method to your business with our wearable payment apps
-						development.</p>
+					<h2>App for Payment on the Go
+</h2>
+					<p>Wearable payment app development for smart devices can help you offer fast, safe, and easy ways to pay.
+</p>
 				</div>
 			</div>
 			<div class="col-lg-6 mt-4 mt-sm-4 mt-md-3">
@@ -334,7 +343,7 @@
 	<!--End Services-->
 
 
-<!--Start Features-->
+	<!--Start Features-->
 	<section class="features-section-app dark-bg2 py-5">
 		<div class="container-fluid">
 			<div class="row">
@@ -418,22 +427,23 @@
 		<div class="container">
 
 			<div class="row py-5 justify-content-center hire-developer">
-					<div class="col-lg-9">
-						<div class="free-cta-title v-center wow fadeIn">
-							<div class="row justify-content-center">
-								<div class="col-lg-8 my-auto">
-									<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-								</div>
-								<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-									<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
+				<div class="col-lg-9">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 my-auto">
+								<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span>
+								</p>
+							</div>
+							<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
 							</div>
 						</div>
 					</div>
 				</div>
+			</div>
 		</div>
 	</section>
 	<!--End Let's Work Together-->
@@ -445,10 +455,10 @@
 				<div class="col-12">
 					<div class="common-heading ptag wow fadeIn">
 						<div data-text="Choose Us" class="dark-bg-text bg-text">
-							<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+							<h2 class="text-white">Why Pick <span>AppsNation</span></h2>
 						</div>
-						<p class="text-white">We are a leading wearable app development company, offering undeniable
-							benefits to our clients with a fantastic wearable device app.</p>
+						<p class="text-white">AppsNation is a top firm that makes wearable apps for organisations all around the world. These apps are original, scalable, and high-performing.
+</p>
 					</div>
 				</div>
 			</div>
@@ -459,10 +469,12 @@
 							<div class="comprehensive-experties-img"></div>
 						</div>
 						<div class="service-heading">
-							<h3>Comprehensive Expertise</h3>
+							<h3>Full Range of Knowledge
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We offer a wide range of wearable app development services.</p>
+							<p>We offer a whole spectrum of services for developing wearable apps, from coming up with ideas and designing the user interface to coding, testing, deploying, and maintaining the app.
+</p>
 						</div>
 					</div>
 				</div>
@@ -472,10 +484,12 @@
 							<div class="extensive-versatility-img"></div>
 						</div>
 						<div class="service-heading">
-							<h3>Extensive Versatility</h3>
+							<h3>Very Adaptable
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We develop wearable app development services across every platform and device.</p>
+							<p>Our team makes wearable apps for a wide range of devices, platforms, industries, and business models.
+</p>
 						</div>
 					</div>
 				</div>
@@ -485,10 +499,12 @@
 							<div class="cross-device-img"></div>
 						</div>
 						<div class="service-heading">
-							<h3>Cross-Device Capability</h3>
+							<h3>Ability to Work on Several Devices
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We create a single coded wearable app that works efficiently on multiple platforms.</p>
+							<p>We make wearable apps that perform well on a variety of platforms, devices, and linked systems.
+</p>
 						</div>
 					</div>
 				</div>
@@ -498,10 +514,12 @@
 							<div class="cross-industry-img"></div>
 						</div>
 						<div class="service-heading">
-							<h3>Cross-industry Experience</h3>
+							<h3>Experience in Many Fields
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We serve all the industries across the world to leverage innovative technology.</p>
+							<p>We work with organisations in the healthcare, fitness, retail, finance, logistics, entertainment, and enterprise sectors.
+</p>
 						</div>
 					</div>
 				</div>
@@ -511,10 +529,12 @@
 							<div class="competitive-delivery-img"></div>
 						</div>
 						<div class="service-heading">
-							<h3>Competitive Pricing & Timely Delivery</h3>
+							<h3>Prices that Are Fair and Delivery on Time
+	</h3>
 						</div>
 						<div class="services-text-div">
-							<p>We have made our services affordable with on-time delivery to achieve customer satisfaction.
+							<p>Our wearable app development solutions are affordable, reliable, and delivered on time without compromising quality.
+
 							</p>
 						</div>
 					</div>
@@ -525,10 +545,12 @@
 							<div class="bug-free-img"></div>
 						</div>
 						<div class="service-heading">
-							<h3>Bug-free Wearable App Development</h3>
+							<h3>Wearable App Development Without Bugs
+</h3>
 						</div>
 						<div class="services-text-div">
-							<p>Our impeccable testing services ensure the wearable app is error-free.</p>
+							<p>Our testing team makes sure that every wearable app is safe, stable, responsive, and doesn't have any big performance problems.
+</p>
 						</div>
 					</div>
 				</div>
@@ -546,8 +568,8 @@
 						<div data-text="Process" class="light-bg-text bg-text mt-5">
 							<h2>Our <span>Wearable App</span> Development Process</h2>
 						</div>
-						<p>We offer a seamless wearable app development process to upscale your software abilities with our
-							wearable devices app developers.</p>
+						<p>We use a seamless and planned development process to turn your idea for a wearable app into a working, scalable, and market-ready product.
+</p>
 					</div>
 				</div>
 			</div>
@@ -556,11 +578,10 @@
 					<div class="card timeline wow fadeIn h-100">
 						<div class="card-body">
 							<p class="timeline-year">01</p>
-							<h3 class="title">Requirement Gathering</h3>
-							<p class="description">Contact AppsNation to pitch your innovative wearable device app ideas to
-								our experienced project managers and analysts. Then, as we create a business document
-								comprising a project brief, we provide the customer with absolute authority to explain his
-								expectations correctly.</p>
+							<h3 class="title">Collecting Requirements
+</h3>
+							<p class="description">Get in touch with AppsNation and tell our skilled project managers and analysts about your wearable app idea. Before we write a clear project brief, we make sure we know your goals, audience, features, and what you expect.
+</p>
 						</div>
 					</div>
 				</div>
@@ -568,10 +589,10 @@
 					<div class="card timeline wow fadeIn h-100">
 						<div class="card-body">
 							<p class="timeline-year">02</p>
-							<h3 class="title">App Development Strategies</h3>
-							<p class="description">We establish a sustainable wearable app development strategy for your
-								bespoke app after in-depth research of the client's business, competitors, and target
-								demographic to provide users with an immersive experience of your company and services.</p>
+							<h3 class="title">Strategies for Making Apps
+</h3>
+							<p class="description">After looking at your business, competition, target demographic, and technological needs, we come up with a solid plan for developing a wearable app. This helps us make an app that is useful to your users.
+.</p>
 						</div>
 					</div>
 				</div>
@@ -579,11 +600,10 @@
 					<div class="card timeline wow fadeIn h-100">
 						<div class="card-body">
 							<p class="timeline-year">03</p>
-							<h3 class="title">Wireframing And Designing</h3>
-							<p class="description">Our skilled UI/UX designers create your product's first look and feel,
-								model the user experience and journey, and prioritize features and functionalities to keep
-								the user engaged with its appealing, user-friendly interface. Before proceeding, we ensure
-								that our customer is satisfied.a</p>
+							<h3 class="title">Designing and Wireframing
+</h3>
+							<p class="description">The first appearance and feel of your wearable app comes from our UI/UX designers. We make user journeys, screen layouts, and simple interfaces that look well on small wearable screens.
+</p>
 						</div>
 					</div>
 				</div>
@@ -591,11 +611,10 @@
 					<div class="card timeline wow fadeIn h-100">
 						<div class="card-body">
 							<p class="timeline-year">04</p>
-							<h3 class="title">Development Phase</h3>
-							<p class="description">We harness the true power of Artificial Intelligence (AI) and Machine
-								Learning (ML) in our wearable app development process to give flawless features and
-								functionalities to your bespoke wearable device app. Each progress is made with the
-								coordination of the client.</p>
+							<h3 class="title">Phase of Development
+</h3>
+							<p class="description">Our wearable app developers leverage cutting-edge tools like AI, ML, IoT, and sensor-based integrations to make smart and dependable wearable apps. Client coordination is done at every stage.
+</p>
 						</div>
 					</div>
 				</div>
@@ -603,10 +622,10 @@
 					<div class="card timeline wow fadeIn h-100">
 						<div class="card-body">
 							<p class="timeline-year">05</p>
-							<h3 class="title">App Testing</h3>
-							<p class="description">Wearable device app testing is a critical component for a successful app
-								launch. We have skilled quality assurance analysts working with us to test wearable device
-								apps extensively to ensure they are bug-free for an outstanding user experience.</p>
+							<h3 class="title">Testing Apps
+</h3>
+							<p class="description">To make sure the final product is smooth, we test your wearable app for speed, performance, usability, security, device compatibility, and connectivity.
+</p>
 						</div>
 					</div>
 				</div>
@@ -614,11 +633,10 @@
 					<div class="card timeline wow fadeIn h-100">
 						<div class="card-body">
 							<p class="timeline-year">06</p>
-							<h3 class="title">App Deployment</h3>
-							<p class="description">Our job is to make the wearable device app available in the appropriate
-								markets while complying with all of the criteria. Our team prepares the proper
-								documentation, descriptions, and screenshots for app stores publication as well as
-								continuous support and maintenance.</p>
+							<h3 class="title">Putting Apps on Devices
+</h3>
+							<p class="description">We put your wearable app on the proper platforms and make sure it meets all technical and retail criteria. We also write documentation, app descriptions, and screenshots, and we help with support after the app is out.
+</p>
 						</div>
 					</div>
 				</div>
@@ -628,26 +646,26 @@
 	<!--End Process-->
 
 	<!--Start Let's Work Together-->
-		<section class="my-1">
+	<section class="my-1">
 		<div class="container">
-			
+
 			<div class="row py-5 justify-content-center hire-developer">
-					<div class="col-lg-8">
-						<div class="free-cta-title v-center wow fadeIn">
-							<div class="row justify-content-center">
-								<div class="col-lg-8 my-auto">
-									<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-								</div>
-								<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-									<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 my-auto">
+								<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+							</div>
+							<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
 							</div>
 						</div>
 					</div>
 				</div>
+			</div>
 		</div>
 	</section>
 	<!--End Let's Work Together-->
@@ -782,26 +800,26 @@
 	<!--End Badges-->
 
 	<!--Start Let's Work Together-->
-		<section class="my-1">
+	<section class="my-1">
 		<div class="container">
-			
+
 			<div class="row py-5 justify-content-center hire-developer">
-					<div class="col-lg-8">
-						<div class="free-cta-title v-center wow fadeIn">
-							<div class="row justify-content-center">
-								<div class="col-lg-7 my-auto">
-									<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-								</div>
-								<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-									<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-										<i class="fas fa-chevron-right fa-icon"></i>
-										<span class="circle"></span>
-									</a>
-								</div>
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-7 my-auto">
+								<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+							</div>
+							<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
 							</div>
 						</div>
 					</div>
 				</div>
+			</div>
 		</div>
 	</section>
 	<!--End Let's Work Together-->

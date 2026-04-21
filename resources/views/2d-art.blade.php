@@ -21,7 +21,7 @@
 <!--End Breadcrumb-->
 
 <!--Start About-->
-<section class="service py-5">
+<section id="mycounterSection"  class="service py-5">
 	<div class=" container">
 		<div class="row">
 			<div class="col-lg-5">
@@ -40,6 +40,25 @@
 				</div>
 			</div>
 		</div>
+		<div class="row justify-content-center   wow fadeIn  achievements-count mt-3 "
+				style="visibility: visible; animation-name: fadeIn;">
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count1" class="numbers-count">10+</h2>
+					<p class="numbers-about">Years On The market</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count2" class="numbers-count">900+</h2>
+					<p class="numbers-about">People On Board</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count3" class="numbers-count">10k</h2>
+					<p class="numbers-about">Projects Delivered</p>
+				</div>
+				<div class="col-6 col-sm-6 col-md-3 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
+					<h2 id="count4" class="numbers-count">67</h2>
+					<p class="numbers-about">Our Current NPS Score</p>
+				</div>
+			</div>
 	</div>
 </section>
 <!--End About-->
@@ -57,8 +76,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-sm-12 col-md-6 col-lg-3 wow fadeIn">
+		<div class="row d-flex justify-content-center mt-5">
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-designing-img"></div>
@@ -71,7 +90,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3  wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-web-img"></div>
@@ -84,7 +103,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-porting-img"></div>
@@ -97,7 +116,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0 wow fadeIn">
+			<div class="col-sm-12 col-md-6 col-lg-4 mt-3  wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
 						<div class="android-app-testing-img"></div>
@@ -116,23 +135,28 @@
 <!--End Service-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Features-->
@@ -200,7 +224,7 @@
     <div class="container">
         <div class="row justify-content-center wow common-heading fadeIn mt-3">
             <div class="col-lg-8">
-				<div data-text="Character" class="dark-bg-text bg-text">
+				<div   class="dark-bg-text bg-text">
                 	<h2 class=" text-center text-white"><span>2D Character</span> Design</h2>
 				</div>
                 <p class="text-center text-white">Create high-quality 2D character designs in a snap with AppsNation. Ideal for game development, graphic artists, and animators, we let you add variety to your illustrations right away.</p>
@@ -302,7 +326,7 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-				<div data-text="Environment" class="dark-bg-text bg-text">
+				<div   class="dark-bg-text bg-text">
 					<h2 class="text-center text-white"><span>2D Environment</span> Design</h2>
 				</div>
                 <p class="text-center text-white">We create exceptional 2D environments for your next business campaign, ad campaign, or product video. Our services are about creating environments that match your business needs!</p>
@@ -404,7 +428,7 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-				<div data-text="Game UI/UX" class="dark-bg-text bg-text">
+				<div   class="dark-bg-text bg-text">
 					<h2 class="text-center text-white"><span>2D Game UI/UX</span> Design</h2>
 				</div>
                 <p class="text-center text-white">Appsnation is a 2D game UI/UX design agency focused on creating great interfaces for games and apps. We can work with you to define a strategy that fits your business needs.</p>
@@ -506,7 +530,7 @@
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
             <div class="col-lg-8">
-				<div data-text="Concept Art" class="dark-bg-text bg-text">
+				<div   class="dark-bg-text bg-text">
 					<h2 class=" text-center text-white"><span>2D Concept Art</span> Design</h2>
 				</div>
                 <p class="text-center text-white">AppsNation is an innovative concept art design company looking to add a new layer of artistry and creativity to their client's project.</p>
@@ -616,56 +640,56 @@
 			</div>
 		</div>
 		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">01</p>
 					<!-- <h3 class="title">Requirement Analysis</h3> -->
 					<p class="description">Our team has years of a strong background in graphic design, which makes them able to work on multiple projects at once.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
+			<div class="col-12 col-md-6 col-lg-4 mt-3 ">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">02</p>
 					<!-- <h3 class="title">App Development Strategies</h3> -->
 					<p class="description">Our designers are well-versed in the latest trends and designs, which helps us create unique designs that stand out from others.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
+			<div class="col-12 col-md-6 col-lg-4 mt-3 ">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">03</p>
 					<!-- <h3 class="title">Wireframing And Designing</h3> -->
 					<p class="description">We use the latest technologies to create our designs to be printed on various materials like paper, cardboard, and even plastic.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">04</p>
 					<!-- <h3 class="title">Development Phase</h3> -->
 					<p class="description">We offer free consultations so you can get to know our work before hiring us for your project.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">05</p>
 					<!-- <h3 class="title">App Testing</h3> -->
 					<p class="description">All our designs are fully customized to suit your needs, so there will be no compromise on quality when we create your designs for you!</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">06</p>
 					<!-- <h3 class="title">Ap Deployment</h3> -->
 					<p class="description">Our experienced designers are available 24/7, so you do not have to worry about service delays.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">07</p>
 					<!-- <h3 class="title">Development Phase</h3> -->
 					<p class="description">We offer affordable rates when compared to other companies within the industry.</p>
 				</div>
 			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<p class="timeline-year">08</p>
 					<!-- <h3 class="title">App Testing</h3> -->
@@ -760,23 +784,28 @@
 <!--End Tech-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!-- Start Technologies -->
@@ -905,23 +934,28 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-8">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-7 my-auto">
+							<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+						</div>
+						<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 <!--End Let's Work Together-->
 
 <!--Start Testinomial-->
@@ -1004,7 +1038,7 @@
 							</div>
 						</div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">

@@ -14,7 +14,7 @@
 
             <div class="col-lg-6 my-lg-auto">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/mike-mathis-app/logo.webp')}}" class=" logo" alt="mike-mathis-app logo">
+                    <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/logo.webp')}}" class=" logo" alt="mike-mathis-app logo">
                     <h1>
                         <span>Mentoring <br> with the Mentees
                             Space to Grow
@@ -27,7 +27,7 @@
             </div>
 
             <div class="col-lg-6 mt-5 mt-lg-0 mike-mathis-hero-img">
-                <img src="{{asset('images/case-studies/mike-mathis-app/hero-img-mikemathis.webp')}}"
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/hero-img-mikemathis.webp')}}"
                     class="img-fluid"
                     alt="mike-mathis-app">
             </div>
@@ -66,7 +66,7 @@
 
             </div>
               <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 mike-mathis-design-phase-left-container">
-                <img src="{{asset('images/case-studies/mike-mathis-app/design-phase.webp')}}" class="img-fluid" alt="project description">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/design-phase.webp')}}" class="img-fluid" alt="project description">
             </div>
 
         </div>
@@ -82,7 +82,7 @@
             <div class="container">
                 <div class="row align-items-center  text-start">
                     <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 Project-Description-left-container">
-                        <img src="{{asset('images/case-studies/mike-mathis-app/project-description.webp')}}" class="img-fluid" alt="project description">
+                        <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/project-description.webp')}}" class="img-fluid" alt="project description">
                     </div>
 
                     <div class="col-12 col-md-12 col-lg-6 uiux-text-col">
@@ -153,7 +153,7 @@
 
             <div class="col-lg-4 d-flex justify-content-center mb-5 mb-lg-0">
                 <div class="phone-screen">
-                    <img src="{{ asset('images/case-studies/mike-mathis-app/project-goals.webp') }}" alt="" srcset="">
+                    <img loading="lazy" src="{{ asset('images/case-studies/mike-mathis-app/project-goals.webp') }}" alt="" srcset="">
                 </div>
 
             </div>
@@ -184,7 +184,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 Project-Challenges-left-container">
-                <img src="{{asset('images/case-studies/mike-mathis-app/project-challenges.webp')}}" class="img-fluid" alt="project description">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/project-challenges.webp')}}" class="img-fluid" alt="project description">
             </div>
         </div>
     </div>
@@ -208,7 +208,7 @@
             </div>
 
             <div class="col-md-6">
-                <img src="{{asset('images/case-studies/mike-mathis-app/user-rsearch.webp')}}" 
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/user-rsearch.webp')}}" 
                      class="img-fluid" 
                      alt="project description">
             </div>
@@ -237,16 +237,16 @@
 
 
             <div class="col-6 col-md-6 col-xl-3">
-                <img src="{{asset('images/case-studies/mike-mathis-app/wireframe1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/wireframe1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-6 col-xl-3">
-                <img src="{{asset('images/case-studies/mike-mathis-app/wireframe2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/wireframe2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-6 col-xl-3">
-                <img src="{{asset('images/case-studies/mike-mathis-app/wireframe3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/wireframe3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-6 col-xl-3">
-                <img src="{{asset('images/case-studies/mike-mathis-app/wireframe4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/wireframe4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
 
 
@@ -263,22 +263,22 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen13.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen14.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen15.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/mike-mathis-app/appscreen16.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen13.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen14.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen15.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/appscreen16.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -293,7 +293,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/mike-mathis-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/mike-mathis-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

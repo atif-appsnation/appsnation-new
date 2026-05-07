@@ -28,7 +28,7 @@
 		<div class="row">
 			<div class="col-lg-5 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/design-and-animation-services/design-and-animation-services.webp" alt="Connected Devices" class="img-fluid no-shadow" width="100%" height="100%">
+					<img loading="lazy" src="images/services/design-and-animation-services/design-and-animation-services.webp" alt="Connected Devices" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-lg-auto">
@@ -81,7 +81,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/digital-marketing.svg" alt="Digital Marketing" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/digital-marketing.svg" alt="Digital Marketing" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>Digital Marketing</h3>
@@ -97,7 +97,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/animation-services.svg" alt="Animation Services" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/animation-services.svg" alt="Animation Services" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>Animation Services</h3>
@@ -113,7 +113,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/3d-exterior-rendering.svg" alt="3D Exterior Rendering" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/3d-exterior-rendering.svg" alt="3D Exterior Rendering" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>3D Exterior Rendering</h3>
@@ -129,7 +129,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/3d-interior-rendering.svg" alt="3D Interior Rendering" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/3d-interior-rendering.svg" alt="3D Interior Rendering" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>3D Interior Rendering</h3>
@@ -145,7 +145,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/2d-3d-floor-plan.svg" alt="2D 3D Floor Plan" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/2d-3d-floor-plan.svg" alt="2D 3D Floor Plan" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>2D 3D Floor Plan</h3>
@@ -161,7 +161,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/2d-art-services.svg" alt="2D Art Services" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/2d-art-services.svg" alt="2D Art Services" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>2D Art Services</h3>
@@ -178,7 +178,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/design-and-animation-services/3d-art-services.svg" alt="3D Art Services" class="img-fluid">
+						<img loading="lazy" src="images/services/design-and-animation-services/3d-art-services.svg" alt="3D Art Services" class="img-fluid">
 					</div>
 					<div class="service-heading">
 						<h3>3D Art Services</h3>
@@ -236,25 +236,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					<img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					<img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					<img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					<img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -289,7 +289,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -302,7 +302,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -317,7 +317,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -329,7 +329,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -400,6 +400,7 @@
 
 								<!-- YouTube Video -->
 								<iframe id="player-{{$key}}" class="youtube-player testimonial-video"
+								loading="lazy"
 									src="{{$item['comments']}}" title="Client Testimonial" frameborder="0"
 									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 									referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
@@ -437,9 +438,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-										<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch"
+										<img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch"
 											width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch
 										</p>
@@ -451,9 +452,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-										<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark"
+										<img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark"
 											width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 									</a>
@@ -464,9 +465,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-										<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto"
 											alt="DesignRush" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
 											DesignRush</p>
@@ -478,9 +479,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-										<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto"
 											alt="GoodFirms" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms
 										</p>
@@ -492,9 +493,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-										<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto"
 											alt="Trustpilot" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
 											Trustpilot</p>
@@ -506,9 +507,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-										<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto"
 											alt="Sortlist" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist
 										</p>
@@ -520,9 +521,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://upcity.com/profiles/appsnation" target="_blank">
-										<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity"
+										<img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity"
 											width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity
 										</p>
@@ -534,9 +535,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-										<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto"
 											alt="SiteJabber" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
 											SiteJabber</p>

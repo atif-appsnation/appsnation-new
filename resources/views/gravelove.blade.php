@@ -14,7 +14,7 @@
 
             <div class="col-lg-6 my-lg-auto">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/grave-love-app/logo1.webp')}}" class=" logo" alt="grave-love-app logo">
+                     <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/logo1.webp')}}" class=" logo" alt="grave-love-app logo">
                     <h1>Grave Love
                     </h1>
                     <p class="pt-3">
@@ -22,13 +22,13 @@
                     </p>
                     <h4 class="mt-2">Platform: </h4>
                     <div class="playStore-img">
-                        <img src="{{asset('images/case-studies/grave-love-app/d.webp')}}" class=" playstore" alt="playstore morkup">
+                         <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/d.webp')}}" class=" playstore" alt="playstore morkup">
                     </div>
                 </div>
             </div>
 
             <div class="col-lg-6 mt-5 mt-lg-0 grave-love-hero-img">
-                <img src="{{asset('images/case-studies/grave-love-app/hero-img.webp')}}"
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/hero-img.webp')}}"
                     class="img-fluid hero-img"
                     alt="grave-love-app">
             </div>
@@ -57,7 +57,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 grave-love-problem-img">
-                <img src="{{asset('images/case-studies/grave-love-app/problem-statment-img.webp')}}" class="img-fluid" alt="grave love problem">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/problem-statment-img.webp')}}" class="img-fluid" alt="grave love problem">
             </div>
         </div>
     </div>
@@ -200,22 +200,22 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen12.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen13.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen14.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/app-screen15.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen13.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen14.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/app-screen15.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app2.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -241,7 +241,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/grave-love-app/Avatar1.webp')}}" alt="Avatar" class="img-fluid">
+                             <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/Avatar1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>John</h4>
                             <p>International Visitor </p>
                         </div>
@@ -283,7 +283,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/grave-love-app/Avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                             <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/Avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>Ahmed </h4>
                             <p> Corporate Executive</p>
                         </div>
@@ -339,22 +339,22 @@
 
         <div class="row g-3 grave-love-wireframe-gallery">
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/grave-love-app/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/grave-love-app/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/grave-love-app/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/grave-love-app/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/grave-love-app/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/grave-love-app/wirefram6.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/wirefram6.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
         </div>
     </div>
@@ -368,14 +368,14 @@
             <h2 class="mb-3 text-center">Vendor App</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/grave-love-app/vendor-app8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/vendor-app8.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -393,7 +393,7 @@
 
             <!-- Left Image -->
             <div class="col-lg-6 mb-md-4 mt-5 mt-lg-0">
-                <img src="{{asset('images/case-studies/grave-love-app/project-goal.webp')}}"
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/project-goal.webp')}}"
                     class="img-fluid"
                     alt="  project-goals">
 
@@ -456,35 +456,35 @@
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Frontend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
                     <p>React Native</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Backend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
                     <p>Node.js</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Database</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
                     <p>MongoDB</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Cloud</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
                     <p>AWS</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Payments</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
                     <p>Stripe • G Pay</p>
                 </div>
             </div>
@@ -502,7 +502,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/grave-love-app/key-feature-img.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/key-feature-img.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -528,7 +528,7 @@
 
                     <div class="col-12 col-sm-6">
                         <div class="grave-result-card grave-brown  h-100">
-                            <img src="{{ asset('images/case-studies/grave-love-app/Vector1.webp') }}" alt="Global adoption">
+                             <img loading="lazy" src="{{ asset('images/case-studies/grave-love-app/Vector1.webp') }}" alt="Global adoption">
                             <h6>Global Adoption</h6>
                             <p>UK and US expats form 75% of first-time users.</p>
                         </div>
@@ -536,7 +536,7 @@
 
                     <div class="col-12 col-sm-6">
                         <div class="grave-result-card grave-light h-100">
-                            <img src="{{ asset('images/case-studies/grave-love-app/Vector2.webp') }}" alt="User engagement">
+                             <img loading="lazy" src="{{ asset('images/case-studies/grave-love-app/Vector2.webp') }}" alt="User engagement">
                             <h6>User Engagement</h6>
                             <p>High engagement during the first month.</p>
                         </div>
@@ -544,7 +544,7 @@
 
                     <div class="col-12 col-sm-6">
                         <div class="grave-result-card  grave-light h-100">
-                            <img src="{{ asset('images/case-studies/grave-love-app/Vector3.webp') }}" alt="Retention rate">
+                             <img loading="lazy" src="{{ asset('images/case-studies/grave-love-app/Vector3.webp') }}" alt="Retention rate">
                             <h6>Retention Rate</h6>
                             <p>Strong emotional-driven user retention.</p>
                         </div>
@@ -552,7 +552,7 @@
 
                     <div class="col-12 col-sm-6">
                         <div class="grave-result-card grave-brown  h-100">
-                            <img src="{{ asset('images/case-studies/grave-love-app/Vector4.webp') }}" alt="Organic growth">
+                             <img loading="lazy" src="{{ asset('images/case-studies/grave-love-app/Vector4.webp') }}" alt="Organic growth">
                             <h6>Organic Growth</h6>
                             <p>Steady growth without paid marketing.</p>
                         </div>
@@ -564,7 +564,7 @@
             <!-- Mobile Image -->
             <div class="col-lg-6 text-center mt-5 mt-lg-0">
                 <div class="grave-result-image">
-                    <img src="{{ asset('images/case-studies/grave-love-app/the-result-img.webp') }}" 
+                     <img loading="lazy" src="{{ asset('images/case-studies/grave-love-app/the-result-img.webp') }}" 
                          class="img-fluid" 
                          alt="Grave Love App results">
                 </div>
@@ -581,7 +581,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/grave-love-app/grave-love-morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/grave-love-app/grave-love-morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

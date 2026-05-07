@@ -60,13 +60,13 @@
 										<div class="card-inner">
 											<div class="item-image-front">
 												<a href="{{url('/').'/'.$items['comments']}}">
-													<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" alt="Neuro Knights App Front"
+													<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" alt="Neuro Knights App Front"
 														class="img-fluid">
 												</a>
 											</div>
 											<div class="item-image-back">
 												<a href="{{url('/').'/'.$items['comments']}}">
-													<img src="uploads/{!!$items['back_image']!!}" alt="{{$items['title']}}"
+													<img loading="lazy" src="uploads/{!!$items['back_image']!!}" alt="{{$items['title']}}"
 														class="img-fluid">
 												</a>
 											</div>
@@ -88,7 +88,7 @@
 									<div class="isotope_item up-hor">
 										<div class="item-image">
 											<a href="{{url('/').'/'.$items['comments']}}">
-												<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}"
+												<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}"
 													class="img-fluid">
 											</a>
 										</div>
@@ -101,7 +101,7 @@
 									<!-- <div class="pbwide shadow bg-gradient1">
 										<div class="portfolio-item-info-tt">
 											<div class="logowide mb20">
-												<img src="uploads/{!!$items['icon']!!}" alt="{{$items['title']}}" class="img-fluid" width="100%" height="100%">
+												<img loading="lazy" src="uploads/{!!$items['icon']!!}" alt="{{$items['title']}}" class="img-fluid" width="100%" height="100%">
 											</div>
 											<div class="widebloktag">
 												<span class="text-white">UI/UX Design</span>
@@ -126,7 +126,7 @@
 											<div class="img-wide-blocktt tilt-outer">
 												<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 													<div>
-														<img src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid">
+														<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="{{$items['title']}}" class="img-fluid">
 													</div>
 												</div>
 											</div>
@@ -144,7 +144,7 @@
 							<div class="pbwide shadow bg-gradient1">
 								<div class="portfolio-item-info-tt">
 									<div class="logowide mb20">
-										<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
+										<img loading="lazy" src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 									</div>
 									<div class="widebloktag">
 										<span class="text-white">UI/UX Design</span>
@@ -169,7 +169,7 @@
 									<div class="img-wide-blocktt tilt-outer">
 										<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 											<div>
-												<img src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid" width="100%" height="100%">
+												<img loading="lazy" src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid" width="100%" height="100%">
 											</div>
 										</div>
 									</div>
@@ -180,7 +180,7 @@
 							<div class="pbwide shadow bg-gradient1">
 								<div class="portfolio-item-info-tt">
 									<div class="logowide mb20">
-										<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
+										<img loading="lazy" src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
 									</div>
 									<div class="widebloktag">
 										<span class="text-white">UI/UX Design</span>
@@ -205,7 +205,7 @@
 									<div class="img-wide-blocktt tilt-outer">
 										<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 											<div>
-												<img src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
+												<img loading="lazy" src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
 											</div>
 										</div>
 									</div>

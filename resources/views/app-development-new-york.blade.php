@@ -18,8 +18,8 @@
 					<div class="col-md-4">
 						<div class="card h-100">
 							<div class="card-body">
-								<img src="images/locations/clutch.webp" alt="Clutch" class="img-fluid d-block mx-auto" width="auto" height="auto">
-								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
+								 <img loading="lazy" src="images/locations/clutch.webp" alt="Clutch" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								 <img loading="lazy" src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
 								<p class="text-white text-center pt-2">Recognized as Top App Developers by Clutch</p>
 							</div>
 						</div>
@@ -27,8 +27,8 @@
 					<div class="col-md-4 mt-3 mt-md-0">
 						<div class="card h-100">
 							<div class="card-body">
-								<img src="images/locations/goodfirms.webp" alt="GoodFirms" class="img-fluid d-block mx-auto" width="auto" height="auto">
-								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
+								 <img loading="lazy" src="images/locations/goodfirms.webp" alt="GoodFirms" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								 <img loading="lazy" src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
 								<p class="text-white text-center pt-2">Recognized as Top App Developers by GoodFirms</p>
 							</div>
 						</div>
@@ -36,8 +36,8 @@
 					<div class="col-md-4 mt-3 mt-md-0">
 						<div class="card h-100">
 							<div class="card-body">
-								<img src="images/locations/designrush.webp" alt="DesignRush" class="img-fluid d-block mx-auto" width="auto" height="auto">
-								<img src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
+								 <img loading="lazy" src="images/locations/designrush.webp" alt="DesignRush" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								 <img loading="lazy" src="images/locations/star.webp" alt="Star" class="img-fluid d-block mx-auto mt-3" width="auto" height="auto">
 								<p class="text-white text-center pt-2">Recognized as Top App Developers by DesignRush</p>
 							</div>
 						</div>
@@ -111,7 +111,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/locations/new-york/new-york.webp" alt="New York" class="img-fluid no-shadow" width="100%" height="100%">
+					 <img loading="lazy" src="images/locations/new-york/new-york.webp" alt="New York" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 		</div>
@@ -134,7 +134,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 block-1 wow fadeIn">
-				<img src="images/locations/new-york/scale-your-business.webp" alt="Scale Your Business" class="img-fluid" width="100%" height="100%">
+				 <img loading="lazy" src="images/locations/new-york/scale-your-business.webp" alt="Scale Your Business" class="img-fluid" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -159,7 +159,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/android-app-development-icon.svg" alt="Android App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/android-app-development-icon.svg" alt="Android App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>Android App Development</h3>
@@ -177,7 +177,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/ios-app-development-icon.svg" alt="iOS App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/ios-app-development-icon.svg" alt="iOS App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>iOS App Development</h3>
@@ -195,7 +195,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/cross-platform-app-development-icon.svg" alt="Cross Platform App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>Cross-Platform App Development</h3>
@@ -213,7 +213,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/game-app-development-icon.svg" alt="Game App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/game-app-development-icon.svg" alt="Game App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>Game App Development</h3>
@@ -231,7 +231,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/web-app-development-icon.svg" alt="Web App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/web-app-development-icon.svg" alt="Web App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>Web App Development</h3>
@@ -250,7 +250,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/wearable-app-development-icon.svg" alt="Wearable App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>Wearable App Development</h3>
@@ -268,7 +268,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/ar-app-development-icon.svg" alt="AR App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/ar-app-development-icon.svg" alt="AR App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>AR App Development</h3>
@@ -286,7 +286,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/vr-app-development-icon.svg" alt="VR App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/vr-app-development-icon.svg" alt="VR App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>VR App Development</h3>
@@ -304,7 +304,7 @@
 				<div class="card h-100">
 					<div class="card-body">
 						<div class="services-img-div">
-							<img src="images/home/mr-app-development-icon.svg" alt="MR App Development" class="img-fluid" width="100%" height="100%">
+							 <img loading="lazy" src="images/home/mr-app-development-icon.svg" alt="MR App Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
 							<h3>MR App Development</h3>
@@ -338,25 +338,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -395,7 +395,7 @@
 						<div class="pbwide shadow bg-gradient1">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
+									 <img loading="lazy" src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>
@@ -420,7 +420,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/gym-app.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
+											 <img loading="lazy" src="images/home/gym-app.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
@@ -431,7 +431,7 @@
 						<div class="pbwide shadow bg-gradient1">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
+									 <img loading="lazy" src="images/case-studies/real-estate-logo.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>
@@ -456,7 +456,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/real-estate-app.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
+											 <img loading="lazy" src="images/home/real-estate-app.webp" alt="Real Estate App" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
@@ -471,7 +471,7 @@
 						<div class="pbwide shadow bg-gradient1">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
+									 <img loading="lazy" src="images/case-studies/gym-logo.webp" alt="Gym App" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>
@@ -496,7 +496,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid" width="100%" height="100%">
+											 <img loading="lazy" src="images/home/gym-web.webp" alt="Gym Web" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
@@ -507,7 +507,7 @@
 						<div class="pbwide shadow bg-gradient1">
 							<div class="portfolio-item-info-tt">
 								<div class="logowide mb20">
-									<img src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
+									 <img loading="lazy" src="images/case-studies/real-estate-logo.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
 								</div>
 								<div class="widebloktag">
 									<span class="text-white">UI/UX Design</span>
@@ -532,7 +532,7 @@
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
-											<img src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
+											 <img loading="lazy" src="images/home/real-estate-web.webp" alt="Real Estate Web" class="img-fluid" width="100%" height="100%">
 										</div>
 									</div>
 								</div>
@@ -572,7 +572,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -585,7 +585,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -600,7 +600,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -612,7 +612,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										</div>
 							</div>
@@ -697,7 +697,7 @@
 			<p class="text-center text-lg-start text-white">Excellence is The <br><span>Promise</span> We Live By</p>
 		</div>
 		<div class="hire-developer-img d-none d-xl-block">
-			<img src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
+			 <img loading="lazy" src="images/locations/hire-developer.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
 		</div>
 	</div>
 </div>
@@ -719,35 +719,35 @@
 			<div class="col-12">
 				<div class="owl-carousel owl-theme services-carousel">
 					<div class="item">
-						<img src="images/locations/services/mobile-app-development.webp" alt="Mobile App Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/locations/services/mobile-app-development.webp" alt="Mobile App Development" class="img-fluid" width="100%" height="100%">
 						<div class="text">
 							<h3>Mobile App Development</h3>
 							<a href="{{url('/mobile-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
 						</div>
 					</div>
 					<div class="item">
-						<img src="images/locations/services/web-portal-development.webp" alt="Web Portal Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/locations/services/web-portal-development.webp" alt="Web Portal Development" class="img-fluid" width="100%" height="100%">
 						<div class="text">
 							<h3>Web Portal Development</h3>
 							<a href="{{url('/web-portal-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
 						</div>
 					</div>
 					<div class="item">
-						<img src="images/locations/services/xr-app-development.png" alt="XR Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/locations/services/xr-app-development.png" alt="XR Development" class="img-fluid" width="100%" height="100%">
 						<div class="text">
 							<h3>XR Development</h3>
 							<a href="{{url('/xr-app-development')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
 						</div>
 					</div>
 					<div class="item">
-						<img src="images/locations/services/connected-devices.webp" alt="Connected Devices" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/locations/services/connected-devices.webp" alt="Connected Devices" class="img-fluid" width="100%" height="100%">
 						<div class="text">
 							<h3>Connected Devices</h3>
 							<a href="{{url('/connected-devices')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
 						</div>
 					</div>
 					<div class="item">
-						<img src="images/locations/services/design-and-animation-services.webp" alt="Design & Automation Services" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/locations/services/design-and-animation-services.webp" alt="Design & Automation Services" class="img-fluid" width="100%" height="100%">
 						<div class="text">
 							<h3>Design & Animation Services</h3>
 							<a href="{{url('/design-and-animation')}}" class="btn btn-light text-black">Read More <i class="fa-solid fa-arrow-right ps-2"></i></a>
@@ -829,6 +829,7 @@
 						<iframe
 							id="player-{{$key}}"
 							class="youtube-player testimonial-video"
+							loading="lazy"
 
 						src="{{$item['comments']}}"	
 						title="Client Testimonial"
@@ -871,8 +872,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -882,8 +883,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -893,8 +894,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -904,8 +905,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -915,8 +916,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -926,8 +927,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -937,8 +938,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -948,8 +949,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>
@@ -987,7 +988,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-6">
-									<img src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+									 <img loading="lazy" src="images/locations/booking-app/booking-app-1.webp" alt="Booking App" class="img-fluid d-block mx-auto" width="100%" height="100%">
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Booking App</h3>
@@ -1004,7 +1005,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-6">
-									<img src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+									 <img loading="lazy" src="images/locations/fitness-app/fitness-app-1.webp" alt="Fitness App" class="img-fluid d-block mx-auto" width="100%" height="100%">
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Fitness App</h3>
@@ -1021,7 +1022,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-6">
-									<img src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+									 <img loading="lazy" src="images/locations/loyalty-app/loyalty-app-1.webp" alt="Loyalty App" class="img-fluid d-block mx-auto" width="100%" height="100%">
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Loyalty App</h3>
@@ -1038,7 +1039,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-6">
-									<img src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+									 <img loading="lazy" src="images/locations/mover-app/mover-app-1.webp" alt="Mover App" class="img-fluid d-block mx-auto" width="100%" height="100%">
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Mover App</h3>
@@ -1055,7 +1056,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-6">
-									<img src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto" width="100%" height="100%">
+									 <img loading="lazy" src="images/locations/real-estate-app/real-estate-app-1.webp" alt="Real Estate App" class="img-fluid d-block mx-auto" width="100%" height="100%">
 								</div>
 								<div class="col-lg-6 my-auto">
 									<h3 class="mb-4 text-white">Real Estate App</h3>
@@ -1091,7 +1092,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeIn">
 				<a href="{{url('/advertising')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/advertising.webp" alt="Advertising" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/advertising.webp" alt="Advertising" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Advertising</h3>	
@@ -1104,7 +1105,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-md-0 wow fadeIn">
 				<a href="{{url('/automative-and-transport')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/automative-and-transport.webp" alt="Automative and Transport" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Automative and Transport</h3>	
@@ -1117,7 +1118,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0 wow fadeIn">
 				<a href="{{url('/ecommerce-and-retail')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/ecommerce-and-retail.webp" alt="Ecommerce and Retail" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Ecommerce and Retail</h3>	
@@ -1130,7 +1131,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0 wow fadeIn">
 				<a href="{{url('/education')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/education.webp" alt="Education" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/education.webp" alt="Education" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Education</h3>	
@@ -1143,7 +1144,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/financial-software-development')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/financial-software-development.webp" alt="Financial Software Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Financial Software Development</h3>	
@@ -1156,7 +1157,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/gaming-and-leisure')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/gaming-and-leisure.webp" alt="Gaming and Leisure" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Gaming and Leisure</h3>	
@@ -1169,7 +1170,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/healthcare-and-life-science')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/healthcare-and-life-science.webp" alt="Healthcare and Life Science" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Healthcare and Life Science</h3>	
@@ -1182,7 +1183,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/media-and-entertainment')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/media-and-entertainment.webp" alt="Media and Entertainment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Media and Entertainment</h3>
@@ -1195,7 +1196,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/real-estate-and-property')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/real-estate-and-property.webp" alt="Real Estate and Property" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Real Estate and Property</h3>	
@@ -1208,7 +1209,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/software-and-high-tech')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/software-and-high-tech.webp" alt="Software and High Tech" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Software and High Tech</h3>	
@@ -1221,7 +1222,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/sports-teams-and-leagues')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/sports-teams-and-leagues.webp" alt="Sports Teams and Leagues" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Sports Teams and Leagues</h3>	
@@ -1233,7 +1234,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 wow fadeIn">
 				<a href="{{url('/travel-and-hospitality')}}" class="industries-link">
 					<div class="industries-image">
-						<img src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/industries/travel-and-hospitality.webp" alt="Travel and Hospitality" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="industries-text">
 						<h3 class="text-center text-white text-center">Travel and Hospitality</h3>	
@@ -1257,7 +1258,7 @@
 					<h3 class="text-center text-lg-start text-white">Seek Assistance from Our Adept New York-Based Mobile App Development Company Let’s Connect</h3>
 				</div>
 				<div class="lets-connect-img d-none d-xl-block">
-					<img src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
+					 <img loading="lazy" src="images/locations/let-connect-image.webp" alt="Hire Developer" class="img-fluid" width="auto" height="auto">
 				</div>
 			</div>
 			
@@ -1293,139 +1294,139 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apple-logo.webp" alt="iOS Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/apple-logo.webp" alt="iOS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">iOS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/android-logo.webp" alt="Android Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/android-logo.webp" alt="Android Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Android</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/flutter-logo.webp" alt="Flutter Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/flutter-logo.webp" alt="Flutter Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Flutter</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/ionic-logo.webp" alt="Ionic Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/ionic-logo.webp" alt="Ionic Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Ionic</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/swift-logo.webp" alt="Swift Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/swift-logo.webp" alt="Swift Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Swift</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/kotlin-logo.webp" alt="Kotlin Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/kotlin-logo.webp" alt="Kotlin Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Kotlin</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/objective-c-logo.webp" alt="Objective C Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/objective-c-logo.webp" alt="Objective C Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Objective C</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">React Native</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/google-fit-sdk.webp" alt="Google Fit SDK Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/google-fit-sdk.webp" alt="Google Fit SDK Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Google Fit SDK</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Alamofire</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/xcode-logo.webp" alt="XCode Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/xcode-logo.webp" alt="XCode Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">XCode</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/node-red-logo.webp" alt="Node-Red Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/node-red-logo.webp" alt="Node-Red Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Node-Red</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/alamofire-logo.webp" alt="Alamofire Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Alamofire</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/graphql-logo.webp" alt="Graph QL Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/graphql-logo.webp" alt="Graph QL Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Graph QL</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/grafana-logo.webp" alt="Grafana Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/grafana-logo.webp" alt="Grafana Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Grafana</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/tensorflow-logo.webp" alt="Tensor Flow Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/tensorflow-logo.webp" alt="Tensor Flow Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Tensor Flow</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/tableau-logo.webp" alt="Tableau Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/tableau-logo.webp" alt="Tableau Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Tableau</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/android-sdk-logo.webp" alt="Android SDK Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/android-sdk-logo.webp" alt="Android SDK Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Android SDK</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apache-kafka-logo.webp" alt="Apache Kafka Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/apache-kafka-logo.webp" alt="Apache Kafka Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Apache Kafka</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/android-studio.webp" alt="Android Studio Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/android-studio.webp" alt="Android Studio Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Android Studio</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/xamarin-native-c-logo.webp" alt="Xamarin Native C Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/xamarin-native-c-logo.webp" alt="Xamarin Native C Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Xamarin Native C</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/amazon-sumerian-logo.webp" alt="Amazon Sumerian Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/amazon-sumerian-logo.webp" alt="Amazon Sumerian Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Amazon Sumerian</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo"width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/apache-hadoop-logo.webp" alt="Apache Hadoop Logo" class="tech-logo"width="auto" height="auto">
 										<h4 class="mt-2">Apache Hadoop</h4>
 									</div>
 								</div>
@@ -1448,67 +1449,67 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/angular-logo.webp" alt="Angular Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/angular-logo.webp" alt="Angular Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Angular JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/react-native-logo.webp" alt="React Native Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">React JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/html-logo.webp" alt="HTML Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/html-logo.webp" alt="HTML Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">HTML</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/css-logo.webp" alt="CSS Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/css-logo.webp" alt="CSS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">CSS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/js-logo.webp" alt="JavaScript Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/js-logo.webp" alt="JavaScript Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">JavaScript</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/next-js-logo.webp" alt="Next JS Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/next-js-logo.webp" alt="Next JS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Next JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/json-logo.webp" alt="JSON Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/json-logo.webp" alt="JSON Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">JSON</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/rest-logo.webp" alt="Rest Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/rest-logo.webp" alt="Rest Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Rest</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/soap-logo.webp" alt="Soap Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/soap-logo.webp" alt="Soap Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Soap</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/xml-logo.webp" alt="XML Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/xml-logo.webp" alt="XML Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">XML</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/spark-ml-logo.webp" alt="Spark ML Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/spark-ml-logo.webp" alt="Spark ML Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Spark ML</h4>
 									</div>
 								</div>
@@ -1531,43 +1532,43 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/firebase-logo.webp" alt="Firebase Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/firebase-logo.webp" alt="Firebase Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Firebase</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/sqlite-logo.webp" alt="SQLite Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/sqlite-logo.webp" alt="SQLite Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">SQLite</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/core-data-logo.webp" alt="CoreData Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/core-data-logo.webp" alt="CoreData Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">CoreData</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/realm-logo.webp" alt="Realm Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/realm-logo.webp" alt="Realm Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Realm</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/mysql-logo.webp" alt="MySQL Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/mysql-logo.webp" alt="MySQL Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">MySQL</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/sql-logo.webp" alt="SQL Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/sql-logo.webp" alt="SQL Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">SQL</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/opentsdb-logo.webp" alt="OpenTSDB Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/opentsdb-logo.webp" alt="OpenTSDB Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">OpenTSDB</h4>
 									</div>
 								</div>
@@ -1590,37 +1591,37 @@
 							<div class="tech-slider1 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/php-logo.webp" alt="PHP Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/php-logo.webp" alt="PHP Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">PHP</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/java-logo.webp" alt="Java Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/java-logo.webp" alt="Java Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Java</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/node-js-logo.webp" alt="Node JS Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/node-js-logo.webp" alt="Node JS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Node JS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/python-logo.webp" alt="Python Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/python-logo.webp" alt="Python Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Python</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/c-sharp-logo.webp" alt="C# Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/c-sharp-logo.webp" alt="C# Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">C#</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/c++-logo.webp" alt="C/C++ Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/c++-logo.webp" alt="C/C++ Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">C/C++</h4>
 									</div>
 								</div>
@@ -1643,19 +1644,19 @@
 							<div class="tech-slider2 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/wordpress-logo.webp" alt="WordPress Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/wordpress-logo.webp" alt="WordPress Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">WordPress</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/magento-logo.webp" alt="Magento Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/magento-logo.webp" alt="Magento Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Magento</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/shopify-logo.webp" alt="Shopify Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/shopify-logo.webp" alt="Shopify Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Shopify</h4>
 									</div>
 								</div>
@@ -1678,19 +1679,19 @@
 							<div class="tech-slider2 owl-carousel">
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/aws-logo.webp" alt="AWS Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/aws-logo.webp" alt="AWS Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">AWS</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/azure-logo.webp" alt="Azure Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/azure-logo.webp" alt="Azure Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Azure</h4>
 									</div>
 								</div>
 								<div class="tech-item">
 									<div class="item">
-										<img src="images/tech/google-cloud-logo.webp" alt="Google Cloud Logo" class="tech-logo" width="auto" height="auto">
+										 <img loading="lazy" src="images/tech/google-cloud-logo.webp" alt="Google Cloud Logo" class="tech-logo" width="auto" height="auto">
 										<h4 class="mt-2">Google Cloud</h4>
 									</div>
 								</div>
@@ -1723,7 +1724,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Unity</p> -->
 							</div>
 						</div>
@@ -1731,7 +1732,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-sm-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Unreal Engine</p> -->
 							</div>
 						</div>
@@ -1739,7 +1740,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-lg-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/wordpress-logo.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">WordPress</p> -->
 							</div>
 						</div>
@@ -1747,7 +1748,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/php-logo.webp" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">PHP</p> -->
 							</div>
 						</div>
@@ -1755,7 +1756,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/angular-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Angular JS</p> -->
 							</div>
 						</div>
@@ -1763,7 +1764,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/c++-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">C++</p> -->
 							</div>
 						</div>
@@ -1771,7 +1772,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Blender</p> -->
 							</div>
 						</div>
@@ -1779,7 +1780,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Python</p> -->
 							</div>
 						</div>
@@ -1787,7 +1788,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Node JS</p> -->
 							</div>
 						</div>
@@ -1795,7 +1796,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Photon</p> -->
 							</div>
 						</div>
@@ -1803,7 +1804,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">React Native</p> -->
 							</div>
 						</div>
@@ -1811,7 +1812,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">JavaScript</p> -->
 							</div>
 						</div>
@@ -1819,7 +1820,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">HTML</p> -->
 							</div>
 						</div>
@@ -1827,7 +1828,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Laravel</p> -->
 							</div>
 						</div>
@@ -1858,7 +1859,7 @@
 						@foreach($clients as $item)
 						<div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
 							<div class="brand-logo hoshd">
-								<img src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto" width="auto" height="auto">
+								 <img loading="lazy" src="uploads/{{$item['image']}}" alt="{{$item['alt']}}" class="img-fluid d-block mx-auto" width="auto" height="auto">
 							</div>
 						</div>
 						@endforeach
@@ -1869,28 +1870,7 @@
 	</div>
 </section>
 <!--End Clients-->
-
-<!-- Start Start Location -->
-<!-- <section class="location py-5">
-	<div class="container">
-		<div class="row wow fadeIn">
-			<div class="col-lg-6 my-auto">
-				<div class="common-heading">
-					<div data-text="Developers" class="dark-bg-text bg-text">
-						<h2><span>Unlock New Markets With Our Top <span>Mobile App Development</span> Company New York</h2>
-					</div>
-					<p class="pt-2">We offer exceptional and unique mobile app development services in New York. Whether you need apps that work on multiple platforms or those loaded with features for iOS or Android, we can help. Our custom mobile apps are designed to fit your business needs, enhance your brand, and connect with New York's tech community. Reach out to us today to help grow your business</p>
-					<a href="{{url('/contact-us')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3" data-wow-delay="0.8s">Get Consultation <i class="fas fa-chevron-right fa-ani"></i></a>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-3 mt-lg-0">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380.5933028430845!2d-73.9566717760113!3d40.67620832536594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b992569c5a3%3A0x62621967b4b600be!2sWork%20Heights%2C%20Your%20Neighborhood%20Coworking%20Company!5e1!3m2!1sen!2s!4v1735656717767!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!-- End Start Location -->
-
+ 
 <!-- Start FAQS-->
 <section class="faq-section py-5">
     <div class="container">

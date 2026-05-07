@@ -12,7 +12,7 @@
 	<div class="container wow fadeIn" data-wow-delay="0.2s">
 		<div class="row">
 			<div class="col-lg-6 my-lg-auto">
-			<img src="{{asset('images/case-studies/boujee-beachin/header-logo.webp')}}" class="boujee-beachin-logo" alt="Boujee Beachin App Logo" >
+			 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/header-logo.webp')}}" class="boujee-beachin-logo" alt="Boujee Beachin App Logo" >
 				<div class="bread-titlev2 mt-4">
 					<h1>
                         <span>100+</span> Goals Achieved,
@@ -24,7 +24,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
-				<img src="{{asset('images/case-studies/boujee-beachin/header-web.webp')}}" class="img-fluid" alt="Boujee Beachin App" width="100%" height="100%">
+				 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/header-web.webp')}}" class="img-fluid" alt="Boujee Beachin App" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -36,7 +36,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6">
-				<img src="{{asset('images/case-studies/boujee-beachin/problem-statement.webp')}}" alt="Boujee Beachin Problem Statement"  >
+				 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/problem-statement.webp')}}" alt="Boujee Beachin Problem Statement"  >
 			</div>
             <div class="col-lg-6 my-lg-auto">
                 <div class="common-heading">
@@ -91,7 +91,7 @@
             </div>
 
             <div class="col-12 col-lg-4">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-objectives.webp')}}" alt="Boujee Beachin Objectives" class="img-fluid d-block mx-auto">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-objectives.webp')}}" alt="Boujee Beachin Objectives" class="img-fluid d-block mx-auto">
             </div>
         </div>
     </div>
@@ -154,7 +154,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-mockup.webp')}}" alt="Boujee Beachin Mockup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-mockup.webp')}}" alt="Boujee Beachin Mockup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -180,22 +180,22 @@
         
         <div class="row g-3">
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-2.webp')}}" alt="Boujee Beachin Wireframe 2" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-2.webp')}}" alt="Boujee Beachin Wireframe 2" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-3.webp')}}" alt="Boujee Beachin Wireframe 3" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-3.webp')}}" alt="Boujee Beachin Wireframe 3" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-4.webp')}}" alt="Boujee Beachin Wireframe 4" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-4.webp')}}" alt="Boujee Beachin Wireframe 4" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-5.webp')}}" alt="Boujee Beachin Wireframe 5" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-5.webp')}}" alt="Boujee Beachin Wireframe 5" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-6.webp')}}" alt="Boujee Beachin Wireframe 6" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-6.webp')}}" alt="Boujee Beachin Wireframe 6" class="img-fluid rounded">
             </div>
         </div>
     </div>
@@ -216,25 +216,25 @@
         <div class="row gy-3">
             <div class="col-md-6 col-lg-3">
                 <div class="target-users-card">
-                    <img src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
                     <p>Age Group: 20–35 Years</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="target-users-card">
-                    <img src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
                     <p>Primary Users: Beach Tourists</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="target-users-card">
-                    <img src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
                     <p>Frequent Travelers</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="target-users-card">
-                    <img src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/target-users.webp')}}" alt="Target Users">
                     <p>Vacation Planners</p>
                 </div>
             </div>
@@ -256,19 +256,19 @@
                 <div class="challenges">
                     <ul>
                         <li>
-                            <img src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
                             <p>Keeping the design boujee but still very user-friendly</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
                             <p>Ensuring a premium look without affecting loading speed</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
                             <p>Making the interface consistent across all devices</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/vector.webp')}}" alt="vector">
                             <p>Maintaining visual balance with vibrant brand colors</p>
                         </li>
                     </ul>
@@ -276,7 +276,7 @@
             </div>
 
             <div class="col-12 col-md-6 text-center text-md-end">
-                <img class="img-fluid" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-challenges.webp')}}" alt="boujee-beachin-challenges">
+                 <img loading="lazy" class="img-fluid" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-challenges.webp')}}" alt="boujee-beachin-challenges">
             </div>
         </div>
     </div>
@@ -293,7 +293,7 @@
                     <div class="card persona-card text-center h-100">
                         <div class="card-body d-flex flex-column justify-content-center">
                             <div class="profile-img-container">
-                                <img src="{{asset('images/case-studies/boujee-beachin/user.webp')}}" alt="James Whitmore" class="profile-img">
+                                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/user.webp')}}" alt="James Whitmore" class="profile-img">
                             </div>
                             <h3 class="persona-heading">James Whitmore</h3>
                             <p class="text-secondary-light mb-4">Luxury Travel Enthusiast & Digital Marketer</p>
@@ -479,18 +479,18 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-1.webp')}}" alt="App Screens"   class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-1.webp')}}" alt="App Screens"   class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-app-12.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -507,7 +507,7 @@
             <div class="col-md-6">
                 <div class="user-testing-card">
                     <div class="user-testing-img">
-                        <img src="{{asset('images/case-studies/boujee-beachin/heart.webp')}}" alt="Liked">
+                         <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/heart.webp')}}" alt="Liked">
                         <p>Liked</p>
                     </div>
                     <ul>
@@ -521,7 +521,7 @@
             <div class="col-md-6">
                 <div class="user-testing-card">
                     <div class="user-testing-img">
-                        <img src="{{asset('images/case-studies/boujee-beachin/reset.webp')}}" alt="Reset">
+                         <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/reset.webp')}}" alt="Reset">
                         <p>Liked</p>
                     </div>
                     <ul>
@@ -539,49 +539,49 @@
 
 <!-- by hassan Tech Behind the App section  -->
 <section class="boujee-beachin-tech py-5 wow fadeIn">
-<div class="container">
-    <div class="common-heading">
-        <h2 class="text-center mb-4">Tech Behind the App</h2>
-    </div>
+    <div class="container">
+        <div class="common-heading">
+            <h2 class="text-center mb-4">Tech Behind the App</h2>
+        </div>
 
-    <div class="row g-4 justify-content-center">
-        <div class="col-6 col-md-3 col-lg-2">
-            <div class="tech-card text-center">
-                <h6>Frontend</h6>
-                <img src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="">
-                <p>React Native</p>
+        <div class="row g-4 justify-content-center">
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="tech-card text-center">
+                    <h6>Frontend</h6>
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="">
+                    <p>React Native</p>
+                </div>
             </div>
-        </div>
-        <div class="col-6 col-md-3 col-lg-2">
-            <div class="tech-card text-center">
-                <h6>Backend</h6>
-                <img src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="">
-                <p>Node.js</p>
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="tech-card text-center">
+                    <h6>Backend</h6>
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="">
+                    <p>Node.js</p>
+                </div>
             </div>
-        </div>
-        <div class="col-6 col-md-3 col-lg-2">
-            <div class="tech-card text-center">
-                <h6>Database</h6>
-                <img src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="">
-                <p>MongoDB</p>
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="tech-card text-center">
+                    <h6>Database</h6>
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="">
+                    <p>MongoDB</p>
+                </div>
             </div>
-        </div>
-        <div class="col-6 col-md-3 col-lg-2">
-            <div class="tech-card text-center">
-                <h6>Cloud</h6>
-                <img src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="">
-                <p>AWS</p>
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="tech-card text-center">
+                    <h6>Cloud</h6>
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="">
+                    <p>AWS</p>
+                </div>
             </div>
-        </div>
-        <div class="col-6 col-md-3 col-lg-2">
-            <div class="tech-card text-center">
-                <h6>Payments</h6>
-                <img src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="">
-                <p>Stripe • G Pay</p>
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="tech-card text-center">
+                    <h6>Payments</h6>
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="">
+                    <p>Stripe • G Pay</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
 </section>
 
 <!--End hassan Tech Behind the App section  -->
@@ -604,7 +604,7 @@
 
             <div class="col-md-6 text-center">
                 <div class="conclusion-right">
-                    <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-conclusion.webp')}}" alt="Boujee Beachin Conclusion Image" class="img-fluid rounded-3 shadow-sm">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-conclusion.webp')}}" alt="Boujee Beachin Conclusion Image" class="img-fluid rounded-3 shadow-sm">
                 </div>
             </div>
         </div>
@@ -620,14 +620,14 @@
         </div>
 
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-1.webp')}}" class="img-fluid" alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-2.webp')}}" class="img-fluid"  alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-3.webp')}}" class="img-fluid"  alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-4.webp')}}" class="img-fluid"  alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-5.webp')}}" class="img-fluid"  alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-6.webp')}}" class="img-fluid"  alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-7.webp')}}" class="img-fluid"  alt="Vendor App"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-8.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-1.webp')}}" class="img-fluid" alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-2.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-3.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-4.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-5.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-6.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-7.webp')}}" class="img-fluid"  alt="Vendor App"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-vendor-app-8.webp')}}" class="img-fluid"  alt="Vendor App"></div>
         </div>
     </div>
 </section>
@@ -641,14 +641,14 @@
         </div>
 
         <div class="text-center mb-3">
-            <img src="{{asset('images/case-studies/boujee-beachin/star.webp')}}" alt="Rating" class="star">
+             <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/star.webp')}}" alt="Rating" class="star">
         </div>
 
         <div class="row justify-content-center">
             <div class="col-md-10 col-lg-8">
                 <div class="testimonial-card text-center p-4">
                     <div class="testimonials-img-section mb-3">
-                        <img src="{{asset('images/case-studies/boujee-beachin/user-2.webp')}}" alt="Liked" class="rounded-circle img-fluid">
+                         <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/user-2.webp')}}" alt="Liked" class="rounded-circle img-fluid">
                     </div>
                     <p class="testimonial-text">
                         “I’ve tried a ton of travel apps, but Boujee Beachin’ stands out.
@@ -670,7 +670,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-mockup-2.webp')}}" alt="" srcset="" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-mockup-2.webp')}}" alt="" srcset="" class="img-fluid">
             </div>
         </div>
     </div>

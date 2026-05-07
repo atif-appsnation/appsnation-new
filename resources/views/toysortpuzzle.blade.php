@@ -16,17 +16,17 @@
 
             <div class="col-md-3 text-center text-md-start">
                 <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/puzzle.webp')}}" alt="Puzzle Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/puzzle.webp')}}" alt="Puzzle Toy">
                 </div>
             </div>
 
             <div class="col-md-6 text-center">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/logo.webp')}}" class="logo" alt="Toy Sort Puzzle Logo">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/logo.webp')}}" class="logo" alt="Toy Sort Puzzle Logo">
             </div>
 
             <div class="col-md-3 text-center text-md-end">
                 <div class="imageFloteRight wow fadeInRight" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/duck.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/duck.webp')}}" alt="Duck Toy">
                 </div>
             </div>
 
@@ -45,11 +45,11 @@
         <div class="row">
             <div class="col-md-4 toy-sort-playstore">
                 <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s ">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/car.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/car.webp')}}" alt="Duck Toy">
                 </div>
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/appstore.webp')}}" class="logo" alt="App Store">
+                <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/appstore.webp')}}" class="logo" alt="App Store">
 
             </div>
             <div class="col-md-4"></div>
@@ -65,7 +65,7 @@
     <div class="container wow fadeInUp">
         <div class="row align-items-center text-center text-md-start">
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img  order-1 order-md-1 order-lg-1 ">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/Introduction-img-1.webp')}}" class="img-fluid" alt="project description">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/Introduction-img-1.webp')}}" class="img-fluid" alt="project description">
             </div>
             <div class="col-12 col-md-12 col-lg-6 order-2 order-md-2 order-lg-2">
                 <div class="car-mehanic-content">
@@ -75,7 +75,7 @@
                         </div>
                         <div class="col-4">
                             <div class="imageFloteRight wow fadeInRight" data-wow-delay="0.6s">
-                        <img src="{{asset('images/case-studies/toy-sort-puzzle/Introduction-img-2.webp')}}" alt="Duck Toy">
+                        <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/Introduction-img-2.webp')}}" alt="Duck Toy">
                     </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="col-4">
                         <div class="imageFloteRight wow fadeInLeft" data-wow-delay="0.6s">
-                            <img src="{{asset('images/case-studies/toy-sort-puzzle/taddy.webp')}}" alt="Duck Toy">
+                            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/taddy.webp')}}" alt="Duck Toy">
                         </div>
                     </div>
                 </div>
@@ -117,14 +117,14 @@
                     The game was designed to be relaxing, yet stimulating, with the right amount of challenge to keep players engaged while providing a sense of order and achievement.
                 </p>
                 <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/red-doll.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/red-doll.webp')}}" alt="Duck Toy">
                 </div>
             </div>
         </div>
 
         <!-- Image Column -->
         <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img order-1 order-md-1 order-lg-2">
-            <img src="{{asset('images/case-studies/toy-sort-puzzle/project-idea-img.webp')}}" class="img-fluid" alt="project description">
+            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/project-idea-img.webp')}}" class="img-fluid" alt="project description">
         </div>
 
     </div>
@@ -141,7 +141,7 @@
         <!-- Image Column -->
         <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img
                       order-1 order-md-1 order-lg-1 ">
-            <img src="{{asset('images/case-studies/toy-sort-puzzle/game-goal-img.webp')}}"
+            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/game-goal-img.webp')}}"
                  class="img-fluid" alt="project description">
         </div>
 
@@ -153,7 +153,7 @@
                 <div class="row">
                     <div class="offset-8 col-4">
                         <div class="imageFloteRight wow fadeInLeft" data-wow-delay="0.6s">
-                            <img src="{{asset('images/case-studies/toy-sort-puzzle/white-doll.webp')}}"
+                            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/white-doll.webp')}}"
                                  alt="Duck Toy">
                         </div>
                     </div>
@@ -186,7 +186,7 @@
                 <div class="row">
                     <div class="col-md-4">
                          <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/robot.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/robot.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                     <div class="col-md-4">
@@ -195,7 +195,7 @@
                     </div>
                     <div class="offset-md-2 col-md-2 ">
                          <div class="imageFloteRight wow fadeInRight " data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/plane.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/plane.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                 </div>
@@ -204,7 +204,7 @@
         </div>
              <div class="row mt-4">
             <div class="col-12 text-center toy-sort-target-audience-img">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
 
@@ -219,7 +219,7 @@
          <div class="row">
                     <div class="col-md-4">
                          <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/elefent.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/elefent.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                     <div class="col-md-4">
@@ -232,7 +232,7 @@
                 </div>
         <div class="row ">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/element-img.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/element-img.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -246,7 +246,7 @@
          <div class="row">
                     <div class="col-md-4">
                          <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/boll.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/boll.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                     <div class="col-md-4">
@@ -255,19 +255,19 @@
                     </div>
                     <div class="offset-md-2 col-md-2 ">
                          <div class="imageFloteRight wow fadeInRight" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/dog.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/dog.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                 </div>
         <div class="row toy-sort-user-feedback-img">
             <div class="col-4 text-center">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/screen1.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/screen1.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
             <div class="col-4 text-center">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/screen2.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/screen2.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
             <div class="col-4 text-center">
-                <img src="{{asset('images/case-studies/toy-sort-puzzle/screen3.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/screen3.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -284,7 +284,7 @@
                 <div class="row">
                     <div class="col-md-4">
                          <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/ring-puzzle.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/ring-puzzle.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                     <div class="col-md-4 text-center">
@@ -293,7 +293,7 @@
                     </div>
                     <div class="offset-md-2 col-md-2 ">
                          <div class="imageFloteRight wow fadeInRight " data-wow-delay="0.6s">
-                    <img src="{{asset('images/case-studies/toy-sort-puzzle/truck.webp')}}" alt="Duck Toy">
+                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/truck.webp')}}" alt="Duck Toy">
                 </div>
                     </div>
                 </div>

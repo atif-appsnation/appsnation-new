@@ -16,7 +16,7 @@
 
             <div class="col-lg-12 my-lg-auto">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/car-mechanic-app/logo.webp')}}" class="logo " alt="car-mechanic logo">
+                     <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/logo.webp')}}" class="logo " alt="car-mechanic logo">
                     <h1>
                         <span>Grease Up, Gears On </span><br>
                         Let the Fixing Fun Begin!
@@ -42,7 +42,7 @@
     <div class="container wow fadeInUp">
         <div class="row align-items-center text-center text-md-start">
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img">
-                <img src="{{asset('images/case-studies/car-mechanic-app/introduction-img.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/introduction-img.webp')}}" class="img-fluid" alt="project description">
             </div>
             <div class="col-12 col-md-12 col-lg-6  ">
                 <div class="car-mehanic-content">
@@ -84,7 +84,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mt-md-4 project-idea-car-mechanic-img">
-                <img src="{{asset('images/case-studies/car-mechanic-app/project-idea-img.webp')}}" class="img-fluid pt-4" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/project-idea-img.webp')}}" class="img-fluid pt-4" alt="project description">
             </div>
 
 
@@ -102,13 +102,13 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/car-mechanic-app/car1.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/car1.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/car-mechanic-app/car2.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/car2.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/car-mechanic-app/car3.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/car3.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
         </div>
     </div>
@@ -120,7 +120,7 @@
     <div class="container wow fadeInUp">
         <div class="row align-items-center text-center text-md-start">
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 car-mehanic-img">
-                <img src="{{asset('images/case-studies/car-mechanic-app/game-goal-img.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/game-goal-img.webp')}}" class="img-fluid" alt="project description">
             </div>
             <div class="col-12 col-md-12 col-lg-6  ">
                 <div class="car-mehanic-content">
@@ -152,7 +152,7 @@
         <h2>Elements</h2>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/car-mechanic-app/element-img.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/element-img.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -165,7 +165,7 @@
     <div class="container wow fadeInUp">
         <div class="row align-items-center text-center text-md-start">
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 car-mehanic-img">
-                <img src="{{asset('images/case-studies/car-mechanic-app/target-audience-img.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/target-audience-img.webp')}}" class="img-fluid" alt="project description">
             </div>
             <div class="col-12 col-md-12 col-lg-6  ">
                 <div class="car-mehanic-content">
@@ -207,7 +207,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/car-mechanic-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/car-mechanic-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

@@ -16,11 +16,11 @@
 
             <div class="col-12">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/alejandro-app/logo.webp')}}" class="img-fluid logo" alt="Alejandro logo">
+                     <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/logo.webp')}}" class="img-fluid logo" alt="Alejandro logo">
                     <h1>Effortless Appraisal Management at Your Fingertips</h1>
                     <p class="pt-3">Schedule, assign, and track appraisal tasks all from a mobile first platform. </p>
                 </div>
-                <img src="{{asset('images/case-studies/alejandro-app/hero-images.webp')}}" class="img-fluid hero-img" alt="Alejandro hero img">
+                 <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/hero-images.webp')}}" class="img-fluid hero-img" alt="Alejandro hero img">
             </div>
         </div>
     </div>
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="{{asset('images/case-studies/alejandro-app/clients-overview.webp')}}" alt="client-overview" width="100%" height="100%">
+                 <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/clients-overview.webp')}}" alt="client-overview" width="100%" height="100%">
             </div>
 
         </div>
@@ -223,7 +223,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/alejandro-app/Avatar-1.webp')}}" alt="Avatar" class="img-fluid">
+                             <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/Avatar-1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>Mark Sullivan</h4>
                             <p>Appraisal Firm Owner</p>
                         </div>
@@ -270,7 +270,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/alejandro-app/Avatar-2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                             <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/Avatar-2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>Jessica Reed</h4>
                             <p>Mobile Field Appraiser</p>
                         </div>
@@ -332,22 +332,22 @@
 
         <div class="row g-3 grave-love-wireframe-gallery">
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/couple-app/wireframe1.webp')}}" alt="couple app Wireframe" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/wireframe1.webp')}}" alt="couple app Wireframe" class="wire-img">
             </div>
 
 
@@ -365,7 +365,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/alejandro-app/final-ui-design.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/final-ui-design.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -380,22 +380,22 @@
             <h2 class="my-3 text-center">App Screens  </h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-12.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-13.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-14.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-15.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/alejandro-app/appscreen-16.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-13.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-14.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-15.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/appscreen-16.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -414,35 +414,35 @@
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Frontend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
                     <p>React Native</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Backend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
                     <p>Node.js</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Database</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
                     <p>MongoDB</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Cloud</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
                     <p>AWS</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Payments</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
                     <p>Stripe • G Pay</p>
                 </div>
             </div>
@@ -481,7 +481,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 mike-mathis-design-phase-left-container">
-                <img src="{{asset('images/case-studies/alejandro-app/uiux-pase-image.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/uiux-pase-image.webp')}}" class="img-fluid" alt="project description">
             </div>
 
         </div>
@@ -495,7 +495,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/alejandro-app/morkup.jpg')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/alejandro-app/morkup.jpg')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

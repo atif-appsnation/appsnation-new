@@ -93,7 +93,7 @@
 			</div>
 			<div class="col-lg-5 col-md-12 text-center order-1 order-lg-2">
 				<div class="wow fadeIn">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img loading="lazy" src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -137,7 +137,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 wow fadeIn">
 				<a href="{{url('/booking-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/advertising.webp" alt="advertising" class="img-fluid">
+						<img loading="lazy" src="images/industries/advertising.webp" alt="advertising" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">advertising</h5>	
@@ -150,7 +150,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<a href="{{url('/fitness-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/automative-and-transport.webp" alt="Fitness App" class="img-fluid">
+						<img loading="lazy" src="images/industries/automative-and-transport.webp" alt="Fitness App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">automative and transport</h5>	
@@ -163,7 +163,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<a href="{{url('/fleet-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/ecommerce-and-retail.webp" alt="Fleet App" class="img-fluid">
+						<img loading="lazy" src="images/industries/ecommerce-and-retail.webp" alt="Fleet App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">ecommerce and retail</h5>	
@@ -176,7 +176,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<a href="{{url('/loyaltyapp')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/education.webp" alt="Loyalty App" class="img-fluid">
+						<img loading="lazy" src="images/industries/education.webp" alt="Loyalty App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">education</h5>	
@@ -189,7 +189,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<a href="{{url('/moverapp')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/financial-software-development.webp" alt="Moverg App" class="img-fluid">
+						<img loading="lazy" src="images/industries/financial-software-development.webp" alt="Moverg App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">financial software development</h5>	
@@ -202,7 +202,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<a href="{{url('/realestate-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/gaming-and-leisure.webp" alt="Real Estate App" class="img-fluid">
+						<img loading="lazy" src="images/industries/gaming-and-leisure.webp" alt="Real Estate App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">gaming and leisure</h5>	
@@ -215,7 +215,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<a href="{{url('/restaurant-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/healthcare-and-life-science.webp" alt="Restaurant App" class="img-fluid">
+						<img loading="lazy" src="images/industries/healthcare-and-life-science.webp" alt="Restaurant App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">healthcare and life science</h5>	
@@ -228,7 +228,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<a href="{{url('/shopping-express-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/media-and-entertainment.webp" alt="Shopping Express" class="img-fluid">
+						<img loading="lazy" src="images/industries/media-and-entertainment.webp" alt="Shopping Express" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">media and entertainment</h5>	
@@ -241,7 +241,7 @@
 			<div class="col-sm-6 col-md-6 col-lg-4 mt-3 wow fadeIn">
 				<a href="{{url('/sport-app')}}" class="solutions-link">
 					<div class="solutions-image">
-						<img src="images/industries/real-estate-and-property.webp" alt="Sport App" class="img-fluid">
+						<img loading="lazy" src="images/industries/real-estate-and-property.webp" alt="Sport App" class="img-fluid">
 					</div>
 					<div class="solutions-text">
 						<h5 class="text-center text-white text-center">real estate and property</h5>	
@@ -291,25 +291,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					<img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					<img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					<img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					<img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -341,7 +341,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									</div>
 								</div>
@@ -354,7 +354,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								 
 								</div>
@@ -370,7 +370,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										
 									</div>
@@ -383,7 +383,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" alt="{{$item['alt']}}" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									 
 								</div>
@@ -446,7 +446,7 @@
 						</div>
 
 						<!-- YouTube Video -->
-						<iframe d="player-{{$key}}" class="youtube-player testimonial-video" src="{{$item['comments']}}"	title="Client Testimonial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe d="player-{{$key}}" class="youtube-player testimonial-video" src="{{$item['comments']}}"	title="Client Testimonial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
 
 					</div>
 
@@ -477,8 +477,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -488,8 +488,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -499,8 +499,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -510,8 +510,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -521,8 +521,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -532,8 +532,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -543,8 +543,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -554,8 +554,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>

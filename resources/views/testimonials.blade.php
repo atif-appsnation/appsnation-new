@@ -99,7 +99,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/clutch.webp" class="img-fluid" alt="Clutch">
+                    <img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid" alt="Clutch">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -126,7 +126,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/goodfirms.webp" class="img-fluid" alt="GoodFirms">
+                    <img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid" alt="GoodFirms">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -157,7 +157,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/sitejabber.webp" class="img-fluid" alt="Sitejabber">
+                    <img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid" alt="Sitejabber">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -190,7 +190,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/trustpilot.webp" class="img-fluid" alt="Trustpilot">
+                    <img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid" alt="Trustpilot">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -207,9 +207,9 @@
                                             <h6 class="text-muted text-start">{{ $testimonial->name }}</h6>
                                             {{-- <svg viewBox="0 0 16 16" fill="currentColor" class="icon_icon__ECGRl" xmlns="http://www.w3.org/2000/svg" width="14px" height="14px"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16Zm-.888-4.44 5.603-5.87-.723-.69-4.897 5.13-2.388-2.388L4 8.449l3.112 3.112Z"></path></svg>
 											<span>Verified</span> --}}
-                                            <img src="images/svg/stars-5.svg" alt="Star" style="height:20px;">
+                                            <img loading="lazy" src="images/svg/stars-5.svg" alt="Star" style="height:20px;">
 
-                                            {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
+                                            {{-- <img loading="lazy" src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
                                             <h5 class="pt-3 text-start collapsible-heading">{{ $testimonial->title }}</h5>
                                             <p class="text-start collapsible-text pt-2">{{ $testimonial->comments }}</p>
                                             <button class="btn btn-link toggle-btn">View More</button>
@@ -243,7 +243,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/techbehemoths.webp" class="img-fluid" alt="Techbehemoths">
+                    <img loading="lazy" src="images/reviews/techbehemoths.webp" class="img-fluid" alt="Techbehemoths">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -269,9 +269,9 @@
                                                 </figcaption>
                                             </div>
 
-                                            <img src="images/svg/stars-5-techbehemoths.svg" alt="Stars" style="height:20px;">
+                                            <img loading="lazy" src="images/svg/stars-5-techbehemoths.svg" alt="Stars" style="height:20px;">
 
-                                            {{-- <img src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
+                                            {{-- <img loading="lazy" src="uploads/awards/0ba32fb4e7536c7803da3bfecaa3f681.webp" class="award-img"> --}}
                                             <h5 class="text-start collapsible-heading pt-3">{{ $testimonial->title }}</h5>
                                             <p class="text-start collapsible-text pt-2">{{ $testimonial->comments }}</p>
                                             <button class="btn btn-link toggle-btn">View More</button>
@@ -291,7 +291,7 @@
                 </div>
                 <div class="col-12 col-lg-2 mt-4 d-block mx-auto">
                     <a href="https://www.trustpilot.com/review/appsnation.co" target="_blank" rel="noopener">
-                        <img src="images/reviews/tb.svg">
+                        <img loading="lazy" src="images/reviews/tb.svg">
                     </a>
                 </div>
             </div>
@@ -305,7 +305,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/reviews/trustlist.webp" class="img-fluid" alt="Trustlist">
+                    <img loading="lazy" src="images/reviews/trustlist.webp" class="img-fluid" alt="Trustlist">
                 </div>
 				<div class="col-md-8 mt-auto mb-3">
                     <div class="common-heading w-tdxt">
@@ -382,7 +382,7 @@
 
     <div class="embedsocial-widget" data-ref="13831fe380fe3337953857f71835d9c2">
         <a href="https://embedsocial.com/google-reviews-widget/" title="Add Google reviews on a website" target="_blank" class="powered-by-es es-slider" >
-            <img src="https://embedsocial.com/cdn/icon/embedsocial-logo.webp" alt="EmbedSocial" >
+            <img loading="lazy" src="https://embedsocial.com/cdn/icon/embedsocial-logo.webp" alt="EmbedSocial" >
             <span> Google reviews widget </span>
         </a>
     </div>
@@ -402,25 +402,25 @@
             <div class="row mt-5">
                 <div class="col-md-6 col-lg-3 mt-3 text-center certificate">
                     <div>
-                        <img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+                        <img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
                         <h6 class="pt-3">Google Developer<br>Certified Agency</h6>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mt-3 text-center certificate">
                     <div>
-                        <img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+                        <img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
                         <h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mt-3 text-center certificate">
                     <div>
-                        <img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+                        <img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
                         <h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mt-3 text-center certificate">
                     <div>
-                        <img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+                        <img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
                         <h6 class="pt-3">Amazon Web<br>Service Partner</h6>
                     </div>
                 </div>
@@ -453,7 +453,7 @@
                                             <div class="item">
                                                 <div class="card">
                                                     <div class="card-body">
-                                                        <img src="uploads/{{ $item['image'] }}" class="award-img">
+                                                        <img loading="lazy" src="uploads/{{ $item['image'] }}" class="award-img">
                                                         <h5 class="text-center pt-3">{{ $item['heading'] }}</h5>
                                                         <p class="text-center pt-2">{{ $item['content'] }}</p>
                                                     </div>
@@ -466,7 +466,7 @@
                                         <div class="item">
                                             <div class="card">
                                                 <div class="card-body">
-                                                    <img src="uploads/{{ $item['image'] }}" class="award-img">
+                                                    <img loading="lazy" src="uploads/{{ $item['image'] }}" class="award-img">
                                                     <h5 class="text-center pt-3">{{ $item['heading'] }}</h5>
                                                     <p class="text-center pt-2">{{ $item['content'] }}</p>
                                                 </div>
@@ -481,7 +481,7 @@
                                             <div class="item">
                                                 <div class="card">
                                                     <div class="card-body">
-                                                        <img src="uploads/{{ $item['image'] }}" class="award-img">
+                                                        <img loading="lazy" src="uploads/{{ $item['image'] }}" class="award-img">
                                                         <h5 class="text-center pt-3">{{ $item['heading'] }}</h5>
                                                         <p class="text-center pt-2">{{ $item['content'] }}</p>
                                                     </div>
@@ -494,7 +494,7 @@
                                         <div class="item">
                                             <div class="card">
                                                 <div class="card-body">
-                                                    <img src="uploads/{{ $item['image'] }}" class="award-img">
+                                                    <img loading="lazy" src="uploads/{{ $item['image'] }}" class="award-img">
                                                     <h5 class="text-center pt-3">{{ $item['heading'] }}</h5>
                                                     <p class="text-center pt-2">{{ $item['content'] }}</p>
                                                 </div>

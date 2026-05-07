@@ -42,7 +42,7 @@
 				</ul>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 text-center wow fadeIn">
-				<img class="img-fluid" src="images/industries/adversting-app-1.webp" width="100%" height="100%">
+				 <img loading="lazy" class="img-fluid" src="images/industries/adversting-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -53,10 +53,10 @@
 <section class="service">
 	<div class="row wow fadeIn">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/adversting-app-2.webp" class="img-fluid image" width="100%" height="100%">
+			 <img loading="lazy" src="images/industries/adversting-app-2.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/adversting-app-3.webp" class="img-fluid image" width="100%" height="100%">
+			 <img loading="lazy" src="images/industries/adversting-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>
@@ -120,7 +120,7 @@
 	<div class="container">
 		<div class="row text-center">
 			<div class="col-12 wow fadeIn">
-				<iframe width="100%" height="600" src="https://www.youtube.com/embed/B3GeeLH0xM8?si=Hf7iXX5pbUaVf_C0" title="Revolutionizing Healthcare Management: Appsnation's Innovative Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				<iframe loading="lazy" width="100%" height="600" src="https://www.youtube.com/embed/B3GeeLH0xM8?si=Hf7iXX5pbUaVf_C0" title="Revolutionizing Healthcare Management: Appsnation's Innovative Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>

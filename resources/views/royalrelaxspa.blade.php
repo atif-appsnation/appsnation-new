@@ -26,7 +26,7 @@
             </div>
 
             <div class="col-lg-6 mt-5 mt-lg-0 royal-relax-spa-hero-img">
-                <img src="{{asset('images/case-studies/royal-relax-spa/royal-spa-hero-img.webp')}}"
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/royal-spa-hero-img.webp')}}"
                     class="img-fluid hero-img"
                     alt="royal-relax-spa">
             </div>
@@ -55,7 +55,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 royal-relax-project-description-img">
-                <img src="{{asset('images/case-studies/royal-relax-spa/project-dec-img.webp')}}" class="img-fluid" alt="royal relax project Description">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/project-dec-img.webp')}}" class="img-fluid" alt="royal relax project Description">
             </div>
         </div>
     </div>
@@ -201,7 +201,7 @@
 
             <!-- Left Image -->
             <div class="col-lg-6 mb-md-4 mt-5 mt-lg-0">
-                <img src="{{asset('images/case-studies/royal-relax-spa/project-goal.webp')}}"
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/project-goal.webp')}}"
                     class="img-fluid"
                     alt="  project-goals">
 
@@ -270,7 +270,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/royal-relax-spa/avatar1.webp')}}" alt="Avatar" class="img-fluid">
+                            <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/avatar1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>Emily Thompson</h4>
                             <p>USA-Based User</p>
                         </div>
@@ -316,7 +316,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/royal-relax-spa/avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                            <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>Michael Rivera </h4>
                             <p>Business-Focused User</p>
                         </div>
@@ -378,22 +378,22 @@
 
         <div class="row g-3 grave-love-wireframe-gallery">
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/royal-relax-spa/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-               <img src="{{asset('images/case-studies/couple-app/wireframe1.webp')}}" alt="couple app Wireframe" class="wire-img">  
+               <img loading="lazy" src="{{asset('images/case-studies/couple-app/wireframe1.webp')}}" alt="couple app Wireframe" class="wire-img">  
             </div>
             
 
@@ -409,18 +409,18 @@
             <h2 class="my-3 text-center">App Screens Phase 1</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -439,35 +439,35 @@
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Frontend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
                     <p>React Native</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Backend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
                     <p>Node.js</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Database</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
                     <p>MongoDB</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Cloud</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
                     <p>AWS</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Payments</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
                     <p>Stripe • G Pay</p>
                 </div>
             </div>
@@ -483,12 +483,12 @@
             <h2 class="my-3 text-center">App Screens Phase 2</h2>
         </div>
         <div class="row">
-            <div class="col-md-2 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-2 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-2 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-2 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-2 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-2 col-6 my-3"><img src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-2 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-2 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-2 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-2 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-2 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-2 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/appscreen-fase-2-6.webp')}}" alt="App Screens" class="img-fluid"></div>
         </div>
     </div>
 </section>
@@ -505,7 +505,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/royal-relax-spa/key-features-img.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/key-features-img.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -535,7 +535,7 @@
 
             </div>
               <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 mike-mathis-design-phase-left-container">
-                <img src="{{asset('images/case-studies/royal-relax-spa/UIUX-IMAGE.webp')}}" class="img-fluid" alt="project description">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/UIUX-IMAGE.webp')}}" class="img-fluid" alt="project description">
             </div>
 
         </div>
@@ -549,7 +549,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/royal-relax-spa/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/royal-relax-spa/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

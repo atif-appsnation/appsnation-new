@@ -29,7 +29,7 @@
 			<div class="row">
 				<div class="col-lg-5">
 					<div class="image-block wow fadeIn">
-						<img src="images/services/iot-app-development/iot-app-development.webp" alt="image"
+						<img loading="lazy" src="images/services/iot-app-development/iot-app-development.webp" alt="image"
 							class="img-fluid no-shadow" width="100%" height="100%">
 					</div>
 				</div>
@@ -89,7 +89,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-consulting.svg" alt="IoT Consulting"
+							<img loading="lazy" src="images/services/iot-app-development/iot-consulting.svg" alt="IoT Consulting"
 								class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -105,7 +105,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/poc-and-prototype-development.svg"
+							<img loading="lazy" src="images/services/iot-app-development/poc-and-prototype-development.svg"
 								alt="PoC & Prototype Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -121,7 +121,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-firmware-development-and-integration.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-firmware-development-and-integration.svg"
 								alt="IoT Firmware Development & Integration" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -137,7 +137,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-mobile-and-web-apps.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-mobile-and-web-apps.svg"
 								alt="IoT Mobile & Web Apps" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -153,7 +153,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/ip-product-development-and-integration.svg"
+							<img loading="lazy" src="images/services/iot-app-development/ip-product-development-and-integration.svg"
 								alt="IP Product Development & Integration" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -169,7 +169,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-wearable-apps.svg" alt="IoT Wearable Apps"
+							<img loading="lazy" src="images/services/iot-app-development/iot-wearable-apps.svg" alt="IoT Wearable Apps"
 								class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -185,7 +185,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-architecture-development.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-architecture-development.svg"
 								alt="IoT Architecture Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -201,7 +201,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app home-services gradient-border h-100">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/backend-and-api-integration.svg"
+							<img loading="lazy" src="images/services/iot-app-development/backend-and-api-integration.svg"
 								alt="Backend & API Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -226,7 +226,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-data-analytics-and-data-visualization.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-data-analytics-and-data-visualization.svg"
 								alt="IoT Data Analytics & Data Visualization" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -242,7 +242,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-module-development.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-module-development.svg"
 								alt="IoT Module Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -258,7 +258,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-implementation-and-support.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-implementation-and-support.svg"
 								alt="IoT Implementation & Support" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -274,7 +274,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-architecture-for-connected-ecosystems.svg"
+							<img loading="lazy" src="images/services/iot-app-development/iot-architecture-for-connected-ecosystems.svg"
 								alt="Backend & API Development" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -290,7 +290,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/user-experience-for-iot.svg"
+							<img loading="lazy" src="images/services/iot-app-development/user-experience-for-iot.svg"
 								alt="User Experience for IoT" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -307,7 +307,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/testing-and-maintenance.svg"
+							<img loading="lazy" src="images/services/iot-app-development/testing-and-maintenance.svg"
 								alt="Testing & Maintenance" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -322,7 +322,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/industrial-iot-solutions.svg"
+							<img loading="lazy" src="images/services/iot-app-development/industrial-iot-solutions.svg"
 								alt="Industrial IoT Solutions" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -337,7 +337,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iomt-solutions.svg" alt="IoMT Solutions"
+							<img loading="lazy" src="images/services/iot-app-development/iomt-solutions.svg" alt="IoMT Solutions"
 								class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -352,7 +352,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/iot-cloud-solutions.svg" alt="IoT Cloud Solutions"
+							<img loading="lazy" src="images/services/iot-app-development/iot-cloud-solutions.svg" alt="IoT Cloud Solutions"
 								class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -367,7 +367,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/voice-enabled-technology-solutions.svg"
+							<img loading="lazy" src="images/services/iot-app-development/voice-enabled-technology-solutions.svg"
 								alt="Voice-Enabled Technology Solutions" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -382,7 +382,7 @@
 				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 					<div class="service-card-app gradient-border">
 						<div class="services-img-div">
-							<img src="images/services/iot-app-development/api-development-and-integration.svg"
+							<img loading="lazy" src="images/services/iot-app-development/api-development-and-integration.svg"
 								alt="API Development & Integration" class="img-fluid" width="100%" height="100%">
 						</div>
 						<div class="service-heading">
@@ -412,12 +412,12 @@
 
 								<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel"
 									aria-labelledby="{!!$items['id']!!}-tab">
-									<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+									<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 								</div>
 							@else
 								<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel"
 									aria-labelledby="{!!$items['id']!!}-tab">
-									<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+									<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 								</div>
 							@endif
 
@@ -741,31 +741,31 @@
 						<div id="connectivity" class="container tab-pane active">
 							<div class="row mt-3 d-flex justify-content-center">
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-									<img src="images/tech/4g-lte-logo.webp" alt="4G LTE Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/4g-lte-logo.webp" alt="4G LTE Logo" class="tech-logo">
 									<h6 class="pt-3">4G LTE</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-									<img src="images/tech/wifi-logo.webp" alt="WIFI Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/wifi-logo.webp" alt="WIFI Logo" class="tech-logo">
 									<h6 class="pt-3">WI-FI</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-									<img src="images/tech/bluetooth-logo.webp" alt="Bluetooth Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/bluetooth-logo.webp" alt="Bluetooth Logo" class="tech-logo">
 									<h6 class="pt-3">Bluetooth</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-									<img src="images/tech/nfc-logo.webp" alt="NFC Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/nfc-logo.webp" alt="NFC Logo" class="tech-logo">
 									<h6 class="pt-3">NFC</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/gsm-logo.webp" alt="GSM Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/gsm-logo.webp" alt="GSM Logo" class="tech-logo">
 									<h6 class="pt-3">GSM</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/ethernet-logo.webp" alt="Ethernet Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/ethernet-logo.webp" alt="Ethernet Logo" class="tech-logo">
 									<h6 class="pt-3">Ethernet</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/iot-gateway.webp" alt="IoT Gateway Logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/iot-gateway.webp" alt="IoT Gateway Logo" class="tech-logo">
 									<h6 class="pt-3">IoT Gateway</h6>
 								</div>
 							</div>
@@ -774,35 +774,35 @@
 							<br>
 							<div class="row mt-3 d-flex justify-content-center">
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-									<img src="images/tech/raspberry-pi-logo.webp" alt="angular-js-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/raspberry-pi-logo.webp" alt="angular-js-logo" class="tech-logo">
 									<h6 class="pt-3">Raspberry PI</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 text-center fadeInUp">
-									<img src="images/tech/react-native-logo.webp" alt="react-js-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/react-native-logo.webp" alt="react-js-logo" class="tech-logo">
 									<h6 class="pt-3">Arduino</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-									<img src="images/tech/type-script-logo.webp" alt="type-script-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/type-script-logo.webp" alt="type-script-logo" class="tech-logo">
 									<h6 class="pt-3">Beacons</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div text-center fadeInUp">
-									<img src="images/tech/vue-js-logo.webp" alt="vue-js-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/vue-js-logo.webp" alt="vue-js-logo" class="tech-logo">
 									<h6 class="pt-3">NodeMCU</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo">
 									<h6 class="pt-3">KNX</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/html-logo.webp" alt="html5-logo" class="tech-logo">
 									<h6 class="pt-3">Crestron</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
 									<h6 class="pt-3">Microcontrollers</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-3 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
 									<h6 class="pt-3">Miniature Boards</h6>
 								</div>
 							</div>
@@ -811,59 +811,59 @@
 							<br>
 							<div class="row mt-3 justify-content-center">
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-									<img src="images/tech/mangodb-logo.webp" alt="mangodb-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/mangodb-logo.webp" alt="mangodb-logo" class="tech-logo">
 									<h6 class="pt-3">MQTT</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center fadeInUp">
-									<img src="images/tech/mysql-logo.webp" alt="mysql-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/mysql-logo.webp" alt="mysql-logo" class="tech-logo">
 									<h6 class="pt-3">Modbus</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-									<img src="images/tech/mssql-logo.webp" alt="mssql-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/mssql-logo.webp" alt="mssql-logo" class="tech-logo">
 									<h6 class="pt-3">SNMP</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div text-center fadeInUp">
-									<img src="images/tech/firebase-logo.webp" alt="firebase-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/firebase-logo.webp" alt="firebase-logo" class="tech-logo">
 									<h6 class="pt-3">AMQP</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-									<img src="images/tech/dynamodb-logo.webp" alt="dynamodb-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/dynamodb-logo.webp" alt="dynamodb-logo" class="tech-logo">
 									<h6 class="pt-3">HTTP,HTTPS</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-0 text-center fadeInUp">
-									<img src="images/tech/redis-logo.webp" alt="redis-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/redis-logo.webp" alt="redis-logo" class="tech-logo">
 									<h6 class="pt-3">Z-Wave</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
 									<h6 class="pt-3">ZigBee</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
 									<h6 class="pt-3">LoRAWAN</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
 									<h6 class="pt-3">iBeacon</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
 									<h6 class="pt-3">TCP & UDP</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
 									<h6 class="pt-3">CoAp</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
 									<h6 class="pt-3">BLE</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/ionic-logo.webp" alt="ionic-logo" class="tech-logo">
 									<h6 class="pt-3">Cellular 2G,3G,4G,5G</h6>
 								</div>
 								<div class="col-6 col-sm-4 col-md-3 col-lg-2 tech-div mt-md-4 mt-lg-4 text-center fadeInUp">
-									<img src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
+									<img loading="lazy" src="images/tech/swift-logo.webp" alt="swift-logo" class="tech-logo">
 									<h6 class="pt-3">UDS</h6>
 								</div>
 							</div>
@@ -926,7 +926,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="uploads/{{$item['image']}}" class="award-img" width="auto"
+														<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto"
 															height="auto">
 														<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 													</div>
@@ -940,7 +940,7 @@
 										<div class="item">
 											<div class="card">
 												<div class="card-body">
-													<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+													<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 													<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 												</div>
 											</div>
@@ -955,7 +955,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="uploads/{{$item['image']}}" class="award-img" width="auto"
+														<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto"
 															height="auto">
 														<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 													</div>
@@ -968,7 +968,7 @@
 										<div class="item">
 											<div class="card">
 												<div class="card-body">
-													<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+													<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 													<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 												</div>
 											</div>
@@ -1039,6 +1039,7 @@
 
 								<!-- YouTube Video -->
 								<iframe id="player-{{$key}}" class="youtube-player testimonial-video"
+								loading="lazy"
 									src="{{$item['comments']}}" title="Client Testimonial" frameborder="0"
 									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 									referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
@@ -1076,9 +1077,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-										<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch"
+										<img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch"
 											width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch
 										</p>
@@ -1090,9 +1091,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-										<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark"
+										<img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark"
 											width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 									</a>
@@ -1103,9 +1104,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-										<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto"
 											alt="DesignRush" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
 											DesignRush</p>
@@ -1117,9 +1118,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-										<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto"
 											alt="GoodFirms" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms
 										</p>
@@ -1131,9 +1132,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-										<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto"
 											alt="Trustpilot" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
 											Trustpilot</p>
@@ -1145,9 +1146,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-										<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto"
 											alt="Sortlist" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist
 										</p>
@@ -1159,9 +1160,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://upcity.com/profiles/appsnation" target="_blank">
-										<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity"
+										<img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity"
 											width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity
 										</p>
@@ -1173,9 +1174,9 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-										<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto"
+										<img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto"
 											alt="SiteJabber" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star"
 											width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by
 											SiteJabber</p>

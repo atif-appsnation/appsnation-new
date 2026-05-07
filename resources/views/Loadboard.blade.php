@@ -17,7 +17,7 @@
             <div class="col-lg-12 my-lg-auto  ">
                 <div class="bread-titlev2 mt-4">
                     <div class="logo">
-                        <img src="{{asset('images/case-studies/Load-board/logo.webp')}}" class="img-fluid " alt="" srcset="">
+                        <img loading="lazy" src="{{asset('images/case-studies/Load-board/logo.webp')}}" class="img-fluid " alt="" srcset="">
                     </div>
                     <h1>Loadboard — Logistics. Smarter. Faster</h1>
                     <p class="pt-3">Loadboard is a modern mobile and web-based platform built to simplify freight booking, real-time tracking, and load management. Designed for logistics teams, dispatchers, carriers, and drivers, the system centralizes operations into one unified experience
@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="load-board-hero-img">
-                    <img src="{{asset('images/case-studies/Load-board/hero-img.webp')}}" class="img-fluid " alt=" Load-board">
+                    <img loading="lazy" src="{{asset('images/case-studies/Load-board/hero-img.webp')}}" class="img-fluid " alt=" Load-board">
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 load-board-project-overview-img">
-                <img src="{{asset('images/case-studies/Load-board/project-overview-img.webp')}}" class="img-fluid" alt="royal relax project Description">
+                <img loading="lazy" src="{{asset('images/case-studies/Load-board/project-overview-img.webp')}}" class="img-fluid" alt="royal relax project Description">
             </div>
         </div>
     </div>
@@ -75,7 +75,7 @@
         <div class="row align-items-center text-center text-md-start">
 
             <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 load-board-problem-challenges-img">
-                <img src="{{asset('images/case-studies/Load-board/problem-challenges-img.webp')}}" class="img-fluid" alt="royal relax project Description">
+                <img loading="lazy" src="{{asset('images/case-studies/Load-board/problem-challenges-img.webp')}}" class="img-fluid" alt="royal relax project Description">
             </div>
             <div class="col-12 col-md-12 col-lg-6 mt-md-4 ">
                 <div class="load-board-problem-challenges-contant">
@@ -158,31 +158,31 @@
         <div class="row g-4 justify-content-center">
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="load-board-tech-card text-center">
-                    <img src="{{asset('images/case-studies/Load-board/flutter.webp')}}" alt="React Native">
+                    <img loading="lazy" src="{{asset('images/case-studies/Load-board/flutter.webp')}}" alt="React Native">
                     <p>Flutter</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="load-board-tech-card text-center">
-                    <img src="{{asset('images/case-studies/Load-board/react-native.webp')}}" alt="Node.js">
+                    <img loading="lazy" src="{{asset('images/case-studies/Load-board/react-native.webp')}}" alt="Node.js">
                     <p>React Native</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="load-board-tech-card text-center">
-                    <img src="{{asset('images/case-studies/Load-board/NestJs.webp')}}" alt="MongoDB">
+                    <img loading="lazy" src="{{asset('images/case-studies/Load-board/NestJs.webp')}}" alt="MongoDB">
                     <p>NestJS</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="load-board-tech-card text-center">
-                    <img src="{{asset('images/case-studies/Load-board/MongoDB.webp')}}" alt="AWS">
+                    <img loading="lazy" src="{{asset('images/case-studies/Load-board/MongoDB.webp')}}" alt="AWS">
                     <p>MongoDB</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2  ">
                 <div class="load-board-tech-card text-center">
-                    <img src="{{asset('images/case-studies/Load-board/cloud-services.webp   ')}}" alt="payment">
+                    <img loading="lazy" src="{{asset('images/case-studies/Load-board/cloud-services.webp   ')}}" alt="payment">
                     <p>Cloud Services</p>
                 </div>
             </div>
@@ -276,7 +276,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/Load-board/avatar1.webp')}}" alt="Avatar" class="img-fluid">
+                            <img loading="lazy" src="{{asset('images/case-studies/Load-board/avatar1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>Lauren Mitchell</h4>
                             <p>Logistics Coordinator</p>
                         </div>
@@ -322,7 +322,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/Load-board/avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                            <img loading="lazy" src="{{asset('images/case-studies/Load-board/avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>Jason Carter</h4>
                             <p>Independent Long-Haul Driver</p>
                         </div>
@@ -375,14 +375,14 @@
             <h2 class="my-3 text-center">Carrier Module Screen</h2>
         </div>
         <div class="row">
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/carrier-module-screen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/carrier-module-screen8.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -396,10 +396,10 @@
             <h2 class="my-3 text-center">Brooker Module</h2>
         </div>
         <div class="row">
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/brooker-module1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/brooker-module2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/brooker-module3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-6 col-12 my-3"><img src="{{asset('images/case-studies/Load-board/brooker-module4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/brooker-module1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/brooker-module2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/brooker-module3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-6 col-12 my-3"><img loading="lazy" src="{{asset('images/case-studies/Load-board/brooker-module4.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -414,14 +414,14 @@
         </div>
 
         <div class="text-center mb-3">
-            <img src="{{asset('images/case-studies/boujee-beachin/star.webp')}}" alt="Rating" class="star">
+            <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/star.webp')}}" alt="Rating" class="star">
         </div>
 
         <div class="row justify-content-center g-3">
             <div class="col-md-6 col-12">
                 <div class="testimonial-card text-center p-4">
                     <div class="testimonials-img-section mb-3">
-                        <img  src="{{asset('images/case-studies/Load-board/avatar2.webp')}}" alt="Liked" class="rounded-circle img-fluid">
+                        <img loading="lazy"  src="{{asset('images/case-studies/Load-board/avatar2.webp')}}" alt="Liked" class="rounded-circle img-fluid">
                     </div>
                     <p class="testimonial-text text-center">
                         I didn’t need to call  anymore — I knew my next load and where to go.    
@@ -432,7 +432,7 @@
             <div class="col-md-6 col-12">
                 <div class="testimonial-card text-center p-4">
                     <div class="testimonials-img-section mb-3">
-                        <img  src="{{asset('images/case-studies/Load-board/avatar1.webp')}}" alt="Liked" class="rounded-circle img-fluid">
+                        <img loading="lazy"  src="{{asset('images/case-studies/Load-board/avatar1.webp')}}" alt="Liked" class="rounded-circle img-fluid">
                     </div>
                     <p class="testimonial-text text-center">
                       The dashboard reduced our manual work by almost half.
@@ -453,7 +453,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/Load-board/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/Load-board/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

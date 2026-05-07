@@ -40,7 +40,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 distribution-map">
-				<img src="images/contact-us/map-bg.png" class="d-block mx-auto img-fluid" alt="">
+				<img loading="lazy" src="images/contact-us/map-bg.png" class="d-block mx-auto img-fluid" alt="">
 				<button class="map-point map-button-first">
 					<i class="fa-solid fa-location-dot"></i>
 					<div class="content">
@@ -66,7 +66,7 @@
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15153.144248123956!2d144.966442!3d-37.8107359!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad643013f466353%3A0xfe6b56f1b8b557e5!2sAppsNation%20Melbourne%2C%20Victoria%2C%20Australia%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171679284!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
-							<h2  onclick="window.open('https://maps.app.goo.gl/FvvHHDP1gKUH1w4QA', '_blank')">AppsNation – Melbourne, Victoria, Australia</h2>
+							<h2 onclick="window.open('https://maps.app.goo.gl/FvvHHDP1gKUH1w4QA', '_blank')">AppsNation – Melbourne, Victoria, Australia</h2>
 							<p>Delivering innovative mobile, gaming, and enterprise technologies for businesses in Melbourne.</p>
 						</div>
 					</div>
@@ -77,7 +77,7 @@
 						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13878.542938178958!2d-79.3817439!3d43.6486362!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b359c37db700f%3A0xc5b596e5fa6b45b9!2sAppsNation%20Toronto%2C%20Canada%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772171740700!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
 							<h2 onclick="window.open('https://maps.app.goo.gl/ommbXCEzZHravCBaA', '_blank')">AppsNation – Toronto, Canada</h2>
-							<p>Delivering next-gen mobile apps, games, and enterprise systems for growing brands in Toronto.	</p>
+							<p>Delivering next-gen mobile apps, games, and enterprise systems for growing brands in Toronto. </p>
 						</div>
 					</div>
 				</button>
@@ -126,7 +126,7 @@
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2983.6686596909567!2d-0.10854269999999999!3d51.52020170000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761bdfe7610d2b%3A0x69c74dab4d1016bf!2sAppsNation%20London%20UK%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772172511803!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
-							<h2  onclick="window.open('https://maps.app.goo.gl/M7Y2gLTxS11AC3rR9', '_blank')">AppsNation – London UK</h2>
+							<h2 onclick="window.open('https://maps.app.goo.gl/M7Y2gLTxS11AC3rR9', '_blank')">AppsNation – London UK</h2>
 							<p>Creating innovative apps, games, and enterprise platforms for global brands from London.</p>
 						</div>
 					</div>
@@ -136,8 +136,8 @@
 					<div class="content">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4350.111723759623!2d67.07638947596762!3d24.877692444566698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33fa63bb04945%3A0xb8d931eabee961a0!2sAppsNation%20Karachi%20%7C%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%7C%20Web%20%26%20Software%20Development%20Company)!5e1!3m2!1sen!2s!4v1772518664410!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						<div class="info">
-							<h2  onclick="window.open('https://maps.app.goo.gl/ix1FuxjXWYjeweXm6', '_blank')">AppsNation – Karachi, Pakistan</h2>
-							<p>Powering digital success in Karachi with scalable apps, interactive games, and enterprise platforms.	</p>
+							<h2 onclick="window.open('https://maps.app.goo.gl/ix1FuxjXWYjeweXm6', '_blank')">AppsNation – Karachi, Pakistan</h2>
+							<p>Powering digital success in Karachi with scalable apps, interactive games, and enterprise platforms. </p>
 						</div>
 					</div>
 				</button>
@@ -160,14 +160,14 @@
 				</a>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/why-choose/why-choose.webp" class="img-fluid mt-4" width="100%" height="100%">
+				<img loading="lazy" src="images/why-choose/why-choose.webp" class="img-fluid mt-4" width="100%" height="100%">
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability">
+						<img loading="lazy" src="images/why-choose/team-scalibility.webp" class="img-fluid my-3" width="100%" height="100%" alt="Team Scalability">
 						<h3>Team Scalability</h3>
 						<p class="mb-0">Boost your team with domain specialists whenever required.</p>
 					</div>
@@ -176,7 +176,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-md-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market">
+						<img loading="lazy" src="images/why-choose/quick-time-to-market.webp" class="img-fluid my-3" width="100%" height="100%" alt="Quick Time to Market">
 						<h3>Quick Time to Market</h3>
 						<p class="mb-0">Streamlined delivery is intended to achieve efficiency on time.</p>
 					</div>
@@ -185,7 +185,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving">
+						<img loading="lazy" src="images/why-choose/cost-saving.webp" class="img-fluid my-3" width="100%" height="100%" alt="Cost Saving">
 						<h3>Cost Saving</h3>
 						<p class="mb-0">Get experienced and competent developers at a reasonable price.</p>
 					</div>
@@ -194,7 +194,7 @@
 			<div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
 				<div class="card h-100">
 					<div class="card-body">
-						<img src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="100%" alt="Skilled Resources">
+						<img loading="lazy" src="images/why-choose/skilled-resources.webp" class="img-fluid my-3" width="100%" height="100%" alt="Skilled Resources">
 						<h3>Skilled Resources</h3>
 						<p class="mb-0">Get access to skilled mobile gaming experts with domain knowledge.</p>
 					</div>
@@ -210,7 +210,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 v-center">
-				<img src="images/why-choose/why-choose.webp" width="100%" height="100%" class="img-fluid">
+				 <img loading="lazy" src="images/why-choose/why-choose.webp" width="100%" height="100%" class="img-fluid">
 			</div>
 			<div class="col-lg-6 v-center">
 				<div class="contact-details">
@@ -260,5 +260,5 @@
 	</div>
 </section> -->
 <!--End Enquire Form-->
- 
+
 @endsection

@@ -16,7 +16,7 @@
 
             <div class="col-lg-12 my-lg-auto">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/bomb-defuse-app/logo.webp')}}" class="logo" alt="bomb-defuse-app logo">
+                     <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/logo.webp')}}" class="logo" alt="bomb-defuse-app logo">
                     <h1>
                         Every second counts!
                     </h1>
@@ -24,7 +24,7 @@
                      <b>Can you defuse the bomb before time runs out?</b> 
                     </p>
                     <p>Test your speed and logic – start playing now!</p>
-                        <img src="{{asset('images/case-studies/bomb-defuse-app/appstore.webp')}}" class="logo" alt="appstore logo">
+                         <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/appstore.webp')}}" class="logo" alt="appstore logo">
                 </div>
             </div>
  
@@ -53,7 +53,7 @@
 
             </div>
               <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 introduction-bomb-squad-img">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/bomb-squad.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/bomb-squad.webp')}}" class="img-fluid" alt="project description">
             </div>
 
         </div>
@@ -68,7 +68,7 @@
         <div class="row align-items-center text-center text-md-start">
         
               <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 project-idea-bomb-defuse-img">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Project-Idea.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Project-Idea.webp')}}" class="img-fluid" alt="project description">
             </div>
               
             <div class="col-12 col-md-12 col-lg-6  ">
@@ -96,13 +96,13 @@
 					 </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Ranking-img.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Ranking-img.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Ranking-img-1.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Ranking-img-1.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Ranking-img-2.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Ranking-img-2.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
         </div>
     </div>
@@ -118,13 +118,13 @@
 					 </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Character1.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Character1.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Character2.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Character2.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
             <div class="col-md-4">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Character3.webp')}}" class="img-fluid" alt="Ranking-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Character3.webp')}}" class="img-fluid" alt="Ranking-img">
             </div>
         </div>
     </div>
@@ -141,7 +141,7 @@
         <h2>Elements</h2>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/element.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/element.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>
@@ -156,7 +156,7 @@
         
               <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-0 ">
                   <h2 class="bomb-defuse-title"><span>Achievements</span></h2>
-                <img src="{{asset('images/case-studies/bomb-defuse-app/Achievements.webp')}}" class="img-fluid" alt="project description">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/Achievements.webp')}}" class="img-fluid" alt="project description">
             </div>
               
             <div class="col-12 col-md-12 col-lg-6  ">
@@ -193,7 +193,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/bomb-defuse-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/bomb-defuse-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

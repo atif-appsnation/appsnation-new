@@ -12,7 +12,7 @@
     <div class="container wow fadeIn" data-wow-delay="0.2s">
         <div class="row">
             <div class="col-lg-6 my-lg-auto all-traders-hero-content ">
-                <img src="{{asset('images/case-studies/all-traders-app/logo.webp')}}" class="logo" alt="Boujee Beachin App Logo">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/logo.webp')}}" class="logo" alt="Boujee Beachin App Logo">
                 <div class="bread-titlev2 mt-4">
                     <h1>All Traders <br>
                         Smarter Investing. <br>
@@ -24,7 +24,7 @@
             <div class="col-lg-6 mt-5 mt-lg-0 hero-img">
 
 
-                <img src="{{asset('images/case-studies/all-traders-app/hero-img.webp')}}" class="img-fluid" alt="Boujee Beachin App" width="100%" height="100%">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/hero-img.webp')}}" class="img-fluid" alt="Boujee Beachin App" width="100%" height="100%">
 
             </div>
         </div>
@@ -56,7 +56,7 @@
                 </div>
             </div>
             <div class="col-lg-6 client-overview-img">
-                <img src="{{asset('images/case-studies/all-traders-app/client-overview-img.webp')}}" alt="Boujee Beachin Problem Statement">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/client-overview-img.webp')}}" alt="Boujee Beachin Problem Statement">
             </div>
         </div>
     </div>
@@ -71,7 +71,7 @@
             <!-- Image Column -->
             <div class="col-lg-6">
                 <div class="all-traders-problem-img text-center">
-                    <img
+                     <img loading="lazy"
                         src="{{ asset('images/case-studies/all-traders-app/the-problem-img1.webp') }}"
                         alt="All Traders Problem Statement"
                         class="img-fluid">
@@ -199,7 +199,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/all-traders-app/avatar1.webp')}}" alt="Avatar" class="img-fluid">
+                             <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/avatar1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>Lauren Mitchell</h4>
                             <p>Full-Time Trader</p>
                         </div>
@@ -245,7 +245,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/all-traders-app/avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                             <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/avatar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>Emily Carter</h4>
                             <p>University Student</p>
                         </div>
@@ -311,22 +311,22 @@
 
         <div class="row g-3">
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/all-traders-app/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/wirefram1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/all-traders-app/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 2" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/wirefram2.webp')}}" alt="Boujee Beachin Wireframe 2" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/all-traders-app/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/wirefram3.webp')}}" alt="Boujee Beachin Wireframe 3" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/all-traders-app/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 4" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/wirefram4.webp')}}" alt="Boujee Beachin Wireframe 4" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/all-traders-app/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 5" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/wirefram5.webp')}}" alt="Boujee Beachin Wireframe 5" class="img-fluid rounded">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/all-traders-app/wirefram6.webp')}}" alt="Boujee Beachin Wireframe 6" class="img-fluid rounded">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/wirefram6.webp')}}" alt="Boujee Beachin Wireframe 6" class="img-fluid rounded">
             </div>
         </div>
     </div>
@@ -345,7 +345,7 @@
         <div class="row">
             <div class="col-lg-4 p-4">
                 <div class="challenges-turned-box">
-                    <img src="{{asset('images/case-studies/all-traders-app/challenge-img1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
+                     <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/challenge-img1.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
                     <div class="challenges-turned-contant">
                         <div class="challenges-turned-tital">
                             <span>01</span>
@@ -357,7 +357,7 @@
             </div>
             <div class="col-lg-4 p-4">
                 <div class="challenges-turned-box">
-                    <img src="{{asset('images/case-studies/all-traders-app/challenge-img2.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
+                     <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/challenge-img2.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
                     <div class="challenges-turned-contant">
                         <div class="challenges-turned-tital">
                             <span>02</span>
@@ -369,7 +369,7 @@
             </div>
             <div class="col-lg-4 p-4 ">
                 <div class="challenges-turned-box">
-                    <img src="{{asset('images/case-studies/all-traders-app/challenge-img3.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
+                     <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/challenge-img3.webp')}}" alt="Boujee Beachin Wireframe 1" class="img-fluid rounded">
                     <div class="challenges-turned-contant">
                         <div class="challenges-turned-tital"> 
                             <span>03</span><h4>Guiding First-Time Investors</h4>
@@ -396,22 +396,22 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen13.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen14.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen15.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/all-traders-app/Appscreen16.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen13.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen14.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen15.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/Appscreen16.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -427,14 +427,14 @@
         </div>
 
         <div class="text-center mb-3">
-            <img src="{{asset('images/case-studies/boujee-beachin/star.webp')}}" alt="Rating" class="star">
+             <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/star.webp')}}" alt="Rating" class="star">
         </div>
 
         <div class="row justify-content-center g-3">
             <div class="col-md-6 col-12">
                 <div class="testimonial-card text-center p-4">
                     <div class="testimonials-img-section mb-3">
-                        <img src="{{asset('images/case-studies/all-traders-app/avatar2.webp')}}" alt="Liked" class="rounded-circle img-fluid">
+                         <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/avatar2.webp')}}" alt="Liked" class="rounded-circle img-fluid">
                     </div>
                     <p class="testimonial-text text-center">
                         It was my first time investing, and this app made me feel in control. </p>
@@ -444,7 +444,7 @@
             <div class="col-md-6 col-12">
                 <div class="testimonial-card text-center p-4">
                     <div class="testimonials-img-section mb-3">
-                        <img src="{{asset('images/case-studies/all-traders-app/avatar1.webp')}}" alt="Liked" class="rounded-circle img-fluid">
+                         <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/avatar1.webp')}}" alt="Liked" class="rounded-circle img-fluid">
                     </div>
                     <p class="testimonial-text text-center">
                         Smooth design. I can place a trade in under 10 seconds. </p>
@@ -464,7 +464,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/all-traders-app/morkup.webp')}}" alt="" srcset="" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/all-traders-app/morkup.webp')}}" alt="" srcset="" class="img-fluid">
             </div>
         </div>
     </div>

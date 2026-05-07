@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/e-commerce-app-development/e-commerce-app-banner-img.webp" class="img-fluid" alt="E-Commerce App Development" width="100%" height="100%">
+				 <img loading="lazy" src="images/services/e-commerce-app-development/e-commerce-app-banner-img.webp" class="img-fluid" alt="E-Commerce App Development" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -31,7 +31,7 @@
 		<div class="row">
 			<div class="col-lg-5 wow fadeIn">
 				<div class="image-block">
-					<img src="images/services/e-commerce-app-development/e-commerce-app-development.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/e-commerce-app-development.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -84,7 +84,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/custom-e-commerce-development.svg" alt="Custom E-Commerce Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/custom-e-commerce-development.svg" alt="Custom E-Commerce Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Custom E-Commerce Development</h4>
@@ -98,7 +98,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/m-commerce-services.svg" alt="M-commerce Services" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/m-commerce-services.svg" alt="M-commerce Services" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>M-commerce Services</h4>
@@ -112,7 +112,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/development-of-multi-store-e-commerce-platform.svg" alt="Development of Multi Store E-Commerce Platform" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/development-of-multi-store-e-commerce-platform.svg" alt="Development of Multi Store E-Commerce Platform" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Development of Multi Store E-Commerce Platform</h4>
@@ -126,7 +126,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 mt- wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/custom-e-commerce-design-and-development.svg" alt="Custom E-Commerce Design and Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/custom-e-commerce-design-and-development.svg" alt="Custom E-Commerce Design and Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Custom E-Commerce Design and Development</h4>
@@ -140,7 +140,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/magento-e-commerce-development.svg" alt="Magento E-Commerce Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/magento-e-commerce-development.svg" alt="Magento E-Commerce Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Magento E-Commerce Development</h4>
@@ -154,7 +154,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/saas-e-commerce-solutions.svg" alt="SAAS E-Commerce Solutions" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/saas-e-commerce-solutions.svg" alt="SAAS E-Commerce Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>SAAS E-Commerce Solutions</h4>
@@ -168,7 +168,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/modules-and-plugins-development.svg" alt="Modules and Plugins Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/modules-and-plugins-development.svg" alt="Modules and Plugins Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Modules and Plugins Development</h4>
@@ -182,7 +182,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/data-analytics.svg" alt="Data Analytics" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/data-analytics.svg" alt="Data Analytics" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Data Analytics</h4>
@@ -205,7 +205,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/maintenance-and-migration.svg" alt="Maintenance & Migration" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/maintenance-and-migration.svg" alt="Maintenance & Migration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Maintenance & Migration</h3>
@@ -219,7 +219,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/e-commerce-integration.svg" alt="E-commerce Integrations" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/e-commerce-integration.svg" alt="E-commerce Integrations" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>E-commerce Integrations</h3>
@@ -232,7 +232,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/e-commerce-recommendation-system.svg" alt="E-commerce Recommendation System" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/e-commerce-recommendation-system.svg" alt="E-commerce Recommendation System" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>E-commerce Recommendation System</h3>
@@ -246,7 +246,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/marketplace-development.svg" alt="Marketplace Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/marketplace-development.svg" alt="Marketplace Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Marketplace Development</h3>
@@ -260,7 +260,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/shopping-cart-development.svg" alt="Shopping Cart Developments" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/shopping-cart-development.svg" alt="Shopping Cart Developments" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Shopping Cart Development</h3>
@@ -274,7 +274,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/online-store-customization.svg" alt="Online Store Customization" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/online-store-customization.svg" alt="Online Store Customization" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Online Store Customization</h3>
@@ -288,7 +288,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/payment-gateway-integration.svg" alt="Payment Gateway Integration" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/payment-gateway-integration.svg" alt="Payment Gateway Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Payment Gateway Integration</h3>
@@ -302,7 +302,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/application-maintenance-and-support.svg" alt="Application Maintenance and Support" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/application-maintenance-and-support.svg" alt="Application Maintenance and Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Application Maintenance and Support</h3>
@@ -316,7 +316,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/customize-and-optimize-existing-e-commerce-applications.svg" alt="Customize and Optimize Existing E-Commerce Applications" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/customize-and-optimize-existing-e-commerce-applications.svg" alt="Customize and Optimize Existing E-Commerce Applications" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>E-Commerce Optimization & Customization</h3>
@@ -372,7 +372,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+									 <img loading="lazy" src="images/services/e-commerce-app-development/b2b.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -387,7 +387,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+									 <img loading="lazy" src="images/services/e-commerce-app-development/b2c.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -402,7 +402,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+									 <img loading="lazy" src="images/services/e-commerce-app-development/c2c.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -417,7 +417,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+									 <img loading="lazy" src="images/services/e-commerce-app-development/c2b.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1  my-auto">
@@ -432,7 +432,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+									 <img loading="lazy" src="images/services/e-commerce-app-development/b2a.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -447,7 +447,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="image-block">
-									<img src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+									 <img loading="lazy" src="images/services/e-commerce-app-development/c2a.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 								</div>
 							</div>
 							<div class="col-lg-6 block-1 my-auto">
@@ -481,7 +481,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/avoid-storing-sensitive-data.svg" alt="Avoid Storing Sensitive Data" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/avoid-storing-sensitive-data.svg" alt="Avoid Storing Sensitive Data" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Avoid Storing Sensitive Data</h3>
@@ -495,7 +495,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/integrate-trusted-payment-processors.svg" alt="Integrate Trusted Payment Processors" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/integrate-trusted-payment-processors.svg" alt="Integrate Trusted Payment Processors" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Integrate Trusted Payment Processors</h3>
@@ -509,7 +509,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/two-factor-authentication.svg" alt="Two-Factor Authentication" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/two-factor-authentication.svg" alt="Two-Factor Authentication" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Two-Factor Authentication</h3>
@@ -523,7 +523,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/updated-platform-frameworks-and-libraries.svg" alt="Updated Platform, Frameworks, & Libraries" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/updated-platform-frameworks-and-libraries.svg" alt="Updated Platform, Frameworks, & Libraries" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Updated Platform, Frameworks, & Libraries</h3>
@@ -555,7 +555,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/smart-search.svg" alt="Smart Search" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/smart-search.svg" alt="Smart Search" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Advanced Search & Filtering
@@ -569,7 +569,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/instant-support.svg" alt="Instant Support" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/instant-support.svg" alt="Instant Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Instant Support</h3>
@@ -583,7 +583,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/multiple-payment-options.svg" alt="Multiple Payment Options" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/multiple-payment-options.svg" alt="Multiple Payment Options" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Multiple Payment Options</h3>
@@ -597,7 +597,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/social-media-integration.svg" alt="Social Media Integration" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/social-media-integration.svg" alt="Social Media Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Social Media Integration</h3>
@@ -611,7 +611,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/quick-checkout.svg" alt="Quick Checkout" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/quick-checkout.svg" alt="Quick Checkout" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Quick Checkout</h3>
@@ -625,7 +625,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/e-wallet.svg" alt="E-Wallet" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/e-wallet.svg" alt="E-Wallet" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>E-Wallet Integration
@@ -640,7 +640,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/chatbots.svg" alt="Chatbots" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/chatbots.svg" alt="Chatbots" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Chatbots Integration
@@ -655,7 +655,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/pos-integration.svg" alt="POS Integration" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/pos-integration.svg" alt="POS Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>POS Integration</h3>
@@ -669,7 +669,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card gradient-border">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/erp-crm-integration.svg" alt="ERP/CRM Integration" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/erp-crm-integration.svg" alt="ERP/CRM Integration" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>ERP & CRM Integration</h3>
@@ -695,11 +695,11 @@
 					@if($k==0)
 
 					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						 <img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
 					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						 <img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -794,7 +794,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/scalable-solutions.svg" alt="Scalable Solutions" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/scalable-solutions.svg" alt="Scalable Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Scalable Solutions</h3>
@@ -808,7 +808,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/mobile-friendly.svg" alt="Mobile Friendly" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/mobile-friendly.svg" alt="Mobile Friendly" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Mobile Friendly</h3>
@@ -822,7 +822,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/superior-ui-ux.svg" alt="Superior UI/UX" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/superior-ui-ux.svg" alt="Superior UI/UX" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Superior UI/UX</h3>
@@ -836,7 +836,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3   wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/quick-deployment.svg" alt="Quick Deployment" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/quick-deployment.svg" alt="Quick Deployment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Quick Deployment</h3>
@@ -850,7 +850,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/specialized-in-e-commerce.svg" alt="Specialized in E-Commerce" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/specialized-in-e-commerce.svg" alt="Specialized in E-Commerce" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Specialized in E-Commerce</h3>
@@ -864,7 +864,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/innovative-designs.svg" alt="Innovative Designs" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/innovative-designs.svg" alt="Innovative Designs" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Innovative Designs</h3>
@@ -878,7 +878,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/on-time-delivery.svg" alt="On-time Delivery" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/on-time-delivery.svg" alt="On-time Delivery" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>On-time Delivery</h3>
@@ -892,7 +892,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/e-commerce-app-development/dedicated-team.svg" alt="Dedicated Team" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/e-commerce-app-development/dedicated-team.svg" alt="Dedicated Team" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Dedicated Team</h3>
@@ -909,94 +909,7 @@
 <!--End Why Choose -->
 
 <!--Start Process-->
-<!-- <section class="process-block bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>E-Commerce App</span> Development Process</h2>
-					</div>
-					<p>AppsNation offers clients an easy and agile android app development process with a result-driven ideology.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-3">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">01</p>
-						<h3 class="title">Consultancy</h3>
-						<p class="description">With the best consultation by our e-commerce app developers, you will get the best services from our experts.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-md-0">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">02</p>
-						<h3 class="title">Research and Analyze your Requirement</h3>
-						<p class="description">We start by reviewing and analyzing our client's requirements. Our ecommerce mobile app development team assists you in getting the right e-commerce app for your business by measuring the business area and taking into account your needs.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">03</p>
-						<h3 class="title">Creating a Wireframe</h3>
-						<p class="description">Next, our ecommerce mobile app development team compiles all of the information and creates a draught for each page and panel, which we show to our customers for feedback.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">04</p>
-						<h3 class="title">Designing and Developing the Application</h3>
-						<p class="description">Following that, our UI designers give the accepted draft a framework to work with, and our coding engineers code the app to run on all Android and iOS platforms.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">05</p>
-						<h3 class="title">Choosing Best Techniques</h3>
-						<p class="description">We have the top-notch techniques and robust methods to integrate the best features in your e-commerce app business.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">06</p>
-						<h3 class="title">Testing and Review</h3>
-						<p class="description">If any flaws or malfunctions are discovered, they are fixed, as well as the performance rate, and other qualifying variables are taken into account.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">07</p>
-						<h3 class="title">Deploying</h3>
-						<p class="description">We will publish the app to live once it meets the quality standards and security requirements of the App Store and Playstore.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 mt-3">
-				<div class="card timeline wow fadeIn h-100">
-					<div class="card-body">
-						<p class="timeline-year">08</p>
-						<h3 class="title">Maintenance</h3>
-						<p class="description">We offer the excellent solution of maintenance in your e-commerce app development procedures and facilitate you with our best options and services.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
+ 
 <section class="py-5 bg-light">
 	<div class="container">
 		<div class="row">
@@ -1014,7 +927,7 @@
 			<!-- Repeat Card -->
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="modern-card">
-					<img src="images/services/e-commerce-app-development/Consultancy.jpg" alt="Consultancy" class="w-100 h-100">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/Consultancy.jpg" alt="Consultancy" class="w-100 h-100">
 					<div class="overlay">
 						<h4>01. Consultancy</h4>
 						<p>We provide expert consultation to understand your business goals and recommend the best eCommerce app solutions for optimal results.
@@ -1025,7 +938,7 @@
 
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="modern-card">
-					<img src="images/services/e-commerce-app-development/requirement-analysis.jpg" alt="requirement analysis" class="w-100 h-100">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/requirement-analysis.jpg" alt="requirement analysis" class="w-100 h-100">
 
 					<div class="overlay">
 						<h4>02. Requirement Analysis</h4>
@@ -1037,7 +950,7 @@
 
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="modern-card">
-					<img src="images/services/e-commerce-app-development/wireframing.jpg" alt="wireframing" class="w-100 h-100">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/wireframing.jpg" alt="wireframing" class="w-100 h-100">
 
 					<div class="overlay">
 						<h4>03. Wireframing</h4>
@@ -1049,7 +962,7 @@
 
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="modern-card">
-					<img src="images/services/e-commerce-app-development/design-and-development.jpg" alt="design and development" class="w-100 h-100">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/design-and-development.jpg" alt="design and development" class="w-100 h-100">
 
 					<div class="overlay">
 						<h4>04. Design & Development</h4>
@@ -1061,7 +974,7 @@
 
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="modern-card">
-					<img src="images/services/e-commerce-app-development/testing-and-review.jpg" alt="testing and review" class="w-100 h-100">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/testing-and-review.jpg" alt="testing and review" class="w-100 h-100">
 
 					<div class="overlay">
 						<h4>05. Testing & Review
@@ -1074,7 +987,7 @@
 
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="modern-card">
-					<img src="images/services/e-commerce-app-development/Deploying.jpg" alt="Deploying" class="w-100 h-100">
+					 <img loading="lazy" src="images/services/e-commerce-app-development/Deploying.jpg" alt="Deploying" class="w-100 h-100">
 
 					<div class="overlay">
 						<h4>06. Deployment</h4>
@@ -1110,7 +1023,7 @@
 					@if($k==0)
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
+							 <img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
 						</a>
 					</li>
 
@@ -1118,7 +1031,7 @@
 
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
+							 <img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
 						</a>
 					</li>
 					@endif
@@ -1131,7 +1044,7 @@
 					@if($k==0)
 					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
+							 <img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -1140,7 +1053,7 @@
 					@else
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
+							 <img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -1196,25 +1109,25 @@
 			<div class="row mt-5">
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 						<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 						<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 						<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 						<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 					</div>
 				</div>
@@ -1249,7 +1162,7 @@
 								<div class="item">
 									<div class="card">
 										<div class="card-body">
-											<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+											 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 											<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										</div>
 									</div>
@@ -1262,7 +1175,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									</div>
 								</div>
@@ -1277,7 +1190,7 @@
 								<div class="item">
 									<div class="card">
 										<div class="card-body">
-											<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+											 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 											<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										</div>
 									</div>
@@ -1289,7 +1202,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									</div>
 								</div>
@@ -1363,6 +1276,7 @@
 							<iframe
 								id="player-{{$key}}"
 								class="youtube-player testimonial-video"
+								loading="lazy"
 
 								src="{{$item['comments']}}"
 								title="Client Testimonial"
@@ -1405,8 +1319,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-										<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 									</a>
 								</div>
@@ -1416,8 +1330,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-										<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 									</a>
 								</div>
@@ -1427,8 +1341,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-										<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 									</a>
 								</div>
@@ -1438,8 +1352,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-										<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 									</a>
 								</div>
@@ -1449,8 +1363,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-										<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 									</a>
 								</div>
@@ -1460,8 +1374,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-										<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 									</a>
 								</div>
@@ -1471,8 +1385,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://upcity.com/profiles/appsnation" target="_blank">
-										<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 									</a>
 								</div>
@@ -1482,8 +1396,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-										<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 									</a>
 								</div>
@@ -1737,7 +1651,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="card h-100">
 					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+						 <img loading="lazy" src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
 					</a>
 					<div class="entry-blog-post dg-bg2">
 						<span class="bypost-">

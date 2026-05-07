@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/ios-app-development/ios-app-banner-img.webp" class="img-fluid" alt="iOS App Development" width="100%" height="100%">
+				<img loading="lazy" src="images/services/ios-app-development/ios-app-banner-img.webp" class="img-fluid" alt="iOS App Development" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -30,7 +30,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/ios-app-development/ios-app-development.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
+					<img loading="lazy" src="images/services/ios-app-development/ios-app-development.webp" alt="image" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -88,7 +88,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/ios-app-development-consultation.svg" alt="iOS App Development Consultation" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/ios-app-development-consultation.svg" alt="iOS App Development Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>iOS App Development Consultation</h3>
@@ -101,7 +101,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/ios-ui-ux-design.svg" alt="iOS UI/UX Design" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/ios-ui-ux-design.svg" alt="iOS UI/UX Design" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>iOS UI/UX Design</h3>
@@ -114,7 +114,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/custom-ios-application-development.svg" alt="Custom iOS Application Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/custom-ios-application-development.svg" alt="Custom iOS Application Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Custom iOS Application Development</h3>
@@ -127,7 +127,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/ios-software-testing.svg" alt="iOS Software Testing" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/ios-software-testing.svg" alt="iOS Software Testing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>iOS Software Testing</h3>
@@ -140,7 +140,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/multi-platform-deployment.svg" alt="Multi-platform Deployment" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/multi-platform-deployment.svg" alt="Multi-platform Deployment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Multi-platform Deployment</h3>
@@ -153,7 +153,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/native-iphone-app-development.svg" alt="Native iPhone App Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/native-iphone-app-development.svg" alt="Native iPhone App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Native iPhone App Development</h3>
@@ -166,7 +166,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/hybrid-iphone-app-development.svg" alt="Hybrid iPhone App Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/hybrid-iphone-app-development.svg" alt="Hybrid iPhone App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Hybrid iPhone App Development</h3>
@@ -179,7 +179,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/apple-watch-app-development.svg" alt="Apple Watch App Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/apple-watch-app-development.svg" alt="Apple Watch App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Apple Watch App Development</h3>
@@ -192,7 +192,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/ios-app-development/apple-tv-app-development.svg" alt="Apple TV App Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/ios-app-development/apple-tv-app-development.svg" alt="Apple TV App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Apple TV App Development</h3>
@@ -218,11 +218,11 @@
 					@if($k==0)
 
 					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
 					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -315,7 +315,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Free Mobile App Consultation</h3>
 					<p class="description">With AppsNation, you can consult your way to success for free.</p>
@@ -324,7 +324,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert iOS Developers" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert iOS Developers" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">50+ Expert iOS Developers</h3>
 					<p class="description">Unleash your true potential with best-in-class iOS developers across the globe.</p>
@@ -333,7 +333,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Flexible Hiring Models</h3>
 					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
@@ -342,7 +342,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
@@ -351,7 +351,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">100% Transparency</h3>
 					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
@@ -360,7 +360,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">3-Month Free Support After Delivery</h3>
 					<p class="description">We offer 3-month of free support after app launch to ensure the app's integrity.</p>
@@ -716,7 +716,7 @@
 					@if($k==0)
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
+							<img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 
@@ -724,7 +724,7 @@
 
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
+							<img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack">
 						</a>
 					</li>
 					@endif
@@ -737,7 +737,7 @@
 					@if($k==0)
 					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -746,7 +746,7 @@
 					@else
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
+							<img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 
 							<p class="mt-4">{{$items['content']}}</p>
@@ -803,25 +803,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					<img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					<img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					<img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					<img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -856,7 +856,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										<p class="text-center pt-2">{{$item['content']}}</p>
 									</div>
@@ -870,7 +870,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -885,7 +885,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									</div>
 								</div>
@@ -897,7 +897,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -970,6 +970,7 @@
 						<iframe
 							id="player-{{$key}}"
 							class="youtube-player testimonial-video"
+							loading="lazy"
 
 							src="{{$item['comments']}}"
 							title="Client Testimonial"
@@ -1012,8 +1013,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -1023,8 +1024,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -1034,8 +1035,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -1045,8 +1046,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -1056,8 +1057,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -1067,8 +1068,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -1078,8 +1079,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -1089,8 +1090,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>
@@ -1315,7 +1316,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="card h-100">
 					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+						<img loading="lazy" src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
 					</a>
 					<div class="entry-blog-post dg-bg2">
 						<span class="bypost-">

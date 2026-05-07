@@ -35,7 +35,7 @@
 				<p class="pt-2">When you can automate the process via a mobile app, paperwork becomes much more manageable. The mobile application allows for electronic databases, documentation on tablets, and data transmission over the internet. Furthermore, a firm may have a fleet of vehicles. And the more automobiles there are, the more difficult it is to keep track of them. The creation of a freight industry application allows for better vehicle maintenance and the expansion of services for transporting goods.</p>
 			</div>
 			<div class="col-12 col-sm-12 col-md-12 col-lg-5 mt-4 mt-md-4 mt-lg-0 wow fadeIn text-end">
-				<img class="img-fluid" src="images/industries/automotive-app-1.webp" width="100%" height="100%">
+				 <img loading="lazy" class="img-fluid" src="images/industries/automotive-app-1.webp" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -46,10 +46,10 @@
 <section class="service">
 	<div class="row">
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/automotive-app-2.webp" class="img-fluid image" width="100%" height="100%">
+			 <img loading="lazy" src="images/industries/automotive-app-2.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 		<div class="col-12 col-sm-12 col-md-6 img-container">
-			<img src="images/industries/automotive-app-3.webp" class="img-fluid image" width="100%" height="100%">
+			 <img loading="lazy" src="images/industries/automotive-app-3.webp" class="img-fluid image" width="100%" height="100%">
 		</div>
 	</div>
 </section>
@@ -202,7 +202,7 @@
 	<div class="container">
 		<div class="row text-center">
 			<div class="col-12 wow fadeIn">
-			<iframe width="100%" height="600" src="https://www.youtube.com/embed/e-O-c0XzibI?si=h6IDvAsxMC-4xAIC" title="Revolutionizing Automotive and Transport with App-Driven Innovations | Appsnation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			<iframe width="100%" height="600" src="https://www.youtube.com/embed/e-O-c0XzibI?si=h6IDvAsxMC-4xAIC" title="Revolutionizing Automotive and Transport with App-Driven Innovations | Appsnation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>

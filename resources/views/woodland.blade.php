@@ -10,31 +10,31 @@
     @endif
 
     <div class="container wow fadeIn " data-wow-delay="0.2s">
-    <div class="row">
-        
-        <div class="col-lg-6 my-lg-auto">
-            <div class="bread-titlev2 mt-4">
-                <h1>Read. Listen. <br>
-                    <span>Connect</span> — Your
-                    <span>Personal Book </span>Space
-                </h1>
-                <p class="pt-3">
-                    Designed for <span>readers</span> who love to explore <br>
-                    <span>stories</span> in every form
-                </p>
+        <div class="row">
 
-                <p class="wood-land-button mt-3">Start Your Journey Today</p>
+            <div class="col-lg-6 my-lg-auto">
+                <div class="bread-titlev2 mt-4">
+                    <h1>Read. Listen. <br>
+                        <span>Connect</span> — Your
+                        <span>Personal Book </span>Space
+                    </h1>
+                    <p class="pt-3">
+                        Designed for <span>readers</span> who love to explore <br>
+                        <span>stories</span> in every form
+                    </p>
+
+                    <p class="wood-land-button mt-3">Start Your Journey Today</p>
+                </div>
             </div>
-        </div>
 
-        <div class="col-lg-6 mt-5 mt-lg-0 wood-land-hero-img">
-            <img src="{{asset('images/case-studies/wood-land-app/hero.webp')}}"
-                 class="img-fluid"
-                 alt="wood-land-app-App">
-        </div>
+            <div class="col-lg-6 mt-5 mt-lg-0 wood-land-hero-img">
+                <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/hero.webp')}}"
+                    class="img-fluid"
+                    alt="wood-land-app-App">
+            </div>
 
+        </div>
     </div>
-</div>
 
 </section>
 <!-- End Breadcrumb Area-->
@@ -42,32 +42,32 @@
 <!--Start Client Overview Section -->
 <section class="wood-land-client-overview py-5 wow fadeIn" data-wow-delay="0.4s">
     <div class="container">
-       
-            <div class="row client-wood-land-wrapper">
-                <div class="col-lg-6 my-lg-auto ">
-                    <div class="common-heading">
-                        <h2>Client Overview</h1>
-                            <p>Woodland is a concept-driven mobile app allowing users to dive into books through reading or listening — while connecting with fellow readers. The goal was to create a minimal, distraction-free design that feels personal, modern, and deeply immersive. </p>
-                    </div>
-                    <div class="left-border-clint-overview">
-                        <h6>Industry</h6>
-                        <p>Digital Publishing & Audio Content</p>
-                    </div>
-                    <div class="left-border-clint-overview">
-                        <h6>App Type</h6>
-                        <p>Concept Project for Book Lovers</p>
-                    </div>
-                    <div class="left-border-clint-overview">
-                        <h6>Services</h6>
-                        <p>UX Research, UI Design, Design System, Mobile App UI (iOS + Android)</p>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <img src="{{asset('images/case-studies\wood-land-app/client-overview.webp')}}" alt="client-overview" width="100%" height="100%">
-                </div>
 
+        <div class="row client-wood-land-wrapper">
+            <div class="col-lg-6 my-lg-auto ">
+                <div class="common-heading">
+                    <h2>Client Overview</h1>
+                        <p>Woodland is a concept-driven mobile app allowing users to dive into books through reading or listening — while connecting with fellow readers. The goal was to create a minimal, distraction-free design that feels personal, modern, and deeply immersive. </p>
+                </div>
+                <div class="left-border-clint-overview">
+                    <h6>Industry</h6>
+                    <p>Digital Publishing & Audio Content</p>
+                </div>
+                <div class="left-border-clint-overview">
+                    <h6>App Type</h6>
+                    <p>Concept Project for Book Lovers</p>
+                </div>
+                <div class="left-border-clint-overview">
+                    <h6>Services</h6>
+                    <p>UX Research, UI Design, Design System, Mobile App UI (iOS + Android)</p>
+                </div>
             </div>
-        
+            <div class="col-lg-6">
+                <img loading="lazy" src="{{asset('images/case-studies\wood-land-app/client-overview.webp')}}" alt="client-overview" width="100%" height="100%">
+            </div>
+
+        </div>
+
     </div>
 </section>
 <!--End Client Overview Section -->
@@ -139,22 +139,22 @@
 
         <div class="row g-3 wireframe-gallery">
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies\wood-land-app/wireframe-wood-land-1.webp')}}" alt="Boujee Beachin Wireframe 1" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wireframe-wood-land-1.webp')}}" alt="Boujee Beachin Wireframe 1" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-2.webp')}}" alt="Boujee Beachin Wireframe 2" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-2.webp')}}" alt="Boujee Beachin Wireframe 2" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-2.webp')}}" alt="Boujee Beachin Wireframe 3" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-3.webp')}}" alt="Boujee Beachin Wireframe 4" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-3.webp')}}" alt="Boujee Beachin Wireframe 4" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-4.webp')}}" alt="Boujee Beachin Wireframe 5" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-4.webp')}}" alt="Boujee Beachin Wireframe 5" class="wire-img">
             </div>
             <div class="col-6 col-md-3 col-xl-2">
-                <img src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-5.webp')}}" alt="Boujee Beachin Wireframe 5" class="wire-img">
+                <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/boujee-beachin-wireframe-5.webp')}}" alt="Boujee Beachin Wireframe 5" class="wire-img">
             </div>
         </div>
     </div>
@@ -172,7 +172,7 @@
 
             <!-- Left Image -->
             <div class="col-lg-6 mt-5 mt-lg-0">
-                <img src="{{asset('images/case-studies/wood-land-app/project-goals-img2.webp')}}"
+                <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/project-goals-img2.webp')}}"
                     class="img-fluid"
                     alt="wood land project-goals">
 
@@ -227,18 +227,18 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies\wood-land-app/wood-land-app-screen12.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -258,19 +258,19 @@
                 <div class="challenges">
                     <ul>
                         <li>
-                            <img src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
+                            <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
                             <p>Keeping the design boujee but still very user-friendly</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
+                            <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
                             <p>Ensuring a premium look without affecting loading speed</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
+                            <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
                             <p>Making the interface consistent across all devices</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
+                            <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/arro.webp')}}" alt="vector">
                             <p>Maintaining visual balance with vibrant brand colors</p>
                         </li>
                     </ul>
@@ -278,7 +278,7 @@
             </div>
 
             <div class="col-12 col-md-6 text-center text-md-end">
-                <img class="img-fluid" src="{{asset('images/case-studies/wood-land-app/project-challenges.webp')}}" alt="wood-land-challenges">
+                <img loading="lazy" class="img-fluid" src="{{asset('images/case-studies/wood-land-app/project-challenges.webp')}}" alt="wood-land-challenges">
             </div>
         </div>
     </div>
@@ -297,35 +297,35 @@
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Frontend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
                     <p>React Native</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Backend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
                     <p>Node.js</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Database</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
                     <p>MongoDB</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Cloud</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
                     <p>AWS</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Payments</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
+                    <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
                     <p>Stripe • G Pay</p>
                 </div>
             </div>
@@ -339,72 +339,72 @@
 
 <!-- Start Design Goals Section -->
 <section class="wood-land-designs py-5 wow fadeIn">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="common-heading">
-                        <h2 class="text-center  mb40">Building a Unified, Calming & <br> Connected Book Experience</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="common-heading">
+                    <h2 class="text-center  mb40">Building a Unified, Calming & <br> Connected Book Experience</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="wood-land-central-line"></div>
+
+        <div class="row">
+            <div class="col-lg-6 left-column-wood-land">
+                <div class="wood-land-feature-box-group">
+                    <div class="wood-land-feature-box mb-5 left-item">
+                        <h4 class="wood-land-text-theme  mb-3">User-Centric Interface</h4>
+                        <p class="text-muted mb-0">Create a clean, intuitive, and visually aesthetic interface that prioritizes user experience and ease of navigation.</p>
+                    </div>
+
+                    <div class="wood-land-feature-box mb-5 left-item">
+                        <h4 class="wood-land-text-theme mb-3">Seamless Booking Flow</h4>
+                        <p class="text-muted mb-0">Design a simple yet efficient beach reservation system that enables quick planning with minimal steps.</p>
+                    </div>
+
+                    <div class="wood-land-feature-box mb-5 left-item">
+                        <h4 class="wood-land-text-theme mb-3">Community Interaction</h4>
+                        <p class="text-muted mb-0">Allow users to upload photos, write reviews, and engage with a like-minded beachgoer community.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="wood-land-central-line"></div>
-
-            <div class="row">
-                <div class="col-lg-6 left-column-wood-land">
-                    <div class="wood-land-feature-box-group">
-                        <div class="wood-land-feature-box mb-5 left-item">
-                            <h4 class="wood-land-text-theme  mb-3">User-Centric Interface</h4>
-                            <p class="text-muted mb-0">Create a clean, intuitive, and visually aesthetic interface that prioritizes user experience and ease of navigation.</p>
-                        </div>
-
-                        <div class="wood-land-feature-box mb-5 left-item">
-                            <h4 class="wood-land-text-theme mb-3">Seamless Booking Flow</h4>
-                            <p class="text-muted mb-0">Design a simple yet efficient beach reservation system that enables quick planning with minimal steps.</p>
-                        </div>
-
-                        <div class="wood-land-feature-box mb-5 left-item">
-                            <h4 class="wood-land-text-theme mb-3">Community Interaction</h4>
-                            <p class="text-muted mb-0">Allow users to upload photos, write reviews, and engage with a like-minded beachgoer community.</p>
-                        </div>
+            <div class="col-lg-6 right-column-wood-land">
+                <div class="wood-land-feature-box-group">
+                    <div class="wood-land-feature-box mb-5 right-item">
+                        <h4 class="wood-land-text-theme mb-3">Lifestyle-Based Curation</h4>
+                        <p class="text-muted mb-0">Present beach content tailored to users' lifestyle preferences, including luxury, aesthetics, and social relevance.</p>
                     </div>
-                </div>
 
-                <div class="col-lg-6 right-column-wood-land">
-                    <div class="wood-land-feature-box-group">
-                        <div class="wood-land-feature-box mb-5 right-item">
-                            <h4 class="wood-land-text-theme mb-3">Lifestyle-Based Curation</h4>
-                            <p class="text-muted mb-0">Present beach content tailored to users' lifestyle preferences, including luxury, aesthetics, and social relevance.</p>
-                        </div>
+                    <div class="wood-land-feature-box mb-5 right-item">
+                        <h4 class="wood-land-text-theme mb-3">Style Guidance</h4>
+                        <p class="text-muted mb-0">Offer fashion and beachwear recommendations aligned with trends, trip types, and destination vibes.</p>
+                    </div>
 
-                        <div class="wood-land-feature-box mb-5 right-item">
-                            <h4 class="wood-land-text-theme mb-3">Style Guidance</h4>
-                            <p class="text-muted mb-0">Offer fashion and beachwear recommendations aligned with trends, trip types, and destination vibes.</p>
-                        </div>
-
-                        <div class="wood-land-feature-box mb-5 right-item">
-                            <h4 class="wood-land-text-theme mb-3">Visual Storytelling</h4>
-                            <p class="text-muted mb-0">Use imagery, animations, and transitions to convey luxury and create emotional resonance.</p>
-                        </div>
+                    <div class="wood-land-feature-box mb-5 right-item">
+                        <h4 class="wood-land-text-theme mb-3">Visual Storytelling</h4>
+                        <p class="text-muted mb-0">Use imagery, animations, and transitions to convey luxury and create emotional resonance.</p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 </section>
 
 <!-- End Design Goals Section -->
 
- 
 
 
- 
+
+
 
 <!-- Start Mockup Section -->
 <section class="py-5 wow fadeIn boujee-beachin-mockup">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/wood-land-app/morkup-wood-land_result.webp')}}" alt="wood-land morkup"   class="img-fluid">
+                <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/morkup-wood-land_result.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

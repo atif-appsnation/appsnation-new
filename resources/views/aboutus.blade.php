@@ -25,24 +25,24 @@
 					<div class="col-md-8">
 						<div class="about-bages-slider owl-carousel owl-theme wow fadeIn">
 							<div class="h-img">
-								<img src="images/reviews/bark.webp" alt="">
-								<img src="images/reviews/star.webp" alt="">
+								 <img loading="lazy" src="images/reviews/bark.webp" alt="">
+								 <img loading="lazy" src="images/reviews/star.webp" alt="">
 							</div>
 							<div class="h-img">
-								<img src="images/reviews/clutch.webp" alt="">
-								<img src="images/reviews/star.webp" alt="">
+								 <img loading="lazy" src="images/reviews/clutch.webp" alt="">
+								 <img loading="lazy" src="images/reviews/star.webp" alt="">
 							</div>
 							<div class="h-img">
-								<img src="images/reviews/designrush.webp" alt="">
-								<img src="images/reviews/star.webp" alt="">
+								 <img loading="lazy" src="images/reviews/designrush.webp" alt="">
+								 <img loading="lazy" src="images/reviews/star.webp" alt="">
 							</div>
 							<div class="h-img">
-								<img src="images/reviews/goodfirms.webp" alt="">
-								<img src="images/reviews/star.webp" alt="">
+								 <img loading="lazy" src="images/reviews/goodfirms.webp" alt="">
+								 <img loading="lazy" src="images/reviews/star.webp" alt="">
 							</div>
 							<div class="h-img">
-								<img src="images/reviews/sortlist.webp" alt="">
-								<img src="images/reviews/star.webp" alt="">
+								 <img loading="lazy" src="images/reviews/sortlist.webp" alt="">
+								 <img loading="lazy" src="images/reviews/star.webp" alt="">
 							</div>
 						</div>
 					</div>
@@ -102,29 +102,7 @@
 
 <!--End Breadcrumb Area-->
 
-<!--Start About-->
-<!-- <section class="about-agency py-5 bg-gradient1 block-1">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 v-center">
-				<div class="about-image">
-					<img src="images/about-us/about-us.webp" width="auto" height="auto" alt="About Us" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-6 mt-30 mt-lg-0">
-				<div class="common-heading text-l">
-					<div data-text="About Us" class="light-bg-text bg-text">
-						<h2>NOT JUST WELL-KNOWN WE’LL MAKE YOU FAMOUS</h2>
-					</div>
-					<p>AppsNation is the USA's top leading mobile application development company providing multiple mobile app development services in IOs, Android, IoT, AR/VR, game, cross-platform, wearable, and eCommerce. We also provide mobile app QA Testing and strategic design consultancy services. Our enterprise-class solutions enable seamless user experiences across all modern platforms and devices. We run the entire mobile app development process from ideation to delivery and ongoing support. We have a team of the most dedicated and trained mobile engineers, designers, and marketers who create impact with stunning products for your business. We meet your business needs and strategies by providing the quickest solutions at very reasonable prices. AppsNation offers its services in 50+ industries, including healthcare, transport, travel, media, education, and more.</p>
-					<p>We have achieved some remarkable goals within a few years, and now we are trusted by 100+ businesses. AppsNation has proven expertise in strategy, product development, and design for startups and enterprise clients. By leveraging our experience and design best practices, we deliver innovative mobile applications that enable big ideas to be built faster, better, and more secure. Global brands trust us to create and support apps that reduce time to market, improve quality, and lower costs.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--End About-->
-
+ 
 <section id="mycounterSection" class="py-5 scale-up-services-section">
 	<div class="container">
 		<div class="row">
@@ -171,7 +149,7 @@
 
 				<div class="wow fadeIn">
 
-					<img src="images/about-us/a.png" width="auto" height="auto" alt="About Us" class="img-fluid block mx-auto ">
+					 <img loading="lazy" src="images/about-us/a.png" width="auto" height="auto" alt="About Us" class="img-fluid block mx-auto ">
 				</div>
 			</div>
 
@@ -214,7 +192,7 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/about-us/client-first.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
+						 <img loading="lazy" src="images/about-us/client-first.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
 					<h3 class="mb-2 mt-3">Client First</h3>
 					<p>Clients are central to every successful business. As a leading web and mobile app development company, we go beyond expectations analyzing your vision and end-user pain points to deliver strategic solutions that drive measurable growth.
@@ -224,7 +202,7 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/about-us/effective-synergy.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
+						 <img loading="lazy" src="images/about-us/effective-synergy.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
 					<h3 class="mb-2 mt-2">Effective Synergy</h3>
 					<p>Effective communication way know how what’s unsaid. We frequently over-talk, ensuring readability and transparency. Our improvement team remains connected throughout all channels and time zones, fixing actual-global issues effectively.
@@ -234,7 +212,7 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/about-us/on-time-delivery.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
+						 <img loading="lazy" src="images/about-us/on-time-delivery.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
 					<h3 class="mb-2 mt-3">On Time Delivery</h3>
 					<p>We don’t just promise we over-deliver. With a decade of IT software experience and robust internal frameworks, we consistently deliver high-quality solutions, avoiding errors and repeating success every time.
@@ -246,7 +224,7 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/about-us/strong-experties.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
+						 <img loading="lazy" src="images/about-us/strong-experties.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
 					<h3 class="mb-2 mt-3">Strong Expertise</h3>
 					<p>Specializing in Ruby on Rails, Angular, and React, our experts stay ahead of tech trends, delivering high-quality solutions with full ownership, efficiency, and best practices always prioritizing value over quantity.
@@ -256,7 +234,7 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/about-us/total-ownership-and-feedback-based.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
+						 <img loading="lazy" src="images/about-us/total-ownership-and-feedback-based.svg" width="100%" height="100%" alt="service" class="img-fluid about-icon">
 					</div>
 					<h3 class="mb-2 mt-3">Total Ownership &amp; Feedback Based</h3>
 					<p>We take complete possession of every undertaking, actively incorporating remarks from clients, their customers, and stakeholders. By prioritizing input, we make certain the product stays at the right song, saving what virtually topics.
@@ -266,7 +244,7 @@
 			<div class="col-lg-4 col-sm-6 mt30">
 				<div class="choose-us">
 					<div class="s-card-icon">
-						<img src="images/about-us/results-focused.svg" alt="service" width="100%" height="100%" class="img-fluid about-icon">
+						 <img loading="lazy" src="images/about-us/results-focused.svg" alt="service" width="100%" height="100%" class="img-fluid about-icon">
 					</div>
 					<h3 class="mb-2 mt-3">Results Focused</h3>
 					<p>We build digitally adaptable products that solve real-world problems with futuristic solutions. No matter the challenges, we ensure delivery, keeping your goals on track and your company’s long-term success as our priority.
@@ -307,7 +285,7 @@
 						<p class="vision-text">At AppsNation, our challenge is to provide end-to-give up digital services which include App Development, Web Development, digital marketing, and many more. We construct modern, scalable, and performance-pushed solutions tailor-made to each commercial enterprise need. Our aim is to empower startups and organizations with generation that drives increase, strengthens emblem effect, and provides measurable lengthy-time period success.</p>
 					</div>
 					<div class="col-lg-6 text-center">
-						<img src="images/about-us/mission.png" class="img-fluid vision-img" alt="Mission">
+						 <img loading="lazy" src="images/about-us/mission.png" class="img-fluid vision-img" alt="Mission">
 					</div>
 				</div>
 			</div>
@@ -321,7 +299,7 @@
 						<p class="vision-text">Our vision is to push the boundaries of technology and create effective digital solutions that lift businesses and local communities around the world. Our mission is to empower millions of people through innovation, enable sustainable growth opportunities, scale high-performing businesses globally, and establish a workplace culture recognized for excellence, creativity and long-term value in the digital economy.</p>
 					</div>
 					<div class="col-lg-6 text-center">
-						<img src="images/about-us/vision.png" class="img-fluid vision-img" alt="Vision">
+						 <img loading="lazy" src="images/about-us/vision.png" class="img-fluid vision-img" alt="Vision">
 					</div>
 				</div>
 			</div>
@@ -335,40 +313,21 @@
 						<p class="vision-text">At AppsNation, our values shape every solution we create and every partnership we build. We believe in innovation with purpose, transparency in communication, and commitment to excellence. Collaboration, integrity, and continuous improvement drive our team to deliver measurable results while maintaining long-term relationships built on trust, accountability, and shared success.</p>
 					</div>
 					<div class="col-lg-6 text-center">
-						<img src="images/about-us/value.png" class="img-fluid vision-img" alt="Values">
+						 <img loading="lazy" src="images/about-us/value.png" class="img-fluid vision-img" alt="Values">
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--Start Statistics-->
-<!-- <section class="py-5">
-	<div class="container">
-		<div class="row justify-content-center wow fadeIn achievements-count">
-			<div class="col-6 col-sm-6 col-md-4 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">450</h2>
-				<p class="numbers-about">Happy Clients</p>
-			</div>
-			<div class="col-6 col-sm-6 col-md-4 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">95k+</h2>
-				<p class="numbers-about">Hours Worked</p>
-			</div>
-			<div class="col-6 col-sm-6 col-md-4 pt-3 pt-md-0 pb-3 pb-md-3 pb-lg-0">
-				<h2 class="numbers-count">850</h2>
-				<p class="numbers-about">Projects Done</p>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--End Statistics-->
+ 
 
 <section class="my-4">
 	<div class="container">
 		<div class="row">
 			<h3 class="my-4">Meet Our Appnation Team</h3>
 			<div class="col-12">
-				<img src="images/about-us/colage-about-us.png" class="img-fluid d-block mx-auto">
+				 <img loading="lazy" src="images/about-us/colage-about-us.png" class="img-fluid d-block mx-auto">
 			</div>
 		</div>
 	</div>
@@ -390,25 +349,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>

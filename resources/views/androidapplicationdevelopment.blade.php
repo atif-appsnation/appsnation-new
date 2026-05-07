@@ -17,11 +17,9 @@
 
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development" width="100%" height="100%">
+				 <img loading="lazy" src="images/services/android-app-development/android-app-banner-img.webp" class="img-fluid" alt="Android App Development" width="100%" height="100%">
 			</div>
-			<!-- <div class="position-absolute bottom-0 top-25">
-				<div data-tb-embedded-award data-tb-embedded-award-style="banner" data-tb-embedded-award-id="appsnation" data-tb-embedded-award-edition="2024"></div>
-			</div> -->
+			 
 
 		</div>
 	</div>
@@ -52,7 +50,7 @@
 			<!-- Right Image -->
 			<div class="col-lg-5 col-md-12 text-center order-1 order-lg-2">
 				<div class="wow fadeIn">
-					<img src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					 <img loading="lazy" src="images/services/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -98,7 +96,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/android-ui-ux-designing.svg" alt="Android UI/UX Designing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Android UI/UX Designing</h3>
@@ -111,7 +109,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-web-based-apps.svg" alt="Android Web-Based Apps" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/android-web-based-apps.svg" alt="Android Web-Based Apps" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Android Web-Based Apps</h3>
@@ -124,7 +122,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-porting.svg" alt="App Porting" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/app-porting.svg" alt="App Porting" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>App Porting</h3>
@@ -137,7 +135,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-testing.svg" alt="App Testing" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/app-testing.svg" alt="App Testing" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>App Testing</h3>
@@ -150,7 +148,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/app-consultation.svg" alt="App Consultation" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/app-consultation.svg" alt="App Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>App Consultation</h3>
@@ -163,7 +161,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-app-development-consultation.svg" alt="Android App Development Consultation" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/android-app-development-consultation.svg" alt="Android App Development Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Android App Development Consultation</h3>
@@ -176,7 +174,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/custom-android-app-development.svg" alt="Custom Android App Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/custom-android-app-development.svg" alt="Custom Android App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Custom Android App Development</h3>
@@ -189,7 +187,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/multi-platform-deployment.svg" alt="Multi-Platform Deployment" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/multi-platform-deployment.svg" alt="Multi-Platform Deployment" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Multi-Platform Deployment</h3>
@@ -202,7 +200,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Development" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/services/android-app-development/android-watch-app-development.svg" alt="Android Watch App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h3>Android Watch App Deployment</h3>
@@ -230,11 +228,11 @@
 					@if($k==0)
 
 					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						 <img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
 					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						 <img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -330,7 +328,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/why-choose/free-mobile-app-consultation.svg" alt="Free Mobile App Consultation" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Free Mobile App Consultation</h3>
 					<p class="description">With AppsNation, you can consult your way to success for free.</p>
@@ -339,7 +337,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/why-choose/50+-expert-android-developers.svg" alt="50+ Expert Android Developers" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">50+ Expert Android Developers</h3>
 					<p class="description">Unleash your true potential with best-in-class Android developers across the globe.</p>
@@ -348,7 +346,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/why-choose/flexible-hiring-models.svg" alt="Flexible Hiring Models" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Flexible Hiring Models</h3>
 					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
@@ -357,7 +355,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/why-choose/247-technical-support.svg" alt="24/7 Technical Support" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">24/7 Technical Support</h3>
 					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
@@ -366,7 +364,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/why-choose/100-transparency.svg" alt="100% Transparency" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">100% Transparency</h3>
 					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
@@ -375,7 +373,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid" width="100%" height="100%">
+						 <img loading="lazy" src="images/why-choose/3-months-free-delivery.svg" alt="3-Months Free Support After Delivery" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">3-Month Free Support After Delivery</h3>
 					<p class="description">We offer 3-month of free support after app launch to ensure the app's integrity.</p>
@@ -385,67 +383,7 @@
 	</div>
 </section>
 <!--Start Why Choose-->
-
-<!--Start Process-->
-<!-- <section class="process-block bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>Android App</span> Development Process</h2>
-					</div>
-					<p>AppsNation offers clients an easy and agile Android app development process with a result-driven ideology.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">01</p>
-					<h3 class="title">Requirement Analysis</h3>
-					<p class="description">Knowing your UX&UI depending on your target audience is one of the most crucial aspects of the study. Based on your target region, you must know your target audience, age, languages, design, and typefaces. This phase also entails determining which technology you'll use to create your app. Reach out to AppsNation to present your valuable Android app ideas to our competent project managers. We give full authority to the client to convey his requirements effectively while we prepare a business document with a project brief in it.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">02</p>
-					<h3 class="title">App Development Strategies</h3>
-					<p class="description">We conduct an in-depth analysis of your business, target audience, and competitors to deliver a mindful result-driven Android app development strategy for your bespoke application. Our experienced professionals in mobile development offer you a solution that maximizes the conversion rate.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">03</p>
-					<h3 class="title">Wireframing And Designing</h3>
-					<p class="description">Our skilled UI/UX designers develop the most attractive designs and prototypes that are technology-rich, scalable, and reliable to get outstanding outcomes. The preliminary design is updated and completed by the customer after any necessary modifications and moderations.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">04</p>
-					<h3 class="title">Development Phase</h3>
-					<p class="description">According to coding standards, we create Android apps based on customer specifications and requirements with cutting-edge technology and tools. The application we develop is vital in solving complex customer problems and increasing the total value of businesses.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">05</p>
-					<h3 class="title">App Testing</h3>
-					<p class="description">To guarantee that the Android app we developed is secure and functional, our skilled quality assurance team rigorously tests the application inside and out to verify that it is bug-free. Our highly qualified QA staff understands varied testing issues from start to finish.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">06</p>
-					<h3 class="title">App Deployment</h3>
-					<p class="description">Once the application has been thoroughly tested and authorized by the customer, it will be released on the Google Play Store in accordance with its requirements. AppsNation has a long history of submitting Android apps to the Google Play Store.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--End Process-->
+ 
 <section class="py-5 process-tabs-section">
 	<div class="container">
 		<div class="row my-5">
@@ -728,98 +666,98 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/android-studio.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/android-studio.webp" class="img-fluid d-block mx-auto" alt="Unity" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-sm-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/android-sdk-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/android-sdk-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3 mt-lg-0">
 						<div class="card stacFk-hov">
 							<div class="card-body">
-								<img src="images/tech/google-fit-sdk.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/google-fit-sdk.webp" class="img-fluid d-block mx-auto" alt="WordPress" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3 ">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/c4dcef19-0ae5-4291-bb16-0221a5f7faf5-cover.png" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/c4dcef19-0ae5-4291-bb16-0221a5f7faf5-cover.png" class="img-fluid d-block mx-auto" alt="PHP" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/kotlin-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/kotlin-logo.webp" class="img-fluid d-block mx-auto" alt="Angular" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/firebase-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/firebase-logo.webp" class="img-fluid d-block mx-auto" alt="C++" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/objective-c-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/objective-c-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/python-logo.webp" class="img-fluid d-block mx-auto" alt="Python" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/node-js-logo.webp" class="img-fluid d-block mx-auto" alt="Node Js" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/photon-logo.webp" class="img-fluid d-block mx-auto" alt="Photon" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/react-native-logo.webp" class="img-fluid d-block mx-auto" alt="React Native" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/js-logo.webp" class="img-fluid d-block mx-auto" alt="JS" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/html-logo.webp" class="img-fluid d-block mx-auto" alt="HTML" width="auto" height="auto">
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/laravel-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Laravel</p> -->
 							</div>
 						</div>
@@ -827,7 +765,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/sql-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/sql-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Laravel</p> -->
 							</div>
 						</div>
@@ -835,7 +773,7 @@
 					<div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/vuejs-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/vuejs-logo.webp" class="img-fluid d-block mx-auto" alt="Laravel" width="auto" height="auto">
 								<!-- <p class="text-center pt-2">Laravel</p> -->
 							</div>
 						</div>
@@ -847,73 +785,74 @@
 </section>
 <!-- End Hire Us -->
 
-<!--Start Tech-->
-<div class="techonology-used py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Technologies" class="light-bg-text bg-text mb-5">
-						<h2>Technology Stack</h2>
+	<!--Start Tech-->
+	<div class="techonology-used py-5">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-12">
+					<div class="common-heading ptag wow fadeIn">
+						<div data-text="Technologies" class="light-bg-text bg-text mb-5">
+							<h2>Technology Stack</h2>
+						</div>
+						<p>We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 					</div>
-					<p>We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
 				</div>
 			</div>
-		</div>
 
-		<div class="row mt-3">
-			<div class="col-12 wow fadeIn">
-				<ul class="nav nav-tabs android-tech-tabs mt-5 justify-content-center">
-					@foreach($techstack as $k=>$item)
+			<div class="row mt-3">
+				<div class="col-12 wow fadeIn">
+					<ul class="nav nav-tabs android-tech-tabs mt-5 justify-content-center">
+						@foreach($techstack as $k=>$item)
 
-					@if($k==0)
-					<li class="nav-item">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
-						</a>
-					</li>
+						@if($k==0)
+						<li class="nav-item">
+							<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
+								<img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
+							</a>
+						</li>
 
-					@else
+						@else
 
-					<li class="nav-item">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
-						</a>
-					</li>
-					@endif
-					@endforeach
-				</ul>
+						<li class="nav-item">
+							<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
+								<img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
+							</a>
+						</li>
+						@endif
+						@endforeach
+					</ul>
 
-				<div class="tab-content tab-body mt-4">
+					<div class="tab-content tab-body mt-4">
 
-					@foreach($techstack as $k=>$items)
-					@if($k==0)
-					<div id="a{{$items['id']}}" class="tab-pane fade in active">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-							<p class="mt-4">{{$items['content']}}</p>
+						@foreach($techstack as $k=>$items)
+						@if($k==0)
+						<div id="a{{$items['id']}}" class="tab-pane fade in active">
+							<div class="boxseo-data text-start">
+								<img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
+								<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
+								<p class="mt-4">{{$items['content']}}</p>
+							</div>
 						</div>
-					</div>
 
-					@else
-					<div id="a{{$items['id']}}" class="tab-pane fade">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
+						@else
+						<div id="a{{$items['id']}}" class="tab-pane fade">
+							<div class="boxseo-data text-start">
+								<img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
+								<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 
-							<p class="mt-4">{{$items['content']}}</p>
+								<p class="mt-4">{{$items['content']}}</p>
+							</div>
 						</div>
+
+						@endif
+
+						@endforeach
 					</div>
-
-					@endif
-
-					@endforeach
 				</div>
 			</div>
-		</div>
+		 </div>
 	</div>
-	<!--End Tech-->
+		<!--End Tech-->
 
 	<!--Start Let's Work Together-->
 	<section class="my-4">
@@ -954,25 +893,25 @@
 			<div class="row mt-5">
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 						<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 						<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 						<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 					<div>
-						<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+						 <img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 						<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 					</div>
 				</div>
@@ -1007,7 +946,7 @@
 								<div class="item">
 									<div class="card">
 										<div class="card-body">
-											<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+											 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 											<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										</div>
 									</div>
@@ -1020,7 +959,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									</div>
 								</div>
@@ -1035,7 +974,7 @@
 								<div class="item">
 									<div class="card">
 										<div class="card-body">
-											<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+											 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 											<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 										</div>
 									</div>
@@ -1047,7 +986,7 @@
 							<div class="item">
 								<div class="card">
 									<div class="card-body">
-										<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 									</div>
 								</div>
@@ -1117,6 +1056,7 @@
 
 							<!-- YouTube Video -->
 							<iframe
+							loading="lazy"
 								id="player-{{$key}}"
 								class="youtube-player testimonial-video"
 
@@ -1162,8 +1102,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-										<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 									</a>
 								</div>
@@ -1173,8 +1113,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-										<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 									</a>
 								</div>
@@ -1184,8 +1124,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-										<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 									</a>
 								</div>
@@ -1195,8 +1135,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-										<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 									</a>
 								</div>
@@ -1206,8 +1146,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-										<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 									</a>
 								</div>
@@ -1217,8 +1157,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-										<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 									</a>
 								</div>
@@ -1228,8 +1168,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://upcity.com/profiles/appsnation" target="_blank">
-										<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 									</a>
 								</div>
@@ -1239,8 +1179,8 @@
 							<div class="card h-100">
 								<div class="card-body">
 									<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-										<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-										<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+										 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 										<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 									</a>
 								</div>
@@ -1530,7 +1470,7 @@
 				<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
 					<div class="card h-100">
 						<a href="{{ $post['guid'] }}">
-							<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+							 <img loading="lazy" src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
 						</a>
 						<div class="entry-blog-post dg-bg2">
 							<span class="bypost-">

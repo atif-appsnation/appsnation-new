@@ -2,7 +2,7 @@
 @section('content')
 <!--Start Breadcrumb Area-->
 <section class="breadcrumb-areav2 web-app-banner">
-@if ($errors->has('g-recaptcha-response'))
+	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 wow fadeIn">
-				<img src="images/services/web-app-development/web-app-banner-img.webp" class="img-fluid" alt="Web App Development" width="100%" height="100%">
+				<img loading="lazy" src="images/services/web-app-development/web-app-banner-img.webp" class="img-fluid" alt="Web App Development" width="100%" height="100%">
 			</div>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/web-app-development/web-app-development.webp" alt="Web App Development" class="img-fluid no-shadow" width="100%" height="100%">
+					<img loading="lazy" src="images/services/web-app-development/web-app-development.webp" alt="Web App Development" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -64,7 +64,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-app-development/custom-web-app-development.svg" alt="Custom Web App Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/custom-web-app-development.svg" alt="Custom Web App Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Custom Web App Development</h4>
@@ -77,7 +77,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-app-development/cross-platform-apps.svg" alt="Cross-platform Apps" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/cross-platform-apps.svg" alt="Cross-platform Apps" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Cross-platform Apps</h4>
@@ -90,7 +90,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-app-development/e-commerce-solutions.svg" alt="E-commerce Solutions" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/e-commerce-solutions.svg" alt="E-commerce Solutions" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>E-commerce Solutions</h4>
@@ -103,7 +103,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-app-development/web-portal-development.svg" alt="Web Portal Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/web-portal-development.svg" alt="Web Portal Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Web Portal Development</h4>
@@ -116,7 +116,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-app-development/custom-cms-web-development.svg" alt="Custom CMS Web Development" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/custom-cms-web-development.svg" alt="Custom CMS Web Development" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Custom CMS Web Development</h4>
@@ -129,7 +129,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
 				<div class="service-card-app home-services gradient-border h-100">
 					<div class="services-img-div">
-						<img src="images/services/web-app-development/technology-consulting.svg" alt="Technology Consulting" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/technology-consulting.svg" alt="Technology Consulting" class="img-fluid" width="100%" height="100%">
 					</div>
 					<div class="service-heading">
 						<h4>Technology Consulting</h4>
@@ -156,11 +156,11 @@
 					@if($k==0)
 
 					<div class="tab-pane features-content active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
 					<div class="tab-pane features-content fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -216,24 +216,24 @@
 <!--Start Let's Work Together-->
 <section class="my-1">
 	<div class="container">
-		
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-9">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span> </p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
 
 	</div>
 </section>
@@ -256,7 +256,7 @@
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/web-app-development/experience.svg" alt="Experience" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/experience.svg" alt="Experience" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Experience</h3>
 					<p class="description">Access our extensive experience in developing sophisticated custom apps to meet your business needs.</p>
@@ -265,7 +265,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/web-app-development/focus-on-expertise.svg" alt="Focus on Expertise" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/focus-on-expertise.svg" alt="Focus on Expertise" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Focus on Expertise</h3>
 					<p class="description"> We foster a mobile expert culture, committed to staying ahead through specialization and innovation.</p>
@@ -274,7 +274,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/web-app-development/cost-reduction.svg" alt="Cost Reduction" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/cost-reduction.svg" alt="Cost Reduction" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Cost Reduction</h3>
 					<p class="description">Develop high-quality mobile apps cost-effectively with our proven expertise and vast code repository.</p>
@@ -283,7 +283,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/web-app-development/lower-the-risk.svg" alt="Lower The Risk" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/lower-the-risk.svg" alt="Lower The Risk" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Lower The Risk</h3>
 					<p class="description">We reduce risk and ensure quick time-to-value by delivering fast and efficient solutions in a changing market.</p>
@@ -292,17 +292,17 @@
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/web-app-development/reliable-and-flexile.svg" alt="Reliable and Flexile" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/reliable-and-flexile.svg" alt="Reliable and Flexile" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">Reliable and Flexile</h3>
 					<p class="description">Using the latest practices and tech skills, we stay adaptable to client needs and avoid unnecessary challenges.
-</p>
+					</p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4 mt-3">
 				<div class="timeline wow fadeIn h-100">
 					<div class="timeline-year">
-						<img src="images/services/web-app-development/one-partner-for-everyone.svg" alt="One Partner For Everyone" class="img-fluid" width="100%" height="100%">
+						<img loading="lazy" src="images/services/web-app-development/one-partner-for-everyone.svg" alt="One Partner For Everyone" class="img-fluid" width="100%" height="100%">
 					</div>
 					<h3 class="title">One Partner For Everyone</h3>
 					<p class="description">Streamline your process with one partner offering end-to-end solutions, avoiding inefficiencies from multiple vendors.</p>
@@ -333,7 +333,7 @@
 						<p class="timeline-year">01</p>
 						<h3 class="title">Research and development</h3>
 						<p class="description"> A step-by-step procedure for assessing, validating, and developing a strategy to bring your idea to life.
-</p>
+						</p>
 						<ul class="order-list pt-2">
 							<strong>
 								<li>Assessing your requirements</li>
@@ -374,7 +374,7 @@
 						<p class="timeline-year">03</p>
 						<h3 class="title">Back-end Development</h3>
 						<p class="description">Executing back-end development by integrating third-party plugins and ensuring smooth configuration and implementation.
-</p>
+						</p>
 						<ul class="order-list pt-2">
 							<strong>
 								<li>Integration of third-party plugins in the backend setup and configuration</li>
@@ -392,7 +392,7 @@
 						<p class="timeline-year">04</p>
 						<h3 class="title">Manual and automated QA</h3>
 						<p class="description"> Ensuring smooth app functionality across browsers and screens with comprehensive manual and automated QA testing.
-</p>
+						</p>
 						<ul class="order-list pt-2">
 							<strong>
 								<li>Testing of Functionality</li>
@@ -422,7 +422,7 @@
 						<p class="timeline-year">06</p>
 						<h3 class="title">Maintenance and Support</h3>
 						<p class="description"> Providing continuous assessment and support to ensure your web application operates efficiently with the right web stack.
-</p>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -452,7 +452,7 @@
 					@if($k==0)
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link active">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
+							<img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
 						</a>
 					</li>
 
@@ -460,7 +460,7 @@
 
 					<li class="nav-item">
 						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo nav-link">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
+							<img loading="lazy" src="uploads/{{$item['image']}}" alt="Tech Stack" width="100%" height="100%">
 						</a>
 					</li>
 					@endif
@@ -473,7 +473,7 @@
 					@if($k==0)
 					<div id="a{{$items['id']}}" class="tab-pane fade in active">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
+							<img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 							<p class="mt-4">{{$items['content']}}</p>
 						</div>
@@ -482,7 +482,7 @@
 					@else
 					<div id="a{{$items['id']}}" class="tab-pane fade">
 						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
+							<img loading="lazy" src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo" width="100%" height="100%">
 							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
 
 							<p class="mt-4">{{$items['content']}}</p>
@@ -493,472 +493,473 @@
 
 					@endforeach
 				</div>
-		</div>
-	</div>
-</div>
-<!--End Tech-->
-
-<!--Start Let's Work Together-->
-<section class="my-1">
-	<div class="container">
-	
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 my-auto">
-					<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
-				</div>
-				<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
 			</div>
 		</div>
 	</div>
-</div>
-	
-	</div>
-</section>
-<!--End Let's Work Together-->
+	<!--End Tech-->
 
-<!-- Start Technologies -->
-<section class="technologies certificates py-5">
-	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-12">
-				<div class="common-heading text-center">
-					<div data-text="Partners" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+	<!--Start Let's Work Together-->
+	<section class="my-1">
+		<div class="container">
+
+			<div class="row py-5 justify-content-center hire-developer">
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 my-auto">
+								<p class="text-center text-lg-start">Hire a <span>Dedicated Developer</span> </p>
+							</div>
+							<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</section>
+	<!--End Let's Work Together-->
+
+	<!-- Start Technologies -->
+	<section class="technologies certificates py-5">
+		<div class="container">
+			<div class="row fadeIn">
+				<div class="col-12">
+					<div class="common-heading text-center">
+						<div data-text="Partners" class="dark-bg-text bg-text text-center">
+							<h2 class="text-white">We Partner With The <span>World's Technology</span> Leaders</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row mt-5">
+				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+					<div>
+						<img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+						<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+					<div>
+						<img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+						<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+					<div>
+						<img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+						<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
+					<div>
+						<img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+						<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
-					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
-					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
-					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
-				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
-					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Technologies -->
+	</section>
+	<!-- End Technologies -->
 
-<!--Start Badges-->
-<section class="badges-section py-5">
-	<div class="container">
-		<div class="row fadeIn">
-			<div class="col-12">
-				<div class="common-heading w-tdxt text-center">
-					<div data-text="Awards" class="dark-bg-text bg-text text-center">
-						<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+	<!--Start Badges-->
+	<section class="badges-section py-5">
+		<div class="container">
+			<div class="row fadeIn">
+				<div class="col-12">
+					<div class="common-heading w-tdxt text-center">
+						<div data-text="Awards" class="dark-bg-text bg-text text-center">
+							<h2 class="text-white">Ranked as #1 <span>Android App</span> Development Company</h2>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="row mt-5 wow fadeIn">
-			<div class="col-12">
-				<div class="awards-slider owl-carousel owl-theme">
+			<div class="row mt-5 wow fadeIn">
+				<div class="col-12">
+					<div class="awards-slider owl-carousel owl-theme">
 
-					@foreach($awards as $k => $item)
+						@foreach($awards as $k => $item)
 
-					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
+						@if($k%2==0)
+
+						@if($item['heading']=="Top Website design Agencies")
+						<a href="{{$item['comment']}}" target="_blank">
+							<div class="award-item">
+								<div class="item">
+									<div class="card">
+										<div class="card-body">
+											<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+											<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+
+										</div>
+									</div>
 								</div>
 							</div>
-						</div>
-					 </div>
-					 </a>
+						</a>
 
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
-								</div>
-							</div>
-						</div>
-					 </div>
-					 @endif
+						@else
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 
-					@else
-					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					<div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
-								</div>
-							</div>
-						</div>
-					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-									 
-								</div>
-							</div>
-						</div>
-					</div>
-					@endif
-					@endif
-					@endforeach
-
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Badges-->
-
-<!--Start Let's Work Together-->
-<section class="my-1">
-	<div class="container">
-
-	
-<div class="row py-5 justify-content-center hire-developer">
-	<div class="col-lg-8">
-		<div class="free-cta-title v-center wow fadeIn">
-			<div class="row justify-content-center">
-				<div class="col-lg-7 my-auto">
-					<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
-				</div>
-				<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
-					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
-						<i class="fas fa-chevron-right fa-icon"></i>
-						<span class="circle"></span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-</div>
-</section>
-<!--End Let's Work Together-->
-
-<!--Start Testinomial-->
-<section class="testimonials-section-app pt100 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="common-heading text-center">
-                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-                    </div>
-                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-                </div>
-            </div>
-        </div>
-		
-          <div class="testimonial-card-a owl-carousel owl-theme">
-			@foreach($testimonials as $key => $item)
-
-			<div class="tcd card h-100">
-				<div class="row">
-					<div class="col-lg-6 position-relative">
-
-						<!-- Overlay -->
-						<div class="video-overlay"
-							data-target="player-{{$key}}"
-							style="position:absolute;top:0;left:0;width:100%;height:100%;cursor:pointer;z-index:2;">
-						</div>
-
-						<!-- YouTube Video -->
-						<iframe
-							id="player-{{$key}}"
-							class="youtube-player testimonial-video"
-
-						src="{{$item['comments']}}"	
-						title="Client Testimonial"
-
-							frameborder="0"
-							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-							referrerpolicy="strict-origin-when-cross-origin"
-							allowfullscreen>
-						</iframe>
-
-					</div>
-
-					<div class="col-lg-6">
-						<div class="testimonial-card card-body">
-							<div class="tt-text">
-								<p>{{$item['title']}}</p>
-							</div>
-
-							<div class="client-thumbs mt30">
-								<div class="media v-center upset">
-									<div class="media-body user-info v-center">
-										<h3>{{$item['name']}}</h3>
-										<p>{{$item['location']}}</p>
-										<i class="fas fa-quote-right posiqut"></i>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+						@endif
 
+						@else
+						@if($item['heading']=="Top Website design Agencies")
+						<a href="{{$item['comment']}}" target="_blank">
+							<div class="award-item">
+								<div class="item">
+									<div class="card">
+										<div class="card-body">
+											<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+											<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</a>
+						@else
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+
+									</div>
+								</div>
+							</div>
+						</div>
+						@endif
+						@endif
+						@endforeach
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--End Badges-->
+
+	<!--Start Let's Work Together-->
+	<section class="my-1">
+		<div class="container">
+
+
+			<div class="row py-5 justify-content-center hire-developer">
+				<div class="col-lg-8">
+					<div class="free-cta-title v-center wow fadeIn">
+						<div class="row justify-content-center">
+							<div class="col-lg-7 my-auto">
+								<p class="text-center text-lg-start">We Promise. <span>We Deliver.</span> </p>
+							</div>
+							<div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+								<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
+									<i class="fas fa-chevron-right fa-icon"></i>
+									<span class="circle"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--End Let's Work Together-->
+
+	<!--Start Testinomial-->
+	<section class="testimonials-section-app pt100 pb-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="common-heading text-center">
+						<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+							<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+						</div>
+						<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+					</div>
 				</div>
 			</div>
 
-			@endforeach
+			<div class="testimonial-card-a owl-carousel owl-theme">
+				@foreach($testimonials as $key => $item)
+
+				<div class="tcd card h-100">
+					<div class="row">
+						<div class="col-lg-6 position-relative">
+
+							<!-- Overlay -->
+							<div class="video-overlay"
+								data-target="player-{{$key}}"
+								style="position:absolute;top:0;left:0;width:100%;height:100%;cursor:pointer;z-index:2;">
+							</div>
+
+							<!-- YouTube Video -->
+							<iframe
+								id="player-{{$key}}"
+								class="youtube-player testimonial-video"
+								loading="lazy"
+
+								src="{{$item['comments']}}"
+								title="Client Testimonial"
+
+								frameborder="0"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+								referrerpolicy="strict-origin-when-cross-origin"
+								allowfullscreen>
+							</iframe>
+
+						</div>
+
+						<div class="col-lg-6">
+							<div class="testimonial-card card-body">
+								<div class="tt-text">
+									<p>{{$item['title']}}</p>
+								</div>
+
+								<div class="client-thumbs mt30">
+									<div class="media v-center upset">
+										<div class="media-body user-info v-center">
+											<h3>{{$item['name']}}</h3>
+											<p>{{$item['location']}}</p>
+											<i class="fas fa-quote-right posiqut"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				@endforeach
+			</div>
+			<div class="row mt-5">
+				<div class="col-12">
+					<div class="row">
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
+										<img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
+										<img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
+										<img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
+										<img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
+										<img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
+										<img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://upcity.com/profiles/appsnation" target="_blank">
+										<img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
+							<div class="card h-100">
+								<div class="card-body">
+									<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
+										<img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+										<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+										<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12 fadeIn my-auto text-center">
+					<div class="review-title-ref mt40">
+						<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+					</div>
+				</div>
+			</div>
 		</div>
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
-						<div class="card h-100">
-							<div class="card-body">
-								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
-									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
-								</a>
-							</div>
-						</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 fadeIn my-auto text-center">
-                <div class="review-title-ref mt40">
-                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-       
-    </div>
+
+</div>
 </section>
 <!--End Testinomial-->
 
 <!-- Start FAQS-->
 <section class="faq-section py-5" id="faqs">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 wow fadeIn">
-                <div class="common-heading">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 wow fadeIn">
+				<div class="common-heading">
 					<div data-text="FAQ" class="light-bg-text bg-text">
-                    	<h2>Frequently Asked Questions</h2>
+						<h2>Frequently Asked Questions</h2>
 					</div>
-                </div>
-            </div>
-        </div>
-        <div class="row mt100">
-            <div class="col-sm-12 wow fadeIn">
-                <div class="accordion" id="accordionExample-a">
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-b">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
+				</div>
+			</div>
+		</div>
+		<div class="row mt100">
+			<div class="col-sm-12 wow fadeIn">
+				<div class="accordion" id="accordionExample-a">
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-b">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1a" aria-expanded="true" aria-controls="collapseOne">
 								How much do you charge for custom web app development services?
-                            </button>
-                        </h2>
-                        <div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Web development, design, QA, and product deployment to your servers are all included in the cost estimate. You can reach out to us to learn more about the cost of developing a custom web application. development of web applications.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-1a" class="accordion-collapse collapse" aria-labelledby="heading-b" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Web development, design, QA, and product deployment to your servers are all included in the cost estimate. You can reach out to us to learn more about the cost of developing a custom web application. development of web applications.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2a" aria-expanded="true" aria-controls="collapseOne">
 								Will you sign an NDA with me?
-                            </button>
-                        </h2>
-                        <div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Yes. As a leading web app development firm, we place a high priority on protecting your intellectual property, which is included in our services.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-2a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Yes. As a leading web app development firm, we place a high priority on protecting your intellectual property, which is included in our services.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3a" aria-expanded="true" aria-controls="collapseOne">
 								Do I get to be a part of the web application development process?
-                            </button>
-                        </h2>
-                        <div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Yes, you certainly can. Our web application development company, in fact, encourages it to the benefit of our customers. On our server, we create web apps and supply you with authorization codes and credentials. As a result, you'll be able to log in and see the progress of your website's continuing development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-3a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Yes, you certainly can. Our web application development company, in fact, encourages it to the benefit of our customers. On our server, we create web apps and supply you with authorization codes and credentials. As a result, you'll be able to log in and see the progress of your website's continuing development.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4a" aria-expanded="true" aria-controls="collapseOne">
 								What if I need some changes in the web-app after the development process is complete?
-                            </button>
-                        </h2>
-                        <div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>Our professional team members respond to your questions and provide assistance based on the modifications you want to make to your app and the services you choose.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-4a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>Our professional team members respond to your questions and provide assistance based on the modifications you want to make to your app and the services you choose.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5a" aria-expanded="true" aria-controls="collapseOne">
 								I Have Only a Partial App Idea. Can You Help Me with That?
-                            </button>
-                        </h2>
-                        <div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We've assisted a number of people who had no idea how to establish a business. It's much better to collaborate with someone who has only a sliver of an idea. This way, we can work together to fill in the gaps in your idea and create an app.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-5a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>We've assisted a number of people who had no idea how to establish a business. It's much better to collaborate with someone who has only a sliver of an idea. This way, we can work together to fill in the gaps in your idea and create an app.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6a" aria-expanded="true" aria-controls="collapseOne">
 								Do I have to pay 3rd party cost?
-                            </button>
-                        </h2>
-                        <div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>When it comes to web app development, don't be afraid to ask for a precise estimate. This tiny action could help you save a lot of time, money, and worries.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-6a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>When it comes to web app development, don't be afraid to ask for a precise estimate. This tiny action could help you save a lot of time, money, and worries.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7a" aria-expanded="true" aria-controls="collapseOne">
 								Which Industries Have You Served to Date?
-                            </button>
-                        </h2>
-                        <div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We served the happy clients in the following industries:</p>
+							</button>
+						</h2>
+						<div id="collapse-7a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>We served the happy clients in the following industries:</p>
 									<ul class="ps-5">
 										<li>Food</li>
 										<li>E-Commerce</li>
@@ -971,48 +972,48 @@
 										<li>Real Estate</li>
 										<li>On-Demand Delivery</li>
 									</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a" aria-expanded="true" aria-controls="collapseOne">
 								How Will I Be Paying You for the Services?
-                            </button>
-                        </h2>
-                        <div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We accept payments from our clients in these ways: PayPal, Stripe, and direct bank transfer. However, depending on the client's preferences, we can be flexible with different payment methods.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item bdr0">
-                        <h2 class="accordion-header" id="heading-c">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
+							</button>
+						</h2>
+						<div id="collapse-8a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>We accept payments from our clients in these ways: PayPal, Stripe, and direct bank transfer. However, depending on the client's preferences, we can be flexible with different payment methods.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item bdr0">
+						<h2 class="accordion-header" id="heading-c">
+							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a" aria-expanded="true" aria-controls="collapseOne">
 								What Is the Payment Procedure?
-                            </button>
-                        </h2>
-                        <div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
-                            <div class="accordion-body">
-                                <div class="data-reqs">
-                                    <p>We follow milestones for project completion, thus the client must pay 30% upfront when the project begins, 40% when the first milestone is completed, and the final 30% at the time of delivery.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+							</button>
+						</h2>
+						<div id="collapse-9a" class="accordion-collapse collapse" aria-labelledby="heading-c" data-bs-parent="#accordionExample-a">
+							<div class="accordion-body">
+								<div class="data-reqs">
+									<p>We follow milestones for project completion, thus the client must pay 30% upfront when the project begins, 40% when the first milestone is completed, and the final 30% at the time of delivery.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!-- End FAQS -->
 
 <!--Start Blogs-->
 <section class="blogs-section py-5">
-@if(count($data['data']) > 0)
+	@if(count($data['data']) > 0)
 	<div class="container">
 		<div class="row mb100">
 			<div class="col-lg-6">
@@ -1026,7 +1027,7 @@
 			<div class="col-12 col-md-6 col-lg-4 mt30 wow fadeIn">
 				<div class="card h-100">
 					<a href="{{ $post['guid'] }}">
-						<img src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
+						<img loading="lazy" src="https://blog.appsnation.co/wp-content/uploads/{{$post['featured_image_url']}}" alt="{{$post['post_title']}}" class="img-fluid">
 					</a>
 					<div class="entry-blog-post dg-bg2">
 						<span class="bypost-">

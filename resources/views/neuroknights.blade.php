@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-lg-6 my-lg-auto">
                         <div class="bread-titlev2 mt-4">
-                            <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-logo.webp')}}" class="img-fluid logo" alt="Neuro Knights logo">
+                            <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-logo.webp')}}" class="img-fluid logo" alt="Neuro Knights logo">
                             <h1>
                                 <span>NeuroKnights</span> — Your Safe<br>
                                 Space to Grow
@@ -25,7 +25,7 @@
                     </div>
 
                     <div class="col-lg-6 mt-5 mt-lg-0 neuro-night-hero-img">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-header-image.webp')}}" class="img-fluid" alt="Neuro Knights">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-header-image.webp')}}" class="img-fluid" alt="Neuro Knights">
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
             <div class="container">
                 <div class="row ">
                     <div class="col-lg-12 my-lg-auto">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-project-idea-img.webp')}}" class="img-fluid" alt="">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-project-idea-img.webp')}}" class="img-fluid" alt="">
                     </div>
                 </div>
         </section>
@@ -49,14 +49,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 ">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-problem-img-1.webp')}}" class="img-fluid" alt="Problem Statement">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-problem-img-1.webp')}}" class="img-fluid" alt="Problem Statement">
                     </div>
                     <div class="col-md-12 col-lg-6 neuro-knight-right">
                         <div class="common-heading">
                             <h2 class="mb-3"><span>Problem </span> Statement</h2>
                             <p >Teens with neurodiverse conditions often struggle to find safe, supportive online communities. Existing apps either lack empathy, structure, or accessibility. NeuroKnights fills this gap with an inclusive, therapeutic experience.</p>
                         </div>
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-problem-img-2.webp')}}" class="img-fluid" alt="Problem Statement">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-problem-img-2.webp')}}" class="img-fluid" alt="Problem Statement">
                     </div>
                 </div>
             </div>
@@ -113,16 +113,16 @@
 
                 <div class="row g-3 wireframe-gallery">
                     <div class="col-6 col-md-6 col-xl-3">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-wireframe-1.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-wireframe-1.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
                     </div>
                     <div class="col-6 col-md-6 col-xl-3">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-wireframe-2.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-wireframe-2.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
                     </div>
                     <div class="col-6 col-md-6 col-xl-3">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-wireframe-3.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-wireframe-3.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
                     </div>
                     <div class="col-6 col-md-6 col-xl-3">
-                        <img src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-1.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
+                        <img loading="lazy" src="{{asset('images/case-studies/wood-land-app/wireframe-wood-land-1.webp')}}" alt="Neuro Knights Wireframe" class="wire-img">
                     </div>
                 </div>
             </div>
@@ -189,7 +189,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 text-center">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-key-features.webp')}}" alt="wood-land morkup" class="img-fluid">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-key-features.webp')}}" alt="wood-land morkup" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -203,22 +203,22 @@
                     <h2 class="mb-3 text-center">App Screens</h2>
                 </div>
                 <div class="row">
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-1.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-2.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-3.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-5.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-6.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-7.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-8.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-9.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-10.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-11.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-12.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-13.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-14.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-15.webp')}}" alt="App Screens" class="img-fluid"></div>
-                    <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-16.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-1.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-2.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-3.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-4.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-5.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-6.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-7.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-8.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-9.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-10.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-11.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-12.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-13.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-14.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-15.webp')}}" alt="App Screens" class="img-fluid"></div>
+                    <div class="col-md-3 col-6 my-3"><img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-16.webp')}}" alt="App Screens" class="img-fluid"></div>
                 </div>
             </div>
         </section>
@@ -234,21 +234,21 @@
                     <div class="row">
                         <div class="col-12 d-flex">
                             <div class="tech-img-box d-flex">
-                                <img src="{{asset('images/case-studies/neuro-knights-app/figma.webp')}}" class="img-fluid" alt="neuro knight project-goals">
+                                <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/figma.webp')}}" class="img-fluid" alt="neuro knight project-goals">
                                 <div class="common-heading">
                                     <h6 class="mb4">Tools & Testing</h6>
                                     <p>Figma, Unity Game Engine, FlayFab</p>
                                 </div>
                             </div>
                             <div class="tech-img-box d-flex">
-                                <img src="{{asset('images/case-studies/neuro-knights-app/unity.webp')}}" class="img-fluid" alt="neuro knight project-goals">
+                                <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/unity.webp')}}" class="img-fluid" alt="neuro knight project-goals">
                                 <div class="common-heading">
                                     <h6 class="mb4">Tools & Testing</h6>
                                     <p>Figma, Unity Game Engine, FlayFab</p>
                                 </div>
                             </div>
                             <div class="tech-img-box d-flex">
-                                <img src="{{asset('images/case-studies/neuro-knights-app/flutter.webp')}}" class="img-fluid" alt="neuro knight project-goals">
+                                <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/flutter.webp')}}" class="img-fluid" alt="neuro knight project-goals">
                                 <div class="common-heading">
                                     <h6 class="mb4">Tools & Testing</h6>
                                     <p>Figma, Unity Game Engine, FlayFab</p>
@@ -266,7 +266,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <img src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                        <img loading="lazy" src="{{asset('images/case-studies/neuro-knights-app/neuro-knights-app-morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
                     </div>
                 </div>
             </div>

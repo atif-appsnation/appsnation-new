@@ -13,7 +13,7 @@
 				<div class="bread-titlev2">
 					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Best 3D Interior Rendering Company</h1>
 					<p class="mt20 text-white" data-wow-delay=".4s">3D interior renderings have become an essential part of modern project visualization. These services are primarily used to bring design concepts to life, enhancing client collaboration and helping to understand their preferences.
-</p>
+					</p>
 				</div>
 			</div>
 		</div>
@@ -23,46 +23,46 @@
 
 <!--Start Showcase-->
 <section class="threed-interior-showcase py-5">
-    <div class="container">
-        <div class="row justify-content-center wow fadeIn" wow fadeIn>
-            <div class="col-12">
-                <div class="common-heading">
+	<div class="container">
+		<div class="row justify-content-center wow fadeIn" wow fadeIn>
+			<div class="col-12">
+				<div class="common-heading">
 					<div data-text="3D Exterior" class="light-bg-text bg-text text-center">
 						<h2 class="text-center">Scale-Up With Our <span class="flup-theme">3D Interior Rendering</span> Services</h2>
 					</div>
-                    <p class="pt-2 text-center">In today’s competitive market, 3D interior renderings are a key tool for visualizing project concepts. They facilitate customer collaboration and provide valuable insights into design preferences. Through CGI, 3D interior visualization generates volumetric images of any object, sparking creativity and enabling experimentation. This approach allows designers to explore ideas in ways that traditional methods cannot.
-</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="row pt-5 wow fadeIn">
-            <div class="col-md-3">
-                <img src="images/services/3d interior-rendering-services/interior-building-1.webp" width="100%" height="100%">
-            </div>
-            <div class="col-md-3 mt-2 mt-md-0">
-                <img src="images/services/3d interior-rendering-services/interior-building-2.webp" width="100%" height="100%">
-            </div>
-            <div class="col-md-6 mt-2 mt-md-0">
-                <img src="images/services/3d interior-rendering-services/interior-building-3.webp" width="100%" height="100%">
-            </div>
-            <div class="col-md-6 mt-2">
-                <img src="images/services/3d interior-rendering-services/interior-building-4.webp" width="100%" height="100%">
-            </div>
-            <div class="col-md-3 mt-2">
-                <img src="images/services/3d interior-rendering-services/interior-building-5.webp" width="100%" height="100%">
-            </div>
-            <div class="col-md-3 mt-2">
-                <img src="images/services/3d interior-rendering-services/interior-building-6.webp" >
-            </div>
-        </div>
-        
-        <div class="row mt-5 justify-content-center">
-            <div class="col-lg-8 text-center">
-                <a href="https://appsnation.com/uploads/pdf/Real-Estate-Profile-AppsNation.pdf" target="_blank" class="btn-main button-arounder lnk wow fadeIn">Download Real Estate Profile <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
-            </div>
-        </div>
-    </div>
+					<p class="pt-2 text-center">In today’s competitive market, 3D interior renderings are a key tool for visualizing project concepts. They facilitate customer collaboration and provide valuable insights into design preferences. Through CGI, 3D interior visualization generates volumetric images of any object, sparking creativity and enabling experimentation. This approach allows designers to explore ideas in ways that traditional methods cannot.
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="row pt-5 wow fadeIn">
+			<div class="col-md-3">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/interior-building-1.webp" width="100%" height="100%">
+			</div>
+			<div class="col-md-3 mt-2 mt-md-0">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/interior-building-2.webp" width="100%" height="100%">
+			</div>
+			<div class="col-md-6 mt-2 mt-md-0">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/interior-building-3.webp" width="100%" height="100%">
+			</div>
+			<div class="col-md-6 mt-2">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/interior-building-4.webp" width="100%" height="100%">
+			</div>
+			<div class="col-md-3 mt-2">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/interior-building-5.webp" width="100%" height="100%">
+			</div>
+			<div class="col-md-3 mt-2">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/interior-building-6.webp">
+			</div>
+		</div>
+
+		<div class="row mt-5 justify-content-center">
+			<div class="col-lg-8 text-center">
+				<a href="https://appsnation.com/uploads/pdf/Real-Estate-Profile-AppsNation.pdf" target="_blank" class="btn-main button-arounder lnk wow fadeIn">Download Real Estate Profile <i class="fas fa-chevron-right fa-ani" aria-hidden="true"></i></a>
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Showcase-->
 
@@ -93,48 +93,48 @@
 
 <!--Start Visualization-->
 <section class="threed-interior-visualizations common-heading py-5">
-    <div class="container">
-        <div class="row py-3">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeIn" wow fadeIn>
-                <img src="images/services/3d interior-rendering-services/threed-interior-visualization-1.webp" alt="3D Interior Visualizations" class="img-fluid d-block mx-auto" width="auto" height="auto">
-            </div>
+	<div class="container">
+		<div class="row py-3">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeIn" wow fadeIn>
+				<img loading="lazy" src="images/services/3d interior-rendering-services/threed-interior-visualization-1.webp" alt="3D Interior Visualizations" class="img-fluid d-block mx-auto" width="auto" height="auto">
+			</div>
 
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeIn v-center my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0">
-                <h3>Advantages of <span>Interior Visualization</span></h3>
-                <ul class="advantages-list pt-3">
-                    <li><i class="fa-solid fa-circle"></i> Interior visualization offers numerous benefits. Quickly redesign a space and see how various finishes and furnishings will blend. Rearrange thousands of furniture pieces to match your vision. Experiment with different lighting scenarios to create the perfect ambiance. Adapt any design style to the space, and make easy alterations like reupholstering a couch or repainting walls—without physically modifying the room.
-</li>
+			<div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeIn v-center my-auto pt-3 pt-sm-3 pt-md-3 pt-lg-0">
+				<h3>Advantages of <span>Interior Visualization</span></h3>
+				<ul class="advantages-list pt-3">
+					<li><i class="fa-solid fa-circle"></i> Interior visualization offers numerous benefits. Quickly redesign a space and see how various finishes and furnishings will blend. Rearrange thousands of furniture pieces to match your vision. Experiment with different lighting scenarios to create the perfect ambiance. Adapt any design style to the space, and make easy alterations like reupholstering a couch or repainting walls—without physically modifying the room.
+					</li>
 
-                </ul>
-            </div>
-        </div>
+				</ul>
+			</div>
+		</div>
 
-        <div class="row py-3">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeIn v-center my-auto" wow fadeIn>
-                <h3>How to Start Your <span>Interior 3D Visualization</span> Project</h3>
-                <ul class="advantages-list pt-3">
-                    <li><i class="fa-solid fa-circle"></i>Define project scope and objectives.
-</li>
-                    <li><i class="fa-solid fa-circle"></i>Gather project information.
-</li>
-                    <li><i class="fa-solid fa-circle"></i>Choose the right 3D visualization tools.
-</li>
-                    <li><i class="fa-solid fa-circle"></i>Develop a detailed 3D model.
-</li>
-                    <li><i class="fa-solid fa-circle"></i>Add furniture and fixtures.
-</li>
-                    <li><i class="fa-solid fa-circle"></i>Apply textures and lighting.
-</li>
-                    <li><i class="fa-solid fa-circle"></i>Review final renders or animations.
-</li>
-                    <!--<li><i class="fa-solid fa-circle"></i>Finalize and deliver the project.</li>-->
-                </ul>
-            </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeIn pt-3 pt-sm-3 pt-md-3 pt-lg-0">
-                <img src="images/services/3d interior-rendering-services/threed-interior-visualization-2.webp" alt="3D Interior Visualizations" class="img-fluid d-block mx-auto" width="auto" height="auto">
-            </div>
-        </div>
-    </div>
+		<div class="row py-3">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-6 wow fadeIn v-center my-auto" wow fadeIn>
+				<h3>How to Start Your <span>Interior 3D Visualization</span> Project</h3>
+				<ul class="advantages-list pt-3">
+					<li><i class="fa-solid fa-circle"></i>Define project scope and objectives.
+					</li>
+					<li><i class="fa-solid fa-circle"></i>Gather project information.
+					</li>
+					<li><i class="fa-solid fa-circle"></i>Choose the right 3D visualization tools.
+					</li>
+					<li><i class="fa-solid fa-circle"></i>Develop a detailed 3D model.
+					</li>
+					<li><i class="fa-solid fa-circle"></i>Add furniture and fixtures.
+					</li>
+					<li><i class="fa-solid fa-circle"></i>Apply textures and lighting.
+					</li>
+					<li><i class="fa-solid fa-circle"></i>Review final renders or animations.
+					</li>
+					<!--<li><i class="fa-solid fa-circle"></i>Finalize and deliver the project.</li>-->
+				</ul>
+			</div>
+			<div class="col-12 col-sm-12 col-md-12 col-lg-6 v-center wow fadeIn pt-3 pt-sm-3 pt-md-3 pt-lg-0">
+				<img loading="lazy" src="images/services/3d interior-rendering-services/threed-interior-visualization-2.webp" alt="3D Interior Visualizations" class="img-fluid d-block mx-auto" width="auto" height="auto">
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Visualization-->
 
@@ -144,7 +144,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
+					<img loading="lazy" src="images/android-app-development/android-app-development.webp" alt="Android App Development" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -309,11 +309,11 @@
 					@if($k==0)
 
 					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@else
 					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
+						<img loading="lazy" src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
 					</div>
 					@endif
 
@@ -369,7 +369,7 @@
 						<h2 class="text-center">Our <span>3D Interior</span> Rendering Services</h2>
 					</div>
 					<p class="pt- text-center">We specialize in creating traditional 3D models of various systems. Whether it’s a holiday home, a multi-storey building or a large block of flats, our professional team uses advanced design techniques and unique visual strategies to create realistic interiors.
-</p>
+					</p>
 				</div>
 			</div>
 			<!-- <div class="col-lg-12 pt-5 wow fadeIn">
@@ -383,107 +383,107 @@
 
 
 
-	<!--Start Why Choose -->
-	<section class="why-choose bg-gradient3 py-5">
-		<div class="container">
-			<div class="row">
-				<div class="col-12">
-					<div class="common-heading ptag wow fadeIn">
-						<div data-text="Choose Us" class="dark-bg-text bg-text">
-							<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-						</div>
-						<p class="text-white">AppsNation has revolutionized the IoT sector, providing exceptional digital products, platforms, and IoT-based services. Our IoT ecosystem connects people, devices, and processes to optimize business operations. By converting data into actionable insights, our integrated systems enable automation and real-time decision-making.
-</p>
+<!--Start Why Choose -->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
+					<p class="text-white">AppsNation has revolutionized the IoT sector, providing exceptional digital products, platforms, and IoT-based services. Our IoT ecosystem connects people, devices, and processes to optimize business operations. By converting data into actionable insights, our integrated systems enable automation and real-time decision-making.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="effect-cont-comm-img"></div>
+					</div>
+					<div class="service-heading">
+						<h3>Effective & Continuous Communication</h3>
+					</div>
+					<div class="services-text-div">
+						<p> Full range of IoT app development services.</p>
 					</div>
 				</div>
 			</div>
-			<div class="row mt-5">
-				<div class="col-sm-12 col-md-12 col-lg-4 wow fadeIn">
-					<div class="service-card-app home-services gradient-border h-100">
-						<div class="services-img-div">
-							<div class="effect-cont-comm-img"></div>
-						</div>
-						<div class="service-heading">
-							<h3>Effective & Continuous Communication</h3>
-						</div>
-						<div class="services-text-div">
-							<p> Full range of IoT app development services.</p>
-						</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="delivered-on-time-img"></div>
+					</div>
+					<div class="service-heading">
+						<h3>Excellent Quality Delivered on Time</h3>
+					</div>
+					<div class="services-text-div">
+						<p>Apps developed across all platforms and devices.
+						</p>
 					</div>
 				</div>
-				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-					<div class="service-card-app home-services gradient-border h-100">
-						<div class="services-img-div">
-							<div class="delivered-on-time-img"></div>
-						</div>
-						<div class="service-heading">
-							<h3>Excellent Quality Delivered on Time</h3>
-						</div>
-						<div class="services-text-div">
-							<p>Apps developed across all platforms and devices.
-							</p>
-						</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="experienced-team-img"></div>
+					</div>
+					<div class="service-heading">
+						<h3>Experienced Team</h3>
+					</div>
+					<div class="services-text-div">
+						<p>Single-code apps that work seamlessly across platforms.
+						</p>
 					</div>
 				</div>
-				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 mt-lg-0 wow fadeIn">
-					<div class="service-card-app home-services gradient-border h-100">
-						<div class="services-img-div">
-							<div class="experienced-team-img"></div>
-						</div>
-						<div class="service-heading">
-							<h3>Experienced Team</h3>
-						</div>
-						<div class="services-text-div">
-							<p>Single-code apps that work seamlessly across platforms.
-							</p>
-						</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="absolute-support-img"></div>
+					</div>
+					<div class="service-heading">
+						<h3>Absolute Support</h3>
+					</div>
+					<div class="services-text-div">
+						<p>Serving industries globally to leverage innovative technology.
+						</p>
 					</div>
 				</div>
-				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-					<div class="service-card-app home-services gradient-border h-100">
-						<div class="services-img-div">
-							<div class="absolute-support-img"></div>
-						</div>
-						<div class="service-heading">
-							<h3>Absolute Support</h3>
-						</div>
-						<div class="services-text-div">
-							<p>Serving industries globally to leverage innovative technology.
-							</p>
-						</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="complete-technical-img"></div>
+					</div>
+					<div class="service-heading">
+						<h3>Complete Technical Competency</h3>
+					</div>
+					<div class="services-text-div">
+						<p>Affordable services with on-time delivery.
+						</p>
 					</div>
 				</div>
-				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-					<div class="service-card-app home-services gradient-border h-100">
-						<div class="services-img-div">
-							<div class="complete-technical-img"></div>
-						</div>
-						<div class="service-heading">
-							<h3>Complete Technical Competency</h3>
-						</div>
-						<div class="services-text-div">
-							<p>Affordable services with on-time delivery.
-							</p>
-						</div>
+			</div>
+			<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
+				<div class="service-card-app home-services gradient-border h-100">
+					<div class="services-img-div">
+						<div class="full-confidential-img"></div>
 					</div>
-				</div>
-				<div class="col-sm-12 col-md-12 col-lg-4 mt-3 wow fadeIn">
-					<div class="service-card-app home-services gradient-border h-100">
-						<div class="services-img-div">
-							<div class="full-confidential-img"></div>
-						</div>
-						<div class="service-heading">
-							<h3>Full Confidentiality</h3>
-						</div>
-						<div class="services-text-div">
-							<p> Impeccable testing ensures error-free IoT apps.</p>
-						</div>
+					<div class="service-heading">
+						<h3>Full Confidentiality</h3>
+					</div>
+					<div class="services-text-div">
+						<p> Impeccable testing ensures error-free IoT apps.</p>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>
-	<!--End Why Choose -->
+	</div>
+</section>
+<!--End Why Choose -->
 
 <!--Start New Project-->
 <!-- <section class="service-block py-5">
@@ -604,25 +604,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					<img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					<img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					<img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					<img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -650,54 +650,54 @@
 					@foreach($awards as $k => $item)
 
 					@if($k%2==0)
-					
-					 @if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
-								</div>
-							</div>
-						</div>
-					 </div>
-					 </a>
 
-					 @else
-					 <div class="award-item">
-						<div class="item">
-							<div class="card">
-								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
-									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									</div>
 								</div>
 							</div>
 						</div>
-					 </div>
-					 @endif
+					</a>
 
 					@else
-					@if($item['heading']=="Top Website design Agencies")
-					 <a href="{{$item['comment']}}" target="_blank">
 					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
 						</div>
 					</div>
-					 </a>
-					 @else
-					 <div class="award-item">
+					@endif
+
+					@else
+					@if($item['heading']=="Top Website design Agencies")
+					<a href="{{$item['comment']}}" target="_blank">
+						<div class="award-item">
+							<div class="item">
+								<div class="card">
+									<div class="card-body">
+										<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+										<h5 class="text-center pt-3">{{$item['heading']}}</h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					@else
+					<div class="award-item">
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									<img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -741,20 +741,20 @@
 
 <!--Start Testinomial-->
 <section class="testimonials-section-app pt100 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="common-heading text-center">
-                    <div data-text="Testimonials" class="dark-bg-text bg-text text-center">
-                        <h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
-                    </div>
-                    <h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
-                </div>
-            </div>
-        </div>
-		
-		
-<div class="testimonial-card-a owl-carousel owl-theme">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading text-center">
+					<div data-text="Testimonials" class="dark-bg-text bg-text text-center">
+						<h2 class="text-white">What <span> Our Clients</span> Say About <span>AppsNation</span></h2>
+					</div>
+					<h5 class="text-white">Over 1200+ Satisfied Clients and Growing</h5>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="testimonial-card-a owl-carousel owl-theme">
 			@foreach($testimonials as $key => $item)
 
 			<div class="tcd card h-100">
@@ -771,9 +771,10 @@
 						<iframe
 							id="player-{{$key}}"
 							class="youtube-player testimonial-video"
+							loading="lazy"
 
-						src="{{$item['comments']}}"	
-						title="Client Testimonial"
+							src="{{$item['comments']}}"
+							title="Client Testimonial"
 
 							frameborder="0"
 							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -806,106 +807,106 @@
 
 			@endforeach
 		</div>
-        <div class="row mt-5">
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="row mt-5">
+			<div class="col-12">
+				<div class="row">
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
 						</div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
+					</div>
+					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3 mt-xl-0">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
 						</div>
-                    </div>
+					</div>
 					<div class="col-12 col-md-6 col-lg-4 col-xl-3 mt-3">
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									<img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>
 						</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 fadeIn my-auto text-center">
-                <div class="review-title-ref mt40">
-                    <a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-12 fadeIn my-auto text-center">
+				<div class="review-title-ref mt40">
+					<a href="{{url('/testimonials')}}" class="niwax-btn button-arounder btn wow fadeIn mt-3 py-2 px-3">Read More Reviews <i class="fas fa-chevron-right fa-ani"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!--End Testinomial-->
 

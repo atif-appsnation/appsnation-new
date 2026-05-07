@@ -26,7 +26,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<div class="image-block wow fadeIn">
-					<img src="images/services/3d-art/3d-art-development.webp" alt="3D Art Development" class="img-fluid no-shadow" width="100%" height="100%">
+					 <img loading="lazy" src="images/services/3d-art/3d-art-development.webp" alt="3D Art Development" class="img-fluid no-shadow" width="100%" height="100%">
 				</div>
 			</div>
 			<div class="col-lg-7 block-1 wow fadeIn my-auto">
@@ -158,66 +158,7 @@
 	</div>
 </section>
 <!--End Let's Work Together-->
-
-<!--Start Features-->
-<!-- <section class="features-section-app dark-bg2 py-5">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-5 wow fadeIn">
-				<div class="tab-content" id="imagetab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-
-					<div class="tab-pane active" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_a_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<img src="uploads/{!!$items['image']!!}" alt="img" class="img-fluid">
-					</div>
-					@endif
-
-					@endforeach
-
-				</div>
-			</div>
-			<div class="col-sm-12 col-md-12 col-lg-7 my-auto pl-3 pl-sm-3 pl-md-5 pt-3 pt-sm-3 pt-md-3 pt-lg-0 wow fadeIn">
-				<h2>Innovative 3D Art Design Services</h2>
-				<p class="py-3">We transform your ideas into stunning 3D art, catering to various industries with precision and creativity.</p>
-				<ul class="nav nav-tabs features-tab" id="headingtab" role="tablist">
-					@foreach($agencystack as $k=>$items)
-                    @if($k==0)
-                    <li class="nav-item">
-                        <a class="nav-link active" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-
-                    @else
-                    <li class="nav-item">
-                        <a class="nav-link" id="{!!$items['id']!!}-tab" data-bs-target="#panel_b_{!!$items['id']!!}" data-bs-secondary="#panel_a_{!!$items['id']!!}" data-bs-toggle="tab" href="#{!!$items['id']!!}" role="tab" aria-controls="{!!$items['id']!!}" aria-selected="false">{!!$items['heading']!!}</a>
-                    </li>
-                    @endif
-                    @endforeach
-				</ul>
-				<div class="tab-content pt-3" id="texttab">
-					@foreach($agencystack as $k=>$items)
-					@if($k==0)
-					<div class="tab-pane active" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@else
-					<div class="tab-pane fade" id="panel_b_{!!$items['id']!!}" role="tabpanel" aria-labelledby="{!!$items['id']!!}-tab">
-						<h3>{!!$items['heading']!!}</h3>
-						<p>{!!$items['content']!!}</p>
-					</div>
-					@endif
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--End Features-->
+ 
 
 <!-- Start 3D Character Design -->
 <section class="threed-character-design py-3 py-md-3 py-lg-5">
@@ -239,25 +180,25 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active" data-bs-toggle="tab" href="#c-game">
-                                            <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Game Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#c-cartoon">
-                                            <img src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Cartoon Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#photorealistic">
-                                            <img src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Photorealistic Character Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#character">
-                                            <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid d-block mx-auto">
+                                             <img loading="lazy" src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid d-block mx-auto">
                                             <p class="text-center">Character Design</p>
                                         </a>
                                     </li>
@@ -266,28 +207,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="c-game">
-                                        <img src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/game-character-design.webp" alt="3D Game Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Character Design</h3>
                                             <p class="text-white">Imagine your character in the next big hit game being anything you like with AppsNation. You can be a doctor, a student, or even a zombie!</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="c-cartoon">
-                                        <img src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/cartoon-character-design.webp" alt="3D Cartoon Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Cartoon Character Design</h3>
                                             <p class="text-white">The character designer and animator from AppsNation has a wealth of experience and knowledge in designing cartoons for movies, TV, web pages, and other visual elements.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="photorealistic">
-                                        <img src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/photorealistic-character-design.webp" alt="3D Photorealistic Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Photorealistic Character Design</h3>
                                             <p class="text-white">We create realistic characters with a photorealistic look thanks to scanned costumes and natural hair and body rendering.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="character">
-                                        <img src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/character-design.webp" alt="3D Character Design" class="img-fluid threed-character-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Design</h3>
                                             <p class="text-white">We create fully animated characters equipped with a wide range of tools, such as facial expressions, eye shading, and lip gloss.</p>
@@ -340,28 +281,28 @@
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="e-game">
-                                        <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Game Environment</h3>
                                             <p class="text-white">Our 3D artists can create realistic game environments and prototypes that capture your audience's attention. Build your worlds to engage and immerse players.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="e-cartoon">
-                                        <img src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Cartoon Game Environment</h3>
                                             <p class="text-white">One of our core competencies is to create cartoon-like environments for complex projects. The team will develop unique and flawless 3D cartoon environments into the game with crisp textures.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="argame">
-                                        <img src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">AR Game Environment</h3>
                                             <p class="text-white">We offer a full suite of 3D environment design services for AR games, from the highest quality mockups to in-game interactive environments.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="vrgame">
-                                        <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid threed-environment-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">VR Game Environment</h3>
                                             <p class="text-white">We use the latest 3D and VR technology to design a complete environment representing your game and world, offering players an immersive and interactive experience.</p>
@@ -373,25 +314,25 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active" data-bs-toggle="tab" href="#e-game">
-                                            <img src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/game-environment.webp" alt="3D Game Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#e-cartoon">
-                                            <img src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/cartoon-game-environment.webp" alt="3D Cartoon Game Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Cartoon Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#argame">
-                                            <img src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/ar-game-environment.webp" alt="3D AR Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">AR Game Environment</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#vrgame">
-                                            <img src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/vr-game-environment.webp" alt="3D VR Environment Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">VR Game Environment</p>
                                         </a>
                                     </li>
@@ -443,25 +384,25 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active" data-bs-toggle="tab" href="#ui-ux">
-                                            <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">3D Game Weapon Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#wireframing">
-                                            <img src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">3D Game Vehicle Design</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#ar-game">
-                                            <img src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Product Modeling</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#vr-game">
-                                            <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">3D Modeling for NFT</p>
                                         </a>
                                     </li>
@@ -470,28 +411,28 @@
                             <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="ui-ux">
-                                        <img src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/game-weapon-design.webp" alt="3D Game Weapon Design" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Weapon Design</h3>
                                             <p class="text-white">With years of experience, we are ready to design weapon models with the core of 3D game technology to bring them to life.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="wireframing">
-                                        <img src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/game-vehicle-design.webp" alt="3D Game Vehicle Design" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Game Vehicle Design</h3>
                                             <p class="text-white">Our design team can take your concept or ideas and create realistic and stunning 3D car models with cutting-edge technology.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="ar-game">
-                                        <img src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/product-modeling.webp" alt="Product Modeling" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Product Modeling</h3>
                                             <p class="text-white">We focus on smooth and high-resolution 3D modeling to give your product the best possible appearance.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="vr-game">
-                                        <img src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/modeling-nft.webp" alt="3D Modeling for NFT" class="img-fluid threed-game-assets-design-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">3D Modeling for NFT</h3>
                                             <p class="text-white">With outstanding expertise in 3D modeling for NFT, we can design your models based on your pictures, ideas, or requirements.</p>
@@ -544,21 +485,21 @@
                         <div class="col-lg-6">
                                 <div class="tab-content">
                                     <div class="tab-pane container active" id="s-character">
-                                        <img src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid threed-sculpting-service-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Character Sculpting</h3>
                                             <p class="text-white">We are a top-of-the-line character sculpting company. Our highly trained sculptors can create and mold any 3D character model of your design.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="s-environment">
-                                        <img src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid threed-sculpting-service-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid threed-sculpting-service-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Environment Sculpting</h3>
                                             <p class="text-white">AppsNation is a pioneer of 3D sculpting services, specializing in delivering clients realistic environmental and building models that they can use to drive good design processes.</p>
                                         </div>
                                     </div>
                                     <div class="tab-pane container fade" id="props">
-                                        <img src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid threed-sculpting-service-img w-100" width="100%" height="100%">
+                                         <img loading="lazy" src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid threed-sculpting-service-img w-100" width="100%" height="100%">
                                         <div class="threed-art-bottom-center">
                                             <h3 class="text-uppercase text-white">Pros Sculpting</h3>
                                             <p class="text-white">We are a professional 3D props sculpting service company that offers expertise in photographic sculpting and the ability to visualize your ideas with real-world accuracy.</p>
@@ -570,19 +511,19 @@
                                 <ul class="nav nav-tabs">
                                     <li class="nav-item">
                                         <a class="nav-link active" data-bs-toggle="tab" href="#s-character">
-                                            <img src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/character-sculpting.webp" alt="3D Character Sculpting" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Character Sculpting</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#s-environment">
-                                            <img src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/environment-sculpting.webp" alt="3D Environment Sculpting" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Environment Sculpting</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-bs-toggle="tab" href="#props">
-                                            <img src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid d-block mx-auto" width="100%" height="100%">
+                                             <img loading="lazy" src="images/services/3d-art/pros-sculpting.webp" alt="3D Pros Sculpting" class="img-fluid d-block mx-auto" width="100%" height="100%">
                                             <p class="text-center">Pros Sculpting</p>
                                         </a>
                                     </li>
@@ -614,81 +555,7 @@
 </section>
 <!-- End 3D Sculpting Design -->
 
-<!--Start Why Choose-->
-<!-- <section class="why-choose bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<p class="text-white">We assist you in using Android's distinct set of characteristics by merging it with cutting-edge technologies such as Augmented Reality, Virtual Reality, Mixed Reality, and Blockchain.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-mobile-app-consultation"></div>
-					</div>
-					<h3 class="title">Free Mobile App Consultation</h3>
-					<p class="description">With AppsNation, you can consult your way to success for free.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="expert-android-developers"></div>
-					</div>
-					<h3 class="title">50+ Expert Android Developers</h3>
-					<p class="description">Unleash your true potential with best-in-class android developers across the globe.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="flexible-hiring-models"></div>
-					</div>
-					<h3 class="title">Flexible Hiring Models</h3>
-					<p class="description">AppsNation is accessible to everyone regardless of the business size and the industry with personalized pricing packages.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="technical-support"></div>
-					</div>
-					<h3 class="title">24/7 Technical Support</h3>
-					<p class="description">Never feel overwhelmed; our technical staff is available 24/7 to resolve any issues with the application.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="transparency"></div>
-					</div>
-					<h3 class="title">100% Transparency</h3>
-					<p class="description">With customer satisfaction our utmost priority, we keep ourselves transparent to the client to trust us with the app.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<div class="free-delivery-support"></div>
-					</div>
-					<h3 class="title">3-Months Free Support After Delivery</h3>
-					<p class="description">We offer 3-months of free support after app launch to ensure the app's integrity.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!--Start Why Choose-->
-
+ 
 <section class="threed-art-services py-3 py-md-3 py-lg-5">
     <div class="container">
         <div class="row justify-content-center common-heading wow fadeIn mt-3">
@@ -706,7 +573,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h3 class="threed-art-extra-services-heading text-center">3D Scan Cleanup Services</h3>
-                                    <img src="images/services/3d-art/3d-scan-cleanup-services.webp" alt="3D Scan Cleanup Service" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
+                                     <img loading="lazy" src="images/services/3d-art/3d-scan-cleanup-services.webp" alt="3D Scan Cleanup Service" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
                                     <p class="threed-art-extra-services-text">At AppsNation, our primary focus is helping you clean up your 3D scan data in the most effective way possible. We replace the need for remeshing entirely with more robust reconstruction techniques like inverse design matrices (IDMs), which produce more precise edges and fewer artifacts. As a result, we know the best way to help them get their 3D scans cleaned up and ready for use again.</p>
                                 </div>
                             </div>
@@ -719,7 +586,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h3 class="threed-art-extra-services-heading text-center">Skinning 3D Model Services</h3>
-                                    <img src="images/services/3d-art/3d-model-skinning-services.webp" alt="Skinning 3D Model Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
+                                     <img loading="lazy" src="images/services/3d-art/3d-model-skinning-services.webp" alt="Skinning 3D Model Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
                                     <p class="threed-art-extra-services-text">If you're looking for a skinning 3D model service provider, AppsNation has the experience and expertise to get the job done. We know how to work with complex digital designs and turn them into perfectly-styled skinned models that are easy to use in your projects. In addition, we can take any image or design and turn it into a beautiful, accurately-skinned model that you can use in any of your projects.</p>
                                 </div>
                             </div>
@@ -732,7 +599,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h3 class="threed-art-extra-services-heading text-center">Rigging Services</h3>
-                                    <img src="images/services/3d-art/3d-rigging-services.webp" alt="Rigging Service" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
+                                     <img loading="lazy" src="images/services/3d-art/3d-rigging-services.webp" alt="Rigging Service" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
                                     <p class="threed-art-extra-services-text">AppsNation has generated hundreds of seamless animations for video games and other forms of media. You may notice how effortlessly the characters move due to our outstanding rigging talents. We spend a lot of effort ensuring that every bone and joint in a skeleton animation is in the right place for the body to move naturally.</p>
                                 </div>
                             </div>
@@ -745,7 +612,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h3 class="threed-art-extra-services-heading text-center">3D Model Texturing Services</h3>
-                                    <img src="images/services/3d-art/3d-model-texturing-services.webp" alt="3D Model Texturing Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
+                                     <img loading="lazy" src="images/services/3d-art/3d-model-texturing-services.webp" alt="3D Model Texturing Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
                                     <p class="threed-art-extra-services-text">We specialize in creating realistic renderings of your digital models ready to be used in various applications, including gaming, film and television, and even education. Our talented team has years of experience working with digital models created by our clients and other companies and custom projects.</p>
                                 </div>
                             </div>
@@ -758,7 +625,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h3 class="threed-art-extra-services-heading text-center">Lighting and Shading Services</h3>
-                                    <img src="images/services/3d-art/3d-lighting-and-shading-services.webp" alt="Lighting and Shading Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
+                                     <img loading="lazy" src="images/services/3d-art/3d-lighting-and-shading-services.webp" alt="Lighting and Shading Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
                                     <p class="threed-art-extra-services-text">At AppsNation, lighting is essential to the success of any project. We specialize in 3D art design and have been using lighting to create unique environments and realities for our clients. We offer a wide range of services, from traditional lighting setups to photorealistic rendering. Our team has years of experience creating lighting, lighting design, and shading design.</p>
                                 </div>
                             </div>
@@ -771,7 +638,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <h3 class="threed-art-extra-services-heading text-center">3D Retopology Services</h3>
-                                    <img src="images/services/3d-art/3d-retopology-services.webp" alt="3D Retopology Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
+                                     <img loading="lazy" src="images/services/3d-art/3d-retopology-services.webp" alt="3D Retopology Services" class="img-fluid my-3 d-block mx-auto" width="auto" height="auto">
                                     <p class="threed-art-extra-services-text">3D Retopology allows you to create an accurate 3D model of anything and then use that model to create a replica. Our retopology services are designed to help you create beautiful, realistic models of you and other spaces. We will take your existing photos or drawings and use them to create a 3D model that is accurate to the scale of the real thing.</p>
                                 </div>
                             </div>
@@ -857,89 +724,7 @@
 	</div>
 </section>
 <!--End Process-->
-
-<!--Start Tech-->
-<!-- <div class="techonology-used- py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<h2>Technology Stack</h2>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<p class="mb30">We create mobile apps with scalable and tested technology stack to deliver apps par excellence.</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-md-5 wow fadeIn">
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@foreach($techstack as $k=>$item)
-
-					@if($k==0)
-					<li class="active">
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed  stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
-						</a>
-					</li>
-
-					@else
-
-					<li>
-						<a data-bs-toggle="tab" href="#a{{$item['id']}}" class="boximageicon-seo zoomed stack-hov">
-							<img src="uploads/{{$item['image']}}" alt="Tech Stack">
-						</a>
-					</li>
-					@endif
-
-					@if(($k+1)%3==0 )
-					@if($k==0)
-
-					@else
-				</ul>
-				<ul class="nav nav-tabs android-tech-tabs mt-5">
-					@endif
-					@endif
-					@endforeach
-				</ul>
-			</div>
-
-			<div class="col-md-7 mt-4 my-lg-auto wow fadeIn">
-				<div class="tab-content tab-body">
-
-					@foreach($techstack as $k=>$items)
-					@if($k==0)
-					<div id="a{{$items['id']}}" class="tab-pane fade in active">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@else
-					<div id="a{{$items['id']}}" class="tab-pane fade">
-						<div class="boxseo-data text-start">
-							<img src="uploads/{{$items['image']}}" alt="{{$items['heading']}} Logo">
-							<h3 class="font-size-24 mt-0 head-size">{{$items['heading']}}</h3>
-
-							<p class="mt-4">{{$items['content']}}</p>
-						</div>
-					</div>
-
-					@endif
-
-					@endforeach
-				</div>
-			</div>
-		</div>
-	</div>
-</div> -->
-<!--End Tech-->
-
+ 
 <!--Start Let's Work Together-->
 <section class="my-1">
 	<div class="container">
@@ -980,25 +765,25 @@
 		<div class="row mt-5">
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/google-certifie-agency.webp" alt="Google Developers" width="auto" height="auto">
 					<h6 class="pt-3">Google Developer<br>Certified Agency</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/adobe-logos.webp" alt="Adobe Solution Partner" width="auto" height="auto">
 					<h6 class="pt-3">Adobe Solution<br>Partner Program</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/microsoft-certified-partner.webp" alt="Microsoft Certified Consulting" width="auto" height="auto">
 					<h6 class="pt-3">Microsoft Certified<br>Consulting Partner</h6>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3 mt-3 text-center certificate">
 				<div>
-					<img src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
+					 <img loading="lazy" src="images/home/amazon-web-services.webp" alt="Amazon Web Service" width="auto" height="auto">
 					<h6 class="pt-3">Amazon Web<br>Service Partner</h6>
 				</div>
 			</div>
@@ -1033,7 +818,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -1046,7 +831,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -1061,7 +846,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -1073,7 +858,7 @@
 						<div class="item">
 							<div class="card">
 								<div class="card-body">
-									<img src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
+									 <img loading="lazy" src="uploads/{{$item['image']}}" class="award-img" width="auto" height="auto">
 									<h5 class="text-center pt-3">{{$item['heading']}}</h5>
 								</div>
 							</div>
@@ -1146,7 +931,7 @@
 						<iframe
 							id="player-{{$key}}"
 							class="youtube-player testimonial-video"
-
+							loading="lazy"
 						src="{{$item['comments']}}"	
 						title="Client Testimonial"
 
@@ -1188,8 +973,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://clutch.co/profile/appsnation#highlights" target="_blank">
-									<img src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/clutch.webp" class="img-fluid d-block mx-auto" alt="Clutch" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Clutch</p>
 								</a>
 							</div>
@@ -1199,8 +984,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.bark.com/en/us/company/appsnation/wGVQn/" target="_blank">
-									<img src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/bark.webp" class="img-fluid d-block mx-auto" alt="Bark" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Bark</p>
 								</a>
 							</div>
@@ -1210,8 +995,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.designrush.com/agency/profile/appsnation" target="_blank">
-									<img src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/designrush.webp" class="img-fluid d-block mx-auto" alt="DesignRush" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by DesignRush</p>
 								</a>
 							</div>
@@ -1221,8 +1006,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.goodfirms.co/company/appsnation-co" target="_blank">
-									<img src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/goodfirms.webp" class="img-fluid d-block mx-auto" alt="GoodFirms" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by GoodFirms</p>
 								</a>
 							</div>
@@ -1232,8 +1017,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.trustpilot.com/review/appsnation.co" target="_blank">
-									<img src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/trustpilot.webp" class="img-fluid d-block mx-auto" alt="Trustpilot" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Trustpilot</p>
 								</a>
 							</div>
@@ -1243,8 +1028,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sortlist.com/agency/appsnation" target="_blank">
-									<img src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/sortlist.webp" class="img-fluid d-block mx-auto" alt="Sortlist" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by Sortlist</p>
 								</a>
 							</div>
@@ -1254,8 +1039,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://upcity.com/profiles/appsnation" target="_blank">
-									<img src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/upcity.webp" class="img-fluid d-block mx-auto" alt="UpCity" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by UpCity</p>
 								</a>
 							</div>
@@ -1265,8 +1050,8 @@
 						<div class="card h-100">
 							<div class="card-body">
 								<a href="https://www.sitejabber.com/reviews/appsnation.co" target="_blank">
-									<img src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
-									<img src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/sitejabber.webp" class="img-fluid d-block mx-auto" alt="SiteJabber" width="auto" height="auto">
+									 <img loading="lazy" src="images/reviews/star.webp" class="img-fluid d-block mx-auto" alt="Star" width="auto" height="auto">
 									<p class="text-center pt-2 text-black">Recognized as Top App Developers by SiteJabber</p>
 								</a>
 							</div>
@@ -1366,7 +1151,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
+								 <img loading="lazy" src="images/tech/photoshop-logo.webp" class="img-fluid d-block mx-auto" alt="Photoshop">
 								<p class="text-center pt-2">Photoshop</p>
 							</div>
 						</div>
@@ -1374,7 +1159,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-md-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/maya-logo.webp" class="img-fluid d-block mx-auto" alt="Maya">
+								 <img loading="lazy" src="images/tech/maya-logo.webp" class="img-fluid d-block mx-auto" alt="Maya">
 								<p class="text-center pt-2">Maya</p>
 							</div>
 						</div>
@@ -1382,7 +1167,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3 mt-lg-0">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/3ds-max-logo.webp" class="img-fluid d-block mx-auto" alt="3DS Max">
+								 <img loading="lazy" src="images/tech/3ds-max-logo.webp" class="img-fluid d-block mx-auto" alt="3DS Max">
 								<p class="text-center pt-2">3DS Max</p>
 							</div>
 						</div>
@@ -1390,7 +1175,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/blender-logo.webp" class="img-fluid d-block mx-auto" alt="Blender" width="auto" height="auto">
 								<p class="text-center pt-2">Blender</p>
 							</div>
 						</div>
@@ -1398,7 +1183,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/marmoset-toolbag-logo.webp" class="img-fluid d-block mx-auto" alt="Marmoset Toolbag">
+								 <img loading="lazy" src="images/tech/marmoset-toolbag-logo.webp" class="img-fluid d-block mx-auto" alt="Marmoset Toolbag">
 								<p class="text-center pt-2">Marmoset Toolbag</p>
 							</div>
 						</div>
@@ -1406,7 +1191,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/modo-logo.webp" class="img-fluid d-block mx-auto" alt="Modo">
+								 <img loading="lazy" src="images/tech/modo-logo.webp" class="img-fluid d-block mx-auto" alt="Modo">
 								<p class="text-center pt-2">Modo</p>
 							</div>
 						</div>
@@ -1414,7 +1199,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/v-ray-logo.webp" class="img-fluid d-block mx-auto" alt="V-Ray">
+								 <img loading="lazy" src="images/tech/v-ray-logo.webp" class="img-fluid d-block mx-auto" alt="V-Ray">
 								<p class="text-center pt-2">V-Ray</p>
 							</div>
 						</div>
@@ -1422,7 +1207,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/chaos-corona-logo.webp" class="img-fluid d-block mx-auto" alt="Corona">
+								 <img loading="lazy" src="images/tech/chaos-corona-logo.webp" class="img-fluid d-block mx-auto" alt="Corona">
 								<p class="text-center pt-2">Corona</p>
 							</div>
 						</div>
@@ -1430,7 +1215,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/zbrush-logo.webp" class="img-fluid d-block mx-auto" alt="ZBrush">
+								 <img loading="lazy" src="images/tech/zbrush-logo.webp" class="img-fluid d-block mx-auto" alt="ZBrush">
 								<p class="text-center pt-2">ZBrush</p>
 							</div>
 						</div>
@@ -1438,7 +1223,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/marvelous-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Marvelous Designer">
+								 <img loading="lazy" src="images/tech/marvelous-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Marvelous Designer">
 								<p class="text-center pt-2">Marvelous</p>
 							</div>
 						</div>
@@ -1446,7 +1231,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
+								 <img loading="lazy" src="images/tech/unreal-engine-logo.webp" class="img-fluid d-block mx-auto" alt="Unreal Engine" width="auto" height="auto">
 								<p class="text-center pt-2">Unreal Engine</p>
 							</div>
 						</div>
@@ -1454,7 +1239,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/substance-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Designer">
+								 <img loading="lazy" src="images/tech/substance-designer-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Designer">
 								<p class="text-center pt-2">Substance Designer</p>
 							</div>
 						</div>
@@ -1462,7 +1247,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity Designer">
+								 <img loading="lazy" src="images/tech/unity-logo.webp" class="img-fluid d-block mx-auto" alt="Unity Designer">
 								<p class="text-center pt-2">Unity</p>
 							</div>
 						</div>
@@ -1470,7 +1255,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/substance-painter-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Painter">
+								 <img loading="lazy" src="images/tech/substance-painter-logo.webp" class="img-fluid d-block mx-auto" alt="Substance Painter">
 								<p class="text-center pt-2">Substance Painter</p>
 							</div>
 						</div>
@@ -1478,7 +1263,7 @@
 					<div class="col-sm-6 col-md-6 col-lg-4 mt-3">
 						<div class="card stack-hov">
 							<div class="card-body">
-								<img src="images/tech/mari-logo.webp" class="img-fluid d-block mx-auto" alt="Mari">
+								 <img loading="lazy" src="images/tech/mari-logo.webp" class="img-fluid d-block mx-auto" alt="Mari">
 								<p class="text-center pt-2">Mari</p>
 							</div>
 						</div>

@@ -14,7 +14,7 @@
 
             <div class="col-md-6 col-lg-6 my-lg-auto">
                 <div class="bread-titlev2 mt-4">
-                    <img src="{{asset('images/case-studies/couple-app/logo.webp')}}" class=" logo" alt="couple-app logo">
+                     <img loading="lazy" src="{{asset('images/case-studies/couple-app/logo.webp')}}" class=" logo" alt="couple-app logo">
                     <h1>One App, for <br> Both of You
                     </h1>
                     <p class="pt-3">
@@ -26,7 +26,7 @@
             </div>
 
             <div class="col-md-6  col-lg-6 mt-5 mt-lg-0  couple-app-hero-img">     
-                <img src="{{asset('images/case-studies/couple-app/hero-img.webp')}}"
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/hero-img.webp')}}"
                     class="img-fluid hero-img"
                     alt="couple-app-app">
             </div>
@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 couple-app-clint-overview-img">
-                    <img src="{{asset('images/case-studies\couple-app/client-overview-img.webp')}}" alt="client-overview" width="100%" height="100%">
+                     <img loading="lazy" src="{{asset('images/case-studies\couple-app/client-overview-img.webp')}}" alt="client-overview" width="100%" height="100%">
                 </div>
 
             </div>
@@ -132,19 +132,19 @@
                 <div class="challenges">
                     <ul>
                         <li>
-                            <img src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
                             <p>A single platform to manage everything: guests, tasks, notes, and scheduling.</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
                             <p>Shared couple dashboard for real-time planning and emotional connection.</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
                             <p>Built-in features like love notes, countdowns, and memory timelines.</p>
                         </li>
                         <li>
-                            <img src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
+                             <img loading="lazy" src="{{asset('images/case-studies\couple-app/vactor.webp')}}" alt="vector">
                             <p>Romantic, stress-free UX designed around the couple, not just logistics.</p>
                         </li>
                     </ul>
@@ -152,7 +152,7 @@
             </div>
 
             <div class="col-12 col-md-6 text-center text-md-end">
-                <img class="img-fluid" src="{{asset('images/case-studies/Couple-app/app-thoughtfully-img.webp')}}" alt="wood-land-challenges">
+                 <img loading="lazy" class="img-fluid" src="{{asset('images/case-studies/Couple-app/app-thoughtfully-img.webp')}}" alt="wood-land-challenges">
             </div>
         </div>
     </div>
@@ -175,19 +175,19 @@
 
         <div class="row g-3 love-app-wireframe-gallery">
             <div class="col-6 col-md-3 col-lg-3 col-xl-3">
-                <img src="{{asset('images/case-studies/couple-app/wireframe1.webp')}}" alt="couple app Wireframe" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/wireframe1.webp')}}" alt="couple app Wireframe" class="wire-img">
             </div>
             
             <div class="col-6 col-md-3 col-lg-3 col-xl-3">
-                <img src="{{asset('images/case-studies/couple-app/wireframe2.webp')}}" alt="couple app Wireframe" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/wireframe2.webp')}}" alt="couple app Wireframe" class="wire-img">
             </div>
             
             <div class="col-6 col-md-3 col-lg-3 col-xl-3">
-                <img src="{{asset('images/case-studies/couple-app/wireframe3.webp')}}" alt="couple app Wireframe" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/wireframe3.webp')}}" alt="couple app Wireframe" class="wire-img">
             </div>
             
             <div class="col-6 col-md-3 col-lg-3 col-xl-3">
-                <img src="{{asset('images/case-studies/couple-app/wireframe4.webp')}}" alt="couple app Wireframe" class="wire-img">
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/wireframe4.webp')}}" alt="couple app Wireframe" class="wire-img">
             </div>
             
              
@@ -266,35 +266,35 @@
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Frontend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/react-native.webp')}}" alt="React Native">
                     <p>React Native</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Backend</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/node-js.webp')}}" alt="Node.js">
                     <p>Node.js</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Database</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/mongo-db.webp')}}" alt="MongoDB">
                     <p>MongoDB</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Cloud</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/aws.webp')}}" alt="AWS">
                     <p>AWS</p>
                 </div>
             </div>
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="tech-card text-center">
                     <h6>Payments</h6>
-                    <img src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
+                     <img loading="lazy" src="{{asset('images/case-studies/boujee-beachin/payment.png')}}" alt="payment">
                     <p>Stripe • G Pay</p>
                 </div>
             </div>
@@ -311,22 +311,22 @@
             <h2 class="mb-3 text-center">App Screens</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen13.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen14.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen15.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/appscreen16.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen5.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen6.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen7.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen8.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen9.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen10.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen11.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen12.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen13.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen14.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen15.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/appscreen16.webp')}}" alt="App Screens" class="img-fluid"></div>
 
         </div>
     </div>
@@ -350,7 +350,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/couple-app/avtar1.webp')}}" alt="Avatar" class="img-fluid">
+                             <img loading="lazy" src="{{asset('images/case-studies/couple-app/avtar1.webp')}}" alt="Avatar" class="img-fluid">
                             <h4>Emma</h4>
                             <p>Freelance Graphic Designer </p>
                         </div>
@@ -393,7 +393,7 @@
                 <div class="col-md-4">
                     <div class="persona-card persona-left-column-card">
                         <div class="persona-name-section">
-                            <img src="{{asset('images/case-studies/couple-app/avtar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
+                             <img loading="lazy" src="{{asset('images/case-studies/couple-app/avtar2.webp')}}" alt="Ahmed Al-Kuwari Avatar">
                             <h4>David </h4>
                             <p>Software Engineer</p>
                         </div>
@@ -462,7 +462,7 @@
 
 				<div class="col-md-6 uiux-image-col">
 					<div class="uiux-image-card">
-						<img src="{{ asset('images/case-studies/couple-app/design-section-img1.webp') }}" alt="UI/UX Design Mockup"
+						 <img loading="lazy" src="{{ asset('images/case-studies/couple-app/design-section-img1.webp') }}" alt="UI/UX Design Mockup"
 							class="uiux-image">
 					</div>
 				</div>
@@ -479,10 +479,10 @@
             <h2 class="mb-3 text-center">Vendor App</h2>
         </div>
         <div class="row">
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/vendor-app1.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/vendor-app2.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/vendor-app3.webp')}}" alt="App Screens" class="img-fluid"></div>
-            <div class="col-md-3 col-6 my-3"><img src="{{asset('images/case-studies/couple-app/vendor-app4.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/vendor-app1.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/vendor-app2.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/vendor-app3.webp')}}" alt="App Screens" class="img-fluid"></div>
+            <div class="col-md-3 col-6 my-3"> <img loading="lazy" src="{{asset('images/case-studies/couple-app/vendor-app4.webp')}}" alt="App Screens" class="img-fluid"></div>
           
            
           
@@ -506,7 +506,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <img src="{{asset('images/case-studies/couple-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
+                 <img loading="lazy" src="{{asset('images/case-studies/couple-app/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
             </div>
         </div>
     </div>

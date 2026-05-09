@@ -170,7 +170,6 @@
 	}
 }
 
-
 @media only screen and (max-width:1320px) {
 	.mouse-cursor {
 		display: none;
@@ -944,7 +943,6 @@
 	}
 }
 
-
 @media only screen and (max-width:767px) {
 	h1 {
 		font-size: 38px;
@@ -1309,14 +1307,12 @@
 	}
 }
 
-
 @media (min-width:576px) {
 	.modal-dialog {
 		max-width: 1200px;
 		margin: 1.75rem auto;
 	}
 }
-
 
 @media (max-width:580px) {
 	.ftr-brand-pp .btn-main {
@@ -1498,7 +1494,6 @@
 
 }
 
-
 @media only screen and (max-width:350px) {
 
 	.header-heading h1 {
@@ -1595,9 +1590,7 @@
 	.real-estate-app img, .restaurant-app img, .shopping-express-app img, .sports-app img {
 		width: 65%;
 	} */
-
 }
-
 
 @media only screen and (max-width:767px) {
 
@@ -7629,49 +7622,48 @@
         }
 }
 
+@media (max-width: 1600px) {
+	.case-study-section .left-shape {
+		display: none;
+	}
+}
+@media (max-width: 1600px) {
+	.case-study-section .right-shape {
+		display: none;
+	}
+}
+@media (max-width: 1399px) {
+	.case-study-wrapper .main-box .box {
+		width: 100% !important;
+	}
 
+	.case-study-wrapper .main-box .box.active {
+		width: 100% !important;
+	}
+	
 
-        @media (max-width: 1600px) {
-            .case-study-section .left-shape {
-                display: none;
-            }
-        }
-        @media (max-width: 1600px) {
-            .case-study-section .right-shape {
-                display: none;
-            }
-        }
-        @media (max-width: 1399px) {
-            .case-study-wrapper .main-box .box {
-                width: 100% !important;
-        
-                .case-study-wrapper .main-box .box.active {
-                    width: 100% !important;
-                }
-            }
-        
-            .case-study-wrapper .main-box .box::before {
-                border: 0.5px solid var(--white-color);
-                background: radial-gradient(258.86% 216.49% at -18.48% -74.46%, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%);
-                backdrop-filter: blur(25px);
-            }
-        
-            .case-study-wrapper .main-box .box .number-hover {
-                opacity: 1;
-                visibility: visible;
-            }
-        
-            .case-study-wrapper .main-box .box .project-content {
-                opacity: 1;
-                visibility: visible;
-                bottom: 20px;
-            }
-        
-            .case-study-wrapper .main-box .box .title-items {
-                opacity: 0;
-                visibility: hidden;
-            }
-        }
+	.case-study-wrapper .main-box .box::before {
+		border: 0.5px solid var(--white-color);
+		background: radial-gradient(258.86% 216.49% at -18.48% -74.46%, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%);
+		backdrop-filter: blur(25px);
+	}
+
+	.case-study-wrapper .main-box .box .number-hover {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	.case-study-wrapper .main-box .box .project-content {
+		opacity: 1;
+		visibility: visible;
+		bottom: 20px;
+	}
+
+	.case-study-wrapper .main-box .box .title-items {
+		opacity: 0;
+		visibility: hidden;
+	}
+}
 
 
 
@@ -8177,4 +8169,360 @@
 		flex-wrap: nowrap;
 		justify-content: space-between;
 	}
+}
+
+@media (min-width: 1200px) {
+    .shop-container {
+        max-width: 1110px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .hero-section-royalRide {
+        background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 20%);
+        padding-top: 90px;
+        margin-bottom: 2px;
+
+    }
+
+    .royalRideLogo h1 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+
+    .royalRideLogo img {
+        width: 110px;
+    }
+
+    .hero-img-1 img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-width:375px) and (max-width: 767px) {
+    .hero-section-royalRide {
+        background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 10%);
+        padding-top: 100px;
+        margin-bottom: 2px;
+
+    }
+
+    .royalRideLogo p {
+        text-align: center;
+    }
+
+    .royalRideLogo h1 {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 50px;
+        line-height: 62px;
+    }
+
+    .royalRideLogo img {
+        width: 110px;
+    }
+
+    .hero-img-1 img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 374px) {
+    .hero-section-royalRide {
+        padding-top: 140px;
+        margin-bottom: 32px;
+
+    }
+
+    .royalRideLogo p {
+        text-align: center;
+    }
+
+    .royalRideLogo h1 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+
+    .royalRideLogo img {
+        width: 110px;
+    }
+
+    .hero-img-1 img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .problem-left-container img,
+    .problem-right-container img {
+        width: 800px;
+        height: 600px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .Problem-section {
+        padding: 50px 0;
+    }
+
+    .problem-left-container img,
+    .problem-right-container img {
+        max-width: 420px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .Problem-section {
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .problem-left-container,
+    .problem-right-container {
+        margin-bottom: 30px;
+    }
+
+    .Problem-section h2 {
+        font-size: 26px;
+    }
+
+    .Problem-section p {
+        font-size: 15px;
+    }
+
+    .problem-left-container img,
+    .problem-right-container img {
+        max-width: 100%;
+    }
+}
+
+@media (max-width:992px) {
+
+    .Objectives-section h3 {
+        text-align: center;
+        margin-top: 22px;
+    }
+}
+
+@media (max-width:1399px) {
+
+    .busniess-img-paytem img,
+    .busniess-img-phone img,
+    .bussness-img-lady img {
+        width: 300px;
+        height: auto;
+        padding-left: 22px;
+    }
+}
+
+@media (max-width: 992px) {
+
+    .busniess-img-paytem img,
+    .busniess-img-phone img,
+    .bussness-img-lady img {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+        margin: 0 auto;
+        /* center the image */
+        display: block;
+        /* ensures centering works */
+        padding-left: 0;
+        /* remove fixed padding */
+    }
+}
+
+@media (min-width: 768px) {
+
+    .persona-goals-section h3,
+    .persona-painpoints-section h3 {
+        display: block;
+        border-bottom: 2px solid #ff7f00;
+        width: 100%;
+    }
+
+	.persona-card {
+        margin-bottom: 0;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .uiux-main-title {
+        font-size: 36px;
+    }
+
+    .uiux-image {
+        max-width: 990px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .uiux-section-wrapper {
+        padding: 60px 0;
+    }
+
+    .uiux-image {
+        max-width: 450px;
+    }
+}
+
+@media (max-width: 767px) {
+    .uiux-section-wrapper {
+        padding: 50px 0;
+        text-align: center;
+    }
+
+    .uiux-text-col {
+        margin-bottom: 40px;
+    }
+
+    .uiux-main-title {
+        font-size: 28px;
+    }
+
+    .uiux-subtitle {
+        font-size: 18px;
+    }
+
+    .uiux-paragraph {
+        font-size: 15px;
+    }
+
+    .uiux-image {
+        max-width: 100%;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .uiux-title {
+        font-size: 2rem;
+    }
+
+    .uiux-paragraph {
+        margin-bottom: 2rem;
+    }
+
+    .research-image {
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .comp-analysis-title {
+        font-size: 1.2rem;
+    }
+
+    .comp-analysis-image {
+        width: 100%;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .comp-analysis-title {
+        font-size: 1.3rem;
+    }
+
+    .comp-analysis-image {
+        width: 90%;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .comp-analysis-title {
+        font-size: 1.4rem;
+    }
+
+    .comp-analysis-image {
+        width: 80%;
+    }
+}
+
+
+@media (min-width: 1025px) {
+    .comp-analysis-title {
+        font-size: 1.6rem;
+    }
+
+    .comp-analysis-image {
+        width: 70%;
+    }
+}
+
+@media (min-width: 992px) {
+    .start-connector {
+        left: calc((100% - 1320px) / 226 + 20px);
+    }
+
+    .section-wrapper::before {
+        content: '';
+        position: absolute;
+        top: 60px;
+        left: 50px;
+        width: 2px;
+        height: 150px;
+        background-color: #dcb880;
+        z-index: 0;
+    }
+
+    .section-wrapper::after {
+        content: '';
+        position: absolute;
+        top: 210px;
+        left: 50px;
+        width: 60px;
+        height: 2px;
+        background-color: #dcb880;
+        z-index: 0;
+    }
+
+	 .row-five-cols>.col-custom {
+        width: 20%;
+        padding: 0 10px;
+    }
+
+    .section-wrapper {
+        padding-left: 50px;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .section-wrapper::before,
+    .section-wrapper::after,
+    .start-connector {
+        display: none;
+    }
+
+    .section-wrapper {
+        padding-top: 20px;
+    }
+
+    .card-connector-plus {
+        display: none;
+    }
+
+    .card-custom {
+        min-height: auto;
+        margin-bottom: 20px;
+    }
+
+    .number-circle {
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 768px) {
+    .row-five-cols>.col-custom {
+        width: 50%;
+    }
 }

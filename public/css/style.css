@@ -5989,12 +5989,6 @@ body .bg-text:hover:after {
     background: var(--light-grey);
 }
 
-@media (min-width: 1200px) {
-    .shop-container {
-        max-width: 1110px !important;
-    }
-}
-
 .shop-tags-list li {
     display: inline-block;
     margin-top: 10px;
@@ -13047,16 +13041,6 @@ ul.list {
 
 /* End Industrial Automation */
 
-/* Start Digital Marketing */
-
-.digital-marketing-banner {
-    background: url(../images/banner/digital-marketing.webp) no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-/* End Digital Marketing */
-
 /* Start Animation Services */
 
 .animation-banner {
@@ -19043,93 +19027,6 @@ textarea::-ms-input-placeholder {
     height: auto;
 }
 
-/* responsive hero section */
-/* 992px */
-@media (min-width: 768px) and (max-width: 992px) {
-    .hero-section-royalRide {
-        background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 20%);
-        padding-top: 90px;
-        margin-bottom: 2px;
-
-    }
-
-
-    .royalRideLogo h1 {
-        font-size: 50px;
-        line-height: 62px;
-    }
-
-    .royalRideLogo img {
-        width: 110px;
-    }
-
-    .hero-img-1 img {
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-/* 767px */
-@media (min-width:375px) and (max-width: 767px) {
-    .hero-section-royalRide {
-        background: linear-gradient(to bottom, #C39449 0%, #C39449 5%, transparent 10%);
-        padding-top: 100px;
-        margin-bottom: 2px;
-
-    }
-
-    .royalRideLogo p {
-        text-align: center;
-    }
-
-    .royalRideLogo h1 {
-        font-family: "Poppins", sans-serif;
-        font-weight: 600;
-        font-style: normal;
-        font-size: 50px;
-        line-height: 62px;
-    }
-
-    .royalRideLogo img {
-        width: 110px;
-    }
-
-    .hero-img-1 img {
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-@media (max-width: 374px) {
-    .hero-section-royalRide {
-        padding-top: 140px;
-        margin-bottom: 32px;
-
-    }
-
-    .royalRideLogo p {
-        text-align: center;
-    }
-
-    .royalRideLogo h1 {
-        font-size: 50px;
-        line-height: 62px;
-    }
-
-    .royalRideLogo img {
-        width: 110px;
-    }
-
-    .hero-img-1 img {
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-/* end hero by hassan */
-
-
-/* by hassan Problem-section  */
 /* --- Base Styling --- */
 .Problem-section {
     padding: 60px 0;
@@ -19150,56 +19047,6 @@ textarea::-ms-input-placeholder {
     font-style: normal;
     font-size: 19px;
 }
-
-/* --- Large Screens (Desktops) --- */
-@media (min-width: 1200px) {
-
-    .problem-left-container img,
-    .problem-right-container img {
-        width: 800px;
-        height: 600px;
-    }
-}
-
-/* --- Tablets (768px to 1199px) --- */
-@media (max-width: 1199px) {
-    .Problem-section {
-        padding: 50px 0;
-    }
-
-    .problem-left-container img,
-    .problem-right-container img {
-        max-width: 420px;
-    }
-}
-
-/* --- Mobile (up to 767px) --- */
-@media (max-width: 767px) {
-    .Problem-section {
-        padding: 10px 0;
-        text-align: center;
-    }
-
-    .problem-left-container,
-    .problem-right-container {
-        margin-bottom: 30px;
-    }
-
-    .Problem-section h2 {
-        font-size: 26px;
-    }
-
-    .Problem-section p {
-        font-size: 15px;
-    }
-
-    .problem-left-container img,
-    .problem-right-container img {
-        max-width: 100%;
-    }
-}
-
-/* End hassan Problem-section  */
 
 
 /* by hassan Objectives & Goals section */
@@ -19308,18 +19155,7 @@ textarea::-ms-input-placeholder {
     color: #ced4da;
 }
 
-@media (max-width:992px) {
-
-    .Objectives-section h3 {
-        text-align: center;
-        margin-top: 22px;
-    }
-}
-
 /* end hassan Objectives & Goals section */
-
-
-
 
 /* by hassan Business Challenges */
 
@@ -19330,34 +19166,6 @@ textarea::-ms-input-placeholder {
     height: auto;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 
-}
-
-@media (max-width:1399px) {
-
-    .busniess-img-paytem img,
-    .busniess-img-phone img,
-    .bussness-img-lady img {
-        width: 300px;
-        height: auto;
-        padding-left: 22px;
-    }
-}
-
-@media (max-width: 992px) {
-
-    .busniess-img-paytem img,
-    .busniess-img-phone img,
-    .bussness-img-lady img {
-        width: 100%;
-        max-width: 400px;
-        height: auto;
-        margin: 0 auto;
-        /* center the image */
-        display: block;
-        /* ensures centering works */
-        padding-left: 0;
-        /* remove fixed padding */
-    }
 }
 
 /* end hassan Business Challenges */
@@ -19450,16 +19258,6 @@ textarea::-ms-input-placeholder {
     display: inline-block;
 }
 
-@media (min-width: 768px) {
-
-    .persona-goals-section h3,
-    .persona-painpoints-section h3 {
-        display: block;
-        border-bottom: 2px solid #ff7f00;
-        width: 100%;
-    }
-}
-
 .persona-background-section p {
     font-size: 1rem;
     color: #495057;
@@ -19494,13 +19292,6 @@ textarea::-ms-input-placeholder {
     position: absolute;
     left: 0;
     top: 0;
-}
-
-
-@media (min-width: 768px) {
-    .persona-card {
-        margin-bottom: 0;
-    }
 }
 
 /* end hassan USER PERSONA section */
@@ -19555,66 +19346,7 @@ textarea::-ms-input-placeholder {
     border-radius: 10px;
 }
 
-/* ----------------------------- */
-/*      Large Screens (≥1200px)  */
-/* ----------------------------- */
-@media (min-width: 1200px) {
-    .uiux-main-title {
-        font-size: 36px;
-    }
-
-    .uiux-image {
-        max-width: 990px;
-    }
-}
-
-/* ----------------------------- */
-/*    Tablets (768px–1199px)     */
-/* ----------------------------- */
-@media (max-width: 1199px) {
-    .uiux-section-wrapper {
-        padding: 60px 0;
-    }
-
-    .uiux-image {
-        max-width: 450px;
-    }
-}
-
-/* ----------------------------- */
-/*       Mobile (≤767px)         */
-/* ----------------------------- */
-@media (max-width: 767px) {
-    .uiux-section-wrapper {
-        padding: 50px 0;
-        text-align: center;
-    }
-
-    .uiux-text-col {
-        margin-bottom: 40px;
-    }
-
-    .uiux-main-title {
-        font-size: 28px;
-    }
-
-    .uiux-subtitle {
-        font-size: 18px;
-    }
-
-    .uiux-paragraph {
-        font-size: 15px;
-    }
-
-    .uiux-image {
-        max-width: 100%;
-    }
-}
-
 /* end hassan uiux section  */
-
-
-
 
 /* by hassan User Research section  */
 
@@ -19655,21 +19387,6 @@ textarea::-ms-input-placeholder {
 
 /* --- Responsiveness Improvement --- */
 
-
-@media (max-width: 767.98px) {
-    .uiux-title {
-        font-size: 2rem;
-    }
-
-    .uiux-paragraph {
-        margin-bottom: 2rem;
-    }
-
-    .research-image {
-        margin-bottom: 2rem;
-    }
-}
-
 /* end hassan User Research section  */
 
 .comp-analysis-container {
@@ -19693,50 +19410,6 @@ textarea::-ms-input-placeholder {
     width: 100%;
     height: auto;
     max-width: 100%;
-}
-
-
-@media (max-width: 480px) {
-    .comp-analysis-title {
-        font-size: 1.2rem;
-    }
-
-    .comp-analysis-image {
-        width: 100%;
-    }
-}
-
-
-@media (min-width: 481px) and (max-width: 768px) {
-    .comp-analysis-title {
-        font-size: 1.3rem;
-    }
-
-    .comp-analysis-image {
-        width: 90%;
-    }
-}
-
-
-@media (min-width: 769px) and (max-width: 1024px) {
-    .comp-analysis-title {
-        font-size: 1.4rem;
-    }
-
-    .comp-analysis-image {
-        width: 80%;
-    }
-}
-
-
-@media (min-width: 1025px) {
-    .comp-analysis-title {
-        font-size: 1.6rem;
-    }
-
-    .comp-analysis-image {
-        width: 70%;
-    }
 }
 
 .section-wrapper {
@@ -19782,47 +19455,6 @@ textarea::-ms-input-placeholder {
     height: 2px;
     background-color: #dcb880;
     display: none;
-}
-
-@media (min-width: 992px) {
-    .start-connector {
-        left: calc((100% - 1320px) / 226 + 20px);
-    }
-
-    .section-wrapper::before {
-        content: '';
-        position: absolute;
-        top: 60px;
-        left: 50px;
-        width: 2px;
-        height: 150px;
-        background-color: #dcb880;
-        z-index: 0;
-    }
-
-    .section-wrapper::after {
-        content: '';
-        position: absolute;
-        top: 210px;
-        left: 50px;
-        width: 60px;
-        height: 2px;
-        background-color: #dcb880;
-        z-index: 0;
-    }
-}
-
-@media (max-width: 991px) {
-
-    .section-wrapper::before,
-    .section-wrapper::after,
-    .start-connector {
-        display: none;
-    }
-
-    .section-wrapper {
-        padding-top: 20px;
-    }
 }
 
 .card-custom {
@@ -19901,21 +19533,6 @@ textarea::-ms-input-placeholder {
     display: none;
 }
 
-@media (max-width: 991px) {
-    .card-connector-plus {
-        display: none;
-    }
-
-    .card-custom {
-        min-height: auto;
-        margin-bottom: 20px;
-    }
-
-    .number-circle {
-        margin-bottom: 15px;
-    }
-}
-
 .row-five-cols {
     display: flex;
     flex-wrap: wrap;
@@ -19925,23 +19542,6 @@ textarea::-ms-input-placeholder {
     width: 100%;
     padding-left: 10px;
     padding-right: 10px;
-}
-
-@media (min-width: 768px) {
-    .row-five-cols>.col-custom {
-        width: 50%;
-    }
-}
-
-@media (min-width: 992px) {
-    .row-five-cols>.col-custom {
-        width: 20%;
-        padding: 0 10px;
-    }
-
-    .section-wrapper {
-        padding-left: 50px;
-    }
 }
 
 .card-inner {
@@ -22599,7 +22199,6 @@ textarea::-ms-input-placeholder {
     border-radius: 12px;
 }
 
-/* start map new section */
 .map-new {
     position: relative;
 }
@@ -22610,7 +22209,6 @@ textarea::-ms-input-placeholder {
 }
 
 
-/* Expanded state */
 .distribution-map .map-point:focus,
 .distribution-map .map-point:active {
     width: 320px;
@@ -22678,9 +22276,6 @@ textarea::-ms-input-placeholder {
     left: 66%;
 }
 
-
-
-/* Content wrapper */
 .distribution-map .map-point .content {
     position: relative;
     width: 100%;
@@ -22690,13 +22285,11 @@ textarea::-ms-input-placeholder {
     overflow: hidden;
 }
 
-/* Show content on open */
 .distribution-map .map-point:focus .content,
 .distribution-map .map-point:active .content {
     opacity: 1;
 }
 
-/* Google Map iframe (BACKGROUND) */
 .distribution-map iframe {
     position: absolute;
     inset: 0;
@@ -22707,16 +22300,13 @@ textarea::-ms-input-placeholder {
     filter: grayscale(100%) brightness(0.85);
 }
 
-/* Text overlay (FOREGROUND) */
 .distribution-map .info {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
     padding: 16px;
-    background: linear-gradient(to top,
-            rgba(0, 0, 0, 0.75),
-            rgba(0, 0, 0, 0.1));
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.1));
     z-index: 2;
     text-align: left;
 }
@@ -22732,8 +22322,6 @@ textarea::-ms-input-placeholder {
     margin: 0;
     color: #e5e5e5;
 }
-
-/* End map new section */
 
 .centered {
     position: absolute;
@@ -22827,23 +22415,23 @@ textarea::-ms-input-placeholder {
     color: #afe1fa;
 }
 
- /* Connect With Us section */
- .connect-with-us .info-cards .cont-prt{
- background: var(--light-grey);
- padding: 50px 10px;
- border: 1px solid var(--gray-color);
- border-radius: 30px;
+.connect-with-us .info-cards .cont-prt{
+    background: var(--light-grey);
+    padding: 50px 10px;
+    border: 1px solid var(--gray-color);
+    border-radius: 30px;
      transition: transform 0.3s ease; 
- }
- .connect-with-us .info-cards .cont-prt:hover{
-     transform: scale(1.05);
- border: 1px solid var(--first-color);
-   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-   background: var(--first-color);
+}
 
- }
- .connect-with-us .info-cards .cont-prt:hover h4,
- .connect-with-us .info-cards .cont-prt:hover .txt{
+.connect-with-us .info-cards .cont-prt:hover{
+    transform: scale(1.05);
+    border: 1px solid var(--first-color);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    background: var(--first-color);
+}
+
+.connect-with-us .info-cards .cont-prt:hover h4,
+.connect-with-us .info-cards .cont-prt:hover .txt{
     color: var(--white-color);
  }
 
@@ -22851,24 +22439,16 @@ textarea::-ms-input-placeholder {
     text-align: center;
 }
 
-
-
-/* new digital marketing page    */
-/* ===== Animations (USED) ===== */
-
-/* Rotate */
 @keyframes cir36 {
 	100% { transform: rotate(360deg); }
 }
 
-/* Bounce X */
 @keyframes bounce-x {
 	0% { transform: translateX(0); }
 	50% { transform: translateX(30px); }
 	100% { transform: translateX(0); }
 }
 
-/* Moving */
 @keyframes moving {
 	0% { transform: translateY(0); }
 	20% { transform: translateX(-50px); }
@@ -22876,7 +22456,7 @@ textarea::-ms-input-placeholder {
 	100% { transform: translateY(0); }
 }
 
-/* Float Y */
+
 @keyframes float-bob-y {
 	0% { transform: translateY(-30px); }
 	50% { transform: translateY(-10px); }
@@ -22887,9 +22467,9 @@ textarea::-ms-input-placeholder {
 	animation: float-bob-y 3s infinite linear;
 }
 
-/* Image reveal (USED in HTML) */
+
 .img-custom-anim-left {
-    	animation: img-anim-left 1.3s forwards cubic-bezier(0.645, 0.045, 0.355, 1) 0.4s;
+    animation: img-anim-left 1.3s forwards cubic-bezier(0.645, 0.045, 0.355, 1) 0.4s;
 	opacity: 0;
 }
 
@@ -22924,10 +22504,12 @@ textarea::-ms-input-placeholder {
 	}
 }
 
-/* ===== Layout ===== */
+/* Start Digital Marketing */
 
-.fix {
-	overflow: hidden;
+.digital-marketing-banner {
+    background: url(../images/hero/hero-bg.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .bg-cover {
@@ -22936,14 +22518,11 @@ textarea::-ms-input-placeholder {
 	background-position: center;
 }
 
-/* ===== HERO SECTION ===== */
-
 .hero-1 {
 	padding: 150px 0 0;
 	position: relative;
 }
 
-/* Shapes */
 .hero-1 .mike-shape {
 	position: absolute;
 	top: 20%;
@@ -22980,13 +22559,10 @@ textarea::-ms-input-placeholder {
 	right: 20px;
 }
 
-/* Container spacing */
 .hero-1 .container-fluid {
 	padding: 0 141px;
 }
 
-
-/* Content */
 .hero-1 .hero-content span {
 	font-size: 20px;
 	font-weight: 600;
@@ -23006,14 +22582,12 @@ textarea::-ms-input-placeholder {
 	max-width: 510px;
 }
 
-/* Image */
 .hero-1 .hero-image {
-	    position: relative;
+	position: relative;
     margin-left: 37px;
     /* margin-top: 32px; */
     bottom: -18px;
 }
-
 
 .hero-1 .hero-image .bg-shape {
 	position: absolute;
@@ -23023,7 +22597,6 @@ textarea::-ms-input-placeholder {
 	z-index: -1;
 }
 
-/* Client section */
 .hero-1 .client-items {
 	margin-top: 30px;
 }
@@ -23044,8 +22617,7 @@ textarea::-ms-input-placeholder {
 	color: var(--white-color);
 	font-size: 14px;
 }
-/* end hero section */
-/* start morque */
+
 .scrolling-wrap {
 	overflow: hidden;
 	display: flex;
@@ -23069,7 +22641,6 @@ textarea::-ms-input-placeholder {
 	height: 60px;
 }
 
-/* Style-2 (used in your HTML) */
 .mycustom-marque.style-2 {
 	background: var(--white-color);
 	border: 1px solid var(--white-color);
@@ -23080,7 +22651,6 @@ textarea::-ms-input-placeholder {
 	padding-top: 10px;
 }
 
-/* Animation */
 @keyframes scroll {
 	0% {
 		transform: translateX(0);
@@ -23090,9 +22660,6 @@ textarea::-ms-input-placeholder {
 	}
 }
  
-
-/* case study section start */
-
 .case-study-wrapper .case-study-box-items {
 	margin-top: 30px;
 }
@@ -23106,8 +22673,6 @@ textarea::-ms-input-placeholder {
 	height: 100%;
 	border-radius: 24px;
 }
-
-
 
 .case-study-wrapper .case-study-box-items .thumb .post-box-items {
 	position: absolute;
@@ -23178,7 +22743,6 @@ textarea::-ms-input-placeholder {
 	align-items: center;
 }
 
-
 .case-study-wrapper .main-box .box {
 	background-image: url(../images/case-studies/05.jpg);
 	background-position: center center;
@@ -23204,11 +22768,10 @@ textarea::-ms-input-placeholder {
 	transition: all 0.4s ease-in-out;
 }
 
-
 .case-study-wrapper .main-box .box .title-items h3 {
 	position: absolute;
 	top: 40%;
-	left: 70%;
+	left: 88%;
 	transform: translate(-50%, -50%) rotate(-90deg);
 }
 
@@ -23235,8 +22798,6 @@ textarea::-ms-input-placeholder {
 	transform: translateX(-50%);
 }
 
-
-
 .case-study-wrapper .main-box .box::before {
 	position: absolute;
 	top: 0;
@@ -23249,8 +22810,6 @@ textarea::-ms-input-placeholder {
 	border-radius: 24px;
 	background: var(--first-color);
 }
-
-
 
 .case-study-wrapper .main-box .box .number-hover {
 	width: 44px;
@@ -23280,8 +22839,6 @@ textarea::-ms-input-placeholder {
 	transition: all 0.4s ease-in-out;
 	right: 30px;
 }
-
-
 
 .case-study-wrapper .main-box .box .project-content h3 {
 	margin-bottom: 10px;
@@ -23315,8 +22872,6 @@ textarea::-ms-input-placeholder {
 	transform: rotate(0);
 }
 
-
-
 .case-study-wrapper .main-box .box.active {
 	width: 100% !important;
 }
@@ -23324,7 +22879,7 @@ textarea::-ms-input-placeholder {
 .case-study-wrapper .main-box .box.active::before {
 	border: 0.5px solid var(--white-color);
 	/* background: radial-gradient(258.86% 216.49% at -18.48% -74.46%, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%); */
-	background: url(../images/case-studies/case-studies.webp);
+	background: url(../images/services/digital-marketing/case-studies.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	/* backdrop-filter: blur(25px); */
@@ -23363,14 +22918,12 @@ textarea::-ms-input-placeholder {
 	margin-right: 10%;
 }
 
-
 .case-study-section .right-shape {
     position: absolute;
 	bottom: 0;
 	right: 40px;
 }
  
-
 .case-studies-card-items {
 	margin-top: 30px;
 }
@@ -23431,12 +22984,6 @@ textarea::-ms-input-placeholder {
     margin-bottom: 20px;
 }
 
-
-
-/* start about section */
-
-
-
 .about-wrapper .about-image {
 	position: relative;
 	text-align: center;
@@ -23483,7 +23030,6 @@ textarea::-ms-input-placeholder {
 	margin-bottom: 30px;
 }
 
-
 .about-wrapper .about-content .circle-progress-bar-wrapper .single-circle-bar {
 	display: flex;
 	align-items: center;
@@ -23503,7 +23049,6 @@ textarea::-ms-input-placeholder {
 	font-size: 18px;
 	line-height: 135%;
 }
-
 
 .about-wrapper .about-content .circle-progress-bar-wrapper .single-circle-bar .circle-bar {
 	position: relative;
@@ -23562,7 +23107,6 @@ textarea::-ms-input-placeholder {
 	background-size: cover;
 	;
 }
- 
 
 .about-section .brand-wrapper {
 	position: absolute;
@@ -23572,8 +23116,6 @@ textarea::-ms-input-placeholder {
 	z-index: 9;
 	max-width: 1200px;
 }
-
-
 
 .about-section .brand-wrapper .brand-title {
 	text-align: center;
@@ -23607,8 +23149,6 @@ textarea::-ms-input-placeholder {
 	left: 0;
 }
  
-
-
 .main-button .theme-btn {
     position: relative;
     z-index: 2;
@@ -23636,9 +23176,6 @@ textarea::-ms-input-placeholder {
     font-size: 14px;
 }
 
-
-
-/* by hassan portfolio */
 .stats-container {
 	background-color: #e0f2f1;
 	border-radius: 15px;
@@ -23671,7 +23208,6 @@ textarea::-ms-input-placeholder {
 	color: #495057;
 }
 
-
 .theme-btn {
 	display: inline-flex;
 	align-items: center;
@@ -23680,7 +23216,6 @@ textarea::-ms-input-placeholder {
 	text-decoration: none;
 	color: inherit;
 }
-
 
 .theme-btn span {
 	color: white !important;
@@ -23693,15 +23228,10 @@ textarea::-ms-input-placeholder {
 	text-align: center;
 }
 
-
-
-
-
 .carousel-inner {
 	background: #fff;
 	border-radius: 1rem;
 }
-
 
 .carousel-indicators [data-bs-target] {
 	background-color: #009291;
@@ -23717,10 +23247,6 @@ textarea::-ms-input-placeholder {
 	width: 14px;
 	height: 14px;
 }
-
-/*End by hassan Our Case Studys */
-
-/* youtube container */
 
 .video-container {
 	position: relative;
@@ -23740,28 +23266,21 @@ textarea::-ms-input-placeholder {
 	height: 100%;
 }
 
-
 .modalCloseButton {
 	color: white;
 }
 
-
-
-/* by hassan video testimonials */
- 
 .video-card {
     background: #ffffff;
     border-radius: 18px;
     padding: 20px;
 } 
 
-/* Inner video frame */
 .video-card .video-frame {
     overflow: hidden;
     border-radius: 14px;
 }
 
-/* Bigger iframe */
 .video-card iframe {
     width: 100%;
     height: 500px;   
@@ -23781,8 +23300,6 @@ textarea::-ms-input-placeholder {
     transform: scale(1.4);
 }
 
-
-/* industries */
 .industries-link {
 	position: relative;
 }
@@ -23864,8 +23381,6 @@ textarea::-ms-input-placeholder {
 	color: var(--black);
 	font-weight: 600;
 	text-align: center;
-
-
 	gap: 12px;
 	padding: 12px 15px;
 	border: 1px solid #eee;
@@ -23894,7 +23409,6 @@ textarea::-ms-input-placeholder {
 	fill: var(--first-color);
 }
 
-/* Creative Process Text */
 .Our-Creative-Process {
     margin-top: 40px;
 }
@@ -23907,18 +23421,10 @@ textarea::-ms-input-placeholder {
     padding-right: 10px;
 }
 
-/* Highlight second line */
 .Our-Creative-Process p:nth-child(2) {
     font-size: 72px;
     color: #009291;
 }
-
-
-
-
-
-/* team section */
-
 
 .team-wrapper {
 	max-width: 1240px;
@@ -23939,7 +23445,6 @@ textarea::-ms-input-placeholder {
 	z-index: -1;
 }
 
-
 .team-wrapper .team-content p {
 	font-weight: 500;
 }
@@ -23951,7 +23456,6 @@ textarea::-ms-input-placeholder {
 	margin-top: 30px;
 	margin-bottom: 40px;
 }
-
 
 .team-wrapper .team-content .list-items ul li {
 	font-weight: 600;
@@ -24053,7 +23557,6 @@ textarea::-ms-input-placeholder {
 	border-radius: 16px;
 }
 
-
 .team-wrapper.style-4 .results-left-items .content {
 	border-radius: 10px;
 	background-color: var(--white);
@@ -24090,12 +23593,36 @@ textarea::-ms-input-placeholder {
 	left: 0;
 } 
 
-/* new bages section */
 .new-bages-section .award-item .card{
     height: 250px !important;
 }
 
+.seo-banner {
+    background-image: url(../images/services/digital-marketing/seo.png); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
 
+.content-writing-banner {
+    background-image: url(../images/services/digital-marketing/content-writing.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-/* hassan */
+.smm-banner {
+    background-image: url(../images/services/digital-marketing/smm.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.advertisement-banner {
+    background-image: url(../images/services/digital-marketing/advertisement.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dm-portfolio-carousel span {
+    color: var(--first-color);
+}
+
+/* End Digital Marketing */

@@ -1096,9 +1096,6 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
-
-
-
 //>> Project Hover Js Start <<//
 const getSlide = $('.main-box, .box').length - 1;
 const slideCal = 100 / getSlide + '%';
@@ -1111,9 +1108,6 @@ $('.box').hover(function () {
     $('.box').removeClass('active');
     $(this).addClass('active');
 });
-
-
-// demo
 
 
 // demo
@@ -1172,11 +1166,9 @@ document.getElementById('overlay').addEventListener('click', function () {
 });
 
 
-
-
-// created by hassan portfoilo section 
+// Digital Marketing
 document.addEventListener('DOMContentLoaded', function () {
-    const carousel = document.querySelector('#animalCarousel');
+    const carousel = document.querySelector('#dmPortfolioCarousel');
     const bsCarousel = new bootstrap.Carousel(carousel);
     let startX = 0;
     let endX = 0;
@@ -1201,9 +1193,3 @@ document.addEventListener('DOMContentLoaded', function () {
         else bsCarousel.prev();
     }
 });
-// End by hassan portfoilo section
-
-
-// digital market page gifs start
-
-// digital market page gifs End

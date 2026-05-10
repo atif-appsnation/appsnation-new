@@ -234,7 +234,7 @@
 	.pbwide {
 		grid-template-columns: auto;
 		grid-gap: 50px;
-		padding: 50px 30px;
+		/* padding: 50px 30px; */
 	}
 
 	.img-wide-blocktt {
@@ -2280,13 +2280,9 @@
 		right: 55.1%;
 	}
 
-
-	/* start case study */
-	/* royal ride case study start */
 	.hero-section-royalRide {
 		margin-top: 0;
 		margin-bottom: 100px;
-
 	}
 
 	.royalRideLogo p {
@@ -2310,7 +2306,6 @@
 		height: auto;
 	}
 
-	/* royal ride case study */
 	.Problem-section {
 		padding: 10px 0;
 		text-align: center;
@@ -2332,14 +2327,29 @@
 		max-width: 100%;
 	}
 
-	/* royal relax case studt start */
 	.royal-relax-spaceing {
 		margin: 40px 0 80px 0;
 	}
 
-	/* map section */
 	.distribution-map .map-point i {
 		font-size: 18px;
+	}
+
+	.banner-box-section .banner-box-image {
+		aspect-ratio: 1592 / 1600 ;
+		padding: 24px;
+	}
+
+	.process-btns {
+		display: block;
+	}
+
+	.process-btns button {
+		margin-bottom: 10px;
+	}
+
+	.process-tabs .tabs .tabs-icons {
+    	grid-template-columns: repeat(1, 1fr);
 	}
 
 }
@@ -2982,6 +2992,25 @@
 	/* map section */
 	.distribution-map .map-point i {
 		font-size: 20px;
+	}
+
+	.banner-box-section .banner-box-image {
+		aspect-ratio: 1592 / 740;
+		padding: 24px;
+	}
+
+	.process-btns {
+		display: block;
+	}
+
+	.process-btns button {
+		display: flex;
+		flex-direction: row;
+		margin-bottom: 10px;
+	}
+
+	.process-tabs .tabs .tabs-icons {
+    	grid-template-columns: repeat(2, 1fr);
 	}
 }
 
@@ -4832,11 +4861,6 @@
 
 @media (min-width: 355px) and (max-width: 399px) {
 
-	/*Start banner setion */
-	.banner-box-section .banner-box-image {
-		aspect-ratio: 1592 / 1959 !important;
-	}
-
 	/*End banner setion */
 	.card.h-120.h-100 {
 		height: 120% !important;
@@ -5120,11 +5144,6 @@
 		margin-top: 50px;
 	}
 
-	/* testimonial card */
-	.testimonial-card p {
-		font-size: 12px;
-		word-spacing: 2px;
-	}
 
 	.tcd h3 {
 		font-size: 22px;
@@ -5179,10 +5198,6 @@
 		max-width: 450px;
 	}
 
-	/*start banners section*/
-	.banner-box-section .banner-box-image {
-		aspect-ratio: 1672 /625;
-	}
 
 	.banner-box-image h2 {
 		font-size: 35px;
@@ -5404,10 +5419,6 @@
 		margin-top: 0;
 	}
 
-	/*start banners section*/
-	.banner-box-section .banner-box-image {
-		aspect-ratio: 1672 / 736;
-	}
 
 	.banner-box-image h2 {
 		font-size: 25px;
@@ -5490,7 +5501,7 @@
 
 	/*start service pages banner section */
 	.services-box-section .banner-box-image {
-		aspect-ratio: 910 / 549;
+		
 		border-radius: 30px;
 		padding: 24px 0 23px 63px;
 	}
@@ -5498,10 +5509,6 @@
 	/*End service pages banner section */
 
 
-	/*start banners section*/
-	.banner-box-section .banner-box-image {
-		aspect-ratio: 1592 / 981;
-	}
 
 	/*End banners section*/
 
@@ -5677,19 +5684,6 @@
 		margin-bottom: 10px;
 	}
 
-	/*Start banner setion */
-	.banner-box-section .banner-box-image {
-		aspect-ratio: 1592 / 979;
-	}
-
-	/*End banner setion */
-
-	/*start service pages banner section */
-	.services-box-section .banner-box-image {
-		aspect-ratio: 696 / 549;
-		border-radius: 30px;
-		padding: 24px 0 23px 63px;
-	}
 
 	/*End service pages banner section */
 
@@ -5748,48 +5742,6 @@
 		padding: 0 50px 0 50px;
 	}
 
-	/* new process section */
-	.process-btns {
-		background: none;
-		flex-direction: row;
-		flex-wrap: wrap;
-
-	}
-
-	.tabBtn.active {
-		background-color: #0F766E;
-		border-left: 2px solid #74E3D3;
-	}
-
-	.process-btns button span {
-
-		font-size: 10px;
-		gap: 0;
-		line-height: 20px;
-
-	}
-
-	.process-btns button {
-		display: flex;
-		flex-direction: row;
-		width: fit-content;
-	}
-
-	.process-tabs .tabs {
-		height: 735px;
-
-	}
-
-	.process-tabs .tabs .tabs-icons {
-		gap: 10px;
-		grid-template-columns: repeat(2, 1fr);
-		line-height: 25px;
-	}
-
-	.process-tabs .tabs .tabs-icons-wrapper i {
-		font-size: 30px;
-
-	}
 
 	/* hero bages slider start */
 	.hero-slider .hero-bage-p {
@@ -5882,33 +5834,7 @@
 	}
 
 
-
-	/* new process section */
-	.process-btns {
-		background: none;
-		flex-direction: row;
-		flex-wrap: wrap;
-
-	}
-
-	.tabBtn.active {
-		background-color: #0F766E;
-		border-left: 2px solid #74E3D3;
-	}
-
-	.process-btns button span {
-
-		font-size: 10px;
-		gap: 0;
-		line-height: 20px;
-
-	}
-
-	.process-btns button {
-		display: flex;
-		flex-direction: row;
-		width: fit-content;
-	}
+	
 
 	/* hero bages slider start */
 	.hero-slider .hero-bage-p {
@@ -7251,12 +7177,7 @@
 
 @media (max-width: 480px) {
 
-	/*Start banner setion */
-	.banner-box-section .banner-box-image {
-		aspect-ratio: 1592 / 1297;
-	}
 
-	/*End banner setion */
 	/* home */
 	.solutions-carousel .item {
 		min-height: 100vh;
@@ -7450,28 +7371,6 @@
 		max-height: 415px;
 	}
 
-
-	/* new process section */
-
-	.process-tabs .tabs {
-		height: 815px;
-
-	}
-
-	.process-tabs .tabs .tabs-icons-wrapper {
-		gap: 10px;
-		margin: 10px 0;
-
-	}
-
-	.process-tabs .tabs .tabs-icons-wrapper i {
-		font-size: 25px;
-
-	}
-
-	.process-tabs .tabs ul li {
-		font-size: 16px;
-	}
 
 	/* MAP SECTION */
 	.distribution-map .map-point:focus {

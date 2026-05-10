@@ -92,25 +92,22 @@
 	</div>
 </section>
 
-
-
-
 <!-- Start Key Highlights -->
-<section id="mycounterSection" class="key-highlights  my-5 ">
-	<div class="container ">
+<section id="mycounterSection" class="key-highlights my-5">
+	<div class="container">
 		<!-- <div class="row justify-content-center">
-					<div class="col-12 fadeIn">
-						<div class="common-heading">
-							<div data-text="Achievements" class="light-bg-text bg-text text-center">
-								<h2 class="key-highlight text-center mt-5">Our Achievements</h2>
-							</div>
-							<h3 class="key-numbers text-center mt-5">Our Work In Numbers</h3>
-						</div>
+			<div class="col-12 fadeIn">
+				<div class="common-heading">
+					<div data-text="Achievements" class="light-bg-text bg-text text-center">
+						<h2 class="key-highlight text-center mt-5">Our Achievements</h2>
 					</div>
-					<div class="col-lg-8 wow fadeIn mt-3">
-						<p class="key-desc text-center">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success. We do not speak about our success, our work speaks about our success.</p>
-					</div>
-				</div> -->
+					<h3 class="key-numbers text-center mt-5">Our Work In Numbers</h3>
+				</div>
+			</div>
+			<div class="col-lg-8 wow fadeIn mt-3">
+				<p class="key-desc text-center">With the help of <strong>50 plus</strong> highly trained professional team we're able to achieve these amazing numbers which is enough proof of our success. We do not speak about our success, our work speaks about our success.</p>
+			</div>
+		</div> -->
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-4">
 				<div class="common-heading ptag fadeIn py-5">
@@ -147,16 +144,16 @@
 </section>
 <!-- End Key Highlights -->
 
-<section class="banner-box-section p-100 text-white py-5">
+<!-- Start Case Studies -->
+<section class="banner-box-section text-white py-5">
 	<div class="h-100 container">
 		<div class="mb-4 row">
 			<div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-12">
-				<h2 style="color: rgb(49, 66, 82);">What's New at AppsNation</h2>
+				<h2>What's New at AppsNation</h2>
 			</div>
 		</div>
 		<div class="banner-slider owl-carousel owl-theme wow fadeIn">
-
-			<div class="banner-box-image" style="background-image: url(images/banner/boujee-beachin-banner.png); background-repeat: no-repeat; background-size: cover;">
+			<div class="banner-box-image boujee-beachin-banner">
 				<div class="h-100 align-items-center row">
 					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
 						<h2>Experience the World of <span>Boujee Beachin</span></h2>
@@ -168,9 +165,7 @@
 					</div>
 				</div>
 			</div>
-
-
-			<div class="banner-box-image" style="background-image: url(images/banner/wood-land-banner.png); background-repeat: no-repeat; background-size: cover;">
+			<div class="banner-box-image wood-land-banner">
 				<div class="h-100 align-items-center row">
 					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
 						<h2>Discover What <span> Wood Land </span>Can Do For You</h2>
@@ -182,10 +177,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="banner-box-image" style="background-image: url(images/banner/neuro-knight-banner.png); background-repeat: no-repeat; background-size: cover;">
+			<div class="banner-box-image neuro-knights-banner">
 				<div class="h-100 align-items-center row">
 					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
-						<h2>Explore the World of <span> Neuro Knights </span></h2>
+						<h2>Explore the World of <span> Neuro Knights</span></h2>
 						<p>An engaging learning experience designed to strengthen young minds by blending fun gameplay with cognitive development. From sharpening memory skills to boosting problem-solving abilities, Neuro Knights is built to make learning exciting and impactful.</p>
 						<div class="banner-btn">
 							<a href="{{url('/case-studies/neuro-knights-app')}}" target="_blank" aria-label="Appsnation Contact">Explore App</a>
@@ -197,10 +192,10 @@
 		</div>
 	</div>
 </section>
-
+<!-- End Case Studies -->
 
 <!--Start Service-->
-<section class="service-section-app py-5 mt-4 dark-bg2">
+<section class="service-section-app py-5 dark-bg2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-12 fadeIn my-5">
@@ -211,7 +206,7 @@
 			</div>
 		</div>
 
-		<div class="row  mt-5 wow fadeIn">
+		<div class="row mt-md-5 wow fadeIn">
 			<div class="services-card-rows owl-carousel owl-theme">
 				<div class="col-12 fadeIn servive-card-col service-one">
 					<div class="card">
@@ -512,7 +507,6 @@
 		<div class="row">
 			<div class="col-md-12 col-lg-4">
 				<div class="process-btns">
-
 					<button class="tabBtn active" onclick="openTab('tab1',this)">
 						<i class="fa-solid fa-chart-line"></i>
 						<span>Project Analysis of Requirements</span>
@@ -914,40 +908,30 @@
 				<a class="nav-link" data-bs-toggle="pill" href="#web">Web</a>
 			</li>
 			<!-- <li class="nav-item">
-						<a class="nav-link" data-bs-toggle="pill" href="#mobile-apps">Mobile Apps</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="pill" href="#website">Website</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
-					</li> -->
+					<a class="nav-link" data-bs-toggle="pill" href="#mobile-apps">Mobile Apps</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" data-bs-toggle="pill" href="#website">Website</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" data-bs-toggle="pill" href="#design">Design</a>
+				</li> -->
 		</ul>
 		<div class="tab-content mt-5 wow fadeIn">
 			<div id="app" class="tab-pane active">
 				<div class="row mt60">
 					<div class="col-lg-12 col-sm-12 wptbb">
-						<div class="pbwide ">
-
-							<div class="portfolio-wide-image order-2 order-lg-1">
-								<div class="img-wide-blocktt tilt-outer">
-									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-										<div>
-											 <img loading="lazy" src="images/case-studies/boujee-beachin/boujee-beachin-gif.gif" alt="Gym App" class="img-fluid rounded" width="100%" height="100%">
-										</div>
-									</div>
-								</div>
+						<div class="row">
+							<div class="col-lg-5">
+								<img loading="lazy" src="images/case-studies/boujee-beachin/boujee-beachin-gif.gif" alt="Gym App" class="img-fluid rounded" width="100%" height="100%">
 							</div>
-							<div class="portfolio-item-info-tt order-1 order-lg-2">
-								<div class="logowide mb20">
-								</div>
-								<h3 class="mt30 mb30">Boujee Beachin</h3>
-
+							<div class="col-lg-7">
+								<h3 class="mb30">Boujee Beachin</h3>
 								<div class="portfolio-main-tag">
 									<div class="widebloktag">
 										<span class="">UI/UX Design</span>
 									</div>
-									<div class="widebloktag green-tag ">
+									<div class="widebloktag green-ta">
 										<span class=""># Mobile App Development</span>
 									</div>
 								</div>
@@ -963,17 +947,13 @@
 									<span class="circle"></span>
 								</a>
 							</div>
-
 						</div>
 					</div>
-					<div class="col-lg-12 col-sm-12 wptbb gap-5">
+					<div class="col-lg-12 col-sm-12 wptbb mt-5">
 						<div class="pbwide ">
-
-							<div class="portfolio-item-info-tt  ">
-								<div class="logowide mb20">
-								</div>
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20"> </div>
 								<h3 class="mt30 mb30">Royal Ride App</h3>
-
 								<div class="portfolio-main-tag">
 									<div class="widebloktag">
 										<span class=" ">UI/UX Design</span>
@@ -1003,12 +983,11 @@
 									</div>
 								</div>
 							</div>
-
 						</div>
 					</div>
-					<div class="col-lg-12 col-sm-12 wptbb">
+					<div class="col-lg-12 col-sm-12 wptbb mt-5">
 						<div class="pbwide ">
-							<div class="portfolio-wide-image   ">
+							<div class="portfolio-wide-image">
 								<div class="img-wide-blocktt tilt-outer">
 									<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
 										<div>
@@ -1017,11 +996,9 @@
 									</div>
 								</div>
 							</div>
-							<div class="portfolio-item-info-tt  ">
-								<div class="logowide mb20">
-								</div>
+							<div class="portfolio-item-info-tt">
+								<div class="logowide mb20"></div>
 								<h3 class="mt30 mb30">Wood Land App</h3>
-
 								<div class="portfolio-main-tag">
 									<div class="widebloktag">
 										<span class="">UI/UX Design</span>
@@ -1042,21 +1019,17 @@
 									<span class="circle"></span>
 								</a>
 							</div>
-							
 						</div>
 					</div>
 				</div>
 			</div>
-
 			<div id="web" class="tab-pane fade">
 				<div class="row mt60">
 					<div class="col-lg-12 col-sm-12 wptbb">
 						<div class="pbwide ">
 							<div class="portfolio-item-info-tt order-2 order-lg-1">
-								<div class="logowide mb20">
-								</div>
+								<div class="logowide mb20"></div>
 								<h3 class="mt30 mb30">Gym App</h3>
-
 								<div class="portfolio-main-tag">
 									<div class="widebloktag">
 										<span class="">UI/UX Design</span>
@@ -1100,10 +1073,8 @@
 								</div>
 							</div>
 							<div class="portfolio-item-info-tt ps-5">
-								<div class="logowide mb20">
-								</div>
+								<div class="logowide mb20"></div>
 								<h3 class="mt30 mb30">Real Estate App</h3>
-
 								<div class="portfolio-main-tag">
 									<div class="widebloktag">
 										<span class=" ">UI/UX Design</span>
@@ -1124,18 +1095,14 @@
 									<span class="circle"></span>
 								</a>
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		
 	</section>
 </section>
 <!--End Portfolio-->
-
-
 
 <!-- Start Why Choose -->
 <section class="why-choose-section py-5">
@@ -1199,11 +1166,10 @@
 
 
 <!--start banner section  -->
-<section class="banner-box-section p-100 text-white my-5 py-5">
+<section class="banner-box-section common-heading text-white my-5 py-5">
 	<div class="h-100 container">
 		<div class="mb-4 row">
-			<div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-12">
-			</div>
+			<div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-12"></div>
 		</div>
 		<div class="banner-box-image" style="background-image: url(images/banner/royal-spa-banner.png); background-repeat: no-repeat; background-size: cover;">
 			<div class="h-100 align-items-center row">

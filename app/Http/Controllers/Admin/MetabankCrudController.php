@@ -156,7 +156,10 @@ class MetabankCrudController extends CrudController
                 'moverApps' => 'moverApps',
                 'moverWeb' => 'moverWeb',
                 'royalRideApp' => 'royalRideApp',
-                'boujeeBeachinApp' => 'boujeeBeachinApp'
+                'boujeeBeachinApp' => 'boujeeBeachinApp',
+                'semApp' => 'semApp',
+                'seoApp' => 'seoApp',
+                'smmApp' => 'smmApp'
             ],
 
             'allows_null' => false,

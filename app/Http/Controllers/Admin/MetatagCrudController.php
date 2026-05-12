@@ -188,7 +188,10 @@ class MetatagCrudController extends CrudController
                 'royalRideApp' => 'royalRideApp',
                 'boujeeBeachinApp' => 'boujeeBeachinApp',
                 'woodLandApp' => 'woodLandApp',
-                'neuroKnightsApp' => 'neuroKnightsApp'
+                'neuroKnightsApp' => 'neuroKnightsApp',
+                'semApp' => 'semApp',
+                'seoApp' => 'seoApp',
+                'smmApp' => 'smmApp'
             ],
 
             'allows_null' => false,

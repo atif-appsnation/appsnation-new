@@ -3245,7 +3245,7 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'mikeMathisApp')->get();
 
         return view(
-            'mikemathisapp',
+            'mikemathis',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
@@ -3259,7 +3259,7 @@ class HomeController extends Controller
         $metatitle = Metatitle::where('slug', 'graveLoveApp')->get();
 
         return view(
-            'graveloveapp',
+            'gravelove',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,
@@ -3361,6 +3361,20 @@ class HomeController extends Controller
 
         return view(
             'alltraders',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+     public function stitchandwashApp()
+    {
+
+        $metatag = Metatag::where('slug', 'stitchandwash')->get();
+        $metatitle = Metatitle::where('slug', 'stitchandwash')->get();
+
+        return view(
+            'stitchandwash',
             [
                 'metatitle' => $metatitle,
                 'metatag' => $metatag,

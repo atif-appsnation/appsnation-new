@@ -3,27 +3,46 @@
 
 <head>
 	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WTWRB98Q');</script>
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-WTWRB98Q');
+	</script>
 	<!-- End Google Tag Manager -->
 
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-C4DCBKG480"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 		gtag('config', 'G-C4DCBKG480');
 	</script>
 
 	<script type="text/javascript">
-		(function(c,l,a,r,i,t,y){
-			c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-			t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-			y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+		(function(c, l, a, r, i, t, y) {
+			c[a] = c[a] || function() {
+				(c[a].q = c[a].q || []).push(arguments)
+			};
+			t = l.createElement(r);
+			t.async = 1;
+			t.src = "https://www.clarity.ms/tag/" + i;
+			y = l.getElementsByTagName(r)[0];
+			y.parentNode.insertBefore(t, y);
 		})(window, document, "clarity", "script", "nxvrg5m18u");
 	</script>
 
@@ -37,7 +56,7 @@
 	{!! htmlspecialchars_decode($item['tags']) !!}
 	@endforeach
 
-<!-- <meta property="og:title" content="AppsNation - Your Trusted App Development Company">
+	<!-- <meta property="og:title" content="AppsNation - Your Trusted App Development Company">
     <meta property="og:site_name" content="AppsNation">
     <meta property="og:url" content=https://appsnation.co/>
     <meta property="og:description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more">
@@ -48,7 +67,7 @@
 	{{-- <title>AppsNation - Your Trusted App Development Company</title>
 	<meta name="description" content="Looking for the best mobile app development company? We provide top-notch application development services – iOS & Android, E-commerce, and more"> --}}
 
-	<meta name="p:domain_verify" content="af7a903d8bc83746167d036e202de3d1"/>
+	<meta name="p:domain_verify" content="af7a903d8bc83746167d036e202de3d1" />
 	<!-- Facebook Meta Tags -->
 	<meta property="og:url" content="https://appsnation.co">
 	<meta property="og:type" content="website">
@@ -66,7 +85,7 @@
 
 	<meta name="msvalidate.01" content="B6573BB85FA171B912D3AA6D332A1886" />
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- <meta name="theme-color" content="#4302b2"> -->
 	<link href="{{asset('images/logo/favicon.webp')}}" rel="icon">
 	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
@@ -86,19 +105,29 @@
 
 	<!-- Meta Pixel Code -->
 	<script>
-		!function(f,b,e,v,n,t,s)
-		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-		n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];
-		s.parentNode.insertBefore(t,s)}(window, document,'script',
-		'https://connect.facebook.net/en_US/fbevents.js');
+		! function(f, b, e, v, n, t, s) {
+			if (f.fbq) return;
+			n = f.fbq = function() {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window, document, 'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
 		fbq('init', '899453631775439');
 		fbq('track', 'PageView');
 	</script>
 	<noscript>
-		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=899453631775439&ev=PageView&noscript=1"/>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=899453631775439&ev=PageView&noscript=1" />
 	</noscript>
 
 	<script type="application/ld+json">
@@ -121,11 +150,11 @@
 			"openingHoursSpecification": {
 				"@type": "OpeningHoursSpecification",
 				"dayOfWeek": [
-				"Monday",
-				"Tuesday",
-				"Wednesday",
-				"Thursday",
-				"Friday"
+					"Monday",
+					"Tuesday",
+					"Wednesday",
+					"Thursday",
+					"Friday"
 				],
 				"opens": "00:00",
 				"closes": "23:59"
@@ -135,14 +164,14 @@
 				"https://www.linkedin.com/company/appsnationistt"
 			]
 		}
-		</script>
+	</script>
 
 	<!-- End Meta Pixel Code -->
 
 	@if(Request::url()==URL::to('/floor-plan') ||Request::url()==URL::to('/smart-room'))
 
 	<link href="{{asset('css/image-comparison-slider.css')}}" rel="stylesheet">
-	
+
 	@else
 
 	@endif
@@ -152,9 +181,9 @@
 			"@type": "Product",
 			"name": "Mobile App Development Company in Los Angeles - Appsnation",
 			"aggregateRating": {
-			  "@type": "AggregateRating",
-			  "ratingValue": "4.9",
-			  "reviewCount": "769"
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "769"
 			}
 		}
 	</script>
@@ -391,9 +420,9 @@
 															<div class="menu-item-title align-middle">Digital Marketing</div>
 														</a>
 														<ul class="main-submenu">
-															<li> <a href="{{url('/iot-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Social Media Marketing</a> </li>
-															<li> <a href="{{url('/wearable-app-development')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Search Engine Marketing</a> </li>
-															<li> <a href="{{url('/industrial-automation')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Search Engine Optimization</a> </li>
+															<li> <a href="{{url('/social-media-marketing')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Social Media Marketing</a> </li>
+															<li> <a href="{{url('/search-engine-marketing')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Search Engine Marketing</a> </li>
+															<li> <a href="{{url('/search-engine-optimization')}}"><i class="fa-duotone fa-solid fa-chevrons-right pe-2"></i>Search Engine Optimization</a> </li>
 														</ul>
 													</li>
 												</ul>
@@ -532,7 +561,7 @@
 															<div class="menu-item-title align-middle">Fitness App</div>
 														</a>
 													</li>
-													
+
 													<li class="pt-4">
 														<a href="{{url('/moverapp')}}">
 															<div class="menu-item-img"> <img src="{{asset('images/menu/mover-app.webp')}}" class="services-icons" alt="Mover App"> </div>
@@ -597,9 +626,9 @@
 							</div>
 						</li>
 						<li>
-						    <a data-bs-toggle="modal" data-bs-target="#myModal" class="btn-br bg-btn3 btshad-b2 lnk">Request A Quote
-						        <span class="circle"></span>
-						    </a>
+							<a data-bs-toggle="modal" data-bs-target="#myModal" class="btn-br bg-btn3 btshad-b2 lnk">Request A Quote
+								<span class="circle"></span>
+							</a>
 						</li>
 					</ul>
 				</div>
@@ -664,15 +693,22 @@
 								</ul>
 							</li>
 							<li>
-								<a href="{{url('/design-and-animation')}}">Marketing & Animation Services</a>
+								<a href="{{url('/design-and-animation')}}">design & Animation Services</a>
 								<ul>
-									<li><a href="{{url('/digital-marketing')}}">Digital Marketing</a> </li>
 									<li><a href="{{url('/animation-services')}}">Animation Services</a> </li>
 									<li><a href="{{url('/exterior-3d')}}">3D Exterior Rendering Services</a> </li>
 									<li><a href="{{url('/interior-3d')}}">3D Interior Rendering Services</a> </li>
 									<li><a href="{{url('/floor-plan')}}">2D 3D Floor Plan Service</a> </li>
 									<li><a href="{{url('/2d-art')}}">2D Art Services</a> </li>
 									<li><a href="{{url('/3d-art')}}">3D Art Services</a> </li>
+								</ul>
+							</li>
+							<li>
+								<a href="{{url('/digital-marketing')}}">Digital Marketing</a>
+								<ul  >
+									<li><a href="{{url('/social-media-marketing')}}">Social Media Marketing</a> </li>
+									<li><a href="{{url('/search-engine-marketing')}}">Search Engine Marketing</a> </li>
+									<li><a href="{{url('/search-engine-optimization')}}">Search Engine Optimization</a> </li>
 								</ul>
 							</li>
 						</ul>
@@ -723,7 +759,7 @@
 
 	<!-- Mobile Contact -->
 	<div class="popup-modal bg-modal">
-		<div class="modal" id="menu-popup" >
+		<div class="modal" id="menu-popup">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -767,55 +803,55 @@
 	</div>
 	<!-- Mobile Contact -->
 	<script>
-    function setCookie(cname, cvalue, exdays) {
-        const d = new Date();
-        d.setTime(d.getTime() + ((exdays * 0.000694444) * 24 * 60 * 60 * 1000));
-        let expires = "expires=" + d.toUTCString();
-        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-    }
+		function setCookie(cname, cvalue, exdays) {
+			const d = new Date();
+			d.setTime(d.getTime() + ((exdays * 0.000694444) * 24 * 60 * 60 * 1000));
+			let expires = "expires=" + d.toUTCString();
+			document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+		}
 
-    function getCookie(cname) {
-        let name = cname + "=";
-        let decodedCookie = decodeURIComponent(document.cookie);
-        let ca = decodedCookie.split(';');
-        for (let i = 0; i < ca.length; i++) {
-            let c = ca[i];
-            while (c.charAt(0) == ' ') {
-                c = c.substring(1);
-            }
-            if (c.indexOf(name) == 0) {
-                return c.substring(name.length, c.length);
-            }
-        }
-        return "";
-    }
+		function getCookie(cname) {
+			let name = cname + "=";
+			let decodedCookie = decodeURIComponent(document.cookie);
+			let ca = decodedCookie.split(';');
+			for (let i = 0; i < ca.length; i++) {
+				let c = ca[i];
+				while (c.charAt(0) == ' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
 
-    function checkCookie() {
-        let user = getCookie("username11");
-            if (window.innerWidth <= 1320) {	
+		function checkCookie() {
+			let user = getCookie("username11");
+			if (window.innerWidth <= 1320) {
 
-        if (user != "") {
-            // alert("Welcome again " + user);
-            console.log("no");
-        } else {
-               let delay = (Math.floor(Math.random() * 6) + 65) * 1000;
-                setTimeout(() => {
-                    $('#menu-popup').modal('show');
-                }, delay);
-                console.log(delay);
-                
+				if (user != "") {
+					// alert("Welcome again " + user);
+					console.log("no");
+				} else {
+					let delay = (Math.floor(Math.random() * 6) + 65) * 1000;
+					setTimeout(() => {
+						$('#menu-popup').modal('show');
+					}, delay);
+					console.log(delay);
 
-            }
-            console.log("yes");
 
-            user = "talha";
-            // user = prompt("Please enter your name:", "");
-            if (user != "" && user != null) {
-                setCookie("username11", user, 0.5);
-            }
-        }
-    }
-    checkCookie()
-</script>
+				}
+				console.log("yes");
+
+				user = "talha";
+				// user = prompt("Please enter your name:", "");
+				if (user != "" && user != null) {
+					setCookie("username11", user, 0.5);
+				}
+			}
+		}
+		checkCookie()
+	</script>
 
 	<!--End Header -->

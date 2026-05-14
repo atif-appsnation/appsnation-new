@@ -1,106 +1,77 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 digital-marketing-banner hero-1">
+
+<section class="breadcrumb-areav2 social-engine-marketing-banner services-banner">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
 	</div>
 	@endif
-	<div class="mike-shape">
-		<img src="images/hero/mike-shape.png" alt="img" class="" loading="lazy">
-	</div>
-	<div class="arrow-shape">
-		<img src="images/hero/arrow-shape.png" alt="img" loading="lazy">
-	</div>
-	<div class="arrow-shape-2 ">
-		<img src="images/hero/arrow-shape.png" alt="img" loading="lazy">
-	</div>
-	<div class="energy-shape float-bob-y">
-		<img src="images/hero/energy-shape.png" alt="img" loading="lazy">
-	</div>
-	<div class="rocket-shape">
-		<img src="images/hero/rocket.png" alt="img" class="float-bob-y" loading="lazy">
-	</div>
-	<div class="container-fluid">
-		<div class="row g-4 align-items-center">
-			<div class="col-xl-4 col-lg-6">
+	<div class="container">
+		<div class="row justify-content-between">
+			<div class="col-md-12 col-lg-6 order-2 order-lg-1 my-auto wow fadeIn">
 
-				<div class="hero-content">
-					<h1 class="wow img-custom-anim-right text-white" data-wow-duration="1.5s" data-wow-delay="0.2s">Best SEO & Digital Marketing Services for Small Businesses</h1>
-					<p class="wow fadeInUp text-white" data-wow-delay=".3s">Partner with a leading digital marketing agency offering SEO services for small businesses, affordable SEO services for small business, Google Ads management, social media marketing services packages, and content creation all designed to deliver measurable growth.</p>
+				<div class="bread-titlev2 common-heading">
+					<h1 class="banner-heading pt-3" data-wow-delay=".2s">Responsive <span>Search Ads </span> for Wider Reach & Higher CTR </h1>
+					<p class="mt20 text-white" data-wow-delay=".4s">Here at <a href="{{url('/')}}" target="_blank"> AppsNation</a>Get found by millions of potential prospects with custom, high-impact search ads. We plan, execute, and scale funnel-optimized ad campaigns for custom audiences. Our search engine marketing services help businesses rank above the fold, generate instant traffic, and drive conversion rate lift.
+
+
+
+					</p>
+
 				</div>
 			</div>
-			<div class="col-xl-4 col-lg-6">
-				<div class="hero-image">
-					<img src="images/team/1.png" alt="img" class=" wow img-custom-anim-left"
-						data-wow-duration="1.5s" data-wow-delay="0.3s" loading="lazy">
-					<div class="bg-shape">
-						<img src="images/hero/bg-shape.png" alt="img" loading="lazy">
+			<div class="col-md-12 col-lg-4 order-1 order-lg-2 wow fadeIn">
+
+				<div class="niwax23form shadow">
+					<div class="common-heading text-l">
+						{!! NoCaptcha::renderJs() !!}
+						<h2 class="mt0 mb0">Book a Free <span>Consultation</span></h2>
 					</div>
-				</div>
-			</div>
-			<div class="col-xl-4 col-lg-6 mt-n4 mt-lg-0">
-				<div class="video-right">
-					<div class="niwax23form shadow">
-						<div class="common-heading text-l">
-							<h2 class="mt0 mb0">Book a Free <span>Consultation</span></h2>
-						</div>
-						<div class="form-block contact-us-form">
-							<form id="contactForm" class="contactForm" method="post" data-bs-toggle="validator"
-								action="form_submit.php">
-								<input type="hidden" name="_token" value="vJbHhszTSBUDasAiVb6To1mO8NuAeGYjmRD3GpQD">
-								<div class="row">
-									<div class="form-group col-sm-6">
-										<input type="text" name="full_name" id="full_name" placeholder="Enter Full Name" required="" data-error="Please fill Out" maxlength="50" class="form-control">
-										<div class="help-block with-errors"></div>
-									</div>
-									<div class="form-group col-sm-6">
-										<input type="text" id="mobile" name="mobile" placeholder="Enter Mobile" required="" data-error="Please fill Out" maxlength="20" class="form-control">
-										<div class="help-block with-errors"></div>
-									</div>
+					<div class="form-block contact-us-form">
+						<form id="contactForm33" method="post" data-toggle="validator" class="shake" action="{{route('leads')}}">
+							@csrf
+							<div class="row">
+								<div class="form-group col-sm-6">
+									<input type="text" name="first_name" id="first_name" placeholder="Enter First Name" required="" data-error="Please fill Out" maxlength="50">
+									<div class="help-block with-errors"></div>
 								</div>
-								<div class="row">
-									<div class="form-group col-sm-12">
-										<input type="email" name="email" id="email" placeholder="Enter Email" required="" maxlength="50" class="form-control">
-										<div class="help-block with-errors"></div>
-									</div>
+								<div class="form-group col-sm-6">
+									<input type="text" name="last_name" id="last_name" placeholder="Enter Last Name" required="" data-error="Please fill Out" maxlength="50">
+									<div class="help-block with-errors"></div>
 								</div>
-								<div class="row">
-									<div class="form-group col-12">
-										<textarea id="message" name="message" rows="1" placeholder="Enter Your Message" required="" maxlength="500" class="w-100" class="form-control"></textarea>
-										<div class="help-block with-errors"></div>
-									</div>
-								</div>
-								<button type="submit" class="btn button-arounder lnk">Schedule a Call
-									<i class="fas fa-chevron-right fa-icon"></i>
-								</button>
-							</form>
-							<div id="responseMessage" class="mt-3"></div>
-						</div>
-					</div>
-					<div class="client-items wow fadeInUp" data-wow-delay=".7s">
-						<div class="client-logo">
-							<img src="images/hero/logo.png" alt="img" loading="lazy">
-						</div>
-						<div class="client-img">
-							<img src="images/hero/client.png" alt="img" loading="lazy">
-							<div class="star-icon">
-								<div class="star">
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-regular fa-star"></i>
-								</div>
-								<span>450+ reviews</span>
 							</div>
-						</div>
+							<div class="row">
+								<div class="form-group col-sm-12">
+									<input type="email" name="email" id="email" placeholder="Enter email" required="" maxlength="50">
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group col-sm-12">
+									<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required="" data-error="Please fill Out" maxlength="20">
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+							<div class="form-group">
+								<textarea id="message" name="message" rows="5" placeholder="Enter your message" required="" maxlength="500"></textarea>
+								<div class="help-block with-errors"></div>
+							</div>
+							<div class="form-group mb-2 captchaContainer3" id="captchaContainer">
+								{!! NoCaptcha::display() !!}
+							</div>
+							<button type="submit" name="submit" id="form-submit" class="btn button-arounder lnk">Submit
+								<i class="fas fa-chevron-right fa-icon"></i>
+							</button>
+							<div id="msgSubmit" class="h3 text-center hidden"></div>
+							<div class="clearfix"></div>
+						</form>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
+
 </section>
 <!--End Breadcrumb-->
 
@@ -161,17 +132,44 @@
 </div>
 <!-- End Marquee-->
 
+<!-- Start about service -->
+
+<section class="wood-land-client-overview py-5 wow fadeIn" data-wow-delay="0.4s">
+	<div class="container">
+
+		<div class="row client-wood-land-wrapper">
+			<div class="col-lg-6  my-lg-auto ">
+				<div class="common-heading">
+
+
+					<h2>Elevate Your Brand with<span> Professional Search Engine Marketing </span> </h1>
+						<p><strong>Search Engine Marketing is the best advertising medium that helps your brand to rank at the top of the search engine results. Our expert search engine marketing services offer your brand a competitive edge to make it thrive in the competitive world.
+							</strong></p>
+						<p><strong>Our professional team diligently monitors and fine-tunes your campaign to adjust changes according to the market requirements. For us, each click counts, and thus our tailored SEM services ensure that we convert every potential click into your loyal customer.</strong></p>
+				</div>
+			</div>
+
+			<div class="col-lg-6">
+				<img loading="lazy" class="img-fluid" src="{{asset('images/services/search-engine-marketing/search-engine-marketing.png')}}" alt="client-overview" width="100%" height="100%">
+			</div>
+
+		</div>
+
+	</div>
+</section>
+<!-- end about services -->
+
 
 <!-- Start Services -->
 <section class="case-study-section fix section-padding">
-	<div class="overlay-shape">
+	<!-- <div class="overlay-shape">
 		<img src="images/services/digital-marketing/overlay-shape.png" alt="img" loading="lazy">
 	</div>
 	<div class="left-shape float-bob-x">
 		<img src="images/services/digital-marketing/left-shape.png" alt="img" loading="lazy">
 	</div>
 	<div class="right-shape float-bob-x">
-		<img src="images/services/digital-marketing/right-shape.png" alt="img" loading="lazy">
+		<img src="images/services/digital-marketing/right-shape.png" alt="img" loading="lazy"> -->
 	</div>
 	<div class="container">
 		<div class="section-title-area">
@@ -179,12 +177,13 @@
 				<div class="sub-title wow fadeInUp">
 					<span>Our Services</span>
 				</div>
-				<h2 class="wow fadeInUp" data-wow-delay=".3s">Comprehensive Digital Marketing <br>Services
+				<h2 class="wow fadeInUp" data-wow-delay=".3s">Social Media Marketing
+					<br>Services
 				</h2>
 			</div>
 		</div>
 		<p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-			Dubai’s market rewards precision. Our agency provides AI-driven SEO services in Houston for small businesses, expert SEO consulting services, and manual link building service that combine data-driven insights with creative strategies.
+			Are you all set to give a boost to your business and reach out to your target audience?
 		</p>
 		<div class="case-study-wrapper">
 			<div class="row">
@@ -195,18 +194,51 @@
 							<div class="post-box-items">
 								<ul>
 									<li>
-										<a>SEO auditing services</a>
+										<a>PPC Management
+
+										</a>
 									</li>
 									<li>
-										<a>Expert on-page SEO services</a>
+										<a>Search Ads
+
+										</a>
 									</li>
 								</ul>
 								<ul>
 									<li>
-										<a>White hat link building service</a>
+										<a>Shopping Ads
+
+										</a>
 									</li>
 									<li>
-										<a>Search engine marketing consulting services
+										<a>Display Ads
+
+
+										</a>
+									</li>
+
+								</ul>
+								<ul>
+
+									<li>
+										<a>Remarketing Ads
+
+
+
+										</a>
+									</li>
+									<li>
+										<a>Local Service Ads
+
+
+
+										</a>
+									</li>
+									<li>
+										<a>Video Ads
+
+
+
 										</a>
 									</li>
 								</ul>
@@ -214,7 +246,7 @@
 							<h3 class="project-title">
 								<a>
 									<img src="images/services/digital-marketing/icon.png" alt="img" loading="lazy">
-									Digital Marketing
+									Search Engine Marketing
 								</a>
 							</h3>
 							<span class="number">01</span>
@@ -226,53 +258,75 @@
 						<div class="box active wow fadeInUp">
 							<div class="title-items">
 								<h3>
-									<a href="javascript:void(0)">SEO</a>
+									<a href="javascript:void(0)">PPC </a>
 								</h3>
 								<span class="number">02</span>
 							</div>
 							<span class="number-hover">02</span>
 							<div class="project-content">
-								<h3>SEO</h3>
-								<p>Increase your website visibility with best SEO services for small business and reach your target audience effectively.</p>
+								<h3>PPC Management</h3>
+								<p>Optimize your ad spend with data-driven strategies and real-time bidding to maximize visibility and conversion rates. Our PPC management ensures cost-effective campaigns that drive quality traffic and ROI.</p>
 							</div>
 						</div>
 						<div class="box bg-1 wow fadeInUp wow" data-wow-delay=".2s">
 							<div class="title-items">
 								<h3>
-									<a href="javascript:void(0)">SMM</a>
+									<a href="javascript:void(0)">Search Ads
+
+									</a>
 								</h3>
 								<span class="number">03</span>
 							</div>
 							<span class="number-hover">03</span>
 							<div class="project-content">
-								<h3>Social Media Marketing (SMM)</h3>
-								<p>Engage your audience with social media management, content creation, and advertising across all platforms.</p>
+								<h3>Search Ads
+
+								</h3>
+								<p>Capture high-intent users with search ads that appear at the top of SERPs. Tailored keyword targeting and compelling ad copy increase clicks and conversions.
+
+
+								</p>
 							</div>
 						</div>
 						<div class="box bg-2  wow fadeInUp wow" data-wow-delay=".4s">
 							<div class="title-items">
 								<h3>
-									<a href="javascript:void(0)">Google Ads</a>
+									<a href="javascript:void(0)">Shopping Ads
+
+									</a>
 								</h3>
 								<span class="number">04</span>
 							</div>
 							<span class="number-hover">04</span>
 							<div class="project-content">
-								<h3>Google Ads</h3>
-								<p>Maximize your ROI with Google Ads management services near me and Google local service ads management.</p>
+								<h3>Shopping Ads
+
+								</h3>
+								<p>Showcase your products with Shopping ads featuring images, prices, and reviews. Engage shoppers directly on SERPs and boost eCommerce sales effectively.
+
+
+
+								</p>
 							</div>
 						</div>
 						<div class="box bg-3 wow fadeInUp wow" data-wow-delay=".6s">
 							<div class="title-items">
 								<h3>
-									<a href="javascript:void(0)">Lead Generation</a>
+									<a href="javascript:void(0)">Display Ads
+
+									</a>
 								</h3>
 								<span class="number">05</span>
 							</div>
 							<span class="number-hover">05</span>
 							<div class="project-content">
-								<h3>Lead Generation</h3>
-								<p>Generate high-quality leads through data-driven campaigns and performance marketing strategies.</p>
+								<h3>Display Ads
+								</h3>
+								<p>Enhance brand visibility with visually appealing display ads across Google's vast network. Target specific audiences with customized text, images, and video ads.
+
+
+
+								</p>
 							</div>
 						</div>
 					</div>
@@ -294,245 +348,310 @@
 	</div>
 </section>
 <!-- End Services-->
+ 
 
-<!-- Start Services -->
-<section class="banner-box-section p-100 text-white py-5">
-	<div class="h-100 container">
-		<div class="mb-4 row">
-			<div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-12">
-				<h2>Where Creativity Meets Growth?</h2>
+
+
+
+<!--Start Process-->
+<section class="process-block bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Workflow" class="light-bg-text bg-text mt-5">
+						<h2>Our Extensive Search Engine Marketing <span>Workflow</span> </h2>
+						<p>Increase your chances of winning more valuable clicks with our high-impact search engine marketing services.
+
+						</p>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div class="banner-slider owl-carousel owl-theme wow fadeIn">
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">01</p>
+					<h3 class="title">Initial Consultation & Strategy</h3>
+					<p class="description">Meet your dedicated account representative to define your goals. We'll craft a custom SEM strategy, targeting high-value keywords aligned with your business objectives.
 
-			<div class="banner-box-image seo-banner">
-				<div class="h-100 align-items-center row">
-					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
-						<h2>SEO 
-							<span>(Search Engine Optimization)</span>
-						</h2>
-						<p>Boost your Google rankings, website traffic, and online visibility with data-driven SEO strategies designed to generate qualified leads, improve authority, and increase long-term business growth.</p>
+
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">02</p>
+					<h3 class="title">Comprehensive Keyword Research
+
+					</h3>
+					<p class="description">Using advanced tools, we identify high-performing keywords and filter out negatives. This ensures your budget focuses on driving meaningful traffic and conversions.
+
+
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">03</p>
+					<h3 class="title">Ad Creation & Landing Page Optimization
+
+					</h3>
+					<p class="description">We design compelling ads and link them to optimized landing pages, aligning with user intent to guide visitors seamlessly through your conversion funnel.
+
+
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">04</p>
+					<h3 class="title">Campaign Setup & Tracking Integration
+
+					</h3>
+					<p class="description">We precisely set up your SEM account and integrate tracking systems. This enables precise performance monitoring and ensures accurate conversion data.
+
+
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">05</p>
+					<h3 class="title">Campaign Launch & Continuous Monitoring
+	</h3>
+					<p class="description">After setup, we launch and closely monitor your campaign, adjusting settings like location and device targeting for optimal performance and ad spend efficiency.
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">06</p>
+					<h3 class="title">Regular Reporting & Performance Evaluation
+
+					</h3>
+					<p class="description">Receive detailed reports on key performance indicators (KPIs), including CTR and conversion costs. We analyze results to refine strategies for sustained SEM success.
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">07</p>
+					<h3 class="title">Ongoing Optimization & Strategy Refinement
+
+
+					</h3>
+					<p class="description">Based on performance data, we continuously optimize your campaigns, tweaking bids, ads, and landing pages to improve ROI and outpace competitors.
+
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">08</p>
+					<h3 class="title">Cost-Effective, Long-Term Growth
+
+					</h3>
+					<p class="description">Our transparent pricing structure ensures you know exactly where your budget goes. We focus on maximum ROI and long-term growth through effective SEM practices.
+
+
+
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Process-->
+
+<!--Start Process-->
+<section class="process-block bg-gradient3 py-5">
+	<div class="container">
+		<div class="row d-flex justify-content-center">
+			<div class="col-12">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Query" class="light-bg-text bg-text mt-5">
+						<h2>Get Noticed on Every Relevant <span>Search Query </span> </h2>
+						<p>Increase your chances of winning more valuable clicks with our high-impact search engine marketing services.
+
+						</p>
 					</div>
 				</div>
 			</div>
-			<div class="banner-box-image content-writing-banner">
-				<div class="h-100 align-items-center row">
-					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
-						<h2> 
-							<span> Content Marketing</span>
-						</h2>
-						<p>Engage your audience with high-quality content marketing that builds trust, strengthens brand authority, improves SEO performance, and drives meaningful customer engagement and conversions.</p>
-					</div>
+		</div>
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">01</p>
+					<h3 class="title">Strategic Brand
+						Positioning</h3>
+					<p class="description">Establish your brand authority by consistently appearing in top search results for critical, industry-specific terms, increasing credibility and trust among potential customers.
+
+
+
+					</p>
 				</div>
 			</div>
-			<div class="banner-box-image smm-banner">
-				<div class="h-100 align-items-center row">
-					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
-						<h2>SMM
-							<span> (Social Media Marketing)</span>
-						</h2>
-						<p>Grow your brand awareness and customer engagement with strategic social media marketing campaigns tailored to attract targeted audiences, increase reach, and drive measurable business results.</p>
-					</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">02</p>
+					<h3 class="title">Cost-Efficient
+						Market Penetration
+					</h3>
+					<p class="description">Achieve broader market reach with targeted campaigns focusing on underserved or emerging markets, effectively growing your customer base without inflating acquisition costs.
+
+
+
+					</p>
 				</div>
 			</div>
-			<div class="banner-box-image advertisement-banner">
-				<div class="h-100 align-items-center row">
-					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12">
-						<h2> 
-							<span> Advertisement</span>
-						</h2>
-						<p>Maximize leads, sales, and ROI with expertly managed Google Ads and Meta Ads campaigns designed for targeted reach, brand growth, local visibility, and high-converting customer acquisition.</p>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">03</p>
+					<h3 class="title">Integrated Cross
+						Channel Strategies
+					</h3>
+					<p class="description">Amplify your SEM efforts by synchronizing with social media, email marketing, and display advertising—a unified approach to drive consistent messaging and engagement across all touchpoints.
+
+
+
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<p class="timeline-year">04</p>
+					<h3 class="title">Customer
+						Journey Mapping
+					</h3>
+					<p class="description">Use SEM data to map the customer journey, identify critical touchpoints where targeted ads influence decision-making, and guide prospects seamlessly from awareness to purchase.
+
+
+
+					</p>
+				</div>
+			</div>
+		 
+		</div>
+	</div>
+</section>
+<!--End Process-->
+
+
+<!--Start Why Choose-->
+<section class="why-choose bg-gradient3 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="common-heading ptag wow fadeIn">
+					<div data-text="Choose Us" class="dark-bg-text bg-text">
+						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
+					</div>
+					<p class="text-white">We help a diverse clientele build result-driven web development products for different industries. </p>
+				</div>
+			</div>
+		</div>
+		<div class="row upset justify-content-center mt30">
+			<div class="col-12 col-md-6 col-lg-4">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/digital-marketing/certified-professionals.svg"
+							alt="Certified Professionals" class="img-fluid" width="100%" height="100%" loading="lazy">
+					</div>
+					<h3 class="title">Certified Professionals</h3>
+					<p class="description"> Experienced experts delivering affordable SEO services company for small business USA.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/digital-marketing/best-marketing-packages.svg"
+							alt="Best Marketing Packages" class="img-fluid" width="100%" height="100%" loading="lazy">
+					</div>
+					<h3 class="title">Best Marketing Packages</h3>
+					<p class="description"> Tailored social media marketing packages and Google Ads solutions.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/digital-marketing/24x7-customer-support.svg"
+							alt="24x7 Customer Support" class="img-fluid" width="100%" height="100%" loading="lazy">
+					</div>
+					<h3 class="title">24x7 Customer Support</h3>
+					<p class="description">Ensuring campaigns run smoothly and goals are met.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/digital-marketing/free-consultation.svg" alt="Free Consultation"
+							class="img-fluid" width="100%" height="100%" loading="lazy">
+					</div>
+					<h3 class="title">Free Consultation</h3>
+					<p class="description"> Understand your needs and receive expert SEO consulting services.</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 mt-3">
+				<div class="timeline wow fadeIn h-100">
+					<div class="timeline-year">
+						<img src="images/services/digital-marketing/transparency.svg" alt="We Believe in Transparency"
+							class="img-fluid" width="100%" height="100%" loading="lazy">
+					</div>
+					<h3 class="title">We Believe in Transparency</h3>
+					<p class="description">Track improvements and ROI through measurable analytics.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--Start Why Choose-->
+
+<!--Start Let's Work Together-->
+<section class="my-1">
+	<div class="container">
+
+		<div class="row py-5 justify-content-center hire-developer">
+			<div class="col-lg-9">
+				<div class="free-cta-title v-center wow fadeIn">
+					<div class="row justify-content-center">
+						<div class="col-lg-8 my-auto">
+							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span>
+							</p>
+						</div>
+						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
+							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
+								<i class="fas fa-chevron-right fa-icon"></i>
+								<span class="circle"></span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- End Services -->
-
-<!-- start Portfolio -->
-<section class="container dm-portfolio-carousel">
-	<div id="dmPortfolioCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
-		<div class="container my-2">
-			<div class="section-title-area">
-				<div class="section-title">
-					<div class="sub-title wow fadeInUp">
-						<span>Our Case Studys</span>
-					</div>
-					<h2 class="wow fadeInUp" data-wow-delay=".3s">Results That Speak: <br> <span>Our Client Success Stories</span></h2>
-					<p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s"> Discover how our AI-powered, data-driven marketing strategies helped businesses across Dubai achieve measurable growth through Meta and Google Ads campaigns optimized for performance, ROI, and lead generation. </p>
-				</div>
-			</div>
-		</div>
-
-		<div class="carousel-inner rounded-4 overflow-hidden">
-			<div class="carousel-item active">
-				<div class="row align-items-center bg-white">
-					<div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
-						<img src="images/services/digital-marketing/digital-marketing-portfolio-01.png" class="img-fluid rounded-3" alt="Digital Marketing" loading="lazy">
-					</div>
-					<div class="col-sm-12 col-md-12 col-lg-6 p-4">
-						<h4 class="pt-3 case-study-heading">How Our <span>Google Ads</span> Generated 168 Qualified Leads for AED 8M+ Luxury Properties	</h4>
-						<p class="pt-3 case-study-text">Apps Nation helped a luxury real estate developer in Dubai generate 168 high-intent leads through a strategic Google Ads campaign targeting premium properties valued at AED 8 million and above. Using AI-powered audience targeting, Smart Bidding, and conversion-focused ad creatives, the campaign delivered exceptional ROI while attracting affluent property buyers in Dubai’s competitive real estate market.</p>
-						<div class="stats-container my-5 md-ms-5">
-							<div class="row">
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 129,000</div>
-									<div class="stat-description">Total Spend</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">168</div>
-									<div class="stat-description">Qualified Leads Generated</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 773.65</div>
-									<div class="stat-description">Cost per Lead (CPL)</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">2.7</div>
-									<div class="stat-description">Conversion Rate</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="carousel-item">
-				<div class="row align-items-center bg-white">
-					<div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
-						<img src="images/services/digital-marketing/digital-marketing-portfolio-02.png" class="img-fluid rounded-3" alt="Digital Marketing" loading="lazy">
-					</div>
-					<div class="col-sm-12 col-md-12 col-lg-6 p-4">
-						<h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for a Leading  <span> Aesthetic Clinic</span>     </h4>
-						<p class="pt-3 case-study-text">Apps Nation managed high-performing Meta ad campaigns for advanced aesthetic treatments including BBL Moxi, Ultherapy, EMS, and Chemical Peels. Through engaging creatives, precision audience targeting, and continuous campaign optimization, the campaigns generated 567+ qualified leads while maintaining strong ROI and consistent conversion performance.</p>
-						<div class="stats-container my-5 md-ms-5">
-							<div class="row">
-								<div class="col-6 stat-item">
-									<div class="stat-number">187K+</div>
-									<div class="stat-description">Combined Reach</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">567+</div>
-									<div class="stat-description">Total Leads Generated</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 75–130</div>
-									<div class="stat-description">Average Cost per Lead</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 39,400+</div>
-									<div class="stat-description">Total Ad Spend</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="carousel-item">
-				<div class="row align-items-center bg-white">
-					<div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
-						<img src="images/services/digital-marketing/digital-marketing-portfolio-03.png" class="img-fluid rounded-3" alt="Digital Marketing" loading="lazy">
-					</div>
-					<div class="col-sm-12 col-md-12 col-lg-6 p-4">
-						<h4 class="pt-3 case-study-heading">152K+ Conversions Generated for a  <span>Rent-a-Car </span> Brand </h4>
-						<p class="pt-3 case-study-text">Quick Digital Solutions executed large-scale Google Ads campaigns for a Dubai-based rent-a-car company using Search, Display, and Performance Max strategies. The campaigns focused on maximizing conversions, increasing brand visibility, and driving cost-effective customer acquisition across multiple vehicle rental categories.</p>
-						<div class="stats-container my-5 md-ms-5">
-							<div class="row">
-								<div class="col-6 stat-item">
-									<div class="stat-number">738K+</div>
-									<div class="stat-description">Total Clicks</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">152K+</div>
-									<div class="stat-description">Total Conversions</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 75–130</div>
-									<div class="stat-description">Average Cost per Conversion</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 1.25M+</div>
-									<div class="stat-description">Total Ad Spend</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="carousel-item">
-				<div class="row align-items-center bg-white">
-					<div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
-						<img src="images/services/digital-marketing/digital-marketing-portfolio-04.png" class="img-fluid rounded-3" alt="Digital Marketing" loading="lazy">
-					</div>
-					<div class="col-sm-12 col-md-12 col-lg-6 p-4">
-						<h4 class="pt-3 case-study-heading">73+ High-Intent  <span> Spa Leads Generated Through </span> Meta Ads </h4>
-						<p class="pt-3 case-study-text">Quick Digital Solutions managed targeted Meta advertising campaigns for a luxury spa brand in Dubai, focusing on WhatsApp and Messenger lead generation. Through audience optimization, creative testing, and strategic campaign delivery, the campaigns achieved strong engagement and cost-efficient messaging conversions.
-						<div class="stats-container my-5 md-ms-5">
-							<div class="row">
-								<div class="col-6 stat-item">
-									<div class="stat-number">73+</div>
-									<div class="stat-description">Messaging Conversions	</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">7,172++</div>
-									<div class="stat-description">Total Reach</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 18.27</div>
-									<div class="stat-description">Average Cost per Result</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 1,333+</div>
-									<div class="stat-description">Total Ad Spend</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="carousel-item">
-				<div class="row align-items-center bg-white">
-					<div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
-						<img src="images/services/digital-marketing/digital-marketing-portfolio-05.png" class="img-fluid rounded-3" alt="Owl" loading="lazy">
-					</div>
-					<div class="col-sm-12 col-md-12 col-lg-6 p-4">
-						<h4 class="pt-3 case-study-heading">33 Qualified Luxury  <span>Real Estate Leads Generated </span> with Optimized Ad Spend</h4>
-						<p class="pt-3 case-study-text">Apps Nation delivered 33 qualified property inquiries for Danube Properties through a highly targeted Google Ads campaign focused on luxury real estate buyers in Dubai. With strategic audience segmentation, demographic targeting, and AI-driven campaign optimization, the campaign maintained a cost per lead below AED 175 while maximizing ROI on a limited advertising budget.</p>
-						<div class="stats-container my-5 md-ms-5">
-							<div class="row">
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 5,630</div>
-									<div class="stat-description">Total Ad Spend</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">33</div>
-									<div class="stat-description">Qualified Leads</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">AED 170.62</div>
-									<div class="stat-description">Cost per Lead (CPL)</div>
-								</div>
-								<div class="col-6 stat-item">
-									<div class="stat-number">1,393</div>
-									<div class="stat-description">Total Clicks</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="carousel-indicators ps-5 ">
-			<button type="button" data-bs-target="#dmPortfolioCarousel" data-bs-slide-to="0" class="active"></button>
-			<button type="button" data-bs-target="#dmPortfolioCarousel" data-bs-slide-to="1"></button>
-			<button type="button" data-bs-target="#dmPortfolioCarousel" data-bs-slide-to="2"></button>
-			<button type="button" data-bs-target="#dmPortfolioCarousel" data-bs-slide-to="3"></button>
-			<button type="button" data-bs-target="#dmPortfolioCarousel" data-bs-slide-to="4"></button>
-		</div>
-	</div>
-</section>
-<!-- Start Portfolio -->
+<!--End Let's Work Together-->
 
 <!-- Start Industries -->
 <section class="case-study-section fix section-padding">
@@ -697,80 +816,7 @@
 </section>
 <!-- End Industries -->
 
-<!-- Start Team -->
-<section class="team-section fix section-padding">
-	<div class="container">
-		<div class="team-wrapper">
-			<div class="row g-4">
-				<div class="col-lg-6">
-					<div class="team-image">
-						<img src="images/team/2.png" alt="img" class="wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.3s" loading="lazy">
-						<div class="shape-image">
-							<img src="images/team/shape-img.png" alt="img" loading="lazy">
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 mt-4 mt-lg-0">
-					<div class="team-content">
-						<div class="section-title">
-							<div class="sub-title wow fadeInUp">
-								<span>Marketing Pros</span>
-							</div>
-							<h2 class="wow fadeInUp" data-wow-delay=".3s">Let’s Grow Your Business with AI-Powered Digital Marketing</h2>
-						</div>
-						<p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">Partner with <b>AppsNation</b> to scale your business with performance-driven <b>SEO, Google Ads, Meta Ads, and social media marketing</b> solutions designed to increase<b> traffic, leads,  and conversions.</b></p>
-						<div class="list-items wow fadeInUp" data-wow-delay=".7s">
-							<ul>
-								<li>
-									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-										<path d="M7.38397 14.1797C7.34153 14.1797 7.29954 14.171 7.26066 14.1539C7.22178 14.1369 7.18683 14.1121 7.15803 14.0809L1.06612 7.49119C1.02551 7.44726 0.99859 7.39244 0.988651 7.33344C0.978712 7.27445 0.986187 7.21384 1.01016 7.15902C1.03414 7.10421 1.07357 7.05758 1.12364 7.02483C1.17371 6.99208 1.23223 6.97464 1.29206 6.97464H4.22437C4.26839 6.97464 4.31191 6.98409 4.35197 7.00234C4.39204 7.0206 4.42772 7.04723 4.45661 7.08045L6.49255 9.42273C6.71258 8.95239 7.13852 8.16925 7.88597 7.21497C8.99095 5.8042 11.0463 3.7294 14.5627 1.85642C14.6307 1.82023 14.7097 1.81083 14.7843 1.83009C14.8588 1.84936 14.9235 1.89587 14.9654 1.96046C15.0073 2.02504 15.0235 2.103 15.0108 2.17894C14.998 2.25488 14.9573 2.32328 14.8966 2.37064C14.8831 2.38113 13.5273 3.44882 11.967 5.40448C10.5309 7.20417 8.62191 10.1469 7.68255 13.946C7.66605 14.0128 7.62767 14.0721 7.57354 14.1144C7.5194 14.1568 7.45263 14.1799 7.38388 14.1799L7.38397 14.1797Z" fill="#6A47ED" />
-									</svg>
-									AI-powered campaigns
-								</li>
-								<li>
-									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-										<path d="M7.38397 14.1797C7.34153 14.1797 7.29954 14.171 7.26066 14.1539C7.22178 14.1369 7.18683 14.1121 7.15803 14.0809L1.06612 7.49119C1.02551 7.44726 0.99859 7.39244 0.988651 7.33344C0.978712 7.27445 0.986187 7.21384 1.01016 7.15902C1.03414 7.10421 1.07357 7.05758 1.12364 7.02483C1.17371 6.99208 1.23223 6.97464 1.29206 6.97464H4.22437C4.26839 6.97464 4.31191 6.98409 4.35197 7.00234C4.39204 7.0206 4.42772 7.04723 4.45661 7.08045L6.49255 9.42273C6.71258 8.95239 7.13852 8.16925 7.88597 7.21497C8.99095 5.8042 11.0463 3.7294 14.5627 1.85642C14.6307 1.82023 14.7097 1.81083 14.7843 1.83009C14.8588 1.84936 14.9235 1.89587 14.9654 1.96046C15.0073 2.02504 15.0235 2.103 15.0108 2.17894C14.998 2.25488 14.9573 2.32328 14.8966 2.37064C14.8831 2.38113 13.5273 3.44882 11.967 5.40448C10.5309 7.20417 8.62191 10.1469 7.68255 13.946C7.66605 14.0128 7.62767 14.0721 7.57354 14.1144C7.5194 14.1568 7.45263 14.1799 7.38388 14.1799L7.38397 14.1797Z" fill="#6A47ED" />
-									</svg>
-									24/7 monitoring & optimization
-								</li>
-							</ul>
-							<ul>
-								<li>
-									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-										<path d="M7.38397 14.1797C7.34153 14.1797 7.29954 14.171 7.26066 14.1539C7.22178 14.1369 7.18683 14.1121 7.15803 14.0809L1.06612 7.49119C1.02551 7.44726 0.99859 7.39244 0.988651 7.33344C0.978712 7.27445 0.986187 7.21384 1.01016 7.15902C1.03414 7.10421 1.07357 7.05758 1.12364 7.02483C1.17371 6.99208 1.23223 6.97464 1.29206 6.97464H4.22437C4.26839 6.97464 4.31191 6.98409 4.35197 7.00234C4.39204 7.0206 4.42772 7.04723 4.45661 7.08045L6.49255 9.42273C6.71258 8.95239 7.13852 8.16925 7.88597 7.21497C8.99095 5.8042 11.0463 3.7294 14.5627 1.85642C14.6307 1.82023 14.7097 1.81083 14.7843 1.83009C14.8588 1.84936 14.9235 1.89587 14.9654 1.96046C15.0073 2.02504 15.0235 2.103 15.0108 2.17894C14.998 2.25488 14.9573 2.32328 14.8966 2.37064C14.8831 2.38113 13.5273 3.44882 11.967 5.40448C10.5309 7.20417 8.62191 10.1469 7.68255 13.946C7.66605 14.0128 7.62767 14.0721 7.57354 14.1144C7.5194 14.1568 7.45263 14.1799 7.38388 14.1799L7.38397 14.1797Z" fill="#6A47ED" />
-									</svg>
-									Digital marketing solutions
-								</li>
-								<li>
-									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-										<path d="M7.38397 14.1797C7.34153 14.1797 7.29954 14.171 7.26066 14.1539C7.22178 14.1369 7.18683 14.1121 7.15803 14.0809L1.06612 7.49119C1.02551 7.44726 0.99859 7.39244 0.988651 7.33344C0.978712 7.27445 0.986187 7.21384 1.01016 7.15902C1.03414 7.10421 1.07357 7.05758 1.12364 7.02483C1.17371 6.99208 1.23223 6.97464 1.29206 6.97464H4.22437C4.26839 6.97464 4.31191 6.98409 4.35197 7.00234C4.39204 7.0206 4.42772 7.04723 4.45661 7.08045L6.49255 9.42273C6.71258 8.95239 7.13852 8.16925 7.88597 7.21497C8.99095 5.8042 11.0463 3.7294 14.5627 1.85642C14.6307 1.82023 14.7097 1.81083 14.7843 1.83009C14.8588 1.84936 14.9235 1.89587 14.9654 1.96046C15.0073 2.02504 15.0235 2.103 15.0108 2.17894C14.998 2.25488 14.9573 2.32328 14.8966 2.37064C14.8831 2.38113 13.5273 3.44882 11.967 5.40448C10.5309 7.20417 8.62191 10.1469 7.68255 13.946C7.66605 14.0128 7.62767 14.0721 7.57354 14.1144C7.5194 14.1568 7.45263 14.1799 7.38388 14.1799L7.38397 14.1797Z" fill="#6A47ED" />
-									</svg>
-									Strategies with measurable ROI
-								</li>
-							</ul>
-						</div>
-						<!-- <div class="main-button wow fadeInUp" data-wow-delay=".5s">
-                                    <a href="team.html"> <span class="theme-btn"> EXPLORE MORE </span><span class="arrow-btn"><i class="fa-regular fa-arrow-up-right"></i></span></a>
-                                </div> -->
-						<div class="d-flex">
-							<div class="main-button wow fadeInUp" data-wow-delay=".3s">
-								<a href="tel:+971543589543" class="theme-btn">
-									<span>Call Us</span>
-								</a>
-							</div>
-							<div class="main-button wow fadeInUp" data-wow-delay=".3s">
-								<a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-									<span class="theme-btn">Schedule A Call</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Team-->
+
 
 <!-- Start Badges -->
 <section class="badges-section new-bages-section pt-5 section-padding">
@@ -974,154 +1020,37 @@
 </section>
 <!-- End Badges -->
 
-<!--Start Let's Work Together-->
-<section class="my-1">
-	<div class="container">
 
-		<div class="row py-5 justify-content-center hire-developer">
-			<div class="col-lg-9">
-				<div class="free-cta-title v-center wow fadeIn">
-					<div class="row justify-content-center">
-						<div class="col-lg-8 my-auto">
-							<p class="text-center text-lg-start">Let's Start a <span>New Project</span> Together</span>
-							</p>
-						</div>
-						<div class="col-lg-4 text-center text-lg-start mt-5 mt-lg-0">
-							<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Inquire Now
-								<i class="fas fa-chevron-right fa-icon"></i>
-								<span class="circle"></span>
-							</a>
-						</div>
+<!-- Start reach-out-banner -->
+ 
+<section class="banner-box-section p-100 text-white py-5">
+	<div class="h-100 container">
+
+		<div class="  wow fadeIn">
+
+			<div class="banner-box-image sem-strategy-banner">
+				<div class="h-100 align-items-center row">
+
+					<div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-12 ps-3 common-heading">
+						<h2>
+							Reach Out To <span>Your Target Audiences</span>
+							Through Social Media And Create More Brand Awareness
+						</h2>
+
+						<a class="border_btn dark_btn"
+							data-bs-toggle="modal" data-bs-target="#myModal"
+							aria-label="Appsnation">
+							Contact our Social Media Marketing team
+						</a>
 					</div>
 				</div>
 			</div>
+
 		</div>
 	</div>
 </section>
-<!--End Let's Work Together-->
+<!-- End reach-out-banner -->
 
-<!--Start Why Choose-->
-<section class="why-choose bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Choose Us" class="dark-bg-text bg-text">
-						<h2 class="text-white">Why Choose <span>AppsNation</span></h2>
-					</div>
-					<p class="text-white">We help a diverse clientele build result-driven web development products for different industries. </p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<img src="images/services/digital-marketing/certified-professionals.svg"
-							alt="Certified Professionals" class="img-fluid" width="100%" height="100%" loading="lazy">
-					</div>
-					<h3 class="title">Certified Professionals</h3>
-					<p class="description"> Experienced experts delivering affordable SEO services company for small business USA.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<img src="images/services/digital-marketing/best-marketing-packages.svg"
-							alt="Best Marketing Packages" class="img-fluid" width="100%" height="100%" loading="lazy">
-					</div>
-					<h3 class="title">Best Marketing Packages</h3>
-					<p class="description"> Tailored social media marketing packages and Google Ads solutions.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<img src="images/services/digital-marketing/24x7-customer-support.svg"
-							alt="24x7 Customer Support" class="img-fluid" width="100%" height="100%" loading="lazy">
-					</div>
-					<h3 class="title">24x7 Customer Support</h3>
-					<p class="description">Ensuring campaigns run smoothly and goals are met.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<img src="images/services/digital-marketing/free-consultation.svg" alt="Free Consultation"
-							class="img-fluid" width="100%" height="100%" loading="lazy">
-					</div>
-					<h3 class="title">Free Consultation</h3>
-					<p class="description"> Understand your needs and receive expert SEO consulting services.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<div class="timeline-year">
-						<img src="images/services/digital-marketing/transparency.svg" alt="We Believe in Transparency"
-							class="img-fluid" width="100%" height="100%" loading="lazy">
-					</div>
-					<h3 class="title">We Believe in Transparency</h3>
-					<p class="description">Track improvements and ROI through measurable analytics.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--Start Why Choose-->
-
-<!--Start Process-->
-<section class="process-block bg-gradient3 py-5">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading ptag wow fadeIn">
-					<div data-text="Process" class="light-bg-text bg-text mt-5">
-						<h2>Our <span>Digital Marketing</span> Process</h2>
-					</div>
-					<p>We identify competition, audience, and search engine marketing services opportunities to build high-impact campaigns.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row upset justify-content-center mt30">
-			<div class="col-12 col-md-6 col-lg-4">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">01</p>
-					<h3 class="title">Reaserch</h3>
-					<p class="description">The first step is research. We need to know what is the market, what is the competition, what are the best strategies to use, and so on.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">02</p>
-					<h3 class="title">Marketing Framework</h3>
-					<p class="description">Once the research is done then, we start creating our marketing plan, and strategy. In this step, we create our entire marketing framework where we decide how will work on the marketing.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3 mt-lg-0">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">03</p>
-					<h3 class="title">Executions</h3>
-					<p class="description">Campaigns are implemented and continuously optimized with SEO auditing services and manual link building service to maximize results.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">04</p>
-					<h3 class="title">Analyse</h3>
-					<p class="description">We track performance metrics, adjust strategies, and improve social media marketing services packages to achieve your goals efficiently.</p>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 mt-3">
-				<div class="timeline wow fadeIn h-100">
-					<p class="timeline-year">05</p>
-					<h3 class="title">Optimize</h3>
-					<p class="description">In the last Step, our senior marketing expert audit our whole marketing campaign or strategy in order to get more profit or ROI.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--End Process-->
 
 <!--Start Let's Work Together-->
 <section class="container my-1">
@@ -1144,6 +1073,9 @@
 	</div>
 </section>
 <!--End Let's Work Together-->
+
+
+
 
 <!-- Start Technologies -->
 <section class="technologies certificates py-5">

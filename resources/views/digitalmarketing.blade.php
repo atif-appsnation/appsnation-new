@@ -1,7 +1,7 @@
 @extends('app.main')
 @section('content')
 <!--Start Breadcrumb Area-->
-<section class="breadcrumb-areav2 digital-marketing-banner hero-1">
+<section class="  digital-marketing-banner hero-1">
 	@if ($errors->has('g-recaptcha-response'))
 	<div class="alert alert-danger">
 		<strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -704,9 +704,9 @@
 			<div class="row g-4">
 				<div class="col-lg-6">
 					<div class="team-image">
-						<img src="images/team/2.png" alt="img" class="wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.3s" loading="lazy">
+						<img src="images/team/2.png" alt="img" class="wow img-fluid img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.3s" loading="lazy">
 						<div class="shape-image">
-							<img src="images/team/shape-img.png" alt="img" loading="lazy">
+							<img src="images/team/shape-img.png" class=" " alt="img" loading="lazy">
 						</div>
 					</div>
 				</div>

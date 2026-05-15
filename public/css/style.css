@@ -25043,7 +25043,6 @@ textarea::-ms-input-placeholder {
 }
 .project-dec-section .project-dec-content h3{
     margin: 10px 0 10px 0;
-    font-size: 35px;
 
 }
 
@@ -25055,4 +25054,110 @@ textarea::-ms-input-placeholder {
 
 
 /* End project dec section */
+
+
+
+/* start Project goal section */
+  .project-cards{
+    display: flex;
+    justify-content: space-between;
+    
+}
+  .project-cards .project-card {
+    border: 2px solid var(--bright-cyan);
+    border-radius: 30px;
+    padding: 50px 20px 50px 20px;
+    margin: 30px;
+    position: relative;
+
+  }
+
+
+  .project-cards .project-card .project-num{
+    border: 5px solid var(--bright-cyan);
+    width: fit-content;
+    border-radius: 50%;    
+    padding: 15px;
+    position: absolute;
+    top: -19px;
+    left: -10px;
+    background-color: var(--white-color);
+    font-weight: 900;
+    font-size: 22px;
+    
+  }
+
+  .project-cards .project-card .project-goal-content{
+    border-left: 4px solid var(--bright-cyan);
+    padding-left: 22px;
+    margin-top: 20px;
+  }
+
+.project-goal-img img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 700px;
+    padding-top: 20px;
+
+}
+/* End Project goal section */
+
+
+/* start wireframe section  */
+.wireframe-section .container{
+        padding: 100px 0;
+    background: url("../images/case-studies/stitch-and-wash/background.webp")
+        no-repeat bottom/cover;
+    overflow: hidden;
+    background-size: 100% 60%;
+}
+/* End wireframe section  */
+
+
+/* start uiux phase sectuion */
+.stitch-and-wash-uiux-section-wrapper .uiux-main-title {
+     font-weight: 900;
+    font-size: 50px;
+}
+.stitch-and-wash-uiux-section-wrapper .uiux-content-block h3{
+    color: var(--bright-cyan);
+    font-weight: 900;
+    font-size: 30px;
+}
+.stitch-and-wash-uiux-section-wrapper .uiux-image-col img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+}
+/* End uiux phase sectuion */
+
+
+/* start persona section  */
+.stitch-and-wash-persona-section .persona-left-column-card{
+    background-color: var(--bright-cyan);
+
+}
+.stitch-and-wash-persona-section h2,
+.stitch-and-wash-persona-section .persona-background-section h3,
+.stitch-and-wash-persona-section .persona-name-section h4,
+.stitch-and-wash-persona-section p,
+.stitch-and-wash-persona-section p b{
+    color: var(--white-color);
+}
+.stitch-and-wash-persona-section .persona-background-section h3{
+    border: none;
+} 
+.stitch-and-wash-persona-section .persona-goals-section h3,
+.stitch-and-wash-persona-section .persona-painpoints-section h3{
+    color: var(--bright-cyan);  
+}
+
+
+.stitch-and-wash-persona-section  .persona-goals-section ul li::before, .persona-painpoints-section ul li::before{
+    color: var(--bright-cyan);
+}
+ 
+/* End persona section  */
 /*End stitch and wash case study */

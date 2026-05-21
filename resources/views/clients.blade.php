@@ -185,6 +185,9 @@
 <!--End Badges-->
 
 <!--Start Let's Work Together-->
+<section>
+<div class="container">
+
 <div class="row py-5 justify-content-center hire-developer">
 	<div class="col-lg-7">
 		<div class="free-cta-title v-center wow fadeIn">
@@ -202,6 +205,10 @@
 		</div>
 	</div>
 </div>
+</div>
+
+</section>
+
 <!--End Let's Work Together-->
 
 @endsection

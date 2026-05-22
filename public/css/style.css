@@ -25022,61 +25022,53 @@ textarea::-ms-input-placeholder {
 
 /* End Client Over View */
 
-
 /* Start project dec section */
-.project-dec-section .container{
-     padding: 100px 0;
+.project-dec-section .container {
+    padding: 100px 0;
     background: url("../images/case-studies/stitch-and-wash/background.webp")
         no-repeat bottom/cover;
     overflow: hidden;
     background-size: 100% 70%;
 }
-.project-dec-section .project-dec-img img{
-     width: 100%;
+.project-dec-section .project-dec-img img {
+    width: 100%;
     max-width: 600px;
     display: block;
     margin: 0 auto;
 }
 
-.project-dec-section .project-dec-content{
-        padding: 340px 100px 0px 0;
+.project-dec-section .project-dec-content {
+    padding: 340px 100px 0px 0;
 }
-.project-dec-section .project-dec-content h3{
+.project-dec-section .project-dec-content h3 {
     margin: 10px 0 10px 0;
-
 }
 
-.project-dec-section .project-dec-content p{
+.project-dec-section .project-dec-content p {
     font-weight: 600;
     font-size: 19px;
     margin-top: 25px;
 }
 
-
 /* End project dec section */
 
-
-
 /* start Project goal section */
-  .project-cards{
+.project-cards {
     display: flex;
     justify-content: space-between;
-    
 }
-  .project-cards .project-card {
+.project-cards .project-card {
     border: 2px solid var(--bright-cyan);
     border-radius: 30px;
     padding: 50px 20px 50px 20px;
     margin: 30px;
     position: relative;
+}
 
-  }
-
-
-  .project-cards .project-card .project-num{
+.project-cards .project-card .project-num {
     border: 5px solid var(--bright-cyan);
     width: fit-content;
-    border-radius: 50%;    
+    border-radius: 50%;
     padding: 15px;
     position: absolute;
     top: -19px;
@@ -25084,29 +25076,26 @@ textarea::-ms-input-placeholder {
     background-color: var(--white-color);
     font-weight: 900;
     font-size: 22px;
-    
-  }
+}
 
-  .project-cards .project-card .project-goal-content{
+.project-cards .project-card .project-goal-content {
     border-left: 4px solid var(--bright-cyan);
     padding-left: 22px;
     margin-top: 20px;
-  }
+}
 
-.project-goal-img img{
+.project-goal-img img {
     display: block;
     margin: 0 auto;
     width: 100%;
     max-width: 700px;
     padding-top: 20px;
-
 }
 /* End Project goal section */
 
-
 /* start wireframe section  */
-.wireframe-section .container{
-        padding: 100px 0;
+.wireframe-section .container {
+    padding: 100px 0;
     background: url("../images/case-studies/stitch-and-wash/background.webp")
         no-repeat bottom/cover;
     overflow: hidden;
@@ -25114,18 +25103,17 @@ textarea::-ms-input-placeholder {
 }
 /* End wireframe section  */
 
-
 /* start uiux phase sectuion */
 .stitch-and-wash-uiux-section-wrapper .uiux-main-title {
-     font-weight: 900;
+    font-weight: 900;
     font-size: 50px;
 }
-.stitch-and-wash-uiux-section-wrapper .uiux-content-block h3{
+.stitch-and-wash-uiux-section-wrapper .uiux-content-block h3 {
     color: var(--bright-cyan);
     font-weight: 900;
     font-size: 30px;
 }
-.stitch-and-wash-uiux-section-wrapper .uiux-image-col img{
+.stitch-and-wash-uiux-section-wrapper .uiux-image-col img {
     display: block;
     margin: 0 auto;
     width: 100%;
@@ -25133,318 +25121,407 @@ textarea::-ms-input-placeholder {
 }
 /* End uiux phase sectuion */
 
-
 /* start persona section  */
-.stitch-and-wash-persona-section .persona-left-column-card{
+.stitch-and-wash-persona-section .persona-left-column-card {
     background-color: var(--bright-cyan);
-
 }
 .stitch-and-wash-persona-section h2,
 .stitch-and-wash-persona-section .persona-background-section h3,
 .stitch-and-wash-persona-section .persona-name-section h4,
 .stitch-and-wash-persona-section p,
-.stitch-and-wash-persona-section p b{
+.stitch-and-wash-persona-section p b {
     color: var(--white-color);
 }
-.stitch-and-wash-persona-section .persona-background-section h3{
+.stitch-and-wash-persona-section .persona-background-section h3 {
     border: none;
-} 
-.stitch-and-wash-persona-section .persona-goals-section h3,
-.stitch-and-wash-persona-section .persona-painpoints-section h3{
-    color: var(--bright-cyan);  
 }
-
-
-.stitch-and-wash-persona-section  .persona-goals-section ul li::before, .persona-painpoints-section ul li::before{
+.stitch-and-wash-persona-section .persona-goals-section h3,
+.stitch-and-wash-persona-section .persona-painpoints-section h3 {
     color: var(--bright-cyan);
 }
- 
+
+.stitch-and-wash-persona-section .persona-goals-section ul li::before,
+.persona-painpoints-section ul li::before {
+    color: var(--bright-cyan);
+}
+
 /* End persona section  */
 /*End stitch and wash case study */
 
+/* start new process section */
+.process-section {
+    padding: 100px 0;
+}
 
-/* test */
- 
+.section-box {
+    background-color: var(--light-grey);
+    border-radius: 32px;
+    padding: 60px;
+    border: 1px solid rgba(13, 172, 175, 0.12);
+
+    position: relative;
+    overflow: hidden;
+
+    box-shadow: 0 15px 50px rgba(13, 172, 175, 0.06);
+}
 
-     
- 
+.section-box::before {
+    content: "";
+    position: absolute;
 
-    .process-section{
-      padding:100px 0;
-    }
+    width: 400px;
+    height: 400px;
 
-    .section-box{
-    
-        background-color: var(--light-grey);
-      border-radius:32px;
-      padding:60px;
-      border:1px solid rgba(13,172,175,.12);
+    background: radial-gradient(
+        circle,
+        rgba(13, 172, 175, 0.12),
+        transparent 70%
+    );
 
-      position:relative;
-      overflow:hidden;
+    top: -150px;
+    left: -120px;
+}
 
-      box-shadow:
-      0 15px 50px rgba(13,172,175,.06);
-    }
+.eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 
-    .section-box::before{
-      content:"";
-      position:absolute;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 
-      width:400px;
-      height:400px;
+    color: var(--first-color);
 
-      background:radial-gradient(
-      circle,
-      rgba(13,172,175,.12),
-      transparent 70%);
+    margin-bottom: 20px;
+}
 
-      top:-150px;
-      left:-120px;
-    }
+.eyebrow-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--first-color);
 
- 
+    box-shadow: 0 0 10px rgba(13, 172, 175, 0.4);
+}
 
-    .eyebrow{
-      display:flex;
-      align-items:center;
-      gap:10px;
+.main-heading {
+    font-family: "Sora", sans-serif;
+    font-size: 54px;
+    line-height: 1.15;
+    font-weight: 800;
 
-      font-size:13px;
-      font-weight:700;
-      letter-spacing:2px;
-      text-transform:uppercase;
+    color: #111827;
+}
 
-      color:var(--first-color);
+.divider {
+    width: 100%;
+    height: 1px;
 
-      margin-bottom:20px;
-    }
+    background: linear-gradient(
+        to right,
+        rgba(13, 172, 175, 0.18),
+        transparent
+    );
 
-    .eyebrow-dot{
-      width:8px;
-      height:8px;
-      border-radius:50%;
-      background:var(--first-color);
+    margin: 40px 0;
+}
 
-      box-shadow:
-      0 0 10px rgba(13,172,175,.4);
-    }
+.step-card {
+    background: var(--white-color);
 
-    .main-heading{
-      font-family:'Sora',sans-serif;
-      font-size:54px;
-      line-height:1.15;
-      font-weight:800;
+    border: 1px solid rgba(13, 172, 175, 0.12);
+    border-radius: 24px;
 
-      color:#111827;
-    }
+    padding: 35px 30px;
+    height: 100%;
 
-    .divider{
-      width:100%;
-      height:1px;
+    transition: 0.35s ease;
 
-      background:
-      linear-gradient(
-      to right,
-      rgba(13,172,175,.18),
-      transparent);
+    position: relative;
+    overflow: hidden;
 
-      margin:40px 0;
-    }
+    box-shadow: 0 8px 30px rgba(13, 172, 175, 0.05);
+}
 
- 
+.step-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
 
-    .step-card{
-      background:var(--white-color);
+    background: radial-gradient(
+        circle at top,
+        rgba(13, 172, 175, 0.1),
+        transparent 70%
+    );
 
-      border:1px solid rgba(13,172,175,.12);
-      border-radius:24px;
+    opacity: 0;
+    transition: 0.35s ease;
+}
 
-      padding:35px 30px;
-      height:100%;
+.step-card:hover {
+    transform: translateY(-10px);
 
-      transition:.35s ease;
+    background: var(--light-grey);
 
-      position:relative;
-      overflow:hidden;
+    border-color: rgba(13, 172, 175, 0.25);
 
-      box-shadow:
-      0 8px 30px rgba(13,172,175,.05);
-    }
+    box-shadow: 0 20px 45px rgba(13, 172, 175, 0.12);
+}
 
-    .step-card::before{
-      content:"";
-      position:absolute;
-      inset:0;
+.step-card:hover::before {
+    opacity: 1;
+}
 
-      background:
-      radial-gradient(
-      circle at top,
-      rgba(13,172,175,.10),
-      transparent 70%);
+.step-number {
+    font-size: 14px;
+    font-weight: 700;
 
-      opacity:0;
-      transition:.35s ease;
-    }
+    color: var(--first-color);
 
-    .step-card:hover{
-      transform:translateY(-10px);
+    margin-bottom: 18px;
 
-      background:var(--light-grey);
+    font-family: "Sora", sans-serif;
+}
 
-      border-color:rgba(13,172,175,.25);
+.step-title {
+    font-family: "Sora", sans-serif;
 
-      box-shadow:
-      0 20px 45px rgba(13,172,175,.12);
-    }
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.35;
 
-    .step-card:hover::before{
-      opacity:1;
-    }
+    margin-bottom: 28px;
 
-    .step-number{
-      font-size:14px;
-      font-weight:700;
+    color: #111827;
+}
 
-      color:var(--first-color);
+.step-desc {
+    font-size: 15px;
+    line-height: 1.8;
 
-      margin-bottom:18px;
+    color: #6b7280;
+}
 
-      font-family:'Sora',sans-serif;
-    }
+.footer-bar {
+    margin-top: 35px;
 
-    .step-title{
-      font-family:'Sora',sans-serif;
+    background: #ffffff;
 
-      font-size:26px;
-      font-weight:700;
-      line-height:1.35;
+    border-radius: 24px;
 
-      margin-bottom:28px;
+    border: 1px solid rgba(13, 172, 175, 0.12);
 
-      color:#111827;
-    }
+    padding: 22px 25px;
 
-    .step-desc{
-      font-size:15px;
-      line-height:1.8;
+    box-shadow: 0 8px 25px rgba(13, 172, 175, 0.05);
+}
 
-      color:#6b7280;
-    }
+.avatar-stack {
+    display: flex;
+    align-items: center;
+}
 
-   
+.avatar {
+    width: 42px;
+    height: 42px;
 
-    .footer-bar{
-      margin-top:35px;
+    border-radius: 50%;
 
-      background:#ffffff;
+    background: var(--second-color);
 
-      border-radius:24px;
+    color: var(--first-color);
 
-      border:1px solid rgba(13,172,175,.12);
+    border: 2px solid #fff;
 
-      padding:22px 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-      box-shadow:
-      0 8px 25px rgba(13,172,175,.05);
-    }
+    font-size: 12px;
+    font-weight: 700;
 
-    .avatar-stack{
-      display:flex;
-      align-items:center;
-    }
+    margin-left: -10px;
+}
 
-    .avatar{
-      width:42px;
-      height:42px;
+.avatar:first-child {
+    margin-left: 0;
+}
 
-      border-radius:50%;
+.footer-text {
+    font-size: 15px;
+    color: #6b7280;
+}
 
-      background:var(--second-color);
+.footer-text strong {
+    color: #111827;
+}
 
-      color:var(--first-color);
+.btn-start {
+    display: inline-flex;
+    align-items: center;
+    gap: 14px;
 
-      border:2px solid #fff;
+    text-decoration: none;
 
-      display:flex;
-      align-items:center;
-      justify-content:center;
+    padding: 10px 22px 10px 10px;
 
-      font-size:12px;
-      font-weight:700;
+    border-radius: 60px;
 
-      margin-left:-10px;
-    }
+    border: 2px solid var(--first-color);
 
-    .avatar:first-child{
-      margin-left:0;
-    }
+    color: var(--first-color);
 
-    .footer-text{
-      font-size:15px;
-      color:#6b7280;
-    }
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
 
-    .footer-text strong{
-      color:#111827;
-    }
+    background: #fff;
 
-    
+    transition: 0.35s ease;
+}
 
-    .btn-start{
-      display:inline-flex;
-      align-items:center;
-      gap:14px;
+.btn-start:hover {
+    background: var(--first-color);
+    color: #fff;
 
-      text-decoration:none;
+    transform: translateX(5px);
 
-      padding:10px 22px 10px 10px;
+    box-shadow: 0 15px 35px rgba(13, 172, 175, 0.25);
+}
 
-      border-radius:60px;
+.btn-icon {
+    width: 38px;
+    height: 38px;
 
-      border:2px solid var(--first-color);
+    border-radius: 50%;
 
-      color:var(--first-color);
+    background: var(--first-color);
 
-      font-family:'Sora',sans-serif;
-      font-weight:600;
-      font-size:15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-      background:#fff;
+    color: #fff;
 
-      transition:.35s ease;
-    }
+    transition: 0.35s ease;
+}
 
-    .btn-start:hover{
-      background:var(--first-color);
-      color:#fff;
+.btn-start:hover .btn-icon {
+    background: rgba(255, 255, 255, 0.18);
+}
+/* end new process section */
 
-      transform:translateX(5px);
-
-      box-shadow:
-      0 15px 35px rgba(13,172,175,.25);
-    }
-
-    .btn-icon{
-      width:38px;
-      height:38px;
-
-      border-radius:50%;
-
-      background:var(--first-color);
-
-      display:flex;
-      align-items:center;
-      justify-content:center;
-
-      color:#fff;
-
-      transition:.35s ease;
-    }
-
-    .btn-start:hover .btn-icon{
-      background:rgba(255,255,255,.18);
-    }
-
- 
- 
+/* start dantal case study */
+/* start dental hero */
+.dantal-app-hero-section {
+    padding: 100px 0;
+    background: url("../images/case-studies/dantal-app/hero-background-img.webp")
+        no-repeat center center/cover;
+    overflow: hidden;
+}
+
+.dantal-app-hero-section .logo img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 200px;
+    margin-top: 100px;
+}
+
+.dantal-app-hero-section h1,
+.dantal-app-hero-section p {
+    text-align: center;
+    color: var(--white-color);
+}
+
+.dantal-app-hero-section .dantal-hero-img img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+}
+/* End dental hero */
+
+/* start client overview section */
+.dantail.client-overview-section .client-content h3 {
+    color: #06070d;
+}
+.dantail.client-overview-section .client-content ul {
+    border-left-color: #06070d;
+}
+
+.dantail.client-overview-section .client-img {
+    margin-top: 200px;
+}
+/* end client overview section */
+
+/* start dantail problem section */
+.dantail-problem-section .start-plus-circle,
+.dantail-problem-section .card-connector-plus {
+    background-color: #06070d;
+    color: white;
+}
+.dantail-problem-section .bg-custom-gray {
+    background-color: #06070d;
+    color: white;
+}
+/* end dantail problem section */
+
+/* start dantal objective section */
+.dantal-objective-section .feature-box-group .text-theme {
+    color: #06070d;
+}
+/* end dantal objective section */
+
+/* start dental persona section */
+
+.dental-persona-section .persona-left-column-card {
+    background-color: #3b3b3b;
+}
+.dental-persona-section .persona-name-section img {
+    border-color: white;
+}
+.dental-persona-section .persona-goals-section h3,
+.dental-persona-section .persona-painpoints-section h3 {
+    color: #3b3b3b;
+}
+/* End dental persona section */
+
+/* start dantal wirframe section */
+.dantal-wireframe .container {
+    background-image: none;
+}
+.dantal-wireframe {
+    background-image: url("../images/case-studies/dantal-app/wireframe-background.webp");
+    background-size: 100% 100%;
+}
+.dantal-wireframe .common-heading h2,
+.dantal-wireframe .common-heading p {
+    color: var(--white-color);
+}
+.dantal-wireframe .love-app-wireframe-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1600px;
+}
+/* end dantal wirframe section */
+
+/* start dantal app uiux design phase section */
+.dantal-app-uiux-section-wrapper .uiux-content-block h3 {
+    color: #3b3b3b;
+    font-weight: 900;
+    font-size: 30px;
+}
+/* end dantal app uiux design phase section */
+
+/* Start Client Testimonial Section  */
+.dantal-app-testing .testimonial-card {
+    border: 2px solid #3b3b3b;
+}
+/* END Client Testimonial Section  */
+
+/* start dantal case study */

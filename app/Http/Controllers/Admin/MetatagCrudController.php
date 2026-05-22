@@ -189,6 +189,8 @@ class MetatagCrudController extends CrudController
                 'boujeeBeachinApp' => 'boujeeBeachinApp',
                 'woodLandApp' => 'woodLandApp',
                 'neuroKnightsApp' => 'neuroKnightsApp',
+                "dantalapp" => "dantalapp",
+                "alejandro" => "alejandro",
                 'semApp' => 'semApp',
                 'seoApp' => 'seoApp',
                 'smmApp' => 'smmApp'

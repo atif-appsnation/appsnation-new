@@ -157,6 +157,8 @@ Route::get('/case-studies/royal-relax-spa','HomeController@royalrelaxspa');
 Route::get('/case-studies/load-board','HomeController@Loadboard');
 Route::get('/case-studies/all-traders-app','HomeController@alltraders');
 Route::get('/case-studies/stitch-and-wash','HomeController@stitchandwashApp');
+Route::get('/case-studies/dantal-app','HomeController@dentalApp');
+Route::get('/case-studies/alejandro-app','HomeController@alejandroApp');
 
 
 Route::get('/social-media-marketing','HomeController@smmApp');

@@ -3381,6 +3381,38 @@ class HomeController extends Controller
             ]
         );
     }
+ public function alejandroApp()
+    {
+
+        $metatag = Metatag::where('slug', 'alejandro')->get();
+        $metatitle = Metatitle::where('slug', 'alejandro')->get();
+
+        return view(
+            'alejandro',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+
+
+    
+ public function dentalApp()
+    {
+
+        $metatag = Metatag::where('slug', 'dantalapp')->get();
+        $metatitle = Metatitle::where('slug', 'dantalapp')->get();
+
+        return view(
+            'dantalapp',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+
 
     public function seoApp()
     {

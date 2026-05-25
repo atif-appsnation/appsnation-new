@@ -193,7 +193,8 @@ class MetatagCrudController extends CrudController
                 "alejandro" => "alejandro",
                 'semApp' => 'semApp',
                 'seoApp' => 'seoApp',
-                'smmApp' => 'smmApp'
+                'smmApp' => 'smmApp',
+                'alphabet-game' => 'alphabet-game'
             ],
 
             'allows_null' => false,

@@ -159,7 +159,8 @@ class MetabankCrudController extends CrudController
                 'boujeeBeachinApp' => 'boujeeBeachinApp',
                 'semApp' => 'semApp',
                 'seoApp' => 'seoApp',
-                'smmApp' => 'smmApp'
+                'smmApp' => 'smmApp',
+                'alphabet-game' => 'alphabet-game'
             ],
 
             'allows_null' => false,

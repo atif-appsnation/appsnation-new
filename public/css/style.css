@@ -25524,4 +25524,19 @@ textarea::-ms-input-placeholder {
 }
 /* END Client Testimonial Section  */
 
-/* start dantal case study */
+/* end dantal case study */
+
+
+
+
+
+#alphabet-matchup-game {
+    background: url("../images/case-studies/alphabet-matchup-game/alphabet-matchup-game-background.webp")
+        top center / cover no-repeat;
+        /* background: url('../'); */
+}
+ 
+
+.alphabet-matchup-game-hero{
+    margin-top: 100px;
+}

@@ -3510,4 +3510,19 @@ class HomeController extends Controller
         );
     }
 
+           public function alphabetmatchupGame()
+    {
+
+        $metatag = Metatag::where('slug', 'alphabet-game')->get();
+        $metatitle = Metatitle::where('slug', 'alphabet-game')->get();
+
+        return view(
+            'alphabet-game',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
+
 }

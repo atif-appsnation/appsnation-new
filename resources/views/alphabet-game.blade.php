@@ -12,271 +12,537 @@
     @endif
 
     <div class="container wow fadeIn" data-wow-delay="0.2s">
-       <div class="row">
-        <div class="col-12">
-            <img   src="{{asset('images/case-studies/alphabet-matchup-game/score-image.webp')}}" class="img-fluid" alt="" srcset="">
+        <div class="row">
+            <div class="col-12">
+                <div class="alphabet-hero-img-1">
+                    <img src="{{asset('images/case-studies/alphabet-matchup-game/score-image.webp')}}" alt="">
+                </div>
+            </div>
+
+            <div class="col-12">
+                <div class="alphabet-hero-img-2">
+                    <img src="{{asset('images/case-studies/alphabet-matchup-game/hero-img.webp')}}" alt="">
+                </div>
+            </div>
+
+
+            <div class="col-12">
+                <div class="alphabet-hero-img-3">
+                    <img src="{{asset('images/case-studies/alphabet-matchup-game/hero-box-img.webp')}}" alt="">
+                </div>
+            </div>
         </div>
-        <div class="col-12">
-            <img   src="{{asset('images/case-studies/alphabet-matchup-game/hero-img.webp')}}" class="img-fluid" alt="" srcset="">
-        </div>
-        <div class="col-12">
-            <img   src="{{asset('images/case-studies/alphabet-matchup-game/hero-box-img.webp')}}" class="img-fluid" alt="" srcset="">
-        </div>
-       </div>
     </div>
 </section>
 
-<!--End hero section bomb defuse -->
 <!-- End Breadcrumb Area-->
 
-<!--start toy sort introduction  -->
-<section class="toy-sort-introduction  py-5  wow fadeIn">
-    <div class="container wow fadeInUp">
-        <div class="row align-items-center text-center text-md-start">
-            <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img  order-1 order-md-1 order-lg-1 ">
-                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/Introduction-img-1.webp')}}" class="img-fluid" alt="project description">
-            </div>
-            <div class="col-12 col-md-12 col-lg-6 order-2 order-md-2 order-lg-2">
-                <div class="car-mehanic-content">
-                  <div class="row">
-                      <div class="col-8">
-                          <h2 class="toy-sort-title">Introduction<span> Play Sort Fun 3D</span></h2>
-                        </div>
-                        <div class="col-4">
-                            <div class="imageFloteRight wow fadeInRight" data-wow-delay="0.6s">
-                        <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/Introduction-img-2.webp')}}" alt="Duck Toy">
-                    </div>
-                        </div>
-                    </div>
-                    <p class="toy-sort-paragraph">
-                       Play Sort Fun 3D is a visually immersive and mentally engaging puzzle game developed by <span>AppexGames,</span> where players match and sort realistic 3D objects to clear levels. The game is designed for casual players who enjoy tidying, organizing, and solving matching challenges. With smooth mechanics, satisfying visual effects, and hundreds of fun levels, it offers a perfect balance of brain training and relaxation.
-                    </p>
-                </div>
-
-
-            </div>
-
-
-        </div>
-    </div>
-</section>
-<!--End toy sort introduction -->
-
-
-<!--start project idea toy sort puzzle Section -->
-<section class="toy-sort-project-idea container wow fadeInUp">
-    <div class="row align-items-center text-center text-md-start">
-
-        <!-- Content Column -->
-        <div class="col-12 col-md-12 col-lg-6 order-2 order-md-2 order-lg-1">
-            <div class="car-mehanic-content">
-                <div class="row">
-                    <div class="col-8">
-                        <h2 class="toy-sort-title">Project <span>Idea</span></h2>
-                    </div>
-                    <div class="col-4">
-                        <div class="imageFloteRight wow fadeInLeft" data-wow-delay="0.6s">
-                            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/taddy.webp')}}" alt="Duck Toy">
-                        </div>
-                    </div>
-                </div>
-                <p class="toy-sort-paragraph">
-                    The core idea behind Play Sort Fun 3D was to create a tactile, satisfying sorting experience that would feel like digital decluttering. 
-                    <span>AppexGames</span> aimed to introduce gameplay that involves dragging, rotating, and matching 3D items—like fruits, toys, animals, and everyday objects—against the clock. 
-                    The game was designed to be relaxing, yet stimulating, with the right amount of challenge to keep players engaged while providing a sense of order and achievement.
-                </p>
-                <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/red-doll.webp')}}" alt="Duck Toy">
-                </div>
-            </div>
-        </div>
-
-        <!-- Image Column -->
-        <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img order-1 order-md-1 order-lg-2">
-            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/project-idea-img.webp')}}" class="img-fluid" alt="project description">
-        </div>
-
-    </div>
-</section>
-
-<!--End project idea toy sort puzzle Section -->
-
-
-<!--start  game goal  section -->
-
-<section class="toy-sort-project-idea container wow fadeInUp">
-    <div class="row align-items-center text-center text-md-start">
-
-        <!-- Image Column -->
-        <div class="col-12 col-md-12 col-lg-6 mb-4 mb-md-4 car-mehanic-img
-                      order-1 order-md-1 order-lg-1 ">
-            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/game-goal-img.webp')}}"
-                 class="img-fluid" alt="project description">
-        </div>
-
-        <!-- Content Column -->
-        <div class="col-12 col-md-12 col-lg-6
-                    order-2 order-md-2 order-lg-2">
-            <div class="car-mehanic-content">
-
-                <div class="row">
-                    <div class="offset-8 col-4">
-                        <div class="imageFloteRight wow fadeInLeft" data-wow-delay="0.6s">
-                            <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/white-doll.webp')}}"
-                                 alt="Duck Toy">
-                        </div>
-                    </div>
-                </div>
-
-                <h2 class="toy-sort-title text-lg-end text-start">
-                    Game <span>Goal</span>
-                </h2>
-
-                <p class="toy-sort-paragraph">
-                    <span>AppexGames</span> set out to design a game that could improve focus,
-                    memory, and visual recognition through simple, clutter-clearing mechanics.
-                    The main goals were intuitive 3D interactions, colorful objects, and
-                    gradually increasing difficulty without pressure.
-                </p>
-
-            </div>
-        </div>
-
-    </div>
-</section>
-
-<!-- End  game goal  section -->
- 
-<!-- start audience target section -->
- <section class="toy-sort-audience-target bomb-defuse-spaceing  wow fadeIn text-center">
-    <div class="container">
+<!--start introduction section  -->
+<section class="alphabet-introduction-section">
+    <div class="container mt-6">
         <div class="row">
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-4">
-                         <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/robot.webp')}}" alt="Duck Toy">
-                </div>
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/ant.webp')}}" alt="Duck Toy">
+                        </div>
                     </div>
                     <div class="col-md-4">
-                <h2 class="bomb-defuse-title">Target  <span>Audience</span></h2>
+                        <h2 class="title">Target <span>Alphabet Match</span></h2>
 
                     </div>
                     <div class="offset-md-2 col-md-2 ">
-                         <div class="imageFloteRight wow fadeInRight " data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/plane.webp')}}" alt="Duck Toy">
-                </div>
+                        <div class="imageFloteRight wow fadeInRight " data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/lion.webp')}}" alt="Duck Toy">
+
+                        </div>
                     </div>
                 </div>
-                <p class="bomb-defuse-paragraph">The game is tailored for casual mobile gamers of all ages, particularly those who enjoy sorting, organizing, or playing visually satisfying games like ASMR or minimal puzzlers. It’s ideal for kids, adults, and elderly players alike who want to relax and sharpen their focus during short breaks or daily downtime.</p>
-            </div>
-        </div>
-             <div class="row mt-4">
-            <div class="col-12 text-center toy-sort-target-audience-img">
-                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/morkup.webp')}}" alt="wood-land morkup" class="img-fluid">
-            </div>
-        </div>
 
+            </div>
+
+            <div class="col-12 text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>Alphabet Match Up is a cheerful and educational ABC game built to <br> teach young children the basics of letter recognition and phonics <br>. Using colorful puzzles, voice guidance, and matching activities, it <br> creates a joyful space for learning. Kids match uppercase and <br> lowercase letters while hearing their sounds clearly. This fun-first <br> approach supports early literacy and letter-sound connections. <br> It’s a perfect blend of play and foundational skill-building.</p>
+                </div>
+
+            </div>
+
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/monkey.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+                    <div class="offset-md-4 col-md-2 ">
+                        <div class="imageFloteRight wow fadeInRight " data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/glass.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/Introduction-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+        </div>
     </div>
 </section>
-<!-- End audience target section -->
+<!--start introduction section  -->
 
 
-<!-- start toy sort puzzle Elements section -->
-<section class="toy-sort-Element wow fadeIn  bomb-defuse-spaceing  wow fadeIn">
-    <div class="container">
-         <div class="row">
+
+<!--start Project Overview section  -->
+<section class="project-overview-section ">
+    <div class="container mt-6">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
                     <div class="col-md-4">
-                         <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/elefent.webp')}}" alt="Duck Toy">
-                </div>
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/cow.webp')}}" alt="Duck Toy">
+                        </div>
                     </div>
                     <div class="col-md-4">
-                <h2 class="bomb-defuse-title mb-sm-4">Elements </h2>
+                        <h2 class="title">Project <span>Overview</span></h2>
 
                     </div>
                     <div class="offset-md-2 col-md-2 ">
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/cup.webp')}}" alt="Duck Toy">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/gitar.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-12 text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>The project aimed to design an interactive app that introduces the <br> alphabet through engaging visuals and sounds. It includes letter-<br>matching puzzles, phonics games, and memory tasks that boost<br> learning retention. The design is child-safe, distraction-free, and<br> works entirely offline. From toddlers to kindergartners, the game<br> adapts to each learner's pace. The ultimate goal was to turn ABC<br> learning into a playful daily activity.</p>
+                </div>
+
+            </div>
+
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/umbrella.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/project-overview-section.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+        </div>
+    </div>
+</section>
+<!--start Project Overview section  -->
+
+
+<!-- start game goal section -->
+<section class="alphabet-introduction-section">
+    <div class="container-fluid mt-6">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/snake.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+                    <div class="offset-md-2 col-md-4 ">
+
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">game <span>goal</span></h2>
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/octopus.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="row d-flex justify-content-space-between align-items-center">
+            <div class="col-md-6">
+
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/game-goal-img-1.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+            <div class="col-6  text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>The main objective was to support early literacy<br> by reinforcing phonemic awareness through <br>interactive gameplay. The app helps children connect<br> spoken sounds to written symbols in a way that's fun and memorable.<br> By encouraging exploration and repetition,<br> it builds confidence in recognizing and using letters.<br> The game also introduces reading basics without overwhelming<br> young minds. It makes alphabet learning feel <br>like a natural discovery process.</p>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+
+                    <div class="offset-md-2 col-md-4  ">
+
+                        <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Target <span>Audience</span></h2>
+
+                        </div>
+                    </div>
+                    <div class="offset-md-4 col-md-2">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/zebra.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+        <div class="row d-flex justify-content-space-between align-items-center">
+
+            <div class="col-6  text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>“Alphabet Match Up” is crafted for kids aged 3 to 6,<br> including toddlers, preschoolers, and kindergarteners.<br> It's ideal for home use by parents or for classroom support <br> by educators. Younger users benefit from guided<br> narration and image-based letter association.<br> Older learners use the game to reinforce reading <br>readiness. The interface ensures every child,<br> regardless of reading level, can navigate with ease.</p>
+                </div>
+
+            </div>
+            <div class="col-md-6">
+
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/game-goal-img-2.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/plane.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- end game goal section -->
+
+
+<!-- start Gameplay Mechanics section -->
+<section class="project-overview-section ">
+    <div class="container mt-6">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/eagle.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h2 class="title">Gameplay  <span>Mechanics</span></h2>
+
+                    </div>
+                    <div class="offset-md-2 col-md-2 ">
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/sun.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-12 text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>The game features letter-to-object and letter-to-sound matching <br> for visual and auditory learners. Friendly voiceovers help kids hear <br> correct pronunciation as they play. Bright visuals, no ads, and <br> intuitive controls make it safe for unsupervised use. Offline <br> functionality allows learning anywhere—during travel, school, <br> or quiet time at home. It also includes both uppercase and lowercase <br> practice to complete the alphabet experience.</p>
+                </div>
+
+            </div>
+
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/tree-1.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+                    <div class="offset-md-4 col-md-2 ">
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/lemon.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/gameplay-mechanics-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end Gameplay Mechanics section -->
+
+<!-- start Key Features and Solution Delivered section -->
+<section class="alphabet-introduction-section">
+    <div class="container-fluid mt-6">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    
+
+                    <div class="offset-md-2 col-md-4 ">
+
+                        <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Key  <span>Features</span></h2>
+
+                        </div>
+                    </div>
+                    <div class="offset-md-2 col-md-4">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/fish.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="row d-flex justify-content-space-between align-items-center">
+             <div class="col-6  text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>The main objective was to support early literacy<br> by reinforcing phonemic awareness through <br>interactive gameplay. The app helps children connect<br> spoken sounds to written symbols in a way that's fun and memorable.<br> By encouraging exploration and repetition,<br> it builds confidence in recognizing and using letters.<br> The game also introduces reading basics without overwhelming<br> young minds. It makes alphabet learning feel <br>like a natural discovery process.</p>
+                </div>
+
+            </div>
+            <div class="col-md-6">
+
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/key-features-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+           
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+
+                    <div class=" col-md-6  ">
+                         <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/perrot.webp')}}" alt="Duck Toy">
+                        </div>
                         
                     </div>
+                    <div class="offset-md-4 col-md-2">
+
+                    <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Solution  <span>Delivered</span></h2>
+
+                        </div>
+                       
+                    </div>
+
+
                 </div>
-        <div class="row ">
-            <div class="col-12 text-center">
-                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/element-img.webp')}}" alt="wood-land morkup" class="img-fluid">
+
             </div>
+
         </div>
-    </div>
-</section>
-<!-- End toy sort puzzle Elements section -->
+        <div class="row d-flex justify-content-space-between align-items-center">
+             <div class="col-md-6">
+
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/solution-delivered-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+            <div class="col-6  text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>“Alphabet Match Up” is crafted for kids aged 3 to 6,<br> including toddlers, preschoolers, and kindergarteners.<br> It's ideal for home use by parents or for classroom support <br> by educators. Younger users benefit from guided<br> narration and image-based letter association.<br> Older learners use the game to reinforce reading <br>readiness. The interface ensures every child,<br> regardless of reading level, can navigate with ease.</p>
+                </div>
+
+            </div>
+           
+        </div>
+       
+
+          <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    
+
+                    <div class="offset-md-2 col-md-4 ">
+
+                        <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Learning   <span>Objectives</span></h2>
+
+                        </div>
+                    </div>
+                    <div class="offset-md-2 col-md-4">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/tree-1.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
 
 
-<!-- start toy sort player feedback section  -->
-<section class="toy-sort-player-feedback wow fadeIn  bomb-defuse-spaceing  wow fadeIn">
-    <div class="container">
-         <div class="row">
-                    <div class="col-md-4">
+        <div class="row d-flex justify-content-space-between align-items-center">
+             <div class="col-6  text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>The main objective was to support early literacy<br> by reinforcing phonemic awareness through <br>interactive gameplay. The app helps children connect<br> spoken sounds to written symbols in a way that's fun and memorable.<br> By encouraging exploration and repetition,<br> it builds confidence in recognizing and using letters.<br> The game also introduces reading basics without overwhelming<br> young minds. It makes alphabet learning feel <br>like a natural discovery process.</p>
+                </div>
+
+            </div>
+            <div class="col-md-6">
+
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/learning-objectives-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+           
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+
+                    <div class=" col-md-6  ">
                          <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/boll.webp')}}" alt="Duck Toy">
-                </div>
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/girl.webp')}}" alt="Duck Toy">
+                        </div>
+                        
                     </div>
-                    <div class="col-md-4">
-                <h2 class="bomb-defuse-title mb-sm-4">Player Feedback </h2>
+                    <div class="offset-md-4 col-md-2">
 
+                    <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Design   <span>Approach</span></h2>
+
+                        </div>
+                       
                     </div>
-                    <div class="offset-md-2 col-md-2 ">
-                         <div class="imageFloteRight wow fadeInRight" data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/dog.webp')}}" alt="Duck Toy">
+
+
                 </div>
-                    </div>
+
+            </div>
+
+        </div>
+        <div class="row d-flex justify-content-space-between align-items-center">
+             <div class="col-md-6">
+
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/design-approach-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
+
+            </div>
+            <div class="col-6  text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>“Alphabet Match Up” is crafted for kids aged 3 to 6,<br> including toddlers, preschoolers, and kindergarteners.<br> It's ideal for home use by parents or for classroom support <br> by educators. Younger users benefit from guided<br> narration and image-based letter association.<br> Older learners use the game to reinforce reading <br>readiness. The interface ensures every child,<br> regardless of reading level, can navigate with ease.</p>
                 </div>
-        <div class="row toy-sort-user-feedback-img">
-            <div class="col-4 text-center">
-                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/screen1.webp')}}" alt="wood-land morkup" class="img-fluid">
+
             </div>
-            <div class="col-4 text-center">
-                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/screen2.webp')}}" alt="wood-land morkup" class="img-fluid">
-            </div>
-            <div class="col-4 text-center">
-                <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/screen3.webp')}}" alt="wood-land morkup" class="img-fluid">
-            </div>
+           
         </div>
     </div>
 </section>
-<!-- End toy sort player feedback section  -->
-
- 
-
-<!-- start audience target section -->
- <section class="toy-sort-audience-target bomb-defuse-spaceing  wow fadeIn">
-    <div class="container">
+<!-- end Key Features and Solution Delivered section -->
+<section class="project-overview-section ">
+    <div class="container mt-6">
         <div class="row">
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-4">
-                         <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/ring-puzzle.webp')}}" alt="Duck Toy">
-                </div>
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/horse.webp')}}" alt="Duck Toy">
+                        </div>
                     </div>
-                    <div class="col-md-4 text-center">
-                <h2 class="bomb-defuse-title">Results<span> & Impact  </span></h2>
+                    <div class="col-md-4">
+                        <h2 class="title">Result  <span>& Impact </span></h2>
 
                     </div>
                     <div class="offset-md-2 col-md-2 ">
-                         <div class="imageFloteRight wow fadeInRight " data-wow-delay="0.6s">
-                    <img loading="lazy" src="{{asset('images/case-studies/toy-sort-puzzle/truck.webp')}}" alt="Duck Toy">
-                </div>
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/turtle.webp')}}" alt="Duck Toy">
+
+                        </div>
                     </div>
                 </div>
-                <p class="bomb-defuse-paragraph">Play Sort Fun 3D has received strong user retention and positive feedback, especially for its satisfying gameplay and clean design. Players appreciated how the game balances relaxation and challenge, offering a therapeutic yet stimulating experience. Many users report improved concentration and memory through regular play, aligning with the game’s brain-training goals. With growing downloads and high engagement metrics, the title continues to thrive among casual gamers.</p>
+
+            </div>
+
+            <div class="col-12 text-center ">
+                <div class="alphabet-introduction-background">
+                    <p>Alphabet Match Up has become a go-to game for parents and teachers <br> looking to support alphabet learning. Children enjoy matching letters, <br> hearing sounds, and progressing through playful levels. Many parents <br> report faster letter recognition and phonics improvement in just weeks. <br> The app stands out for combining phonics, memory, and interactivity in <br> a kid-first design. It proves that early education can be fun, effective,<br> and screen-safe.</p>
+                </div>
+
+            </div>
+
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/ant.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+                    <div class="offset-md-4 col-md-2 ">
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/beetle.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
-              
+        <div class="row">
+            <div class="col-12">
+                <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/result-and-impact-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
 
+            </div>
+        </div>
+         <div class="row">
+                    <div class="col-md-6">
+                        <div class="imageFloteLeft wow fadeInLeft" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/horse-2.webp')}}" alt="Duck Toy">
+                        </div>
+                    </div>
+
+                    <div class="offset-md-4 col-md-2 ">
+                        <div class="imageFloteRight wow fadeInRight d-flex" data-wow-delay="0.6s">
+                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/dog.webp')}}" alt="Duck Toy">
+
+                        </div>
+                    </div>
+                </div>
     </div>
 </section>
-<!-- End audience target section -->
+ <!-- start result and impact section -->
 
-
-<!-- start
- 
- 
 @endsection

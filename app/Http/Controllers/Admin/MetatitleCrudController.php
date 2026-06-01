@@ -194,7 +194,9 @@ class MetatitleCrudController extends CrudController
                 'semApp' => 'semApp',
                 'seoApp' => 'seoApp',
                 'smmApp' => 'smmApp',
-                'alphabet-game' => 'alphabet-game'
+                'alphabet-game' => 'alphabet-game',
+                'game-space-advanture' => 'game-space-advanture',
+
             ],
 
             'allows_null' => false,

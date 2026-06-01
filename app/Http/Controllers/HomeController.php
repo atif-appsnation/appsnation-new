@@ -3524,5 +3524,19 @@ class HomeController extends Controller
             ]
         );
     }
+        public function gamespaceAdvanture()
+    {
+
+        $metatag = Metatag::where('slug', 'game-space-advanture')->get();
+        $metatitle = Metatitle::where('slug', 'game-space-advanture')->get();
+
+        return view(
+            'game-space-advanture',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }
 
 }

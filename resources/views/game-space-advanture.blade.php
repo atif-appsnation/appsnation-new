@@ -1,10 +1,10 @@
 @extends('app.main')
-@section('body-id', 'alphabet-matchup-game')
+@section('body-id', 'game-space-advanture')
 @section('content')
 
 <!--Breadcrumb Area-->
 <!--start hero section bomb defuse -->
-<section class="alphabet-matchup-game-hero mt-6 wow fadeIn">
+<section class="     mt-6 wow fadeIn">
     @if ($errors->has('g-recaptcha-response'))
     <div class="alert alert-danger">
         <strong>{{ $errors->first('g-recaptcha-response') }}</strong>
@@ -13,24 +13,19 @@
 
     <div class="container wow fadeIn" data-wow-delay="0.2s">
         <div class="row">
-            <div class="col-12">
+            <div class="col-6">
                 <div class="alphabet-hero-img-1">
-                    <img src="{{asset('images/case-studies/alphabet-matchup-game/score-image.webp')}}" alt="">
+                    <img src="{{asset('images/case-studies/game-space-advanture/hero-img-1.webp')}} " class='img-fluid' alt="">
                 </div>
             </div>
 
-            <div class="col-12">
+            <div class="col-6">
                 <div class="alphabet-hero-img-2">
-                    <img src="{{asset('images/case-studies/alphabet-matchup-game/hero-img.webp')}}" alt="">
+                    <img src="{{asset('images/case-studies/game-space-advanture/hero-img-2.webp')}}" class='img-fluid' alt="">
                 </div>
             </div>
 
-
-            <div class="col-12">
-                <div class="alphabet-hero-img-3">
-                    <img src="{{asset('images/case-studies/alphabet-matchup-game/hero-box-img.webp')}}" alt=""> 
-                </div>
-            </div>
+ 
         </div>
     </div>
 </section>
@@ -38,7 +33,7 @@
 <!-- End Breadcrumb Area-->
 
 <!--start introduction section  -->
-<section class="alphabet-introduction-section">
+<section class="introduction-section">
     <div class="container mt-6">
         <div class="row">
             <div class="col-md-12">
@@ -49,7 +44,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <h2 class="title">Target <span>Alphabet Match</span></h2>
+                        <h2 class="title">Introduction <span> Astro Buddies</span></h2>
 
                     </div>
                     <div class="offset-md-2 col-md-2 ">
@@ -64,7 +59,7 @@
 
             <div class="col-12 text-center ">
                 <div class="alphabet-introduction-background">
-                    <p>Alphabet Match Up is a cheerful and educational ABC game built to <br> teach young children the basics of letter recognition and phonics <br>. Using colorful puzzles, voice guidance, and matching activities, it <br> creates a joyful space for learning. Kids match uppercase and <br> lowercase letters while hearing their sounds clearly. This fun-first <br> approach supports early literacy and letter-sound connections. <br> It’s a perfect blend of play and foundational skill-building.</p>
+                    <p>Astro Buddies is a gentle, imaginative space-themed mobile <br> game designed by Baby Apps for toddlers and preschoolers <br> aged 2 to 6. With its colorful universe, age-appropriate <br> challenges, and calm visual design, the game introduces <br> young children to early learning concepts through <br> interactive space missions. It’s not just a digital toy — it’s <br> a purposeful learning journey crafted in collaboration <br> with childhood development experts.</p>
                 </div>
 
             </div>

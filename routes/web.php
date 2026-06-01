@@ -160,6 +160,7 @@ Route::get('/case-studies/stitch-and-wash','HomeController@stitchandwashApp');
 Route::get('/case-studies/dantal-app','HomeController@dentalApp');
 Route::get('/case-studies/alejandro-app','HomeController@alejandroApp');
 Route::get('/case-studies/alphabet-matchup-game', 'HomeController@alphabetmatchupGame');
+Route::get('/case-studies/game-space-advanture', 'HomeController@gamespaceAdvanture');
 
 
 Route::get('/social-media-marketing','HomeController@smmApp');

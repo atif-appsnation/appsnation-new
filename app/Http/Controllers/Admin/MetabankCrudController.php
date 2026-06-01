@@ -160,7 +160,7 @@ class MetabankCrudController extends CrudController
                 'semApp' => 'semApp',
                 'seoApp' => 'seoApp',
                 'smmApp' => 'smmApp',
-                'alphabet-game' => 'alphabet-game'
+               
             ],
 
             'allows_null' => false,

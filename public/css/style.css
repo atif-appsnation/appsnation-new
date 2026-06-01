@@ -25600,3 +25600,12 @@ margin-top: 100px;
 /*end project overview section */
 
 /*End alphabet case study  */
+
+
+
+
+
+#game-space-advanture{
+    background: url(../images/case-studies/game-space-advanture/game-space-adventure-background.webp)
+        top center / cover no-repeat;
+}

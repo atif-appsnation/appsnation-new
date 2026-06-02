@@ -3252,9 +3252,9 @@ class HomeController extends Controller
             ]
         );
     }
-     public function graveLoveApp()
+    
+    public function graveLoveApp()
     {
-
         $metatag = Metatag::where('slug', 'graveLoveApp')->get();
         $metatitle = Metatitle::where('slug', 'graveLoveApp')->get();
 
@@ -3266,9 +3266,9 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function bombDefuse()
     {
-
         $metatag = Metatag::where('slug', 'bombDefuse')->get();
         $metatitle = Metatitle::where('slug', 'bombDefuse')->get();
 
@@ -3280,9 +3280,9 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function coupleApp()
     {
-
         $metatag = Metatag::where('slug', 'coupleApp')->get();
         $metatitle = Metatitle::where('slug', 'coupleApp')->get();
 
@@ -3294,9 +3294,9 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function carMechanic()
     {
-
         $metatag = Metatag::where('slug', 'carMechanic')->get();
         $metatitle = Metatitle::where('slug', 'carMechanic')->get();
 
@@ -3311,7 +3311,6 @@ class HomeController extends Controller
     
     public function toySortPuzzle()
     {
-
         $metatag = Metatag::where('slug', 'toySortPuzzle')->get();
         $metatitle = Metatitle::where('slug', 'toySortPuzzle')->get();
 
@@ -3323,9 +3322,9 @@ class HomeController extends Controller
             ]
         );
     }
+
     public function royalrelaxspa()
     {
-
         $metatag = Metatag::where('slug', 'royalrelaxspa')->get();
         $metatitle = Metatitle::where('slug', 'royalrelaxspa')->get();
 
@@ -3338,9 +3337,8 @@ class HomeController extends Controller
         );
     }
     
-     public function Loadboard()
+    public function Loadboard()
     {
-
         $metatag = Metatag::where('slug', 'Loadboard')->get();
         $metatitle = Metatitle::where('slug', 'Loadboard')->get();
 
@@ -3353,9 +3351,8 @@ class HomeController extends Controller
         );
     }
 
-     public function alltraders()
+    public function alltraders()
     {
-
         $metatag = Metatag::where('slug', 'alltraders')->get();
         $metatitle = Metatitle::where('slug', 'alltraders')->get();
 
@@ -3367,9 +3364,9 @@ class HomeController extends Controller
             ]
         );
     }
-     public function stitchandwashApp()
-    {
 
+    public function stitchandwashApp()
+    {
         $metatag = Metatag::where('slug', 'stitchandwash')->get();
         $metatitle = Metatitle::where('slug', 'stitchandwash')->get();
 
@@ -3381,9 +3378,9 @@ class HomeController extends Controller
             ]
         );
     }
- public function alejandroApp()
-    {
 
+    public function alejandroApp()
+    {
         $metatag = Metatag::where('slug', 'alejandro')->get();
         $metatitle = Metatitle::where('slug', 'alejandro')->get();
 
@@ -3395,12 +3392,9 @@ class HomeController extends Controller
             ]
         );
     }
-
-
     
- public function dentalApp()
+    public function dentalApp()
     {
-
         $metatag = Metatag::where('slug', 'dantalapp')->get();
         $metatitle = Metatitle::where('slug', 'dantalapp')->get();
 
@@ -3510,7 +3504,7 @@ class HomeController extends Controller
         );
     }
 
-           public function alphabetmatchupGame()
+    public function alphabetmatchupGame()
     {
 
         $metatag = Metatag::where('slug', 'alphabet-game')->get();
@@ -3524,7 +3518,8 @@ class HomeController extends Controller
             ]
         );
     }
-        public function gamespaceAdvanture()
+
+    public function gamespaceAdvanture()
     {
 
         $metatag = Metatag::where('slug', 'game-space-advanture')->get();
@@ -3537,6 +3532,6 @@ class HomeController extends Controller
                 'metatag' => $metatag,
             ]
         );
-    }
+    }   
 
 }

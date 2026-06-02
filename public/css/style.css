@@ -23,6 +23,7 @@
     --gray-color: #6c757d;
     --gray-color-2: #e9ecef;
     --wheat: #f5deb3;
+    --yellow:#ffda02;
     --dur: 0.15s;
     --delay: 0.15s;
     --radius: 10px;
@@ -25603,9 +25604,39 @@ margin-top: 100px;
 
 
 
-
+/* start game space advanture casestudy */
 
 #game-space-advanture{
     background: url(../images/case-studies/game-space-advanture/game-space-adventure-background.webp)
         top center / cover no-repeat;
+        /* background-size: 100% 60%; */
+
 }
+/* start introduction section */
+.game-space-advanture-introduction-section .introduction-background{
+    background: url('../images/case-studies/game-space-advanture/project-idea-background.webp')top center / cover no-repeat;
+      padding: 100px;
+        background-size: 80% 100%;
+}
+.game-space-advanture-introduction-section .title{
+    color: var(--white-color);
+}
+.game-space-advanture-introduction-section .title span{
+    color: var(--yellow);
+}
+.game-space-advanture-introduction-section p{
+    color: var(--white-color);
+      line-height: 55px;
+    font-weight: 800;
+}
+
+/* end introduction section */
+
+
+/* start project idea section */
+
+/* end project idea section */
+
+
+
+/* end game space advanture casestudy */

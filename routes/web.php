@@ -151,7 +151,7 @@ Route::get('/case-studies/mike-mathis-app','HomeController@mikeMathisApp');
 Route::get('/case-studies/grave-love-app','HomeController@graveLoveApp');
 Route::get('/case-studies/bomb-defuse-app','HomeController@bombDefuse');
 Route::get('/case-studies/couple-app','HomeController@coupleApp');
-Route::get('/case-studies/car-mechanic-app','HomeController@carMechanic');
+Route::get('/case-studies/car-mechanic-app','HomeController@carMechanic');  
 Route::get('/case-studies/toy-sort-puzzle','HomeController@toySortPuzzle');
 Route::get('/case-studies/royal-relax-spa','HomeController@royalrelaxspa');
 Route::get('/case-studies/load-board','HomeController@Loadboard');

@@ -1,5 +1,3 @@
-/* Version: 1.3 | Last updated: 14-03-2026 */
-
 @media screen and (max-width: 1920px) and (min-width: 992px) {
     .dropdown:hover > .dropdown-menu {
         display: block;
@@ -4875,6 +4873,17 @@
         height: 40vh;
         /* Adjust height further for smaller viewport */
     }
+
+    
+
+      /* start game space advanture  casestudy */
+      .game-space-advanture-introduction-section .introduction-background{
+        padding: 70px;
+      }
+    .game-space-advanture-introduction-section p{
+        font-size: 10px;
+    }
+    /* end game space advanture  casestudy */
 }
 
 @media (max-width: 991.98px) {
@@ -6096,6 +6105,24 @@
         font-weight: 800;
         font-size: 24px;
     }
+
+    
+    /* START alphabet GAME casestudy */
+    .alphabet-introduction-background p{
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .alphabet-introduction-background{
+        padding: 50px;
+    }
+    /* end alphabet GAME casestudy */
+
+      /* start game space advanture  casestudy */
+    .game-space-advanture-introduction-section p{
+        line-height: 30px;
+    }
+    /* end game space advanture  casestudy */
+    
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -6220,6 +6247,25 @@
         font-weight: 800;
         font-size: 12px;
     }
+
+
+    /* START alphabet GAME casestudy */
+    .alphabet-introduction-background p{
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .alphabet-introduction-background{
+        padding: 50px;
+    }
+    /* end alphabet GAME casestudy */
+
+
+    /* start game space advanture  casestudy */
+    .game-space-advanture-introduction-section p{
+        line-height: 30px;
+    }
+    /* end game space advanture  casestudy */
+    
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {

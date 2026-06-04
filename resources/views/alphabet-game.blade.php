@@ -28,7 +28,7 @@
 
             <div class="col-12">
                 <div class="alphabet-hero-img-3">
-                    <img src="{{asset('images/case-studies/alphabet-matchup-game/hero-box-img.webp')}}" alt=""> 
+                    <img src="{{asset('images/case-studies/alphabet-matchup-game/hero-box-img.webp')}}" alt="">
                 </div>
             </div>
         </div>
@@ -264,7 +264,7 @@
                         </div>
                     </div>
                     <div class="col-4">
-                        <h2 class="title">Gameplay  <span>Mechanics</span></h2>
+                        <h2 class="title">Gameplay <span>Mechanics</span></h2>
 
                     </div>
                     <div class="offset-2 col-2 ">
@@ -318,12 +318,12 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="row">
-                    
+
 
                     <div class=" col-md-6 ">
 
                         <div class=" d-flex" data-wow-delay="0.6s">
-                            <h2 class="title">Key  <span>Features</span></h2>
+                            <h2 class="title">Key <span>Features</span></h2>
 
                         </div>
                     </div>
@@ -338,7 +338,7 @@
 
         </div>
         <div class="row d-flex justify-content-space-between align-items-center">
-             <div class="col-md-12 col-lg-6 text-center ">
+            <div class="col-md-12 col-lg-6 text-center ">
                 <div class="alphabet-introduction-background">
                     <p>The main objective was to support early literacy<br> by reinforcing phonemic awareness through <br>interactive gameplay. The app helps children connect<br> spoken sounds to written symbols in a way that's fun and memorable.<br> By encouraging exploration and repetition,<br> it builds confidence in recognizing and using letters.<br> The game also introduces reading basics without overwhelming<br> young minds. It makes alphabet learning feel <br>like a natural discovery process.</p>
                 </div>
@@ -349,25 +349,25 @@
                 <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/key-features-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
 
             </div>
-           
+
         </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="row">
 
                     <div class=" col-6  ">
-                         <div class="imageFloteLeft wow " data-wow-delay="0.6s">
+                        <div class="imageFloteLeft wow " data-wow-delay="0.6s">
                             <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/perrot.webp')}}" alt="Duck Toy">
                         </div>
-                        
+
                     </div>
                     <div class=" col-4">
 
-                    <div class=" d-flex" data-wow-delay="0.6s">
-                            <h2 class="title">Solution  <span>Delivered</span></h2>
+                        <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Solution <span>Delivered</span></h2>
 
                         </div>
-                       
+
                     </div>
 
 
@@ -377,7 +377,7 @@
 
         </div>
         <div class="row d-flex justify-content-space-between align-items-center">
-             <div class="col-md-12 col-lg-6">
+            <div class="col-md-12 col-lg-6">
 
                 <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/solution-delivered-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
 
@@ -388,19 +388,19 @@
                 </div>
 
             </div>
-           
-        </div>
-       
 
-          <div class="row">
+        </div>
+
+
+        <div class="row">
             <div class="col-md-12">
                 <div class="row">
-                    
+
 
                     <div class="offset-2 col-4 ">
 
                         <div class=" d-flex" data-wow-delay="0.6s">
-                            <h2 class="title">Learning   <span>Objectives</span></h2>
+                            <h2 class="title">Learning <span>Objectives</span></h2>
 
                         </div>
                     </div>
@@ -417,7 +417,7 @@
 
 
         <div class="row d-flex justify-content-space-between align-items-center">
-             <div class="col-md-12 col-lg-6 text-center ">
+            <div class="col-md-12 col-lg-6 text-center ">
                 <div class="alphabet-introduction-background">
                     <p>The main objective was to support early literacy<br> by reinforcing phonemic awareness through <br>interactive gameplay. The app helps children connect<br> spoken sounds to written symbols in a way that's fun and memorable.<br> By encouraging exploration and repetition,<br> it builds confidence in recognizing and using letters.<br> The game also introduces reading basics without overwhelming<br> young minds. It makes alphabet learning feel <br>like a natural discovery process.</p>
                 </div>
@@ -428,25 +428,25 @@
                 <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/learning-objectives-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
 
             </div>
-           
+
         </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="row">
 
                     <div class=" col-6  ">
-                         <div class="imageFloteLeft wow " data-wow-delay="0.6s">
+                        <div class="imageFloteLeft wow " data-wow-delay="0.6s">
                             <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/girl.webp')}}" alt="Duck Toy">
                         </div>
-                        
+
                     </div>
                     <div class=" col-6">
 
-                    <div class=" d-flex" data-wow-delay="0.6s">
-                            <h2 class="title">Design   <span>Approach</span></h2>
+                        <div class=" d-flex" data-wow-delay="0.6s">
+                            <h2 class="title">Design <span>Approach</span></h2>
 
                         </div>
-                       
+
                     </div>
 
 
@@ -456,7 +456,7 @@
 
         </div>
         <div class="row d-flex justify-content-space-between align-items-center">
-             <div class="col-md-12 col-lg-6">
+            <div class="col-md-12 col-lg-6">
 
                 <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/design-approach-morkup.webp')}}" class="img-fluid" alt="Duck Toy">
 
@@ -467,7 +467,7 @@
                 </div>
 
             </div>
-           
+
         </div>
     </div>
 </section>
@@ -483,7 +483,7 @@
                         </div>
                     </div>
                     <div class="col-4">
-                        <h2 class="title">Result  <span>& Impact </span></h2>
+                        <h2 class="title">Result <span>& Impact </span></h2>
 
                     </div>
                     <div class="offset-2 col-2 ">
@@ -527,22 +527,22 @@
 
             </div>
         </div>
-         <div class="row">
-                    <div class="col-6">
-                        <div class="imageFloteLeft wow " data-wow-delay="0.6s">
-                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/horse-2.webp')}}" alt="Duck Toy">
-                        </div>
-                    </div>
-
-                    <div class="offset-4 col-2 ">
-                        <div class="imageFloteRight wow  d-flex" data-wow-delay="0.6s">
-                            <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/dog.webp')}}" alt="Duck Toy">
-
-                        </div>
-                    </div>
+        <div class="row">
+            <div class="col-6">
+                <div class="imageFloteLeft wow " data-wow-delay="0.6s">
+                    <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/horse-2.webp')}}" alt="Duck Toy">
                 </div>
+            </div>
+
+            <div class="offset-4 col-2 ">
+                <div class="imageFloteRight wow  d-flex" data-wow-delay="0.6s">
+                    <img loading="lazy" src="{{asset('images/case-studies/alphabet-matchup-game/dog.webp')}}" alt="Duck Toy">
+
+                </div>
+            </div>
+        </div>
     </div>
 </section>
- <!-- start result and impact section -->
+<!-- start result and impact section -->
 
 @endsection

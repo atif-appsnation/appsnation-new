@@ -23,7 +23,7 @@
     --gray-color: #6c757d;
     --gray-color-2: #e9ecef;
     --wheat: #f5deb3;
-    --yellow:#ffda02;
+    --yellow: #ffda02;
     --dur: 0.15s;
     --delay: 0.15s;
     --radius: 10px;
@@ -25557,16 +25557,14 @@ textarea::-ms-input-placeholder {
         top center / cover no-repeat;
 }
 
-
 .alphabet-introduction-section .title,
-.project-overview-section .title{
-margin-top: 100px;
+.project-overview-section .title {
+    margin-top: 100px;
     color: var(--black-color);
-    span{
+    span {
         color: var(--orange-color);
     }
 }
-
 
 .alphabet-introduction-background {
     background: url(../images/case-studies/alphabet-matchup-game/indroduction-background-img.png)
@@ -25586,13 +25584,11 @@ margin-top: 100px;
 }
 /*end alphabet introduction section   */
 
-
 /*start project overview section */
-.project-overview-section{
-     background: url(../images/case-studies/alphabet-matchup-game/alphabet-matchup-background-2.png)
+.project-overview-section {
+    background: url(../images/case-studies/alphabet-matchup-game/alphabet-matchup-background-2.png)
         top center / cover no-repeat;
 }
-
 
 .project-overview-section .imageFloteLeft img,
 .imageFloteRight img {
@@ -25602,41 +25598,165 @@ margin-top: 100px;
 
 /*End alphabet case study  */
 
-
-
 /* start game space advanture casestudy */
 
-#game-space-advanture{
+#game-space-advanture {
     background: url(../images/case-studies/game-space-advanture/game-space-adventure-background.webp)
         top center / cover no-repeat;
-        /* background-size: 100% 60%; */
-
+    /* background-size: 100% 60%; */
 }
 /* start introduction section */
-.game-space-advanture-introduction-section .introduction-background{
-    background: url('../images/case-studies/game-space-advanture/project-idea-background.webp')top center / cover no-repeat;
-      padding: 100px;
-        background-size: 80% 100%;
+.game-space-advanture-introduction-section .introduction-background {
+    background: url("../images/case-studies/game-space-advanture/project-idea-background.webp")
+        top center / cover no-repeat;
+    padding: 100px;
+    background-size: 80% 100%;
 }
-.game-space-advanture-introduction-section .title{
+.game-space-advanture-introduction-section .title {
     color: var(--white-color);
 }
-.game-space-advanture-introduction-section .title span{
+.game-space-advanture-introduction-section .title span {
     color: var(--yellow);
 }
-.game-space-advanture-introduction-section p{
+.game-space-advanture-introduction-section p {
     color: var(--white-color);
-      line-height: 55px;
+    line-height: 55px;
     font-weight: 800;
 }
 
 /* end introduction section */
-
-
-/* start project idea section */
-
-/* end project idea section */
-
-
-
 /* end game space advanture casestudy */
+
+/* start fruit puzzle game casestudy */
+#fruit-puzzle-game {
+    background: url("../images/case-studies/fruit-puzzle-game/full-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+}
+/* start fruit puzzle game hero section*/
+.fruit-puzzle-game-hero {
+    background: url("../images/case-studies/fruit-puzzle-game/hero-backgound.webp")
+        top center / cover no-repeat;
+    padding: 100px;
+}
+.fruit-puzzle-game-hero .fruit-puzzle-hero-img-1 img,
+.fruit-puzzle-game-hero .fruit-puzzle-hero-img-3 img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 400px;
+}
+.fruit-puzzle-game-hero .fruit-puzzle-hero-img-2 img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+}
+/* end fruit puzzle game hero section*/
+
+/* start fruit puzzle game intrduction section*/
+.fruit-puzzle-game-intrduction-section .introduction-image img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 430px;
+}
+
+.fruit-puzzle-game-intrduction-section .alphabet-introduction-background {
+    background: url("../images/case-studies/fruit-puzzle-game/box-background.webp")
+        top center / cover no-repeat;
+    background-size: 80% 100%;
+    padding: 32px;
+}
+
+.fruit-puzzle-game-intrduction-section .title h2 {
+    color: var(--white-color);
+}
+.fruit-puzzle-game-intrduction-section .title h2 span {
+    color: var(--red-color);
+}
+/* end fruit puzzle game intrduction section*/
+
+/* start fruit puzzle game  player feedback section section*/
+.player-feedback-section {
+    background: url("../images/case-studies/fruit-puzzle-game/player-feedback-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+}
+.player-feedback-title .title {
+    color: var(--white-color);
+    font-weight: 800;
+    span {
+        color: var(--red-color);
+    }
+}
+.player-feedback-section .player-feedback-image img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1030px;
+}
+/* end fruit puzzle game  player feedback section section*/
+
+/* start fruit puzzle game result and impact section */
+.fruit-puzzle-game-result-and-impact-section .result-and-impact-wrapper {
+    background: url("../images/case-studies/fruit-puzzle-game/result-and-impact-backgound.webp")
+        top center / cover no-repeat;
+    padding: 100px;
+    background-size: 80% 100%;
+}
+
+.fruit-puzzle-game-result-and-impact-section h2,
+.fruit-puzzle-game-result-and-impact-section p {
+    color: var(--white-color);
+}
+.fruit-puzzle-game-result-and-impact-section p {
+    margin-top: 20px;
+}
+/* end fruit puzzle game result and impact section */
+
+.fruit-puzzle-game-lastmorkup {
+    background: url("../images/case-studies/fruit-puzzle-game/last-morkup-background.webp")
+        top center / cover no-repeat;
+    padding: 100px;
+    background-size: 100% 100%;
+}
+.fruit-puzzle-game-lastmorkup .fruit-puzzle-game-lastmorkup-image-1,
+.fruit-puzzle-game-lastmorkup .fruit-puzzle-game-lastmorkup-image-3 {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+    margin-top: 80px;
+}
+/* end fruit puzzle game casestudy */
+
+/* start spot the wrong one casestudy */
+#spot-the-worng-one {
+    background: url("../images/case-studies/spot-the-wrong-one/spot-the-wrong-one-full-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+}
+/* start spot the wrong one hero section */
+.spot-the-wrong-one-hero {
+    background: url("../images/case-studies/spot-the-wrong-one/hero-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 100px;
+}
+.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-1 img,
+.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-2 img,
+.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-3 img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+}
+.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-2 img{
+    margin-top:91px;
+}
+
+
+/* end spot the wrong one hero section */
+/* end spot the wrong one casestudy */

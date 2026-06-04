@@ -189,13 +189,17 @@ class MetatitleCrudController extends CrudController
                 'boujeeBeachinApp' => 'boujeeBeachinApp',
                 'woodLandApp' => 'woodLandApp',
                 'neuroKnightsApp' => 'neuroKnightsApp',
-                       "dantalapp"=> "dantalapp",
-                       "alejandro"=> "alejandro",
+                "dantalapp" => "dantalapp",
+                "alejandro" => "alejandro",
                 'semApp' => 'semApp',
                 'seoApp' => 'seoApp',
                 'smmApp' => 'smmApp',
                 'alphabet-game' => 'alphabet-game',
                 'game-space-advanture' => 'game-space-advanture',
+                'fruits-puzzle' => 'fruits-puzzle',
+                'spot-the-wrong-one' => 'spot-the-wrong-one',
+
+
 
             ],
 

@@ -3533,5 +3533,33 @@ class HomeController extends Controller
             ]
         );
     }   
+    public function fruitspuzzleGame()
+    {
+
+        $metatag = Metatag::where('slug', 'fruits-puzzle')->get();
+        $metatitle = Metatitle::where('slug', 'fruits-puzzle')->get();
+
+        return view(
+            'fruits-puzzle',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }   
+    public function spottheworngoneGame()
+    {
+
+        $metatag = Metatag::where('slug', 'spot-the-wrong-one')->get();
+        $metatitle = Metatitle::where('slug', 'spot-the-wrong-one')->get();
+
+        return view(
+            'spot-the-wrong-one',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }   
 
 }

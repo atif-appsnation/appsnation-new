@@ -196,6 +196,8 @@ class MetatagCrudController extends CrudController
                 'smmApp' => 'smmApp',
                 'alphabet-game' => 'alphabet-game',
                 'game-space-advanture' => 'game-space-advanture',
+                'fruits-puzzle' => 'fruits-puzzle',
+                'spot-the-wrong-one' => 'spot-the-wrong-one',
 
             ],
 

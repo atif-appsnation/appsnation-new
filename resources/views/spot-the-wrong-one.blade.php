@@ -10,30 +10,27 @@
         <strong>{{ $errors->first('g-recaptcha-response') }}</strong>
     </div>
     @endif
-
-    <div class="container wow fadeIn" data-wow-delay="0.2s">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="spot-the-wrong-one-hero-img-1">
-                    <img src="{{asset('images/case-studies/spot-the-wrong-one/girl.webp')}} " class='img-fluid' alt="">
-                </div>
+<div class="container wow fadeIn" data-wow-delay="0.2s">
+    <div class="row">
+        <div class="col-12 col-md-4">
+            <div class="spot-the-wrong-one-hero-img-1">
+                <img src="{{ asset('images/case-studies/spot-the-wrong-one/girl.webp') }}" class="img-fluid" alt="">
             </div>
+        </div>
 
-            <div class="col-md-4 ">
-                <div class="spot-the-wrong-one-hero-img-2">
-                    <img src="{{asset('images/case-studies/spot-the-wrong-one/play-1.webp')}}" class='img-fluid pt-5' alt="">
-                </div>
+        <div class="col-12 col-md-4">
+            <div class="spot-the-wrong-one-hero-img-2">
+                <img src="{{ asset('images/case-studies/spot-the-wrong-one/play-1.webp') }}" class="img-fluid pt-md-5" alt="">
             </div>
+        </div>
 
-            <div class="col-md-4">
-                <div class="spot-the-wrong-one-hero-img-3">
-                    <img src="{{asset('images/case-studies/spot-the-wrong-one/boy-1.webp')}}" class='img-fluid' alt="">
-                </div>
+        <div class="col-12 col-md-4">
+            <div class="spot-the-wrong-one-hero-img-3">
+                <img src="{{ asset('images/case-studies/spot-the-wrong-one/boy-1.webp') }}" class="img-fluid" alt="">
             </div>
-
-
         </div>
     </div>
+</div>
 </section>
 
 <!-- End Breadcrumb Area-->

@@ -98,6 +98,9 @@
 			<li class="nav-item ms-2">
 				<a class="nav-link active" data-bs-toggle="-" href="?a=Web">Web</a>
 			</li>
+			<li class="nav-item ms-2">
+				<a class="nav-link active" data-bs-toggle="-" href="?a=game">game</a>
+			</li>
 		</ul>
 		<div class="tab-content mt-5 wow fadeIn">
 			<div class="tab-pane active">

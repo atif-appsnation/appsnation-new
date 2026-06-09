@@ -167,3 +167,5 @@ Route::get('/search-engine-marketing','HomeController@semApp');
 Route::get('/case-studies/alejandro-app','HomeController@alejandroApp');
 Route::get('/case-studies/fruits-puzzle-game','HomeController@fruitspuzzleGame');
 Route::get('/case-studies/spot-the-worng-one','HomeController@spottheworngoneGame');
+Route::get('/case-studies/math-genius','HomeController@mathgeniusGame');
+Route::get('/case-studies/match-the-shape','HomeController@matchtheshapeGame');

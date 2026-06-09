@@ -25747,16 +25747,167 @@ textarea::-ms-input-placeholder {
 }
 .spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-1 img,
 .spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-2 img,
-.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-3 img{
+.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-3 img {
     display: block;
     margin: 0 auto;
     width: 100%;
     max-width: 300px;
 }
-.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-2 img{
-    margin-top:91px;
+.spot-the-wrong-one-hero .spot-the-wrong-one-hero-img-2 img {
+    margin-top: 91px;
 }
-
 
 /* end spot the wrong one hero section */
 /* end spot the wrong one casestudy */
+
+/* start math genius casestudy  */
+
+/* start math genius hero section */
+.math-genius-hero-section {
+    background: url("../images/case-studies/math-genius/hero-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 100px;
+}
+
+.math-genius-hero-section .math-genius-logo img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 500px;
+}
+/* end math genius hero section */
+
+/*start math genius introduction section */
+.math-genius-introduction-section {
+    background: url("../images/case-studies/math-genius/background.webp") top
+        center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 50px;
+}
+.math-genius-introduction-section h2.title span,
+.math-genius-introduction-section p span {
+    color: var(--red-color);
+}
+/*end math genius introduction section */
+
+/* start game mode section */
+.game-mode-section {
+    background: url("../images/case-studies/math-genius/game-mode-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 50px;
+}
+
+.game-mode-section h2.title {
+    color: var(--white-color);
+    border: 4px double white;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.game-mode-section h2.title span {
+    color: var(--yellow);
+}
+/* END game mode section */
+
+/* start select theme section */
+.game-mode-section.theme {
+    background: url("../images/case-studies/math-genius/select-theme-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 50px;
+}
+/* END select theme section */
+
+/* start Game Play Screen section */
+.game-mode-section.play-game {
+    background: url("../images/case-studies/math-genius/game-play-2-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 50px;
+}
+/* END Game Play Screen section */
+
+/* start Choose Math Clash  section  */
+.game-mode-section.math-clash {
+    background: url("../images/case-studies/math-genius/math-clash-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 50px;
+}
+/* end Choose Math Clash  section  */
+
+/* start result-and-impact section  */
+.game-mode-section.result-and-impact {
+    background: url("../images/case-studies/math-genius/result-and-impact-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+
+    padding: 50px;
+}
+.game-mode-section.result-and-impact h2.title {
+    color: var(--black-color);
+    border: none;
+}
+.game-mode-section.result-and-impact h2.title span {
+    color: var(--red-color);
+}
+.game-mode-section.result-and-impact .result-img-1 img,
+.game-mode-section.result-and-impact .result-img-2 img,
+.game-mode-section.result-and-impact .result-img-3 img{
+      display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 500px;
+}
+.game-mode-section.result-and-impact .result-img-1 img,
+.game-mode-section.result-and-impact .result-img-3 img{
+    margin-top: 220px;
+}
+
+/* end  result-and-impact section  */
+
+/* start math genius casestudy  */
+
+
+/* start match the shape case study*/
+#match-the-shape{
+     background: url("../images/case-studies/match-the-shap/background.webp")
+        top center / cover no-repeat;
+}
+
+/*start match the shape hero section */
+.match-the-shape-hero {
+      background: url("../images/case-studies/match-the-shap/hero-background.webp")
+        top center / cover no-repeat;
+    background-size: 100% 100%;
+    padding: 100px;
+}
+.match-the-shape-hero img{
+     display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+}
+/*end match the shape hero section */
+
+/* start match the shape introduction section  */
+.match-the-shape-introduction-section .introduction-background{
+    margin: 100px 0 100px 0;
+}
+.match-the-shape-introduction-section .title,
+.match-the-shape-introduction-section p{    
+    color: var(--white-color);
+}
+.match-the-shape-introduction-section .title span,
+.match-the-shape-introduction-section p span{    
+    color: var(--yellow);
+}
+/* end match the shape introduction section  */
+/* end match the shape case study*/

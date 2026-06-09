@@ -3561,5 +3561,33 @@ class HomeController extends Controller
             ]
         );
     }   
+    public function mathgeniusGame()
+    {
+
+        $metatag = Metatag::where('slug', 'math-genius')->get();
+        $metatitle = Metatitle::where('slug', 'math-genius')->get();
+
+        return view(
+            'math-genius',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }   
+    public function matchtheshapeGame()
+    {
+
+        $metatag = Metatag::where('slug', 'match-the-shape')->get();
+        $metatitle = Metatitle::where('slug', 'match-the-shape')->get();
+
+        return view(
+            'match-the-shape',
+            [
+                'metatitle' => $metatitle,
+                'metatag' => $metatag,
+            ]
+        );
+    }   
 
 }

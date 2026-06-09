@@ -198,6 +198,8 @@ class MetatagCrudController extends CrudController
                 'game-space-advanture' => 'game-space-advanture',
                 'fruits-puzzle' => 'fruits-puzzle',
                 'spot-the-wrong-one' => 'spot-the-wrong-one',
+                'math-genius' => 'math-genius',
+                'match-the-shape' => 'match-the-shape',
 
             ],
 
